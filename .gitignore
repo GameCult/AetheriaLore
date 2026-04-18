@@ -16,3 +16,4 @@ Thumbs.db
 /.obsidian/plugins/copilot
 /copilot-conversations
 /copilot-custom-prompts
+/.rag/

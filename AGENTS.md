@@ -55,6 +55,16 @@ This repository is an Obsidian vault for the Aetheria setting. Contributions sho
 - Consider how class, labor, governance, identity, colonial dynamics, media, and infrastructure mediate the effects of any technology or social system added to the setting.
 - Prefer writing that reveals contradiction, contingency, and historical development over writing that treats the world as static.
 
+## Vault Navigation
+
+- Default to the local RAG tool for vault discovery and concept navigation before broad manual searching.
+- From the repository root, use `./scripts/rag/rag.ps1 query "<topic or question>"` to locate the most relevant notes and sections quickly.
+- Use `./scripts/rag/rag.ps1 stats` to confirm the index exists and covers the current vault.
+- If the index is missing, dependencies are not installed, or the vault has changed substantially since the last build, run `./scripts/rag/rag.ps1 install` and then `./scripts/rag/rag.ps1 build`.
+- Treat RAG as the default navigation layer, but still open and read the returned notes directly before making substantial edits.
+- Prefer `rg` or direct file reads when you need exact filename matching, exact string matching, or repository-wide regex searches that semantic retrieval may miss.
+- Run `build` and `query` one at a time; local Qdrant locks the on-disk store while a command is active.
+
 ## Editing Guidance For Future Agents
 
 - Read adjacent notes before making substantial additions so new material matches local vocabulary and structure.
