@@ -1,4 +1,5 @@
-*Truth’s optional, darling*
+*"Control the frame, and the crowd will build its own cage."*
 
-[[Lucent Media]]’s elite media creators, designing realities to manipulate the public.
-Crafts the coalition’s propaganda and cultural output.
+The [[Reality Architects]] are the designers, editors, predictive dramaturges, and perception engineers who make [[Lucent Media]] more than an entertainment company. They do not simply tell stories. They tune the conditions under which stories become socially persuasive.
+
+Their work sits at the center of late-Sol ideology because they turn emotion into governance. If a population's fears, aspirations, scandals, and redemption arcs can be choreographed, direct coercion becomes cheaper.

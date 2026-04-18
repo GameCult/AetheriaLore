@@ -1,39 +1,24 @@
-## 2100–2250
-### [[Artificial General Intelligence]] (AGI)
+## 2100-2250
 
-Key Players: [[CogniSys]], with [[Rossum & Douglas]] as a reliable fallback, and [[Orbital Forge]]’s rogue AI labs.
+The [[Age of Automation]] is when late-Sol capitalism solves many engineering bottlenecks and makes its social contradictions far worse. Productivity explodes. So does the number of people and near-people whose survival depends on systems they do not control.
 
-[[CogniSys]] deploys AGIs by 2105 for colony management and dissent control, using [[Rossum & Douglas]] hardware for stability and Cryonix superconductors for faster processing. [[Orbital Forge]] hacks [[CogniSys]] tech by 2120, creating anarchic AGIs—some form digital enclaves by 2200, occasionally hired by [[Lightsail Express]] for logistics despite their unreliability.
+### Governable Intelligence
 
-[[Cryonix]], founded in 2140, emerges as a leader in advanced superconductors, supplying zero-resistance materials to [[CogniSys]] for AGI cooling systems, boosting computational efficiency by 25%. [[Orbital Forge]] pirates [[Cryonix]] tech by 2150, creating jailbroken superconductor variants for black market applications.
-#### Cultural Impact
+[[CogniSys]] commercializes AGI after Jian Osakwe's scarcity-model research is repackaged as a management product. These systems begin by optimizing logistics, traffic control, and predictive maintenance. They quickly expand into labor scheduling, risk scoring, and political monitoring because every employer learns the same lesson: a machine that can anticipate equipment failure can also anticipate dissent.
 
-Technocrats praise [[CogniSys]]’s order, "Free Minds" back [[Orbital Forge]]’s chaos, and the [[Aya Collective]] fears humanity’s eclipse, sparking unrest. [[Lucent Media]] broadcasts the divide as entertainment.
-### [[Genetic Enhancement]]
+[[Rossum & Douglas]] profits by selling the safe, legible alternative. [[Orbital Forge]] profits by pirating and destabilizing those same systems in frontier settings where adaptability matters more than legal compliance. [[Cryonix]] becomes indispensable because dense computation, neural bandwidth, and later high-energy propulsion all depend on its thermal and superconducting advances.
 
-Key Players: [[GeneSys]], with [[VitaForge]]’s mass-market tweaks and [[Zhestokost]]’s militarized enhancements.
+### Industrial Biology
 
-[[GeneSys]] perfects elite enhancements by 2150—longevity, genius IQs—for the rich. [[VitaForge]] exploits leaked technology to create [[Biodrone]]s. [[Zhestokost]] enhances soldiers, aligning with [[GeneSys]]’s Ascended Caste.
-#### Cultural Impact
+If AGI reorganizes administration, genetics reorganizes labor and class. [[GeneSys]] markets longevity, cognition, and reproductive filtering to elites who increasingly treat their own children as portfolio projects. [[VitaForge]] pushes the same toolchain downward into engineered labor organisms, and by the 2180s [[Biodrone]] design has become a routine part of mining, agriculture, salvage, and entertainment.
 
-[[GeneSys]]’s [[Ascended Caste]] dominates, [[VitaForge]]’s "Gene Commons" empower the [[Baseline League]]—backed by [[Aya Collective]]. [[Cetacean Navigators]] adopt eugenics, while [[Elephant Enclave]] and [[Aya Collective]] reject it. [[Lucent Media]] broadcasts the divide as a reality show.
-### [[Biodrone]] Engineering
+The argument over biology is never just moral. It is economic. Can a corporation grow workers instead of bargaining with them? Can soldier-lines be tuned for obedience? Can inherited wealth become inherited capability? The movements that later crystallize as [[Gene Commons]], [[Bio-Purists]], [[Species Controllers]], and the [[Awakened Labor Front]] all begin as answers to those questions.
 
-Key Players: [[VitaForge]], with [[SolEx]] adaptations and [[Corriedales]]’ entertainment spin.
+### The Need For A Referee
 
-[[VitaForge]] introduced [[Biodrone]]s in 2180—genetically engineered laborers with suppressed cognition. [[SolEx]] tweaks them by 2230 for harsh conditions, while [[Corriedales]] adapts them for gladiatorial spectacles, branding them “joyful sacrifices.”
-#### Cultural Impact
+The pace of expansion, sabotage, patent war, and proxy conflict eventually threatens profits badly enough that the major firms assemble the [[Pan-Solar Consortium]] in 2230. The PSC is not a government in the old sense. It is a shared enforcement shell built to prevent total market breakdown while preserving corporate sovereignty. It standardizes sanctions, corridors, escrow, and later conflict permitting.
 
-[[VitaForge]]’s "[[Bio-Purists]]" feud with [[SolEx]]’s "[[Pragmatists]]." The [[Sentience Rebellion]], covertly aided by [[Aya Collective]] hackers, births the "[[Awakened Labor Front]]." [[Lucent Media]] sensationalizes the conflict.
-### Corporate Consolidation
+That compromise changes the scale of everything. Once major powers believe total war can be constrained, they become more willing to escalate everything short of total war. The late-Sol order survives longer because it learns how to meter destruction instead of abolishing the incentives that produce it.
 
-The [[Pan-Solar Consortium]] formed in 2230 to mediate, with [[NiteLife Energy]], [[Ewan Hart]]., and [[Cryonix]] as key stakeholders. [[AstroDyne]] and [[Orbital Forge]] evade control, thriving on black-market tech.
-
-The [[Pan-Solar Consortium]] establishes its headquarters on Mars, a neutral hub amidst growing lunar and asteroid colonies. Small outposts emerge in major trade hubs like Luna City and asteroid belt stations, staffed by bureaucrats and detachments of [[Private Military Contractors]]. It begins enforcing conflict permits, with a minimal presence focused on arbitration and surveillance via satellite networks.
-### Cultural Upheaval
-
-The "Automation Divide" grows, with [[Framgång]] selling overpriced gear to tech-elites and displaced workers alike, muddying the debate with vague “well-being” rhetoric.
-
-
-### Previously: [[Corporate Exodus]] 2025–2100
-### Next: [[Identity Crisis]] 2100–2250
+### Previously: [[Corporate Exodus]] - 2025-2100
+### Next: [[Identity Crisis]] - 2250-2500

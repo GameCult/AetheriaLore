@@ -1,0 +1,3 @@
+Late-Sol technology is often constrained less by raw power than by where the waste heat goes. [[Thermal Management]] becomes a decisive field because dense computation, high-bandwidth implants, compact fusion systems, superconducting infrastructure, and advanced propulsion all fail catastrophically when heat cannot be moved, stored, or dumped fast enough.
+
+This is why firms like [[Cryonix]] become so important. Better thermal sinks and lattice materials do not just improve efficiency. They decide which technologies can leave the lab, which habitats can support intensive industry, and which factions can field reliable high-performance systems instead of dangerous prototypes. In Aetheria, heat is politics wearing the mask of engineering.

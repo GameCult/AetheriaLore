@@ -20,6 +20,7 @@ This repository is an Obsidian vault for the Aetheria setting. Contributions sho
 - Treat the setting as materially grounded: economics, ideology, infrastructure, labor, warfare, governance, class power, and technological constraints should feel causally connected.
 - Keep speculative elements legible by anchoring them in social, political, or physical consequences.
 - Use vivid phrasing when appropriate, but avoid empty flourish that does not add setting information, mood, or ideological texture.
+- Use evocative emotional language when it sharpens the reader's sense of lived experience inside a system. A good phrase can crystallize how a regime feels from within, especially around labor, desire, status, fear, debt, or the false promise of escape.
 - Maintain internal consistency with existing terminology, institutions, factions, and timeline beats.
 
 ## Tone
@@ -44,6 +45,7 @@ This repository is an Obsidian vault for the Aetheria setting. Contributions sho
 - Ask of each addition: what pressures produced this, who benefits, who is constrained, what contradictions does it create, and how does it interact with other parts of the setting?
 - Be mindful of continuity across Pre-Elysium, Post-Elysium, politics, technology, and factional history.
 - When possible, connect abstract concepts to institutions, everyday life, and conflict.
+- For factions and territories, make daily routines, currencies, status traps, family structures, and life-cycle expectations palpable and distinct. A reader should be able to imagine childhood, work, aspiration, compromise, aging, and failure under each system.
 
 ## Cultural And Historical Guidance
 

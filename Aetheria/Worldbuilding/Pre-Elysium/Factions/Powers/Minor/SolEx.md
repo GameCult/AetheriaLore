@@ -1,9 +1,5 @@
-*If you dig deep enough you can even bury your dreams*
+*"Count the tons, count the shifts, count the dead later."*
 
-A corporate powerhouse born in 2095 from Horizon Ventures and TerraCore Industries, focused on asteroid mining and lunar colonies, with a pragmatic, industrial ethos.
-  
-SolEx leads with resource extraction expertise, Bio-Purists enforce biological orthodoxy, and Pragmatists prioritize practical stability.
+[[SolEx]] is the foundational extraction bureaucracy of late Sol, born from the merger of [[Horizon Ventures]] transport infrastructure with [[TerraCore Industries]] mining and life-support administration. It governs through throughput, audit, and contract inheritance.
 
-### Alliances
-[[Bio-Purists]] - Resists biodrone tweaks, aligning with SolEx’s practical focus
-[[Pragmatists]] - Active here for resource-driven stability
+Before [[Sol Dominion]] turned hierarchy into explicit doctrine, SolEx had already taught much of the solar economy to think in those terms. It treats worlds, habitats, labor pools, and transport corridors as linked inventories to be optimized and defended.

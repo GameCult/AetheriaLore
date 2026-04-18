@@ -1,9 +1,5 @@
-*Cool Precision, Hot Ambition*
+*"Heat is just ambition looking for a place to die."*
 
-A cutting-edge faction innovating in advanced superconductors, driving efficiency across propulsion, cybernetics, and computing, with a sleek, tech-savvy ethos.
-  
-Cryonix leads with superconductor expertise, forging alliances with tech-reliant factions for mutual gain.
-  
-### Alliances
-[[Free Minds]] - Supports Cryonix’s experimental edge, akin to Orbital Forge’s ethos
-[[Enhancement Liberals]] - Values Cryonix’s tech for uplift autonomy, overlapping with Finch
+[[Cryonix]] is an enabling power disguised as a materials firm. Its superconductors, thermal sinks, and high-density lattice stacks make advanced compute, neural bandwidth, propulsion control, and fine-grained augmentation economically practical.
+
+That leverage keeps Cryonix politically nimble. Rivals who despise one another still need its components. Every major bloc in Sol would prefer Cryonix to be loyal, and none can quite afford for it to become irreplaceable enough to act like a sovereign power in its own right.

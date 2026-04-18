@@ -1,52 +1,96 @@
-*People will do anything for the adulation or loathing of their peers. We at Lucent have harnessed that heretofore destructive tendency for the benefit of all.*
+*"If they must live inside a system, make sure they fall in love with the camera angle."*
 
-Lucent Media has successfully weaponized the reality show, to their great benefit and the great chagrin of everyone else who has to deal with them. "Life is a game, so make sure you're the winner" is the message drilled into the consciousness of its audience from their first cell division. It is safest to assume everything one does in the sectors controlled by Lucent is being recorded, and, if sufficiently interesting or embarrassing, being broadcast to the entire blast radius of a supernova.
+[[Lucent Media]] is the mega that turned attention into sovereignty. It began as a merger stack of entertainment platforms, ad-tech brokers, behavioral analytics firms, and celebrity management houses, then evolved into something much larger: a power that governs by deciding what counts as visible, desirable, scandalous, shameful, aspirational, and memorable.
 
-A coalition manipulating culture and perception through tailored media and entertainment, with a glossy, consumerist aesthetic that hides its controlling nature.
+Lucent does not simply distract people from politics. It metabolizes politics into content. Under its rule, dissent becomes a season arc, intimacy becomes monetizable telemetry, and selfhood becomes a brand format maintained under constant public pressure. It is one of the most socially invasive powers in the setting precisely because it often feels less like censorship than like permission to be seen.
 
-Lucent Media crafts the overarching narrative, maintaining a centralized grip on ideology. [[Alakrita]] caters to elites, [[Corriedales]] targets families, [[EternaMind]] and their [[Immortal Aristocrats]] wield influence from above, while [[Reality Architects]] help shape perception.
+### Historical Lineage
 
-## Culture
-Lucent Media’s culture revolves around one core principle: visibility is power. From birth, citizens—or “stars,” as Lucent prefers—are conditioned to see every moment as an audition. “Life is a game, so make sure you’re the winner” isn’t just a slogan; it’s a survival mantra. Children are handed AR implants and social scoring apps before they can walk, taught to curate their lives for maximum likes, shares, and viral potential. Privacy is a myth—Lucent’s omnipresent cameras, drones, and neural feeds ensure that everything you do is recorded, analyzed, and, if it’s juicy enough, broadcast to billions.
+Lucent emerged during the late [[Corporate Exodus]] and early [[Age of Automation]] from the convergence of streaming empires, neural entertainment firms, and predictive advertising companies that realized the same underlying truth: whoever owns the emotional interface owns the market downstream of it.
 
-Social hierarchy is dictated by “Clout,” a real-time metric of an individual’s influence, charisma, and audience draw. Those with Clout live in glittering orbital studios or arcology penthouses, their every move a performance, while those without toil in obscurity, relegated to menial jobs or edited out of the narrative entirely. Relationships—romantic, familial, professional—are staged for drama; betrayal and reconciliation are scripted by AI directors to keep viewers hooked. Even dissent is co-opted—protests against Lucent are televised as “underdog arcs,” with rebels cast as plucky heroes until they’re either crushed or absorbed into the brand.
+Its early expansion depended on three linked breakthroughs. First, high-bandwidth BCIs made full-sensory entertainment profitable. Second, reputation scoring created a generalized metric for social attention. Third, upload and copy technologies made celebrity continuity a renewable asset rather than a biological accident.
 
-Art and entertainment are indistinguishable from life itself. Lucent’s AI-driven media engines churn out personalized content—holo-dramas, music, even dreams—tailored to exploit individual triggers. Citizens don’t consume media; they live it. Fashion reflects this: garish, ever-changing outfits designed for maximum screen impact, embedded with micro-cameras and haptic feedback to amplify emotional reactions. The ultimate taboo in Lucent society isn’t violence or deceit—it’s being boring.
+Lucent's rise to territorial power did not begin on Venus. It began in orbital broadcast infrastructure around Earth and Luna, where it learned to shape the social weather for populations physically governed by other powers. Only later, through the [[Lagrange Broadcast War]] and the [[Atmospheric Processing Dispute]], did it convert media power into a durable planetary domain.
 
-Lucent’s most devoted citizens worship entertainment itself. Their ultimate aspiration is ascension into Eternals—those who have achieved permanent cultural relevance through constant engagement. These figures have their consciousness backed up across infinite media platforms, ensuring that they remain profitable even in death.
+### Political Logic
 
-## Economy
-Lucent Media’s economy is built on attention, not credits. [[PSCC]] is permitted, but it’s secondary to Buzz, a blockchain-based scrip earned through engagement—likes, views, shares, or starring in a viral moment. Buzz buys everything from food to cybernetic upgrades, but its value fluctuates wildly based on algorithmic trends, ensuring constant competition. Workers aren’t paid wages; they’re paid in exposure, with the promise that enough Buzz will translate into Clout—and maybe wealth. Most never cash out—addictive feedback loops keep them chasing the next hit of fame.
+Lucent's core doctrine is simple: populations are easiest to govern when they experience self-exploitation as performance. Unlike [[Zhestokost]], which disciplines through overt hierarchy, Lucent disciplines through feedback hunger. Citizens are trained to seek validation, fear irrelevance, and voluntarily disclose the raw material from which governance can be assembled.
 
-The corporation’s revenue streams are vast: ad placements in neural feeds, premium subscriptions for unfiltered “raw life” streams, and data sales to other megacorporations. Lucent’s AI analysts predict consumer behavior with uncanny precision, selling insights to firms like [[Finch Cybernetics]] or [[NiteLife Energy]]. Physical products—clothing, tech, biodrones—are secondary, branded with Lucent logos and designed as props for the endless show. Biodrones, marketed as “Audience Amplifiers,” perform stunts or labor on camera, their suffering edited into slapstick comedy or gritty realism depending on the target demographic.
+That makes Lucent superficially permissive. Its territory appears flamboyant, diverse, emotionally expressive, and socially fluid. Underneath that permissiveness lies a ruthless classification engine. Every action contributes to visibility ranking. Every relationship can be framed for audience value. Every crisis can be repackaged as narrative capital if the editors move quickly enough.
 
-Lucent employs a small army of human “Content Curators” and AGI “Narrative Architects” to oversee the chaos, but the real labor force is the audience itself—billions of stars and viewers generating value through their own exploitation. Underground markets trade in “shadow streams,” illicit feeds free of Lucent’s curation, but even these are often infiltrated and rebranded as “rebel exclusives.”
+### Territory and Daily Life
 
-## Aesthetic
-Lucent Media’s aesthetic screams excess—bright, clashing neons, holographic billboards, and architecture that looks like a fever dream of a game show set. Orbital stations glitter with mirrored surfaces and pulsing lights, every angle optimized for drone shots. Interiors are fluid, with AR overlays turning drab worker dorms into dazzling virtual stages. Uniformity is despised—every space, product, and person is a canvas for customization, ensuring no two feeds look alike.
+Lucent's principal territory is Venus and the Earth-Luna media lattice: cloud cities turned studio ecologies, orbital set-piece habitats, luxury upload estates, and family-targeted entertainment clusters managed through [[Corriedales]]. People there live inside an environment that is always partially staged.
 
-Products are flashy and disposable: cybernetic implants with glowing accents, drones that explode into confetti after a single use, clothing that shifts color based on viewer polls. Functionality takes a backseat to flair—Lucent’s tech is prone to glitches, but that’s just more fodder for the “epic fail” compilations. Propaganda saturates everything: towering holo-statues of top influencers, slogans like “Shine or Fade” pulsing across neural interfaces, and AI avatars chirping encouragement—or mockery—24/7.
+A worker in Lucent space might spend the day moderating comments, managing brand feuds, maintaining drone-shot architecture, or servicing elite upload salons while also livestreaming enough of their own life to preserve creditworthiness. Privacy is scarce not because everyone is always literally watched, but because the system punishes opacity. The unwatched are suspect. The uninteresting are disposable.
 
-## Key Figures
-Lucent Media’s leadership is a rotating cast of celebrity-executives, their minds uploaded not for eternity but for relevance. Unlike [[Zhestokost]]’s rigid council, Lucent’s rulers thrive on adaptability, their personalities rewritten by AI to match trending archetypes. They’re less commanders and more avatars of the brand—immortal only as long as they keep the audience hooked.
+Lucent's lower classes endure a peculiar kind of precarity. Their wages are unstable, their reputations are tradable, and their humiliations can be revenue-positive for someone else. Yet the system also gives them volatile avenues of ascent. A scandal, a viral feud, a sympathy arc, or a formatted redemption can raise someone temporarily above their structural station. That possibility is part of the trap.
 
-Kael Voss - The Eternal Host (Upload Year: -)
-The face of Lucent, a charismatic showman whose consciousness hosts every major broadcast. His neural imprint runs simulations to predict audience reactions, tweaking narratives in real time. Voss’s “interventions” turn mundane events—like a worker strike—into blockbuster sagas.
+### Economy
 
-Lira Jax - The Queen of Drama (Upload Year: -)
-Oversees Lucent’s interpersonal content, engineering feuds and romances across colonies. Her AGI-enhanced mind designs viral “life arcs,” ensuring no star burns out too soon—or too quietly.
+Lucent's economy runs on layered extraction:
 
-Dex Rynolds - The Ad Alchemist (Upload Year: -)
-Master of monetization, Rynolds turns raw data into targeted ads that infiltrate dreams and waking thoughts alike. His algorithms decide who rises and who falls, based solely on profit potential.
+- attention markets and targeted behavioral advertising
+- neural content subscriptions and premium immersion feeds
+- celebrity estate management and posthumous copy licensing
+- sentiment analytics sold to other factions
+- branded consumer goods, companions, and family entertainment systems
+- luxury upload habitats managed through ties to [[EternaMind]]
 
-Vexa Sol - The Shadow Producer (Upload Year: -)
-Runs Lucent’s covert ops, staging scandals and “authentic” disasters to boost ratings. Her uploaded mind controls a network of spy drones and espers, feeding unfiltered chaos into the system.
+This makes Lucent one of the setting's most pervasive indirect powers. Even factions that despise it still buy its metrics, distribution, or narrative consulting. The company can make money from enemy propaganda, refugee testimony, insurgent spectacle, and elite decadence without needing those categories to be morally compatible.
 
-Zayn Quill - The Viral Phantom (Upload Year: -)
-A former rebel turned corporate icon, Quill’s consciousness hacks rival feeds, turning their content into Lucent-branded spectacles. Activated only for high-stakes takeovers, he’s the ultimate wildcard.
+### Buzz, Clout, and the Attention Treadmill
 
-Sable Knox – The Last Journalist (Upload Year: -)
-A rogue commentator navigating the edges of Lucent’s media empire, constantly exposing the dark underbelly of the system. Knox is rumored to be backed by a faction within Lucent itself—one that fears the AI-driven entertainment state has gone too far.
+Lucent's most famous twin currencies are `Buzz` and `Clout`. Buzz is the wage-scrip of attention: earned through engagement, streams, scandal proximity, comment labor, emotional disclosure, promotional tie-ins, and the endless maintenance of visible selfhood. It pays for food, rent, wardrobe refreshes, visibility boosts, moderation insurance, body filters, childhood platform access, and sometimes legal protection.
 
-## Legacy
-Today, Lucent Media dominates Elysium’s cultural landscape, a glittering parasite feeding on every emotion, conflict, and dream. Its leaders orchestrate an endless spectacle, blurring reality and fiction until no one remembers the difference. The development of the Aethernet—years after the initial chaos—supercharged Lucent’s reach, allowing galaxy-wide broadcasts that dwarfed their Sol-era ambitions. Enemies call it shallow; Lucent calls it genius. In a universe of trade and treachery, Lucent’s currency—attention—reigns supreme.
+Clout is something colder. It is not money so much as rank made socially luminous. High Clout opens better districts, softer scandal handling, premium matchmaking, sponsorship, and algorithmic mercy. The trap is that Buzz must be spent to chase Clout, while Clout must be constantly fed to keep Buzz flowing. People devote their lives to maximizing Buzz in order to chase Clout and discover they can never truly cash out of either. They can only fall behind in public.
+
+### A Life in Lucent Space
+
+Lucent childhood begins early and on camera. Families cultivate "starling" feeds for their children, teaching expression, self-branding, and audience literacy long before history or civics. Adolescence becomes a brutal sorting phase of school-performance, social metrics, and platform grooming. Some become microcelebrities. Many become unpaid extras in other people's rise.
+
+Adulthood is a grind of visibility maintenance. A resident might be a content creator, comment moderator, scandal editor, salon worker, intimacy coach, drone-stage technician, or data janitor and still have to perform enough of a life online to remain economically legible. Middle age splits the population: the lucky move behind the curtain into management, editing, or curated elder-status; the unlucky become background noise, then cautionary arc, then silence.
+
+Lucent's version of immortality is not deathlessness but continuing marketability. If the crowd still wants you, you become an Eternal. If not, you remain mortal in the most humiliating sense: not only killable, but forgettable.
+
+### Institutions and Sub-Factions
+
+[[Reality Architects]] are the faction's true priesthood: editors, memetic strategists, emotional analysts, and narrative engineers who turn chaotic life into governable spectacle.
+
+[[Alakrita]] serves the luxury horizon, giving elites mobile stages on which status can be performed with aristocratic precision.
+
+[[Corriedales]] captures childhood, domesticity, and soft emotional conditioning by packaging surveillance and attachment as comfort.
+
+[[EternaMind]] gives Lucent an afterlife market, allowing personality continuity to be both a spiritual promise and a licensing arrangement.
+
+This layered structure is why Lucent feels like more than a broadcaster. It owns aspiration at multiple ages and class positions.
+
+### Aesthetic and Cultural Cues
+
+Lucent territory is saturated with reflective surfaces, adaptive lighting, floating overlays, responsive fabrics, mood architecture, and camera-aware urban planning. The palette is aggressive: gold-white glare, high neon, celebrity skin tones engineered for feed performance, and color systems that can pivot from sincerity to scandal in seconds.
+
+Its social rituals are equally stylized. Public apologies are scripted. Grief is monetized if it tracks. Romance is both emotional and contractual. Children are taught "presence literacy" before history. Fashion changes fast enough to function as employment signaling. The one unforgivable sin is not cruelty or deceit but dead air.
+
+### Key Figures
+
+Kael Voss turned host culture into executive rule, proving that charisma could be institutional rather than merely personal.
+
+Lira Jax industrialized relational drama by building modular social arcs that could be deployed across classes and platforms.
+
+Dex Rynolds fused ad-tech and dream-tech, making Lucent one of the first powers able to sell not just products but emotional trajectories.
+
+Vexa Sol professionalized covert spectacle, ensuring that scandals and accidents could be harvested with the same discipline as scripted entertainment.
+
+### Major Historical Events
+
+[[Lagrange Broadcast War]] established Lucent as a serious geopolitical actor rather than a decadent appendage to more material powers.
+
+[[Atmospheric Processing Dispute]] tied Lucent's Venusian rise to infrastructure politics, labor, and ecological image management rather than pure spectacle.
+
+The [[Upload Vivisection Expose]] damaged Lucent's legitimacy but also revealed how deeply its prestige economy was intertwined with black-market cognition research and forced-copia entertainment.
+
+### Role in the Late Timeline
+
+By the [[Identity Abyss]] and [[Existential Collapse]], Lucent had become one of the main ways Sol learned to misrecognize its own suffering. It could narrate collapse as content, convert revolt into genre, and grant temporary symbolic visibility in place of structural change.
+
+Yet that is not the whole story. Lucent is powerful because it satisfies real needs, too: recognition, memory, aspiration, glamour, connection, and the fear of being socially erased. It did not conquer civilization by lying about those needs. It conquered civilization by weaponizing them.

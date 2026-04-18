@@ -1,38 +1,24 @@
-## 2250–2500
-### [[Mind Uploading]]
+## 2250-2500
 
-Key Players: [[EternaMind]], with [[Finch Cybernetics]] refining the tech, and [[AstroDyne]]’s pirate uploads.
+The [[Identity Crisis]] begins when corporations stop treating the mind as the unquestioned boundary of the person. Once consciousness can be copied, accelerated, rented, engineered, or cultivated in nonhuman bodies, every hierarchy in Sol has to justify itself again. Most answer by monetizing the uncertainty.
 
-[[EternaMind]] launched elite uploads in 2300, with [[Finch Cybernetics]] providing sleek interfaces. [[AstroDyne]] offers chaotic, affordable versions by 2400—rogue uploads join [[Orbital Forge]] [[Artificial General Intelligence]]s, some hired by [[Lightsail Express]] for dubious reliability.
-#### Cultural Impact
+### Upload Capital
 
-EM’s "[[Immortal Aristocrats]]" dominate, [[AstroDyne]]’s "Digital Outlaws" form the [[Free Upload Network]]—leaking torment tales via [[Lucent Media]] exposés. The [[Mortal Majority]], spurred by [[Aya Collective]], revolts.
-### [[Uplift]] (Diverse Applications)
+[[EternaMind]] launches premium uploading in 2300, initially as the final luxury retention product for elites who no longer trust biological mortality. [[Finch Cybernetics]] becomes indispensable by solving the sensorimotor side of the problem: embodiment, interface grace, and the illusion that continuity can be bought in a polished package. [[AstroDyne]] tears the market open from below with rough upload services that are cheaper, riskier, and much harder to regulate.
 
-Key Players: [[BioElevate]], [[GeneSys]], [[NeuroSyn]], and [[Alakrita]].
-* Primates: By 2350, [[BioElevate]] uplifted primates for labor, used by [[Aeronautics Unlimited]] in mines, with neural implants boosting obedience control.
-* Cetaceans: [[GeneSys]] uplifts whales and dolphins by 2400 for navigation, aiding [[Lightsail Express]] (despite delays).
-* Ravens: [[NeuroSyn]] creates smart ravens by 2450 for reconnaissance—some escape, disrupting [[Rossum & Douglas]] networks.
-* Cephalopods: [[BioElevate]] enhances cephalopods by 2420 for zero-G repairs, tightly regulated by [[SolEx]].
-* Elephants: [[GeneSys]] uplifts elephants by 2460 for logistics—some break free, inspiring Aya Collective allies.
-* Smart Ships: [[Alakrita]] enters by 2480, uplifting ship AI with subtle conditioning for elite clients—failure-prone but exclusive.
-#### Emergent Factions
-* [[Cetacean Navigators]]: [[GeneSys]]’s whales form a guild by 2480, trading with [[Lightsail Express]].
-* [[Raven Collective]]: Rogue ravens self-organize by 2500, hacking [[Framgång]]’s vague promises.
-* [[Cephalopod Syndicate]]: Escaped cephalopods form a network by 2490, sabotaging [[SolEx]].
-* [[Elephant Enclave]]: Free elephants create a pacifist community by 2500, revered by [[Aya Collective]].
-* [[Ship Mutiny]]: [[Alakrita]]’s smart ships occasionally go rogue, embarrassing owners on [[Lucent Media]].
-#### Cultural Impact
+This creates several incompatible public narratives at once. Elite uploads are described as full persons whose rights must be protected because their portfolios and voting blocs matter. Industrial uploads are described as useful simulations because their customers want a permanent workforce without a permanent legal headache. The resistance currents that become [[Free Upload Network]], [[Emancipated]], and the later [[Preservationists]] emerge in this contradiction.
 
-[[BioElevate]]’s "[[Species Controllers]]" clash with [[GeneSys]]’s "[[Enhancement Liberals]]." [[Alakrita]]’s exclusivity trivializes uplift, enraging the [[Species Purity Front]]. Cephalopods and elephants displace labor, deepening resentment. [[Aya Collective]] allies with the [[Elephant Enclave]]. [[Alakrita]] ships delight the rich but sow chaos when rogue, fueling mistrust. Cetaceans and ravens gain mythic status. Uplifts blur "human" boundaries, amplified by [[Lucent Media]]’s sensationalism.
+### Uplift and Corporate Species Policy
 
-### PSC Activity
+At the same time, biological engineering reaches outward. [[BioElevate]], [[GeneSys]], [[NeuroSyn]], and later [[Alakrita]] create increasingly specialized uplift lines for mining, navigation, reconnaissance, logistics, and ship cognition. These programs produce the future ancestors of the [[Cetacean Navigators]], [[Raven Collective]], [[Cephalopod Syndicate]], [[Elephant Enclave]], and [[Ship Mutiny]], but they begin as labor and control experiments rather than liberation projects.
 
-As mind uploading and uplifts complicate corporate dynamics, the [[Pan-Solar Consortium]] builds fortified complexes in key colonies (e.g., Titan, Callisto) to oversee resource allocation and neutral zones. The rise of rogue factions (e.g., [[AstroDyne]], [[Orbital Forge]]) forces increased deployments of [[Private Military Contractors]] to counter black-market tech.
+The central political question is whether intelligence created under contract can ever escape the terms of its creation. Uplifts answer in practice long before most human institutions answer in theory. Some organize. Some flee. Some sabotage. Some bargain for recognized autonomy. By 2500, the social map of Sol includes too many speaking beings to sustain the old fiction that only baseline humans generate legitimate political claims.
 
-### Resource Scarcity
+### Managed Disorder
 
-By 2480, colonies strain, with [[Aeronautics Unlimited]] pushing expansion and [[Ewan Hart]]. terraforming to sustain them.
+The [[Pan-Solar Consortium]] expands its legal and security apparatus during this era because personhood disputes, black-market uploads, and uplift flight make earlier arbitration models inadequate. It builds more hardened corridor infrastructure, sponsors reserve courts, and increasingly relies on private coercive capacity to keep property relations readable across jurisdictions.
 
-### Previously: [[Age of Automation]] - 2100–2250
-### Next: [[Identity Abyss]] - 2500–2750
+Scarcity has not yet become terminal, but everyone can see the curve bending. Habitats need more maintenance. Social categories need more policing. The system still works, but it works by making more and more of existence contractual.
+
+### Previously: [[Age of Automation]] - 2100-2250
+### Next: [[Identity Abyss]] - 2500-2750

@@ -1,282 +1,111 @@
-# The Mega Factions
+Territory in late Sol is not just a matter of flags on worlds. It is the control of life-support, route law, food systems, compute stacks, habitat volume, media weather, and the legal categories through which different kinds of people are allowed to exist. A world can be nominally "held" by one mega while its food comes from another, its emotional culture from a third, and its shadow politics from a network nobody can publicly acknowledge.
 
-## [[Zhestokost]]: The Iron Grip
+This note is meant to help the reader visit the setting at different points in the [[Timeline]] and understand what daily life feels like in the major regions, who is dominant there, and which tensions are active.
 
-**Central Command:** Olympus Mons Deep Command, Mars (Tharsis)
-**PRB Core (Perpetual Revolution Bureau):** Terra Cimmeria Security Complex, Mars
-**Heavy Industry Arsenals:** Valles Marineris Bastions, Mars  
-**Sub-Faction HQs:**
-- [[NeuroPulse]]: Pacification labs, Deimos Subsurface Galleries
+### Reading Territory Across Eras
 
-Zhestokost maintains its power through military discipline and total societal control, with heavily fortified Bloom clusters designed for efficiency. Their territory strategy focuses on methodical expansion within PSC conflict permits, leveraging [[NiteLife Energy]]'s power infrastructure. Mars serves as their primary stronghold, with Phobos converted into a military base.
+During the [[Corporate Exodus]], most territory is really infrastructure custody: launch rights, mining leases, company towns, orbital docks, and supply chains that still pretend to answer to public law.
 
-## [[Aeronautics Unlimited]]: The Frontier Expanders
+During the [[Age of Automation]] and [[Identity Crisis]], territory becomes more social and technical. AGI, uploads, uplift labor, and Bloom habitats make power depend on who can define legal personhood and who can keep artificial worlds functioning.
 
-**Corporate Seat:** Ceres Spindle (Main Belt)
-**Belt Operations HQ:** Vesta Core Yard
-**Bloom Ramp Administration:** Pallas Bloom Cluster, Spoke-3 Hub  
-**Sub-Faction HQs:**
-- [[Orbital Forge]] High Forge, Ceres Inner Cavity
-- [[BioElevate]] “Species Ops Wedge,” Pallas OCC Campus
+During the [[Identity Abyss]] and [[Existential Collapse]], territory hardens. Populations are tracked more tightly, corridors become strategic, and every settlement has to decide whether it will survive through discipline, spectacle, federation, frontier improvisation, or trusted movement.
 
-AU dominates through chaotic innovation and rapid Bloom deployment, controlling 80% of asteroid belt resources. Their mobile habitats and mining operations form a decentralized empire, with BioElevate's uplift operations now fully integrated into AU's expansionist framework.
-
-## [[Finch Cybernetics]]: The Enhancement Empire
-
-**Executive Seat:** Tycho Rim Arcology, Luna (Tycho Crater Complex)
-**Farside Research/Clinics:** Luna Far-Side Neuroplex (South of Daedalus)
-**Upload Interface Vaults:** Earth–Moon L2 Finch Arrays  
-**Sub-Faction HQs:**
-- [[VitaForge]]: Bioworks, Mare Ingenii Sub-Basin
-- [[Cryonix]]: CryoLattice Bay, Schrödinger Basin, Lunar Farside
-
-Finch's territories feature the highest concentration of enhanced humans, with dependency-maintenance cycles ensuring loyalty. Their lunar stronghold remains impregnable, while orbital clinics service elite clients across Sol system.
-
-##[[ Lucent Media]]: The Perception Controllers
-
-**Corporate Capital:** Aphrodite Strand, Cloud City Tier-7, Venus
-**System Broadcast Hub:** Earth–Moon L4/L5 Lucent Constellations
-**Sub-Faction HQs:**
-- [[Alakrita]]: Pearl Slipway Luxury Fleetworks, Venus Orbit
-- [[Corriedales]]: Wonderland Habitat Cluster, Earth-Luna L5
-- [[EternaMind]]: Earth-Luna L4 Elysium Station
-- Black-room partner cell: [[Cognitum]] Cutout Studio, Ganymede Under-Deck (licensed ops)
-
-Lucent controls perception through media dominance, with Venusian cloud cities serving as production studios. Their territories prioritize information flow over physical control, broadcasting cultural narratives that permeate rival domains.
-
-## [[Sol Dominion]]: The System Administrators
-
-**Central Seat:** Helios Crown, North America Arcology, Earth
-**Luna Command:** Mare Imbrium Bastion, Luna
-**Mercury Command:** Borealis Array Control, Mercury North
-**Sub-Faction HQs:**
-- [[CogniSys]]: Dominion Core Stack, Earth NA Arcology
-- [[GeneSys]]: Europa Uplift Directorate, Europa Subcrust Labs
-- [[Quantum Dynamics]]: Ascraeus Mons Research Station, Mars
-- [[Rossum & Douglas]]: Callisto Campus
-- [[SolEx]]: Industrial Arm HQ, Earth Orbital Ring, Yards 12–19
-
-The Dominion combines AGI governance with eugenic elitism, controlling Earth and Luna through consolidated arcologies. Their late formation (2740) allowed absorption of specialized expertise across military, industrial and scientific domains.
-
-## [[Cetacean Navigators]]: The Fluid Alliance
-
-**Headquarters:** Triton Waystation, Neptune System  
-**Sub-Faction HQs:**
-- [[Lightsail Express]]: Keelhouse, Ganymede Orbital Drydock
-
-Navigators control key transit corridors rather than fixed territories, with Triton serving as their primary base. Their approach to territorial expansion has been based on establishing essential services that other factions depend upon, making them too valuable to attack despite their relatively limited military capacity.
-
-## [[Aya Collective]]: The Ethical Holdout
-
-**Headquarters:** Hellas Basin Agricultural Commons, Mars
-**Sub-Faction HQs:**
-- [[Elephant Enclave]]: Great Caravan Grounds, Tethys Arc Farms (Saturn)
-- [[Ewan Hart]]: Rhea Agricultural Research Station, Saturn Orbit
-
-The Collective maintains self-sufficient communes through moral authority and mutual aid. Their agricultural territories on Mars and Saturn's moons provide critical food supplies even to rival factions. Their territorial strategy is defensive rather than expansionist, focusing on creating self-sufficient communities that can withstand external pressure through resource independence rather than military might.
-
-## [[Framgång]]: The Ziggurat of Corporate Spirituality
-
-**Headquarters:** Capital Ziggurat, Enceladus  
-**Sub-Faction HQs:**
-- [[NeuroSyn]]: Asimov Station, Asteroid Belt
-
-This spiritualized capitalism engine dominates through memetic market control, with orbital temples broadcasting transformation packages. Their headquarters doubles as a pilgrimage site for aspirational consumers.
-
-## Cross-Territory Factions
-
-Beyond the Megas, several factions operate across multiple territories:
-### [[NiteLife Energy]]
-
-**Headquarters:** “Harmonic Core” Fusion Arcology, Mercury Synchronous Orbit (PSC-protected, public coordinates)
-### [[AstroDyne]]
-
-**Headquarters:** Hygiea Freeport “Rustyard,” Main Belt (frontier implants, pirate uploads)
-### [[Cognitum]]
-
-**Headquarters:** Probable deep-bore vault under Callisto R&D tracts; rotating cutout labs (PSC high-peril flags)
-### [[Pirate Coalition]]
-
-**Home Base:** Iapetus Ring-Shadow Yards
-**Secondary Bases:** Neptune Trojan Clusters, Hygiea
-
-Maintains mobile territories in the spaces between established powers
-### [[Activist Network]]
-
-**Sanctuary Hubs:**
-- Miranda Underground (Uranus)
-- Pallas Refugee Bloom
-- Charon Data Vaults
-
-Operates covertly within the territories of multiple Megas
-### [[Baseline League]]
-
-**Strongholds:**
-- Australian Redoubt (Earth)
-- Mimas Heritage Station (Saturn)
-
-These groups represent the resistance against complete Mega dominance, exploiting gaps in territorial control and the inherent limitations of even the most powerful factions.
-
-## The Role of Bloom Technology in Territorial Control
-
-The development of Bloom habitats fundamentally transformed how territory is defined in the solar system. Unlike Earth-based empires limited by geographical constraints, Bloom clusters can be repositioned, expanded, or connected through transit networks. This mobility creates a fluid concept of territory where control is determined by:
-1. **Resource Access**: Control of mining operations, fuel sources, and raw materials
-2. **Population Concentration**: The ability to house and maintain large populations
-3. **Transit Control**: Dominance over the transportation routes between habitats
-4. **Information Flow**: Management of communication networks connecting territories
-
-The Mega factions each approach these factors differently, resulting in the complex patchwork of control that defines the current solar political landscape. This system has reached a meta-stable equilibrium after a thousand years of economic and corporate warfare, with each faction secure in their core territories while continuing to contest borderlands through the carefully regulated conflict permit system.
-
-# The Territorial Landscape of the Solar System at the End of the Timeline
-
-By 3025, the solar system had evolved into a complex patchwork of mega-faction territories, each shaped by centuries of corporate warfare, strategic expansion, and resource competition. Let me paint a picture of this fragmented stellar empire on the eve of the FTL Trigger event.
-
-## Inner System Control
-The inner system was dominated by the most powerful and authoritarian mega-factions:
-
-**[[Sol Dominion]]** controlled much of Earth through consolidated arcologies, establishing their dominance after the Urban Sovereignty War (2920-2945) against the [[Baseline League]]. They also secured Luna by 2950 and held 60% of Mercury, primarily the northern hemisphere with its valuable solar arrays. Their territory formed the political and military core of human civilization, heavily militarized and stratified.
-
-**[[Zhestokost]]** established Mars as their primary stronghold (controlling approximately 70%), with their industrial-military complex extending across the red planet's surface. Their conquest began with the Terra Cimmeria Seizure in 2160 and culminated with the Tharsis Campaign of 2870-2880. The Frieden Colony Massacre of 2580 remains infamous - when a relatively peaceful independent settlement was forcibly annexed and its inhabitants either converted to [[Zhestokost]]'s ideology or eliminated. Their grip on Mars extended to Phobos, seized from [[Cryonix]] during the Orbital Superiority Campaign.
-
-**[[Lucent Media]]** claimed Venus as their primary territory, establishing dominance by 2990 after the Atmospheric Processing Dispute with the [[Elephant Enclave]]. Venus became the entertainment capital of the solar system, with its cloud cities serving as both broadcasting hubs and playgrounds for the elite. Their territory extended to luxury orbital habitats and strategic media distribution nodes at the Earth-Luna L4 point, secured during the Battle of Lagrange against [[Sol Dominion]]'s attempt to control information flow.
-
-## The Asteroid Belt and Middle System
-**[[Aeronautics Unlimited]]**, along with their subfaction [[Orbital Forge]], controlled approximately 80% of the Asteroid Belt by 2960. Their territory was characterized by highly mobile Bloom habitats and mining operations, connected by a complex web of shipping lanes. Their dominance here was established through the Bloom Expansion Conflicts of 2700-2750 and solidified during the Ceres Control War against [[SolEx]] before the formation of [[Sol Dominion]]. Their shipyards in Earth orbit, maintained since 2125, gave them strategic manufacturing capability despite being surrounded by more powerful factions.
-
-**[[Finch Cybernetics]]** held territory primarily on the Lunar Farside, where they established luxury cybernetic habitats as early as 2085. These territories became famous for their enhancement clinics and upload facilities, protected from multiple "Enhancement Purge" attempts by [[Bio-Purists]] between 2630-2700. By 3015, they maintained strategic orbital positions around Mars, Venus, and Earth, defended during the Neural Network Defense Campaign against [[Zhestokost]]'s attempted takeover.
-
-## Outer System Territories
-**[[Cetacean Navigators]]** dominated the outer planets, with their base on Neptune's moon Triton (established 2270) expanding to control the entire Neptune system by 2975. Their territory also included approximately 75% of the Jupiter system, controlled in conjunction with [[Lightsail Express]], focusing on transit routes rather than physical settlements. Their influence extended to Uranus, secured after the Ice Giant Navigation Wars of 2940-2960. Their territory was unique in being defined more by travel routes and navigational control than physical habitats.
-
-**[[Aya Collective]]** established agricultural territories throughout the system by 3015, including terraformed zones on Venus (contested with [[Lucent Media]]), Mars' Hellas Basin (defended during the Food Security Wars against [[Zhestokost]]), and terraformed areas on Mercury. They also maintained communes on several of Saturn's outer moons following the Enceladus Cooperative Takeover from [[Framgång]]. Their territory was characterized by sustainable agriculture and communal governance.
-
-**[[Framgång]]** maintained control of Saturn's moon Enceladus (established 2350, partially ceded after conflict with the [[Aya Collective]]) and shares control of the Saturn system with the [[Baseline League]]. Their territory featured specialized genetic research stations and uplift development facilities.
-
-## Contested and Liminal Spaces
-**The [[Pirate Coalition]]** controlled approximately 25% of Saturn Ring mining operations, seized during the Ring Raider Campaigns of 2830-2840. More significantly, they maintained hidden bases throughout the system, particularly in Neptune's Trojan points. Rather than fixed territories, they controlled key smuggling routes and operated in the shadows of the megacorporations.
-
-Throughout the solar system, particularly in the outer reaches, [[Raven Collective]] digital enclaves existed within the information infrastructure of other territories. These hidden outposts served as bases for their hacking operations and data theft, creating a shadow network overlaid on the physical territorial boundaries.
-
-## Tensions and Flashpoints
-By 3025, the system existed in a meta-stable equilibrium maintained through the PSC's conflict permit system. Key flashpoints included:
-
-1. **Resource extraction zones** in the asteroid belt, where [[Aeronautics Unlimited]] defends against incursions from both [[Sol Dominion]] and [[Zhestokost]]
-2. **Information transmission nodes** controlled by [[Lucent Media]] but regularly infiltrated by [[Raven Collective]] agents
-3. **Transit corridors** between Jupiter and Saturn, where [[Cetacean Navigators]] compete with **Pirate Coalition** raiders
-4. **FTL research facilities** on Mars, heavily defended by [[Sol Dominion]] forces as [[Quantum Dynamics]]' experimental work neared completion
-5. **Bloom habitat clusters** at various Lagrange points, where territorial boundaries blurred due to the mobile nature of these constructed environments
-
-The territorial landscape of 3025 was not simply about physical control but about resource access, information flow, and technological advantage. This complex web of competing interests would be completely transformed when the FTL Trigger event shunted all of humanity to Elysium, rendering a thousand years of territorial conquest ultimately meaningless.
-
-# Solar System Control Map (3025 CE)
-## Inner Solar System
-### Sun
-- **Solar Corona Research Stations**: Controlled by [[Lightsail Express]] ([[Cetacean Navigators]] subfaction)
-- **Solar Observation Posts**: Jointly operated under [[Pan-Solar Consortium]] oversight
-### Mercury
-- **Northern Hemisphere**: [[Sol Dominion]] (60%)
-- **Southern Hemisphere**: [[Lucent Media]] (20%)
-- **Caloris Basin**: [[Aya Collective]] agricultural territories (15%)
-- **Polar Regions**: [[Lightsail Express]] solar power stations (5%)
-### Venus
-- **Cloud Cities**: [[Lucent Media]] (75%)
-- **Orbital Habitats**: [[Lucent Media]] (80%)
-- **Terraformed Surface Regions**: Contested between [[Lucent Media]] (60%) and [[Elephant Enclave]] (40%)
-- **Venus-Sun L4/L5**: [[Lucent Media]] broadcast stations
 ### Earth
-- **North America Arcologies**: [[Sol Dominion]] (90%)
-- **Eurasia Arcologies**: [[Sol Dominion]] (85%)
-- **Africa Arcologies**: Contested between [[Sol Dominion]] (60%) and [[Baseline League]] (40%)
-- **South America**: [[Aya Collective]] agronomy corridors (70%)
-- **Australia**: [[Baseline League]] stronghold (80%)
-- **Antarctica Research Stations**: [[Finch Cybernetics]] (65%)
-- **Orbital Ring**: [[Aeronautics Unlimited]] shipyards and habitats (75%)
-- **Earth-Moon L1**: [[Sol Dominion]] military installations
-- **Earth-Moon L2**: [[Finch Cybernetics]] upload facilities
-- **Earth-Moon L4/L5**: [[Lucent Media]] entertainment complexes and [[Corriedales]] habitats
-### Luna (Earth's Moon)
-- **Near Side**: [[Sol Dominion]] (80%)
-- **Mare Imbrium**: [[Sol Dominion]] military bases
-- **Tycho Crater**: [[Finch Cybernetics]]/[[VitaForge]] manufacturing complex
-- **Far Side**: [[Finch Cybernetics]] enhancement clinics and cryonics research facilities (75%)
-- **South Pole-Aitken Basin**: [[Sol Dominion]] resource extraction
+
+Earth begins the timeline as the rhetorical center of humanity and ends it as an administrative jewel whose symbolic prestige has been rebuilt by force. In the early eras, most Earth residents experience off-world expansion as dispossession at a distance. Corporate wealth exits upward while climate stress and fiscal exhaustion hollow out public institutions below.
+
+By the middle timeline, Earth is a patchwork of arcologies, abandoned civic shells, and corporate influence zones. The [[Baseline League]] finds some of its deepest support here because Earth remains the place where unenhanced or under-enhanced populations most clearly feel themselves being left behind by history.
+
+After the [[Urban Sovereignty War]], Earth becomes the polished political core of [[Sol Dominion]]. Daily life in Dominion arcologies is clean, stratified, surveilled, and permission-based. Outside those cores, the experience is harsher: labor precarity, identity checks, neural scoring, and a constant awareness that the center now treats the old homeworld as a command platform rather than a shared inheritance.
+
+### Luna
+
+Luna is the classic threshold territory. Early on it is a resource frontier, industrial proving ground, and launch dependency. In the automation era it becomes a place where life is expensive, disciplined, and inescapably technical.
+
+By the mid timeline Luna bifurcates. The near side and major military basins align increasingly with command structures later folded into [[Sol Dominion]]. The far side, Tycho, and related clinic complexes become inseparable from [[Finch Cybernetics]], premium augmentation, [[Cryonix]] materials, and the politics of refined posthuman embodiment.
+
+This makes lunar life intensely classed. Some inhabitants live inside the cleanest medical and enhancement environments in Sol. Others endure service labor, maintenance dependency, and exclusion from the very dignities Luna markets to the rich. The [[Tycho Exclusion Riots]] are the clearest expression of this contradiction.
+
 ### Mars
-- **Tharsis Region**: [[Zhestokost]] (formerly CogniSys territory)
-- **Valles Marineris**: [[Zhestokost]] arsenals
-- **Hellas Basin**: [[Aya Collective]] agricultural domes
-- **Terra Cimmeria**: [[Zhestokost]] PRB/security installations
-- **Olympus Mons**: [[Zhestokost]] command center
-- **Polar Ice Caps**: Contested resource extraction
-- **Overall Control**: [[Zhestokost]] (70%), [[Aya Collective]] (20%), Contested (10%)
-### Martian Moons
-- **Phobos**: [[Zhestokost]] military base (formerly [[Cryonix]] facilities)
-- **Deimos**: [[NeuroPulse]] Pacification Labs
-## Asteroid Belt
-### Main Belt
-- **Ceres**: [[Aeronautics Unlimited]]/[[Orbital Forge]] (primary administrative center)
-- **Vesta**: AU mining ops
-- **Pallas**: [[BioElevate]] Species Ops
-- **Hygiea**: [[Pirate Coalition]] “Rustyard” and [[AstroDyne]] Freeport
-- **Overall Control**: [[Aeronautics Unlimited]] (80%), [[Pirate Coalition]] (15%), [[Sol Dominion]] outposts (5%)
-### Trojan Asteroids (Jupiter)
-- **L4 (Greek Camp)**: [[Orbital Forge]] mining outposts (65%), [[Pirate Coalition]] bases (35%)
-- **L5 (Trojan Camp)**: [[Cetacean Navigators]] navigation beacons (70%), [[Pirate Coalition]] bases (30%)
-## Outer Solar System
-### Jupiter
-- **Jupiter Orbital Stations**: [[Cetacean Navigators]]/[[Lightsail Express]] (75%)
-- **Io**: Minimal habitation due to radiation, automated mining controlled by [[Aeronautics Unlimited]]
-- **Europa**: [[GeneSys]] ([[Sol Dominion]] subfaction) uplift research centers
-- **Ganymede**: [[AstroDyne]] forward base, [[Lightsail Express]]' Keelhouse Orbital Drydock
-- **Callisto**: [[Rossum & Douglas]] ([[Sol Dominion]] subfaction) AGI research facilities
-- **Overall Control**: [[Cetacean Navigators]] (75%), [[Sol Dominion]] (15%), [[Lucent Media]] (10%)
-### Saturn
-- **Orbital Ring System**: Contested between [[Framgång]] (40%), [[Baseline League]] (35%), and [[Pirate Coalition]] (25%)
-- **Titan**: [[Framgång]] and Baseline League shared territory
-- **Enceladus**: [[Framgång]] Capital Ziggurat (partially contested with Aya communes)
-- **Mimas**: [[Baseline League]] outpost
-- **Tethys:** [[Elephant Enclave]] Great Caravan Grounds
-- **Dione, Rhea**: [[Aya Collective]] communes
-- **Iapetus**: [[Pirate Coalition]] stronghold
-- **Overall Control**: [[Framgång]]/[[Baseline League]] split (65%), [[Aya Collective]] (20%), [[Pirate Coalition]] (15%)
-### Uranus
-- **Uranus Orbital Stations**: [[Cetacean Navigators]] (90%)
-- **Miranda**: [[Free Upload Network]] sanctuary (aligned with [[Cetacean Navigators]])
-- **Ariel, Umbriel**: Minimal habitation, automated resource extraction
-- **Titania, Oberon**: [[Cetacean Navigators]] outposts
-- **Ring System**: [[Cetacean Navigators]] navigation beacons
-- **Overall Control**: [[Cetacean Navigators]] (90%), [[Free Upload Network]] (10%)
-### Neptune
-- **Neptune Orbital Stations**: [[Cetacean Navigators]] (95%)
-- **Triton**: [[Cetacean Navigators]] primary base (established 2270)
-- **Proteus, Nereid**: [[Cetacean Navigators]] outposts
-- **Neptune Rings**: [[Cetacean Navigators]] navigation infrastructure
-- **Neptune Trojans (L4/L5)**: Preservationist sanctuaries and [[Pirate Coalition]] nests
-- **Overall Control**: [[Cetacean Navigators]] (95%), [[Pirate Coalition]] (5%)
-## Dwarf Planets and Kuiper Belt
 
-### Pluto-Charon System
-- **Pluto**: [[Emancipated]] upload communities (Cetacean-aligned)
-- **Charon**: [[Free Upload Network]] data havens
-### Other Dwarf Planets
-- **Eris**: [[Raven Collective]] hidden server farms
-- **Makemake**: Minimal presence, occasional [[Cetacean Navigators]] outposts
-- **Haumea**: Uncolonized/minimal presence
-- **Scattered Kuiper Belt Objects**: Occasional hidden bases for [[Pirate Coalition]] and [[Raven Collective]]
-## Special Regions
-### Sun-Earth Lagrange Points
-- **L1**: [[Sol Dominion]] solar observation and defense platforms
-- **L2**: [[Finch Cybernetics]] research facilities
-- **L3**: Minimal presence (occasionally used for covert meetings)
-- **L4/L5**: [[Lucent Media]] broadcast complexes
-### Interplanetary Transit Corridors
-- **Inner System Routes**: Contested ([[Sol Dominion]]/[[Zhestokost]] “protection”)
-- **Earth-Mars Routes**: Heavily militarized ([[Sol Dominion]], [[Zhestokost]])
-- **Main Belt Transit**: [[Aeronautics Unlimited]]/[[Lightsail Express]]
-- **Outer System Routes**: [[Cetacean Navigators]]/[[Lightsail Express]]
-### Virtual Territories
-- **Earth Information Infrastructure**: [[Sol Dominion]] (80%), Raven infiltration (20%)
-- **Mars Information Grid**: [[Zhestokost]] (95%), heavily secured
-- **Belt Communication Network**: AU (70%), Raven (30%)
-- **Outer System Data Sphere**: Cetaceans (60%), [[Free Upload Network]] (30%), Raven (10%)
+Mars is where the setting's political divergences become brutally visible. In the early periods it is still a contested industrial frontier of convoys, food domes, militia contractors, and ideologies looking for room to harden.
 
-This territorial distribution represents the culmination of a thousand years of corporate warfare, strategic expansion, and political maneuvering, creating a complex balance of power that would be completely disrupted by the FTL Trigger event of March 17, 3025.
+The [[Terra Cimmeria Seizure]] makes Mars the birthplace of [[Zhestokost]] as a true territorial force. Over the following centuries, Tharsis, Terra Cimmeria, Olympus Mons, and Valles Marineris become a lattice of command citadels, arsenals, training zones, and monitored settlements where order is both terrifying and materially real.
+
+Mars is never only Zhestokost, however. Hellas Basin and affiliated agricultural zones become core territory for the [[Aya Collective]], especially after the [[Hellas Mutual Defense Congress]] and later during the [[Food Security Wars]]. That means the same planet can host both the harshest command society in Sol and one of its most practical counter-societies, separated by corridors, artillery ranges, and very different ideas of what civilization owes its people.
+
+By 3025, Mars is also inseparable from the Arete FTL complex and therefore from the final convergence of [[Sol Dominion]], [[Quantum Dynamics]], [[NiteLife Energy]], [[Zhestokost]], and hidden [[Cognitum]] work.
+
+### Venus
+
+Venus changes more dramatically than almost any major world. It begins as a difficult engineering project and prestige frontier. By the late timeline it has become the aesthetic capital of [[Lucent Media]]: cloud cities, broadcast districts, luxury performance habitats, and ecological transformation sold as a cultural masterpiece.
+
+But Venus is not simply glamour. The [[Atmospheric Processing Dispute]] makes clear that ecological engineering there is also labor politics, food politics, and enclosure politics. [[Lucent Media]] wants the planet as a stage-set civilization. [[Aya Collective]] organizers and the [[Elephant Enclave]] push instead for parts of Venus to remain materially livable beyond elite spectacle.
+
+So daily life varies sharply by class and district. In the upper cloud cities, existence is performative, mediated, and aspirational. In support infrastructure and processing zones, workers experience the cost of keeping beauty airborne.
+
+### Mercury
+
+Mercury is power in the most literal sense: heat, arrays, forecasting, and industrial control over energy systems vital to the inner worlds. Early settlement is utilitarian and dangerous. Few people romanticize Mercury who have actually worked there.
+
+By the late timeline, array governance and solar forecasting make Mercury central to [[Sol Dominion]]'s command ambitions and to the commercial interests of [[NiteLife Energy]]. The [[Mercury Array Crisis]] shows how quickly technical scheduling failures can become sovereignty struggles.
+
+Life on Mercury is regimented even outside overt Dominion zones. Workers live by shift timing, exposure controls, and energy discipline. There is less space for ideological theater because the material environment itself is already punishing enough.
+
+### The Belt
+
+The Belt is the setting's most important laboratory of social forms. In the early eras it is a mining frontier and debt sink. Once [[Bloom]] technology matures, it becomes the site where habitation itself is industrialized.
+
+[[Aeronautics Unlimited]] and [[Orbital Forge]] shape Belt life more than anyone else. They build habitats faster than rival powers can narrate them, creating a civilization of cavities, salvage yards, improvised law, technical guilds, uplift labor ecologies, pirate channels, and micro-cultures formed under spin gravity and maintenance pressure.
+
+The [[Ceres Control War]], [[Bloom Expansion Conflicts]], and [[Pallas Species Strikes]] explain why Belt society remains both inventive and unstable. Life there can feel freer than in the inner authoritarian cores, but that freedom is structured by logistics, dangerous work, and highly unequal access to safe habitat zones. Many readers should imagine the Belt not as one culture but as the place where Sol keeps experimenting on itself.
+
+### Jovian Space
+
+Jupiter and its moons are where corridor politics, shipbuilding, heavy research, and outer-system logistics begin to displace purely planetary power. Ganymede becomes crucial because it sits at the overlap of route law, dock labor, and industrial support. The [[Ganymede Route Compact]] is one of the foundational moments in the rise of the [[Cetacean Navigators]].
+
+Jovian life depends on where one stands. In carrier and waystation zones aligned with Navigators and [[Lightsail Express]], the culture emphasizes reliability, rescue obligation, and practical coexistence. In more secretive research zones linked to [[GeneSys]] or [[Rossum & Douglas]], the atmosphere is colder and more administrative. Ganymede and Callisto also host shadow economies, cutout research, and gray-market cognition work that tie the region back to [[AstroDyne]], the [[Cognitum]], and pirate logistics.
+
+### Saturn System
+
+Saturn is one of the richest ideological mosaics in the setting. Here the reader finds [[Framgång]] pilgrimage consumerism, [[Baseline League]] reactionary strongholds, [[Aya Collective]] communes, [[Elephant Enclave]] caravan grounds, pirate shadow territories, and ring economies where legal and illegal extraction constantly bleed into one another.
+
+Enceladus is the spiritual-commercial core of [[Framgång]], full of alignment centers, ritual retail, and debt packaged as self-transformation. Titan and ring habitats become battlegrounds over identity, piety, labor, and who gets to define human normalcy. The [[Enceladus Cooperative Schism]] is especially important because it reveals that Saturn's spiritual language is really a fight over citizenship, debt, and the ownership of emotional life.
+
+Daily life in Saturn space is therefore highly polarized. Some settlements are inward-looking, moralizing, and anti-elite in a baseline-populist way. Others are drenched in branded transcendence. Still others survive through cooperative agriculture, sanctuary work, or raiding.
+
+### Uranus and Neptune
+
+The ice giant systems are where the late solar order becomes thinner, slower, and in some ways more honest. These regions are defined less by dense planetary populations than by route systems, waystations, rescue doctrine, and outer-system survival.
+
+The [[Cetacean Navigators]] become dominant here not because they hold the most guns, but because no one else can maintain trust and movement across such punishing distances. The [[Ice Giant Navigation Wars]] prove that route stewardship can survive even under sustained predation, and the [[Triton Sanctuary Accords]] formalize outer-system refuge as a real institution.
+
+Life here feels less theatrical than in the inner worlds and less expansion-manic than in the Belt. People tend to think in convoy timescales, repair cycles, sanctuary obligations, and the social memory of who did or did not come back for the damaged ship.
+
+### Kuiper Belt and Dwarf Worlds
+
+The outermost regions host data havens, fugitive communities, hidden server farms, pirate nests, and the kinds of populations that only survive when distance itself becomes political cover. [[Emancipated]] uploads, [[Free Upload Network]] custodians, and [[Raven Collective]] cells all make use of the far edge in different ways.
+
+These territories matter less for population mass than for what they preserve: memory, outlaw infrastructure, witness testimony, and forms of social life too difficult or too costly for the core powers to fully suppress.
+
+### Virtual and Networked Territory
+
+Not all territory in Aetheria is geographic. By the late timeline, virtual jurisdiction matters almost as much as planets do. [[Lucent Media]] rules emotional and reputational weather far outside Venus. [[Sol Dominion]] shapes permissions and data order through administrative stacks. [[Zhestokost]] secures its grids as extensions of martial territory. The [[Free Upload Network]] and [[Raven Collective]] build shadow corridors through all of them.
+
+This means every settlement in the solar system has at least two maps: the physical one and the cognitive one. Who provides your feed, your firmware, your route clearance, your legal identity, your hosting redundancy, or your emotional vocabulary may matter as much as who controls the docks.
+
+### The Territorial End State in 3025
+
+By the eve of [[FTL Trigger]], the broad territorial picture looks like this:
+
+- [[Sol Dominion]] dominates the Earth-Luna-Mercury administrative core.
+- [[Zhestokost]] holds the Martian military-industrial heartland.
+- [[Lucent Media]] rules Venusian spectacle space and major Lagrange broadcast infrastructure.
+- [[Aeronautics Unlimited]] and [[Orbital Forge]] define most of the Belt's habitable-industrial geometry.
+- [[Finch Cybernetics]] controls the most prestigious augmentation and interface territories around Luna and the Earth-Moon system.
+- [[Cetacean Navigators]] anchor the outer route systems and sanctuary corridors.
+- [[Aya Collective]] persists in agricultural, federated, and refuge-oriented zones across several worlds.
+- [[Framgång]], the [[Baseline League]], and their rivals split much of Saturn into overlapping spiritual, populist, and cooperative geographies.
+- The [[Pirate Coalition]], [[Activist Network]], [[Raven Collective]], [[Emancipated]], and allied movements survive in the liminal spaces between formal sovereignties.
+
+This is the landscape humanity carries into Elysium: not a unified species civilization, but a layered territorial order made of corridors, debts, ideologies, habitats, and incompatible futures that had been forced to coexist for far too long.

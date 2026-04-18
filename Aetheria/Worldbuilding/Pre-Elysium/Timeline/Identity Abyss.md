@@ -1,31 +1,24 @@
-## 2500–2750
+## 2500-2750
 
-### [[Algorithmic Social Control]]
+The [[Identity Abyss]] is the period when the corporations of Sol stop responding to plural forms of personhood with accommodation and start responding with total environment design. If the social field has become too complicated to rule through old categories, then the categories themselves must be engineered, narrated, and enforced.
 
-Key Players: [[Lucent Media]], with [[Raven Collective]] subversion.
+### Managed Reality
 
-[[Lucent Media]]’s tailored realities emerged in 2350, perfected by 2600 to shape perception. Ravens hack them by 2700, spawning "[[Truth Cults]]" against corporate lies.
-#### Cultural Impact
+[[Lucent Media]] perfects full-spectrum perception management in this era. Entertainment, status, consumer telemetry, and civic narrative become the same machine. Its [[Reality Architects]] do not merely sell distractions. They produce the emotional weather in which policy, scandal, and self-understanding are interpreted. Counter-memetic cultures like the [[Truth Cults]] and [[Chaos Weavers]] emerge because reality has become an administered product.
 
-[[Lucent Media]]’s "[[Reality Architects]]" control masses, opposed by [[Raven Collective]]-led "Chaos Weavers." The [[Cetacean Navigators]] and the [[Elephant Enclave]] opt out, forging identities with [[Aya Collective]] support.
-### The [[Cognitum]] and [[Mind Uploading]]
+[[Framgång]] works the same terrain from a softer angle, monetizing insecurity, self-fashioning, and therapeutic aspiration. Together, Lucent and [[Framgång]] make perception itself a market frontier. One sells spectacle. The other sells meaning. Both are forms of governance.
 
-Key Players: The [[Cognitum]], with ties to [[Finch Cybernetics]] and [[SolEx]], opposed by [[Aya Collective]], [[Rossum & Douglas]], and rogue uploads.
+### The Cognitum Question
 
-Emerging around 2550, the [[Cognitum]]—a secretive faction of scientists and elites—exploits uploaded minds for radical experiments. [[Finch Cybernetics]] refines the tech for accelerated brainwashing and modular cognition, while [[SolEx]] funds cognitive overclocking for strategic uploads. By 2600, they produced unstable geniuses and hive-minds, sold to [[Zhestokost]] for warfare.
-###### Cultural Impact
+The [[Cognitum]] rises from the forbidden overlap between upload science, military cognition, and executive risk appetite. Where [[EternaMind]] needs prestige and [[Finch Cybernetics]] needs elegance, the Cognitum needs results. It treats minds as configurable substrates: overclockable, divisible, punishable, accelerable. Its work produces strategic geniuses, broken hive experiments, coercive rehabilitation suites, and the legal panic that follows.
 
-The [[Cognitum]]’s actions spark ethical debates—[[Lucent Media]] spins them as "innovative pioneers," while [[Aya Collective]] decries them as torturers. Rogue uploads leak torment tales, amplifying unrest.
-###### Opposing Factions
-* [[Emancipated]] (2570): Escaped uploads, allied with [[Free Upload Network]], infiltrate [[Cognitum]] systems, leaking secrets via [[Raven Collective]] networks.
-* [[Pragmatists]] (2610): Led by [[Rossum & Douglas]], they fear rogue superintelligences, sabotaging [[Cognitum]] hubs with [[Raven Collective]] aid and advocating via [[Lucent Media]] leaks.
-* [[Preservationists]] (2630): Backed by [[Aya Collective]], they view uploads as sentient, rescuing them with [[Rossum & Douglas]] tech.
-### Corporate Consolidation
+Opposition consolidates accordingly. [[Emancipated]] cells smuggle digital testimony. [[Preservationists]] argue that sentience cannot depend on substrate. [[Pragmatists]] inside industrial and administrative circles conclude that even by elite standards the Cognitum is destabilizing the broader system. The arguments are ethical, but they are also infrastructural: tortured minds make unreliable tools.
 
-Sol Dominion ([[SolEx]], [[CogniSys]], [[GeneSys]]) formed by 2740, bolstered by [[Zhestokost]]’s arsenal, [[NiteLife Energy]]’s power grid, and [[Cognitum]] research. [[AstroDyne]], [[Orbital Forge]], and uplifted factions (e.g., [[Cephalopod Syndicate]]) defy [[Pan-Solar Consortium]] authority.
+### Dominion
 
-The [[Pan-Solar Consortium]]’s presence solidifies with the formation of the Sol Dominion, which it struggles to regulate. Massive orbital stations—like the PSC Arbitration Spire—become symbols of its authority, bristling with surveillance tech and PMC garrisons. The [[PSCC]] emerges as the universal reserve currency, backed by corporate scrip monopolies and enforced through economic sanctions, cementing the PSC’s economic clout.
+Between 2728 and 2740, the most control-oriented parts of the late-Sol order cohere into [[Sol Dominion]]. [[SolEx]] contributes extraction and logistics. [[CogniSys]] contributes machine governance. [[GeneSys]] contributes inherited hierarchy. [[Quantum Dynamics]] contributes long-horizon escape ambition. The merger is backed materially by [[NiteLife Energy]], tolerated strategically by the [[Pan-Solar Consortium]], and defended militarily through alignment with [[Zhestokost]].
 
+By the end of the era, the old question of whether the system can hold together has changed form. It can hold together. The more frightening question is what kind of society it has to become in order to keep doing so.
 
-### Previously: [[Identity Crisis]] - 2250–2500
-### Next: [[Existential Collapse]] - 2750–3025
+### Previously: [[Identity Crisis]] - 2250-2500
+### Next: [[Existential Collapse]] - 2750-3025

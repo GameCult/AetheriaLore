@@ -1,4 +1,5 @@
-*We’ll lose our lives before we lose your cargo*
+*"A late ship is a broken promise with cargo."*
 
-A logistics firm that market themselves on speed and reliability. They are, in actual fact, neither, but Elysium doesn’t have a Postal Service and Lightsail holds all major contracts in a titanium grip.
+[[Lightsail Express]] is the bulk-carrier and convoy management arm most closely associated with the [[Cetacean Navigators]]. It makes its money not from glamour but from being the boring answer that still arrives, even across routes where trust has become scarce.
 
+Because it depends on corridor reputation more than brute force, Lightsail often acts as the practical face of navigator politics. When the wider solar economy frays, its captains and route compacts become some of the last institutions still able to move food, data, and refugees with any predictability.

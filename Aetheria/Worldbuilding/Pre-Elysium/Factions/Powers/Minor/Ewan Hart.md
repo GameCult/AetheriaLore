@@ -1,5 +1,5 @@
-*"Money **does** grow on trees"*
+*"Civilization is whatever still grows after the convoy fails."*
 
-An army marches on their stomachs, and Ewan Hart is there to supply. Purveyors of durable farming and terraforming equipment, they’ve cornered the agricultural market in a shady back alley and are shaking it down for all it’s got.
+[[Ewan Hart]] is the agri-infrastructure specialist of late Sol: seed architectures, closed-loop ecology packages, microbial soil systems, and the patient logistical work that keeps habitats from starving when glamour industries move on.
 
-Ensures sustainable practices and resource stability for the [[Elephant Enclave]]
+The firm often appears gentler than the extractive powers around it, but food sovereignty is still sovereignty. Ewan Hart can empower independent settlements, allied commons, and agricultural Blooms while also locking clients into proprietary ecologies they cannot easily reproduce alone.

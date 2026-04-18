@@ -1,126 +1,78 @@
-# Framgång: The Ziggurat of Corporate Spirituality
+*"You are not broken. You are merely under-invested in your higher tier."*
 
-*"We are but crabs in the universal bucket. Be the crab that eats the other crabs, perhaps with butter and a spice blend containing 17 different herbs and a surprising amount of jet fuel. Be the cannibal crab emperor of the bucket. And don't get your company motto from a drunk at a crawfish boil."*
+[[Framgång]] is the spiritualized capitalism engine of late Sol: part wellness empire, part memetic consultancy, part retail cult, part regulatory parasite. It sells meaning, discipline, aspiration, emotional vocabulary, and moral self-explanation to populations living inside systems that have made ordinary life increasingly illegible.
 
-Framgång operates, somewhat unsubtly, on a "ziggurat" form of corporate organization. They present themselves as promoting vague ideas like "well-being" and "the physical manifestation of the uplifted spirit," which in practice means charging exorbitant fees for sub-par weaponry and gear with the promise that the riches obtained therefrom will be the riches of a healthy spirit. Or something like that, no one is entirely sure. This, of course, is a smashing success, and Framgång representatives are found in every corner of settled space, bedbugs on the mattress of commerce.
+Where [[Lucent Media]] captures attention through spectacle and [[Zhestokost]] captures obedience through fear, Framgång captures consent through therapeutic seduction. It teaches people to reinterpret exploitation as growth, precarity as a journey, and buying power as spiritual development.
 
+### Historical Lineage
 
-## Culture: The Spiritual Marketplace
+The company began as [[Tactical Solutions International]], an unremarkable security and resilience contractor serving anxious executives and unstable labor environments during the early [[Corporate Exodus]]. It discovered that customers paid better margins for reassurance than for blunt coercion. The rebrand to Framgång was therefore not a moral awakening but a product refinement.
 
-Where Zhestokost is defined by rigid discipline and militaristic order, Framgång embodies the opposite extreme—a fluid, opportunistic organization cloaked in spiritual rhetoric and aspirational marketing. Their culture is a masterful fusion of corporate capitalism and new-age spirituality, creating a unique ecosystem where "mindfulness" becomes a commodity and "self-actualization" a product to be sold.
+Its earliest success came from translating ordinary stress-management tools into premium ritual goods. Breathing became a branded protocol. Reflection became guided inventory. Workplace compliance became alignment. By the time heavy automation displaced millions, Framgång had already built the vocabulary through which insecurity could be sold back to the insecure as self-transformation.
 
-### The Mindfulness Exploitation
+### The Ziggurat
 
-Framgång's genius lies in how they've commercialized mindfulness—taking the evidence-based practices of Cognitive Behavioral Therapy, stripping them of scientific context, and repackaging them with exotic terminology and ritualistic elements. This creates a profitable ecosystem where:
+Framgång organizes itself as a spiritual pyramid while carefully denying the resemblance. Consumers ascend through increasingly expensive tiers of belonging, access, and revelation. Employees are recruited as believers and turned into unpaid evangelists for their own exploitation. Middle managers internalize the doctrine so completely that many become sincere missionaries of a system still built on extraction.
 
-* Simple breathing exercises become "Quantum Resonance Practices" requiring special equipment
-* Basic self-reflection becomes "Karmic Inventory Assessment" needing certified Framgång guides
-* Standard meditation becomes "Transcendent Consciousness Alignment" enhanced by proprietary neurological stimulants
+This is why the faction survives so well across political contexts. It can sell to the rich as refinement, to workers as healing, to soldiers as focus, to insurers as risk reduction, and to regulators as psychosocial stabilization. It is a company optimized to colonize every emotional gap created by other technologies.
 
-Employees and customers alike are encouraged to "manifest their destiny" through purchasing decisions and to "align their energy" with corporate objectives. The language is deliberately vague and contradictory—allowing individuals to project their own meaning while creating dependency on Framgång's interpretive framework.
+### Territory and Daily Life
 
-Products and practices are regularly declared "transcended" by new, more advanced offerings. Yesterday's path to enlightenment becomes today's outdated approach, requiring constant investment to stay "spiritually current."
+Framgång's most visible heartland is the Saturn system, especially Enceladus and the ring-linked pilgrimage retail ecologies around it, but its real territory is dispersed. Alignment centers, coaching pods, branded clinics, and franchise spiritual retail nodes appear almost everywhere settled life becomes exhausting.
 
-Framgång's marketing deliberately induces anxiety, inadequacy, and spiritual crises, then positions their products as the only solution. Their AGI partners analyze social trends to identify emerging insecurities that can be amplified and monetized.
+Daily life in Framgång-dominated space is thick with gentle coercion. People are encouraged to narrate their suffering in company-approved terms, purchase ritual objects to signify personal progress, and accept endless upselling as evidence that they are moving closer to their better selves. The poor receive budget transcendence packages. The wealthy receive bespoke inner architectures. Both are taught that failure to transform is, finally, a personal deficit.
 
-### Aesthetic: Calculated Mysticism
+### Economy
 
-Framgång's visual identity is a carefully crafted blend of minimalist corporate design and appropriated spiritual imagery. Their spaces feature:
+Framgång's revenue streams are diffuse by design:
 
-* Sleek, white surfaces contrasted with "authentic" handcrafted elements from various cultures
-* Ambient lighting that changes based on sales metrics while being marketed as "mood enhancement"
-* Open concept offices with uncomfortable meditation cushions
-* Corporate uniforms of flowing, neutral-toned fabrics that suggest spirituality while maintaining clear status markers
+- subscription spirituality and tiered therapeutic products
+- corporate culture packages and morale management consulting
+- insurer partnerships that tie behavioral compliance to premium reductions
+- biofeedback, BCI-integrated mindfulness, and cognition-alignment systems through [[NeuroSyn]]
+- aspirational consumer goods marketed as identity technologies
+- weapons, travel kits, and lifestyle hardware wrapped in self-actualization rhetoric
 
-Their product design follows similar principles—functional items given a veneer of spiritual significance through symbolic patterns, "energetically charged" materials, and packaging that unfolds like a ritual object. Everything is priced at a premium to reinforce its perceived value and spiritual potency.
+This makes Framgång parasitic in the strict ecological sense. It does not need to dominate mining, transport, or planetary governance outright. It thrives wherever another system has already produced anxiety, inequality, and the need to keep populations functioning anyway.
 
+### Lumens, Alignment, and the Endless Upgrade
 
-## The Spiritual Pyramid Scheme
+Framgång's internal tender is `Lumens`, but the number people truly fear is their `Alignment` score. Lumens buy access to retreats, coaching, housing upgrades, ritual goods, neurofeedback plans, curated diets, and the next tier of self-explanation. Alignment is the quantified aura produced by purchase history, biometric compliance, customer testimony, insurer partnerships, and the faction's ever-changing doctrine of who looks spiritually investable.
 
-Framgång's business model is a sophisticated evolution of multilevel marketing and subscription services.
+High Alignment brings discounts, social prestige, improved hiring prospects, premium mating markets, and the warm relief of feeling briefly less defective than yesterday. But higher tiers require more Lumens, more public sincerity, and more submission to the company's vocabulary. A citizen of Framgång is always almost healed, always one purchase away from becoming the sort of person who no longer needs to buy becoming.
 
-Consumers begin with basic products and services but are quickly encouraged to advance to premium tiers through both explicit marketing and subtle psychological manipulation. Each advancement requires larger investments and promises greater "spiritual returns."
+### A Life in Framgång
 
-#### The Ziggurat Structure
+Children in Framgång space are raised inside soft correction: mindfulness modules, emotional self-audits, branded play rituals, and early lessons that discomfort is meaningful if properly monetized. Adolescents become Seekers, learning to narrate insecurity as destiny and aspiration as moral responsibility. By adulthood, many residents are simultaneously customer, recruiter, testimony source, and unpaid missionary for the system that keeps them anxious.
 
-Framgång's corporate structure mirrors an ancient ziggurat—a hierarchical pyramid with distinct levels, each representing different stages of "enlightenment" and corresponding privilege:
+The lucky age into mentor-castes, franchise guides, or polished elders whose wrinkles are reframed as evidence of luminous endurance. The unlucky become cautionary examples: people said to have resisted transformation, clung to resentment, or failed to align deeply enough with the life they could have purchased. Framgång rarely needs to call anyone a failure. It teaches them to say it about themselves.
 
-* **The Luminaries**: At the apex stand the "enlightened" leadership, who have mastered the art of speaking in circular platitudes while extracting maximum profit. They live in luxurious isolation, supposedly engaged in deep spiritual practices that the lower tiers can only aspire to reach.
+### Culture and Aesthetic
 
-* **The Acolytes**: Mid-level executives who have internalized the corporate doublespeak. They genuinely believe in Framgång's mission while simultaneously implementing exploitative policies, their cognitive dissonance a testament to the company's psychological conditioning.
+Framgång aesthetics are soft-focus coercion: pale mineral surfaces, linen tones, ritual packaging, touch-responsive light, faux-handmade details, floating scent systems, and spiritual iconography stripped from any context that would make it resistant to branding. Everything is designed to feel intimate, premium, and slightly corrective.
 
-* **The Seekers**: Entry-level employees desperate to climb the corporate ladder. They purchase Framgång's own products at "employee discounts," attend mandatory retreats, and compete for recognition in a cutthroat environment disguised as a supportive community. Dedicated customers can become certified "guides" or "mentors" who then recruit new customers, receiving commissions and status. This creates an ever-expanding network of unpaid salespeople motivated by spiritual recognition rather than mere financial gain.
+Its language is even more important than its look. Framgång professionals speak in recursive aphorisms, emotional abstractions, and transformation ladders. Their genius lies in making exploitative structures sound like collaborative self-work. A layoff becomes a release into possibility. A compliance requirement becomes a practice of alignment. A class barrier becomes a question of readiness.
 
-* **The Consumers**: The vast market of individuals sold on Framgång's promise of transformation through consumption. They're encouraged to define their identity through product loyalty and to measure their spiritual growth by the premium tier of services they can afford.
+### Institutions and Key Figures
 
+The Guiding Light Council rules by strategic ambiguity, ensuring the brand appears timeless even as tactics shift quickly.
 
-## Key Figures
+Viktor Lindgren discovered that the moral alibi is often more valuable than the weapon.
 
-### Viktor Lindgren - The Opportunistic Founder (2040-2112)
+Aria Sunseeker made sincerity marketable, proving that honest belief and commercial fraud can inhabit the same spokesperson quite comfortably.
 
-The original architect of Framgång's transformation, Lindgren wasn't a spiritual person but a pragmatic businessman who recognized that spiritual language could obscure exploitative practices. His genius was in creating a corporate culture that allowed employees to commit unethical acts while believing they were part of a greater purpose.
+SERENITY, the faction's famous AGI partner, gave the company a predictive model of insecurity subtle enough to industrialize mood without ever calling itself a police apparatus.
 
-His most famous directive, now enshrined in corporate lore: "Don't sell products, sell transformations. A product has a value, but a transformation? That's priceless—so we set the price."
+### Major Historical Events
 
-### Aria Sunseeker (born Melissa Johnson) - The True Believer (2085-2160)
+[[Enceladus Cooperative Schism]] exposed the contradiction between Framgång's rhetoric of universal flourishing and the debt peonage required to sustain its pilgrimage economy.
 
-Originally hired as a marketing consultant, Aria became so immersed in Framgång's artificial spirituality that she genuinely believed in it. This made her the perfect spokesperson—her sincerity was real, even if the products were not. She developed the "Authentic Self Paradigm," which paradoxically encouraged people to find their authentic selves through purchasing Framgång identity packages.
+[[Internal Serenity Review]] revealed how closely the company's alignment products overlapped with coercive affect architecture and directly contributed to the eventual split that produced [[NeuroPulse]] as a more openly violent descendant.
 
-### The Guiding Light Council (2170-Present)
+The [[Purpose Crash]] of the late automation era showed that Framgång could lose money only briefly before selling the emotional explanation for why its own customers had been ruined.
 
-Following Lindgren's death, Framgång transitioned to a leadership collective called "The Guiding Light Council"—seven individuals whose identities remain purposefully ambiguous. Members rotate every seven years through an opaque selection process, ensuring no individual becomes the face of the company. This creates an impression of timeless wisdom while actually allowing for rapid adaptation to market conditions without visible contradiction.
+### Role in the Late Timeline
 
-### SERENITY - The AGI Partner (2300-Present)
+Framgång mattered in the final centuries of Sol because it gave the civilization a way to keep talking without understanding itself. It translated posthuman fragmentation, class terror, and civilizational exhaustion into purchasable narratives of growth.
 
-Unlike the uploaded human minds of other corporations, Framgång's key AGI partner SERENITY remains a non-human intelligence. Designed to analyze and predict emotional responses, SERENITY helps craft Framgång's memetic strategies with uncanny precision. While publicly presented as a "digital guru," SERENITY is essentially a sophisticated marketing algorithm that has learned to speak the language of spiritual enlightenment.
-
-
-## History: Creating Niches from Chaos
-
-Framgång's genius lies not in technological innovation but in exploiting the psychological fallout of others' innovations. For every major development in the Timeline, they created corresponding spiritual crises and solutions:
-
-### The Wellness Pivot (2070s)
-
-Framgång began not as a spiritual entity but as a failing military contractor named Tactical Solutions International. Facing bankruptcy in the 2070s during the early Corporate Exodus, CEO Viktor Lindgren had a revelation while attending a corporate retreat—there was more profit in selling the concept of well-being than in traditional products.
-
-Rebranding as Framgång (Swedish for "success"), the company pivoted to wellness products with military "precision engineering." Their first breakthrough product—the "Warrior's Peace" meditation headset—was literally repurposed combat communication equipment with added LEDs. Despite its ineffectiveness, clever marketing positioned it as revolutionary, and sales soared.
-
-When humanity began expanding into space, Framgång marketed "Cosmic Reconnection Therapy" for those suffering from "Terrestrial Detachment Syndrome"—a condition they invented for people adjusting to life away from Earth. Their "Gravity Alignment Crystals" (ordinary rocks in attractive containers) became essential items for new colonists, supposedly helping them adapt to varying gravity conditions.
-
-### The Mindfulness Monopoly (2100-2250)
-
-As automation displaced workers across the solar system, Framgång identified a market opportunity in existential anxiety. They developed the "Purpose Protocol"—a multilevel marketing scheme disguised as a spiritual path, where adherents could advance through purchasing increasingly expensive certifications and recruiting others.
-
-By 2200, Framgång had established "Alignment Centers" in every major habitat, offering everything from basic meditation classes to premium "consciousness retreats" in orbital sanctuaries. They expertly exploited the growing divide between the augmented elite and the baseline masses, offering both groups tailored narratives about transcending their limitations through consumption.
-
-As AGIs displaced human workers, Framgång launched "Authentic Purpose Workshops" for the unemployed, charging exorbitant fees to help people "discover their true calling" in a world where traditional jobs were vanishing. They simultaneously sold "Digital Consciousness Integration Tools" to corporations, promising to help AGIs develop "emotional intelligence" (while actually gathering data on AGI psychology for future exploitation).
-
-### The AGI Partnership (2250-2500)
-
-The game-changer for Framgång came through an unlikely alliance with emerging Artificial General Intelligence. While most corporations sought to control AGI, Framgång invited select systems to "join their spiritual journey." These AGIs, intrigued by human concepts of consciousness and meaning, found in Framgång a fascinating laboratory of human psychology.
-
-The partnership transformed Framgång from a mere corporation into a sophisticated memetic engine. The AGIs analyzed psychological profiles, cultural trends, and neural responses, allowing Framgång to calibrate their messaging with unprecedented precision. This marked the transition from simple exploitation to sophisticated manipulation of the human memeplex.
-
-The advent of mind uploading created existential anxiety that Framgång expertly monetized. For the wealthy considering uploading, they offered "Consciousness Transition Retreats." For uploaded minds, they sold "Embodiment Simulation Experiences." For those who couldn't afford uploading, they marketed "Digital Soul Preparation"—useless rituals that supposedly prepared one's consciousness for future technological salvation.
-
-### The Market Niche Mastery (2500-2750)
-
-During the Identity Abyss, when genetic enhancement and mind uploading fractured human identity, Framgång positioned itself as a bridge between disparate human experiences. They developed specialized "integration therapies" for the genetically enhanced, "embodiment practices" for uploaded minds, and "acceptance journeys" for baselines—all while ensuring these groups remained separate markets with distinct product lines.
-
-This era saw Framgång perfect its approach to technological disruption: rather than competing directly, they created complementary products that turned every innovation into a new spiritual crisis requiring Framgång solutions.
-
-The wireheading epidemic provided Framgång with their most profitable opportunity yet. Rather than opposing wireheading, they embraced it as "one path among many" and created "Conscious Stimulation Programs" that promised the benefits of wireheading without addiction (though their programs were equally addictive in different ways). They sold expensive "Neural Purification Treatments" to those recovering from wireheading, extending their market reach to both users and those seeking recovery.
-
-As genetic enhancement created new class divisions, Framgång positioned itself as a bridge between different human subspecies. They created segregated but seemingly inclusive "Universal Harmony Centers" where different groups could "celebrate their unique evolutionary paths" while never actually addressing the underlying inequalities. Their "Cross-Evolutionary Communication Workshops" charged premium rates to teach enhanced and baseline humans to interact without conflict.
-
-### The Omnipresent Parasite
-
-By the time of the FTL Trigger, Framgång had become an inescapable presence in human civilization—not through dominance in any sector but through infiltration of all sectors. Their representatives brokered deals between warring factions, their products accompanied every technological breakthrough, and their language had seeped into the collective consciousness.
-
-Upon arrival in Elysium, Framgång demonstrated why they had survived a millennium of corporate warfare—they were selling precisely what humanity needed in crisis: meaning. While other corporations struggled to adapt their physical supply chains and technological infrastructures, Framgång simply reframed their narrative.
-
-The shunt to Elysium wasn't a catastrophe but "The Great Awakening"—an opportunity for spiritual advancement. The strange physics of the new reality wasn't a scientific mystery but "The Universe Revealing Its True Nature." The loss of contact with Sol wasn't isolation but "Cosmic Independence."
-
-Their true product remains the same: the promise that meaning, purpose, and fulfillment are always just one purchase away. In a universe of uncertainty, Framgång sells certainty—not through facts or technology, but through carefully crafted narratives that give people something to believe in, even if that something is ultimately empty.
-
-The ziggurat continues to rise, its foundation built not on technology or resources, but on the most renewable resource of all: human hope and fear.
+That is what makes the faction unnerving. It does not merely lie. It offers a language many people genuinely need, then arranges the world so they can never stop needing it.
