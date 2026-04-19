@@ -401,6 +401,26 @@ describe("FileTrie", () => {
       assert.strictEqual(path[1].data, data3)
     })
 
+    test("should prefer a real note slug over synthetic folder index slugs", () => {
+      const overview = {
+        title: "Timeline",
+        slug: "Worldbuilding/Pre-Elysium/Timeline",
+        filePath: "Worldbuilding/Pre-Elysium/Timeline.md",
+      }
+      const child = {
+        title: "Corporate Exodus",
+        slug: "Worldbuilding/Pre-Elysium/Timeline/Corporate-Exodus",
+        filePath: "Worldbuilding/Pre-Elysium/Timeline/Corporate Exodus.md",
+      }
+
+      trie.add(overview)
+      trie.add(child)
+
+      const timelineNode = trie.findNode(["Worldbuilding", "Pre-Elysium", "Timeline"])
+      assert.ok(timelineNode)
+      assert.strictEqual(timelineNode.slug, overview.slug)
+    })
+
     test("should return path for partial path", () => {
       const data = {
         title: "Nested",

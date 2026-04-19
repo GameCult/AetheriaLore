@@ -39,6 +39,13 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
   }
 
   get slug(): FullSlug {
+    // Some branches have both a real note (for example `Timeline.md`) and child
+    // pages below them. In that case the note path is the canonical URL and
+    // should win over a synthetic `.../index` folder slug.
+    if (this.data?.slug) {
+      return this.data.slug as FullSlug
+    }
+
     const path = joinSegments(...this.slugSegments) as FullSlug
     if (this.isFolder) {
       return joinSegments(path, "index") as FullSlug
