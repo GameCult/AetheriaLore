@@ -35,9 +35,9 @@ Framgång's revenue streams are diffuse by design:
 
 This makes Framgång parasitic in the strict ecological sense. It does not need to dominate mining, transport, or planetary governance outright. It thrives wherever another system has already produced anxiety, inequality, and the need to keep populations functioning anyway.
 
-### Lumens, Alignment, and the Endless Upgrade
+### Alignment
 
-Framgång's internal tender is `Lumens`, but the number people truly fear is their `Alignment` score. Lumens buy access to retreats, coaching, housing upgrades, ritual goods, neurofeedback plans, curated diets, and the next tier of self-explanation. Alignment is the quantified aura produced by purchase history, biometric compliance, customer testimony, insurer partnerships, and the faction's ever-changing doctrine of who looks spiritually investable.
+`Lumens` buy the visible goods of Framgång life: retreats, coaching, housing upgrades, ritual objects, neurofeedback plans, and curated diets. `Alignment` follows those purchases and folds them back into the next round of judgment, combining biometrics, testimonials, insurer data, and public performances of self-improvement.
 
 High Alignment brings discounts, social prestige, improved hiring prospects, premium mating markets, and the warm relief of feeling briefly less defective than yesterday. But higher tiers require more Lumens, more public sincerity, and more submission to the company's vocabulary. A citizen of Framgång is always almost healed, always one purchase away from becoming the sort of person who no longer needs to buy becoming.
 

@@ -34,11 +34,11 @@ Aya's economy centers on:
 
 Its key institutions include the Commons Assemblies, Sanctuary Bureaus, Agricultural Mutuals, Sentience Defense Clinics, and the rotating coordination councils that keep the federation interoperable without turning it into a state in the Dominion mold.
 
-### Seed Notes, Water Tallies, and the Refusal to Hoard
+### Seed Notes in Season
 
-Aya does use internal accounting, but it distrusts anything that hardens too easily into class power. Many settlements therefore circulate expiring `Seed Notes` and seasonal `Water Tallies` for scarce goods, transport priority, or difficult labor balancing while keeping survival basics as decommodified as local conditions allow. These tokens are designed to circulate and then lose force. If they can be hoarded forever, Aya believes they have already begun becoming a ruling class.
+`Seed Notes` and `Water Tallies` appear when harvests run thin, convoys come late, or a repair season demands more labor than goodwill alone can allocate. They ration irrigation time, reserve stock, transport slots, and difficult communal work without pretending scarcity has disappeared.
 
-Status in Aya space comes less from accumulation than from reliability: who repairs pumps without applause, who shows up for night watch, who can be trusted with refugee intake, who keeps seed vault promises, who does not vanish when the work turns dull and necessary. No one gets rich in Aya space. That is the point, and sometimes also the problem.
+Settlements let them expire on purpose. Emergency paper is supposed to pass through the hands that need it, do its work, and lose force before it can become inheritance. Aya status accumulates elsewhere: in remembered labor, trusted stewardship, and the habit of showing up for the dull tasks that keep other people alive. No one gets rich in Aya space. That is the point, and sometimes also the problem.
 
 ### A Life in Aya
 

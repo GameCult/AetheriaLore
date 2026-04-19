@@ -21,6 +21,7 @@ This repository is an Obsidian vault for the Aetheria setting. Contributions sho
 - Keep speculative elements legible by anchoring them in social, political, or physical consequences.
 - Use vivid phrasing when appropriate, but avoid empty flourish that does not add setting information, mood, or ideological texture.
 - Use evocative emotional language when it sharpens the reader's sense of lived experience inside a system. A good phrase can crystallize how a regime feels from within, especially around labor, desire, status, fear, debt, or the false promise of escape.
+- When revising, preserve unusually strong lines that reveal lived experience with precision. If a phrase makes the reader feel a system in their body or names longing, shame, relief, or self-deception with unusual force, keep it unless there is a clear reason to remove it.
 - Maintain internal consistency with existing terminology, institutions, factions, and timeline beats.
 
 ## Tone
@@ -47,6 +48,12 @@ This repository is an Obsidian vault for the Aetheria setting. Contributions sho
 - When possible, connect abstract concepts to institutions, everyday life, and conflict.
 - For factions and territories, make daily routines, currencies, status traps, family structures, and life-cycle expectations palpable and distinct. A reader should be able to imagine childhood, work, aspiration, compromise, aging, and failure under each system.
 
+## Core Narrative Themes
+
+- Always consider the recurring themes collected in `[[Narrative Themes]]` when adding or revising material.
+- In particular, keep an eye on rampant accelerationism, identity as a classed administrative category, consciousness as a contested political threshold, mutability without liberation, alienation through managed reality, and care, sanctuary, and maintenance as the setting's major counter-theme.
+- These themes should function as interpretive lenses rather than a rigid checklist. New material does not need to foreground all of them, but it should remain compatible with them and ideally sharpen at least one of them.
+
 ## Cultural And Historical Guidance
 
 - Always be mindful of the societal and cultural impact of technology.
@@ -63,6 +70,7 @@ This repository is an Obsidian vault for the Aetheria setting. Contributions sho
 - If the index is missing, dependencies are not installed, or the vault has changed substantially since the last build, run `./scripts/rag/rag.ps1 install` and then `./scripts/rag/rag.ps1 build`.
 - Treat RAG as the default navigation layer, but still open and read the returned notes directly before making substantial edits.
 - Prefer `rg` or direct file reads when you need exact filename matching, exact string matching, or repository-wide regex searches that semantic retrieval may miss.
+- In Windows PowerShell 5.1, always read and write vault Markdown with explicit UTF-8 handling. Do not rely on bare `Get-Content` or `Set-Content` defaults for note files, especially when notes contain non-ASCII characters such as `Framgång`.
 - Run `build` and `query` one at a time; local Qdrant locks the on-disk store while a command is active.
 
 ## Editing Guidance For Future Agents
@@ -71,3 +79,6 @@ This repository is an Obsidian vault for the Aetheria setting. Contributions sho
 - Preserve existing links and add new ones where they genuinely improve navigation.
 - Do not remove ambiguity or tension unless the note is clearly meant to resolve a question.
 - If you encounter malformed characters from prior encoding issues, fix them carefully and only where you can do so confidently without changing meaning.
+- Keep prose fully in-world and topic-facing. Do not mention templates, repetition, drafting strategy, or the fact that a passage is avoiding a pattern. Notes should never sound aware of the prompt behind them.
+- When differentiating related notes, vary both the substance and the rhetoric. Do not solve one repeated structure by leaning on another repeated move such as "`X` exists, but the real thing is `Y`", "what matters more is", or other self-justifying contrast formulas across every note.
+- After revising a cluster of similar notes, reread the edited passages together and remove any repeated pivots, especially recurring `, but` clauses, "the real X" constructions, or lines that read like editorial commentary rather than setting material.

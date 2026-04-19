@@ -10,6 +10,8 @@ The bloc emerged from the aerospace and habitat-construction side of early colon
 
 Its defining partnership was with [[Orbital Forge]], whose cavity-construction, salvage, and Bloom innovations made AU's outward push materially scalable. This alliance was always tense. AU wanted predictable throughput. Orbital Forge wanted porous standards, rogue experimentation, and the freedom to keep inventing forms of settlement that no central administrator fully controlled.
 
+That tension later sharpened around thermal fabrication. The [[Cinderlace Licensing War]] did not break AU's Belt dominance, but it did cost the bloc a narrow Ceres-Pallas corridor of ultra-high-value materials yards and emitter works that slipped into the orbit of [[Cryonix]]. AU kept most of the Belt's mass. It lost one of its most profitable future margins.
+
 ### Political Logic
 
 AU believes abundance can still be built if expansion remains faster than stagnation. That does not make it humane. It often treats new habitat volume as the answer to old labor contradictions and solves governance problems by redistributing populations into fresh engineered spaces before they can organize politically.
@@ -22,7 +24,7 @@ AU territory is concentrated across the Belt, Earth-orbit shipyards, and the mob
 
 That diversity does not mean equality. AU habitats are sharply stratified by spoke access, light quality, docking priority, and maintenance reliability. Core engineering cadres and profitable coordinators live near transit hubs and governance nodes. Disposable laborers, biodrone crews, and low-status uplift populations are often housed in harsher maintenance zones or frontier clusters where accidents can be described as inevitable.
 
-Still, AU retains a frontier myth that many residents find genuinely attractive. Belt life feels looser, less scripted, and more materially inventive than the authoritarian heartlands. That myth survives because AU really does produce worlds, jobs, and new technical cultures at an astonishing pace, even when it also exploits the people building them.
+Still, AU retains a frontier myth that many residents find genuinely attractive. Belt life feels looser, less scripted, and more materially inventive than the authoritarian heartlands. That myth survives because AU really does produce worlds, jobs, and new technical cultures at an astonishing pace, even when it also exploits the people building them. Even Cryonix's thermal corridor looks like an exception carved out of AU geography rather than a replacement for it.
 
 ### Economy and Institutions
 
@@ -31,17 +33,18 @@ AU profits from:
 - Bloom construction and habitat retrofits
 - shipyards and convoy fabrication
 - Belt extraction, salvage, and materials processing
+- bulk thermal hardware and refractory industrial support
 - logistics routing and high-risk expansion contracts
 - species-specific labor ecologies through [[BioElevate]]
 - opportunistic licensing of frontier innovations
 
 Its major institutions include the Expansion Board, the Ramp Administrations that govern large Bloom clusters, the Frontier Claims Office, and a thicket of semi-autonomous operations councils that often behave like petty governments in their own right.
 
-### Claimshares, Berth Priority, and Frontier Hunger
+### Claimshares
 
-AU pays in `Claimshares`, speculative internal credits tied to project success, output, and frontier risk. They can be used for better tool allotments, improved gravity districts, priority docking, evacuation guarantees, medical access, and, if a worker is lucky, tiny equity stakes in new cavity charters. The other half of the social ladder is `Berth Priority`: the invisible ranking that decides who gets the good spin, the safe spoke, the dry room, the first shuttle, or the first chance to leave when a frontier Bloom starts to die.
+`Claimshares` circulate through AU territory like frontier stock certificates disguised as wages. Crews earn them for output, dangerous contract completion, and staying attached to promising cavities. They buy better tools, medical access, improved spin districts, docking priority, and, for the fortunate, slivers of equity in the next charter.
 
-Claimshares are seductive because they make exploitation feel like a wager you might still win. A crew can spend ten years building a future in numbers and lose half of it when a project is written down as failed expansion. In AU space, people survive on the conviction that one more charter, one more claim, one more dangerous contract will finally move them from the maintenance tier to a life with windows.
+Claimshares are seductive because they make exploitation feel like a wager you might still win. Because every issue is tied to a project rather than a stable commons, workers read berth assignments and evacuation rosters as closely as their balances. A Bloom in ascent can make a crew feel half-rich. A Bloom marked for write-down can turn years of paper into almost nothing. AU keeps faith with expansion by paying people in a future that is always one habitat farther out, one more dangerous contract away from a life with windows.
 
 ### A Life in AU
 
@@ -63,6 +66,8 @@ The [[Bloom Expansion Conflicts]] normalized mobile habitat sovereignty and made
 
 The [[Pallas Species Strikes]] exposed how much the frontier build-out depended on uplift and engineered labor that did not accept permanent subordination.
 
+The [[Cinderlace Licensing War]] showed that AU could dominate the Belt in volume and still lose the highest-margin slice of advanced thermal fabrication.
+
 ### Role in the Late Timeline
 
-AU matters because much of the late-Sol world literally lives inside its engineering imagination. It built the places where the rest of the century's contradictions matured. Even in collapse, everyone still needed AU yards, AU spares, AU freight, or AU cavities.
+AU matters because much of the late-Sol world literally lives inside its engineering imagination. It built the places where the rest of the century's contradictions matured. Even in collapse, everyone still needed AU yards, AU spares, AU freight, or AU cavities. Cryonix's enclave corridor wounds AU pride and profits, but not enough to erase the broader truth that most Belt life still unfolds inside AU-scale habitat geometry.

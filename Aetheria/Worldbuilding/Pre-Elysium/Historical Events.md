@@ -11,6 +11,7 @@ The solar timeline becomes easier to navigate once its major conflicts, congress
 
 [[Ganymede Route Compact]]  
 [[Upload Continuity Hearings]]  
+[[Cinderlace Licensing War]]  
 [[Tycho Exclusion Riots]]  
 [[Pallas Species Strikes]]  
 [[Lagrange Broadcast War]]  
@@ -25,6 +26,7 @@ The solar timeline becomes easier to navigate once its major conflicts, congress
 [[Urban Sovereignty War]]  
 [[Mercury Array Crisis]]  
 [[Atmospheric Processing Dispute]]  
+[[Cold Wake Panic]]  
 [[Enceladus Cooperative Schism]]  
 [[Ice Giant Navigation Wars]]  
 [[Neural Network Defense Campaign]]  

@@ -6,6 +6,8 @@ The [[Pan-Solar Consortium]] is the clearest expression of that logic. It does n
 
 That is why regulated warfare becomes normal. [[Restrictions on Warfare]] are not humane restraints in the old civic sense. They are market-preservation rules. Damage caps protect future revenue. Neutral zones protect throughput. Conflict permits decide which forms of violence remain legible to insurers and clearing houses. Even factions that despise the PSC often rely on the predictability it preserves.
 
+By the late timeline, even stealth is financialized. Quiet-running envelopes, registered heat dumps, and signature classes become part of the same administrative logic. See [[Thermal Signature Warfare]].
+
 ### What Politics Looks Like On The Ground
 
 For ordinary people, politics is usually experienced as a struggle over access to necessities, recognition, and exit. Can a worker move between habitats without debt bondage? Can an uplift or upload be recognized as a rights-bearing subject? Can a movement organize before predictive systems classify it as a threat? These questions connect the boardroom, the server farm, the mine, the clinic, and the street.

@@ -1,0 +1,5 @@
+*"We taught heat to leave by another door, and the market answered by buying the building."*
+
+[[Cinderlace Cooperative]] was a Belt materials venture formed out of Ceres Polytechnic thermal-weave research led by Sadaf Nouri and Tomas Vale. Its knotted carbon lace membranes were the first manufacturable extraordinary emitters to matter under real operating conditions, which briefly put a technically narrow cooperative in possession of patents powerful enough to frighten firms much larger than itself.
+
+The cooperative mattered because it threatened to turn premium thermal rejection into a Belt-governed standard rather than an inner-system monopoly. That possibility died in the [[Cinderlace Licensing War]]. [[Cryonix]] absorbed Cinderlace's manufacturing arm, PSC panels ratified enough of its claims to make the victory bankable, and the cooperative's surviving engineers scattered into Orbital Forge yards, black laboratories, and the long leak of thermal counter-stack knowledge that kept Cryonix from ever becoming completely unchallenged.

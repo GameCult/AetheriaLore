@@ -15,8 +15,14 @@ Characteristic movements: [[Free Minds]], [[Species Controllers]], Belt-aligned 
 ### [[Finch Cybernetics]]
 Premium augmentation empire. Specializes in graceful embodiment, neural dignity for those who can pay, and lifelong service dependency for everyone else.
 
-Sub-faction emphasis: [[VitaForge]], [[Cryonix]]  
+Sub-faction emphasis: [[VitaForge]]  
 Characteristic movements: [[Enhancement Liberals]], professional augmentation strata
+
+### [[Cryonix]]
+Enclave mega of thermal sovereignty, premium materials, and signature-managed survivability. Holds the far-side lunar materials-clinic arc and a narrow Belt fabrication corridor by deciding who can run denser, colder, and quieter than their rivals.
+
+Sub-faction emphasis: former [[Cinderlace Cooperative]] networks  
+Characteristic movements: [[Enhancement Liberals]], elite technical guilds, quiet-running security markets
 
 ### [[Lucent Media]]
 Perception bloc of spectacle, status, and emotional weather management. Rules by deciding what can be seen, desired, envied, or remembered.
@@ -27,7 +33,7 @@ Characteristic movements: [[Reality Architects]], [[Immortal Aristocrats]], [[He
 ### [[Sol Dominion]]
 Late imperial administrative synthesis. Centralizes Earth-Luna power through AGI governance, hereditary hierarchy, industrial planning, and FTL ambition.
 
-Sub-faction emphasis: [[CogniSys]], [[GeneSys]], [[Quantum Dynamics]], [[Rossum & Douglas]], [[SolEx]]  
+Sub-faction emphasis: [[CogniSys]], [[GeneSys]], [[Quantum Dynamics]], [[SolEx]]  
 Characteristic movements: [[Ascended Caste]], [[Pragmatists]], technocratic authoritarians
 
 ### [[Cetacean Navigators]]
@@ -52,6 +58,7 @@ Characteristic movements: anxious consumer blocs, soft [[Bio-Purist]] currents, 
 
 Some powers remain too distributed, too deniable, or too infrastructural to fit neatly inside mega borders:
 
+- [[Rossum & Douglas]] certifies quiet-running envelopes, thermal circulation safety, and other boring necessities no serious power can ignore.
 - [[NiteLife Energy]] controls vital power backbones across rival territories.
 - [[AstroDyne]] serves the frontier, gray market, and pirate-adjacent repair economy.
 - [[Cognitum]] sits at the black-budget intersection of cognition research and atrocity.

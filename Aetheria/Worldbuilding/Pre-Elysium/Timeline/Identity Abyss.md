@@ -20,5 +20,7 @@ Between 2728 and 2740, the most control-oriented parts of the late-Sol order coh
 
 By the end of the era, the old question of whether the system can hold together has changed form. It can hold together. The more frightening question is what kind of society it has to become in order to keep doing so.
 
+One answer arrives through thermal sovereignty. Cryonix's victory in the [[Cinderlace Licensing War]] hardens into territorial fact during this era: far-side lunar materials enclaves break away from Finch's wider premium order, a narrow Belt fabrication corridor slips from the AU/Forge sphere, and extraordinary emitters become part of mega politics rather than supplier politics. At the same time, [[Rossum & Douglas]] turns circulation safety and quiet-running certification into its own cross-territory empire, proving that even stealth will eventually be administered by standards boards.
+
 ### Previously: [[Identity Crisis]] - 2250-2500
 ### Next: [[Existential Collapse]] - 2750-3025

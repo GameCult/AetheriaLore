@@ -34,11 +34,11 @@ The faction is also unusual in what it refuses. It uses AGI and uploads selectiv
 
 This helps explain why Zhestokost remained coherent during the [[Existential Collapse]]. Its economy had always been built around scarcity, stockpiling, and planned deprivation. When the rest of Sol began to learn those habits in panic, Zhestokost was already culturally fluent in them.
 
-### Moneta, Citations, and the Managed Future
+### Moneta
 
-Zhestokost pays in `Moneta`, a closed scrip system that pretends to be egalitarian because everyone receives it and reveals itself as hierarchical because command decides what it can actually buy. In theory Moneta covers food, housing, clothing, leave, and family provisioning. In practice it mostly buys degrees of discomfort. A loyal worker gets a warmer compartment, a shorter ration queue, an extra hour of private light, a better school petition for a child. A suspect worker receives the same number on paper and a colder life in fact.
+`Moneta` is issued across Zhestokost for rations, housing, clothing, leave, and family provisioning, giving the regime an austere image of universal provision. Every citizen knows the printed balance is only half the story. Citation rank, reliability scores, PRB trust classifications, and sacrifice honors determine how far that Moneta actually stretches.
 
-The real ladder is citation rank. Campaign commendations, sector reliability scores, sacrifice honors, and PRB trust classifications decide how far Moneta stretches. A citizen learns quickly that Moneta does not buy freedom. It buys the chance to be less exhausted than the person beside you and the hope that your children might be sorted a little higher.
+In practice the system prices obedience in gradations of discomfort. A favored unit gets warmer compartments, shorter lines, protected schooling petitions, and family postings less likely to break. A suspect unit receives the same denominations with colder air around them. Moneta does not buy freedom. It buys the chance to be less exhausted than the person beside you and the hope that your children might be sorted a little higher. Even compensation is organized as drill.
 
 ### A Life in Zhestokost
 

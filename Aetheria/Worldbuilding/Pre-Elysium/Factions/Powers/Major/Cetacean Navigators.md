@@ -35,11 +35,11 @@ The Navigators profit from:
 
 Their most important institutions are the Route Choirs, Corridor Courts, Rescue Ledgers, and Waystation Councils. Together these make movement itself a political resource rather than a simple service.
 
-### Wake Marks, Rescue Ledgers, and Trust Wealth
+### Rescue Ledgers
 
-Navigator accounting uses `Wake Marks` for the ordinary flow of provisioning, berth access, repairs, and convoy labor, but the coalition's real economy lives in its `Rescue Ledgers`. A crew with thin pockets but a long record of keeping others alive will find doors open that money alone cannot move. A wealthy operator with a bad rescue reputation can be stranded socially long before they are stranded physically.
+`Wake Marks` settle ordinary convoy life: provisions, repairs, berth fees, tug work, and small wages. The ledgers people speak about with respect are the rescue ledgers kept by waystations, corridor courts, and crews themselves. They record who answered distress calls, who held formation in lethal weather, and who kept sanctuary promises when a paying client wanted otherwise.
 
-This makes Navigator territory feel strange to visitors from harder market systems. Material exchange still matters, but trust is not ornamental. It settles credit, kinship, and route precedence. A life here is shaped not only by what you own, but by whose distress call you answered when it would have been cheaper not to.
+Those records shape credit, escort priority, arbitration outcomes, and even kinship ties. A captain with modest accounts and a clean rescue history will often move through Navigator space more easily than a richer operator everyone expects to cut the towline. A life here is shaped not only by what you own, but by whose distress call you answered when it would have been cheaper not to.
 
 ### A Life Among the Navigators
 

@@ -8,6 +8,8 @@ The [[Identity Crisis]] begins when corporations stop treating the mind as the u
 
 This creates several incompatible public narratives at once. Elite uploads are described as full persons whose rights must be protected because their portfolios and voting blocs matter. Industrial uploads are described as useful simulations because their customers want a permanent workforce without a permanent legal headache. The resistance currents that become [[Free Upload Network]], [[Emancipated]], and the later [[Preservationists]] emerge in this contradiction.
 
+The same era makes thermal density newly political. Upload vaults, elite clinics, AGI cores, and compact premium ships all want more performance inside less volume. Research out of Ceres Polytechnic gives rise to the future [[Cinderlace Cooperative]], whose extraordinary emitter work triggers the [[Cinderlace Licensing War]]. What begins as a materials dispute rapidly becomes a sovereignty dispute: who gets to own the right to denser, quieter, and more survivable systems.
+
 ### Uplift and Corporate Species Policy
 
 At the same time, biological engineering reaches outward. [[BioElevate]], [[GeneSys]], [[NeuroSyn]], and later [[Alakrita]] create increasingly specialized uplift lines for mining, navigation, reconnaissance, logistics, and ship cognition. These programs produce the future ancestors of the [[Cetacean Navigators]], [[Raven Collective]], [[Cephalopod Syndicate]], [[Elephant Enclave]], and [[Ship Mutiny]], but they begin as labor and control experiments rather than liberation projects.

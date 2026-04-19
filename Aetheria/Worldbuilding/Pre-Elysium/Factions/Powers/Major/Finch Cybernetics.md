@@ -8,7 +8,9 @@ Finch therefore sits at a crucial junction in the setting: between disability an
 
 The company grew out of high-end neuroprosthetics, surgical interface design, and luxury medical hardware sectors that matured during the late [[Corporate Exodus]]. Its early public ethos drew heavily on the work of Mireille Finch and others who argued that body-machine integration should preserve sensorimotor dignity rather than reduce people to industrial peripherals.
 
-That humane promise became the brand's foundation. As cheaper augmentation firms flooded frontier markets with brittle or coercive hardware, Finch positioned itself as the civilizing alternative: elegant, safe, tasteful, and professionally managed. It later expanded into upload-transition systems, embodiment bridges, and premium continuity services that fed clients into [[EternaMind]] and related markets without leaving them trapped in ugly machinery.
+That humane promise became the brand's foundation. As cheaper augmentation firms flooded frontier markets with brittle or coercive hardware, Finch positioned itself as the civilizing alternative: elegant, safe, tasteful, and professionally managed. It later expanded into upload-transition systems, embodiment bridges, premium continuity services, and a deep partnership with [[Cryonix]] materials that made Luna's far-side clinic world feel almost inseparable from refined thermal control.
+
+That integration eventually became a weakness. When the [[Cinderlace Licensing War]] let Cryonix turn materials supremacy into sovereign leverage, Finch lost the illusion that premium embodiment and premium thermal infrastructure would always remain parts of the same empire. From that point on, Finch became smaller, more clinically focused, and more openly dependent on controlling bodies and continuity rather than the full material stack beneath them.
 
 ### Political Logic
 
@@ -18,9 +20,9 @@ This is why the corporation can align partly with [[Enhancement Liberals]] while
 
 ### Territory and Everyday Life
 
-Finch territory is concentrated on Luna, the Earth-Moon service lattice, and a set of clinic habitats and research arrays surrounding major elite transit routes. Daily life there is cleaner, quieter, and more carefully curated than in most of Sol. Maintenance windows are regular. Wayfinding is intuitive. Public surfaces are understated and almost too perfect.
+Finch territory is concentrated on Luna, the Earth-Moon service lattice, and a set of clinic habitats and research arrays surrounding major elite transit routes. After Cryonix's rise, that territory no longer includes the whole premium far-side lunar stack. Tycho continuity districts, embodiment clinics, and elite service corridors remain Finch-coded, but the adjacent materials-clinic arc and much of the thermal works answer elsewhere. Daily life there is cleaner, quieter, and more carefully curated than in most of Sol. Maintenance windows are regular. Wayfinding is intuitive. Public surfaces are understated and almost too perfect.
 
-Residents experience enhancement not as spectacle but as infrastructure. Doors recognize gait signatures. Clinics feel like civic temples. Repair is dignified, but also omnipresent enough to remind everyone that embodiment has become a managed service. High-status citizens move through seamless environments. Lower-status technicians, surgical laborers, and contract patients see more clearly how much invisible work sustains the illusion of effortless refinement.
+Residents experience enhancement not as spectacle but as infrastructure. Doors recognize gait signatures. Clinics feel like civic temples. Repair is dignified, but also omnipresent enough to remind everyone that embodiment has become a managed service. High-status citizens move through seamless environments. Lower-status technicians, surgical laborers, and contract patients see more clearly how much invisible work sustains the illusion of effortless refinement. They also live with a more obvious frontier between Finch's authority and Cryonix's: one empire manages the body, the other the margins that keep the environment and hardware from betraying it.
 
 ### Economy and Institutions
 
@@ -28,16 +30,18 @@ Finch's economy runs through:
 
 - premium implants and surgical integration
 - long-term service and maintenance contracts
-- neural bandwidth hardware in partnership with [[Cryonix]]
+- premium neural bandwidth hardware procured through increasingly unequal dealings with [[Cryonix]]
 - embodiment bridges for uploads and hybrid cognition
 - biodesign through [[VitaForge]] where biological and mechanical systems overlap
 - elite clinics, licensing, and proprietary interface standards
 
 Its most important institutions are the Continuity Clinics, the Lunar Service Vaults, the Interface Standards Councils, and the surgical academies that produce a professional class loyal less through ideology than through specialized dependency.
 
-### Grace, Service Tiers, and the Debt of Composure
+### Grace Coverage
 
-Finch's internal economy runs on `Grace`, a service credit system used for tune-ups, warranty extensions, firmware refinement, aesthetic resurfacing, sensory calibration, and emergency embodiment support. Grace looks gentler than crude scrip because it is wrapped in the language of care. But it is still a leash. What matters even more than Grace is service tier: the ranking that decides whose body receives immediate maintenance, whose pain is dignified, and whose malfunction can be allowed to linger.
+`Grace` pays for tune-ups, warranty extensions, firmware refinement, aesthetic resurfacing, sensory calibration, and emergency embodiment support. Residents track Grace the way earlier societies tracked health insurance, savings, and social standing all at once.
+
+Grace looks gentler than crude scrip because it is wrapped in the language of care. But it is still a leash. Coverage is tiered from the outset. It determines clinic response times, access to replacement parts, discretion during continuity crises, and how long a body may remain elegant before obvious decay begins to show. In Finch territory, class is visible in maintenance cadence: who is seen immediately, who is scheduled next quarter, and who learns to live with a lag no one important would tolerate.
 
 In Finch space, poverty rarely announces itself with obvious ruin at first. It appears as slight desynchronization: a tactile lag, a visible seam, a tremor in a hand, an uncorrected implant hum, an elegance slipping by fractions. Residents learn to fear downgrade more than outright catastrophe, because catastrophe at least admits something has gone wrong. Downgrade forces you to remain socially legible while quietly falling out of tune.
 
@@ -57,10 +61,12 @@ Culturally, Finch territory admires composure. Pain should be treated, transitio
 
 [[Tycho Exclusion Riots]] revealed how quickly refinement politics could collapse into class war when lower-tier augment recipients were denied the protections granted to premium clients.
 
+The [[Cinderlace Licensing War]] marked the point at which Finch lost control of the wider materials environment that had once made its lunar supremacy feel complete.
+
 The [[Neural Network Defense Campaign]] showed Finch at its most paradoxical: defending bodily autonomy rhetoric while locking entire populations deeper into proprietary maintenance regimes.
 
 The [[Upload Continuity Hearings]] cemented Finch's role in the social distinction between respectable digital persons and disposable industrial copies.
 
 ### Role in the Late Timeline
 
-Finch remains important because many residents of Sol can imagine a posthuman future only through Finch's visual and medical language. It did more than sell enhancements. It taught civilization what a "civilized" enhancement was supposed to feel like, and therefore whom civilization considered worth upgrading gracefully.
+Finch remains important because many residents of Sol can imagine a posthuman future only through Finch's visual and medical language. It did more than sell enhancements. It taught civilization what a "civilized" enhancement was supposed to feel like, and therefore whom civilization considered worth upgrading gracefully. What changed after Cryonix's ascent was not Finch's prestige, but its scope. It became less a total premium order and more a clinically refined one.

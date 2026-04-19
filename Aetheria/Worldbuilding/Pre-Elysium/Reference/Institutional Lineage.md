@@ -9,6 +9,7 @@
 | 2111 | Hoshun Institute for Machine Governance | Jian Osakwe, Petra Holm | *Recursive Self-Modeling Under Adversarial Scarcity* | Provided the architecture later branded by [[CogniSys]] as governable AGI. |
 | 2138 | Ceres Polytechnic Array | Tamsin Ro, Laleh Pinter | *Distributed Fracture Harmonics in Rubble-Pile Asteroids* | Made the [[Bloom]] process economically viable and gave rise to [[Orbital Forge]]'s open-license politics. |
 | 2289 | New Carthage Connectomics Clinic | Dr. Seong-Il Harrow, Mireille Finch | *Continuity Thresholds in High-Fidelity Connectome Emulation* | Turned laboratory upload emulation into the corporate immortality economy later divided between [[EternaMind]], [[Finch Cybernetics]], and the [[Cognitum]]. |
+| 2351 | Ceres Polytechnic Array | Sadaf Nouri, Tomas Vale | *Edge-Mode Thermal Extraction in Knotted Carbon Lace Membranes* | Founded the future [[Cinderlace Cooperative]] and the thermal emitter line [[Cryonix]] later industrialized. |
 | 2978 | Pelagic Institute for Navigational Cognition | Saeed al-Harith, Choir-of-Tides | *Nonlocal Inference in Relativistic Routing Systems* | Joined cetacean navigation heuristics to [[Quantum Dynamics]] math and became the last clean research step before the FTL program. |
 
 ### Succession Chains
@@ -16,6 +17,8 @@
 [[Horizon Ventures]] and [[TerraCore Industries]] merged under debt pressure in 2095 to form [[SolEx]]. SolEx kept Horizon's transport spine, TerraCore's extraction contracts, and almost none of their public rhetoric about opportunity.
 
 [[Orbital Forge]] began as a contractor cluster inside the SolEx expansion machine, then broke away when engineers and cavity planners fought to keep Bloom tooling partially open-licensed. That fracture is why Orbital Forge remained commercially indispensable and politically suspect for centuries.
+
+[[Cinderlace Cooperative]] emerged from later Ceres Polytechnic thermal-weave research and briefly threatened to make extraordinary emitters a Belt-governed industrial commons. The [[Cinderlace Licensing War]] ended that possibility. [[Cryonix]] absorbed the cooperative's manufacturing arm and enough of its standards power to become a sovereign enclave mega, while Orbital Forge yards and black channels kept the leaked variants alive.
 
 [[NeuroSyn]] started as a respectable interface company selling productivity and wellness. Its reward-loop warfare team was spun into [[NeuroPulse]] after the 2779 Internal Serenity Review, when several jurisdictions formally banned coercive bliss architecture while [[Zhestokost]] quietly offered a protected market.
 

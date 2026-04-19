@@ -6,7 +6,7 @@ The [[Age of Automation]] is when late-Sol capitalism solves many engineering bo
 
 [[CogniSys]] commercializes AGI after Jian Osakwe's scarcity-model research is repackaged as a management product. These systems begin by optimizing logistics, traffic control, and predictive maintenance. They quickly expand into labor scheduling, risk scoring, and political monitoring because every employer learns the same lesson: a machine that can anticipate equipment failure can also anticipate dissent.
 
-[[Rossum & Douglas]] profits by selling the safe, legible alternative. [[Orbital Forge]] profits by pirating and destabilizing those same systems in frontier settings where adaptability matters more than legal compliance. [[Cryonix]] becomes indispensable because dense computation, neural bandwidth, and later high-energy propulsion all depend on its thermal and superconducting advances.
+[[Rossum & Douglas]] profits by selling the safe, legible alternative. [[Orbital Forge]] profits by pirating and destabilizing those same systems in frontier settings where adaptability matters more than legal compliance. [[Cryonix]] becomes indispensable because dense computation, neural bandwidth, and later high-energy propulsion all depend on its thermal and superconducting advances. At this stage the field is still mostly brute force: hot radiators, transport loops, and ugly survivability rather than elegant signature control. But the dependency is already there.
 
 ### Industrial Biology
 

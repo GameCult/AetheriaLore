@@ -39,11 +39,11 @@ Its central organs include:
 
 Together they create perhaps the most complete state form the solar age ever produced, even if it still hides inside corporate legal grammar.
 
-### Helios, Clearances, and Permission Wealth
+### Helios Allotments
 
-Dominion citizens are paid in `Helios` allotments, a digital scrip that looks universal until one notices how little it can do without the right clearance band. Helios buys nutrition, housing modules, bandwidth, clinic time, transport windows, educational supplements, and reproductive consultations, but always within the citizen's assigned stratum. The same nominal allotment can mean elegant abundance for a licensed planner and thin subsistence for a labor clerk who is not cleared for better options.
+`Helios` arrives as a universal civic allotment for food, housing modules, clinic time, transport windows, bandwidth, education, and reproductive consultation. The currency is real enough. Every use of it passes through clearance bands, licensure, and hereditary standing, so the same balance can open one life and barely sustain another.
 
-Real wealth in the Dominion is not cash but permission. Clearance determines whether Helios can touch decent schools, protected districts, continuity planning, or simply the right to imagine a future more than a quarter in advance. The elite hold non-expiring assets and hereditary access. The compliant middle hold expiring permissions. The lower strata hold numbers that can never purchase what they are not supposed to want.
+Upper strata convert Helios into long horizons because their permissions persist. Middle strata stack licensures and performance reviews into temporary security. Lower strata learn that the Dominion's sharpest scarcity is future tense: the right to imagine a future more than a quarter in advance. They may possess money for necessities and still never be authorized to touch the life held before them as exemplary. They hold numbers that can never purchase what they are not supposed to want.
 
 ### A Life in the Dominion
 

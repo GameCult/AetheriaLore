@@ -22,9 +22,9 @@ After the [[Urban Sovereignty War]], Earth becomes the polished political core o
 
 Luna is the classic threshold territory. Early on it is a resource frontier, industrial proving ground, and launch dependency. In the automation era it becomes a place where life is expensive, disciplined, and inescapably technical.
 
-By the mid timeline Luna bifurcates. The near side and major military basins align increasingly with command structures later folded into [[Sol Dominion]]. The far side, Tycho, and related clinic complexes become inseparable from [[Finch Cybernetics]], premium augmentation, [[Cryonix]] materials, and the politics of refined posthuman embodiment.
+By the mid timeline Luna bifurcates. The near side and major military basins align increasingly with command structures later folded into [[Sol Dominion]]. The far side begins as a premium Finch-Cryonix environment where embodiment clinics, materials works, and elite continuity infrastructure feel like parts of one refined posthuman order. After the [[Cinderlace Licensing War]], that order splits. Finch retains the continuity clinics, embodiment districts, and prestige service corridors. [[Cryonix]] hardens the surrounding materials-clinic arc, Tycho thermal works, and related fabrication enclaves into a sovereign lattice of its own.
 
-This makes lunar life intensely classed. Some inhabitants live inside the cleanest medical and enhancement environments in Sol. Others endure service labor, maintenance dependency, and exclusion from the very dignities Luna markets to the rich. The [[Tycho Exclusion Riots]] are the clearest expression of this contradiction.
+This makes lunar life intensely classed and newly partitioned. Some inhabitants live inside the cleanest medical and materials environments in Sol. Others endure service labor, maintenance dependency, contamination discipline, and exclusion from the very dignities Luna markets to the rich. The [[Tycho Exclusion Riots]] are the clearest expression of the older contradiction. The Cryonix-Finch split makes it permanent.
 
 ### Mars
 
@@ -56,9 +56,9 @@ Life on Mercury is regimented even outside overt Dominion zones. Workers live by
 
 The Belt is the setting's most important laboratory of social forms. In the early eras it is a mining frontier and debt sink. Once [[Bloom]] technology matures, it becomes the site where habitation itself is industrialized.
 
-[[Aeronautics Unlimited]] and [[Orbital Forge]] shape Belt life more than anyone else. They build habitats faster than rival powers can narrate them, creating a civilization of cavities, salvage yards, improvised law, technical guilds, uplift labor ecologies, pirate channels, and micro-cultures formed under spin gravity and maintenance pressure.
+[[Aeronautics Unlimited]] and [[Orbital Forge]] shape Belt life more than anyone else. They build habitats faster than rival powers can narrate them, creating a civilization of cavities, salvage yards, improvised law, technical guilds, uplift labor ecologies, pirate channels, and micro-cultures formed under spin gravity and maintenance pressure. After the [[Cinderlace Licensing War]], however, they no longer monopolize the Belt's most valuable thermal future. [[Cryonix]] secures a narrow Ceres-Pallas fabrication corridor of weave yards, refractory plants, and extraordinary-emitter works whose strategic value far exceeds its population.
 
-The [[Ceres Control War]], [[Bloom Expansion Conflicts]], and [[Pallas Species Strikes]] explain why Belt society remains both inventive and unstable. Life there can feel freer than in the inner authoritarian cores, but that freedom is structured by logistics, dangerous work, and highly unequal access to safe habitat zones. Many readers should imagine the Belt not as one culture but as the place where Sol keeps experimenting on itself.
+The [[Ceres Control War]], [[Bloom Expansion Conflicts]], [[Pallas Species Strikes]], and later the [[Cinderlace Licensing War]] explain why Belt society remains both inventive and unstable. Life there can feel freer than in the inner authoritarian cores, but that freedom is structured by logistics, dangerous work, and highly unequal access to safe habitat zones. Many readers should imagine the Belt not as one culture but as the place where Sol keeps experimenting on itself, then arguing over who gets to own the profitable part of the result.
 
 ### Jovian Space
 
@@ -98,11 +98,12 @@ This means every settlement in the solar system has at least two maps: the physi
 
 By the eve of [[FTL Trigger]], the broad territorial picture looks like this:
 
-- [[Sol Dominion]] dominates the Earth-Luna-Mercury administrative core.
+- [[Sol Dominion]] dominates Earth, near-side Luna, and the Mercury administrative core.
 - [[Zhestokost]] holds the Martian military-industrial heartland.
 - [[Lucent Media]] rules Venusian spectacle space and major Lagrange broadcast infrastructure.
-- [[Aeronautics Unlimited]] and [[Orbital Forge]] define most of the Belt's habitable-industrial geometry.
-- [[Finch Cybernetics]] controls the most prestigious augmentation and interface territories around Luna and the Earth-Moon system.
+- [[Aeronautics Unlimited]] and [[Orbital Forge]] define most of the Belt's habitable-industrial geometry outside Cryonix's narrow thermal corridor.
+- [[Finch Cybernetics]] controls the most prestigious embodiment, continuity, and interface territories around Luna and elite Earth-Moon transit routes, but no longer the full premium lunar stack.
+- [[Cryonix]] controls the far-side lunar materials-clinic arc, Tycho thermal works, and a narrow Ceres-Pallas fabrication corridor whose thermal sovereignty makes it a mega despite its compact footprint.
 - [[Cetacean Navigators]] anchor the outer route systems and sanctuary corridors.
 - [[Aya Collective]] persists in agricultural, federated, and refuge-oriented zones across several worlds.
 - [[Framgång]], the [[Baseline League]], and their rivals split much of Saturn into overlapping spiritual, populist, and cooperative geographies.
