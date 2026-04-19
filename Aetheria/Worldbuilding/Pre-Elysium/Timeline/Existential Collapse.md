@@ -18,7 +18,7 @@ Warfare also grows colder and stranger. Better thermal materials, tighter circul
 
 ### The Escape Project
 
-[[Quantum Dynamics]] and its allies argue that the only remaining strategic horizon is to leave Sol altogether. Their work draws on cetacean route cognition, Cognitum nonlocal experimentation, Cryonix materials, Dominion state capacity, and elite capital that would rather risk cosmic exile than negotiated decline. By the 3010s, the FTL program has become less a shared species endeavor than a final coalition of exhausted powers who no longer believe the solar system can be politically repaired.
+[[Quantum Dynamics]] and its allies argue that the only remaining strategic horizon is to leave Sol altogether. Their work draws on cetacean route cognition, Cognitum-conditioned firmware for nonlocal reasoning, Cryonix materials, Dominion state capacity, and elite capital that would rather risk cosmic exile than negotiated decline. By the 3010s, the FTL program has become less a shared species endeavor than a final coalition of exhausted powers who no longer believe the solar system can be politically repaired.
 
 This is why the road to Elysium is paved with desperation rather than triumph. The last and greatest technological breakthrough of Sol is born from a civilization that has failed to live with its own creations.
 

@@ -8,7 +8,7 @@ The market stratified along clear lines of power and privilege. At the apex, [[F
 
 In the professional sphere, [[AstroDyne]] dominated with their rugged, reliable implants designed for frontier conditions, while [[CogniSys]] provided the strategic intelligence and control mechanisms that kept the [[Sol Dominion]]'s authoritarian structure functioning. The working classes made do with [[SolEx]]'s "WorkerLink Pro" systems—affordable but heavily monitored interfaces that offered just enough enhancement to remain employable in an increasingly automated economy.
 
-The subscription model became the dominant business paradigm—corporations offered baseline enhancement as loss leaders, then monetized through premium firmware, personalized neuro-marketing feeds, and "cognitive optimization" services. This created ecosystem lock-in, where users struggled to migrate between competing systems without losing functionality, memories, and even aspects of personality.
+The subscription model became the dominant business paradigm—corporations offered baseline enhancement as loss leaders, then monetized through premium firmware, personalized neuro-marketing feeds, and "cognitive optimization" services. This created ecosystem lock-in, where users struggled to migrate between competing systems without losing functionality, memories, and even aspects of personality. At the ugliest edge of that market, [[Cognitum]] sold [[Neuromorphic Firmware]] derived from upload-grade deep scans while marketing it as harmless pattern work and premium intuition.
 
 ## Neural Stratification: The New Class System
 

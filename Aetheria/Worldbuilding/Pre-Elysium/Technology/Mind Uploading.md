@@ -25,6 +25,8 @@ Specialized intelligence could be purchased on open markets—experts can sell, 
 ### Corporate Exploitation
 As upload technology matured, corporations discovered its economic potential. The breakthrough that enabled mass exploitation came from [[Cognitum]] researchers, who began commercializing accelerated brainwashing protocols around 2550.
 
+Their most profitable move was to hide upload abuse inside [[Neuromorphic Firmware]]: productized cognition sold as reusable neural derivatives rather than as coerced persons reduced into software. This gave buyers a way to consume upload labor and torture while pretending they were merely licensing technical artifacts.
+
 The process was chilling in its efficiency:
 1. Upload a consciousness to a controlled simulation
 2. Subject it to years of psychological reformatting in mere hours of real-world time
@@ -63,6 +65,8 @@ The mind uploading ecosystem has evolved into sharply defined territories, each 
 
 ### Weaponized Cognition: Cognitum's Upload Laboratory
 [[Cognitum]] perfected the dark art of uploaded mind manipulation, creating systems for accelerated brainwashing and cognitive experimentation. Their uploads are treated purely as malleable data, subjected to subjective centuries of psychological reformatting in mere hours of real-world time. Cognitum markets their services to corporations and military clients seeking specialized cognitive tools—from strategic planning simulations to psychological warfare applications—with no regard for the subjective suffering of their digital subjects.
+
+Not every deep scan remained legible as an obvious upload. Many were reduced, branched, and repackaged as [[Neuromorphic Firmware]], allowing Cognitum to turn upload-grade capture into piloting stacks, targeting tools, logistics heuristics, and consumer anticipation systems while maintaining the fiction that no person remained inside the product.
 
 ## Competing Narratives: The Battle for Public Perception
 
