@@ -30,4 +30,4 @@ For named conflicts, congresses, scandals, and route compacts that shaped the er
 
 For the territorial end state of the late-Sol order, see [[Megas]] and [[Territories]].
 
-For the political logic that kept warfare and exchange barely governable, see [[Politics]], [[Pan-Solar Consortium]], and [[Restrictions on Warfare]].
+For the political logic that kept warfare and exchange barely governable, see [[Worldbuilding/Politics/index|Politics]], [[Pan-Solar Consortium]], and [[Restrictions on Warfare]].

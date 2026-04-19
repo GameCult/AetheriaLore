@@ -18,3 +18,7 @@ Thumbs.db
 /copilot-custom-prompts
 /.rag/
 /Aetheria/Inspiration
+/.tools/
+/.npm-cache/
+/quartz-site/node_modules/
+/quartz-site/public/
