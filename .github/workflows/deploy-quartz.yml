@@ -36,9 +36,13 @@ jobs:
         working-directory: quartz-site
         run: npm ci
 
+      - name: Restore Quartz launcher permissions
+        working-directory: quartz-site
+        run: chmod +x quartz/bootstrap-cli.mjs quartz/bootstrap-worker.mjs
+
       - name: Build Quartz site
         working-directory: quartz-site
-        run: npx quartz build -d ../Aetheria
+        run: npm run build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
