@@ -55,7 +55,7 @@ This repository is an Obsidian vault for the Aetheria setting. Contributions sho
 ## Core Narrative Themes
 
 - Always consider the recurring themes collected in `[[Narrative Themes]]` when adding or revising material.
-- In particular, keep an eye on rampant accelerationism, identity as a classed administrative category, consciousness as a contested political threshold, mutability without liberation, alienation through managed reality, and care, sanctuary, and maintenance as the setting's major counter-theme.
+- In particular, keep an eye on rampant accelerationism, identity as a classed administrative category, consciousness as a contested political threshold, mutability without liberation, reality drift, institutional misalignment, and care, sanctuary, and maintenance as the setting's major counter-theme.
 - These themes should function as interpretive lenses rather than a rigid checklist. New material does not need to foreground all of them, but it should remain compatible with them and ideally sharpen at least one of them.
 
 ## Cultural And Historical Guidance
