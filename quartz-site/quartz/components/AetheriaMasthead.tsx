@@ -15,24 +15,19 @@ const routes: Route[] = [
     matches: ["index"],
   },
   {
-    label: "Worldbuilding",
-    slug: "Worldbuilding/index" as FullSlug,
-    matches: ["Worldbuilding"],
+    label: "Lore",
+    slug: "Lore/index" as FullSlug,
+    matches: ["Lore", "Worldbuilding", "Introduction", "Narrative-Themes"],
   },
   {
-    label: "Pre-Elysium",
-    slug: "Worldbuilding/Pre-Elysium/index" as FullSlug,
-    matches: ["Worldbuilding/Pre-Elysium"],
+    label: "Game Design",
+    slug: "Game-Design/index" as FullSlug,
+    matches: ["Game-Design"],
   },
   {
-    label: "Post-Elysium",
-    slug: "Worldbuilding/Post-Elysium/index" as FullSlug,
-    matches: ["Worldbuilding/Post-Elysium"],
-  },
-  {
-    label: "Politics",
-    slug: "Worldbuilding/Politics/index" as FullSlug,
-    matches: ["Worldbuilding/Politics"],
+    label: "Stories",
+    slug: "Stories/index" as FullSlug,
+    matches: ["Stories"],
   },
 ]
 
