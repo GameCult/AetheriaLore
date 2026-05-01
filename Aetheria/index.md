@@ -1,6 +1,7 @@
 ---
 title: Aetheria
 description: "Galaxy-scale social experiment disguised as science-fantasy: cockpit action, corporate logistics, alien civilizations, and humanity repeatedly speedrunning extinction."
+socialDeck: "Cockpit action, spreadsheet predation, and humanity repeatedly speedrunning extinction."
 enableToc: false
 ---
 
