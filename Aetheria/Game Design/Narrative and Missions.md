@@ -37,6 +37,6 @@ Subspace dungeons from the older GDD are especially useful for Terminus-scale st
 
 ## Call of the Void
 
-[[Call of the Void]] is the emergency scope cut below Terminus. Instead of proving a hostile procedural crossing, it can prove authored mission density: PI cases, taxi fares, station districts, recurring passengers, faction contacts, a malfunction-prone ship, and the slow discovery that the exploratory force has become a resident population whether it likes the term or not.
+[[Call of the Void]] is the emergency scope cut below Terminus. Instead of proving a hostile procedural crossing, it can prove authored mission density: PI cases, taxi fares, station districts, recurring passengers, faction contacts, a malfunction-prone ship, and the slow discovery that the rupture is not a temporary navigational problem.
 
-That makes it valuable even if it never becomes the first release. It preserves a human-scale path into Aetheria, where the player meets the setting through clients, passengers, debts, scams, disappearances, homecoming fantasies, return cults, rogue AIs, compromised officials, and all the little humiliations that arrive before history admits it is history.
+The original brainstorm predates the current Elysium continuity and still carries colonization-fleet assumptions. That needs a later story refactor. For now, the useful design signal remains: a human-scale path into Aetheria, where the player meets the setting through clients, passengers, debts, scams, disappearances, return fantasies, rupture cults, rogue AIs, compromised officials, and all the little humiliations that arrive before history admits it is history.

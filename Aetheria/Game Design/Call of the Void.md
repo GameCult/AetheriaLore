@@ -1,8 +1,10 @@
 # Call of the Void
 
-`Aetheria: Call of the Void` is the story-first scope cut below [[End of the Line|Aetheria: Terminus]]: a curated action-RPG adventure about Catastrophe "Cat" Marrigan, an out-of-work private investigator making ends meet with a failure-prone space taxi while the displaced exploratory force slowly realizes it has become a permanent society.
+`Aetheria: Call of the Void` is the story-first scope cut below [[End of the Line|Aetheria: Terminus]]: a curated action-RPG adventure about Catastrophe "Cat" Marrigan, an out-of-work private investigator making ends meet with a failure-prone space taxi while people caught in Elysium's rupture slowly realize the old world is not coming back intact.
 
 The title translates `l'appel du vide`, the French phrase for the irrational urge to step over the edge when looking down from a height. It fits because the game is noir Aetheria in miniature: one person staring into the social, literal, and economic void while every bad option develops a voice.
+
+> **Continuity note:** The brainstorm behind `Call of the Void` comes from an earlier branch of Aetheria, when Elysium still used a colonization-fleet / exploratory-force premise. Current canon frames Elysium as the sealed domain late Sol was thrown into by the first real FTL breakthrough, carrying its fleets, institutions, corporate blocs, uploads, and unresolved social machinery with it. The story beats below preserve the useful shape of the smaller game target, but the premise needs refactoring before it can sit cleanly inside the current model.
 
 It is not the full procedural galaxy wearing a cheaper coat, and it is not Terminus with fewer enemies. It is a deliberate retreat to authored density: cases, fares, station districts, recurring characters, faction contacts, and a more controlled slice of the same social catastrophe. Sensible, therefore suspicious.
 
@@ -10,7 +12,7 @@ It is not the full procedural galaxy wearing a cheaper coat, and it is not Termi
 
 `Call of the Void` exists to test what Aetheria feels like when the player is close enough to smell the paperwork. Instead of asking the first release to simulate a whole galaxy, it can focus on a few places where the setting's pressures become personal:
 
-- passengers who still talk as if they are going home
+- passengers who still talk as if the rupture can be undone
 - investigators, operators, and officials trying to monetize the new permanence
 - station residents building informal communities outside official control
 - return movements, cults, rebels, and opportunists forming around the point-of-no-return revelation
