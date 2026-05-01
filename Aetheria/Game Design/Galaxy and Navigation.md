@@ -1,5 +1,10 @@
 # Galaxy and Navigation
 
+<figure class="aetheria-media-card is-wide">
+  <img src="../media/aetheria/galaxy-map.jpg" alt="Aetheria in-game galaxy map showing faction territories, routes, and named systems." />
+  <p>An old in-game galaxy map render. The names and factions are historical, but the design signal is still useful: routes, territory, identity, and risk all visible at once.</p>
+</figure>
+
 Aetheria's galaxy should feel generated, but not arbitrary. The map is a field of pressure: routes, chokepoints, faction homes, resources, security gradients, station placement, alien reach, and the bad decisions people make because the safer path costs too much.
 
 ## Generated Structure

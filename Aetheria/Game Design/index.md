@@ -26,6 +26,7 @@ That is the full beast. The current public path starts smaller with [[End of the
 - [[Narrative and Missions]] - Ink-driven quests, location constraints, faction presence, and story inside generated space.
 - [[A Different Sort of Space]] - the visual and physical feel of Aetheria's non-hard-SF void.
 - [[Visual and Sensory Direction]] - shaders, clouds, weapon effects, audio, and readable spectacle.
+- [[Volumetric Nebulae]] - atmospheric prototype clips showing the nebula renderer as moving terrain, not wallpaper.
 - [[Implementation Signals]] - what the legacy `Aetheria-Economy` codebase reveals about the design.
 
 ## Release Path

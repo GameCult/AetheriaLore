@@ -1,6 +1,13 @@
 # Visual and Sensory Direction
 
+<figure class="aetheria-media-card is-wide">
+  <img src="../media/aetheria/adrasteia-atmosphere.png" alt="Atmospheric Adrasteia ship render against bright blue nebula light." />
+  <p>An earlier Adrasteia render with less complete material work than later versions, but stronger atmosphere: the ship half-object, half-apparition, cutting through blue glare like it expects the universe to make room.</p>
+</figure>
+
 Aetheria should look expensive in the places that teach the player how the world works. Not merely shiny. Legible, strange, forceful, and system-revealing.
+
+The [[Volumetric Nebulae]] prototype clips are the clearest evidence of that direction: not videos a player watches for plot, but moving studies of how Aetheria's space can behave like terrain, weather, and mood at once.
 
 ## Expressive Space
 

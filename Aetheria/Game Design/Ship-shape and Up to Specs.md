@@ -8,6 +8,11 @@ Ships in Aetheria are tools, homes, status symbols, and compressed ideological a
 
 Customization goes deep: components with distinct behavior, megacorporate manufacturers with their own priorities and specialties, and plenty of room to tune a vessel for violence, trade, survival, logistics, or prestige. The point is not only personal expression. It is to make every ship feel like a material compromise between who built it, who owns it, what it must survive, and what sort of life it is expected to enforce.
 
+<figure class="aetheria-media-card is-portrait">
+  <img src="../media/aetheria/adrasteia-ship.png" alt="Adrasteia ship render against a blue nebula field." />
+  <p>A later Adrasteia ship render from the legacy prototype era, with the material model more fully resolved: sharp, luxurious, predatory, and far too pleased with itself. Correct energy.</p>
+</figure>
+
 ## Mechanical Identity
 
 The legacy implementation treats ships as entities built from hulls, equipped items, behaviors, cargo bays, docking bays, heat maps, durability, visibility, faction relationships, and weapon groups. That is the correct disease. Keep it.

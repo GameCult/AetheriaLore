@@ -4,6 +4,11 @@
   <img src="../media/aetheria/aetheria-space.png" alt="A stylized Aetheria space scene." />
 </figure>
 
+<figure class="aetheria-media-card is-wide">
+  <img src="../media/aetheria/nebula-grid-horizon.jpg" alt="Aetheria prototype nebula horizon with stars and a ship visible over the Grid." />
+  <p>A prototype-era Grid horizon. The interface is historical, but the visual thesis survived: space as a navigable pressure field, not a black backdrop politely holding still.</p>
+</figure>
+
 Aetheria does not chase hard realism. It treats space as a place of awe, menace, and expressive scale, where gravity can become architecture and the void can feel almost inviting.
 
 That choice is deliberate. The setting wants wonder first: a galaxy dreamlike enough to be memorable and physical enough to feel dangerous. The point is not to abandon consequence, but to make the environment feel strange in ways the politics and technologies can still meaningfully inhabit.

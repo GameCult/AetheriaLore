@@ -469,11 +469,39 @@ article > h6 {
   background: rgba(5, 10, 18, 0.9);
 }
 
+.aetheria-media-card video {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 16px;
+  border: 1px solid rgba(89, 183, 255, 0.12);
+  background: rgba(5, 10, 18, 0.9);
+}
+
+.aetheria-media-card.is-wide img {
+  aspect-ratio: 16 / 9;
+}
+
+.aetheria-media-card.is-portrait {
+  max-width: 520px;
+}
+
+.aetheria-media-card.is-portrait img {
+  aspect-ratio: 9 / 14;
+}
+
 .aetheria-media-card p,
 .aetheria-section-body p {
   color: rgba(183, 199, 217, 0.88);
   font-size: 0.94rem;
   line-height: 1.55;
+}
+
+.aetheria-video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr));
+  gap: 1rem;
+  margin: 1.15rem 0 1.6rem;
 }
 
 .aetheria-embed-frame {
