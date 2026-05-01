@@ -1,5 +1,38 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { QuartzEmitterPlugin } from "./quartz/plugins/types"
+import { Fragment, h } from "preact"
+
+const AetheriaFavicons: QuartzEmitterPlugin = () => ({
+  name: "AetheriaFavicons",
+  async *emit() {},
+  async *partialEmit() {},
+  externalResources: () => ({
+    additionalHead: [
+      () =>
+        h(Fragment, {}, [
+          h("link", { rel: "icon", href: "/favicon.ico", sizes: "any" }),
+          h("link", {
+            rel: "icon",
+            type: "image/png",
+            sizes: "16x16",
+            href: "/static/favicon-16x16.png",
+          }),
+          h("link", {
+            rel: "icon",
+            type: "image/png",
+            sizes: "32x32",
+            href: "/static/favicon-32x32.png",
+          }),
+          h("link", {
+            rel: "apple-touch-icon",
+            sizes: "180x180",
+            href: "/static/apple-touch-icon.png",
+          }),
+        ]),
+    ],
+  }),
+})
 
 /**
  * Quartz 4 Configuration
@@ -103,6 +136,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
+      AetheriaFavicons(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
