@@ -28,7 +28,7 @@ type SectionKey = "aetheria" | "lore" | "gameDesign" | "stories" | "worldbuildin
 const sectionMetadata: Record<SectionKey, SiteSocialMetadata> = {
   aetheria: {
     section: "Aetheria",
-    deck: "Galaxy-scale social experiment disguised as science-fantasy.",
+    deck: "A galaxy-scale social experiment in a sci-fi coat.",
     image: {
       kind: "static",
       path: "social/aetheria-space.png",
@@ -37,7 +37,7 @@ const sectionMetadata: Record<SectionKey, SiteSocialMetadata> = {
   },
   lore: {
     section: "Lore",
-    deck: "A sealed domain, a transplanted civilization, and all the administrative damage it dragged in with it.",
+    deck: "A sealed domain and a civilization dragged in after it.",
     image: {
       kind: "static",
       path: "social/lore-elysium.png",
@@ -46,7 +46,7 @@ const sectionMetadata: Record<SectionKey, SiteSocialMetadata> = {
   },
   gameDesign: {
     section: "Game Design",
-    deck: "Cockpit action, spreadsheet predation, and one doomed universe generous enough to host both.",
+    deck: "Cockpit action and spreadsheet predation.",
     image: {
       kind: "static",
       path: "social/game-design-longinus.png",
@@ -55,7 +55,7 @@ const sectionMetadata: Record<SectionKey, SiteSocialMetadata> = {
   },
   stories: {
     section: "Stories",
-    deck: "Fiction from a universe where ordinary longing has to survive industrial-scale bad decisions.",
+    deck: "Ordinary longing under industrial-scale bad decisions.",
     image: {
       kind: "static",
       path: "social/stories-catastrophe.jpg",
@@ -64,7 +64,7 @@ const sectionMetadata: Record<SectionKey, SiteSocialMetadata> = {
   },
   worldbuilding: {
     section: "Worldbuilding",
-    deck: "Infrastructure, ideology, war, and the long administrative road to catastrophe.",
+    deck: "Infrastructure, ideology, war, catastrophe.",
     image: {
       kind: "static",
       path: "social/worldbuilding-galaxy-map.jpg",
