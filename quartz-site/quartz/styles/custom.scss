@@ -416,8 +416,7 @@ article > h6 {
 .aetheria-hero-panel,
 .aetheria-media-card,
 .aetheria-embed-frame,
-.aetheria-section-shell,
-.aetheria-section-header {
+.aetheria-section-shell {
   border-radius: 20px;
   border: 1px solid rgba(89, 183, 255, 0.1);
   background: linear-gradient(180deg, rgba(13, 20, 31, 0.96), rgba(8, 13, 21, 0.92));
@@ -496,10 +495,11 @@ article > h6 {
   margin: 0;
   color: var(--dark);
   font-family: var(--titleFont);
-  font-size: clamp(1.3rem, 2vw, 1.8rem);
+  font-size: clamp(1.4rem, 2.1vw, 2rem);
   font-weight: 200;
-  letter-spacing: 0.015em;
-  text-transform: none;
+  line-height: 0.92;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 .aetheria-section-stack {
@@ -553,17 +553,22 @@ article > h6 {
 }
 
 .aetheria-section-header {
+  display: block;
   margin: 0;
   padding: 0.8rem 0.95rem 0.85rem;
+  border: 1px solid rgba(89, 183, 255, 0.1);
   border-radius: 20px;
   background: linear-gradient(135deg, rgba(10, 16, 24, 0.9), rgba(17, 24, 35, 0.82));
   box-shadow:
     0 14px 28px rgba(0, 0, 0, 0.16),
     inset 0 1px 0 rgba(255, 255, 255, 0.03);
+  min-width: 0;
 }
 
-.aetheria-section-header h2 {
-  line-height: 0.92;
+.aetheria-section-header > *,
+.aetheria-section-body,
+.aetheria-section-copy {
+  min-width: 0;
 }
 
 .aetheria-section-header h2 a {
@@ -706,7 +711,7 @@ a:hover,
   }
 
   .aetheria-section-header {
-    padding: 0.75rem 0.8rem 0.8rem;
+    padding: 0.8rem 0.85rem 0.85rem;
   }
 
   .aetheria-section-copy {
