@@ -1,33 +1,132 @@
+---
+title: Aetheria
+enableToc: false
+---
+
 # Aetheria
 
 *"A galaxy of megacorporate frontier myth, ship customization, and player-made history."*
 
-Aetheria begins with a civilizational shunt, not a clean heroic voyage. Late Sol's first real FTL gamble trips a quarantine response and dumps humanity into the sealed domain called Elysium along with the fleets, institutions, uploads, and ideological damage it was already carrying.
+Aetheria is part post-collapse corporate diaspora, part megacorporate cold war, part galaxy-scale social simulation, part action-RPG sandbox, part excuse to spend an unreasonable amount of time inventing ships, factions, and economic problems in space.
 
-At full scale, the setting spans multiple alien civilizations, a dozen mutually incompatible human powers, and the markets, wars, religions, and logistics nightmares they build around themselves. It can be inhabited from the cockpit or the spreadsheet: as a freelancer, mercenary, trader, courier, or scavenger at one scale, and as the corporate or infrastructural machinery that generates those conflicts at another.
+The deeper lore, design notes, and fiction live here now. This page is the fast tour for people who want the pitch before the spiral.
 
-That split is not decorative. The desk jobs create the shortages, contracts, supply chains, and strategic incentives the field players collide with in person. Competition rewards dangerous technology, reckless expansion, and the cheerful externalization of every cost that can be made into somebody else's problem. Humanity keeps driving itself toward extinction. Elysium resets the branch. The experiment begins again.
+<div class="aetheria-home-hero">
+  <section class="aetheria-hero-panel">
+    <p class="aetheria-kicker">Flagship world. Long horizon.</p>
+    <p>Aetheria begins with a civilizational shunt, not a clean heroic voyage. Late Sol's first real FTL gamble trips a quarantine response and dumps humanity into the sealed domain called Elysium along with the fleets, institutions, uploads, and ideological damage it was already carrying.</p>
+    <p>At full scale, Aetheria is a galaxy-scale MMO about multiple alien civilizations, a dozen mutually incompatible human powers, and the markets, wars, religions, and logistics nightmares they build around themselves.</p>
+    <p>You can inhabit that mess from the cockpit or the spreadsheet: fly as a freelancer, mercenary, trader, courier, or scavenger, or run the corporate infrastructure that moves ships, goods, and bad decisions across the map. The desk jobs create the shortages, contracts, and incentives the field players collide with in person.</p>
+    <p>The point is not just scale. It is watching a civilization with every tool it could possibly want remain structurally incapable of telling itself no. Competition rewards dangerous technology, reckless expansion, and the cheerful externalization of every cost that can be made into somebody else's problem. Humanity keeps driving itself into extinction. Elysium resets the branch. Everyone gets another try. Nobody gets to say they were not warned.</p>
+    <p>The near-term path starts smaller: focused slices of the setting that prove the mood, mechanics, and stakes before we ask the first release to carry the full weight of our galactic ambitions and associated bad habits.</p>
+  </section>
+  <figure class="aetheria-media-card">
+    <img src="./media/aetheria/elysium.png" alt="Aetheria concept art showing a settlement scene." />
+    <p>Aetheria should feel lived in, contested, and just a little impossible: less pristine new frontier, more old civilization hauled intact into a place it was never meant to inhabit.</p>
+  </figure>
+</div>
 
-Use this front page as the fast tour. Follow the lore if you want the historical machine, the design notes if you want the playable shape, and the stories if you want to feel what the systems do to the people trapped inside them.
+<div class="aetheria-embed-frame">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/6hg1w2vcwDc?list=PL9lCxnhL4NfPDNsnS0ygGiJOiYMmdSFcK"
+    title="Aetheria playlist starting with the Gameplay Preview Trailer"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+  ></iframe>
+</div>
 
-## Lore
+## Follow the Spiral
 
-- [[Lore/index|Lore]]
-- [[Introduction]]
-- [[Narrative Themes]]
-- [[Worldbuilding/Pre-Elysium/Timeline|Timeline]]
-- [[Worldbuilding/index|Worldbuilding]]
-- [[Worldbuilding/Politics/index|Politics]]
+<div class="aetheria-link-grid">
+  <a class="aetheria-link-card" href="./Lore/">
+    <strong>Lore</strong>
+    <span>The historical machine: rupture, institutions, political blocks, and the old habits humanity dragged into Elysium with it.</span>
+  </a>
+  <a class="aetheria-link-card" href="./Game-Design/">
+    <strong>Game Design</strong>
+    <span>The playable shape: what the first cuts of Aetheria need to prove before the full galaxy-scale monster earns the right to exist.</span>
+  </a>
+  <a class="aetheria-link-card" href="./Stories/">
+    <strong>Stories</strong>
+    <span>Scenes, fragments, and failures that make the setting legible at human scale instead of only as a systems diagram.</span>
+  </a>
+</div>
 
-## Game Design
+Below is the short tour: the first playable cut, the conditions inside Elysium, the stranger physical rules, and the ship culture that helps everyone make their problems mobile.
 
-- [[Game Design/index|Game Design]]
-- [[Game Design/End of the Line|End of the Line]]
-- [[Game Design/A Different Sort of Space|A Different Sort of Space]]
-- [[Game Design/Ship-shape and Up to Specs|Ship-shape and Up to Specs]]
-
-## Stories
-
-- [[Stories/index|Stories]]
-- [[Stories/Rain|Rain]]
-- [[Stories/When We Get Home|When We Get Home]]
+<div class="aetheria-section-stack">
+  <section class="aetheria-section">
+    <div class="aetheria-section-shell has-media">
+      <div class="aetheria-section-media">
+        <figure class="aetheria-media-card">
+          <img src="./media/aetheria/catastrophe.jpg" alt="Aetheria concept art showing catastrophe-themed imagery." />
+        </figure>
+      </div>
+      <article class="aetheria-section-copy">
+        <header class="aetheria-section-header">
+          <h2><a href="./Game-Design/End-of-the-Line">End of the Line</a></h2>
+        </header>
+        <div class="aetheria-section-body">
+          <p>Aetheria: Terminus is the first sharp cut into the wider Aetheria universe: a rogue-lite ARPG about crossing a hostile galaxy to win your freedom without having to ship the entire galaxy on day one.</p>
+          <p>The destination is Terminus. Everything between you and it wants you dead, owned, or broken first. Procedural routes, megacorporate opposition, and the general indifference of space turn every run into a negotiation between risk, speed, and survival.</p>
+        </div>
+      </article>
+    </div>
+  </section>
+  <section class="aetheria-section">
+    <div class="aetheria-section-shell has-media">
+      <div class="aetheria-section-media">
+        <figure class="aetheria-media-card">
+          <img src="./media/aetheria/elysium.png" alt="Aetheria concept art showing Elysium." />
+        </figure>
+      </div>
+      <article class="aetheria-section-copy">
+        <header class="aetheria-section-header">
+          <h2><a href="./Lore/Welcome-to-Elysium">Welcome to Elysium</a></h2>
+        </header>
+        <div class="aetheria-section-body">
+          <p>Elysium is not a clean new frontier humanity discovered with admirable courage and a reasonable plan. It is the sealed domain late Sol got thrown into when its first real FTL breakthrough touched something older, meaner, and far less interested in sharing the universe than the test brief implied.</p>
+          <p>The displacement was not selective. Fleets, institutions, corporate blocs, uploaded minds, labor systems, grudges, and every other unresolved compromise of solar civilization came through together because they were already materially bound together back home.</p>
+        </div>
+      </article>
+    </div>
+  </section>
+  <section class="aetheria-section">
+    <div class="aetheria-section-shell has-media">
+      <div class="aetheria-section-media">
+        <figure class="aetheria-media-card">
+          <img src="./media/aetheria/aetheria-space.png" alt="A stylized Aetheria space scene." />
+        </figure>
+      </div>
+      <article class="aetheria-section-copy">
+        <header class="aetheria-section-header">
+          <h2><a href="./Game-Design/A-Different-Sort-of-Space">A Different Sort of Space</a></h2>
+        </header>
+        <div class="aetheria-section-body">
+          <p>Aetheria does not chase hard realism. It treats space as a place of awe, menace, and expressive scale, where gravity can become architecture and the void can feel almost inviting.</p>
+          <p>That choice is deliberate. The setting wants wonder first: a galaxy that looks dreamlike enough to be memorable and physical enough to feel dangerous.</p>
+        </div>
+      </article>
+    </div>
+  </section>
+  <section class="aetheria-section">
+    <div class="aetheria-section-shell has-media">
+      <div class="aetheria-section-media">
+        <figure class="aetheria-media-card">
+          <img src="./media/aetheria/longinus.png" alt="Aetheria ship customization artwork." />
+        </figure>
+      </div>
+      <article class="aetheria-section-copy">
+        <header class="aetheria-section-header">
+          <h2><a href="./Game-Design/Ship-shape-and-Up-to-Specs">Ship-shape and Up to Specs</a></h2>
+        </header>
+        <div class="aetheria-section-body">
+          <p>Ships in Aetheria are tools, homes, status symbols, and bad ideas waiting to happen. Customization goes deep: components with distinct behavior, megacorporate manufacturers with their own tastes and specialties, and plenty of room to tune a vessel for violence, trade, survival, or style.</p>
+          <p>Build for efficiency if you must. Build for personality if you have any self-respect.</p>
+        </div>
+      </article>
+    </div>
+  </section>
+</div>

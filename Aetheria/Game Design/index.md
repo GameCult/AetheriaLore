@@ -7,6 +7,7 @@ Aetheria at full scale wants to simulate a galaxy where freelance operators, cor
 ## Current Entry Points
 
 - [[End of the Line]]
+- [[../Lore/Welcome to Elysium|Welcome to Elysium]]
 - [[A Different Sort of Space]]
 - [[Ship-shape and Up to Specs]]
 
