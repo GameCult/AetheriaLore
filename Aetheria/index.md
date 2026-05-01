@@ -54,6 +54,8 @@ Below is the short tour: the first playable cut, the conditions inside Elysium, 
         <div class="aetheria-section-body">
           <p>Aetheria: Terminus is the first sharp cut into the wider Aetheria universe: a rogue-lite ARPG about crossing a hostile galaxy to win your freedom without having to ship the entire galaxy on day one.</p>
           <p>The destination is Terminus. Everything between you and it wants you dead, owned, or broken first. Procedural routes, megacorporate opposition, and the general indifference of space turn every run into a negotiation between risk, speed, and survival.</p>
+          <p>It is also the test chamber for the larger design: ship handling, tactical heat pressure, route choice, salvage, contracts, factional identity, and the feeling that every repair bill has a corporate ancestor somewhere smiling gently into the knife.</p>
+          <p>The run matters because the wider universe is waiting behind it. Terminus proves the cockpit-scale game before the project asks anyone to believe in the full persistent economy.</p>
         </div>
       </article>
     </div>
@@ -72,6 +74,8 @@ Below is the short tour: the first playable cut, the conditions inside Elysium, 
         <div class="aetheria-section-body">
           <p>Elysium is not a clean new frontier humanity discovered with admirable courage and a reasonable plan. It is the sealed domain late Sol got thrown into when its first real FTL breakthrough touched something older, meaner, and far less interested in sharing the universe than the test brief implied.</p>
           <p>The displacement was not selective. Fleets, institutions, corporate blocs, uploaded minds, labor systems, grudges, and every other unresolved compromise of solar civilization came through together because they were already materially bound together back home.</p>
+          <p>That is why Elysium feels less like colonization and more like a bankruptcy hearing conducted at astronomical scale. The old powers arrive with their logistics, propaganda, debt systems, succession crises, and polite explanations for why the worst part of the machine must keep running.</p>
+          <p>The setting's central joke, if anyone is still laughing, is that humanity gets another chance without getting a fresh character sheet.</p>
         </div>
       </article>
     </div>
@@ -90,6 +94,8 @@ Below is the short tour: the first playable cut, the conditions inside Elysium, 
         <div class="aetheria-section-body">
           <p>Aetheria does not chase hard realism. It treats space as a place of awe, menace, and expressive scale, where gravity can become architecture and the void can feel almost inviting.</p>
           <p>That choice is deliberate. The setting wants wonder first: a galaxy that looks dreamlike enough to be memorable and physical enough to feel dangerous.</p>
+          <p>The Grid turns gravity into terrain. Wells, waves, wormholes, storms, clouds, stardust, and luminous fields make space readable as a place of motion and pressure rather than a decorative black sheet behind the ships.</p>
+          <p>Beauty still has work to do. A route should tell you whether it is safe, watched, abandoned, contested, or strange before the local economy explains the same thing with fees.</p>
         </div>
       </article>
     </div>
@@ -108,6 +114,8 @@ Below is the short tour: the first playable cut, the conditions inside Elysium, 
         <div class="aetheria-section-body">
           <p>Ships in Aetheria are tools, homes, status symbols, and bad ideas waiting to happen. Customization goes deep: components with distinct behavior, megacorporate manufacturers with their own tastes and specialties, and plenty of room to tune a vessel for violence, trade, survival, or style.</p>
           <p>Build for efficiency if you must. Build for personality if you have any self-respect.</p>
+          <p>Under the paint, a ship is a stack of compromises: hull shape, hardpoints, reactors, radiators, thrusters, shields, sensors, cargo bays, weapon groups, quality, heat flow, and whatever bargain the manufacturer made with physics before marketing got involved.</p>
+          <p>The best build is not the one with the biggest numbers. It is the one that survives the kind of trouble you actually intend to start.</p>
         </div>
       </article>
     </div>
