@@ -37,23 +37,6 @@ The deeper lore, design notes, and fiction live here now. This page is the fast 
   ></iframe>
 </div>
 
-## Follow the Spiral
-
-<div class="aetheria-link-grid">
-  <a class="aetheria-link-card" href="./Lore/">
-    <strong>Lore</strong>
-    <span>The historical machine: rupture, institutions, political blocks, and the old habits humanity dragged into Elysium with it.</span>
-  </a>
-  <a class="aetheria-link-card" href="./Game-Design/">
-    <strong>Game Design</strong>
-    <span>The playable shape: what the first cuts of Aetheria need to prove before the full galaxy-scale monster earns the right to exist.</span>
-  </a>
-  <a class="aetheria-link-card" href="./Stories/">
-    <strong>Stories</strong>
-    <span>Scenes, fragments, and failures that make the setting legible at human scale instead of only as a systems diagram.</span>
-  </a>
-</div>
-
 Below is the short tour: the first playable cut, the conditions inside Elysium, the stranger physical rules, and the ship culture that helps everyone make their problems mobile.
 
 <div class="aetheria-section-stack">
