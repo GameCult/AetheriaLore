@@ -1,12 +1,14 @@
-# L'appel du Vide
+# Call of the Void
 
-`L'appel du Vide` is the story-first scope cut below [[End of the Line|Aetheria: Terminus]]: a curated action-RPG adventure about Catastrophe "Cat" Marrigan, an out-of-work private investigator making ends meet with a failure-prone space taxi while the displaced exploratory force slowly realizes it has become a permanent society.
+`Aetheria: Call of the Void` is the story-first scope cut below [[End of the Line|Aetheria: Terminus]]: a curated action-RPG adventure about Catastrophe "Cat" Marrigan, an out-of-work private investigator making ends meet with a failure-prone space taxi while the displaced exploratory force slowly realizes it has become a permanent society.
+
+The title translates `l'appel du vide`, the French phrase for the irrational urge to step over the edge when looking down from a height. It fits because the game is noir Aetheria in miniature: one person staring into the social, literal, and economic void while every bad option develops a voice.
 
 It is not the full procedural galaxy wearing a cheaper coat, and it is not Terminus with fewer enemies. It is a deliberate retreat to authored density: cases, fares, station districts, recurring characters, faction contacts, and a more controlled slice of the same social catastrophe. Sensible, therefore suspicious.
 
 ## Design Role
 
-`L'appel du Vide` exists to test what Aetheria feels like when the player is close enough to smell the paperwork. Instead of asking the first release to simulate a whole galaxy, it can focus on a few places where the setting's pressures become personal:
+`Call of the Void` exists to test what Aetheria feels like when the player is close enough to smell the paperwork. Instead of asking the first release to simulate a whole galaxy, it can focus on a few places where the setting's pressures become personal:
 
 - passengers who still talk as if they are going home
 - investigators, operators, and officials trying to monetize the new permanence
@@ -36,8 +38,8 @@ Useful case families include:
 
 ## Why It Still Matters
 
-Terminus proves route pressure, combat, ship builds, loot, and procedural survival. `L'appel du Vide` cuts below that to prove authored continuity, character voice, mission density, and the lived social impact of Elysium becoming permanent.
+Terminus proves route pressure, combat, ship builds, loot, and procedural survival. `Call of the Void` cuts below that to prove authored continuity, character voice, mission density, and the lived social impact of Elysium becoming permanent.
 
-They solve the same production problem at different depths. Terminus asks how little authored structure is needed for a generated run to feel alive. `L'appel du Vide` asks how much Aetheria can be expressed through a bounded cast, bounded locations, and a ship that probably should have failed inspection twice already.
+They solve the same production problem at different depths. Terminus asks how little authored structure is needed for a generated run to feel alive. `Call of the Void` asks how much Aetheria can be expressed through a bounded cast, bounded locations, and a ship that probably should have failed inspection twice already.
 
 If the next scope cut needs to be sharper than Terminus, this is the obvious blade.
