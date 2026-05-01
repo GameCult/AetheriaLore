@@ -6,7 +6,7 @@ Aetheria's oldest design ambition is not just "big MMO, but in space." It is two
 
 The ARPG layer is the player's embodied experience of the galaxy. It covers ship control, combat, missions, trade, travel, exploration, salvage, docking, crew-facing narrative, and the constant practical question of whether the next jump is worth the damage it may cost.
 
-This layer is where [[End of the Line|Aetheria: Terminus]] starts. Terminus can prove the felt game before the full simulation arrives: routes, loadouts, enemies, story pressure, procedural structure, and ship survival under hostile conditions.
+This layer is where [[End of the Line|Aetheria: Terminus]] made the first major retreat from the full persistent galaxy: route-first, rogue-lite, still system-heavy enough to make a producer start quietly reviewing their life choices. [[L'appel du Vide]] is the deeper cut below that: fewer generated systems, more curated cases, stronger character continuity, and less temptation to rebuild the entire galaxy because the coffee tasted optimistic.
 
 ## Corporate Strategy Layer
 
@@ -24,8 +24,9 @@ The design problem is to decide which interactions must be live and which can be
 
 The release path should keep the layers honest without requiring them all to ship at once:
 
-1. Prove the ARPG slice with [[End of the Line|Terminus]].
-2. Preserve the design language of corporate pressure even when the first playable build is single-player or limited-scope.
-3. Keep data models and content categories compatible with later economy simulation.
-4. Introduce strategy-scale systems only when their outputs create better field play.
-5. Let the full persistent loop emerge from working slices instead of demanding worship from a cathedral made of TODO comments.
+1. Treat [[End of the Line|Terminus]] as the first reduced ARPG slice: route pressure, combat, ship builds, and procedural survival.
+2. Treat [[L'appel du Vide]] as the further step down if Terminus remains too large: PI cases, taxi fares, station districts, faction pressure, and the early Elysium revelation.
+3. Preserve the design language of corporate pressure even when the first playable build is single-player or limited-scope.
+4. Keep data models and content categories compatible with later economy simulation.
+5. Introduce strategy-scale systems only when their outputs create better field play.
+6. Let the full persistent loop emerge from working slices instead of demanding worship from a cathedral made of TODO comments.

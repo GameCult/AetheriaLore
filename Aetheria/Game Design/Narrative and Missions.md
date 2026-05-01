@@ -34,3 +34,9 @@ Narrative consequence does not always need a branching cinematic. Sometimes cons
 [[End of the Line|Terminus]] can use narrative as run texture and long-form campaign memory: route events, faction encounters, mission chains, shipboard conversations, and recurring obligations. The full persistent game can use the same grammar at larger scale, where corporate actions create the mission ecology field players keep mistaking for bad luck.
 
 Subspace dungeons from the older GDD are especially useful for Terminus-scale structure: dangerous wormholes leading into chaotic maze-like space, with escalating enemies, exits, bosses, and rewards. They should be adapted carefully into current cosmology rather than copied as a loose arcade appendage.
+
+## L'appel du Vide
+
+[[L'appel du Vide]] is the emergency scope cut below Terminus. Instead of proving a hostile procedural crossing, it can prove authored mission density: PI cases, taxi fares, station districts, recurring passengers, faction contacts, a malfunction-prone ship, and the slow discovery that the exploratory force has become a resident population whether it likes the term or not.
+
+That makes it valuable even if it never becomes the first release. It preserves a human-scale path into Aetheria, where the player meets the setting through clients, passengers, debts, scams, disappearances, homecoming fantasies, return cults, rogue AIs, compromised officials, and all the little humiliations that arrive before history admits it is history.

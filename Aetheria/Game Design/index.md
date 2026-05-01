@@ -4,7 +4,7 @@
 
 Aetheria's design begins from an old, unreasonable ambition and then tries to make it survivable: two different games sharing the same doomed universe. One layer is a tactical action RPG about ships, crews, missions, routes, and violence up close. The other is a corporate strategy game about production, infrastructure, population roles, research, and economic dominance. Both are meant to feed the same persistent galaxy, where field players collide with shortages and opportunities created by the people running the machinery.
 
-That is the full beast. The current public path starts smaller with [[End of the Line|Aetheria: Terminus]], a rogue-lite ARPG slice designed to prove combat, traversal, ship customization, narrative pressure, and the setting's corporate logic before the project tries to swallow the whole sun and asks politely for seconds.
+That is the full beast. The first major scope cut was [[End of the Line|Aetheria: Terminus]], a rogue-lite ARPG slice designed to prove combat, traversal, ship customization, narrative pressure, and the setting's corporate logic before the project tried to swallow the whole sun and ask politely for seconds. When even that looked too large, [[L'appel du Vide]] became the last-ditch smaller target: curated cases, taxi work, station life, and one exhausted private investigator discovering that nobody is going home.
 
 ## Design Stack
 
@@ -32,6 +32,7 @@ That is the full beast. The current public path starts smaller with [[End of the
 ## Release Path
 
 - [[End of the Line]]
+- [[L'appel du Vide]]
 - [[../Lore/Welcome to Elysium|Welcome to Elysium]]
 - [[A Different Sort of Space]]
 - [[Ship-shape and Up to Specs]]
@@ -43,6 +44,7 @@ The active `Aetheria-Economy` repository points to three planning-time documents
 - [Aetheria GDD](https://docs.google.com/document/d/1iULu1WsbuQoUM3c87XkGseb1P-8R5xlruoiyg03TsSE/edit?usp=sharing) - the action RPG design document.
 - [Profits Rising](https://docs.google.com/document/d/1U3uGFqQboAiFJ_Y-nUOGpyixbXUHRbc5DiCuB59GM4w/edit?usp=sharing) - the corporate strategy / RTS design document.
 - [Aetheria Shader Implementation](https://docs.google.com/document/d/1AFycvCtW6hA1jkKq1ZmYd3k6_uEWaaCqcZ4fYj4vU6A/edit?usp=sharing) - shader and rendering notes.
+- [L'appel du Vide brainstorm](https://docs.google.com/document/d/1YWn5RWsciBxuaQ4l5TN2lAEz4okaQes-aiyx1E9NAxA/edit?usp=sharing) - the last-ditch post-Terminus scope cut built around Cat Marrigan, PI cases, taxi fares, and the point-of-no-return revelation.
 
 These documents and the repository README are dated planning maps, not current marching orders. They are useful because they preserve mechanic intent: the time loop, tactical ship combat, heat and stealth, licenses, contracts, dungeons, drones, station management, production, population attributes, demand profiles, market arbitrage, research patents, independent traders, police protocol, AI corporations, and shader-driven gravitational terrain. They are also very much the sort of documents a person writes before reality, money, health, and the calendar arrive with tools.
 
