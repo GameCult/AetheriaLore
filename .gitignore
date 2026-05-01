@@ -20,5 +20,6 @@ Thumbs.db
 /Aetheria/Inspiration
 /.tools/
 /.npm-cache/
+/.quartz-build/
 /quartz-site/node_modules/
 /quartz-site/public/
