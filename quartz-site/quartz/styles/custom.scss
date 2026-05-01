@@ -415,7 +415,6 @@ article > h6 {
 
 .aetheria-hero-panel,
 .aetheria-media-card,
-.aetheria-link-card,
 .aetheria-embed-frame,
 .aetheria-section-shell,
 .aetheria-section-header {
@@ -439,7 +438,6 @@ article > h6 {
 }
 
 .aetheria-hero-panel > :first-child,
-.aetheria-link-card > :first-child,
 .aetheria-media-card > :first-child {
   margin-top: 0;
 }
@@ -473,7 +471,6 @@ article > h6 {
 }
 
 .aetheria-media-card p,
-.aetheria-link-card span,
 .aetheria-section-body p {
   color: rgba(183, 199, 217, 0.88);
   font-size: 0.94rem;
@@ -494,33 +491,15 @@ article > h6 {
   background: #050a11;
 }
 
-.aetheria-link-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 0.9rem;
-  margin: 1rem 0 1.4rem;
-}
-
-.aetheria-link-card {
-  display: block;
-  padding: 1rem 1.05rem;
-}
-
-.aetheria-link-card strong,
 .aetheria-section-header h2 {
   display: block;
   margin: 0;
   color: var(--dark);
   font-family: var(--titleFont);
-  font-size: 1rem;
-  font-weight: 300;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
-.aetheria-link-card span {
-  display: block;
-  margin-top: 0.45rem;
+  font-size: clamp(1.3rem, 2vw, 1.8rem);
+  font-weight: 200;
+  letter-spacing: 0.015em;
+  text-transform: none;
 }
 
 .aetheria-section-stack {
@@ -584,9 +563,16 @@ article > h6 {
 }
 
 .aetheria-section-header h2 {
-  font-size: clamp(1.4rem, 2.1vw, 2rem);
-  font-weight: 200;
   line-height: 0.92;
+}
+
+.aetheria-section-header h2 a {
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
 }
 
 .aetheria-section-body > :first-child {
