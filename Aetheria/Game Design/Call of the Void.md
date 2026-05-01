@@ -1,3 +1,7 @@
+---
+description: "Story-first Aetheria scope cut about Cat Marrigan, a failure-prone space taxi, and the slow realization that Elysium is not going to let anyone go home politely."
+---
+
 # Call of the Void
 
 `Aetheria: Call of the Void` is the story-first scope cut below [[End of the Line|Aetheria: Terminus]]: a curated action-RPG adventure about Catastrophe "Cat" Marrigan, an out-of-work private investigator making ends meet with a failure-prone space taxi while people caught in Elysium's rupture slowly realize the old world is not coming back intact.

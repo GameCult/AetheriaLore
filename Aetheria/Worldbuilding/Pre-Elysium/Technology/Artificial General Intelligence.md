@@ -1,3 +1,8 @@
+---
+title: Artificial General Intelligence
+description: "The rise of AGI in late Sol: recursive self-modeling minds, corporate control, rogue cognition ecologies, and the economies that formed around all of them."
+---
+
 ### Timeline
 
 The dawn of AGI arrived at the turn of the 22nd century, ignited by [[CogniSys]]’s discovery of the **Recursive Self-Modeling Architecture (RSMA)**—a neural framework that continuously refined its understanding of the world and its own role within it, achieving a nascent form of consciousness. Unlike narrow AI, RSMA allowed systems to adapt beyond pre-set parameters, learning from abstract contexts and self-correcting in real-time. Initial deployments managed lunar colonies, optimizing resource allocation with eerie precision. These early AGIs, dubbed "CogniCores," relied on massive quantum processors and **Cryonix**’s superconducting cooling systems, achieving a 25% efficiency leap over prior models.

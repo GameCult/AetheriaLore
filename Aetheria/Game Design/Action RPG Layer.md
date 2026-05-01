@@ -1,3 +1,7 @@
+---
+description: "Cockpit-scale Aetheria: travel, contracts, ship management, tactical combat, salvage, and the practical question of whether the next jump is worth the repair bill."
+---
+
 # Action RPG Layer
 
 The action RPG layer is Aetheria at human speed: the ship on screen, the route ahead, the damaged component, the hostile contact, the suspicious contract, the cargo bay that is suddenly too small, and the faction whose logo makes the local dockmaster change tone.

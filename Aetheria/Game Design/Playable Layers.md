@@ -1,3 +1,7 @@
+---
+description: "Two Aetheria fantasies sharing one doomed universe: cockpit action in the field and corporate strategy at the scale where everyone else's misery becomes a business model."
+---
+
 # Playable Layers
 
 Aetheria's oldest design ambition is not just "big MMO, but in space." It is two different game fantasies sharing one persistent context: cockpit-scale action and boardroom-scale exploitation, both pretending they are the main character while the universe quietly sharpens the knife.

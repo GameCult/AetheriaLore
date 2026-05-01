@@ -1,3 +1,8 @@
+---
+title: Timeline
+description: "The long middle of late Sol: corporate sovereignty hardening into civilizational structure, personhood getting renegotiated for profit, and the conditions that made Elysium inevitable."
+---
+
 ### Overview
 
 [[Colonizing Sol]] explains how corporate sovereignty replaced civic colonization. [[From Sol to Elysium]] explains why the whole solar order ultimately tried to outrun its own contradictions. The era notes below cover the long middle: who built the infrastructure, who captured it, who resisted, and which technologies changed the definition of personhood along the way.
