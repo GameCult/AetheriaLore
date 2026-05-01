@@ -16,15 +16,15 @@ The loop should be legible even when the simulation under it is deep:
 
 ## Tactical Combat
 
-Combat is built around ship equipment rather than character stats floating in a vacuum. The legacy implementation exposes distinct weapon systems, hardpoints, shields, radiators, thrusters, reactors, capacitors, aether drives, visibility, sensors, heat storage, mines, projectiles, lasers, lightning, guided weapons, and weapon group assignment.
+Combat is built around ship equipment rather than character stats floating in a vacuum. The active implementation exposes distinct weapon systems, hardpoints, shields, radiators, thrusters, reactors, capacitors, aether drives, visibility, sensors, heat storage, mines, projectiles, lasers, lightning, guided weapons, and weapon group assignment.
 
 The design opportunity is to make combat read as engineering under stress. A fight is not just health bars and cooldowns. It is heat debt, power draw, visibility, velocity, durability, weapon arcs, shield timing, cargo risk, and the sick little moment when a clever build becomes a maintenance liability.
 
-The archival ARPG GDD makes the combat premise sharper: shields can absorb far more than armor, so combat is largely about overwhelming the enemy's heat dissipation capacity. Ballistics, missiles, lasers, warp projectors, area effects, cryo variants, and damage types are all ways of attacking the target's ability to remain functional.
+The older ARPG GDD makes the combat premise sharper: shields can absorb far more than armor, so combat is largely about overwhelming the enemy's heat dissipation capacity. Ballistics, missiles, lasers, warp projectors, area effects, cryo variants, and damage types are all ways of attacking the target's ability to remain functional.
 
 ## Ship Management
 
-The ship is the action RPG's character sheet. Hull shape, grid placement, hardpoint type, equipment quality, cargo layout, and behavior interactions should matter. The schematic display and inventory/trade interfaces in the old codebase point toward a game where the player understands the ship as a working object, not just a skin wrapped around numbers.
+The ship is the action RPG's character sheet. Hull shape, grid placement, hardpoint type, equipment quality, cargo layout, and behavior interactions should matter. The schematic display and inventory/trade interfaces in the current game repo point toward a game where the player understands the ship as a working object, not just a skin wrapped around numbers.
 
 ## Mission Pressure
 

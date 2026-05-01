@@ -10,13 +10,13 @@ This layer is where [[End of the Line|Aetheria: Terminus]] starts. Terminus can 
 
 ## Corporate Strategy Layer
 
-The strategy layer lets players operate as corporations rather than lone operators. The archival `Profits Rising` planning line points toward corporations defining population roles, gathering resources, building infrastructure, researching technology, producing items, and competing for economic dominance.
+The strategy layer lets players operate as corporations rather than lone operators. The dated but still dangerous `Profits Rising` planning line points toward corporations defining population roles, gathering resources, building infrastructure, researching technology, producing items, and competing for economic dominance.
 
 This layer should create the material conditions the ARPG layer has to inhabit. A corporate decision is not only a menu choice. It becomes a shortage, a patrol, a cheap weapon flooding the market, a station that needs protection, a new route worth raiding, or a worker population trapped inside somebody else's growth plan.
 
 ## Shared Persistent World
 
-The shared world is the hard part, naturally. The legacy `Aetheria-Economy` codebase gestures toward it with shared server/client simulation code, common serialization, factions, zones, galaxies, generated routes, cargo, equipment, narrative placement, and a server process intended to own persistent state.
+The shared world is the hard part, naturally. The active `Aetheria-Economy` work surface gestures toward it with shared server/client simulation code, common serialization, factions, zones, galaxies, generated routes, cargo, equipment, narrative placement, and a server process intended to own persistent state.
 
 The design problem is to decide which interactions must be live and which can be summarized. Not every corporate decision needs to spawn a bespoke cockpit encounter. Not every player dogfight needs to update a quarterly report. The useful overlap is where one layer creates pressure the other layer can understand.
 

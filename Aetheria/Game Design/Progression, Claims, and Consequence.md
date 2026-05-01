@@ -1,6 +1,6 @@
 # Progression, Claims, and Consequence
 
-Aetheria's progression should unlock ways of interacting with systems, not just larger numbers for the same stale behavior. The old GDD frames progression through experience, skill points, licenses, and claims around death, wreckage, looting, stations, drones, and construction. Those are historical mechanics; this note keeps the parts that still explain useful player pressure.
+Aetheria's progression should unlock ways of interacting with systems, not just larger numbers for the same stale behavior. The older GDD frames progression through experience, skill points, licenses, and claims around death, wreckage, looting, stations, drones, and construction. Those are planning-time mechanics; this note keeps the parts that still explain useful player pressure.
 
 ## Licenses
 

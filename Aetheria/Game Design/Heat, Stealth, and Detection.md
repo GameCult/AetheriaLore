@@ -4,7 +4,7 @@ Heat is one of Aetheria's central mechanics because it refuses to stay in one de
 
 ## Heat As Staying Power
 
-Equipment use generates heat. Heat must be moved, stored, dumped, radiated, or endured. The archival ARPG GDD describes heat as a combined pressure similar to health and mana, except with stronger implications for stealth and component failure.
+Equipment use generates heat. Heat must be moved, stored, dumped, radiated, or endured. The older ARPG GDD describes heat as a combined pressure similar to health and mana, except with stronger implications for stealth and component failure.
 
 Every item can have a heat/performance curve. Temperature affects efficiency and output. At poor performance thresholds, items start taking durability damage. At the zero point, they fail.
 

@@ -4,7 +4,7 @@ The corporate strategy layer is Aetheria from the distance at which people becom
 
 ## Player Role
 
-The player corporation defines population roles, gathers resources, builds infrastructure, researches technology, manufactures items, expands into territory, and competes for money and influence. That archival `Profits Rising` premise matters because it makes the galaxy's cruelty operational rather than merely atmospheric.
+The player corporation defines population roles, gathers resources, builds infrastructure, researches technology, manufactures items, expands into territory, and competes for money and influence. That older `Profits Rising` premise matters because it makes the galaxy's cruelty operational rather than merely atmospheric.
 
 A corporation does not have to personally fire a shot to hurt people. It can underfund route security, overproduce disposable ships, monopolize a resource node, lock a settlement into maintenance dependence, or price repairs just high enough that desperate pilots accept worse contracts.
 

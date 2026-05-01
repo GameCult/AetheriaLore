@@ -2,7 +2,7 @@
 
 Aetheria's full campaign structure is a persistent human branch inside Elysium that eventually fails. The alien pressure rises until humanity can no longer hold the line, the population collapses, and the branch resets. Everyone gets another run at civilization. This is not mercy. It is containment with a progress bar.
 
-The older GDD names this as an Isolation Bubble maintained by the Timeless: entities outside linear time that collect novelty through repeating histories. The current lore frames the same underlying function through Elysium and [[Worldbuilding/Post-Elysium/Concepts/Temporal Nonlinearity|Temporal Nonlinearity]]. Different vocabulary, same bad news in better clothes.
+The older GDD names this as an Isolation Bubble maintained by the Timeless: entities outside linear time that collect novelty through repeating histories. The current lore frames the same underlying function through Elysium and [[Worldbuilding/Post-Elysium/Concepts/Temporal Nonlinearity|Temporal Nonlinearity]]. Different vocabulary, same bad news wearing better clothes.
 
 ## Campaign Arc
 

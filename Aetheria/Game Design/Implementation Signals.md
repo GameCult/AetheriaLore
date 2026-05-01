@@ -1,6 +1,6 @@
 # Implementation Signals
 
-This note records what the legacy `Aetheria-Economy` codebase reveals about the design, without pretending old implementation detail is sacred canon. Code is evidence. Sometimes embarrassing evidence. Still evidence.
+This note records what the active `Aetheria-Economy` work surface reveals about the design, without pretending every implementation detail is sacred canon. Code is evidence. Sometimes embarrassing evidence. Still evidence.
 
 ## Shared Simulation
 
@@ -34,10 +34,10 @@ Design implication: the game should keep connecting procedural structure to auth
 
 ## Near-Term Lesson
 
-The current work should not try to expose every old system immediately. The sane path is to use [[End of the Line|Terminus]] as the playable test chamber, keep the data model compatible with the larger dream where that still helps, and only promote a system into the design hierarchy when it creates better player pressure.
+The current work should not try to expose every system immediately. The sane path is to use [[End of the Line|Terminus]] as the playable test chamber, keep the data model compatible with the larger dream where that still helps, and only promote a system into the design hierarchy when it creates better player pressure. The project is allowed to be enormous. It is not allowed to make every enormous thing first. Basic manners.
 
 ## Planning-Time Coverage
 
-The exported GDDs are broad enough to justify the current section hierarchy as an archival map. They cover gravity, environmental entities, locomotion, heat, stealth, identification, energy, item classes, combat, death, looting, scavenging, progression, licenses, contracts, dungeons, NPCs, trading, drones, station management, building, mining, gas harvesting, crafting, defense, colony management, population attributes, production profiles, demand and influence profiles, research patents, independent traders, pirates, privateers, police, AI corporations, user interface tabs, and shader-driven gravitational terrain.
+The exported GDDs are broad enough to justify the current section hierarchy as a planning map. They cover gravity, environmental entities, locomotion, heat, stealth, identification, energy, item classes, combat, death, looting, scavenging, progression, licenses, contracts, dungeons, NPCs, trading, drones, station management, building, mining, gas harvesting, crafting, defense, colony management, population attributes, production profiles, demand and influence profiles, research patents, independent traders, pirates, privateers, police, AI corporations, user interface tabs, and shader-driven gravitational terrain.
 
 Design implication: the game design section should stay hierarchical. A flat pile of notes would be a crime scene with links.

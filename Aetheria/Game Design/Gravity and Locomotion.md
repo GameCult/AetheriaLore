@@ -8,7 +8,7 @@ This is not hard realism. It is a playable translation of gravity into terrain.
 
 The Grid makes gravitational force readable. Slopes pull ships. Wells become terrain. Field lines, contour lines, minimap shaders, and dynamic displacement all help turn invisible physics into something the player can steer through.
 
-The shader planning document treats this as one of Aetheria's signature historical ideas: where other games might place static environmental art, Aetheria paints gravity into render textures and renders the environment from dynamic fields.
+The shader planning document treats this as one of Aetheria's signature ideas: where other games might place static environmental art, Aetheria paints gravity into render textures and renders the environment from dynamic fields.
 
 ## Thrusters
 
@@ -26,6 +26,6 @@ Design implication: traction is not merely easier steering. It is a tactical ide
 
 ## Wormholes And Fast Travel
 
-Special wormholes can connect distant parts of the galaxy. The old GDD makes fast travel costly: the required item consumes major energy and produces crippling heat. The exact implementation can change, but the principle is worth preserving: keep the punishment attached to the miracle.
+Special wormholes can connect distant parts of the galaxy. The older GDD makes fast travel costly: the required item consumes major energy and produces crippling heat. The exact implementation can change, but the principle is worth preserving: keep the punishment attached to the miracle.
 
 Fast travel should solve distance while creating exposure. If a jump is always clean, it is a menu button. If it leaves the ship hot, visible, drained, or dependent on rare infrastructure, it becomes a decision.

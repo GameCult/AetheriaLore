@@ -2,14 +2,14 @@
 
 <figure class="aetheria-media-card is-wide">
   <img src="../media/aetheria/galaxy-map.jpg" alt="Aetheria in-game galaxy map showing faction territories, routes, and named systems." />
-  <p>An old in-game galaxy map render. The names and factions are historical, but the design signal is still useful: routes, territory, identity, and risk all visible at once.</p>
+  <p>An earlier in-game galaxy map render. The names and factions are dated, but the design signal is still useful: routes, territory, identity, and risk all visible at once.</p>
 </figure>
 
 Aetheria's galaxy should feel generated, but not arbitrary. The map is a field of pressure: routes, chokepoints, faction homes, resources, security gradients, station placement, alien reach, and the bad decisions people make because the safer path costs too much.
 
 ## Generated Structure
 
-The legacy codebase already includes galaxy generation, map layer data, density maps, star placement, links between stars, zone generation, wormholes, faction home zones, distance maps, and map UI. The old README describes star placement along a space-filling Hilbert curve and route links created through Delaunay tessellation before being filtered for sparsity.
+The active game repo already includes galaxy generation, map layer data, density maps, star placement, links between stars, zone generation, wormholes, faction home zones, distance maps, and map UI. The README describes star placement along a space-filling Hilbert curve and route links created through Delaunay tessellation before being filtered for sparsity.
 
 That machinery points toward a galaxy where topology matters. If every destination is equally reachable, there is no logistics game. Routes need friction, concentration, exposure, and local character.
 

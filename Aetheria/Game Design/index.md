@@ -27,7 +27,7 @@ That is the full beast. The current public path starts smaller with [[End of the
 - [[A Different Sort of Space]] - the visual and physical feel of Aetheria's non-hard-SF void.
 - [[Visual and Sensory Direction]] - shaders, clouds, weapon effects, audio, and readable spectacle.
 - [[Volumetric Nebulae]] - atmospheric prototype clips showing the nebula renderer as moving terrain, not wallpaper.
-- [[Implementation Signals]] - what the legacy `Aetheria-Economy` codebase reveals about the design.
+- [[Implementation Signals]] - what the active `Aetheria-Economy` work surface reveals about the design.
 
 ## Release Path
 
@@ -36,15 +36,17 @@ That is the full beast. The current public path starts smaller with [[End of the
 - [[A Different Sort of Space]]
 - [[Ship-shape and Up to Specs]]
 
-## Historical Sources
+## Planning Sources
 
-The legacy `Aetheria-Economy` repository points to three planning-time documents:
+The active `Aetheria-Economy` repository points to three planning-time documents:
 
 - [Aetheria GDD](https://docs.google.com/document/d/1iULu1WsbuQoUM3c87XkGseb1P-8R5xlruoiyg03TsSE/edit?usp=sharing) - the action RPG design document.
 - [Profits Rising](https://docs.google.com/document/d/1U3uGFqQboAiFJ_Y-nUOGpyixbXUHRbc5DiCuB59GM4w/edit?usp=sharing) - the corporate strategy / RTS design document.
 - [Aetheria Shader Implementation](https://docs.google.com/document/d/1AFycvCtW6hA1jkKq1ZmYd3k6_uEWaaCqcZ4fYj4vU6A/edit?usp=sharing) - shader and rendering notes.
 
-These documents and the old repository README are historical design strata, not current marching orders. They are useful because they preserve mechanic intent: the time loop, tactical ship combat, heat and stealth, licenses, contracts, dungeons, drones, station management, production, population attributes, demand profiles, market arbitrage, research patents, independent traders, police protocol, AI corporations, and shader-driven gravitational terrain. The live hierarchy treats them as raw inheritance, then filters them through the current canonical vault and the active project direction. The codebase shape is also evidence, but not law: shared simulation classes, `ServerShared` data models, galaxy generation, equipment behaviors, cargo and trade UI, Ink narrative processing, map rendering, debug tools, and the old server architecture show long-running ambitions that still need current judgment.
+These documents and the repository README are dated planning maps, not current marching orders. They are useful because they preserve mechanic intent: the time loop, tactical ship combat, heat and stealth, licenses, contracts, dungeons, drones, station management, production, population attributes, demand profiles, market arbitrage, research patents, independent traders, police protocol, AI corporations, and shader-driven gravitational terrain. They are also very much the sort of documents a person writes before reality, money, health, and the calendar arrive with tools.
+
+The live hierarchy treats them as inherited design pressure, then filters them through the current canonical vault and the project direction now in front of us. The active game repo's shape is evidence, but not law: shared simulation classes, `ServerShared` data models, galaxy generation, equipment behaviors, cargo and trade UI, Ink narrative processing, map rendering, debug tools, and the server architecture show long-running ambitions that still need current judgment.
 
 ## Setting Pressures
 

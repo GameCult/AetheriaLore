@@ -1,6 +1,6 @@
 # Colonies and Population
 
-The corporate strategy layer begins with people reduced to station math, which is exactly why the system matters. The archival `Profits Rising` document frames each player as a newly formed corporation with a small population and starting capital. That population has desires, aptitudes, and personality traits that shape production, consumption, growth, and eventually the culture of each colony.
+The corporate strategy layer begins with people reduced to station math, which is exactly why the system matters. The older `Profits Rising` document frames each player as a newly formed corporation with a small population and starting capital. That population has desires, aptitudes, and personality traits that shape production, consumption, growth, and eventually the culture of each colony.
 
 ## Colony Expansion
 
@@ -10,7 +10,7 @@ A new colony should therefore inherit more than ownership. It inherits labor hab
 
 ## Population Attributes
 
-The planning docs use five base population attributes. These are historical mechanics, not final canon names:
+The planning docs use five base population attributes. These are planning-time mechanics, not final canon names:
 
 - Openness
 - Agreeableness

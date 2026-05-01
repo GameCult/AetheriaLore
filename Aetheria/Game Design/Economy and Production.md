@@ -4,7 +4,7 @@ Aetheria's economy is not a vendor table with lore wallpaper. It is the main pre
 
 ## Commodities And Cargo
 
-The legacy implementation already contains simple and compound commodity categories, cargo bays, cargo transfer, docking bays, trade UI, inventory UI, and item storage geometry. That points toward an economy where goods are physical enough to matter. Cargo is not just a number. It occupies volume, constrains ship design, invites theft, and turns travel into exposure.
+The active implementation already contains simple and compound commodity categories, cargo bays, cargo transfer, docking bays, trade UI, inventory UI, and item storage geometry. That points toward an economy where goods are physical enough to matter. Cargo is not just a number. It occupies volume, constrains ship design, invites theft, and turns travel into exposure.
 
 ## Blueprints And Quality
 

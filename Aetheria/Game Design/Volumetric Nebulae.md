@@ -1,8 +1,10 @@
 # Volumetric Nebulae
 
-The legacy recordings are less like trailers and more like lab samples from the renderer: short passes through fog, light, stars, gravity-shaped terrain, and color fields. They are not something a visitor needs to sit and watch in sequence. They are proof that the void in Aetheria can feel thick, navigable, and alive.
+The prototype recordings are less like trailers and more like lab samples from the renderer: short passes through fog, light, stars, gravity-shaped terrain, and color fields. They are not something a visitor needs to sit and watch in sequence. They are proof that the void in Aetheria can feel thick, navigable, and alive.
 
 That matters because [[A Different Sort of Space]] depends on the environment doing more than looking expensive. The nebulae should suggest depth, slope, route, concealment, weather, danger, and scale before any UI explains the local problem. Aetheria's space should feel like something a ship moves through, not a wallpaper collection with engines.
+
+Also, yes: this is what happens when someone spends a frankly suspicious number of hours teaching clouds to have opinions. It was worth it. The clouds have earned representation.
 
 ## Ambient Studies
 

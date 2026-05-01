@@ -7,7 +7,7 @@
 
 Aetheria should look expensive in the places that teach the player how the world works. Not merely shiny. Legible, strange, forceful, and system-revealing.
 
-The [[Volumetric Nebulae]] prototype clips are the clearest evidence of that direction: not videos a player watches for plot, but moving studies of how Aetheria's space can behave like terrain, weather, and mood at once.
+The [[Volumetric Nebulae]] prototype clips are the clearest evidence of that direction: not videos a player watches for plot, but moving studies of how Aetheria's space can behave like terrain, weather, and mood at once. This is the polite version of saying the cloud obsession has receipts.
 
 ## Expressive Space
 
@@ -17,7 +17,7 @@ That means beauty should still carry information. A storm, ring, nebula, station
 
 ## Shader And Atmosphere Work
 
-The old planning links include `Aetheria Shader Implementation`, and the legacy codebase contains custom rendering work for volumetric clouds, suns, gas giants, gravity objects, zone display, weapon effects, and background rendering. This is not garnish. It is part of the game's promise: a galaxy that feels materially present even when it is stylized.
+The planning links include `Aetheria Shader Implementation`, and the active game repo contains custom rendering work for volumetric clouds, suns, gas giants, gravity objects, zone display, weapon effects, and background rendering. This is not garnish. It is part of the game's promise: a galaxy that feels materially present even when it is stylized.
 
 The shader document is especially clear about the gravitational terrain system: gameplay occurs on an infinite XZ-aligned surface, while dedicated orthographic cameras paint layers into floating-point render textures. Brush shaders define displacement, fog surfaces, fog patches, waves, wormholes, noise, and field effects. The Grid, minimap, volumetric sun, gas giant, and stardust particle systems are all built from that same premise.
 
