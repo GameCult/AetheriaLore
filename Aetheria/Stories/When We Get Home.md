@@ -1,6 +1,7 @@
 ---
 title: When We Get Home
 author: Emily Harvey
+description: "Two colonists keep promising they'll go home once the work is done, then slowly discover Elysium is becoming home in the meantime."
 ---
 
 > **Editor's note:** This story comes from an earlier branch of Aetheria, back when the setting still imagined Elysium through a colony-fleet lens. The continuity has moved since then, but the emotional core still earns its keep, so it remains here as a preserved fragment from a previous version of the world.

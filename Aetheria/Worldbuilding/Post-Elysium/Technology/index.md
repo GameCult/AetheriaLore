@@ -1,3 +1,8 @@
+---
+title: Technology
+description: "Miracles stayed proprietary. These notes track the unstable technical stack of Elysium: aetheric drives, cognition interfaces, necrotech, and prediction machinery."
+---
+
 # Technology
 
 *"Miracles stayed proprietary."*

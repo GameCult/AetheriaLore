@@ -1,3 +1,8 @@
+---
+title: Worldbuilding
+description: "Aetheria's worldbuilding is where infrastructure, ideology, debt, habitat design, and historical violence stop pretending to be separate subjects."
+---
+
 # Worldbuilding
 
 *"History keeps its grip through corridors, standards, and the routines nobody remembers choosing."*

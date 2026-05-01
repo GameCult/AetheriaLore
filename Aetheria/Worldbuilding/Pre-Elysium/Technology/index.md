@@ -1,3 +1,8 @@
+---
+title: Technology
+description: "The pre-Elysium technical stack that reshaped cognition, embodiment, warfare, extraction, and governance long before reality itself got stranger."
+---
+
 # Technology
 
 *"Every efficiency gain arrived carrying a new permission structure for the human mind."*

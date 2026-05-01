@@ -1,5 +1,6 @@
 ---
 title: Aetheria
+description: "Aetheria is a galaxy-scale social experiment disguised as science-fantasy: cockpit action, corporate logistics, alien civilizations, and humanity repeatedly speedrunning extinction."
 enableToc: false
 ---
 

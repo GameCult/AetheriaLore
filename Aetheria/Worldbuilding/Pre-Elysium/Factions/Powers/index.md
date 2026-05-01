@@ -1,3 +1,8 @@
+---
+title: Powers
+description: "The organizations that turned infrastructure, law, security, logistics, and dependency into ordinary-looking service provision."
+---
+
 # Powers
 
 *"Service, security, and sovereignty became the same invoice."*

@@ -1,3 +1,8 @@
+---
+title: Post-Elysium
+description: "Post-Elysium follows the solar order after the rupture, where stranger physics inherit all the same bad habits and sharper tools."
+---
+
 # Post-Elysium
 
 *"The old order survived the rupture by learning new metaphysics faster than it learned humility."*

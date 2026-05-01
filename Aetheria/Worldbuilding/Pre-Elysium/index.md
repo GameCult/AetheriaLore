@@ -1,3 +1,8 @@
+---
+title: Pre-Elysium
+description: "Pre-Elysium is the long age of extraction, automation, stratified personhood, and managed decline that taught humanity how to drag its worst instincts into space."
+---
+
 # Pre-Elysium
 
 *"Every frontier arrived already collateralized."*

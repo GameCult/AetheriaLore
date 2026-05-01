@@ -1,6 +1,7 @@
 ---
 title: Rain
 author: Jordan Bassett
+description: "On the colony ship Zvezda, a boy grows up on stories of rain, then lands on a world cruel enough to turn that longing into acid."
 ---
 
 ## 35 Years Since the Jump | 21 Years Until Landing

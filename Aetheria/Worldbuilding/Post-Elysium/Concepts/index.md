@@ -1,3 +1,8 @@
+---
+title: Concepts
+description: "The conceptual grammar of post-Elysium reality: aether, pseudospace, temporal weirdness, spirits, and the new forms of exploitation they enable."
+---
+
 # Concepts
 
 *"Reality changed, but only some institutions were allowed to certify the change."*

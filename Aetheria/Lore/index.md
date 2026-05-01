@@ -1,3 +1,8 @@
+---
+title: Lore
+description: "Aetheria's lore tracks the civilizational machine: contract citizenship, managed scarcity, corporate war, disputed personhood, and the systems humanity dragged into Elysium with it."
+---
+
 # Lore
 
 *"Humanity does not lack intelligence. It lacks the collective means to tell itself no."*

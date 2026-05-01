@@ -1,3 +1,8 @@
+---
+title: Species
+description: "Post-Elysium species notes treat embodiment as a political problem: what a form of life can claim, suffer, or be made useful for."
+---
+
 # Species
 
 *"A new body only matters politically when someone decides what kind of obligation it can claim."*

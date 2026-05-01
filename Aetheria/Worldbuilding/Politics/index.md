@@ -1,3 +1,8 @@
+---
+title: Politics
+description: "Politics in Aetheria is the administrative language of violence: who gets recognized, what may be destroyed, and how collapse is priced."
+---
+
 # Politics
 
 *"Stability was never peace, only the accounting format chosen for violence."*

@@ -1,3 +1,8 @@
+---
+title: Game Design
+description: "Aetheria's design is two different games sharing one doomed universe: cockpit-scale action and spreadsheet-scale corporate predation feeding the same persistent galaxy."
+---
+
 # Game Design
 
 *"The setting is a machine. The playable problem is deciding which gears the player gets to touch first."*

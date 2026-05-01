@@ -1,3 +1,8 @@
+---
+title: Factions
+description: "The durable collective forms produced by late Sol's crises: governing powers, insurgent blocs, reform networks, species-defense fronts, and ideological weather systems."
+---
+
 # Factions
 
 *"No order this large survives without enemies it taught to organize."*

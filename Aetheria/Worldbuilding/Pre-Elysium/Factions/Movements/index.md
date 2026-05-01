@@ -1,3 +1,8 @@
+---
+title: Movements
+description: "Political movements in late Sol form wherever personhood, labor, species, and enhancement become things the official order would rather classify than negotiate with."
+---
+
 # Movements
 
 *"When recognition is rationed, politics begins by naming the thing they call property."*

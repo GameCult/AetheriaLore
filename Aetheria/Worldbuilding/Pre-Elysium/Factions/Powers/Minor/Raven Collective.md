@@ -1,3 +1,8 @@
+---
+title: Raven Collective
+description: "A loose insurgent intelligence born from uplifted ravens, network sabotage, and the sort of prank-driven anti-corporate evolution no research department budgets for."
+---
+
 *"Stealing scraps from a broken machine"*
 
 ## Origins and Evolution

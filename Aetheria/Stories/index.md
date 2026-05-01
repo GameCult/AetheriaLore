@@ -1,3 +1,8 @@
+---
+title: Stories
+description: "Fiction set in Aetheria, where routines, memory, aspiration, and small personal failures make the setting easier to understand than a clean taxonomy ever will."
+---
+
 # Stories
 
 *"Systems are easiest to understand once they start ruining somebody's day."*
