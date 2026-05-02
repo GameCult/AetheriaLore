@@ -22,6 +22,18 @@ Navigator territory is dispersed across Triton, the outer system waystations, Jo
 
 Social prestige accrues through reliability, memory, rescue record, and the ability to hold a corridor together under stress. Communities are often mixed-species and multilingual, with physical spaces designed for translation, coexistence, and long-haul habitability rather than ideological pageantry. The result is one of the setting's most believable cultures of working pluralism.
 
+### Habitat and Interface Ergonomics
+
+Navigator habitats are not human rooms with a dolphin problem. Mature route stations, sanctuary registries, convoy courts, and carrier havens assume cetacean bodies from the start.
+
+Public spaces are usually organized around fluid circulation rather than corridors alone: pressure-managed channels, acoustic commons, orientation pools, dryside galleries, and mixed-interface work surfaces where human, uplift, upload, and machine participants can share the same operational frame without pretending they occupy the same body.
+
+Control systems favor redundant modalities. A Navigator may manipulate route boards through acoustic commands, pressure fields, eye or head tracking, skin-contact surfaces, haptic waterflow, neural interface, or delegated crew action depending on local wealth and risk tolerance. Important stations avoid single-channel control because rescue culture treats interface failure as a political failure, not merely a technical inconvenience.
+
+Clinics and sanctuaries in Navigator-adjacent space are built around access from both wet and dry sides. A triage board, testimony packet, or rescue ledger is expected to be legible across species: visual text, acoustic notation, tactile markers, translated speech, and authority logs can describe the same object. Arguments in these spaces often happen across a shared display or orientation chamber, not across a human desk.
+
+Human visitors read this as graceful pluralism when they are being generous and as logistical clutter when they are not. Navigators tend to see it more plainly: if a place cannot hear the body asking for help, it is not yet a civilized room.
+
 ### Economy and Institutions
 
 The Navigators profit from:
