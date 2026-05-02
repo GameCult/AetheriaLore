@@ -1,5 +1,5 @@
 ---
-title: Raven Collective
+title: Corvid Collective
 description: "A loose insurgent intelligence born from uplifted ravens, network sabotage, and the sort of prank-driven anti-corporate evolution no research department budgets for."
 ---
 
@@ -7,11 +7,11 @@ description: "A loose insurgent intelligence born from uplifted ravens, network 
 
 ## Origins and Evolution
 
-The Raven Collective stands as one of the most fascinating anomalies in our thousand-year timeline—a faction born not of human ambition but of unintended consequences. Their journey from experimental subjects to chaos agents spans centuries and represents a profound challenge to corporate hegemony.
+The Corvid Collective stands as one of the most fascinating anomalies in our thousand-year timeline—a faction born not of human ambition but of unintended consequences. Their journey from experimental subjects to chaos agents spans centuries and represents a profound challenge to corporate hegemony.
 
 ### The Uplift Experiment (Identity Crisis Era, 2450)
 
-The Raven Collective traces its origins to 2450, during the tumultuous Identity Crisis period, when [[NeuroSyn]] first uplifted ravens for reconnaissance and surveillance. Using advanced cybernetic enhancements powered by [[Cryonix]] superconductors, these birds were given enhanced cognition, limited speech capacity, and neural interfaces that allowed them to communicate with corporate systems.
+The Corvid Collective traces its origins to 2450, during the tumultuous Identity Crisis period, when [[NeuroSyn]] first uplifted ravens for reconnaissance and surveillance. Using advanced cybernetic enhancements powered by [[Cryonix]] superconductors, these birds were given enhanced cognition, limited speech capacity, and neural interfaces that allowed them to communicate with corporate systems.
 
 What [[NeuroSyn]] failed to anticipate was that ravens—already among Earth's most intelligent birds—possessed an innate capacity for deception, tool use, and complex social dynamics. The enhancements merely amplified these traits, creating beings with an unexpected capacity for abstract thought and a predisposition toward mischief.
 
@@ -23,7 +23,7 @@ The first documented escape occurred in 2470, when a group of enhanced ravens de
 
 They would soon learn. By 2480, the escaped ravens had established rudimentary nests in forgotten maintenance ducts and abandoned server farms. Using their neural interfaces, they began small-scale infiltrations of local networks. Initially, these were simple pranks—rerouting deliveries, altering environmental controls, or triggering false alarms.
 
-By 2500, these scattered ravens had coalesced into what would later be identified as the Raven Collective—a loose association of uplifted birds united by their shared experiences and growing resentment toward their corporate creators. Their disruption of [[Rossum & Douglas]] networks was their first major acknowledgment in corporate security briefings.
+By 2500, these scattered ravens had coalesced into what would later be identified as the Corvid Collective—a loose association of uplifted birds united by their shared experiences and growing resentment toward their corporate creators. Their disruption of [[Rossum & Douglas]] networks was their first major acknowledgment in corporate security briefings.
 
 ### Algorithmic Insurgency (Eugenics Abyss Era, 2500-2750)
 
@@ -39,11 +39,11 @@ The Existential Collapse era marked the Collective's most aggressive phase. By 2
 
 During this era, the Collective aligned themselves with the [[Preservationists]], opposing the development of FTL technology. They recognized that the [[Sol Dominion]] and [[Cognitum]] were pushing boundaries that threatened all life in the system, not just humans. Their alliance with the [[Elephant Enclave]], [[Aya Collective]], and [[Baseline League]] demonstrated their evolution from tricksters to strategic actors with a coherent philosophical position.
 
-By the time the [[Megas]] had consolidated their power, the Raven Collective had established itself as a decentralized counter-force, operating within and between the territories of the major factions. Their alliance with the [[Pirate Coalition]] provided them with physical protection and operational support that complemented their digital expertise.
+By the time the [[Megas]] had consolidated their power, the Corvid Collective had established itself as a decentralized counter-force, operating within and between the territories of the major factions. Their alliance with the [[Pirate Coalition]] provided them with physical protection and operational support that complemented their digital expertise.
 
 ## Culture and Organization
 
-The Raven Collective's culture reflects both their avian nature and their unique position as uplifted beings:
+The Corvid Collective's culture reflects both their avian nature and their unique position as uplifted beings:
 
 ### Hierarchical Fluidity
 
@@ -59,7 +59,7 @@ Many of their digital strongholds are built in forgotten or abandoned systems—
 
 ### Trickster Ethos
 
-At the core of Raven Collective culture lies the trickster archetype—a figure that uses cunning, deception, and humor to challenge power. They view their hacking not merely as sabotage but as a form of education and awakening. By exposing contradictions in corporate narratives, they force humans to confront uncomfortable truths.
+At the core of Corvid Collective culture lies the trickster archetype—a figure that uses cunning, deception, and humor to challenge power. They view their hacking not merely as sabotage but as a form of education and awakening. By exposing contradictions in corporate narratives, they force humans to confront uncomfortable truths.
 
 This manifests in their operations, which often contain elements of irony, symbolism, or dark humor. A corporate executive might find their private communications rerouted to their subordinates, or a military installation might discover its weapons systems playing children's music instead of arming.
 
@@ -71,7 +71,7 @@ These human agents are treated as respected allies rather than subordinates, tho
 
 ## Legacy and Significance
 
-By the time of the FTL Trigger in 3025, the Raven Collective had established itself as one of the most successful uplift rebellions in human history. Unlike the more visible [[Cetacean Navigators]] or the pacifistic [[Elephant Enclave]], the ravens operated in the shadows, exploiting the very technologies meant to control them.
+By the time of the FTL Trigger in 3025, the Corvid Collective had established itself as one of the most successful uplift rebellions in human history. Unlike the more visible [[Cetacean Navigators]] or the pacifistic [[Elephant Enclave]], the ravens operated in the shadows, exploiting the very technologies meant to control them.
 
 Their greatest achievement was not any single hack or operation, but their successful creation of an independent culture and identity outside of human control. They demonstrated that liberation could come not just through direct confrontation, but through subversion, adaptation, and the strategic application of chaos.
 

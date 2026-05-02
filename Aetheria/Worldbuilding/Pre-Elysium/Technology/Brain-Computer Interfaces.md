@@ -34,9 +34,9 @@ Even ostensibly neutral interfaces incorporated "corporate culture enhancement"�
 
 ## Resistance and Subversion: The Neural Underground
 
-Not everyone accepted this corporate neural dominance. The [[Raven Collective]] emerged as the primary opposition, developing countermeasures and alternative systems that prioritized individual autonomy. Their underground "LibertyCore" technology incorporated advanced encryption and counter-surveillance features that prevented external monitoring of neural activity.
+Not everyone accepted this corporate neural dominance. The [[Corvid Collective]] emerged as the primary opposition, developing countermeasures and alternative systems that prioritized individual autonomy. Their underground "LibertyCore" technology incorporated advanced encryption and counter-surveillance features that prevented external monitoring of neural activity.
 
-The Collective's most significant innovation was "ThoughtShield"—a technology that generated randomized neural noise to mask actual thought patterns from corporate monitoring systems. Raven operatives specialized in "neural liberation"—the delicate process of freeing individuals from corporate BCI control without damaging their minds.
+The Collective's most significant innovation was "ThoughtShield"—a technology that generated randomized neural noise to mask actual thought patterns from corporate monitoring systems. Corvid operatives specialized in "neural liberation"—the delicate process of freeing individuals from corporate BCI control without damaging their minds.
 
 The [[Free Neural Network]]—a decentralized movement that developed open-source BCI systems—gained traction around 2850, offering technologies free from corporate monitoring. Their work established underground communities where genuine thought privacy remained possible, though using such technology was illegal in most jurisdictions and punishable by neural reset.
 

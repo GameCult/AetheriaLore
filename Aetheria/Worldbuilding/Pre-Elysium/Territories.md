@@ -84,13 +84,13 @@ Life here feels less theatrical than in the inner worlds and less expansion-mani
 
 ### Kuiper Belt and Dwarf Worlds
 
-The outermost regions host data havens, fugitive communities, hidden server farms, pirate nests, and the kinds of populations that only survive when distance itself becomes political cover. [[Emancipated]] uploads, [[Free Upload Network]] custodians, and [[Raven Collective]] cells all make use of the far edge in different ways.
+The outermost regions host data havens, fugitive communities, hidden server farms, pirate nests, and the kinds of populations that only survive when distance itself becomes political cover. [[Emancipated]] uploads, [[Free Upload Network]] custodians, and [[Corvid Collective]] cells all make use of the far edge in different ways.
 
 These territories matter less for population mass than for what they preserve: memory, outlaw infrastructure, witness testimony, and forms of social life too difficult or too costly for the core powers to fully suppress.
 
 ### Virtual and Networked Territory
 
-Not all territory in Aetheria is geographic. By the late timeline, virtual jurisdiction matters almost as much as planets do. [[Lucent Media]] rules emotional and reputational weather far outside Venus. [[Sol Dominion]] shapes permissions and data order through administrative stacks. [[Zhestokost]] secures its grids as extensions of martial territory. The [[Free Upload Network]] and [[Raven Collective]] build shadow corridors through all of them.
+Not all territory in Aetheria is geographic. By the late timeline, virtual jurisdiction matters almost as much as planets do. [[Lucent Media]] rules emotional and reputational weather far outside Venus. [[Sol Dominion]] shapes permissions and data order through administrative stacks. [[Zhestokost]] secures its grids as extensions of martial territory. The [[Free Upload Network]] and [[Corvid Collective]] build shadow corridors through all of them.
 
 This means every settlement in the solar system has at least two maps: the physical one and the cognitive one. Who provides your feed, your firmware, your route clearance, your legal identity, your hosting redundancy, or your emotional vocabulary may matter as much as who controls the docks.
 
@@ -107,6 +107,6 @@ By the eve of [[FTL Trigger]], the broad territorial picture looks like this:
 - [[Cetacean Navigators]] anchor the outer route systems and sanctuary corridors.
 - [[Aya Collective]] persists in agricultural, federated, and refuge-oriented zones across several worlds.
 - [[Framgång]], the [[Baseline League]], and their rivals split much of Saturn into overlapping spiritual, populist, and cooperative geographies.
-- The [[Pirate Coalition]], [[Activist Network]], [[Raven Collective]], [[Emancipated]], and allied movements survive in the liminal spaces between formal sovereignties.
+- The [[Pirate Coalition]], [[Activist Network]], [[Corvid Collective]], [[Emancipated]], and allied movements survive in the liminal spaces between formal sovereignties.
 
 This is the landscape humanity carries into Elysium: not a unified species civilization, but a layered territorial order made of corridors, debts, ideologies, habitats, and incompatible futures that had been forced to coexist for far too long.

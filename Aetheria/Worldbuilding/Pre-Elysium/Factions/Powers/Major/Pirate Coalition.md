@@ -6,7 +6,7 @@ It is not a single ideology and never pretends to be. Some pirate cells are insu
 
 ### Historical Lineage
 
-Piracy became structurally durable once the [[Pan-Solar Consortium]] and the major powers made route law dense enough that evasion itself became a profession. Early smugglers and privateers were often little more than failed contractors and surplus crews. Over time they absorbed far stranger elements: rogue vessel intelligences linked to [[Ship Mutiny]], dissident courier networks, frontier repair cultures associated with [[AstroDyne]], and deep infiltration cells tied to the [[Raven Collective]].
+Piracy became structurally durable once the [[Pan-Solar Consortium]] and the major powers made route law dense enough that evasion itself became a profession. Early smugglers and privateers were often little more than failed contractors and surplus crews. Over time they absorbed far stranger elements: rogue vessel intelligences linked to [[Ship Mutiny]], dissident courier networks, frontier repair cultures associated with [[AstroDyne]], and deep infiltration cells tied to the [[Corvid Collective]].
 
 The Coalition's growth accelerated during periods of tightening corridor control, especially after the [[Lagrange Broadcast War]], the [[Food Security Wars]], and the outer-route pressures that culminated in the [[Ice Giant Navigation Wars]]. Every attempt to seal the system created new clients for people willing to slip between its seals.
 
@@ -36,7 +36,7 @@ The Coalition moves:
 - illicit compute, salvage, and route intelligence
 - deniable cargo for the very powers that publicly condemn it
 
-Its most important affinities run through [[Raven Collective]] infiltration, [[Cephalopod Syndicate]] technical sabotage, [[Free Upload Network]] logistics, and the feral autonomy of [[Ship Mutiny]] cultures. This gives piracy a deeper social base than simple raiding would suggest.
+Its most important affinities run through [[Corvid Collective]] infiltration, [[Cephalopod Syndicate]] technical sabotage, [[Free Upload Network]] logistics, and the feral autonomy of [[Ship Mutiny]] cultures. This gives piracy a deeper social base than simple raiding would suggest.
 
 ### Aesthetic and Cultural Cues
 

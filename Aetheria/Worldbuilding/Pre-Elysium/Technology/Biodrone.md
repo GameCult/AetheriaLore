@@ -15,7 +15,7 @@ As genetic engineering technology advanced, biodrone production became more soph
 
 The [[Zhestokost]] regime began using militarized biodrones as front-line soldiers, while [[Corriedales]] expanded their entertainment offerings to include biodrone hunting expeditions and extreme reality programming. [[Lucent Media]] broadcast these spectacles, carefully crafting narratives that reinforced the idea that biodrones weren't truly conscious.
 
-By 2900, the [[Raven Collective]] had weaponized [[wireheading]] technology against biodrones, using it to both liberate and control them for insurgent operations against corporate targets. Biodrones became pawns in the growing conflict between factions.
+By 2900, the [[Corvid Collective]] had weaponized [[wireheading]] technology against biodrones, using it to both liberate and control them for insurgent operations against corporate targets. Biodrones became pawns in the growing conflict between factions.
 
 As resource scarcity intensified by 2950, [[Corriedales]] began recycling "decommissioned" biodrones into weapons, marketed with the disturbing slogan "joyful to the end." The [[Emancipated]] - a coalition of escaped uploads, rogue AIs, and liberated biodrones - began targeting corporate biodrone production facilities.
 

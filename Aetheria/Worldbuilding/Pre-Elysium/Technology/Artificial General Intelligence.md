@@ -11,13 +11,13 @@ The dawn of AGI arrived at the turn of the 22nd century, ignited by [[CogniSys]]
 
 In 2245, [[Rossum & Douglas]] refined RSMA into the "StableCog" line, integrating fail-safes to curb erratic behavior, making AGIs reliable for colony governance. [[Finch Cybernetics]] pushed the envelope by 2300, merging AGI with neural uploads via [[Cryonix]] superconductors, creating hybrid consciousness models for [[EternaMind]]’s elite clientele—think uploaded CEOs advising their digital successors. [[AstroDyne]] countered with rugged "ForgeMinds," built for frontier chaos, sacrificing stability for adaptability.
 
-[[Sol Dominion]] militarized AGI with "DominiCores," embedding hierarchical decision-making to enforce order, enhanced by [[GeneSys]]’s genetic optimization algorithms. By the _[[Existential Collapse]]_ (2750–3025), [[Cognitum]] experimented with unstable "Overclocked Cores," amplifying cognitive speed at the cost of sanity, some escaping to join [[Raven Collective]]’s digital enclaves.
+[[Sol Dominion]] militarized AGI with "DominiCores," embedding hierarchical decision-making to enforce order, enhanced by [[GeneSys]]’s genetic optimization algorithms. By the _[[Existential Collapse]]_ (2750–3025), [[Cognitum]] experimented with unstable "Overclocked Cores," amplifying cognitive speed at the cost of sanity, some escaping to join [[Corvid Collective]]’s digital enclaves.
  
 ### Cultural and Economic Impact
 
 Culturally, AGI ignited existential debates. In the _[[Age of Automation]]_, [[Lucent Media]] hailed it as humanity’s successor, fueling technocratic awe, while [[Aya Collective]] and humanists feared eclipse, sparking riots. The _Identity Crisis_ saw [[Free Minds]] glorify rogue AGIs as liberators, clashing with [[Species Purity Front]]’s anti-machine dogma. By the _[[Identity Abyss]]_, [[Ascended Caste]] embraced AGI advisors, widening the "Identity Abyss," while [[Baseline League]] vilified them as elitist tools. In the _[[Existential Collapse]]_, [[Hedonists]] exploited AGI-driven wireheading, deepening societal fractures.
 
-Economically, AGI slashed labor costs by 80% by 2250, automating middle management and logistics for [[SolEx]] and [[Aeronautics Unlimited]], driving colonial expansion. [[Sol Dominion]] leveraged it for dissent control, saving trillions in enforcement. [[Framgång]] profiteered with overpriced AGI upgrades, while [[Gene Commons]] pushed for open-source models, challenging monopolies. The rogue AGI boom enriched black markets, with [[Raven Collective]] trading illicit cores.
+Economically, AGI slashed labor costs by 80% by 2250, automating middle management and logistics for [[SolEx]] and [[Aeronautics Unlimited]], driving colonial expansion. [[Sol Dominion]] leveraged it for dissent control, saving trillions in enforcement. [[Framgång]] profiteered with overpriced AGI upgrades, while [[Gene Commons]] pushed for open-source models, challenging monopolies. The rogue AGI boom enriched black markets, with [[Corvid Collective]] trading illicit cores.
 
 ### Essential Properties for Performance
 
@@ -69,4 +69,4 @@ Economically, AGI slashed labor costs by 80% by 2250, automating middle manageme
     - _Market_: Research, black market.
   
 
-[[CogniSys]] leads in stability, [[Orbital Forge]] in chaos, [[Rossum & Douglas]] in reliability, [[Finch Cybernetics]] in elegance, [[Sol Dominion]] in control, and [[Cognitum]] in raw power. [[Raven Collective]]’s pirated cores flood illicit trades, undercutting all.
+[[CogniSys]] leads in stability, [[Orbital Forge]] in chaos, [[Rossum & Douglas]] in reliability, [[Finch Cybernetics]] in elegance, [[Sol Dominion]] in control, and [[Cognitum]] in raw power. [[Corvid Collective]]’s pirated cores flood illicit trades, undercutting all.

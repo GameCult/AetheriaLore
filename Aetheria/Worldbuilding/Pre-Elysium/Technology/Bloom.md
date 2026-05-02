@@ -64,7 +64,7 @@ Current Bloom structures can house hundreds of thousands of inhabitants, self-su
 #### Information Transfer
 - **Data Corridors**: Information travels faster than people, with specialized courier vessels carrying data packets between Blooms before the advent of [[Aethernet]].
 - **Bandwidth Inequality**: Major corporate Blooms enjoy high-priority data connections, while independent habitats often face artificial throttling imposed by the [[Pan-Solar Consortium]].
-- **[[Raven Collective]] Tunnels**: The Ravens have established secret data channels between sympathetic Blooms, creating an information underground that bypasses corporate surveillance.
+- **[[Corvid Collective]] Tunnels**: The Corvids have established secret data channels between sympathetic Blooms, creating an information underground that bypasses corporate surveillance.
 
 ### Cultural Impact
 

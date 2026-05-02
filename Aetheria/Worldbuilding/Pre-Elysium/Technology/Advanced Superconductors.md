@@ -71,4 +71,4 @@ Economically, superconductors revolutionized energy efficiency, cutting AGI and 
     - _Weaknesses_: Overpriced, inconsistent quality.
     - _Market_: Luxury colonies, status seekers.
 
-[[Cryonix]] leads with versatility and efficiency, outpacing [[Sol Dominion]]’s militarized reliability and [[Aeronautics Unlimited]]’s pirated speed. [[Finch Cybernetics]] excels in niche cybernetics, while [[SolEx]] lags with legacy tech, and [[Framgång]] peddles overpriced mediocrity. [[Raven Collective]]’s pirated variants flood black markets, challenging all players.
+[[Cryonix]] leads with versatility and efficiency, outpacing [[Sol Dominion]]’s militarized reliability and [[Aeronautics Unlimited]]’s pirated speed. [[Finch Cybernetics]] excels in niche cybernetics, while [[SolEx]] lags with legacy tech, and [[Framgång]] peddles overpriced mediocrity. [[Corvid Collective]]’s pirated variants flood black markets, challenging all players.

@@ -40,8 +40,8 @@ The [[Cognitum]] began radical experimentation with uploaded minds by 2600, crea
 
 During this period, three key opposing factions emerged:
 
-* [[Emancipated]] (2570): Escaped uploads, allied with [[Free Upload Network]], infiltrate [[Cognitum]] systems, leaking secrets via [[Raven Collective]] networks.
-* [[Pragmatists]] (2610): Led by [[Rossum & Douglas]], they fear rogue superintelligences, sabotaging [[Cognitum]] hubs with [[Raven Collective]] aid and advocating via [[Lucent Media]] leaks.
+* [[Emancipated]] (2570): Escaped uploads, allied with [[Free Upload Network]], infiltrate [[Cognitum]] systems, leaking secrets via [[Corvid Collective]] networks.
+* [[Pragmatists]] (2610): Led by [[Rossum & Douglas]], they fear rogue superintelligences, sabotaging [[Cognitum]] hubs with [[Corvid Collective]] aid and advocating via [[Lucent Media]] leaks.
 * [[Preservationists]] (2630): Backed by [[Aya Collective]], they view uploads as sentient, rescuing them with [[Rossum & Douglas]] tech.
 
 ### Legacy and Elysium
