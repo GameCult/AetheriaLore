@@ -40,6 +40,8 @@ AU profits from:
 
 Its major institutions include the Expansion Board, the Ramp Administrations that govern large Bloom clusters, the Frontier Claims Office, and a thicket of semi-autonomous operations councils that often behave like petty governments in their own right.
 
+AU uses `ramp` in the production sense: a habitat, yard, route, or cluster being brought up from speculative shell to working throughput. A Ramp Administration is the local operating authority for that ramp-up. It controls berth priority, shift allocation, safety waivers, claimshare accounting, security escalation, maintenance budgets, and the ugly question of which failure can be called acceptable. Its offices are usually spoke-base operations decks, hub traffic rooms, and yard control galleries. They are not literal ramps, though AU would absolutely charge rent on those too.
+
 ### Claimshares
 
 `Claimshares` circulate through AU territory like frontier stock certificates disguised as wages. Crews earn them for output, dangerous contract completion, and staying attached to promising cavities. They buy better tools, medical access, improved spin districts, docking priority, and, for the fortunate, slivers of equity in the next charter.

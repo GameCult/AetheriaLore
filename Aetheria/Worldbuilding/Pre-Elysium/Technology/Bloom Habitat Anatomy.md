@@ -139,7 +139,7 @@ Workers follow the hierarchy of access:
 - **Specialist bodies** enter zero-g crawl arteries, pressure lungs, narrow valve nests, exterior-adjacent pockets, and blind maintenance routes that were never meant to be public architecture.
 - **Supervisors and security** often have parallel routes: observation catwalks, badge-only lifts, command galleries, and quick-response shafts that let them arrive after workers have already absorbed the danger.
 
-This answers one recurring scene question: where does someone like an AU supervisor come from? In a mature AU yard, not from nowhere. They come from a spoke-adjacent operations deck, a supervisor tram, a command gallery, or a security lift tied to the nearest ramp administration node. Their arrival changes a scene because the architecture gives them a cleaner, faster, more authorized path than the workers have.
+This answers one recurring scene question: where does someone like an AU supervisor come from? In a mature AU yard, not from nowhere. A shift superintendent usually originates in the yard operations gallery: a glassed control booth mounted above the work ring, connected by a raised supervisor catwalk and badge-only corridor to the spoke-base operations deck. Security can arrive by quick-response shaft; cluster administrators can descend from Ramp Administration offices. The supervisor's arrival changes a scene because the architecture gives authority a cleaner, faster, more protected path than the workers have.
 
 ## Living Space Hierarchy
 
@@ -226,7 +226,7 @@ This is why an AU Bloom can feel inventive and cruel at the same time. The geome
 
 The [[Pallas Species Strikes]] occurred in precisely the spaces where AU customization and BioElevate biology met Orbital Forge anatomy.
 
-A Pallas-style maintenance yard might sit beneath an industrial surface district, radially outward from the visible yard floor and inward from thicker shielding. Workers reach it through shift locks, equipment cages, and service lifts from nearby housing or spoke transit. Supervisors reach it from an operations gallery tied to the spoke base or ramp administration deck. Biodrones arrive through handler corridors and restraint staging. Uplifted cephalopod crews arrive through support-rig prep rooms where humidity skins, oxygenation loops, pressure cuffs, limiter interfaces, and compact mobility harnesses are checked before entry.
+A Pallas-style maintenance yard might sit beneath an industrial surface district, radially outward from the visible yard floor and inward from thicker shielding. Workers reach it through shift locks, equipment cages, and service lifts from nearby housing or spoke transit. Supervisors reach it from a glassed Kappa operations gallery on a raised catwalk, with badge-only access back to the spoke-base operations deck and the local Ramp Administration offices above it. Biodrones arrive through handler corridors and restraint staging. Uplifted cephalopod crews arrive through support-rig prep rooms where humidity skins, oxygenation loops, pressure cuffs, limiter interfaces, and compact mobility harnesses are checked before entry.
 
 The work itself happens across layers:
 
