@@ -47,7 +47,7 @@ The hub also contains major life-support plant, especially systems too massive, 
 
 The spire extends along the central axis and binds the hub to the rest of the habitat. It is not just a pretty line in the sky. It is a utility mast, light engine, transit spine, sensor platform, and symbolic claim of control.
 
-Light pipes, radiator trunks, power buses, data trunks, spoke elevator heads, traffic control nodes, and administrative command decks attach to the spire. Its visible brightness and accessibility become social facts. Districts with better spire sightlines, cleaner light cycles, and shorter spoke access tend to become richer unless a controlling faction deliberately prevents it.
+Light pipes, radiator trunks, power buses, data trunks, spoke elevator heads, traffic control nodes, and administrative command decks attach to the spire. The spire is powerful, but proximity to it is not automatically pleasant. Near the axis, gravity becomes negligible and radial movement through rotating frames can produce disorienting Coriolis effects. The most valuable permanent housing is usually near spoke bases on the high-gravity inner surface, where residents get access without living inside the axial machine. Spire-adjacent volume is prized for offices, traffic control, labs, hotels, short-stay diplomatic suites, transit services, and operational command, not ordinary domestic life.
 
 ### Spokes
 
@@ -145,12 +145,12 @@ This answers one recurring scene question: where does someone like an AU supervi
 
 Bloom housing is shaped by light, gravity, transit time, air quality, and emergency priority.
 
-- **Spire-adjacent residences** are rare, expensive, and often low-gravity. They suit administrators, diplomats, elite technicians, and anyone whose work benefits from hub access.
-- **Spoke-base districts** are the prime middle of many Blooms: good gravity, transit access, strong light, better shops, visible policing, and priority repairs.
+- **Spoke-base districts** are the prime middle of many Blooms: good gravity, transit access, strong light, better shops, visible policing, and priority repairs. These are the places with both civic comfort and quick access to the axial economy.
 - **Surface residential belts** range from comfortable neighborhoods to cramped worker barracks depending on distance from spokes, light quality, and owner policy.
 - **Industrial-adjacent housing** is cheaper, louder, more contaminated, and closer to shift gates.
 - **Service housing** sits near maintenance decks and yard access, often justified as convenient and experienced as captivity with shorter commute time.
-- **Hub slums** form in dim, low-gravity, transit-heavy spaces where workers, migrants, undocumented residents, and surplus bodies collect near jobs but far from power.
+- **Axial short-stay and operations quarters** cluster near the spire, hub, and spoke heads for administrators, diplomats, traffic crews, technicians, and visitors who need immediate access. They are useful, expensive by the night, and physically strange: low gravity, awkward transfers, vibration, glare, machine noise, and Coriolis nausea make them poor default homes.
+- **Hub slums** form in dim, low-gravity, transit-heavy spaces where workers, migrants, undocumented residents, and surplus bodies collect near jobs but far from power. Their residents are close to the machinery of wealth without enjoying the comfort of it.
 
 AU variants lean hard on service housing and claimshare advancement. Better berth access, cleaner air, shorter spoke queues, windowed common rooms, and medical priority become things workers can buy, lose, or be promised. The building knows your contract status before your neighbor does.
 
