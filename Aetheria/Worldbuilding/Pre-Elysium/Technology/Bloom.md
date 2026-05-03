@@ -2,7 +2,7 @@
 
 Orbital Cavity Construction, usually called the [[Bloom]] process, is the dominant method of creating large-scale habitable free-space structures in the late pre-Elysium solar system. Pioneered by [[Orbital Forge]], it moved colonization away from fragile modular stations and toward rotating manufactured habitats grown from processed asteroid aggregate.
 
-Most asteroids are loose, irregular rubble held together by weak gravity and inconvenient optimism. The Bloom process captures, fractures, sorts, binds, and reshapes that material into a rotating cylindrical shell with enough pressure integrity, shielding mass, life-support capacity, and interior volume to behave like a world.
+Most asteroids are loose, irregular rubble held together by weak gravity. The Bloom process captures, fractures, sorts, binds, and reshapes that material into a rotating cylindrical shell with enough pressure integrity, shielding mass, life-support capacity, and interior volume to behave like a world.
 
 ### Genesis: The Forge-in-Place Breakthrough
 
@@ -24,11 +24,11 @@ The second phase began when Orbital Forge partnered with [[VitaForge]] to turn p
 
 MCN, RSS, and TCS became the foundation of the mature Bloom process. A fragmented asteroid field is contained, sorted, spun, compacted, and built into a rotating cylindrical shell. Centrifugal acceleration provides apparent gravity at the inner surface. Compacted aggregate and TCS form shielding and structure. Prefabricated hub sections, transfer collars, spoke systems, light engines, life-support plant, and utility trunks are installed as the cylinder becomes habitable.
 
-The final form is a rotating shell with a broad pressurized interior commons. Residents may not live under a planetary sky, but they live in open habitat air: streets, farms, yards, plazas, residential belts, industrial flats, and civic districts sharing one managed atmosphere inside the pressure shell. Emergency partitions, service cells, locks, shutters, and hazard barriers exist to contain faults, not to make ordinary civic life feel like a submarine with delusions of grandeur.
+The final form is a rotating shell with a broad pressurized interior commons. Residents may not live under a planetary sky, but they live in open habitat air: streets, farms, yards, plazas, residential belts, industrial flats, and civic districts sharing one managed atmosphere inside the pressure shell. Emergency partitions, service cells, locks, shutters, and hazard barriers exist to contain faults while preserving open civic life during normal operation.
 
 The default mature Bloom uses a hybrid rotation model. The inhabited shell rotates. The axial hub is despun or partially despun for docking, traffic control, and external alignment. Spoke cars, transfer collars, rotary seals, utility swivels, bearings, maglev guides, and emergency locks mediate between the rotating city and the axial logistics system. This machinery is expensive, which is why spoke bases and hub interfaces become some of the most politically charged real estate in the habitat.
 
-[[Orbital Forge]], despite its rebellious nature, released open-source guidelines for MCN deployment, RSS operation, TCS formulation, spin-up, spoke integration, and pressure-shell inspection. The standards were open enough to spread and specific enough to favor Forge-compatible builders. This is how Orbital Forge kept its fingerprints on a technology it claimed to democratize. Very civic-minded piracy, with diagrams.
+[[Orbital Forge]], despite its rebellious nature, released open-source guidelines for MCN deployment, RSS operation, TCS formulation, spin-up, spoke integration, and pressure-shell inspection. The standards were open enough to spread and specific enough to favor Forge-compatible builders. This gave Orbital Forge durable influence over a technology it publicly framed as democratized infrastructure.
 
 ### The Bloom Rush And Social Impact
 
@@ -46,7 +46,7 @@ The consequences were enormous:
 - **Strategic expansion:** Militarized factions such as [[Zhestokost]] could convert resource claims into fortified habitats and exploit the gap between construction law and [[Conflict Permit]] enforcement.
 - **Uplift integration:** The [[Elephant Enclave]], [[Cetacean Navigators]], and other uplift polities developed specialized Bloom sections and, eventually, self-governed habitat ecologies.
 
-By the late 26th century, mature Blooms could house hundreds of thousands of people, and dedicated megacity habitats could reach into the millions or tens of millions. They were not isolated outposts clinging to barren rock. They were rotating, self-contained city ecologies made from the ruins of asteroids and the social decisions of whoever paid to tame them.
+By the late 26th century, mature Blooms could house hundreds of thousands of people, and dedicated megacity habitats could reach into the millions or tens of millions. They were rotating, self-contained city ecologies made from processed asteroid mass and the social decisions of whoever financed them.
 
 ### Intercolony Travel And Transportation
 
@@ -76,7 +76,7 @@ By the late 26th century, mature Blooms could house hundreds of thousands of peo
 
 The Bloom's cylinder makes geography political.
 
-The core engineering directions are inward, outward, spinward, counterspinward, axial, hubward, and capward. Inward points toward the habitat volume and axis. Outward points through the ground into utilities, structure, shielding, and space. Hubward runs along the cylinder toward the docking hub and axial machinery. Capward runs toward the far endcap.
+The core coordinate vocabulary is inward, outward, spinward, counterspinward, axial, hubward, and capward. Inward points toward the habitat volume and axis. Outward points through the ground into utilities, structure, shielding, and space. Axial describes the cylinder's lengthwise axis. Hubward and capward are the two axial directions: hubward runs toward the docking hub and axial machinery, while capward runs toward the far endcap.
 
 #### Spire, Hub, And Light Inequality
 
@@ -84,7 +84,7 @@ The central spire carries light distribution, traffic control, utility trunks, s
 
 Near-axis space has weak gravity and awkward transfer physics. It is valuable for offices, labs, traffic control, low-g fabrication, short-stay suites, machine rooms, and shift quarters. It is poor default domestic space. Where people do live near the axis, it is usually because they are transient, poor, adapted, undocumented, on duty, or close to work they cannot afford to commute away from.
 
-Light is infrastructure and politics. Mature Blooms use spire light engines, pipe networks, reflectors, diffusers, projected sky systems, and district scheduling to produce day/night rhythms. Good districts get stable cycles and pleasant diffusion. Bad districts get glare, dimness, flicker, maintenance debt, or the kind of official twilight that sounds poetic only if you do not have to raise children in it.
+Light is infrastructure and politics. Mature Blooms use spire light engines, pipe networks, reflectors, diffusers, projected sky systems, and district scheduling to produce day/night rhythms. Well-funded districts get stable cycles and pleasant diffusion. Poor districts get glare, dimness, flicker, and delayed maintenance.
 
 #### Spoke Bases And Surface Belts
 
@@ -96,7 +96,7 @@ Away from spoke bases, surface belts can become residential neighborhoods, farms
 
 Cylinder endcaps are walls under spin gravity. A person standing on the inner surface sees hubward and capward directions as long axial distances, while the endcap rises like a vast artificial cliff at the end of the world.
 
-Useful and miserable spaces accumulate there. Hubward zones connect to docking, customs, traffic, volatile stores, and axial industry. Capward zones may host fabrication, low-g agriculture, waste processing, thermal systems, storage, or auxiliary ports depending on the Bloom's purpose. Both can develop terraced wall settlements: shelves, galleries, ladders, nets, tilted rooms, handline streets, and low-g platforms climbing toward axial work zones.
+Operationally useful and socially marginal spaces accumulate there. Hubward zones connect to docking, customs, traffic, volatile stores, and axial industry. Capward zones may host fabrication, low-g agriculture, waste processing, thermal systems, storage, or auxiliary ports depending on the Bloom's purpose. Both can develop terraced wall settlements: shelves, galleries, ladders, nets, tilted rooms, handline streets, and low-g platforms climbing toward axial work zones.
 
 These endcap slums get poorer as gravity weakens, light gets stranger, and escape routes narrow. The residents are close to the machinery of the habitat and far from the comfort it sells to visitors.
 
@@ -104,7 +104,7 @@ These endcap slums get poorer as gravity weakens, light gets stranger, and escap
 
 Agricultural Blooms use the cylinder as a light, water, nutrient, labor, and gravity machine. Some farms occupy high-radius surface belts for ordinary crops and soil ecologies. Others climb terraced hubward or capward structures where lower gravity benefits delicate plants, aeroponics, algae towers, fungal racks, or experimental BioElevate/VitaForge systems. Processing facilities cluster near spoke bases and utility trunks so food, nutrients, heat, and waste can move without turning harvest into a civic parade.
 
-[[Ewan Hart]] maintains megacity Blooms and supplies agricultural Blooms for factions seeking autonomy. Their agricultural designs vary by client, but the good ones treat farming as part of habitat metabolism rather than a scenic green carpet.
+[[Ewan Hart]] maintains megacity Blooms and supplies agricultural Blooms for factions seeking autonomy. Their agricultural designs vary by client, but mature versions treat farming as part of habitat metabolism rather than surface decoration.
 
 ### Life Support And Habitat Metabolism
 
@@ -112,7 +112,7 @@ A Bloom is a closed-world apparatus. Air, water, heat, biomass, waste, power, da
 
 Air systems supply the open commons, recover contaminated return air, remove heat and humidity, filter particulates, scrub carbon dioxide, manage trace contaminants, and isolate fire or toxin events. Water arrives as cargo ice, recovered loop water, condensate, or reserve mass; it is checked, conditioned, split by grade, used, dirtied, recovered, and checked again. Waste is sorted locally when possible, then digested, sterilized, cracked, compacted, recycled, exported, or quarantined. Heat moves through exchangers, coolant loops, thermal stores, radiator trunks, and exterior radiators because matter can cycle but heat has to leave.
 
-The machine is distributed. Life support is not one room in the hub. It is a treaty between hub plant, spire trunks, spoke utilities, district processors, farms, shell service layers, emergency reserves, and the maintenance workers who know which official diagram is lying this month.
+The machine is distributed. Life support is not one room in the hub. It is a coordinated system of hub plant, spire trunks, spoke utilities, district processors, farms, shell service layers, emergency reserves, and maintenance crews who understand the gap between drawings and field conditions.
 
 For a room-scale and systems-level breakdown of Bloom atmosphere, layers, maintenance access, resource flows, and scene design, see [[Bloom Habitat Anatomy]].
 
@@ -128,14 +128,14 @@ For a room-scale and systems-level breakdown of Bloom atmosphere, layers, mainte
 
 - **Hybrid technologies:** [[Advanced Superconductors]] improve power distribution and maglev transfer systems, while [[Brain-Computer Interfaces]] allow direct neural monitoring or control of select habitat systems.
 - **Uplift adaptations:** [[BioElevate]] and several Megas created specialized Bloom spaces for uplifted species. Humane adaptations exist. So do corporate adaptations that modify the body instead of widening the tunnel.
-- **Cephalopod habitats:** The [[Cephalopod Syndicate]] later pioneers water-filled and semi-aquatic zero-G habitats with three-dimensional social and industrial space. AU's earlier cephalopod labor routes are not that. They are dry-environment support rigs and cramped maintenance geometry made profitable by modified octopoid bodies.
+- **Cephalopod habitats:** The [[Cephalopod Syndicate]] later pioneers water-filled and semi-aquatic zero-G habitats with three-dimensional social and industrial space. AU's earlier cephalopod labor routes use dry-environment support rigs and cramped maintenance geometry made profitable by modified octopoid bodies.
 - **Post-[[Identity Abyss]] developments:** [[GeneSys]] and VitaForge create increasingly tailored interiors for enhanced humans, engineered ecologies, and status-sealed communities.
 
 ### Social Ramifications During The Existential Collapse
 
 - **Resource hoarding:** As resources became scarce during the [[Existential Collapse]], some Bloom communities sealed docking access, seized volatile stores, or rewrote transit law around survival claims.
 - **Wireheading sanctuaries:** Remote Blooms became havens for [[Wireheading]] communities, with automated systems maintaining life support around populations lost in artificial bliss.
-- **Survival adaptation:** The most durable Blooms achieved deep local loop closure, diversified repair capacity, and enough social trust to keep maintenance from becoming civil war with better ventilation.
+- **Survival adaptation:** The most durable Blooms achieved deep local loop closure, diversified repair capacity, and enough social trust to keep maintenance disputes from escalating into habitat-scale conflict.
 - **FTL Exodus preparation:** In the lead-up to the [[FTL Trigger]], many Blooms were modified for long-voyage survival with extra shielding, expanded reserves, hardened life support, and social systems that looked stable right up until they did not.
 
 Bloom technology became the physical framework of solar society before Elysium: city, factory, farm, port, fortress, slum, temple, and pressure vessel in one rotating shell.
