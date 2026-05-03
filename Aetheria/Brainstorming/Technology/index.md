@@ -4,6 +4,12 @@ These notes develop technical constraints and speculative mechanisms that are li
 
 ## Current Notes
 
+- [[Bloom Habitat Article Audit]]
+- [[Bloom Habitat Constraint Ledger]]
+- [[Bloom Habitat Engineering Research Notes]]
+- [[Bloom Habitat Ontology Drafts]]
+- [[Bloom Habitat Open Questions And Red Team]]
+- [[Bloom Habitat Systems Walkthroughs]]
 - [[Cooling Beyond Blackbody]]
 - [[Heat Pumps and Thermal Transport]]
 - [[Thermal Stealth and Signature Warfare]]
