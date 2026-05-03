@@ -29,6 +29,8 @@ MCN, RSS and TCS became the foundation of the Bloom's second phase: habitat cons
 
 The final stage involves installing a central hub within the rotating cylinder with a spire extending through the axis of the Bloom. This hub houses life support systems, docking facilities, and a network of light pipes in the spire that distribute collected sunlight throughout the interior, mimicking a day/night cycle. Elevators located in spokes connect the spire to the inner surface, creating a readily traversable environment.
 
+A mature Bloom's inhabited cylinder is pressurized as a broad interior commons rather than a stack of small station modules. Residents may not live under a planetary sky, but they do live in open habitat air: streets, farms, yards, plazas, and residential belts sharing one managed atmosphere inside the structural shell. Emergency partitions, service cells, locks, and hazard barriers exist to contain faults, not to make ordinary civic life feel like living inside a submarine forever.
+
 [[Orbital Forge]], despite its rebellious nature, recognized the need for some level of standardization to ensure the safety and stability of the burgeoning cavity habitats. They released open-source guidelines for MCN deployment, RSS operation, and TCS formulation and application, albeit with protocols highly specific to technology they controlled, giving OF-built systems a significant advantage in the Bloom ecosystem.
 
 ### The "Bloom Rush" and Social Impact
@@ -123,6 +125,6 @@ However, in Blooms aiming for greater autonomy, the far pole takes on a crucial 
 - **FTL Exodus Preparation**: In the lead-up to the [[FTL Trigger]], many Blooms were converted into long-voyage vessels, with additional shielding and expanded life support systems in anticipation of interstellar travel.
 
 
-For a room-scale and systems-level breakdown of how mature Bloom habitats route living space, work space, maintenance access, pressure cells, life support, and resource flows, see [[Bloom Habitat Anatomy]].
+For a room-scale and systems-level breakdown of how mature Bloom habitats route open civic atmosphere, living space, work space, maintenance access, emergency isolation, life support, and resource flows, see [[Bloom Habitat Anatomy]].
 
 The Bloom technology represents more than just a construction method—it became the physical framework within which solar society evolved, creating new social structures, economic dependencies, and cultural identities that fundamentally shaped humanity's experience before the transition to Elysium.

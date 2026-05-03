@@ -6,7 +6,7 @@
 
 The short answer is usually one of five things:
 
-- keep pressure where people need pressure
+- hold one large habitable atmosphere inside the rotating shell
 - carry loads from rotating shell to axial spine and back
 - move mass, heat, water, air, people, information, or waste
 - give maintenance crews a way to reach the first three before they fail
@@ -23,9 +23,15 @@ A Bloom's most important direction is not north, south, up, or down. It is radia
 - **Spinward** and **counterspinward** run around the cylinder's circumference.
 - **Axial** runs along the length of the cylinder toward either endcap and, in many Blooms, toward hub complexes, industrial poles, or low-gravity service zones.
 
-For residents standing on the inhabited inner surface, centrifugal gravity makes outward feel like down. The ceiling is inward, toward open habitat volume and the spire. The ground beneath them is not natural rock. It is a layered machine: civic surface, utility beds, pressure membranes, structural ribs, TCS mass, shielding, and service arteries threaded through the shell.
+For residents standing on the inhabited inner surface, centrifugal gravity makes outward feel like down. The ceiling is inward, toward open habitat volume, the central axis, and the spire. The ground beneath them is not natural rock. It is a layered machine: civic surface, utility beds, local membranes, structural ribs, TCS mass, shielding, and service arteries threaded through the shell.
 
-This matters because a maintenance tunnel under a park, tenement row, or yard floor is not dug through solid asteroid like a mine adit. It is embedded in a manufactured shell whose job is to hold atmosphere, carry spin loads, route utilities, absorb radiation, and fail slowly enough that alarms have time to become plans.
+This matters because a maintenance tunnel under a park, tenement row, or yard floor is not dug through solid asteroid like a mine adit. It is embedded in a manufactured shell whose job is to contain a broad public atmosphere, carry spin loads, route utilities, absorb radiation, and fail slowly enough that alarms have time to become plans.
+
+## Open Interior And Managed Edges
+
+A mature Bloom is attractive because its interior is pressurized as a shared civic environment. It may not have a planetary sky, weather system, or horizon, but it has open air: streets, farms, industrial flats, housing belts, transit plazas, and public districts sitting inside one enormous artificial atmosphere. That open interior is the economic and psychological advantage over most planetary colonies, where terraforming is not feasible and ordinary life remains trapped behind smaller pressure envelopes.
+
+This does not make the Bloom a single reckless balloon. The primary pressure boundary is the exterior shell, endcaps, hub locks, and major penetrations. Inside that boundary, operators use airflow zoning, fire curtains, contamination shutters, pressure doors, service membranes, and emergency bulkheads to manage faults. Most civic zones are normally open to the shared atmosphere. They become isolated only when fire, breach, toxin release, quarantine, labor action, or security protocol forces the habitat to carve temporary compartments out of its open world.
 
 ## The Primary Layers
 
@@ -53,11 +59,11 @@ Passenger lifts run in separate pressure shafts from bulk cargo tubes. Emergency
 
 The inner surface is the habitable world residents recognize: streets, housing, parks, factories, clinics, schools, markets, temples, entertainment blocks, civic plazas, and industrial yards. Gravity is strongest here because it is farthest from the axis. The surface can be terraced, cut with canals, built into towers, or shaped into industrial flats depending on the Bloom's purpose.
 
-The visible city is only the top skin. Under the paving, soil mats, factory floors, and residential slabs sit layered utilities. Air returns, water mains, greywater loops, condensate gutters, nutrient channels, power trunks, data fiber, inspection galleries, and emergency pressure partitions run everywhere. A normal resident sees vents, access hatches, utility closets, warning paint, and occasional repair crews. A cavity engineer sees a circulatory system under tension.
+The visible city is only the top skin. Under the paving, soil mats, factory floors, and residential slabs sit layered utilities. Air returns, water mains, greywater loops, condensate gutters, nutrient channels, power trunks, data fiber, inspection galleries, and emergency isolation gear run everywhere. A normal resident sees vents, access hatches, utility closets, warning paint, and occasional repair crews. A cavity engineer sees a circulatory system under tension.
 
 ### Structural Shell
 
-Below the inner surface lies the structural shell: TCS ribs, pressure laminates, aggregate shielding, expansion joints, shear keys, anchor rails, service rings, seal lungs, thermal spreaders, and inspection cavities. This is where many Bloom stories should slow down and think before placing a room.
+Below the inner surface lies the structural shell: TCS ribs, pressure laminates, aggregate shielding, expansion joints, shear keys, anchor rails, service rings, seal lungs, thermal spreaders, and inspection cavities. The shell is what lets the public interior feel like open air instead of a bunker corridor. This is where many Bloom stories should slow down and think before placing a room.
 
 The shell is not uniformly solid. It contains voids, arteries, maintenance galleries, pressure cells, truss pockets, and sacrificial crush zones. Some spaces are human-scale because baseline workers need to inspect, stage, or replace equipment there. Others are machine-scale or body-specialist-scale because widening them would add mass, reduce shielding efficiency, compromise pressure partitioning, or invite humans to stand somewhere they will die during a fault.
 
@@ -67,16 +73,19 @@ The exterior skin handles micrometeoroids, radiation, docking impacts, thermal r
 
 ## Pressure Boundaries And Seal Logic
 
-A Bloom survives by dividing itself into pressure cells. The larger the continuous atmosphere, the more catastrophic a breach becomes. Mature habitats therefore use a hierarchy of membranes, hatches, bulkheads, valves, shutters, sacrificial ducts, and pressure lungs.
+A Bloom survives by keeping a vast interior atmosphere available for ordinary life while making that atmosphere governable during faults. The design problem is not "seal every neighborhood in its own bottle." The design problem is "let people live in open air, then close the right doors fast enough when the machine gets rude."
 
-- **Public pressure cells** hold normal civic atmosphere.
-- **District cells** isolate neighborhoods, farms, factory blocks, or yards.
-- **Service cells** isolate utility spaces under floors and behind walls.
-- **Seal lungs** buffer pressure changes, absorb transient leaks, and provide compressible reserve volume during repairs.
-- **Crawl arteries** let workers and small machines reach valves, sensor nodes, membrane seams, and blind pockets between cells.
+Mature habitats therefore use a hierarchy of envelopes, normally open zones, emergency barriers, membranes, hatches, valves, shutters, sacrificial ducts, and pressure lungs.
+
+- **Global habitat envelope** holds the shared interior atmosphere: exterior shell, endcaps, hub locks, docking seals, and major spoke penetrations.
+- **Open civic atmosphere** covers the visible interior world: streets, farms, residential belts, parks, plazas, and most day-to-day industrial flats.
+- **Emergency isolation zones** are parts of the open interior that can be closed off during breach, fire, toxin release, riot, quarantine, or deliberate security action.
+- **Service cells** isolate utility spaces under floors, behind walls, around hazardous plant, and inside structural layers where the air may be dirtier, hotter, colder, drier, or lower-pressure than civic atmosphere.
+- **Seal lungs** buffer pressure changes, absorb transient leaks, support controlled equalization, and protect the main atmosphere from local maintenance faults.
 - **Dump cells** receive contaminated air, fire smoke, toxic spills, or pressure shock until processing catches up.
+- **Crawl arteries** let workers and small machines reach valves, sensor nodes, membrane seams, and blind pockets without opening the whole shell to human-scale traffic.
 
-A seal lung is not a room with one dramatic hatch. It is a component in a pressure strategy. It may be a cluster of expandable sacs, ribbed TCS cavities, valve trees, condensate traps, pressure equalization baffles, and sensor nests. It needs maintenance because membranes stiffen, biofilms grow, valves drift, and pressure cuffs lose calibration. It needs access because a single bad seal can make a district's atmosphere behave like a creditor with a knife.
+A seal lung is not a room with one dramatic hatch. It is a component in a pressure strategy. It may be a cluster of expandable sacs, ribbed TCS cavities, valve trees, condensate traps, pressure equalization baffles, and sensor nests. It needs maintenance because membranes stiffen, biofilms grow, valves drift, and pressure cuffs lose calibration. It needs access because a single bad seal can make a service layer tug at the civic atmosphere like a creditor with a knife.
 
 ## Life Support As Interwoven Apparatus
 
@@ -84,9 +93,9 @@ Bloom life support is not one machine in the hub. It is a distributed treaty bet
 
 ### Air
 
-Fresh air begins as a mix of stored volatiles, recovered oxygen, plant and algae output, catalytic processors, and emergency reserves. Major processors in the hub or industrial poles scrub carbon dioxide, manage trace contaminants, balance humidity, and regulate pressure. From there, supply trunks run through the spire and spokes into district manifolds.
+Fresh air begins as a mix of stored volatiles, recovered oxygen, plant and algae output, catalytic processors, and emergency reserves. Major processors in the hub or industrial poles scrub carbon dioxide, manage trace contaminants, balance humidity, and regulate pressure. From there, supply trunks run through the spire and spokes into the open interior and district circulation systems.
 
-District air systems branch into building feeds, street circulation, farms, factories, and service spaces. Return air carries carbon dioxide, industrial contaminants, human odors, microbial load, and heat. It passes through filters, bioactive scrubbers, condensers, contaminant traps, and quarantine gates before rejoining the main loop.
+Air systems branch into building feeds, street circulation, farms, factories, and service spaces, but the civic interior remains a shared managed atmosphere in normal operation. Return air carries carbon dioxide, industrial contaminants, human odors, microbial load, and heat. It passes through filters, bioactive scrubbers, condensers, contaminant traps, and quarantine gates before rejoining the main loop.
 
 Maintenance access follows the air. Sensor nodes, baffles, fans, valves, and emergency shutters require inspection galleries. Narrow crawl arteries exist where a human-scale duct would waste volume or weaken the shell. This is one reason modified octopoid crews became valuable in AU yards: their compact bodies, fine manipulation, and zero-g coordination let them reach valve nests and sensor pockets that baseline workers could only reach by dismantling half the district.
 
@@ -118,7 +127,7 @@ Processing begins locally when possible. Sorting closer to the source reduces tr
 
 People and cargo do not move through the same Bloom.
 
-A passenger arriving at the hub passes through docking control, customs, quarantine if needed, transit sorting, spoke assignment, and finally a lift down to the inner surface. A corporate visitor may descend through a clean vestibule into a bright spoke plaza. A contract worker may be routed through a labor intake cage, equipment issue, debt confirmation, and shift housing shuttle before ever seeing open sky.
+A passenger arriving at the hub passes through docking control, customs, quarantine if needed, transit sorting, spoke assignment, and finally a lift down to the inner surface. A corporate visitor may descend through a clean vestibule into a bright spoke plaza. A contract worker may be routed through a labor intake cage, equipment issue, debt confirmation, and shift housing shuttle before ever stepping into the open habitat air.
 
 Bulk cargo arrives through separate locks. Volatiles, food, machine parts, medical supplies, replacement membranes, industrial chemicals, and biodrone stock are tagged by hazard, destination, and political sensitivity. They move through freight spokes, mag tracks, pressure carts, drone tunnels, and district receiving docks. Cargo paths are direct where possible and ugly where profitable.
 
@@ -253,7 +262,7 @@ When placing a story scene inside a Bloom, answer these before drawing the room:
 
 - What radial layer is this space in?
 - Is it public, residential, industrial, service, specialist, exterior-adjacent, or forbidden?
-- What pressure cell contains it, and what cells border it?
+- Is it inside the open civic atmosphere, a service cell, a hazard cell, or an emergency isolation zone?
 - What flows through it: air, water, heat, waste, cargo, people, power, data, coolant, authority?
 - Who has normal access, emergency access, illegal access, and faster access?
 - What body was the space sized for?
