@@ -122,4 +122,7 @@ However, in Blooms aiming for greater autonomy, the far pole takes on a crucial 
 - **Survival Adaptation**: The most successful Blooms during the collapse were those that achieved true self-sufficiency, developing closed-loop resource systems independent of external supply chains.
 - **FTL Exodus Preparation**: In the lead-up to the [[FTL Trigger]], many Blooms were converted into long-voyage vessels, with additional shielding and expanded life support systems in anticipation of interstellar travel.
 
+
+For a room-scale and systems-level breakdown of how mature Bloom habitats route living space, work space, maintenance access, pressure cells, life support, and resource flows, see [[Bloom Habitat Anatomy]].
+
 The Bloom technology represents more than just a construction method—it became the physical framework within which solar society evolved, creating new social structures, economic dependencies, and cultural identities that fundamentally shaped humanity's experience before the transition to Elysium.

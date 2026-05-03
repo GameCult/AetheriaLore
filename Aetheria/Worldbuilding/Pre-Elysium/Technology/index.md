@@ -31,6 +31,7 @@ This branch tracks the technical stack that transformed embodiment, cognition, e
 - [[Worldbuilding/Pre-Elysium/Technology/Soliton Drive|Soliton Drive]]
 - [[Worldbuilding/Pre-Elysium/Technology/Advanced Superconductors|Advanced Superconductors]]
 - [[Worldbuilding/Pre-Elysium/Technology/Bloom|Bloom]]
+- [[Worldbuilding/Pre-Elysium/Technology/Bloom Habitat Anatomy|Bloom Habitat Anatomy]]
 
 ## Dependency And Breakdown
 
