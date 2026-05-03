@@ -1,274 +1,265 @@
 # Bloom Habitat Anatomy
 
-*"A Bloom is not a hollow asteroid. It is a city-sized pressure vessel grown through a rubble field until the rubble learns manners."*
+A Bloom is a rotating manufactured habitat cylinder built from asteroid aggregate, TCS, prefabricated hub systems, and the standardized habits of [[Orbital Forge]]. It is a pressure vessel, shield mass, city shell, logistics machine, ecological apparatus, and social hierarchy rotating around the same axis.
 
-[[Bloom]] habitats are rotating shell ecologies built from aggregated asteroid mass, TCS, prefabricated hub sections, and the accumulated habits of the institutions that operate them. By the late Bloom age, [[Orbital Forge]] had built enough of them that the basic anatomy was no longer experimental. The standards were open enough to spread, specific enough to favor Forge-compatible builders, and mature enough that serious operators could point to any surface and answer the engineer's first question: what is this for?
+The first useful question for any Bloom space is: what is this for?
 
-The short answer is usually one of five things:
+Most answers reduce to one or more of these jobs:
 
-- hold one large habitable atmosphere inside the rotating shell
-- carry loads from rotating shell to axial spine and back
-- move mass, heat, water, air, people, information, or waste
-- give maintenance crews a way to reach the first three before they fail
-- make social hierarchy look like ordinary architecture
+- contain a broad pressurized interior commons
+- carry rotational, pressure, thermal, and impact loads
+- move air, water, heat, waste, cargo, power, data, authority, and people
+- expose maintainable parts before a fault becomes a habitat-scale event
+- allocate comfort, risk, access, and blame
 
-[[Aeronautics Unlimited]] Blooms inherit the same structural grammar, but AU customizes it around throughput, claimshare labor, retrofit flexibility, and species-specific workforces bought through firms such as [[BioElevate]]. An AU cavity is still a Bloom. It is also a workplace whose geometry has been tuned until comfort, safety, and political organization all become variables in a margin sheet.
+[[Aeronautics Unlimited]] Blooms inherit the same structural grammar, but AU tunes it around throughput, claimshare labor, liability control, and species-specific workforces purchased through firms such as [[BioElevate]]. AU does not usually make stupid habitats. It makes competent habitats whose competence has been aimed at the wrong animal.
 
-## Radial Orientation
+## Physical Model
 
-A Bloom's most important direction is not north, south, up, or down. It is radial.
+A mature Bloom is built from a processed asteroid field, not excavated from one rock. The [[Bloom]] process deploys the Metamaterial Containment Net, uses the Resonant Shatter Swarm to fracture and sort material, then processes aggregate into Tailored Conglomerate Substrate and shielding mass. The result is a cylindrical pressure shell with a broad interior volume and a layered outer structure.
 
-- **Inward** points toward the habitat air volume, the central axis, the spire, and the docking hub.
-- **Outward** points through the ground, into structural decks, TCS substrate, compacted aggregate shielding, thermal hardware, and finally space.
-- **Spinward** and **counterspinward** run around the cylinder's circumference.
-- **Axial** runs along the length of the cylinder toward either endcap and, in many Blooms, toward hub complexes, industrial poles, or low-gravity service zones.
+The inhabited shell rotates. Apparent gravity comes from distance from the axis, so gravity is strongest at the inner surface and falls toward the hub. Comfortable civic life therefore belongs near the high-radius inner surface, not near the spire. Near-axis space is valuable for docking, traffic control, light distribution, low-g industry, short-stay lodging, and operations. It is poor default family housing unless poverty, duty, adaptation, or coercion makes discomfort acceptable.
 
-For residents standing on the inhabited inner surface, centrifugal gravity makes outward feel like down. The ceiling is inward, toward open habitat volume, the central axis, and the spire. The ground beneath them is not natural rock. It is a layered machine: civic surface, utility beds, local membranes, structural ribs, TCS mass, shielding, and service arteries threaded through the shell.
+The default mature pattern is hybrid:
 
-This matters because a maintenance tunnel under a park, tenement row, or yard floor is not dug through solid asteroid like a mine adit. It is embedded in a manufactured shell whose job is to contain a broad public atmosphere, carry spin loads, route utilities, absorb radiation, and fail slowly enough that alarms have time to become plans.
+- the inhabited shell and spoke roots rotate
+- the axial hub is despun or partially despun for docking and external alignment
+- transfer collars, rotary seals, spoke cars, maglev guides, utility swivels, bearings, emergency locks, and control software mediate between them
+- the spire is an axial utility and traffic system, not a magic rigid mast that lets every problem forget rotation
 
-## Open Interior And Managed Edges
+This hybrid machinery is expensive, which is why spoke bases, transfer collars, and hub access become valuable. Class power gathers where motion changes frame.
 
-A mature Bloom is attractive because its interior is pressurized as a shared civic environment. It may not have a planetary sky, weather system, or horizon, but it has open air: streets, farms, industrial flats, housing belts, transit plazas, and public districts sitting inside one enormous artificial atmosphere. That open interior is the economic and psychological advantage over most planetary colonies, where terraforming is not feasible and ordinary life remains trapped behind smaller pressure envelopes.
+## Coordinates
 
-This does not make the Bloom a single reckless balloon. The primary pressure boundary is the exterior shell, endcaps, hub locks, and major penetrations. Inside that boundary, operators use airflow zoning, fire curtains, contamination shutters, pressure doors, service membranes, and emergency bulkheads to manage faults. Most civic zones are normally open to the shared atmosphere. They become isolated only when fire, breach, toxin release, quarantine, labor action, or security protocol forces the habitat to carve temporary compartments out of its open world.
+Bloom geography starts with cylinder coordinates.
 
-## The Primary Layers
+- **Inward** points toward the open interior volume, central axis, spire, and hub.
+- **Outward** points through the ground into utility beds, structural shell, shielding, thermal hardware, and exterior space.
+- **Spinward** and **counterspinward** run around the cylinder circumference.
+- **Axial** runs along the length of the cylinder.
+- **Hubward** means along the cylinder toward the docking hub and its axial machinery.
+- **Capward** means along the cylinder toward the far endcap or opposite axial end.
 
-Most mature Blooms can be understood as nested layers. Specific factional builds vary, but the anatomy is recognizable across Orbital Forge-derived habitats.
+For someone standing on the inner surface, outward feels like down. A wall near a cylinder endcap is not a planetary floor. Endcap districts and axial-edge settlements must deal with gravity pulling sideways across surfaces that look like walls from the habitat's long view.
+
+That geometry creates one of the uglier Bloom poverty forms: terraced hubward or capward wall slums. Shelves, galleries, ladders, nets, handline streets, tilted rooms, and low-g platforms climb the endcap toward axial industrial zones. The higher a resident climbs, the weaker and stranger gravity becomes. The commute gets shorter for people who work in hub plants, cargo handling, low-g fabrication, waste pre-sort, or traffic support. The body pays the missing rent.
+
+## Open Interior
+
+A Bloom's public promise is open pressurized air. Streets, farms, plazas, housing belts, workshops, yards, clinics, and markets can share one large managed atmosphere rather than living inside separate station cans. This is why Blooms are attractive compared with most planetary colonies: terraforming planets is not economically plausible, but a Bloom can put a city under air.
+
+Open does not mean uncontrolled. The primary pressure boundary is the exterior shell, endcaps, hub locks, docking interfaces, and major penetrations. Inside that envelope, airflow zoning, fire curtains, contamination shutters, service membranes, pressure doors, smoke returns, and emergency bulkheads let operators carve temporary compartments out of the commons when something burns, leaks, mutates, riots, or lies on a sensor bus.
+
+Ordinary districts are social and economic zones inside shared air. They are not default sealed bottles. A sealed district is an emergency condition, a hazard zone, a privileged enclosure, or a design scar.
+
+## Layered Anatomy
+
+A Bloom is easiest to reason about as nested functions rather than named rooms.
 
 ### Axial Hub
 
-The axial hub is the non-rotating or partially despun logistical heart of the habitat. It receives ships, cargo pods, passengers, volatile supplies, data couriers, customs inspectors, replacement modules, and political trouble. Docking ports, traffic control, quarantine locks, cargo elevators, emergency tugs, customs cages, and high-priority comms systems cluster here because they benefit from low gravity and direct access to external space.
+The axial hub is the despun or partially despun logistics heart. Ships dock there because docking against a mostly stable frame is simpler than chasing the rotating shell. The hub receives passengers, cargo, volatile supplies, replacement modules, data couriers, customs inspectors, quarantine risks, and political trouble.
 
-The hub also contains major life-support plant, especially systems too massive, dangerous, or vibration-sensitive to bury inside residential decks. Atmospheric processors, volatile storage, reserve water, carbon capture farms, waste pre-sort, industrial bioreactors, and emergency pressure reserves often live in hub-adjacent plant rooms. High-status Blooms disguise this with gardens and glass. AU mostly labels the pipes and charges rent near them.
+Its normal spaces include docking collars, cargo locks, customs halls, quarantine cages, traffic control rooms, tug bays, reserve tanks, volatile stores, and hub plant rooms. Its social spaces include hotels, short-stay quarters, labor intake, migrant bunks, slums in leftover low-g volumes, and offices that need proximity more than comfort.
 
-### Spire
+The hub is close to wealth, but not necessarily pleasant. It has glare, vibration, machine noise, low gravity, transfer nausea, inspection regimes, and the stale smell of too many systems asking permission to fail later.
 
-The spire extends along the central axis and binds the hub to the rest of the habitat. It is not just a pretty line in the sky. It is a utility mast, light engine, transit spine, sensor platform, and symbolic claim of control.
+### Spire And Transfer System
 
-Light pipes, radiator trunks, power buses, data trunks, spoke elevator heads, traffic control nodes, and administrative command decks attach to the spire. The spire is powerful, but proximity to it is not automatically pleasant. Near the axis, gravity becomes negligible and radial movement through rotating frames can produce disorienting Coriolis effects. The most valuable permanent housing is usually near spoke bases on the high-gravity inner surface, where residents get access without living inside the axial machine. Spire-adjacent volume is prized for offices, traffic control, labs, hotels, short-stay diplomatic suites, transit services, and operational command, not ordinary domestic life.
+The spire is the axial utility, light, traffic, and control structure. Light pipes or light engines run through it. Data trunks, traffic control nodes, power buses, radiator control lines, spoke-head machinery, and administrative decks attach to it.
 
-### Spokes
-
-Spokes connect the axial spine to the rotating shell. They carry people, freight, power, air, water, coolant, waste, data, and emergency access. A spoke is part elevator shaft, part utility bundle, part structural member, and part class filter.
-
-Passenger lifts run in separate pressure shafts from bulk cargo tubes. Emergency ladders, mag-grip shafts, maintenance crawlways, and sealed utility runs parallel them. High-status spokes have redundant lifts, clean transfer vestibules, and monitored public plazas at their bases. Frontier and industrial spokes may have one passenger lift, a freight cage that smells like lubricant and algae paste, and a security desk pretending to be a safety checkpoint.
+The hard part is not saying "spokes connect the spire to the shell." The hard part is the interface. A spoke car must carry bodies and cargo between a rotating shell and an axial system that may not share the same frame. Utilities need swivels, rotary seals, flexible couplings, pressure locks, and isolation logic. Every interface is a place where maintenance, class access, and authority can concentrate.
 
 ### Inner Surface
 
-The inner surface is the habitable world residents recognize: streets, housing, parks, factories, clinics, schools, markets, temples, entertainment blocks, civic plazas, and industrial yards. Gravity is strongest here because it is farthest from the axis. The surface can be terraced, cut with canals, built into towers, or shaped into industrial flats depending on the Bloom's purpose.
+The inner surface is the recognizable world: streets, homes, schools, clinics, markets, shrines, gardens, factories, maintenance yards, and farms. It has the strongest gravity and the most familiar body logic. Good districts cluster near spoke bases because they combine comfortable gravity with access to the axial economy.
 
-The visible city is only the top skin. Under the paving, soil mats, factory floors, and residential slabs sit layered utilities. Air returns, water mains, greywater loops, condensate gutters, nutrient channels, power trunks, data fiber, inspection galleries, and emergency isolation gear run everywhere. A normal resident sees vents, access hatches, utility closets, warning paint, and occasional repair crews. A cavity engineer sees a circulatory system under tension.
+The visible surface is only the civic skin. Beneath paving, soil mats, factory slabs, and residential decks are utility mats carrying air, water, power, data, condensate, coolant, waste, nutrient loops, emergency isolation systems, and inspection access.
 
-### Structural Shell
+### Utility Mat And Service Interlayer
 
-Below the inner surface lies the structural shell: TCS ribs, pressure laminates, aggregate shielding, expansion joints, shear keys, anchor rails, service rings, seal lungs, thermal spreaders, and inspection cavities. The shell is what lets the public interior feel like open air instead of a bunker corridor. This is where many Bloom stories should slow down and think before placing a room.
+The utility mat is where the public world becomes maintainable. It distributes flows locally and gives crews access without demolishing streets every time a valve drifts.
 
-The shell is not uniformly solid. It contains voids, arteries, maintenance galleries, pressure cells, truss pockets, and sacrificial crush zones. Some spaces are human-scale because baseline workers need to inspect, stage, or replace equipment there. Others are machine-scale or body-specialist-scale because widening them would add mass, reduce shielding efficiency, compromise pressure partitioning, or invite humans to stand somewhere they will die during a fault.
+A utility mat contains service galleries, fan rooms, pump rooms, valve closets, meter banks, condensate gutters, breaker rooms, sensor closets, greywater runs, emergency shutters, and local control stations. The exact inventory matters less than the reason: flows cross here, and crossings fail.
 
-### Exterior Skin
+High-value districts get redundancy and room to work. Cheap districts get narrower access, older packs, fewer bypasses, and more promises that the numbers are still inside tolerance.
 
-The exterior skin handles micrometeoroids, radiation, docking impacts, thermal rejection, antenna placement, stationkeeping hardware, and construction interfaces. Robots do much of the exterior work, but humans, uplifts, and biodrones still enter exterior-adjacent service spaces because not every fault is legible to automation and not every corporation pays for the robot that would have been kinder.
+### Pressure And Structural Shell
 
-## Pressure Boundaries And Seal Logic
+The shell carries pressure load, rotational load, civic load, impact load, thermal strain, and the accumulated consequences of budget meetings. It contains TCS ribs, pressure laminates, shear keys, anchor rails, expansion joints, inspection seams, seal lungs, service rings, sacrificial voids, and crack-monitoring systems.
 
-A Bloom survives by keeping a vast interior atmosphere available for ordinary life while making that atmosphere governable during faults. The design problem is not "seal every neighborhood in its own bottle." The design problem is "let people live in open air, then close the right doors fast enough when the machine gets rude."
+The shell is not solid rock. It is manufactured mass with voids where voids solve a problem: pressure buffering, acoustic damping, thermal expansion, crush tolerance, inspection access, replacement clearance, or construction sequencing. Some voids are human-scale because workers need carts, panels, rescue access, or heavy replacements. Some are narrow because widening them would cost mass, certification, shielding, pressure integrity, and downtime.
 
-Mature habitats therefore use a hierarchy of envelopes, normally open zones, emergency barriers, membranes, hatches, valves, shutters, sacrificial ducts, and pressure lungs.
+### Shielding And Exterior Service Layer
 
-- **Global habitat envelope** holds the shared interior atmosphere: exterior shell, endcaps, hub locks, docking seals, and major spoke penetrations.
-- **Open civic atmosphere** covers the visible interior world: streets, farms, residential belts, parks, plazas, and most day-to-day industrial flats.
-- **Emergency isolation zones** are parts of the open interior that can be closed off during breach, fire, toxin release, riot, quarantine, or deliberate security action.
-- **Service cells** isolate utility spaces under floors, behind walls, around hazardous plant, and inside structural layers where the air may be dirtier, hotter, colder, drier, or lower-pressure than civic atmosphere.
-- **Seal lungs** buffer pressure changes, absorb transient leaks, support controlled equalization, and protect the main atmosphere from local maintenance faults.
-- **Dump cells** receive contaminated air, fire smoke, toxic spills, or pressure shock until processing catches up.
-- **Crawl arteries** let workers and small machines reach valves, sensor nodes, membrane seams, and blind pockets without opening the whole shell to human-scale traffic.
+The outer mass handles radiation, micrometeoroids, exterior impacts, antenna placement, stationkeeping hardware, radiator interfaces, and construction access. Shielding is not optional decoration. It is one of the main reasons the Bloom process starts with asteroid aggregate.
 
-A seal lung is not a room with one dramatic hatch. It is a component in a pressure strategy. It may be a cluster of expandable sacs, ribbed TCS cavities, valve trees, condensate traps, pressure equalization baffles, and sensor nests. It needs maintenance because membranes stiffen, biofilms grow, valves drift, and pressure cuffs lose calibration. It needs access because a single bad seal can make a service layer tug at the civic atmosphere like a creditor with a knife.
+Exterior-adjacent work is dangerous, but not everything can be left to robots. Robots fail, maps age, membranes stiffen, biofilms grow, and a corporation can always find a living body with a lower replacement cost than the kinder machine.
 
-## Life Support As Interwoven Apparatus
+## TCS As Material Family
 
-Bloom life support is not one machine in the hub. It is a distributed treaty between air, water, heat, biomass, waste, power, and human patience.
+Tailored Conglomerate Substrate is not one substance doing every job by authorial decree. It is a family of processed aggregate binders, living or semi-living matrices, laminates, and service materials tuned by role.
 
-### Air
+Common functional grades include:
 
-Fresh air begins as a mix of stored volatiles, recovered oxygen, plant and algae output, catalytic processors, and emergency reserves. Major processors in the hub or industrial poles scrub carbon dioxide, manage trace contaminants, balance humidity, and regulate pressure. From there, supply trunks run through the spire and spokes into the open interior and district circulation systems.
+- **TCS-Shield:** dense aggregate binding and radiation mass
+- **TCS-Laminate:** pressure and structural layers
+- **TCS-Root:** bioactive soil, farm, and ecological substrate
+- **TCS-Service:** self-sealing or sensor-friendly embed layers around utilities
+- **TCS-Sacrificial:** crush, impact, expansion, and acoustic buffer mass
 
-Air systems branch into building feeds, street circulation, farms, factories, and service spaces, but the civic interior remains a shared managed atmosphere in normal operation. Return air carries carbon dioxide, industrial contaminants, human odors, microbial load, and heat. It passes through filters, bioactive scrubbers, condensers, contaminant traps, and quarantine gates before rejoining the main loop.
+Operators do not need the same material behavior in a farm bed, pressure laminate, radiator mount, and micrometeoroid buffer. Treating them as one miracle paste is how the lore starts quietly eating paste in the corner.
 
-Maintenance access follows the air. Sensor nodes, baffles, fans, valves, and emergency shutters require inspection galleries. Narrow crawl arteries exist where a human-scale duct would waste volume or weaken the shell. This is one reason modified octopoid crews became valuable in AU yards: their compact bodies, fine manipulation, and zero-g coordination let them reach valve nests and sensor pockets that baseline workers could only reach by dismantling half the district.
+## Pressure And Air
 
-### Water
+A Bloom survives by keeping the commons open while making it governable during faults.
 
-Water arrives through docking intake as cargo ice, reclaimed waste, industrial condensate, and recycled reserves. It moves through quarantine tanks, isotope and contaminant checks, mineral balancing, microbial conditioning, and storage bladders before distribution.
+The pressure hierarchy is:
 
-Potable water, industrial water, irrigation feed, humidity recovery, coolant loops, and emergency reserve water are separate until they are not. Every crossing between them is a valve, exchanger, or membrane that can fail. Residential drains, farm runoff, medical waste, industrial wash, and suit reclamation all return through different grades of dirty water. Mature Blooms track water with religious suspicion because a closed habitat does not have "away." It has "later, somewhere you forgot to inspect."
+- **Global envelope:** exterior shell, endcaps, hub locks, docking seals, and major penetrations hold the shared atmosphere.
+- **Open civic atmosphere:** streets, farms, plazas, housing belts, and many industrial flats share managed air in normal operation.
+- **Emergency isolation zones:** shutters, curtains, pressure doors, and airflow barriers close when breach, fire, toxin release, pathogen risk, labor action, or security protocol requires temporary division.
+- **Service cells:** utility and shell spaces may run dirtier, hotter, colder, drier, lower-pressure, or more contaminated than civic air.
+- **Seal lungs:** flexible or baffled pressure buffers absorb transient changes from hatches, equipment cycling, leaks, or maintenance operations.
+- **Dump cells:** contaminated air, smoke, toxic releases, or pressure shocks go somewhere ugly until processing catches up.
 
-### Heat
+One breath of air is a circuit. Oxygen enters from stored volatiles, recovery systems, biological production, or electrolysis. District supply moves it into occupied zones. People, farms, factories, microbes, and machines add carbon dioxide, humidity, heat, odor, particulates, and contaminants. Warm dirty air tends inward relative to spin gravity, so return systems, smoke control, contaminant traps, condensers, catalytic processors, bioactive scrubbers, and heat exchangers pull it back into tolerance.
 
-Heat is the quiet tyrant. People, factories, processors, lights, reactors, pumps, and bodies all produce it. The habitat must move heat from inhabited districts into coolant loops, thermal mass, heat exchangers, radiator trunks, and exterior radiators without boiling farms, freezing slums, or cooking a service crew sealed in the wrong artery.
+The spaces follow the verbs: supply, return, filter, condense, isolate, dump, scrub, exchange, re-pressurize.
 
-Thermal routes often run near pressure and water systems because exchangers need contact. That creates maintenance complexity. A service ring may carry air valves, coolant manifolds, condensate traps, and pressure sensors in one ugly wall because separating them would cost mass and route length. AU likes these bundled systems because they are efficient. Workers hate them because one fault can become three disciplines arguing in a cramped passage while the alarm clock gets louder.
+## Water, Waste, Biomass, And Heat
 
-### Biomass And Food
+Water enters through hub intake as cargo ice, recovered loop water, condensate, or reserve mass. It is quarantined, checked, conditioned, split by grade, distributed, dirtied, recovered, and checked again. Potable water, irrigation feed, industrial wash, humidity recovery, medical water, coolant, and emergency reserve are separate until a valve, membrane, exchanger, shortcut, or disaster makes them touch.
 
-Agricultural Blooms push more of their life support into visible ecology: soil mats, algae towers, fungal digesters, aeroponic racks, nutrient canals, pollinator drones, and microbial beds. Industrial Blooms often hide more of the biology in processing stacks, vat farms, algae walls, and packaged ration lines.
+Waste is water and matter at a different point in the loop. Greywater, blackwater, farm runoff, industrial wash, medical residue, packaging slurry, failed filters, coolant sludge, dead biomass, broken consumer goods, and fabrication scrap move through sorting, sterilization, digestion, cracking, extraction, nutrient recovery, compaction, export, or quarantine. A closed habitat does not have "away." It has "later" and "someone else's shift."
 
-Food is not separate from waste. Human waste, crop waste, spoiled goods, packaging slurry, industrial organics, and dead biomass enter digesters, sterilizers, nutrient separators, and fabrication feedstock systems. Some output becomes fertilizer, some becomes feedstock, some becomes fuel, and some becomes hazardous residue no one wants to admit is accumulating.
+Biomass can be visible ecology or hidden machinery. Agricultural Blooms push food production, air contribution, nutrient cycling, soil mats, algae towers, fungal digesters, aeroponic racks, and microbial beds into public life. Industrial Blooms hide more biology in vats, algae walls, ration lines, and processing stacks.
 
-### Waste
+Heat is stricter than matter. People, lights, farms, servers, pumps, reactors, fabrication, traffic systems, and industry produce it. It must move through air, water, coolant, heat exchangers, thermal stores, radiator trunks, and exterior radiators. A habitat can recycle water and carbon. It cannot negotiate with waste heat; it can only move it somewhere else and radiate it away.
 
-Waste enters through every layer of the habitat. Docking hub customs strips packaging, volatiles, contaminated cargo, damaged filters, biological residue, and illicit material. Residential districts send sewage, greywater, trash, worn textiles, broken consumer goods, and medical waste. Industrial yards send solvents, metal fines, refractory scrap, coolant sludge, failed seals, contaminated filters, damaged biodrone tissue, and bad decisions in sealed bins.
+This is why air, condensate, coolant, and pressure systems often meet in the same service region. Heat exchange needs contact. Contact creates manifolds. Manifolds create maintenance access. Maintenance access creates labor politics.
 
-Processing begins locally when possible. Sorting closer to the source reduces transport risk and lets districts recover useful matter. Final processing often returns to hub or pole plants: sterilization, digestion, cracking, extraction, compaction, vitrification, export, or quarantine. A self-sufficient Bloom is not waste-free. It is good at deciding what waste gets another job.
+## Movement And Access
 
-## Movement Through The Habitat
+People and cargo do not move through the same Bloom, even when they end up in the same air.
 
-People and cargo do not move through the same Bloom.
+A visitor moves from docking collar to pressure confirmation, customs, quarantine if necessary, identity check, baggage separation, spoke assignment, transfer collar, spoke car, spoke-base arrival, and finally open habitat air. A corporate visitor may see clean vestibules and curated views. A contract worker may see labor intake, debt confirmation, medical scan, equipment issue, and service housing shuttle before the same air is allowed to become scenery.
 
-A passenger arriving at the hub passes through docking control, customs, quarantine if needed, transit sorting, spoke assignment, and finally a lift down to the inner surface. A corporate visitor may descend through a clean vestibule into a bright spoke plaza. A contract worker may be routed through a labor intake cage, equipment issue, debt confirmation, and shift housing shuttle before ever stepping into the open habitat air.
+Cargo moves through hazard classification, quarantine, hub storage, freight spokes, district receiving, local storage, use, recovery, return processing, and export or reuse. Volatiles, food, replacement membranes, medical supplies, machine parts, BioElevate stock, and industrial chemicals do not share one polite hallway unless somebody has already made a bad decision.
 
-Bulk cargo arrives through separate locks. Volatiles, food, machine parts, medical supplies, replacement membranes, industrial chemicals, and biodrone stock are tagged by hazard, destination, and political sensitivity. They move through freight spokes, mag tracks, pressure carts, drone tunnels, and district receiving docks. Cargo paths are direct where possible and ugly where profitable.
+Authority also moves. Sensors report to local controllers, district operations, Ramp Administration, corporate logging, safety ledgers, security dispatch, and liability offices. A supervisor can arrive faster than a worker not because the story needs her, but because the architecture gives her a badge route: operations gallery, protected corridor, catwalk, lift, response shaft.
 
-Workers follow the hierarchy of access:
+## Living Hierarchy
 
-- **Residents** move through public streets, lifts, service counters, schools, clinics, markets, and transit halls.
-- **Shift labor** uses muster corridors, equipment lockers, washdown stations, staging vestibules, security checkpoints, and timekeeping gates.
-- **Technical crews** enter plant rooms, access galleries, inspection corridors, and utility decks by credentialed hatch.
-- **Specialist bodies** enter zero-g crawl arteries, pressure lungs, narrow valve nests, exterior-adjacent pockets, and blind maintenance routes that were never meant to be public architecture.
-- **Supervisors and security** often have parallel routes: observation catwalks, badge-only lifts, command galleries, and quick-response shafts that let them arrive after workers have already absorbed the danger.
+Bloom housing is shaped by gravity, light, transit, air quality, noise, repair priority, and who gets to leave.
 
-This answers one recurring scene question: where does someone like an AU supervisor come from? In a mature AU yard, not from nowhere. A shift superintendent usually originates in the yard operations gallery: a glassed control booth mounted above the work ring, connected by a raised supervisor catwalk and badge-only corridor to the spoke-base operations deck. Security can arrive by quick-response shaft; cluster administrators can descend from Ramp Administration offices. The supervisor's arrival changes a scene because the architecture gives authority a cleaner, faster, more protected path than the workers have.
+- **Spoke-base districts** are prime because they combine good gravity, transit access, strong light, good shops, visible policing, and fast repairs.
+- **Surface residential belts** range from comfortable neighborhoods to worker barracks depending on spoke distance, light quality, owner policy, and local contamination.
+- **Industrial-adjacent housing** is cheaper, louder, warmer, dirtier, and close enough to shift gates that convenience becomes a leash.
+- **Service housing** sits near maintenance access and yard gates; AU sells the short commute and keeps the body near the alarm.
+- **Axial operations quarters** serve administrators, traffic crews, technicians, diplomats, and visitors who need immediate access and can tolerate low-g discomfort for short stays.
+- **Hub and endcap slums** form in leftover volumes near work: dim axial pockets, machine-adjacent bunks, terraced hubward or capward wall settlements, low-g platforms, and shelf neighborhoods climbing toward the axis.
 
-## Living Space Hierarchy
+Gravity weakens toward the axis. So does patience.
 
-Bloom housing is shaped by light, gravity, transit time, air quality, and emergency priority.
+## Work Hierarchy
 
-- **Spoke-base districts** are the prime middle of many Blooms: good gravity, transit access, strong light, better shops, visible policing, and priority repairs. These are the places with both civic comfort and quick access to the axial economy.
-- **Surface residential belts** range from comfortable neighborhoods to cramped worker barracks depending on distance from spokes, light quality, and owner policy.
-- **Industrial-adjacent housing** is cheaper, louder, more contaminated, and closer to shift gates.
-- **Service housing** sits near maintenance decks and yard access, often justified as convenient and experienced as captivity with shorter commute time.
-- **Axial short-stay and operations quarters** cluster near the spire, hub, and spoke heads for administrators, diplomats, traffic crews, technicians, and visitors who need immediate access. They are useful, expensive by the night, and physically strange: low gravity, awkward transfers, vibration, glare, machine noise, and Coriolis nausea make them poor default homes.
-- **Hub slums** form in dim, low-gravity, transit-heavy spaces where workers, migrants, undocumented residents, and surplus bodies collect near jobs but far from power. Their residents are close to the machinery of wealth without enjoying the comfort of it.
+Bloom workspaces distribute by hazard, gravity need, supply path, heat rejection, access control, and political visibility.
 
-AU variants lean hard on service housing and claimshare advancement. Better berth access, cleaner air, shorter spoke queues, windowed common rooms, and medical priority become things workers can buy, lose, or be promised. The building knows your contract status before your neighbor does.
+Public commerce wants spoke traffic and stable air. Light manufacturing wants gravity, freight access, and manageable heat. Heavy industry wants isolation, coolant, cargo routes, and distance from voters. Agriculture wants light, water, waste nutrients, ecological stability, and pest control. Life-support plant wants redundancy, security, and proximity to major trunks. Maintenance yards want shell access, utility crossings, specialist labor, and enough concealment that unpleasant work can be described as technical necessity.
 
-## Working Space Hierarchy
+In AU territory, baseline workers often handle the visible, human-scale, regulation-shaped tasks. Biodrones, engineered technicians, and uplifted crews enter the cramped, hot, dirty, low-g, exterior-adjacent, or liability-deniable spaces that keep the visible tasks possible.
 
-Bloom workspaces are distributed by hazard, gravity need, supply path, and political visibility.
+## Maintenance Hierarchy
 
-- **Public commerce** wants spoke traffic and stable air.
-- **Light manufacturing** wants gravity, freight access, and manageable heat.
-- **Heavy industry** wants isolation, coolant, cargo routes, and distance from voters.
-- **Agriculture** wants light, water, waste nutrient access, and ecological stability.
-- **Life-support plant** wants redundancy, security, and proximity to major trunks.
-- **Maintenance yards** want access to the shell, seal systems, utility bundles, and specialist labor.
-- **Hazard work** wants to be close enough for cheap logistics and far enough that failures can be called contained.
+Maintenance space is not a mood. It is a cost decision.
 
-In AU territory, a yard may be designed so baseline workers handle visible, OSHA-shaped tasks while biodrones and uplift crews enter the spaces that make the visible work possible. That division is not accidental. It lets management describe the dangerous core as technical specialization rather than social violence.
+### Public Service Points
 
-## Maintenance Space Hierarchy
-
-Maintenance spaces exist in scales.
-
-### Public Access Points
-
-Utility closets, wall hatches, street grates, pump rooms, rooftop-equivalent service decks, and plant vestibules. These are places a resident might notice. They are labeled, locked, and designed to be boring.
+Utility closets, wall panels, street hatches, filter doors, meter kiosks, plant vestibules, and local shutoffs exist where residents and ordinary crews need controlled access. They are designed to be boring. Boring is a safety feature.
 
 ### Human-Scale Service Galleries
 
-Service galleries run behind districts, under industrial floors, along shell ribs, and around major plant clusters. They are large enough for suited baseline workers, equipment carts, and emergency teams. They contain manifolds, valves, breaker panels, sensor racks, coolant trees, condensate traps, spare seals, inspection windows, and local control stations.
+Service galleries are large enough for suited baseline workers, carts, replacement modules, rescue teams, and shared work by multiple trades. They sit behind districts, under industrial floors, around plant rooms, and along shell ribs because the parts there fail often enough or are large enough to justify human access.
 
-A gallery is where different work cultures collide: electricians, pressure techs, habitat ecologists, security, union stewards, biodrone handlers, uplift crews, and supervisors all have reasons to stand there and claim the fault belongs to someone else's budget.
+### Manifold Rooms
+
+A manifold room exists where flows branch, cross boundaries, change grade, or need isolation. Air returns cross coolant loops. Potable trunks avoid industrial wash. Condensate drains meet contaminant traps. The room is not defined by a list of valves; it is defined by the decision to let systems touch under inspection.
 
 ### Service Rings
 
-Service rings are circular or circumferential maintenance galleries wrapped around structural zones, pressure clusters, industrial cells, or spoke bases. They let crews reach repeated units without cutting across public space. In a rotating shell, a service ring may follow spinward/counterspinward around a district or wrap a pressure-lung cluster embedded beneath the surface.
-
-A label such as **Service Ring Kappa** should describe a maintained circuit, not a single terminal chamber. The ring exists because Kappa contains repeated valves, lungs, crawl throats, sensor nests, bypasses, and inspection points that need periodic access.
+A service ring is a maintained circuit around a repeated subsystem: pressure cluster, spoke base, radiator trunk, industrial cell, shell segment, or utility bundle. It lets crews reach repeated parts without cutting across public space each time.
 
 ### Crawl Throats
 
-A crawl throat is a transition between human-scale maintenance space and narrower service artery. It should not normally terminate a tunnel. It branches from a gallery wall, floor, ceiling, angled rib pocket, or pressure bulkhead into a smaller network.
+A crawl throat transitions from human-scale access to smaller service arteries. It branches from a gallery, manifold room, ring, rib pocket, floor hatch, ceiling return, or pressure bulkhead. It should not be the inexplicable end of a dramatic hallway.
 
-The throat exists because something beyond it must be reached without making the whole route human-sized. It may lead to a seal lung, pressure membrane seam, coolant bypass, sensor nest, cable fanout, drain trap, exterior blister, or cramped structural void. Its geometry is governed by load paths, pressure isolation, valve access, and minimum body/tool clearance.
-
-In AU cephalopod yards, many crawl throats are sized around heavily modified octopoid workers: compact bodies, flexible limbs, fine manipulation, and support rigs that keep them alive in dry, cramped, low- or zero-g passages. They are not giant squids gliding through cathedral pipes. They are workers redesigned to fold into infrastructure that a humane designer might have widened or automated.
+The throat exists because something beyond it needs inspection but does not justify a human-sized route: seal lung, membrane seam, valve nest, sensor pocket, bypass cuff, cable fanout, condensate trap, exterior blister, or blind structural pocket.
 
 ### Service Arteries
 
-Service arteries are the narrow routes beyond crawl throats. They carry inspectors, small drones, specialist workers, replacement membranes, diagnostic worms, and occasional emergency equipment. They may be zero-g or low-g even when adjacent public spaces are under strong centrifugal gravity because they cut through shell geometry at awkward radial angles.
+Service arteries carry small drones, diagnostic worms, specialist workers, replacement membranes, and occasional emergency gear into shell geometry. They may be low-g or zero-g even near high-gravity districts because they cut through radial structure at awkward angles.
 
-Arteries are numbered and mapped obsessively in good habitats. In bad ones, the map is mostly accurate until the person relying on it has already committed their body.
+In AU cephalopod yards, many arteries are sized for heavily modified octopoid workers: compact bodies, flexible limbs, fine manipulation, dry-environment support rigs, oxygenation loops, humidity skins, pressure cuffs, and limiter interfaces. They are workers redesigned to fit infrastructure that could have been kinder.
 
 ### Blind Pockets And Sacrificial Voids
 
-Not every void is meant for routine entry. Some are acoustic dampers, crush gaps, thermal expansion pockets, pressure shock buffers, inspection-only cavities, or spaces left by construction sequencing. Workers may still enter them when budgets fail, robots jam, or management decides a living body is cheaper than opening a wall.
+Some voids are not corridors. They are crush gaps, acoustic dampers, pressure shock buffers, thermal expansion pockets, construction residue, inspection-only cavities, or places where a fault can spend itself before reaching the commons. Workers enter them when robots jam, maps lie, budgets rot, or management decides a living body is cheaper than opening the shell.
 
 ## AU Customization Pattern
 
-AU does not usually throw away Orbital Forge standards. It parameterizes them.
+AU parameterizes Orbital Forge standards around profit and control.
 
-- Wider freight routing around profitable yards.
-- More badge gates near claimshare-sensitive resources.
-- More observation catwalks where labor disputes are expected.
-- Cheaper service housing near dangerous shift gates.
-- Bundled utility walls that save route length and complicate maintenance.
-- Biodrone handling cages close to hazardous cells.
-- Species-specific access routes sized around productive bodies rather than comfortable lives.
-- Supervisor trams and security lifts that bypass worker congestion.
-- Local operations decks with authority to interpret safety margins as business decisions.
+- Freight routes widen where throughput pays.
+- Claimshare gates multiply near resources and timekeeping points.
+- Observation catwalks appear where labor is expected to resist.
+- Service housing moves close to hazardous shift gates.
+- Utility walls bundle air, pressure, coolant, condensate, and data to save route length.
+- Biodrone handling corridors sit near hazardous cells.
+- Species-specific access routes are sized around productive bodies instead of comfortable lives.
+- Supervisor trams, badge stairs, and security lifts bypass worker congestion.
+- Local operations decks interpret safety margins as business decisions.
 
-This is why an AU Bloom can feel inventive and cruel at the same time. The geometry is competent. The priorities are not confused. That is the problem.
+The geometry is not confused. The cruelty is in what it optimizes.
 
-## Pallas-Style Species Labor Zones
+## Pallas Kappa Worked Example
 
-The [[Pallas Species Strikes]] occurred in precisely the spaces where AU customization and BioElevate biology met Orbital Forge anatomy.
+The [[Pallas Species Strikes]] belong in the seam where AU customization, BioElevate biology, and Orbital Forge anatomy meet.
 
-A Pallas-style maintenance yard might sit beneath an industrial surface district, radially outward from the visible yard floor and inward from thicker shielding. Workers reach it through shift locks, equipment cages, and service lifts from nearby housing or spoke transit. Supervisors reach it from a glassed Kappa operations gallery on a raised catwalk, with badge-only access back to the spoke-base operations deck and the local Ramp Administration offices above it. Biodrones arrive through handler corridors and restraint staging. Uplifted cephalopod crews arrive through support-rig prep rooms where humidity skins, oxygenation loops, pressure cuffs, limiter interfaces, and compact mobility harnesses are checked before entry.
+A Pallas-style AU maintenance yard sits beneath or beside an industrial surface district near a spoke-base logistics zone. The yard is inside the broad habitat envelope but divided by local service cells, industrial airflow zones, and emergency shutters. Hubward and spoke-side routes bring managers, inspectors, parts, and authority. Outward routes disappear into the structural shell.
 
-The work itself happens across layers:
+**Service Ring Kappa** is the human-scale circuit around a seal-air-thermal cluster serving that yard segment. Kappa stabilizes pressure and airflow when equipment cycles, hatches open, industrial fans change load, or local pressure transients move through the utility layer. It also carries condensate and coolant interfaces because air handling creates heat and water management problems. The systems are adjacent for engineering reasons. AU keeps them bundled because route length costs money.
 
-- baseline workers inspect human-scale galleries, exchange modules, move carts, and operate visible controls
-- engineered technicians diagnose firmware, maintain biodrone interfaces, and document liability
-- biodrones perform repetitive hazard work under supervision
-- modified octopoid crews enter crawl throats, service arteries, seal lungs, valve nests, and blind pockets
-- supervisors watch margins, authorize stoppages, call security, and protect the fiction that this is all just specialization
+The space has distinct paths:
 
-A Kappa route in such a yard should therefore be a subsystem network. **Service Ring Kappa** is the human-scale circuit. **Kappa throats** branch into smaller arteries. **Kappa seal lungs** buffer pressure and atmospheric transients. **Kappa bypasses** route air, water, coolant, or pressure equalization around a fault. **Kappa inspection pockets** hold sensors and valve access. A biodrone or octopoid worker can be trapped in one part of that network without the entire ring becoming a dead end.
+- baseline riggers enter through shift gates, lockers, equipment issue, muster corridors, and the human-scale ring
+- engineered technicians and biodrone handlers use handler corridors, restraint staging, diagnostic boards, and liability logging stations
+- modified octopoid workers pass through support-rig prep, humidity and oxygenation checks, work-support stations, and crawl throats into Kappa arteries
+- supervisors watch from a glassed Kappa operations gallery connected by badge route to the spoke-base control deck
+- security arrives through quick-response shafts or protected catwalks
+- ALF organizers plausibly move through maintenance coordinator access, crew trust, and the parts of the route where countability has cracks
 
-## Resource Flow From Docking Intake To Waste Return
+Kappa throats branch outward from the ring into smaller service arteries. Kappa seal lungs buffer pressure. Kappa bypasses route air, condensate, coolant, or equalization around faults. Kappa sensor nests report whether the route is safe. Kappa inspection pockets hold the places where the map says reality should be.
 
-A typical material path through a mature Bloom looks like this:
+A refusal in Kappa matters because it can be both labor action and technical judgment. If a biodrone or octopoid worker remembers that a route injured Rell after telemetry called it clear, the refusal is not noise. It is hazard memory, pattern recognition, and personhood pressing against a system designed to classify all three as equipment behavior.
 
-1. **Docking intake:** ship or cargo pod docks at hub; mass is identified, sealed, scanned, and assigned hazard class.
-2. **Quarantine and customs:** biological, chemical, radiological, memetic, firmware, and legal checks sort cargo and passengers into release, hold, treatment, or seizure.
-3. **Primary storage:** volatiles, water, gases, food, replacement parts, industrial feedstock, medical supplies, and dangerous goods enter separate hub stores.
-4. **Spire distribution:** approved resources move along axial trunks to spoke transfer nodes.
-5. **Spoke descent:** freight or utility flows move down rotating transfer systems into district manifolds, sometimes with spin-transition handling where the physics gets rude.
-6. **District allocation:** local systems distribute air, water, power, coolant, food, fabrication feedstock, and information to residences, farms, factories, clinics, and yards.
-7. **Use:** inhabitants breathe, drink, eat, work, manufacture, repair, leak, break, contaminate, and improvise.
-8. **Local recovery:** districts capture heat, condensate, greywater, sewage, scrap, air contaminants, packaging, and industrial residue.
-9. **Return routing:** recoverable material moves back through district processors, spoke trunks, hub plants, or specialized pole facilities.
-10. **Processing:** waste becomes clean water, gas mix, fertilizer, feedstock, fuel, repair material, export scrap, quarantine mass, or stabilized residue.
-11. **Redistribution or export:** useful outputs return to the habitat. Unusable or profitable outputs leave through docking, exterior handling, or controlled disposal.
+## Scene And Economy Checklist
 
-The loop is never perfect. Every Bloom carries deferred maintenance, contaminated corners, undocumented bypasses, black-market taps, and little engineering lies that become history when enough people depend on them.
+Before placing a scene, item, commodity, or maintenance contract inside a Bloom, answer these:
 
-## Design Questions For Any Bloom Scene
-
-When placing a story scene inside a Bloom, answer these before drawing the room:
-
-- What radial layer is this space in?
-- Is it public, residential, industrial, service, specialist, exterior-adjacent, or forbidden?
-- Is it inside the open civic atmosphere, a service cell, a hazard cell, or an emergency isolation zone?
-- What flows through it: air, water, heat, waste, cargo, people, power, data, coolant, authority?
-- Who has normal access, emergency access, illegal access, and faster access?
+- What radial layer is involved?
+- Is the space open civic atmosphere, industrial air, service cell, hazard cell, exterior-adjacent pocket, or emergency isolation zone?
+- What rotates, and what frame does the character transfer from?
+- What flows through the space?
+- What load or boundary does the surrounding structure respect?
+- What part must be inspected, replaced, cleaned, cooled, sealed, or logged?
+- Who normally enters?
+- Who enters when it fails?
+- Who arrives fastest and by what route?
 - What body was the space sized for?
-- What happens if a hatch, valve, pump, membrane, sensor, or worker fails?
-- Where did each character come from physically?
-- Where do they go after their shift, injury, arrest, promotion, or refusal?
-- Which part of the architecture expresses engineering necessity, and which part expresses power?
+- What would Orbital Forge standardize?
+- What would AU cheapen?
+- What would BioElevate exploit?
+- What can become a commodity, subassembly, service contract, or gameplay-relevant failure?
 
-If those questions have answers, the scene will usually start behaving. If they do not, the habitat becomes a painted hallway with jargon taped to it, and the pipes will know.
+If those questions have answers, the room can carry a story. If they do not, the room is only wallpaper with a pressure warning on it.

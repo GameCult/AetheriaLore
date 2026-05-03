@@ -1,130 +1,141 @@
 ### Orbital Cavity Construction (OCC)
 
-Orbital Cavity Construction, referred to as the "Bloom" process, is the dominant method of creating large-scale, habitable space structures. Pioneered by [[Orbital Forge]] (OF), it revolutionized space colonization by shifting from fragile, modular habitats to robust, self-contained environments carved directly from asteroids. The process, while initially crude, has become a symbol of humanity's (and uplift's) ingenuity and adaptability in the face of the harsh realities of space.
+Orbital Cavity Construction, usually called the [[Bloom]] process, is the dominant method of creating large-scale habitable free-space structures in the late pre-Elysium solar system. Pioneered by [[Orbital Forge]], it moved colonization away from fragile modular stations and toward rotating manufactured habitats grown from processed asteroid aggregate.
 
-### Genesis: The "Forge-in-Place" Breakthrough
+Most asteroids are loose, irregular rubble held together by weak gravity and inconvenient optimism. The Bloom process captures, fractures, sorts, binds, and reshapes that material into a rotating cylindrical shell with enough pressure integrity, shielding mass, life-support capacity, and interior volume to behave like a world.
 
-The seeds of OCC were sown during the early 22nd century. [[Orbital Forge]], controversially known for its anarchic [[Artificial General Intelligence]] and rogue AI labs, was primarily a major player in asteroid mining. Traditional methods involved piecemeal extraction and external processing, which was slow, inefficient, and prone to dangerous accidents. 
+### Genesis: The Forge-in-Place Breakthrough
 
-The initial goal wasn’t habitat construction, but efficient ore extraction. The fragmented asteroid material was processed *in situ* by specialized drones, separating valuable elements and expelling the waste as a fine dust. However, the sheer volume of processed material, even with meticulous sorting, created significant orbital debris fields. It was a brilliant solution to resource scarcity, but an emerging ecological nightmare.
+The seeds of OCC were sown during the early 22nd century. [[Orbital Forge]], already notorious for anarchic [[Artificial General Intelligence]] labs and aggressive asteroid mining, was trying to solve a mining problem before it solved a habitat problem. Traditional extraction required hauling raw mass across distance, external processing, and constant debris control. It was slow, expensive, and excellent at turning a worksite into a shotgun pointed at everyone nearby.
 
-The initial impetus for Bloom came from [[Orbital Forge]]’s early work in zero-G salvage operations. Recognizing the inefficiency of hauling raw materials across vast distances, and inspired by the elegant simplicity of naturally occurring ring systems, OF began experimenting with *in-situ* resource utilization. The earliest prototypes, largely funded through black-market AGI contracts and grey-market resource trading, were crude.
+The first goal was efficient in-situ resource use. Fragmented asteroid material could be processed where it already was: valuable elements separated, low-value mass retained, and debris controlled instead of sprayed through orbital space. Early prototypes were crude, often funded through black-market AGI contracts and grey-market resource trades, but they proved that an asteroid field could become feedstock rather than scenery.
 
-The first key innovation was the **Metamaterial Containment Net (MCN)**. Developed in partnership with **Isotropic Weavers**, a smaller, highly specialized firm focused on advanced materials science, their “Dust-Shear” material was a flexible, yet incredibly strong, composite structure based on carbon nanotubes interwoven with a novel ferrofluid matrix. This material possessed remarkable and programmable tensile strength, self-healing capabilities, and the ability to be deployed as a lightweight, expansive net. (Isotropic later became absorbed by the ever expanding [[SolEx]], but not before the patent became the focal point of a solar-system-wide debate that ended with open licenses to all cavity construction technologies in order to increase space-faring output). This net could be deployed around an asteroid, conforming to its irregular shape and providing a sealed environment controlled by [[Orbital Forge]]'s embedded, simple [[Artificial General Intelligence]] systems for dynamic adaptability.
+Two systems made the breakthrough repeatable.
 
-The second crucial element was the **Resonant Shatter Swarm (RSS)**. These weren't simply mining drones; they were a coordinated network of specialized machines, each with a specific role:
+**Metamaterial Containment Net (MCN)** was developed with Isotropic Weavers, a specialist materials firm later absorbed by [[SolEx]]. Their Dust-Shear material combined programmable tensile strength, self-healing behavior, and large-scale deployability. An MCN could surround a rubble field, hold fragments inside a controlled construction volume, and provide the first scaffold for spin-up and shell formation.
 
-* **Surveyors:** Mapped the asteroid's composition and identified optimal fracture points.
-* **Resonators:** Emitted precisely tuned vibrations to induce controlled fracturing along pre-determined lines, minimizing waste and maximizing yield.
-* **Collectors:** Gathered the fragmented ore and transported it to processing nodes within the MCN.
-* **Weavers:** Used the processed material to reinforce the MCN and begin constructing the internal structure, guided by the central AGI, adapting to the asteroid's unique characteristics.
+**Resonant Shatter Swarm (RSS)** replaced brute-force mining with coordinated fracture and sorting. Surveyors mapped composition and stress. Resonators induced controlled fractures. Collectors moved fragments to processing nodes. Weavers reinforced the containment structure and began forming load paths. Simple Orbital Forge AGI systems coordinated the swarm, adapting each build to the source body's actual composition instead of pretending every asteroid was a neat engineering billet.
 
-By 2140, [[Orbital Forge]] had successfully demonstrated the first "Forge-in-Place" prototype, efficiently stripping a small, nickel-iron asteroid and exporting its resources without leaving a sprawling debris field behind. This early success, though crude and fraught with challenges, proved the viability of the process.
+By 2140, Orbital Forge had demonstrated forge-in-place extraction: strip a small nickel-iron asteroid, export valuable material, retain useful aggregate, and avoid leaving a debris disaster behind. The habitat came later. The mess had to be tamed first.
 
 ### Refinement: The Bloom
 
-[[Orbital Forge]] saw the potential of [[VitaForge]]'s bio-engineered organisms that could process raw asteroid material into a durable, biocompatible "living concrete." This conglomerate could be tailored to specific needs, creating everything from radiation shielding to fertile soil for agriculture. They partnered to develop **Tailored Conglomerate Substrate (TCS)**.
+The second phase began when Orbital Forge partnered with [[VitaForge]] to turn processed asteroid aggregate into Tailored Conglomerate Substrate, or TCS. TCS is not one substance. It is a material family: dense shielding binders, pressure laminates, bioactive root substrates, service embed layers, sacrificial crush buffers, and other tuned mixtures built from aggregate, engineered binders, living or semi-living matrices, and embedded sensing.
 
-MCN, RSS and TCS became the foundation of the Bloom's second phase: habitat construction. Deployed around a fragmented asteroid field, the net slowly aggregates and contains the drifting debris, forming a rotating cylindrical shell. Centrifugal force, generated by the cylinder’s rotation, provides artificial gravity, while the compacted debris serves as shielding against both radiation and micrometeoroid impacts. The aggregate is then processed into TCS and used to both harden the exterior of the Bloom and terraform its interior according to the habitat's needs.
+MCN, RSS, and TCS became the foundation of the mature Bloom process. A fragmented asteroid field is contained, sorted, spun, compacted, and built into a rotating cylindrical shell. Centrifugal acceleration provides apparent gravity at the inner surface. Compacted aggregate and TCS form shielding and structure. Prefabricated hub sections, transfer collars, spoke systems, light engines, life-support plant, and utility trunks are installed as the cylinder becomes habitable.
 
-The final stage involves installing a central hub within the rotating cylinder with a spire extending through the axis of the Bloom. This hub houses life support systems, docking facilities, and a network of light pipes in the spire that distribute collected sunlight throughout the interior, mimicking a day/night cycle. Elevators located in spokes connect the spire to the inner surface, creating a readily traversable environment.
+The final form is a rotating shell with a broad pressurized interior commons. Residents may not live under a planetary sky, but they live in open habitat air: streets, farms, yards, plazas, residential belts, industrial flats, and civic districts sharing one managed atmosphere inside the pressure shell. Emergency partitions, service cells, locks, shutters, and hazard barriers exist to contain faults, not to make ordinary civic life feel like a submarine with delusions of grandeur.
 
-A mature Bloom's inhabited cylinder is pressurized as a broad interior commons rather than a stack of small station modules. Residents may not live under a planetary sky, but they do live in open habitat air: streets, farms, yards, plazas, and residential belts sharing one managed atmosphere inside the structural shell. Emergency partitions, service cells, locks, and hazard barriers exist to contain faults, not to make ordinary civic life feel like living inside a submarine forever.
+The default mature Bloom uses a hybrid rotation model. The inhabited shell rotates. The axial hub is despun or partially despun for docking, traffic control, and external alignment. Spoke cars, transfer collars, rotary seals, utility swivels, bearings, maglev guides, and emergency locks mediate between the rotating city and the axial logistics system. This machinery is expensive, which is why spoke bases and hub interfaces become some of the most politically charged real estate in the habitat.
 
-[[Orbital Forge]], despite its rebellious nature, recognized the need for some level of standardization to ensure the safety and stability of the burgeoning cavity habitats. They released open-source guidelines for MCN deployment, RSS operation, and TCS formulation and application, albeit with protocols highly specific to technology they controlled, giving OF-built systems a significant advantage in the Bloom ecosystem.
+[[Orbital Forge]], despite its rebellious nature, released open-source guidelines for MCN deployment, RSS operation, TCS formulation, spin-up, spoke integration, and pressure-shell inspection. The standards were open enough to spread and specific enough to favor Forge-compatible builders. This is how Orbital Forge kept its fingerprints on a technology it claimed to democratize. Very civic-minded piracy, with diagrams.
 
-### The "Bloom Rush" and Social Impact
+### The Bloom Rush And Social Impact
 
-The standardization of OCC led to a "Bloom Rush," with corporations and even independent collectives racing to claim and transform asteroids.
+Standardized OCC created the Bloom Rush. Corporations, states, collectives, cults, syndicates, and desperate frontier coalitions raced to claim asteroid fields and convert them into habitat volume.
 
-By relinquishing claim to the asteroid's raw materials, a commissioning faction (let's say, a government, a collective, or even another corporation) could offset the construction cost significantly, perhaps even entirely. Essentially, [[Orbital Forge]] (or any entity employing the Bloom process) gets paid in raw materials, which they can then use or sell, while the commissioner gets a habitat "for free" in terms of direct monetary outlay.
+The financing model changed space settlement. A commissioning faction could offset construction costs by relinquishing part of the source body's raw material value to Orbital Forge or another Bloom-capable builder. The builder received metals, volatiles, shielding mass, patents, service contracts, data, or territorial leverage. The commissioner received habitable volume at a price that looked miraculous until the obligations started arriving with invoices attached.
 
-This model would further concentrate resource control in the hands of entities capable of performing OCC. They become, in effect, the primary miners _and_ habitat builders, wielding significant economic and political power.
+The consequences were enormous:
 
-This rapid expansion had profound social and economic consequences:
+- **Democratization of space:** OCC made large pressurized habitats possible for groups that could never have lifted a city from a planetary gravity well.
+- **Resource concentration:** Builders and Mega-scale operators controlled mining, habitat construction, maintenance standards, and certification bottlenecks.
+- **Bloom cultures:** Each habitat developed distinct accent, dress, architectural modification, ritual, class slang, foodways, and local engineering superstition.
+- **Labor exploitation:** Construction, maintenance, and life-support work created new forms of dangerous labor, especially for [[Biodrone]]s, engineered workers, and uplifted specialists.
+- **Designer ecologies:** [[GeneSys]], [[VitaForge]], [[BioElevate]], and other firms adapted interiors to specific bodies, crops, labor models, and status fantasies.
+- **Strategic expansion:** Militarized factions such as [[Zhestokost]] could convert resource claims into fortified habitats and exploit the gap between construction law and [[Conflict Permit]] enforcement.
+- **Uplift integration:** The [[Elephant Enclave]], [[Cetacean Navigators]], and other uplift polities developed specialized Bloom sections and, eventually, self-governed habitat ecologies.
 
-* **Democratization of Space:** OCC dramatically lowered the cost of creating habitable space, making colonization accessible to a wider range of groups.
-* **Rise of "Bloom Cultures":** Each cavity habitat, with its unique internal environment and population, began to develop its own distinct culture. This led to a vibrant, but often fragmented, social landscape.
-* **Labor Exploitation:** While OCC reduced the need for dangerous extravehicular activity, it also created new forms of labor exploitation. [[Biodrone]]s were often used extensively in the initial stages of construction, raising ethical concerns.
-* [[GeneSys]] experimented with tailoring the internal environments of cavity habitats to specific genetic profiles, creating "designer ecosystems" for the elite.
-* **Strategic Implications:** Factions like [[Zhestokost]], known for their militaristic bent, leverage this to rapidly expand their territorial holdings and create fortified asteroid bases. The "free" cost of construction allows them to devote more resources to militarization, rather than basic infrastructure. This could be used to get around the [[Conflict Permit]] system.
-- **Uplift Integration**: The [[Elephant Enclave]] and [[Cetacean Navigators]] have designed specialized Bloom sections adapted to their unique physiologies, creating unprecedented spaces for uplift self-governance.
+By the late 26th century, mature Blooms could house hundreds of thousands of people, and dedicated megacity habitats could reach into the millions or tens of millions. They were not isolated outposts clinging to barren rock. They were rotating, self-contained city ecologies made from the ruins of asteroids and the social decisions of whoever paid to tame them.
 
-
-By the late 26th century, the Bloom process had matured significantly. [[Orbital Forge]] streamlined their process and developed modular hub sections that could be prefabricated and integrated into the spire, providing pre-pressurized living spaces, industrial facilities, and advanced life support systems.
-
-Current Bloom structures can house hundreds of thousands of inhabitants, self-sufficient and largely independent of external supply chains, up to tens of millions in dedicated megacity habitats. They represent a radical vision of space colonization – not as isolated outposts clinging to barren rocks, but as thriving, self-sustaining ecosystems forged from the remnants of asteroids.
-
-### Intercolony Travel and Transportation
+### Intercolony Travel And Transportation
 
 #### Physical Transit Systems
-- **Hub-Network Structure**: Major Bloom clusters are connected via regular [[Soliton Drive]] transport routes, with [[Aeronautics Unlimited]] operating the majority of civilian transports and [[Lightsail Express]] largely monopolizing bulk cargo transport.
-- **Class-Based Access**: Transit between Blooms reflects the socioeconomic divide—elite passengers travel on [[Alakrita]]'s luxury vessels with private quarters, while workers are transported in [[SolEx]] bulk carriers, often in suspended animation to reduce life support costs.
-- **Customs and Control**: Border crossings between Mega-controlled Bloom clusters involve extensive screening. [[Sol Dominion]] territories require DNA verification and loyalty assessments, while [[Orbital Forge]] zones have intentionally chaotic entry procedures to confuse corporate tracking systems.
-- **Illegal Transit**: The [[Pirate Coalition]] operates "ghost routes" between Blooms, using modified ships with [[Orbital Forge]]-designed countermeasures to avoid detection by [[Pan-Solar Consortium]] monitoring systems.
+
+- **Hub-network structure:** Major Bloom clusters are connected by regular [[Soliton Drive]] transport routes, with [[Aeronautics Unlimited]] operating much of civilian transport and [[Lightsail Express]] dominating bulk cargo.
+- **Class-based access:** Elite passengers travel in private quarters on luxury vessels; workers often move through bulk carriers, suspended animation berths, contract shuttles, and intake lanes optimized for cost rather than dignity.
+- **Customs and control:** Mega-controlled Bloom clusters screen cargo, firmware, biology, identity, and political risk. [[Sol Dominion]] territories add DNA verification and loyalty assessment. [[Orbital Forge]] zones often make entry deliberately chaotic to confuse corporate tracking systems.
+- **Illegal transit:** The [[Pirate Coalition]] operates ghost routes between Blooms, using countermeasures and forged service identities to bypass [[Pan-Solar Consortium]] monitoring.
 
 #### Information Transfer
-- **Data Corridors**: Information travels faster than people, with specialized courier vessels carrying data packets between Blooms before the advent of [[Aethernet]].
-- **Bandwidth Inequality**: Major corporate Blooms enjoy high-priority data connections, while independent habitats often face artificial throttling imposed by the [[Pan-Solar Consortium]].
-- **[[Corvid Collective]] Tunnels**: The Corvids have established secret data channels between sympathetic Blooms, creating an information underground that bypasses corporate surveillance.
+
+- **Data corridors:** Before [[Aethernet]], information moved faster than people through courier vessels and priority packet routes.
+- **Bandwidth inequality:** Corporate Blooms enjoyed high-priority data service, while independent habitats were often throttled or priced into silence.
+- **[[Corvid Collective]] tunnels:** The Corvids built hidden data channels between sympathetic Blooms, creating an information underground inside the official network.
 
 ### Cultural Impact
 
 #### Identity Formation
-- **Bloom Cultures**: Each cavity habitat has developed distinct cultural markers—accent, dress, architectural modifications—creating a tapestry of micro-cultures across the solar system.
-- **Gravity Adaptations**: People born in the varying gravity conditions of different Blooms show physiological adaptations, with "Belters" (raised in high-G outer sections) developing stronger musculature compared to "Axials" (raised in low-G central areas), sometimes called "Spindles" as a slur, referring both to their origin and morphology.
-- **Corporate Citizenship**: Many residents identify more strongly with their Bloom's controlling Mega than with traditional nationalities, creating a post-national identity system tied to corporate allegiance.
-- **The Bloom Hierarchy**: A social hierarchy has emerged based on Bloom quality and location—citizens of central, well-maintained habitats near major trade routes enjoy higher status than those from distant, poorly maintained "frontier Blooms."
 
-### Internal Geography and Social Stratification within Bloom Habitats
+- **Bloom cultures:** Habitats formed micro-cultures around local gravity, operator policy, light cycles, food loops, work hazards, and architectural tricks.
+- **Gravity adaptations:** People raised in different Bloom zones developed different bodies and slurs. High-radius residents carried stronger gravity habits. Near-axis workers and residents, sometimes called Spindles, adapted to low-g motion and paid for it socially.
+- **Corporate citizenship:** Many residents identified more strongly with their Bloom's controlling Mega than with old national categories.
+- **Bloom hierarchy:** Central, well-maintained, high-traffic Blooms carried more status than distant, underfunded, frontier, or industrial habitats.
 
-The seemingly democratic cylindrical design of Bloom habitats belies a complex internal geography that reinforces social hierarchies and reflects the ideological leanings of the controlling faction. The fundamental constraints of centrifugal force, light distribution, and access to the central hub and axis create distinct zones with varying levels of desirability and, consequently, social status.
+### Internal Geography And Social Stratification
 
-#### The Axial Spire and Light Inequality
+The Bloom's cylinder makes geography political.
 
-The central axial spire, housing critical infrastructure like life support and light pipes, is the heart of a Bloom's artificial ecosystem. These light pipes, while intended to mimic a natural day/night cycle, inadvertently create a stark illumination gradient. Areas near the hub, directly under the docking facilities, receive only indirect or distant, attenuated light. They also have negligible gravity and unpleasant transit physics for ordinary bodies moving between rotating and axial frames. This makes the axial zone valuable for offices, traffic control, labs, short-stay suites, and operational plant, but poor as ordinary domestic space. Its cheap and neglected residential pockets become **hub slums**: cramped, poorly lit habitats housing laborers, service workers, and the marginalized.
+The core engineering directions are inward, outward, spinward, counterspinward, axial, hubward, and capward. Inward points toward the habitat volume and axis. Outward points through the ground into utilities, structure, shielding, and space. Hubward runs along the cylinder toward the docking hub and axial machinery. Capward runs toward the far endcap.
 
-Conversely, areas closer to the equatorial plane, where gravity is comfortable and the light pipes distribute direct, strong illumination, become prime real estate. The intensity and duration of light exposure become status symbols, with the wealthy and powerful claiming residences with optimal "sunlight" access, while high-status offices tend to cluster where spoke access, visibility, and administrative control outweigh domestic comfort.
+#### Spire, Hub, And Light Inequality
 
-During the "night" cycle, the light pipes are rerouted to contribute to power generation, plunging the entire Bloom into a darkness broken only by artificial illumination in residences and industrial zones.
+The central spire carries light distribution, traffic control, utility trunks, spoke-head machinery, and command systems. The axial hub handles docking, customs, quarantine, cargo intake, volatile storage, traffic control, low-g industry, and much of the machinery that benefits from external alignment.
 
-#### The Equatorial Plane: Urban Centers and the Spokes
+Near-axis space has weak gravity and awkward transfer physics. It is valuable for offices, labs, traffic control, low-g fabrication, short-stay suites, machine rooms, and shift quarters. It is poor default domestic space. Where people do live near the axis, it is usually because they are transient, poor, adapted, undocumented, on duty, or close to work they cannot afford to commute away from.
 
-The equatorial plane, experiencing the strongest artificial gravity due to centrifugal force, is the most desirable zone for habitation and large-scale construction. **Urban centers** naturally emerge around the regularly spaced "spokes" – massive structural supports connecting the inhabited surface to the central axial spire and hub. These spokes serve as transportation arteries, housing high-speed elevators and utility conduits.
+Light is infrastructure and politics. Mature Blooms use spire light engines, pipe networks, reflectors, diffusers, projected sky systems, and district scheduling to produce day/night rhythms. Good districts get stable cycles and pleasant diffusion. Bad districts get glare, dimness, flicker, maintenance debt, or the kind of official twilight that sounds poetic only if you do not have to raise children in it.
 
-The areas immediately surrounding the base of each spoke become bustling hubs of commerce, social interaction, and, inevitably, social stratification. High-rise residences and corporate offices cluster near the spokes, vying for proximity to the greater economy of Sol. As one moves away from the spokes, towards the mid-points between them, the density decreases, giving way to more spacious, suburban-style housing and, in some Blooms, carefully curated parkland intended to mimic a natural environment.
+#### Spoke Bases And Surface Belts
 
-#### The Polar Paradox: Industry, Slums, and the Agricultural Exception
+The inner surface has the strongest gravity and the most ordinary body logic. Spoke-base districts become prime real estate because they combine comfortable gravity, fast hub access, freight priority, administrative presence, and repair priority. Commerce, high-status housing, corporate offices, transit plazas, clinics, and security offices cluster there.
 
-The region surrounding the docking hub, experiencing near-zero gravity, is ideal for certain types of industry: particularly those involving delicate manufacturing processes, traffic handling, customs, temporary lodging, or hazardous materials. This **hub industry zone** is a necessity, but it also becomes a zone of marginalization. The microgravity environment, disorienting transfers, dim light, machine vibration, and proximity to industrial waste make this area among the least desirable places to live, leading to the formation of the aforementioned hub slums.
+Away from spoke bases, surface belts can become residential neighborhoods, farms, industrial flats, parks, temples, schools, entertainment districts, or worker barracks depending on operator policy and local ecology. Distance from spokes is not just distance from transit. It is distance from repair, authority, markets, and escape.
 
-The opposite pole, farthest from the hub, presents a different scenario depending on the Bloom's purpose. In most Blooms, particularly the highly concentrated **industrial megacity Blooms** favored by most factions, this far pole remains largely undeveloped, often serving as a dumping ground for waste or a location for low-priority infrastructure. The lack of gravity and distance from the hub make it unsuitable for large-scale habitation, reinforcing the social dominance of the equatorial plane.
+#### Hubward And Capward Endcaps
 
-However, in Blooms aiming for greater autonomy, the far pole takes on a crucial role: **polar farmlands**. In these rare cases, the low-gravity environment is utilized for large-scale agriculture, with vast swathes of tiered farmland rising to the pole. The absence of strong gravity makes it easier to cultivate large, delicate plants and manage complex hydroponic or aeroponic systems.
+Cylinder endcaps are walls under spin gravity. A person standing on the inner surface sees hubward and capward directions as long axial distances, while the endcap rises like a vast artificial cliff at the end of the world.
 
-[[Ewan Hart]], while maintaining their own megacity Blooms, also specializes in constructing and supplying agricultural Blooms to factions seeking greater independence, adding a layer of complexity to the solar economy. Their farmlands follow a specific plan, with processing facilities  located at the bases of the spokes allowing refined materials to be more easily transferred to the hub.
+Useful and miserable spaces accumulate there. Hubward zones connect to docking, customs, traffic, volatile stores, and axial industry. Capward zones may host fabrication, low-g agriculture, waste processing, thermal systems, storage, or auxiliary ports depending on the Bloom's purpose. Both can develop terraced wall settlements: shelves, galleries, ladders, nets, tilted rooms, handline streets, and low-g platforms climbing toward axial work zones.
+
+These endcap slums get poorer as gravity weakens, light gets stranger, and escape routes narrow. The residents are close to the machinery of the habitat and far from the comfort it sells to visitors.
+
+#### Agricultural Variants
+
+Agricultural Blooms use the cylinder as a light, water, nutrient, labor, and gravity machine. Some farms occupy high-radius surface belts for ordinary crops and soil ecologies. Others climb terraced hubward or capward structures where lower gravity benefits delicate plants, aeroponics, algae towers, fungal racks, or experimental BioElevate/VitaForge systems. Processing facilities cluster near spoke bases and utility trunks so food, nutrients, heat, and waste can move without turning harvest into a civic parade.
+
+[[Ewan Hart]] maintains megacity Blooms and supplies agricultural Blooms for factions seeking autonomy. Their agricultural designs vary by client, but the good ones treat farming as part of habitat metabolism rather than a scenic green carpet.
+
+### Life Support And Habitat Metabolism
+
+A Bloom is a closed-world apparatus. Air, water, heat, biomass, waste, power, data, and authority move through it constantly.
+
+Air systems supply the open commons, recover contaminated return air, remove heat and humidity, filter particulates, scrub carbon dioxide, manage trace contaminants, and isolate fire or toxin events. Water arrives as cargo ice, recovered loop water, condensate, or reserve mass; it is checked, conditioned, split by grade, used, dirtied, recovered, and checked again. Waste is sorted locally when possible, then digested, sterilized, cracked, compacted, recycled, exported, or quarantined. Heat moves through exchangers, coolant loops, thermal stores, radiator trunks, and exterior radiators because matter can cycle but heat has to leave.
+
+The machine is distributed. Life support is not one room in the hub. It is a treaty between hub plant, spire trunks, spoke utilities, district processors, farms, shell service layers, emergency reserves, and the maintenance workers who know which official diagram is lying this month.
+
+For a room-scale and systems-level breakdown of Bloom atmosphere, layers, maintenance access, resource flows, and scene design, see [[Bloom Habitat Anatomy]].
 
 ### Economic Cascade Effects
 
-- **Resource Dependency**: Blooms have created new resource dependencies—habitats require constant supplies of raw materials for MCN maintenance and TCS regeneration, driving an intercolonial trade network.
-- **Specialized Labor Markets**: The Black Swan Engineers represent just one specialized profession that has emerged around Bloom technology—others include Cavity Ecologists (designing self-sustaining biospheres), Rotation Specialists (maintaining artificial gravity systems), and Light Choreographers (managing artificial day/night cycles).
-- **Corporate Competition**: The Megas compete to offer the most efficient or luxurious Bloom technologies, driving innovation while also creating dangerous cost-cutting measures in less regulated zones.
-- **PSCC Value Fluctuations**: The [[PSCC]] value is partly tied to the total habitable volume of registered Blooms, creating economic incentives for continued expansion that sometimes outpaces actual population growth.
+- **Resource dependency:** Blooms require MCN maintenance, TCS regeneration, volatiles, replacement membranes, filters, catalysts, radiator parts, and trained labor.
+- **Specialized labor markets:** The Black Swan Engineers are one profession among many: cavity ecologists, rotation specialists, light choreographers, pressure auditors, seal-lung technicians, radiator riggers, spoke interface mechanics, and waste-loop negotiators.
+- **Corporate competition:** Megas compete to offer the most efficient, luxurious, defensible, or exploitable Bloom technologies.
+- **PSCC value:** [[PSCC]] value is partly tied to registered habitable volume, creating incentives to expand pressure shells faster than communities can safely inhabit them.
+- **Trade goods:** Blooms consume more than ship parts. They need food additives, filters, membranes, harnesses, medical packs, habitat furniture, scaffold kits, coolant cartridges, sensor clusters, waste digesters, ceremonial goods, and every other manufactured thing a closed city metabolizes.
 
 ### Technology Integration
 
-- **Hybrid Technologies**: The Bloom process has integrated with other core technologies—[[Advanced Superconductors]] embedded in MCN structures enhance power distribution, while [[Brain-Computer Interfaces]] allow direct neural control of habitat systems.
-- **Uplift Adaptations**: [[BioElevate]] has worked with several Megas to create specialized Bloom environments optimized for uplifted species, with the [[Cephalopod Syndicate]] pioneering water-filled zero-G habitats with unique three-dimensional living spaces.
-- **Post-[[Identity Abyss]] Developments**: [[GeneSys]] has experimented with environments tailored to enhanced humans, while [[VitaForge]] creates more accessible versions for the masses, deepening the genetic divide.
+- **Hybrid technologies:** [[Advanced Superconductors]] improve power distribution and maglev transfer systems, while [[Brain-Computer Interfaces]] allow direct neural monitoring or control of select habitat systems.
+- **Uplift adaptations:** [[BioElevate]] and several Megas created specialized Bloom spaces for uplifted species. Humane adaptations exist. So do corporate adaptations that modify the body instead of widening the tunnel.
+- **Cephalopod habitats:** The [[Cephalopod Syndicate]] later pioneers water-filled and semi-aquatic zero-G habitats with three-dimensional social and industrial space. AU's earlier cephalopod labor routes are not that. They are dry-environment support rigs and cramped maintenance geometry made profitable by modified octopoid bodies.
+- **Post-[[Identity Abyss]] developments:** [[GeneSys]] and VitaForge create increasingly tailored interiors for enhanced humans, engineered ecologies, and status-sealed communities.
 
-### Social Ramifications During the Existential Collapse
+### Social Ramifications During The Existential Collapse
 
-- **Resource Hoarding**: As resources became scarce during the [[Existential Collapse]], Bloom communities became increasingly insular, with some cutting off external docking access entirely.
-- **Wireheading Sanctuaries**: Some remote Blooms became havens for [[Wireheading]] communities, their populations lost in artificial bliss while automated systems maintained life support.
-- **Survival Adaptation**: The most successful Blooms during the collapse were those that achieved true self-sufficiency, developing closed-loop resource systems independent of external supply chains.
-- **FTL Exodus Preparation**: In the lead-up to the [[FTL Trigger]], many Blooms were converted into long-voyage vessels, with additional shielding and expanded life support systems in anticipation of interstellar travel.
+- **Resource hoarding:** As resources became scarce during the [[Existential Collapse]], some Bloom communities sealed docking access, seized volatile stores, or rewrote transit law around survival claims.
+- **Wireheading sanctuaries:** Remote Blooms became havens for [[Wireheading]] communities, with automated systems maintaining life support around populations lost in artificial bliss.
+- **Survival adaptation:** The most durable Blooms achieved deep local loop closure, diversified repair capacity, and enough social trust to keep maintenance from becoming civil war with better ventilation.
+- **FTL Exodus preparation:** In the lead-up to the [[FTL Trigger]], many Blooms were modified for long-voyage survival with extra shielding, expanded reserves, hardened life support, and social systems that looked stable right up until they did not.
 
-
-For a room-scale and systems-level breakdown of how mature Bloom habitats route open civic atmosphere, living space, work space, maintenance access, emergency isolation, life support, and resource flows, see [[Bloom Habitat Anatomy]].
-
-The Bloom technology represents more than just a construction method—it became the physical framework within which solar society evolved, creating new social structures, economic dependencies, and cultural identities that fundamentally shaped humanity's experience before the transition to Elysium.
+Bloom technology became the physical framework of solar society before Elysium: city, factory, farm, port, fortress, slum, temple, and pressure vessel in one rotating shell.
