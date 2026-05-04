@@ -34,6 +34,22 @@ const AetheriaFavicons: QuartzEmitterPlugin = () => ({
   }),
 })
 
+const AetheriaInkPlayerResources: QuartzEmitterPlugin = () => ({
+  name: "AetheriaInkPlayerResources",
+  async *emit() {},
+  async *partialEmit() {},
+  externalResources: () => ({
+    js: [
+      {
+        src: "/static/interactive/aetheria-ink-player.js",
+        loadTime: "afterDOMReady",
+        contentType: "external",
+        spaPreserve: true,
+      },
+    ],
+  }),
+})
+
 /**
  * Quartz 4 Configuration
  *
@@ -137,6 +153,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       AetheriaFavicons(),
+      AetheriaInkPlayerResources(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
