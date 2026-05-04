@@ -2,20 +2,20 @@
 
 These are economy and item-blueprint candidates discovered while grounding the Pallas Species Strikes at room scale. They are not finished CultCache entries yet. Treat them as blueprint seeds for later `SimpleCommodity`, `CompoundCommodityData`, `GearData`, or consumable definitions.
 
-## Cephalopod Dry-Operation Work-Support Rig
+## Cephalopod Mobile Dry-Operation Harness
 
 **Likely class:** `CompoundCommodityData`
 
-**Use:** Industrial support station for uplifted octopoid or cephalopod maintenance workers assigned to dry, cramped, low-g, or shell-adjacent service spaces.
+**Use:** Mobile harness system for uplifted octopoid or cephalopod maintenance workers assigned to dry, cramped, low-g, zero-g, or shell-adjacent service spaces.
 
 **Subassembly candidates:**
 
-- open body-support frame
+- flexible body-loop harness
 - humidity collar or humidity skin interface
 - oxygenation loop
 - padded pressure cuff set
 - flexible contact-band harness
-- radial tool rail
+- compact tool roll or clip-on tool rail
 - utility interlock socket
 - limiter or diagnostic interface
 
@@ -26,9 +26,10 @@ These are economy and item-blueprint candidates discovered while grounding the P
 - worker injury risk
 - tool handling precision
 - service-artery access class
+- autonomous movement range
 - comfort margin
 
-**Notes:** This is workplace support equipment, not an aquarium, habitat, or containment chair. Cheap AU variants optimize reach, access, and survival margin before comfort.
+**Notes:** This is mobile worker equipment, not an aquarium, habitat, containment chair, or dedicated workstation. Cheap AU variants optimize reach, squeeze-through access, low-g mobility, and survival margin before comfort.
 
 ## VitaForge BioDrone Standard Limiter Interface
 

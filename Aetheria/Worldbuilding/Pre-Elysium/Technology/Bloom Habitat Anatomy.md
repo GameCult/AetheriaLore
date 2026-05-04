@@ -212,7 +212,7 @@ The throat exists because something beyond it needs inspection but does not just
 
 Service arteries carry small drones, diagnostic worms, specialist workers, replacement membranes, and occasional emergency gear into shell geometry. They may be low-g or zero-g even near high-gravity districts because they cut through radial structure at awkward angles.
 
-In AU cephalopod yards, many arteries are sized for heavily modified octopoid workers: compact bodies, flexible limbs, fine manipulation, dry-environment support rigs, oxygenation loops, humidity skins, pressure cuffs, and limiter interfaces. They are workers redesigned to fit infrastructure that could have been kinder.
+In AU cephalopod yards, many arteries are sized for heavily modified octopoid workers: compact bodies, flexible limbs, fine manipulation, mobile dry-environment harnesses, oxygenation loops, humidity skins, pressure cuffs, and limiter interfaces. They are workers redesigned to fit gaps between humans and drones in infrastructure that could have been kinder.
 
 ### Blind Pockets And Sacrificial Voids
 
@@ -246,7 +246,7 @@ The space has distinct paths:
 
 - baseline riggers enter through shift gates, lockers, equipment issue, muster corridors, and the human-scale ring
 - engineered technicians and biodrone handlers use handler corridors, restraint staging, diagnostic boards, and liability logging stations
-- modified octopoid workers pass through support-rig prep, humidity and oxygenation checks, work-support stations, and crawl throats into Kappa arteries
+- modified octopoid workers pass through support-rig prep, humidity and oxygenation checks, harness staging racks, and crawl throats into Kappa arteries
 - supervisors watch from a glassed Kappa operations gallery connected by badge route to the spoke-base control deck
 - security arrives through quick-response shafts or protected catwalks
 - ALF organizers plausibly move through maintenance coordinator access, crew trust, and the parts of the route where countability has cracks
