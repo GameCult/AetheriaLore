@@ -192,6 +192,16 @@ A manifold room exists where flows branch, cross boundaries, change grade, or ne
 
 A service ring is a maintained circuit around a repeated subsystem: pressure cluster, spoke base, radiator trunk, industrial cell, shell segment, or utility bundle. It lets crews reach repeated parts without cutting across public space each time.
 
+### Industrial Spoke Manifold Rings
+
+Industrial spoke districts commonly use standardized manifold service rings where air, pressure buffering, condensate, coolant, data, and authority routes have to meet under inspection. The ring is local to the manifold cluster. It is not a circumferential ring around the whole habitat.
+
+The usual geometry is a human-scale loop around a dense equipment island. The loop-inner side faces the maintainable skin of the machinery: valve trees, route screens, sensor cabinets, removable plates, access ports, bypass cuffs, and crawl throat mouths. The loop-outer side carries worker staging: anchor rails, carts, lockers, break ledges, rescue gear, and hatches back toward the yard. A raised operations gallery or short supervisor catwalk often watches the primary manifold segment, while the far loop is partly blocked by the equipment island and must be covered by cameras, badge logs, or telemetry.
+
+Local loop-inner and loop-outer are not Bloom inward and Bloom outward. A worker can enter an access port by moving locally inward into the equipment island, then follow a service artery that turns Bloom-outward into shell layers, seal lungs, pressure laminates, coolant pockets, or inspection voids.
+
+Service rings of this type often carry local letter or family names. In the Pallas yard example below, **Kappa** names the specific manifold service ring around one seal-air-thermal cluster. Kappa-7 names one access route on that ring, not the whole room and not a habitat-scale circuit.
+
 ### Crawl Throats
 
 A crawl throat transitions from human-scale access to smaller service arteries. It branches from a gallery, manifold room, ring, rib pocket, floor hatch, ceiling return, or pressure bulkhead.
@@ -230,7 +240,7 @@ The [[Pallas Species Strikes]] belong in the seam where AU customization, BioEle
 
 A Pallas-style AU maintenance yard sits beneath or beside an industrial surface district near a spoke-base logistics zone. The yard is inside the broad habitat envelope but divided by local service cells, industrial airflow zones, and emergency shutters. Hubward and spoke-side routes bring managers, inspectors, parts, and authority. Outward routes disappear into the structural shell.
 
-**Service Ring Kappa** is the human-scale circuit around a seal-air-thermal cluster serving that yard segment. Kappa stabilizes pressure and airflow when equipment cycles, hatches open, industrial fans change load, or local pressure transients move through the utility layer. It also carries condensate and coolant interfaces because air handling creates heat and water management problems. The systems are adjacent for engineering reasons. AU keeps them bundled because route length costs money.
+In this yard, **Service Ring Kappa** is the specific human-scale manifold service ring around a seal-air-thermal cluster serving that yard segment. Kappa stabilizes pressure and airflow when equipment cycles, hatches open, industrial fans change load, or local pressure transients move through the utility layer. It also carries condensate and coolant interfaces because air handling creates heat and water management problems. The systems are adjacent for engineering reasons. AU keeps them bundled because route length costs money.
 
 The space has distinct paths:
 
