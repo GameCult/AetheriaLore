@@ -37,6 +37,14 @@ Model the Aetheria vault and site topology before site edits, then propose one s
 Hard boundaries:
 
 - Do not edit `Aetheria/` or `site/` during the first modeling pass.
+- Do not inspect or edit any other Epiphany workspace. If another swarm member
+  must change its codebase, ask its coordinator through the swarm communication
+  lane and wait for a callback.
+- Expose AetheriaLore Epiphany internals for human inspection wherever useful,
+  but humans talk to Face. Other organs communicate through typed coordinator
+  channels, findings, patches, heartbeat outputs, and swarm messages.
+- Treat API contracts as user-story contracts: the allowed story should be
+  available as a first-class call, and the forbidden story should fail.
 - Do not import private brainstorming as public roadmap without marking it private/stale.
 - Do not treat old planning docs as active marching orders.
 - Do not store lore facts in role memory.

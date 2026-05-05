@@ -13,6 +13,20 @@ This repository is an Obsidian vault for the Aetheria setting. Contributions sho
 - Favor creating or strengthening links between notes over repeating the same explanation in multiple places.
 - Avoid YAML frontmatter unless the repository begins using it consistently in the future.
 
+## Epiphany Swarm Boundary
+
+- This workspace may expose its Epiphany internals for inspection: state,
+  evidence, graph/model material, role memories, artifacts, and heartbeat output
+  are valid operator surfaces.
+- Another Epiphany may not inspect or edit this vault directly, and this
+  Epiphany may not inspect or edit another workspace. Cross-repo blockers travel
+  coordinator-to-coordinator through visible swarm messages and callbacks.
+- Humans converse with Face. Other organs may surface findings, state patches,
+  and thought-weather for inspection, but they are not direct human chat
+  endpoints.
+- API affordances should mirror that story: asking is first-class; rummaging
+  across workspace borders should fail.
+
 ## Writing Style
 
 - Write in clear, polished Markdown prose.
