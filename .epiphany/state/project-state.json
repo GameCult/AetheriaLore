@@ -1,0 +1,319 @@
+{
+  "schema_version": "epiphany.workspace_state.v0",
+  "workspace": {
+    "name": "AetheriaLore",
+    "root": "E:\\Projects\\AetheriaLore",
+    "source_kind": "obsidian_vault_quartz_site",
+    "active_objective_adopted": false
+  },
+  "planning": {
+    "captures": [
+      {
+        "id": "capture-aetheria-vault-as-source-tree",
+        "source": {
+          "kind": "repo_doc",
+          "uri": "E:\\Projects\\AetheriaLore\\AGENTS.md",
+          "imported_at": "2026-05-05T13:45:00+00:00",
+          "external_id": "AetheriaLore:AGENTS.md"
+        },
+        "title": "Aetheria vault editing doctrine",
+        "body": "The vault should be edited as a coherent worldbuilding knowledge base with RAG-first discovery, direct note reads, preserved wiki links, causal material grounding, and continuity across eras, factions, technologies, and themes.",
+        "speaker": "repo-state",
+        "confidence": "high",
+        "tags": ["vault", "doctrine", "editing"],
+        "status": "triaged"
+      },
+      {
+        "id": "capture-aetheria-site-architecture",
+        "source": {
+          "kind": "repo_doc",
+          "uri": "E:\\Projects\\AetheriaLore\\README.md",
+          "imported_at": "2026-05-05T13:45:00+00:00",
+          "external_id": "AetheriaLore:README.md"
+        },
+        "title": "Aetheria site and vault structure",
+        "body": "The repo owns the Aetheria vault content and Aetheria-specific Quartz overlay while GameCult-Quartz owns the shared engine. Generated output lives under quartz-site/public.",
+        "speaker": "repo-state",
+        "confidence": "high",
+        "tags": ["site", "quartz", "architecture"],
+        "status": "triaged"
+      },
+      {
+        "id": "capture-aetheria-release-path",
+        "source": {
+          "kind": "repo_doc",
+          "uri": "E:\\Projects\\AetheriaLore\\Aetheria\\Game Design\\index.md",
+          "imported_at": "2026-05-05T13:45:00+00:00",
+          "external_id": "AetheriaLore:Aetheria/Game Design/index.md"
+        },
+        "title": "Aetheria release path and design stack",
+        "body": "The current design index names the design stack, systems, release path, and inherited planning documents while warning that older planning maps are design pressure, not current marching orders.",
+        "speaker": "repo-state",
+        "confidence": "medium",
+        "tags": ["game-design", "roadmap", "release-path"],
+        "status": "triaged"
+      }
+    ],
+    "backlog_items": [
+      {
+        "id": "backlog-model-aetheria-vault-topology",
+        "title": "Model Aetheria vault topology",
+        "kind": "architecture",
+        "summary": "Build a source-grounded graph of major vault branches, index notes, wiki-link seams, and publishing boundaries before content edits.",
+        "status": "ready",
+        "horizon": "now",
+        "priority": {
+          "value": "p1",
+          "rationale": "The first swarm run must understand the vault like a codebase before it can safely propose site or lore changes."
+        },
+        "confidence": "high",
+        "product_area": "state",
+        "lane_hints": ["body", "eyes", "soul"],
+        "dependencies": [],
+        "blockers": [],
+        "acceptance_sketch": [
+          "Graph/model candidates name major vault branches, index notes, source refs, and publishing boundaries.",
+          "Modeling uses RAG plus direct note reads."
+        ],
+        "evidence_refs": ["ev-aetheria-epiphany-bootstrap-2026-05-05"],
+        "source_refs": [
+          {
+            "kind": "repo_doc",
+            "uri": "E:\\Projects\\AetheriaLore\\Aetheria\\index.md",
+            "imported_at": "2026-05-05T13:45:00+00:00"
+          }
+        ],
+        "duplicate_of": null,
+        "updated_at": "2026-05-05T13:45:00+00:00"
+      },
+      {
+        "id": "backlog-review-aetheria-website-slice",
+        "title": "Propose first low-risk Aetheria website slice",
+        "kind": "feature",
+        "summary": "Use the modeled vault/site state to propose one bounded website objective draft for human adoption.",
+        "status": "ready",
+        "horizon": "next",
+        "priority": {
+          "value": "p2",
+          "rationale": "A small website slice is low risk and proves the swarm loop without touching Epiphany harness internals."
+        },
+        "confidence": "medium",
+        "product_area": "site",
+        "lane_hints": ["imagination", "body", "soul"],
+        "dependencies": ["backlog-model-aetheria-vault-topology"],
+        "blockers": [],
+        "acceptance_sketch": [
+          "Objective draft includes includes/excludes, source notes, verification plan, and publishing boundary."
+        ],
+        "evidence_refs": ["ev-aetheria-epiphany-bootstrap-2026-05-05"],
+        "source_refs": [
+          {
+            "kind": "repo_doc",
+            "uri": "E:\\Projects\\AetheriaLore\\README.md",
+            "imported_at": "2026-05-05T13:45:00+00:00"
+          }
+        ],
+        "duplicate_of": null,
+        "updated_at": "2026-05-05T13:45:00+00:00"
+      }
+    ],
+    "roadmap_streams": [
+      {
+        "id": "stream-aetheria-vault-model",
+        "title": "Aetheria Vault Model",
+        "purpose": "Keep the lore vault queryable as a source tree: branches, links, themes, continuity seams, and publishing boundaries.",
+        "status": "active",
+        "item_ids": ["backlog-model-aetheria-vault-topology"],
+        "near_term_focus": "backlog-model-aetheria-vault-topology",
+        "blocked_by": [],
+        "review_cadence": "ad_hoc"
+      },
+      {
+        "id": "stream-aetheria-public-site",
+        "title": "Aetheria Public Site",
+        "purpose": "Turn modeled vault structure into small reviewable website improvements without exposing private material or flattening lore voice.",
+        "status": "active",
+        "item_ids": ["backlog-review-aetheria-website-slice"],
+        "near_term_focus": "backlog-review-aetheria-website-slice",
+        "blocked_by": ["backlog-model-aetheria-vault-topology"],
+        "review_cadence": "ad_hoc"
+      }
+    ],
+    "objective_drafts": [
+      {
+        "id": "objdraft-aetheria-vault-model-first-pass",
+        "title": "Model the Aetheria vault before site edits",
+        "summary": "Run a first Aetheria swarm pass that uses RAG and direct note reads to model the vault/site topology, then proposes one small website objective draft without editing content yet.",
+        "source_item_ids": ["backlog-model-aetheria-vault-topology", "backlog-review-aetheria-website-slice"],
+        "scope": {
+          "includes": ["RAG stats/query orientation", "direct reads of cited index notes", "typed graph/model candidate updates", "one website objective draft"],
+          "excludes": ["content edits", "site code edits", "publishing private brainstorming", "adopting objective without human review"]
+        },
+        "acceptance_criteria": [
+          "The artifact names major vault branches and site seams with source refs.",
+          "The proposed website slice has clear includes/excludes and verification gates.",
+          "No Markdown/site files outside `.epiphany` are edited."
+        ],
+        "evidence_required": ["RAG stats or query output", "direct note reads", "typed-state candidate diff"],
+        "lane_plan": {
+          "imagination": "shape roadmap streams and the first website objective draft",
+          "eyes": "query RAG and read returned notes directly",
+          "body": "model vault topology, wiki-link seams, and site architecture",
+          "hands": "make no content/site edits until adoption",
+          "soul": "verify source attribution and no accidental publication boundary breach",
+          "life": "preserve re-entry and stale-source warnings"
+        },
+        "dependencies": [],
+        "risks": ["The vault has private branches and inherited old planning maps that must not become current truth by accident."],
+        "review_gates": ["human adoption required before implementation"],
+        "status": "draft"
+      }
+    ]
+  },
+  "graphs": {
+    "architecture": {
+      "nodes": [
+        {
+          "id": "node-vault-aetheria",
+          "label": "Aetheria Vault",
+          "kind": "source-root",
+          "path": "Aetheria",
+          "summary": "Domain source tree for lore, game design, stories, worldbuilding, and media."
+        },
+        {
+          "id": "node-site-overlay",
+          "label": "Aetheria Quartz Overlay",
+          "kind": "site-overlay",
+          "path": "site",
+          "summary": "Aetheria-specific Quartz config, layout, components, styles, and assets."
+        },
+        {
+          "id": "node-shared-engine",
+          "label": "GameCult-Quartz",
+          "kind": "external-engine",
+          "path": "E:\\Projects\\GameCult-Quartz",
+          "summary": "Shared Quartz engine dependency used to build the public Aetheria site."
+        },
+        {
+          "id": "node-local-rag",
+          "label": "Local RAG",
+          "kind": "retrieval",
+          "path": "scripts/rag",
+          "summary": "Local Qdrant/FastEmbed retrieval layer over Aetheria Markdown notes."
+        }
+      ],
+      "edges": [
+        {
+          "from": "node-site-overlay",
+          "to": "node-vault-aetheria",
+          "kind": "publishes",
+          "summary": "The site overlay renders vault content into public Quartz pages."
+        },
+        {
+          "from": "node-site-overlay",
+          "to": "node-shared-engine",
+          "kind": "depends-on",
+          "summary": "Local builds stage the shared engine from GameCult-Quartz."
+        },
+        {
+          "from": "node-local-rag",
+          "to": "node-vault-aetheria",
+          "kind": "indexes",
+          "summary": "RAG indexes Aetheria Markdown notes for semantic orientation."
+        }
+      ]
+    },
+    "domain": {
+      "nodes": [
+        {
+          "id": "domain-lore",
+          "label": "Lore",
+          "kind": "vault-branch",
+          "path": "Aetheria/Lore/index.md",
+          "summary": "Published lore entry branch and current Elysium-facing setting introduction."
+        },
+        {
+          "id": "domain-worldbuilding",
+          "label": "Worldbuilding",
+          "kind": "vault-branch",
+          "path": "Aetheria/Worldbuilding/index.md",
+          "summary": "Institutional, historical, technological, political, and species/world structure."
+        },
+        {
+          "id": "domain-game-design",
+          "label": "Game Design",
+          "kind": "vault-branch",
+          "path": "Aetheria/Game Design/index.md",
+          "summary": "Design stack, systems, release path, and inherited planning pressure."
+        },
+        {
+          "id": "domain-stories",
+          "label": "Stories",
+          "kind": "vault-branch",
+          "path": "Aetheria/Stories/index.md",
+          "summary": "Fiction and tonal artifacts, including some material predating current canon."
+        }
+      ],
+      "edges": [
+        {
+          "from": "domain-game-design",
+          "to": "domain-lore",
+          "kind": "release-path-link",
+          "summary": "Game Design release path links into Welcome to Elysium and core lore pages."
+        },
+        {
+          "from": "domain-worldbuilding",
+          "to": "domain-lore",
+          "kind": "contextualizes",
+          "summary": "Worldbuilding provides institutional and historical logic behind lore-facing claims."
+        },
+        {
+          "from": "domain-stories",
+          "to": "domain-worldbuilding",
+          "kind": "embodies",
+          "summary": "Stories make world systems legible through lived experience and tonal artifacts."
+        }
+      ]
+    }
+  },
+  "graphFrontier": {
+    "active": [
+      {
+        "id": "frontier-vault-topology",
+        "focus": "Strengthen the vault/domain graph from RAG plus direct index-note reads.",
+        "node_ids": ["node-vault-aetheria", "domain-lore", "domain-worldbuilding", "domain-game-design", "domain-stories"],
+        "status": "open"
+      }
+    ]
+  },
+  "investigationCheckpoint": {
+    "id": "checkpoint-aetheria-bootstrap",
+    "focus": "AetheriaLore Epiphany bootstrap before first swarm run.",
+    "source_refs": [
+      "AGENTS.md",
+      "README.md",
+      "scripts/rag/README.md",
+      "Aetheria/index.md",
+      "Aetheria/Game Design/index.md",
+      "Aetheria/Worldbuilding/index.md",
+      "Aetheria/Stories/index.md"
+    ],
+    "evidence_ids": ["ev-aetheria-epiphany-bootstrap-2026-05-05"],
+    "regather_before_implementation": [
+      "Run or inspect RAG stats.",
+      "Query for the proposed website slice topic.",
+      "Open returned notes directly.",
+      "Check Quartz build path before claiming rendered-site truth."
+    ],
+    "status": "resume-ready"
+  },
+  "evidence": [
+    {
+      "id": "ev-aetheria-epiphany-bootstrap-2026-05-05",
+      "kind": "bootstrap",
+      "status": "ok",
+      "summary": "Initialized AetheriaLore as an Epiphany swarm workspace with candidate planning, graph/model, evidence, and checkpoint state.",
+      "source_refs": ["AGENTS.md", "README.md", "scripts/rag/README.md"]
+    }
+  ]
+}

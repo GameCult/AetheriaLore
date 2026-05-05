@@ -1,0 +1,57 @@
+workspace:
+  name: AetheriaLore
+  root: E:\Projects\AetheriaLore
+  kind: epiphany_swarm_workspace
+  status: bootstrap
+  purpose: >
+    Bring the Aetheria lore vault and website into Epiphany as a low-risk
+    swarm member. Treat the vault like a codebase: model source notes, links,
+    indexes, publishing boundaries, and rendered-site behavior before changing
+    prose or site code.
+
+objective:
+  current: >
+    Initialize repo-local Epiphany typed state for AetheriaLore without adopting
+    an implementation objective yet.
+  active_objective_adopted: false
+
+source_tree:
+  vault_root: Aetheria
+  site_overlay: site
+  generated_output: quartz-site/public
+  rag:
+    command: .\scripts\rag\rag.ps1
+    index_root: .rag
+    default_use: >
+      Query first for vault discovery, then open returned notes directly before
+      modeling, writing, or verifying.
+
+invariants:
+  - The vault is the domain source tree, not a blob of content.
+  - Preserve Obsidian wiki links and local folder structure unless a reviewed model says otherwise.
+  - Lore claims require source-note references.
+  - Site claims require rendered Quartz/build evidence when practical.
+  - Imported planning stays candidate/draft until human adoption.
+  - Role memory improves lane behavior; it does not store active lore truth.
+  - Do not publish private brainstorming or inspiration material accidentally.
+
+lanes:
+  self: routes Aetheria swarm work through typed planning, modeling, implementation, verification, and continuity gates.
+  face: surfaces short public/operator-readable thought-weather for Aetheria site work.
+  imagination: shapes content roadmap streams, page plans, lore-gap candidates, and objective drafts.
+  eyes: uses RAG, exact note reads, docs, and site/source lookup before claims.
+  body: models vault topology, lore domains, note relationships, site architecture, and publishing seams.
+  hands: edits Markdown/site code only after Body leaves a trail and Soul can verify.
+  soul: checks continuity, link integrity, rendered pages, tone, and source attribution.
+  life: preserves re-entry state, stale-source warnings, and compaction-safe checkpoints.
+
+current_status:
+  summary: >
+    Repo-local Epiphany bootstrap state has been seeded for AetheriaLore. No
+    active implementation objective has been adopted. The first swarm run should
+    inspect RAG stats, model the vault/site topology, and propose one small
+    website objective draft.
+  next_action: >
+    Run an Epiphany migration/modeling pass that reads `.epiphany/state/project-state.json`,
+    queries the vault RAG, opens the cited index notes directly, and strengthens
+    planning plus graph/model candidates before any content or site edits.
