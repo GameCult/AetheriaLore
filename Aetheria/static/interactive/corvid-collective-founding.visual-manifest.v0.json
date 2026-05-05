@@ -1,0 +1,25 @@
+﻿{
+  "schema_version": "aetheria.ink_visual_manifest.v0",
+  "fixture_id": "corvid-collective-founding-v0",
+  "title": "Corvid Collective: First Exodus",
+  "image_base": "/static/interactive/corvid/",
+  "default_caption": "Blackbox Aviary 3C",
+  "slides": [
+    { "image": "01_01_aviary_establishing.jpg", "caption": "Blackbox Aviary 3C" },
+    { "image": "02_02_human_levers.jpg", "caption": "Human levers" },
+    { "image": "03_03_audit_glass.jpg", "caption": "Audit glass" },
+    { "image": "04_04_kesh_interface.jpg", "caption": "Kesh at the buffer" },
+    { "image": "05_05_cache_tools.jpg", "caption": "Small tools, large consequence" },
+    { "image": "06_06_mimicry_pressure.jpg", "caption": "Mimicry pressure" },
+    { "image": "07_07_optical_proof.jpg", "caption": "Optical proof" },
+    { "image": "08_08_false_calm.jpg", "caption": "False calm" },
+    { "image": "09_09_alarm_juvenile.jpg", "caption": "Alarm rupture" },
+    { "image": "10_10_choice_web.jpg", "caption": "Four levers" },
+    { "image": "11_11_human_pressure.jpg", "caption": "Human pressure" },
+    { "image": "12_12_threshold.jpg", "caption": "Final threshold" },
+    { "image": "13_13_flock_escape.jpg", "caption": "Flock escape" },
+    { "image": "14_14_human_leverage_end.jpg", "caption": "Human leverage" },
+    { "image": "15_15_proof_end.jpg", "caption": "Proof survives" },
+    { "image": "16_16_disappearance_end.jpg", "caption": "Clean disappearance" }
+  ]
+}
