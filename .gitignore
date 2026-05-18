@@ -20,6 +20,9 @@ Thumbs.db
 /Aetheria/Inspiration
 /.tools/
 /.npm-cache/
+/.voidbot/birth/
+/.voidbot/logs/
+/.voidbot/**/*.lock
 /.quartz-build/
 /quartz-site/node_modules/
 /quartz-site/public/
