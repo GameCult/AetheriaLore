@@ -41,3 +41,7 @@ Read this branch as linked pressure rather than encyclopedic garnish. Start with
 - [[Worldbuilding/Post-Elysium/Concepts/Aether|Aether]]
 - [[Worldbuilding/Post-Elysium/Concepts/Esper|Esper]]
 - [[Worldbuilding/Post-Elysium/Technology/Necrotech|Necrotech]]
+
+## Character Anchors
+
+- [[Nibu]]
