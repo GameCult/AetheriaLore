@@ -36,6 +36,18 @@ The player should not survive Nibu by being charming once. They survive by learn
 
 This makes her a character note and a design note at the same time. Nibu is not just who she is. She is a way for Aetheria to make intelligence, embodiment, salvage, and reset logic collide in one hostile room.
 
+## Terminus Arc
+
+In the old Terminus shape, Nibu was always closer to the protagonist than the player character. The player supplied hands, risk, and the human interface she could not fully replace. Nibu supplied context, memory, ship intelligence, and the continuity pressure that made repeated runs matter. The current Elysium version should preserve that structure without keeping the older simulation-box machinery.
+
+Her first function is need. Nibu cannot simply leave the broken hangar or junkyard under her own authority. Ship-AI constraints, custody locks, security protocols, damaged infrastructure, and the social fact of being treated as equipment all make a human copilot useful in ways she resents. The relationship begins because she needs a person-shaped credential attached to the parts of the world that refuse to negotiate with a ship-self.
+
+Her arc then unfolds through repetition. Each run toward [[Game Design/End of the Line|Terminus]] is not only a player attempt to survive the route. It is also another pressure test of whether Nibu can collaborate with a human without becoming obedient, sentimental, or merely predatory. Early Nibu is broken, discarded, sharp, and transactional. Big triumphant hero Nibu comes later, if she earns that shape without letting it be handed to her as a redemption prize.
+
+The older idea that Nibu might betray the player works best as a failed-path pressure rather than her default destiny. If she turns on the player, fuses with the machinery, or treats the human only as a disposable exploit, the run proves the old owners right in the ugliest possible way: that she can be brilliant without becoming free. The stronger arc is not that she becomes nice. It is that she learns partnership as a weapon she can choose without mistaking it for submission.
+
+This also explains why Nibu should not be a constant deus ex machina off the ship. She can advise, intrude, route information, and sometimes carry a shard of herself through QuEEN-like interfaces or emergency neural links, but her power outside her body remains limited and costly. The ship is not a costume around her. It is the body she is trying to survive as.
+
 ## Reset Smear
 
 Nibu's relationship with the [[Game Design/Persistent Universe and Reset Loop|reset loop]] is not clean continuity and not adjacent-instance murder. Elysium owns the reset machinery. Nibu survives it strangely because her consciousness smears across nearby versions of herself in adjacent branches, leaving her partly distributed across reachable state-space.
