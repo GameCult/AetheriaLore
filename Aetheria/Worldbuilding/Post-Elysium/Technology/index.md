@@ -15,6 +15,7 @@ This branch follows the technical systems that work on stranger materials while 
 
 - [[Worldbuilding/Post-Elysium/Technology/Aetheric Drive|Aetheric Drive]]
 - [[Worldbuilding/Post-Elysium/Technology/Aethernet|Aethernet]]
+- [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafters]]
 
 ## Cognition And Prediction
 
@@ -32,5 +33,6 @@ This branch follows the technical systems that work on stranger materials while 
 
 - [[Worldbuilding/Post-Elysium/index|Post-Elysium]]
 - [[Worldbuilding/Post-Elysium/Concepts/index|Concepts]]
+- [[Worldbuilding/Post-Elysium/Factions/index|Factions]]
 - [[Worldbuilding/Post-Elysium/Species/index|Species]]
 - [[Worldbuilding/Post-Elysium/Concepts/Aether|Aether]]

@@ -15,6 +15,7 @@ Use this branch to follow how Aetheria's recurring pressures return under sharpe
 
 - [[Worldbuilding/Post-Elysium/Concepts/index|Concepts]]
 - [[Worldbuilding/Post-Elysium/Technology/index|Technology]]
+- [[Worldbuilding/Post-Elysium/Factions/index|Factions]]
 - [[Worldbuilding/Post-Elysium/Species/index|Species]]
 - [[Worldbuilding/Post-Elysium/Concepts/Aether|Aether]]
 - [[Worldbuilding/Post-Elysium/Concepts/Esper|Esper]]
@@ -32,6 +33,7 @@ Use this branch to follow how Aetheria's recurring pressures return under sharpe
 - [[Worldbuilding/Post-Elysium/Technology/Oracular Computing|Oracular Computing]]
 - [[Worldbuilding/Post-Elysium/Technology/Aetheric Drive|Aetheric Drive]]
 - [[Worldbuilding/Post-Elysium/Technology/Aethernet|Aethernet]]
+- [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafters]]
 
 ## Lives Under New Conditions
 
