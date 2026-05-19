@@ -29,6 +29,14 @@ Insurers pay most parallax auditors directly or through certification pools beca
 
 Their reports also disappear. Militaries bury findings that would make an operation look retroactively unauthorized. Ports suppress contamination clusters to protect route confidence. Insurers redact conclusions that would imply a whole class of policies is mispriced. Salvagers buy quiet amendments when a disputed wreck is worth more than the truth. Parallax auditors survive by making reports precise enough to hurt and negotiable enough to sell.
 
+### Clearance Laundering
+
+Where parallax auditors can ruin movement, other people learn to sell survival. The gray market around them is called clearance laundering: corrupted route-integrity desks, salvage brokers, port fixers, registry clerks, ex-auditors, spoof engineers, and crews who treat audit signatures as another hostile field to bend. They do not need to prove a ship clean. They need to make it clean enough for the next gate, policy, title claim, or command check to accept the risk.
+
+Their tools are procedural as much as technical. They buy quiet clearance windows from port staff, split a contaminated route into several smaller anomalies, attach dirty custody to expendable shell owners, flood an insurer with plausible spoofing evidence, or poison an audit packet so that every conclusion becomes contestable. Smugglers package this as a service for crews with bad histories. Salvagers use it to move title before a rival can freeze the claim. Insurers sometimes denounce the practice while steering favored clients toward the least embarrassing fixers.
+
+Clearance laundering fails when it normalizes contradictions faster than auditors can quarantine them. A ship with a laundered access history may pass three ports and then become impossible to insure at the fourth. A salvaged component may carry a cleaned title while preserving a contaminated custody echo. A command attestation may be patched well enough to open doors and badly enough to make every later order look suspect. The market exists because parallax auditors are expensive and often predatory. It becomes catastrophic when everyone starts treating a poisoned record as just another negotiable fee.
+
 ### Founding Scandal
 
 The profession became necessary after the Kestrel Palisade claim, a salvage dispute in which three licensed crews presented mutually valid custody chains for the same wreck, each supported by ship-auth logs, beacon captures, and insurer telemetry. The first court treated it as coordinated fraud. The second treated it as sensor corruption. The third tried to award title by arrival time and discovered that two arrivals depended on each other in opposite directions.
