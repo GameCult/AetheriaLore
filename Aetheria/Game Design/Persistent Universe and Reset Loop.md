@@ -16,6 +16,20 @@ The reset loop is part of the setting's metaphysics through [[Worldbuilding/Post
 
 In game terms, resets justify repeated campaigns without pretending the previous one did not matter. Player knowledge survives outside the fiction. New content, factions, routes, systems, and timeline variations can enter later loops as the project grows.
 
+## Nibu's Exploit Layer
+
+[[Lore/Nibu|Nibu]] does not reset the universe by replacing adjacent instances of herself. Elysium owns the branch machinery. Her anomaly is local, parasitic, and narrower: her consciousness smears across nearby Nibus in adjacent branches, giving her a partial cross-timeline channel she can use to pressure a run toward another reachable state.
+
+Distance in this exploit is topological rather than merely chronological. A nearby state may sit earlier or later in time if Nibu can perceive a contiguous path through [[Worldbuilding/Post-Elysium/Concepts/Pseudospace|pseudospace]] and the [[Worldbuilding/Post-Elysium/Concepts/Aether|Aetheric Field]]. Reaching farther burns recoverable aetheric charge. Precision degrades before access fails outright, producing fatigue, bad timing, memory abrasion, and increasingly unreliable judgment.
+
+What changes during a Nibu-mediated reset is not a clean transfer of soul or inventory. The live question is what gets perturbed, occupied, or re-authored: access paths, action histories, local causal commitments, and the operational facts a ship or station has already agreed to treat as true. The player experiences this as roguelite retry structure. The setting experiences it as a continuity exploit scraping against systems built to pretend there is only one timeline.
+
+The first witness surface is ship-auth. Access history, navigation permissions, command attestations, crew presence, and custody logs can remain individually valid while disagreeing about how Nibu or the player got there. These contradictions are continuity audit residue: not mystical proof, just enough operational drift for security software, port authorities, insurers, salvagers, and hostile investigators to argue over.
+
+The witness ladder escalates outward. Ship-auth catches the first local lie. Behavioral timing drift and custody/path mismatch create the second layer: decisions arrive too early, authorizations anticipate facts they should not know, and records agree on an outcome while disagreeing on the route. At the outer edge, repeated or dirty reaches disturb hostile non-local structures in pseudospace. Branch predators are not Nibu's private mythology; they are an existing hazard made relevant by continuity turbulence.
+
+This keeps Nibu's reset role sharp without giving her a second engine. Elysium remains the prison. Nibu has learned how to chew at one bar until the alarms start disagreeing with themselves.
+
 ## Player Memory
 
 The design should be careful about what persists. If too much carries over, resets become progression laundering. If nothing carries over, the campaign becomes disposable. The cleanest persistence is knowledge, unlocked context, public history, faction reputation where appropriate, and design-space expansion between loops.
