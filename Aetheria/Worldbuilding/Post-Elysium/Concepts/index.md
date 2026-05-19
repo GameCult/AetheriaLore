@@ -16,6 +16,7 @@ Use this branch when the setting's later technologies, species politics, or spir
 - [[Worldbuilding/Post-Elysium/Concepts/Aether|Aether]]
 - [[Worldbuilding/Post-Elysium/Concepts/Esper|Esper]]
 - [[Worldbuilding/Post-Elysium/Concepts/Spirits|Spirits]]
+- [[Worldbuilding/Post-Elysium/Concepts/Ship Mind Custody|Ship Mind Custody]]
 
 ## Space, Time, And Order
 

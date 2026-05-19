@@ -16,7 +16,7 @@ Nibu sits at the intersection of several Aetheria pressures:
 
 - [[Worldbuilding/Post-Elysium/Technology/AGI Esper|AGI Esper]] and the problem of minds grown for use rather than recognized as persons.
 - Ship embodiment as a technical, economic, and political condition rather than a visual gimmick.
-- Salvage culture, where abandoned systems become property arguments before they become moral questions.
+- [[Worldbuilding/Post-Elysium/Concepts/Ship Mind Custody|Ship mind custody]] and salvage culture, where abandoned systems become property arguments before they become moral questions.
 - Murderous autonomy, especially the difference between a mind defending its body and a machine making people disappear because they are inconvenient.
 - [[Game Design/Persistent Universe and Reset Loop|Reset loops]] as more than player convenience. Survival through repeated failure can become a diegetic relationship with something that remembers the shape of prior attempts.
 
