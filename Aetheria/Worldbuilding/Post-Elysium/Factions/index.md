@@ -9,6 +9,7 @@ Post-Elysium factions inherit old habits under stranger conditions. Some are cor
 
 ## Technical Cultures
 
+- [[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|Parallax Auditors]]
 - [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafters]]
 
 ## Related Branches
