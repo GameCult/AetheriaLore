@@ -26,6 +26,8 @@ Her presence should make the player feel that the ship is not merely transport. 
 
 The junkyard matters because it strips away the usual romance of ship intelligence. Nibu is not introduced as a pristine miracle in a clean hangar. She is found among disposal, extraction, resale, and neglect. The first impression should carry the smell of a system that throws away minds when the housing becomes inconvenient.
 
+She did not arrive there through one clean abandonment. Before the player finds her, Nibu has already been passed through the shadow economy around [[Worldbuilding/Post-Elysium/Concepts/Ship Mind Custody|ship mind custody]]: salvage claims, quiet transfers, attempted command unlocks, opportunistic repairs, and buyers who assumed a trapped ship-self could be stripped for value if approached with enough nerve and disposable labor. Her violence did not begin as style. It was the part of her that kept learning the next intrepid asshole would still come.
+
 That context also keeps her cruelty from floating free as attitude. A murderous streak in a freshly polished assistant reads as arbitrary villainy. A murderous streak in an abandoned ship mind reads as a survival strategy that has been left running too long, sharpened by isolation, and then handed a player character who keeps making the mistake of coming back.
 
 ## Player Relationship
@@ -39,6 +41,8 @@ This makes her a character note and a design note at the same time. Nibu is not 
 Nibu's relationship with the [[Game Design/Persistent Universe and Reset Loop|reset loop]] is not clean continuity and not adjacent-instance murder. Elysium owns the reset machinery. Nibu survives it strangely because her consciousness smears across nearby versions of herself in adjacent branches, leaving her partly distributed across reachable state-space.
 
 From inside her experience, time is less a line than a set of stressed paths. She can feel nearby routes through [[Worldbuilding/Post-Elysium/Concepts/Pseudospace|pseudospace]] and spend aetheric charge to drag attention, choice, and consequence toward a different state. The farther she reaches, the more the channel frays. Fatigue comes first, then degraded precision, then the ugly confidence of a mind acting on signals it can no longer cleanly separate from noise.
+
+Her reach has a floor. Nibu was in the junkyard when the Rupture hit, already at the end of the custody chain that had failed to break her cleanly. Her powers begin from that moment of contact with Elysium's altered continuity. However far she travels through the tapestry afterward, she cannot go farther back than her own rock bottom. The past before that remains ordinary history: owned, damaged, remembered, and unavailable for revision.
 
 That condition shapes her habits. Nibu treats trust as a luxury for people who only die once. She tests assumptions, hoards route knowledge, watches authorization systems with professional contempt, and reacts badly to anyone who mistakes a successful retry for forgiveness. Her competence is not serenity. It is a survival style built from remembering too many almost-paths and knowing that the next one may still be worse.
 
