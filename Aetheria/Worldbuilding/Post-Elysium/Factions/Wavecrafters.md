@@ -30,6 +30,14 @@ Wavecrafter commercial territory is difficult to map cleanly. Some of their most
 
 Sales work inside these institutions is notoriously miserable. Representatives are sent to translate ecstatic workshop doctrine into procurement language for shipyards, militaries, insurers, smugglers, and station authorities who all believe they are being overcharged. They usually are. The price includes the part nobody else can safely do.
 
+### Counterweights
+
+The wavecrafter monopoly has enemies because dependence on their tuning culture is operationally humiliating. Shipyards resent paying ritual premiums on components they cannot independently certify. Military procurement offices hate discovering that a weapons platform can be delayed by a sectarian audit. Insurers hate underwriting devices whose tolerances are described in language that sounds devotional until it becomes evidence after a disaster.
+
+The most coherent counter-organ is not a single regulator. It is a rough alliance of standards offices, rival engineering blocs, insurers, fleet auditors, and breakaway ex-wavecrafters who want wavecrafting made legible enough to price, copy, litigate, or sabotage. They publish interface standards, demand black-box inspection rights, fund conventional metamaterial research, and maintain registries of failures that wavecrafter houses would rather dissolve into doctrine. Smugglers and black-market refitters orbit the same pressure system, stripping certified parts, cloning tolerances, and selling illegal retunes to crews priced out of official service.
+
+This opposition does not share one moral position. Regulators want survivable infrastructure. Rivals want market entry. Insurers want liability hooks. Militaries want procurement discipline without losing access to the best weapons and stealth surfaces. Ex-wavecrafters want revenge, reform, or proof that the old masters were hiding craft behind theatre. Together they form the audit pressure around the monopoly: never strong enough to replace wavecrafters, never weak enough to let them sell mystery without paperwork.
+
 ### Overreach
 
 Wavecrafting becomes dangerous when practitioners stop shaping local propagation and start forcing distant states to answer. At ordinary industrial levels the craft bends emissions, reflections, coupling, and drag. At higher energies, causal order begins to fray. Effects arrive before their causes. Nearby timelines leak partial causal chains into the working field. Instruments report results that are locally valid and globally deranged.
