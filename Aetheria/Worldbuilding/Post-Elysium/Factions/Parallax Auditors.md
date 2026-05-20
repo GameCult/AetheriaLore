@@ -37,6 +37,16 @@ Their tools are procedural as much as technical. They buy quiet clearance window
 
 Clearance laundering fails when it normalizes contradictions faster than auditors can quarantine them. A ship with a laundered access history may pass three ports and then become impossible to insure at the fourth. A salvaged component may carry a cleaned title while preserving a contaminated custody echo. A command attestation may be patched well enough to open doors and badly enough to make every later order look suspect. The market exists because parallax auditors are expensive and often predatory. It becomes catastrophic when everyone starts treating a poisoned record as just another negotiable fee.
 
+### Residue Crews
+
+Clearance laundering does not restore a clean history. It creates people and ships whose contamination has been priced, deferred, and made useful. Residue crews are the captains, ship-selves, salvagers, bonded techs, and fugitives who can still move under dirty clearance while losing access to ordinary routes, ordinary premiums, and ordinary trust.
+
+They get the work clean registries would rather not see. Contaminated-route probes, disputed-wreck recovery, quarantine transfers, hostile salvage, port-to-port custody errands, black-clinic transport, emergency repairs on ships with poisoned access histories, and courier runs where the payer needs plausible deniability all fall toward crews whose records already look damaged. They are safe enough for contaminated space and unsafe enough for almost everything else.
+
+That makes clearance laundering a labor discipline rather than a paperwork trick. A laundered berth buys departure, not belonging. Each patched access history, shell-owner transfer, and contested insurance note becomes another reason the next clean gate can demand a worse bond. Ports treat residue crews as disposable risk buffers. Insurers use them to move losses off respectable ledgers. Salvagers hire them for jobs that would contaminate a licensed operator's chain of title. Fixers sell them survival one clearance window at a time.
+
+The failure mode is a caste that can never finish paying for its own suspicion. When a residue crew survives too many dirty routes, auditors cite the pattern as evidence that the crew belongs there. When they fail, insurers call it assumed risk. The market needs them contaminated, mobile, and never quite clean enough to leave.
+
 ### Founding Scandal
 
 The profession became necessary after the Kestrel Palisade claim, a salvage dispute in which three licensed crews presented mutually valid custody chains for the same wreck, each supported by ship-auth logs, beacon captures, and insurer telemetry. The first court treated it as coordinated fraud. The second treated it as sensor corruption. The third tried to award title by arrival time and discovered that two arrivals depended on each other in opposite directions.
