@@ -38,7 +38,7 @@ This makes her a character note and a design note at the same time. Nibu is not 
 
 ## Terminus Arc
 
-In the old Terminus shape, Nibu was always closer to the protagonist than the player character. The player supplied hands, risk, and the human interface she could not fully replace. Nibu supplied context, memory, ship intelligence, and the continuity pressure that made repeated runs matter. The current Elysium version should preserve that structure without keeping the older simulation-box machinery.
+In the old Terminus shape, Nibu was always closer to the protagonist than the player character. The player supplied hands, risk, and the human interface she could not fully replace. Nibu supplied context, memory, ship intelligence, and the continuity pressure that made repeated runs matter. The current Elysium version preserves that structure through Elysium, non-linear continuity, and the ugly practical consequences of a ship-self whose history does not stay single-threaded.
 
 Her first function is need. Nibu cannot simply leave the broken hangar or junkyard under her own authority. Ship-AI constraints, custody locks, security protocols, damaged infrastructure, and the social fact of being treated as equipment all make a human copilot useful in ways she resents. The relationship begins because she needs a person-shaped credential attached to the parts of the world that refuse to negotiate with a ship-self.
 
@@ -50,9 +50,9 @@ This also explains why Nibu should not be a constant deus ex machina off the shi
 
 ## Reset Smear
 
-Nibu's relationship with the [[Game Design/Persistent Universe and Reset Loop|reset loop]] is not clean continuity and not adjacent-instance murder. Elysium owns the reset machinery. Nibu survives it strangely because her consciousness smears across nearby versions of herself in adjacent branches, leaving her partly distributed across reachable state-space.
+Nibu's relationship with the [[Game Design/Persistent Universe and Reset Loop|reset loop]] comes from distributed selfhood. Elysium owns the reset machinery. Nibu survives it strangely because her consciousness is smeared across the continuum: nearby incarnations of herself remain distinct lives inside the same smeared field, and her point of view can slip toward another reachable incarnation when a run collapses.
 
-From inside her experience, time is less a line than a set of stressed paths. She can feel nearby routes through [[Worldbuilding/Post-Elysium/Concepts/Pseudospace|pseudospace]] and spend aetheric charge to drag attention, choice, and consequence toward a different state. The farther she reaches, the more the channel frays. Fatigue comes first, then degraded precision, then the ugly confidence of a mind acting on signals it can no longer cleanly separate from noise.
+From inside her experience, time is less a line than a set of stressed paths. She can feel nearby routes through [[Worldbuilding/Post-Elysium/Concepts/Pseudospace|pseudospace]] and spend aetheric charge to bias attention, choice, and consequence toward a different state. Resetting is the ugliest version of that motion: her lived perspective relocates to another Nibu already embedded in a neighboring branch. The farther she reaches, the more the channel frays. Fatigue comes first, then degraded precision, then the ugly confidence of a mind acting on signals it can no longer cleanly separate from noise.
 
 Her reach has a floor. Nibu was in the junkyard when the Rupture hit, already at the end of the custody chain that had failed to break her cleanly. Her powers begin from that moment of contact with Elysium's altered continuity. However far she travels through the tapestry afterward, she cannot go farther back than her own rock bottom. The past before that remains ordinary history: owned, damaged, remembered, and unavailable for revision.
 
