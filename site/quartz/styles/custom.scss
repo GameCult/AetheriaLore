@@ -405,6 +405,74 @@ article > h6 {
   color: var(--dark);
 }
 
+.aetheria-article-index {
+  padding: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.aetheria-article-card-list {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.aetheria-article-card {
+  margin: 0;
+  border-radius: 18px;
+  border: 1px solid rgba(89, 183, 255, 0.1);
+  background:
+    radial-gradient(circle at 90% 12%, rgba(255, 138, 42, 0.09), transparent 24%),
+    linear-gradient(135deg, rgba(12, 19, 29, 0.92), rgba(8, 14, 22, 0.9));
+  box-shadow:
+    0 16px 32px rgba(0, 0, 0, 0.18),
+    inset 0 1px 0 rgba(255, 255, 255, 0.025);
+}
+
+.aetheria-article-card-link {
+  display: grid;
+  gap: 0.5rem;
+  padding: 1rem 1.05rem;
+  color: inherit;
+}
+
+.aetheria-article-card-head {
+  display: grid;
+  gap: 0.25rem;
+}
+
+.aetheria-article-card h2 {
+  margin: 0;
+  color: #fff3e8;
+  font-family: var(--titleFont);
+  font-size: 1.12rem;
+  font-weight: 300;
+  letter-spacing: 0.03em;
+  line-height: 1.2;
+}
+
+.aetheria-article-card-meta,
+.aetheria-article-card-description {
+  margin: 0;
+}
+
+.aetheria-article-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  color: rgba(255, 138, 42, 0.9);
+  font-family: var(--titleFont);
+  font-size: 0.78rem;
+  font-weight: 300;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.aetheria-article-card-description {
+  color: rgba(220, 231, 246, 0.84);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
 .aetheria-home-hero {
   display: grid;
   grid-template-columns: minmax(0, 1.15fr) minmax(280px, 0.85fr);

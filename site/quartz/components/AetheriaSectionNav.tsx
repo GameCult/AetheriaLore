@@ -56,6 +56,35 @@ const sections: Section[] = [
     ],
   },
   {
+    matches: ["Articles"],
+    eyebrow: "Articles",
+    title: "Arguments with authors attached",
+    description:
+      "Bylined essays and field notes live here when the thought is about Aetheria itself rather than general GameCult process.",
+    links: [
+      {
+        label: "Articles",
+        slug: "Articles/index" as FullSlug,
+        summary: "The automatically gathered Aetheria article index.",
+      },
+      {
+        label: "Nibu",
+        slug: "Lore/Nibu" as FullSlug,
+        summary: "The ship mind most likely to file the sharp notes.",
+      },
+      {
+        label: "Persistent Universe",
+        slug: "Game-Design/Persistent-Universe-and-Reset-Loop" as FullSlug,
+        summary: "Reset mechanics, residue, and continuity pressure.",
+      },
+      {
+        label: "Parallax Auditors",
+        slug: "Worldbuilding/Post-Elysium/Factions/Parallax-Auditors" as FullSlug,
+        summary: "The institution nearest the timeline wound.",
+      },
+    ],
+  },
+  {
     matches: ["Worldbuilding"],
     eyebrow: "Worldbuilding",
     title: "History, institutions, and transformed conditions",

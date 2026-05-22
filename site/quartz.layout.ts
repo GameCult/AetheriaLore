@@ -39,7 +39,20 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => !page.fileData.slug?.endsWith("/index") && page.fileData.slug !== "index",
     }),
   ],
-  afterBody: [],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.AutoIndexFolder({
+        rootSlug: "Articles",
+        classPrefix: "aetheria-article",
+        hideFrontmatterKey: "hideFromArticleIndex",
+        defaultAuthor: "Aetheria",
+        emptyDescription: "A field note with teeth, filed before it could become polite.",
+        sidebarTagline: "Bylined field notes, arguments, and interpretive knives.",
+        sidebarSummary: (count) => `${count} Aetheria articles, newest pressure first.`,
+      }),
+      condition: (page) => page.fileData.slug === "Articles/index",
+    }),
+  ],
   left: [AetheriaOverviewSidebar()],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),

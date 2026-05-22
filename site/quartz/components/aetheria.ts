@@ -2,6 +2,7 @@ import { Element, ElementContent, Root } from "hast"
 import { toString } from "hast-util-to-string"
 import { QuartzPluginData } from "../plugins/vfile"
 import { FullSlug, simplifySlug, splitAnchor, stripSlashes } from "../util/path"
+import { buildAutoIndexSidebarData } from "./AutoIndexFolder"
 
 export type AetheriaSidebarLink = {
   label: string
@@ -343,7 +344,17 @@ export function buildAetheriaPageContext(
   }
 
   const overviewNote = findSidebarOverviewNote(currentFile.slug, allFiles)
-  const sidebar = overviewNote ? extractOverviewData(overviewNote) : undefined
+  const sidebar = overviewNote
+    ? overviewNote.slug === ("Articles/index" as FullSlug)
+      ? buildAutoIndexSidebarData(overviewNote, allFiles, {
+          rootSlug: "Articles",
+          hideFrontmatterKey: "hideFromArticleIndex",
+          defaultAuthor: "Aetheria",
+          sidebarTagline: "Bylined field notes, arguments, and interpretive knives.",
+          sidebarSummary: (count) => `${count} Aetheria articles, newest pressure first.`,
+        })
+      : extractOverviewData(overviewNote)
+    : undefined
 
   return {
     headerTagline: currentTagline?.text ?? sidebar?.tagline,

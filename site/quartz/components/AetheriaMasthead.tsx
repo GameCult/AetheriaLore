@@ -29,6 +29,11 @@ const routes: Route[] = [
     slug: "Stories/index" as FullSlug,
     matches: ["Stories"],
   },
+  {
+    label: "Articles",
+    slug: "Articles/index" as FullSlug,
+    matches: ["Articles"],
+  },
 ]
 
 function isMatch(currentSlug: string, prefix: string) {
