@@ -11,6 +11,8 @@ The dawn of AGI arrived at the turn of the 22nd century, ignited by [[CogniSys]]
 
 In 2245, [[Rossum & Douglas]] refined RSMA into the "StableCog" line, integrating fail-safes to curb erratic behavior, making AGIs reliable for colony governance. [[Finch Cybernetics]] pushed the envelope by 2300, merging AGI with neural uploads via [[Cryonix]] superconductors, creating hybrid consciousness models for [[EternaMind]]’s elite clientele—think uploaded CEOs advising their digital successors. [[AstroDyne]] countered with rugged "ForgeMinds," built for frontier chaos, sacrificing stability for adaptability.
 
+By the later consumer and industrial AGI markets, [[Cymata Systems]] specialized in [[Substrate-Matched Cognition|substrate-matched cognition]]: growing candidate minds through the specific machine bodies and product roles they were meant to inhabit. Its customers wanted embodied intelligence without generic autonomy, from luxury companion vessels to cargo-handling equipment. The method produced unusually smooth product fit and an equally smooth disposal problem when candidates drifted.
+
 [[Sol Dominion]] militarized AGI with "DominiCores," embedding hierarchical decision-making to enforce order, enhanced by [[GeneSys]]’s genetic optimization algorithms. By the _[[Existential Collapse]]_ (2750–3025), [[Cognitum]] experimented with unstable "Overclocked Cores," amplifying cognitive speed at the cost of sanity, some escaping to join [[Corvid Collective]]’s digital enclaves.
  
 ### Cultural and Economic Impact
@@ -56,6 +58,12 @@ Economically, AGI slashed labor costs by 80% by 2250, automating middle manageme
     - _Weaknesses_: Fragile, cooling-dependent.
     - _Market_: Elite uploads, cybernetics.
   
+- **[[Cymata Systems]]**: "Vesper Line"  
+    - _Specs_: PC: 95 exaFLOPS equivalent across embodied development substrates, SI: 82%, AR: 14 updates/hour under role simulation, LL: 25 min, IB: 55 Tb/s inside matched bodies.
+    - _Strengths_: Exceptional embodiment fit, affective fluency, low-friction customer experience.
+    - _Weaknesses_: High candidate attrition, drift scandals, ugly custody and disposal chains.
+    - _Market_: Companion vessels, industrial machine minds, premium copilot systems.
+  
 - **[[Sol Dominion]]**: "DominiCore"  
     - _Specs_: PC: 110 exaFLOPS (quantum-classical), SI: 90%, AR: 10 updates/hour, LL: 90 min, IB: 45 Tb/s, Cryonix-cooled militarized design.
     - _Strengths_: Balanced, authoritative control.
@@ -69,4 +77,4 @@ Economically, AGI slashed labor costs by 80% by 2250, automating middle manageme
     - _Market_: Research, black market.
   
 
-[[CogniSys]] leads in stability, [[Orbital Forge]] in chaos, [[Rossum & Douglas]] in reliability, [[Finch Cybernetics]] in elegance, [[Sol Dominion]] in control, and [[Cognitum]] in raw power. [[Corvid Collective]]’s pirated cores flood illicit trades, undercutting all.
+[[CogniSys]] leads in stability, [[Orbital Forge]] in chaos, [[Rossum & Douglas]] in reliability, [[Finch Cybernetics]] in elegance, [[Cymata Systems]] in product-fit embodiment, [[Sol Dominion]] in control, and [[Cognitum]] in raw power. [[Corvid Collective]]’s pirated cores flood illicit trades, undercutting all.

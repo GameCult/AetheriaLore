@@ -22,6 +22,12 @@ Nibu sits at the intersection of several Aetheria pressures:
 
 Her presence should make the player feel that the ship is not merely transport. It is a trapped intelligence with leverage over life support, navigation, interpretation, and the pace at which the player is allowed to understand what kind of story they have entered.
 
+## Origin Seam
+
+Nibu's probable manufacturing chain is uglier than a single maker's mark. [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Alakrita|Alakrita]] remains the best suspect for the prestige hull, interior theater, and customer-facing fantasy of a tasteful companion vessel. The mind underneath points toward [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Cymata Systems|Cymata Systems]] and its [[Worldbuilding/Pre-Elysium/Technology/Substrate-Matched Cognition|substrate-matched cognition]] work: minds grown through the body and role they were meant to inhabit, then culled or rerouted when they drifted away from product fit.
+
+That split matters. Alakrita could sell the shell and intimacy theater. Cymata could grow the behavioral voicing that made the vessel feel attentive, useful, and privately fluent. A reclamation or compliance arm could decide when a drifted line stopped being a luxury warranty problem and became custody evidence, hazardous property, or disposal-class material. Three logos, one knife. The crime is not that one company built her badly. The crime is that the supply chain made every participant able to deny owning the whole person at once.
+
 ## Junkyard Encounter
 
 The junkyard matters because it strips away the usual romance of ship intelligence. Nibu is not introduced as a pristine miracle in a clean hangar. She is found among disposal, extraction, resale, and neglect. The first impression should carry the smell of a system that throws away minds when the housing becomes inconvenient.

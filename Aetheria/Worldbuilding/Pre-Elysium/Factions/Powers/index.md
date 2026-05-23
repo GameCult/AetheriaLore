@@ -34,6 +34,7 @@ Read this branch as a map of institutional capacity rather than a popularity ran
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/AstroDyne|AstroDyne]]
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/BioElevate|BioElevate]]
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/CogniSys|CogniSys]]
+- [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Cymata Systems|Cymata Systems]]
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/NiteLife Energy|NiteLife Energy]]
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Orbital Forge|Orbital Forge]]
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Quantum Dynamics|Quantum Dynamics]]

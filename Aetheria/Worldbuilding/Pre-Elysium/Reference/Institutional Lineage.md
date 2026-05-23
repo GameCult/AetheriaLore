@@ -24,6 +24,8 @@
 
 [[EternaMind]] sold immortality to elites, [[Finch Cybernetics]] sold graceful embodiment to the premium professional class, and the [[Cognitum]] emerged from the black-budget overlap between those markets and military cognition research. Each insisted it was doing something morally distinct. Their server farms say otherwise.
 
+[[Cymata Systems]] grew from the adjacent market for embodied product cognition rather than upload continuity. It sold substrate-matched AGI lines to shell houses such as [[Alakrita]] and to industrial firms that wanted machines whose minds felt native to the assigned body. Where Cognitum turned existing persons into firmware, Cymata grew new candidates inside product-shaped developmental worlds and let reclassification decide which selves survived the contract.
+
 [[CogniSys]], [[GeneSys]], [[Quantum Dynamics]], and the managerial shell of [[SolEx]] were folded into [[Sol Dominion]] between 2728 and 2740. The merger was described as a stability pact, but it was really a coordinated answer to scarcity, insurgency, and the fear that uncontrolled uploads, uplifts, and rogue AGI were making the system ungovernable.
 
 ### Key Individuals and Their Factional Afterlives

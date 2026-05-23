@@ -17,6 +17,7 @@ This branch tracks the technical stack that transformed embodiment, cognition, e
 - [[Worldbuilding/Pre-Elysium/Technology/Algorithmic Social Control|Algorithmic Social Control]]
 - [[Worldbuilding/Pre-Elysium/Technology/Brain-Computer Interfaces|Brain-Computer Interfaces]]
 - [[Worldbuilding/Pre-Elysium/Technology/Neuromorphic Firmware|Neuromorphic Firmware]]
+- [[Worldbuilding/Pre-Elysium/Technology/Substrate-Matched Cognition|Substrate-Matched Cognition]]
 
 ## Body And Personhood
 
