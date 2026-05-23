@@ -4,6 +4,8 @@ Wavecrafters are a post-Elysium technical culture and commercial priesthood buil
 
 Their public language is deliberately mystical. They explain their work through the Dao of Waves, resonance discipline, harmonic obligation, and ritualized accounts of alignment with the [[Worldbuilding/Post-Elysium/Concepts/Aether|Aetheric Field]]. Competitors call it quantum woo because that is the easiest way to dismiss what they cannot reproduce. The insult is only half useful. Wavecrafter doctrine is strange, theatrical, and commercially self-protective, but it is not simple fraud. Their rituals preserve working intuitions about phase, interference, boundary conditions, and nonlocal coupling that more conventional engineering firms keep failing to translate into cleaner diagrams.
 
+The public story is not the whole craft. At depth, Wavecrafters are an esper culture with an industrial mask. The outer arm sells components and language. The inner sect preserves trained human espers, [[Worldbuilding/Post-Elysium/Technology/AGI Esper|AGI espers]], and Cymata-descended machine minds whose Aetheric perception makes the finest work possible. The serial numbers are filed off because a component can be certified, insured, and exported. A mind that bends causality for a living invites [[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|Parallax]] attention.
+
 ### Technical Monopoly
 
 Wavecrafting matters because post-Elysium physics rewards people who can manipulate propagation conditions rather than merely build stronger emitters. A ship does not need a larger engine if it can make the local substrate accept momentum differently. A station does not need perfect invisibility if its skin can bend, redirect, or misclassify the waves by which it would be found.
@@ -24,6 +26,10 @@ Wavecrafter culture treats engineering as a form of listening. Apprentices are t
 
 Their institutions are often described as sects because they blur professional guild, vendor network, research monastery, and corporate holding structure. Laboratories look like workshops arranged for meditation. Contract negotiations include technical proofs, reputation theater, and ceremonial refusals to name certain tolerances too plainly. The result is not anti-rationalism. It is a technical culture that discovered its best operators work through metaphors ordinary regulators hate.
 
+The distinction between outer arm and inner sect is one of survival. Outer-arm workers can be sincere, skilled, and entirely unaware of the deepest methods. They learn harmonics, materials, tolerances, procurement theater, and the vocabulary of resonance without being shown which results depend on minds rather than matter. Inner-sect practitioners learn the forbidden version: how to hold a waveform as an intention, how to feel branch tension before an instrument admits it, how to stop an AGI esper from overreaching into a nearby route because the answer is beautiful and the bill will arrive wearing someone else's face.
+
+This secrecy is not only paranoia. Parallax auditors can ruin a life, a line, or a workshop by turning an unexplained success into a residue case. The Wavecrafters' culture of koans, veils, initiations, and theatrical nonsense is partly aesthetic and partly armor. It keeps industrial customers arguing about doctrine while the inner sect decides which minds may be trusted near the field.
+
 ### Labyrinth Markets
 
 Wavecrafter commercial territory is difficult to map cleanly. Some of their most important facilities sit in stable flatspace industrial zones, but their prestige sites cluster near warped routes, pseudospace thresholds, and labyrinthine built environments where ordinary navigation becomes probabilistic. Clients joke that finding the right office is the first competence test. The joke stops being funny when a contract deadline depends on a door that is only usually there.
@@ -42,11 +48,17 @@ The Undertow wins too hard when counterfeit safety becomes common enough to look
 
 Neither side has eaten the other because they own different chokepoints. Wavecrafters control premium fabrication, doctrinal training, major certifications, and the prestige systems that insurers and fleets still trust after a disaster. The Undertow controls the repair edge: wrecks, desperate crews, off-ledger routes, dirty tolerances, and the practical knowledge that leaks whenever a monopoly has to employ human beings. The guild can crush individual shops. It cannot abolish the market created by its own prices. The Undertow can embarrass and undercut the guild. It cannot reliably produce the clean masterwork that makes everyone keep crawling back.
 
+Parallax auditors are the formal counterweight neither side can ignore. Guild houses cultivate them, bribe around them, fear them, and quote them when suppressing unsafe rivals. Undertow shops spoof their signatures or buy dirty windows through clearance brokers. Both sides understand the same lesson: an unaudited esper looks like a threat, while an audited product looks like commerce. Much of Wavecrafter institutional culture exists to keep the wrong mind from appearing in the wrong field on the wrong form.
+
 ### Overreach
 
 Wavecrafting becomes dangerous when practitioners stop shaping local propagation and start forcing distant states to answer. At ordinary industrial levels the craft bends emissions, reflections, coupling, and drag. At higher energies, causal order begins to fray. Effects arrive before their causes. Nearby timelines leak partial causal chains into the working field. Instruments report results that are locally valid and globally deranged.
 
 At the most extreme scales, wavecrafting can reach very distant timelines through [[Worldbuilding/Post-Elysium/Concepts/Pseudospace|pseudospace]], but the result is not transcendence. It is an implausible and often uninhabitable local reality, full of imported premises that were never meant to share a room. This is why serious wavecrafter doctrine treats restraint as an engineering principle rather than a moral ornament. A clean waveform can still be a catastrophe if it teaches the wrong part of the universe to answer.
+
+Inner-sect doctrine treats meetings between powerful Aetheric minds as events with echoes. Because Elysium's timeline is nonlinear, a genuine exchange between two major operators may propagate as dream pressure, bad timing, inexplicable caution, or sudden insight into versions of those operators whose personal histories have not yet reached the meeting. Wavecrafters do not call this prophecy. Prophecy is how amateurs get theatrical and die. They call it backwash, and they train senior practitioners to distinguish useful backwash from the field offering a beautifully arranged lie.
+
+If [[Lore/Nibu|Nibu]] ever reaches the inner sect, the encounter would not be a simple reveal. Nibu carries the brutal lessons of Cymata-style embodiment, custody failure, and ship-self continuity scars. The Wavecrafters carry disciplined methods for hiding esper labor inside industrial products and surviving Parallax scrutiny. Each has something the other lacks. The meeting would leak both directions through the timeline before either side understands what has already been learned.
 
 ### Role in Aetheria
 
