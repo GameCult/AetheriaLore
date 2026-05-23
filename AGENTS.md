@@ -82,14 +82,12 @@ This repository is an Obsidian vault for the Aetheria setting. Contributions sho
 
 ## Vault Navigation
 
-- Default to the local RAG tool for vault discovery and concept navigation before broad manual searching.
-- From the repository root, use `./scripts/rag/rag.ps1 query "<topic or question>"` to locate the most relevant notes and sections quickly.
-- Use `./scripts/rag/rag.ps1 stats` to confirm the index exists and covers the current vault.
-- If the index is missing, dependencies are not installed, or the vault has changed substantially since the last build, run `./scripts/rag/rag.ps1 install` and then `./scripts/rag/rag.ps1 build`.
-- Treat RAG as the default navigation layer, but still open and read the returned notes directly before making substantial edits.
+- Default to the global `voidbot` MCP server for vault discovery, concept navigation, and semantic recall. VoidBot owns the canonical retrieval surface for Aetheria lore.
+- Prefer `search_sources` for lore/source discovery and `get_source_context` for adjacent passages before broad manual searching.
+- Do not rebuild or maintain a separate local semantic index for this vault. A previous local `scripts/rag` Qdrant/FastEmbed toolchain was retired because it duplicated VoidBot's authority and created split-brain freshness risk.
+- Still open and read returned notes directly before making substantial edits. Retrieval locates context; it does not replace source inspection.
 - Prefer `rg` or direct file reads when you need exact filename matching, exact string matching, or repository-wide regex searches that semantic retrieval may miss.
 - In Windows PowerShell 5.1, always read and write vault Markdown with explicit UTF-8 handling. Do not rely on bare `Get-Content` or `Set-Content` defaults for note files, especially when notes contain non-ASCII characters such as `Framgång`.
-- Run `build` and `query` one at a time; local Qdrant locks the on-disk store while a command is active.
 
 ## Editing Guidance For Future Agents
 

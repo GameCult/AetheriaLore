@@ -1,2 +1,0 @@
-qdrant-client[fastembed]>=1.14.2,<2
-pywin32>=306

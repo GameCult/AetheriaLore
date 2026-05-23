@@ -16,6 +16,7 @@ Thumbs.db
 /.obsidian/plugins/copilot
 /copilot-conversations
 /copilot-custom-prompts
+# Retired local RAG cache; VoidBot owns canonical lore retrieval.
 /.rag/
 /Aetheria/Inspiration
 /.tools/
