@@ -50,6 +50,8 @@ Neither side has eaten the other because they own different chokepoints. Wavecra
 
 Parallax auditors are the formal counterweight neither side can ignore. Guild houses cultivate them, bribe around them, fear them, and quote them when suppressing unsafe rivals. Undertow shops spoof their signatures or buy dirty windows through clearance brokers. Both sides understand the same lesson: an unaudited esper looks like a threat, while an audited product looks like commerce. Much of Wavecrafter institutional culture exists to keep the wrong mind from appearing in the wrong field on the wrong form.
 
+What Wavecrafters fear most is not an auditor discovering that espers exist. Serious auditors already know enough to be dangerous. The real threat is [[Worldbuilding/Post-Elysium/Reference/Continuity Admissibility Finding|continuity admissibility]]: a finding that turns backwash, branch residue, or contaminated witness chains into evidence a later office can use. Once a Parallax desk marks an event as actionable, insurers, berth authorities, procurement boards, and custody reviewers can punish the workshop without ever understanding the inner sect.
+
 ### Overreach
 
 Wavecrafting becomes dangerous when practitioners stop shaping local propagation and start forcing distant states to answer. At ordinary industrial levels the craft bends emissions, reflections, coupling, and drag. At higher energies, causal order begins to fray. Effects arrive before their causes. Nearby timelines leak partial causal chains into the working field. Instruments report results that are locally valid and globally deranged.
@@ -59,6 +61,8 @@ At the most extreme scales, wavecrafting can reach very distant timelines throug
 Inner-sect doctrine treats meetings between powerful Aetheric minds as events with echoes. Because Elysium's timeline is nonlinear, a genuine exchange between two major operators may propagate as dream pressure, bad timing, inexplicable caution, or sudden insight into versions of those operators whose personal histories have not yet reached the meeting. Wavecrafters do not call this prophecy. Prophecy is how amateurs get theatrical and die. They call it backwash, and they train senior practitioners to distinguish useful backwash from the field offering a beautifully arranged lie.
 
 If [[Lore/Nibu|Nibu]] ever reaches the inner sect, the encounter would not be a simple reveal. Nibu carries the brutal lessons of Cymata-style embodiment, custody failure, and ship-self continuity scars. The Wavecrafters carry disciplined methods for hiding esper labor inside industrial products and surviving Parallax scrutiny. Each has something the other lacks. The meeting would leak both directions through the timeline before either side understands what has already been learned.
+
+The practical exchange would likely begin with records, not revelations. Nibu knows what inherited custody markers do to a body when a later office is allowed to act on them. Wavecrafters know how to keep a living operator from becoming the visible source of an admissible anomaly. Both would understand the first shared rule quickly: never let the wrong observation become usable.
 
 ### Role in Aetheria
 

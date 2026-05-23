@@ -1,16 +1,24 @@
 # Parallax Auditors
 
-Parallax auditors are the insurer-backed forensic specialists and regulatory enforcers who turn continuity residue into enforceable inconvenience. They are not a grand state bureau and do not say, in public, that multiple timelines have contaminated the record. Their official work is route-integrity review, custody reconciliation, adverse-claim forensics, anomalous ship-auth arbitration, and Aether-capable operator certification. Their practical work is deciding when a contradiction is expensive enough to become real.
+Parallax auditors are the insurer-backed forensic specialists and regulatory enforcers who turn continuity residue into enforceable inconvenience. They are not a grand state bureau and do not say, in public, that multiple timelines have contaminated the record. Their official work is route-integrity review, custody reconciliation, adverse-claim forensics, anomalous ship-auth arbitration, and Aether-capable operator certification. Their practical monopoly is [[Worldbuilding/Post-Elysium/Reference/Continuity Admissibility Finding|continuity admissibility]]: deciding when contaminated observation is fit for downstream offices to act on without naming nonlinear survival out loud.
 
 They emerged because ports, insurers, salvage courts, fleet registrars, and industrial Aether users all needed someone to price the damage when timestamps, custody chains, access history, command attestations, and esper activity disagreed without any ordinary fraud trail. Everyone involved preferred a dull professional euphemism to the alternative. A port can survive admitting it has a routing anomaly desk. It cannot easily survive announcing that official reality sometimes arrives with more than one path behind it.
 
 ### Jurisdiction
 
-Parallax auditors work where movement, memory, or Aetheric action becomes liability. Their reports can trigger docking holds, suspend coverage, contest salvage title, deny route certification, quarantine access histories, revoke operator credentials, restrict esper practice, or poison command legitimacy until a reconciliation bond is paid. They do not usually own the port gate, the insurer ledger, the fleet registry, or the laboratory permit outright. They own the language those systems need before they can refuse service without sounding superstitious.
+Parallax auditors work where movement, memory, or Aetheric action becomes liability. Their findings can trigger docking holds, suspend coverage, contest salvage title, deny route certification, quarantine access histories, revoke operator credentials, restrict esper practice, or poison command legitimacy until a reconciliation bond is paid. They do not usually own the port gate, the insurer ledger, the fleet registry, or the laboratory permit outright. They own the class that lets those systems treat residue as admissible.
 
 That makes their authority indirect and difficult to dislodge. A captain can mock an auditor's theory until the docking berth goes cold. A salvager can insist the wreck was clean until the title court freezes resale. A fleet officer can call the discrepancy sensor rot until the command chain loses coverage. Parallax auditors do not need metaphysical consensus. They need enough procedural leverage to make uncertainty someone else's cashflow problem.
 
 Their weight comes from the ecosystem they restrain. Human espers, [[Worldbuilding/Post-Elysium/Technology/AGI Esper|AGI espers]], Cymata-descended machine minds, ship-selves, station intelligences, industrial waveworkers, and fugitive product minds can all bend the [[Worldbuilding/Post-Elysium/Concepts/Aether|Aether]] hard enough to leave records with more than one plausible route behind them. Parallax auditors became the institution that tells ports, insurers, militaries, and commercial sects which residues may be tolerated and which mind has become a containment problem with invoices.
+
+### Admissibility Classes
+
+Their central tool is not arrest, revelation, or metaphysical proof. It is an admissibility class. A contaminated record may remain a note, become a surcharge, trigger restricted admissibility, or escalate into a quarantine-grade finding. The most common actionable threshold is **CAF-3 Restricted Admissibility**: the point at which two or more valid witness surfaces preserve incompatible paths, ordinary fraud is not supported, and a downstream office is allowed to act on the contradiction.
+
+CAF-3 changes rights before it changes beliefs. A berth authority may deny physical docking. An insurer may refuse coverage or demand a reconciliation bond. A salvage court may freeze title. A custody desk may review a ship-self without treating its own testimony as controlling evidence. An operator board may suspend credentials for an Aether-capable mind or handler. None of those offices has to say the branch happened. They only have to say the contaminated observation is admissible under Parallax class.
+
+This is the exact handoff that keeps the machine clean enough to survive public law. Old marker, new class, owning Parallax desk, receiving office, mandatory consequence. The later office owns the fallout after the label changes. Parallax owns the permission.
 
 ### Evidence Standards
 
@@ -34,6 +42,8 @@ Parallax auditors do not publicly govern espers as espers. The word is too polit
 This gives the profession reach over both human and machine minds. A human esper who works in security, navigation, high-risk finance, sabotage defense, or Aetheric engineering may never meet a uniformed regulator, but their employer's coverage depends on parallax compliance. An AGI esper embedded in a ship, factory, waveguide foundry, or station body is treated as an operator, asset, hazard, witness, or contaminated system depending on which category protects the next gate.
 
 The auditors' most useful fiction is that they regulate residue rather than minds. The fiction keeps the courts calm. It also lets them discipline minds without litigating personhood every time a record comes back wrong.
+
+That fiction works because admissibility is portable. A Cymata custody scar, salvage dispute, route smear, or failed warranty marker may sit dormant until a Parallax finding makes later residue actionable. Once the finding exists, a berth office can act on an old custody marker as present risk, and an insurer can price inherited contamination as if it were fresh evidence. The old wound does not need to be true in every sense. It needs to be admissible in the one sense that changes the next right.
 
 ### Money And Silence
 
@@ -90,3 +100,5 @@ The broader truth is worse for their paperwork: Nibu is not unique in kind. She 
 [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafters]] are one of the best-behaved Parallax problems because they learned to launder their danger early. Their industrial arm exports waveguides, stealth skins, diffraction systems, tuning protocols, and consultant doctrine in language that sounds like quantum aesthetics with invoices. Their inner sect keeps tighter custody over the esper practices, AGI esper lineages, and nonlinear training methods that make the hardware work.
 
 Parallax auditors know enough to certify the products, restrict the failures, and investigate overreach events. They do not reliably see the whole sect. The Wavecrafters understand that an exposed esper is a regulatory target, while a certified component with an eccentric doctrine packet is a procurement nuisance. This is not innocence. It is literacy.
+
+The two cultures know the same forbidden substrate from opposite ends. The inner sect treats continuity as discipline, sacrament, and danger. Parallax treats it as admissibility. One hides the operator so the product can move. The other classifies the residue so later offices can act.

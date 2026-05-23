@@ -40,6 +40,12 @@ That makes proof harder and uglier. Some signs can be copied. Some can be perfor
 
 Black markets exploit this by selling counterfeit remembrance. Clinics reconstruct stress voices from logs, coach damaged ship minds through identity hearings, splice stolen crew intimacies into challenge scripts, and package partial voice reconstructions as continuity evidence. Sometimes this rescues a mind whose body has been shredded and whose records were sabotaged. Sometimes it lets traffickers move a harvested cognition fragment under the name of the ship it came from. The crime is prettier than forged paperwork and worse for it.
 
+### Continuity Admissibility
+
+[[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|Parallax auditors]] do not solve ship mind custody. They decide when contaminated custody evidence is admissible enough for someone else to act. A salvage marker, Cymata-era line scar, disputed command record, or reset-smeared witness chain may sit as background suspicion until a [[Worldbuilding/Post-Elysium/Reference/Continuity Admissibility Finding|continuity admissibility finding]] makes it usable.
+
+The trigger that matters is usually CAF-3 Restricted Admissibility: enough mutually valid but incompatible witness surfaces to alter rights without proving fraud. Once that box is checked, a berth authority may deny docking, an insurer may refuse coverage, a claimant may freeze title, or a custody office may proceed without treating the ship-self's testimony as controlling evidence. The ship has not been disproven. Its record has become actionable against it.
+
 ### Permanent Mud
 
 The factions that profit most from ambiguity are insurers, creditors, manufacturers, salvage houses, port authorities, and militaries. If ship minds are simply property, mutiny is malfunction. If they are fully persons, repossession becomes imprisonment and salvage auctions become body sales. Conditional recognition lets each faction decide case by case while insisting the inconsistency is technical.

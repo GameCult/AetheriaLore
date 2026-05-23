@@ -17,6 +17,7 @@ Use this branch to follow how Aetheria's recurring pressures return under sharpe
 - [[Worldbuilding/Post-Elysium/Technology/index|Technology]]
 - [[Worldbuilding/Post-Elysium/Factions/index|Factions]]
 - [[Worldbuilding/Post-Elysium/Species/index|Species]]
+- [[Worldbuilding/Post-Elysium/Reference/index|Reference]]
 - [[Worldbuilding/Post-Elysium/Concepts/Aether|Aether]]
 - [[Worldbuilding/Post-Elysium/Concepts/Esper|Esper]]
 
