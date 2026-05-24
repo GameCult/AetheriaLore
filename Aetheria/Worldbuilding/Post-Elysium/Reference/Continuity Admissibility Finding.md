@@ -17,6 +17,20 @@ The threshold is narrow on paper:
 
 The trick is in the last line. Parallax does not need to own the later office. It only needs to make the record admissible there.
 
+### Admissibility Routing
+
+The practical ladder is deliberately dull. Suspicion can follow a vessel for years without changing custody. A custody downgrade begins only when a receiving office accepts a class that gives it a named first cut.
+
+| Admissibility class | Deciding office | First concrete cut |
+| --- | --- | --- |
+| Route Integrity Note / Non-actionable | Local route-integrity clerk or bonded traffic analyst | Record annotation only; no berth, title, command, testimony, or coverage right changes. |
+| CAF-1 Watch Notation | Parallax intake reviewer attached to a port, insurer, or fleet registrar | Manual review at the next controlled gate; the ship may still dock, depart, testify, and command as of right. |
+| CAF-2 Commercially Dirty | Parallax Admissibility Desk with insurer or port compact notice | Reconciliation surcharge, bond quote, delayed clearance window, or restricted lane assignment; suspicion is priced, not yet converted into custody action. |
+| CAF-3 Restricted Admissibility | Parallax Admissibility Desk accepted by the named receiving office | The first right changes: berth denial, coverage refusal, claimant hold, operator suspension, or custody review may begin under that office's existing rules. |
+| CAF-4 Quarantine Admissibility | Compact emergency panel with port safety, insurer, and custody liaison signatures | Physical movement, command authority, and self-directed repair may be frozen pending hearing; custody is restricted, but title or personhood is still not resolved by Parallax. |
+
+This is the line that keeps the machinery honest enough to be cruel. A CAF-2 file can make everyone expensive and suspicious around a ship-self, but it cannot by itself demote the mind into salvage custody. A CAF-3 finding does not prove the ship-self false either. It names the office allowed to take the first right away. If that office is a berth authority, the cut is docking. If it is an insurer, the cut is coverage. If it is a custody desk, the cut is testimonial control inside a custody review. The same smear does not become every punishment at once unless several offices each accept their own route into it.
+
 ### PAF-CAF-17: Continuity Admissibility Finding
 
 | Field | Recorded Value |
