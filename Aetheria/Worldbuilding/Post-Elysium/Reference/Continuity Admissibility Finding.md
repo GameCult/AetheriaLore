@@ -50,6 +50,25 @@ The form is ugly because it does not need drama. The old marker says the ship-se
 
 Nobody has to declare the ship mind false. Nobody has to say the branch happened. The admissibility class does the work.
 
+### PAF-CAF-22: Helm Continuity Witness
+
+| Field | Recorded Value |
+| --- | --- |
+| Subject claim | Ship-self `Nibu-of-Junkyard Spur` asserts continuity with `Nibu-of-Approach Spur` for interrupted helm duty only |
+| Observed contamination | Two valid helm challenge sequences share private route-memory errors; local bridge log records the second sequence before the first vessel state should have learned it; custody ledger preserves both hull-presence paths without a clean transfer |
+| Continuity authority | Parallax Admissibility Desk, Ship-Auth Continuity Panel |
+| Finding timestamp | 09:44:18 station standard, logged against the receiving port's bridge-security clock |
+| Confidence class | CAF-3 Restricted Admissibility, narrow continuity confidence |
+| Receiving enforcement surface | Bridge control authority for active helm session resumption |
+| Durable trace | Port-Insurer Compact continuity packet `PAF-CAF-22`, mirrored into the custody ledger as read-only admissibility evidence |
+| Right flipped | Resume the interrupted helm session under the prior emergency route order |
+| Right kept shut | Access to sealed cargo title, private crew archive, owner vault, and salvage disposition authority |
+| Public language | Helm continuity accepted for emergency route completion; proprietary and custodial authorities remain unreconciled |
+
+This is the clean cruelty the class was built for. Parallax judges that the second ship-self is continuous enough with the first to resume one active duty: hold the helm through the emergency route already in progress. The bridge authority enforces exactly that. It does not decide that the ship now owns the sealed cargo, inherits every crew secret, clears its salvage stain, or becomes the master key to its own person-sized vault.
+
+The record matters because every later office will want to make the narrow finding larger. A claimant will argue that helm continuity proves title liability. A frightened port will argue that the same continuity justifies quarantine. A sympathetic crew member will argue that it proves full personhood. The packet refuses all three comforts. Same enough to finish the duty is not same enough to own everything attached to the body. The trace says where the knife went in, and the bridge is not allowed to keep cutting after Parallax stops.
+
 ### Inherited Markers
 
 Inherited markers are how old custody scars survive into later systems. A Cymata-era line record, salvage custody note, failed warranty transfer, or black-market ownership smear may be inert until a Parallax office reclassifies later residue as admissible. Once that happens, downstream offices can act on the inherited marker as if it were live context rather than dead history.
