@@ -29,6 +29,7 @@ That is the full beast. The first major scope cut was [[End of the Line|Aetheria
 - [[Ship-shape and Up to Specs]] - ships as loadouts, homes, status objects, and thermal compromises with weapons attached.
 - [[Progression, Claims, and Consequence]] - licenses, death, escape pods, wreck claims, looting, scavenging, and station exposure.
 - [[Narrative and Missions]] - Ink-driven quests, location constraints, faction presence, and story inside generated space.
+- [[Nibu Attached Shuttle Story]] - a pre-Rupture hard-sci-fi playable story about a grey-market transport crew taking Nibu on as an attached shuttle and collapsing around the risk she brings.
 - [[A Different Sort of Space]] - the visual and physical feel of Aetheria's non-hard-SF void.
 - [[Visual and Sensory Direction]] - shaders, clouds, weapon effects, audio, and readable spectacle.
 - [[Volumetric Nebulae]] - atmospheric prototype clips showing the nebula renderer as moving terrain, not wallpaper.
