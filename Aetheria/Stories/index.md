@@ -14,6 +14,7 @@ Some of the pieces gathered here were written before the current canon settled i
 ## Current Stories
 
 - [[Corvid Collective First Exodus]]
+- [[Ilan Voss Thread]]
 - [[Lucent Hostage Feed]]
 - [[Rain]]
 - [[When We Get Home]]
