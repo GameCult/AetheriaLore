@@ -180,6 +180,36 @@ body {
   color: #fff3e8;
 }
 
+.aetheria-nav-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.35rem;
+  height: 2.15rem;
+  padding: 0;
+  color: rgba(236, 242, 250, 0.96);
+  line-height: 0;
+  flex: 0 0 auto;
+}
+
+.aetheria-nav-icon svg {
+  display: block;
+  width: 1.7rem;
+  height: 1.7rem;
+  fill: currentColor;
+  filter: drop-shadow(0 0 0.55rem rgba(89, 183, 255, 0.32));
+}
+
+.aetheria-nav-icon:hover,
+.aetheria-nav-icon:focus-visible {
+  color: #fff3e8;
+}
+
+.aetheria-nav-icon:hover svg,
+.aetheria-nav-icon:focus-visible svg {
+  filter: drop-shadow(0 0 0.35rem rgba(255, 138, 42, 0.28));
+}
+
 .page > #quartz-body .center > .popover-hint {
   margin-bottom: 1rem;
 }
