@@ -12,7 +12,9 @@ The same era makes thermal density newly political. Upload vaults, elite clinics
 
 ### Uplift and Corporate Species Policy
 
-At the same time, biological engineering reaches outward. [[BioElevate]], [[GeneSys]], [[NeuroSyn]], and later [[Alakrita]] create increasingly specialized uplift lines for mining, navigation, reconnaissance, logistics, and ship cognition. These programs produce the future ancestors of the [[Cetacean Navigators]], [[Corvid Collective]], [[Cephalopod Syndicate]], [[Elephant Enclave]], and [[Ship Mutiny]], but they begin as labor and control experiments rather than liberation projects.
+At the same time, biological engineering reaches outward under the shadow of the [[Portia Line]]. The 2268 Veyra Incident proves that uplift might emerge from scaffold, interface, and nonhuman cognitive ecology before any corporation has defined a controlled species program. The major firms do not create the problem first. They inherit it, fear it, and then try to own it.
+
+[[BioElevate]], [[GeneSys]], [[NeuroSyn]], and later [[Alakrita]] create increasingly specialized uplift lines for mining, navigation, reconnaissance, logistics, and ship cognition. These programs produce the future ancestors of the [[Cetacean Navigators]], [[Corvid Collective]], [[Cephalopod Syndicate]], [[Elephant Enclave]], and [[Ship Mutiny]], but they begin as labor and control experiments conducted in a legal atmosphere already poisoned by the Portia hearings.
 
 The central political question is whether intelligence created under contract can ever escape the terms of its creation. Uplifts answer in practice long before most human institutions answer in theory. Some organize. Some flee. Some sabotage. Some bargain for recognized autonomy. By 2500, the social map of Sol includes too many speaking beings to sustain the old fiction that only baseline humans generate legitimate political claims.
 

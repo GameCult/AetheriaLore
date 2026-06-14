@@ -65,7 +65,7 @@ Culturally, Cryonix admires control without drama. Noise, waste, and flamboyant 
 
 The [[Tycho Exclusion Riots]] exposed how deeply Cryonix had already entwined itself with Finch's premium hierarchy before the later political split.
 
-[[Cold Wake Panic]] made Cryonix's signature-management business openly strategic, not merely industrial, and helped normalize thermal stealth as a corridor-security issue rather than a niche military curiosity.
+[[Cold Wake Panic]] made Cryonix's signature-management business openly strategic, not merely industrial, and helped normalize thermal stealth as a corridor-security issue rather than a niche military curiosity. Its femto-manufacturing aftershocks also created the technical opening for the [[Portia Line]], a fact Cryonix histories mention only when forced.
 
 ### Role in the Late Timeline
 

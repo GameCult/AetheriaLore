@@ -20,5 +20,7 @@ The pace of expansion, sabotage, patent war, and proxy conflict eventually threa
 
 That compromise changes the scale of everything. Once major powers believe total war can be constrained, they become more willing to escalate everything short of total war. The late-Sol order survives longer because it learns how to meter destruction instead of abolishing the incentives that produce it.
 
+The first major test of that logic is the [[Cold Wake Panic]] of 2241-2248. Thermal stealth, deferred heat dumping, and early signature-managed materials reveal that corridor law cannot treat waste heat as an engineering footnote. The panic accelerates [[Cryonix]] from supplier toward strategic threshold power and makes femto-manufacturing practical enough to leak out of elite cleanrooms. By the time the [[Identity Crisis]] begins, the tools needed for impossible private biology are no longer safely institutional.
+
 ### Previously: [[Corporate Exodus]] - 2025-2100
 ### Next: [[Identity Crisis]] - 2250-2500

@@ -6,6 +6,7 @@ The solar timeline becomes easier to navigate once its major conflicts, congress
 [[Ceres Control War]]  
 [[Bloom Expansion Conflicts]]  
 [[Hellas Mutual Defense Congress]]
+[[Cold Wake Panic]]
 
 ### Identity Crisis and Identity Abyss
 
@@ -26,7 +27,6 @@ The solar timeline becomes easier to navigate once its major conflicts, congress
 [[Urban Sovereignty War]]  
 [[Mercury Array Crisis]]  
 [[Atmospheric Processing Dispute]]  
-[[Cold Wake Panic]]  
 [[Enceladus Cooperative Schism]]  
 [[Ice Giant Navigation Wars]]  
 [[Neural Network Defense Campaign]]  

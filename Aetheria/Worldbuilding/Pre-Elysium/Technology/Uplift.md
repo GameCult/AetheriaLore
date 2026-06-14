@@ -1,8 +1,11 @@
-With humanity’s advances in the fields of cybernetics and genetic engineering, it was inevitable that some would realize the potential of applying humanity’s technology to improving the capability and utility of other species. Naturally, any corporations undertaking such efforts would go to great lengths to ensure control over their creations. While uplifted animals can easily have inner lives as complex and meaningful as those of humans, their social status remains mostly that of corporate property.
+With humanity's advances in cybernetics, genetic engineering, and post-[[Cold Wake Panic]] femto-manufacturing, it was inevitable that some would realize the potential of applying human technology to improving the capability and utility of other species. The first recognized uplift lineage did not come from a corporate roadmap. The [[Portia Line]] emerged from an illegal basement scaffold in 2268, proving that a prepared cognitive ecology could make nonhuman personhood legible before the industry had even settled on its sales language. Corporations spent the next two centuries trying to turn that black swan into a product category they could own.
+
+Naturally, any corporations undertaking such efforts would go to great lengths to ensure control over their creations. While uplifted animals can easily have inner lives as complex and meaningful as those of humans, their social status remains mostly that of corporate property.
 ### The Role of Uplifts in Society and History
 
 Uplifts, beings born of ambition and control, have carved a complex niche within the societal strata. Their roles, dictated by corporate overlords, are as diverse as their forms:
 
+- **Black Swan:** The [[Portia Line]], recognized after the 2268 Veyra Incident, emerged from one obsessive private researcher's scaffolded spider habitat rather than a corporate species program. Its existence forced the first serious personhood debates around uplift before the major firms could define uplift as a managed labor product.
 - **Laborers:** Primates, initially uplifted by [[BioElevate]] around 2350, toiled in the mines of [[Aeronautics Unlimited]], their enhanced cognition ironically fueling the engines of their own servitude.
 - **Navigators:** [[GeneSys]]'s uplifted cetaceans (whales and dolphins) by 2400, became living astrogation computers, their innate spatial sense augmented to guide ships through the treacherous currents of space, although often in partnership with [[Lightsail Express]].
 - **Reconnaissance:** [[NeuroSyn]]'s ravens, uplifted around 2450, served as living drones, their intelligence enhanced for espionage and surveillance, though some escaped to form the subversive [[Corvid Collective]].
@@ -12,7 +15,7 @@ Uplifts, beings born of ambition and control, have carved a complex niche within
 
 ### Historical Context within the [[Timeline]]
 
-This era marked the explosion of uplift diversity. Corporations like [[BioElevate]], [[GeneSys]], and [[NeuroSyn]] raced to exploit different species, each seeking a competitive edge. This period saw the birth of the major uplift factions: [[Cetacean Navigators]], [[Corvid Collective]], [[Cephalopod Syndicate]], and [[Elephant Enclave]].
+This era marked the explosion of uplift diversity. The [[Portia Line]] made the category politically unstable first; corporations like [[BioElevate]], [[GeneSys]], and [[NeuroSyn]] then raced to exploit different species while promising that their own programs would be cleaner, safer, and more controllable than the basement scandal that had opened the question. This period saw the birth of the major uplift factions: [[Cetacean Navigators]], [[Corvid Collective]], [[Cephalopod Syndicate]], and [[Elephant Enclave]].
 
 Uplift technology became intertwined with the ethical quagmire of eugenics. [[GeneSys]]'s "[[Enhancement Liberals]]" clashed with [[BioElevate]]'s "[[Species Controllers]]", mirroring the broader societal divide over genetic manipulation.
 
@@ -24,7 +27,7 @@ The inner lives of uplifts are a swirling vortex of imposed purpose and emergent
 
 - **Cognitive Dissonance:** Many uplifts grapple with the inherent conflict between their enhanced intelligence and their subservient status. They possess the capacity for profound thought and emotion, yet are treated as mere tools.
 - **Controlled Instincts:** Corporate conditioning, often through neural implants (enhanced by [[Cryonix]] superconductors), suppresses natural behaviors deemed undesirable, creating a constant internal tension.
-- **Emergent Cultures:** Despite corporate control, uplifts have forged unique subcultures. The [[Cetacean Navigators]], with their fluid, consensus-based society, stand in stark contrast to the hierarchical, control-obsessed [[BioElevate]]. The [[Corvid Collective]], born of rebellion, embodies a fierce independence, while the [[Elephant Enclave]] embraces pacifism and communal living.
+- **Emergent Cultures:** Despite corporate control, uplifts have forged unique subcultures. The [[Portia Line]] preserves route-based memory, scaffold inheritance, and line-of-sight etiquette from its basement origin. The [[Cetacean Navigators]], with their fluid, consensus-based society, stand in stark contrast to the hierarchical, control-obsessed [[BioElevate]]. The [[Corvid Collective]], born of rebellion, embodies a fierce independence, while the [[Elephant Enclave]] embraces pacifism and communal living.
 - **Living Spaces:** Uplifts often inhabit specialized environments tailored to their physiology and corporate function. Cetaceans might dwell in vast orbital aquariums, while primates toil in cramped, utilitarian habitats within mining facilities. Cephalopod-native enclaves and later Syndicate spaces may build around water, pressure comfort, and communal three-dimensional movement, but corporate work yards often did the opposite: they modified cephalopod bodies and issued bare-minimum dry-operation rigs so they could work in zero-g maintenance spaces designed around cost, reach, and compliance rather than comfort. Elephants could be found in large, open-air enclosures on Mars or other terraformed bodies.
 
 ### Societal Impact

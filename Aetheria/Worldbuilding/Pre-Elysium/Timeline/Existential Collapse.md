@@ -14,7 +14,7 @@ Resource exhaustion does not mean every habitat fails at once. It means maintena
 
 The [[Pan-Solar Consortium]] reaches the height of its visible enforcement capacity during this era even as its real authority weakens. It can still sanction, interdict, and mediate among powers that need markets. It cannot solve the material contradiction that those markets now have too little world left to govern cleanly.
 
-Warfare also grows colder and stranger. Better thermal materials, tighter circulation stacks, and deferred-emission tactics make concealment a matter of heat debt rather than romance. The [[Cold Wake Panic]] reveals how politically explosive this has become: a ship can remain silent only by borrowing against a future dump, and once enough actors can manage that debt competently, first detection starts to matter more than most formal distinctions between scout, decoy, and munition.
+Warfare also grows colder and stranger. Better thermal materials, tighter circulation stacks, and deferred-emission tactics make concealment a matter of heat debt rather than romance. The old [[Cold Wake Panic]] becomes doctrine rather than warning: a ship can remain silent only by borrowing against a future dump, and once enough actors can manage that debt competently, first detection starts to matter more than most formal distinctions between scout, decoy, and munition.
 
 ### The Escape Project
 
