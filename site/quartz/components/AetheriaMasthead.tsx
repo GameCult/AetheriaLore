@@ -70,13 +70,29 @@ export default (() => {
 
     return (
       <section class="aetheria-titlebar">
-        <div class="aetheria-titlebar-copy">
-          <p class="aetheria-titlebar-title">
-            <a href={resolveRelative(currentSlug, "index" as FullSlug)}>
-              Aetheria
+        <div class="aetheria-titlebar-top">
+          <div class="aetheria-titlebar-copy">
+            <p class="aetheria-titlebar-title">
+              <a href={resolveRelative(currentSlug, "index" as FullSlug)}>
+                Aetheria
+              </a>
+            </p>
+            {tagline && <p class="aetheria-titlebar-tagline">{tagline}</p>}
+          </div>
+          <div class="aetheria-titlebar-community" aria-label="Aetheria community links">
+            <a
+              href={githubUrl}
+              class="aetheria-nav-icon"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="GitHub"
+              title="GitHub"
+            >
+              <svg viewBox={githubIcon.viewBox} aria-hidden="true">
+                <path d={githubIcon.path} />
+              </svg>
             </a>
-          </p>
-          {tagline && <p class="aetheria-titlebar-tagline">{tagline}</p>}
+          </div>
         </div>
         <nav class="aetheria-titlebar-nav" aria-label="Aetheria sections">
           {routes.map((route) => {
@@ -90,18 +106,6 @@ export default (() => {
               </a>
             )
           })}
-          <a
-            href={githubUrl}
-            class="aetheria-nav-icon"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="GitHub"
-            title="GitHub"
-          >
-            <svg viewBox={githubIcon.viewBox} aria-hidden="true">
-              <path d={githubIcon.path} />
-            </svg>
-          </a>
         </nav>
       </section>
     )
