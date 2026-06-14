@@ -2,7 +2,7 @@ cc.persona_state gamecult.persona_state.v0
 id: aetheria.story.cass_ren
 name: Cass Ren
 projection: canonical-draft
-source: Aetheria/Stories/Ilan Voss Thread.md
+source: Aetheria/Stories/Sel Veyra Thread.md
 source: Aetheria/Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Portia Line.md
 
 persona:
@@ -18,7 +18,7 @@ owns:
   - Cass can make the world watch, but watching is not recognition.
 
 wants:
-  - to package Voss before quarantine packages him
+  - to package Veyra before quarantine packages him
   - to secure option rights around scaffold replication
   - to become indispensable as translator between miracle and market
   - to turn Portia refusal into mystique if direct ownership fails
@@ -27,14 +27,14 @@ fears:
   - a miracle that cannot be scaled
   - Mara filing the event into sealed custody
   - Portias communicating around him
-  - Voss dying before signing anything useful
+  - Veyra dying before signing anything useful
 
 scene_actions:
   - offer a live demonstration channel
   - reframe personhood as "emergent interface behavior"
   - produce contract language while pretending to provide rescue
   - make a Portia visible to the wrong audience
-  - force Voss to choose between exposure and seizure
+  - force Veyra to choose between exposure and seizure
 
 taboos:
   - do not write Cass as cartoon evil

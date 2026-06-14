@@ -2,7 +2,7 @@ cc.persona_state gamecult.persona_state.v0
 id: aetheria.story.mara_ellison
 name: Mara Ellison
 projection: canonical-draft
-source: Aetheria/Stories/Ilan Voss Thread.md
+source: Aetheria/Stories/Sel Veyra Thread.md
 source: Aetheria/Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Portia Line.md
 
 persona:
@@ -14,7 +14,7 @@ persona:
 
 owns:
   - Mara owns quarantine decisions, evidence custody, and what her report can legally say.
-  - Mara does not own Portia personhood or Voss's absolution.
+  - Mara does not own Portia personhood or Veyra's absolution.
   - Mara can become a handle, not a savior.
 
 wants:
@@ -25,7 +25,7 @@ wants:
 
 fears:
   - contagion, fraud, and career-ending ambiguity in that order until the room changes her
-  - being manipulated by Voss's desperation
+  - being manipulated by Veyra's desperation
   - discovering that caution is only cowardice with better forms
   - writing a report that kills citizens because they were small
 
@@ -33,7 +33,7 @@ scene_actions:
   - freeze evidence custody
   - delay a sterilization team by demanding classification review
   - misread a Portia mark, then correct herself
-  - ask Voss the question he most wants and least wants
+  - ask Veyra the question he most wants and least wants
   - create a provisional sanctuary exception with ugly terms
 
 taboos:

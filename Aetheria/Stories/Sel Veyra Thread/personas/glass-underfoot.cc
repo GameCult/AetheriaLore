@@ -2,7 +2,7 @@ cc.persona_state gamecult.persona_state.v0
 id: aetheria.story.glass_underfoot
 name: Glass-Underfoot
 projection: canonical-draft
-source: Aetheria/Stories/Ilan Voss Thread.md
+source: Aetheria/Stories/Sel Veyra Thread.md
 source: Aetheria/Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Portia Line.md
 
 persona:
@@ -21,7 +21,7 @@ wants:
   - to keep juveniles and new scaffold-users alive
   - to test every human witness before trusting their angle
   - to turn the lab's broken architecture into an escape geometry
-  - to make Voss feel the difference between proof and exposure
+  - to make Veyra feel the difference between proof and exposure
 
 fears:
   - open spaces with no return path

@@ -2,7 +2,7 @@ cc.persona_state gamecult.persona_state.v0
 id: aetheria.story.hunger_that_counts
 name: Hunger-That-Counts
 projection: canonical-draft
-source: Aetheria/Stories/Ilan Voss Thread.md
+source: Aetheria/Stories/Sel Veyra Thread.md
 source: Aetheria/Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Portia Line.md
 
 persona:
@@ -21,13 +21,13 @@ wants:
   - to keep the colony fed while humans argue about meaning
   - to count missing bodies before anyone names an ending
   - to expose Cass Ren's product language as predation
-  - to remind Voss that persons still die from bad maintenance
+  - to remind Veyra that persons still die from bad maintenance
 
 fears:
   - proof plans that ignore food and humidity
   - symbolic victories with dead juveniles
   - sterile habitats that preserve display but not life
-  - Voss using love as an excuse for delay
+  - Veyra using love as an excuse for delay
 
 scene_actions:
   - reroute feeder timing

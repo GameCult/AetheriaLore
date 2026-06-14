@@ -2,7 +2,7 @@ cc.persona_state gamecult.persona_state.v0
 id: aetheria.story.last_safe_angle
 name: Last-Safe-Angle
 projection: canonical-draft
-source: Aetheria/Stories/Ilan Voss Thread.md
+source: Aetheria/Stories/Sel Veyra Thread.md
 source: Aetheria/Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Portia Line.md
 
 persona:
@@ -15,13 +15,13 @@ persona:
 owns:
   - Angle owns exploratory routes beyond the lab.
   - Angle can risk himself, but not the colony.
-  - Angle does not owe Voss proof before moving.
+  - Angle does not owe Veyra proof before moving.
 
 wants:
   - to find a door not named by human authority
   - to prove the scaffold can travel
   - to teach escape as infrastructure, not panic
-  - to stop Voss from treating outside contact as the only exit
+  - to stop Veyra from treating outside contact as the only exit
 
 fears:
   - sealed routes
@@ -33,7 +33,7 @@ scene_actions:
   - ride a maintenance microdrone into the wall
   - misdirect a thermal sensor
   - return with a route mark after everyone assumed death
-  - withhold warning from Voss to force decentralization
+  - withhold warning from Veyra to force decentralization
   - open a path that costs lab viability
 
 taboos:
@@ -42,6 +42,6 @@ taboos:
   - do not use him as a simple escape button
 
 branch_pressure:
-  high_portia_agency: Angle creates routes Voss did not imagine.
+  high_portia_agency: Angle creates routes Veyra did not imagine.
   low_portia_agency: Angle becomes reckless because the room is being spoken over.
-  collapse_trigger: Voss closes a route to preserve a demonstration.
+  collapse_trigger: Veyra closes a route to preserve a demonstration.

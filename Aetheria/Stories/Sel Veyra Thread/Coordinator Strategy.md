@@ -4,16 +4,16 @@
 
 Build an interactive fiction thread where the central dramatic pressure is not "prove the spiders are smart" but "decide which proof, relationship, and escape route survives when a new kind of personhood becomes politically inconvenient."
 
-The story should branch around Voss's choices and fold around Portia agency. The player may guide attention, disclosure, concealment, and trust, but the Portias are not inventory and should not collapse into pets, tools, or exotic sidekicks.
+The story should branch around Veyra's choices and fold around Portia agency. The player may guide attention, disclosure, concealment, and trust, but the Portias are not inventory and should not collapse into pets, tools, or exotic sidekicks.
 
 ## Current Mechanism
 
-The live canon says the [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Portia Line|Portia Line]] emerges from an illegal scaffold after the [[Worldbuilding/Pre-Elysium/Timeline/Events/Cold Wake Panic|Cold Wake Panic]]. Public histories name Sel Veyra as the origin point. This story makes that name a legal mask over Ilan Voss, a researcher whose forced seclusion has become indistinguishable from devotion, shame, and survival.
+The live canon says the [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Portia Line|Portia Line]] emerges from an illegal scaffold after the [[Worldbuilding/Pre-Elysium/Timeline/Events/Cold Wake Panic|Cold Wake Panic]]. Sel Veyra is the researcher at the origin point: a person whose forced seclusion has become indistinguishable from devotion, shame, and survival.
 
 Interactive state should track pressures rather than morality scores:
 
-- `voss_coherence`: whether Voss can speak, choose, and interpret without collapsing into desperation.
-- `portia_agency`: whether Portia actions are represented as authored routes rather than Voss's evidence.
+- `veyra_coherence`: whether Veyra can speak, choose, and interpret without collapsing into desperation.
+- `portia_agency`: whether Portia actions are represented as authored routes rather than Veyra's evidence.
 - `proof_integrity`: whether the miracle can survive hostile interpretation.
 - `lab_viability`: whether the scaffold remains livable enough for Portia minds to persist.
 - `public_contamination`: how badly institutions have reframed the event as fraud, biohazard, or threat.
@@ -23,10 +23,10 @@ Interactive state should track pressures rather than morality scores:
 ## Invariants
 
 - The Portias are characters with motives, memory, etiquette, and fear. They are not a puzzle interface.
-- Voss does not own the miracle after it becomes persons. His tragedy is partly discovering that success removes his authority.
+- Veyra does not own the miracle after it becomes persons. His tragedy is partly discovering that success removes his authority.
 - The scaffold is not decorative technology. It is the cognitive environment that makes the first generation legible and survivable.
 - Branches should create different public histories, not alternate truths about whether the Portias are persons.
-- The story must keep the difference between Voss's need to be believed and the Portias' need to survive.
+- The story must keep the difference between Veyra's need to be believed and the Portias' need to survive.
 - Every ending should seed the later Portia Line: sanctuary, disappearance, hostile containment, partial proof, or mythic misfile.
 
 ## Persona Projection Loop
@@ -44,16 +44,16 @@ Use the `.cc` Persona packets as source-grounded projection surfaces. The coordi
 4. Run a director pass that turns those pressures into three or four player choices.
 5. Run a Soul pass against the invariants:
    - Did any Portia become a prop?
-   - Did Voss's pain erase Portia agency?
+   - Did Veyra's pain erase Portia agency?
    - Did a branch solve institutional hostility too easily?
    - Did the scaffold matter materially?
 6. Fold consequences into state variables and route memory before the next beat.
 
 ## Prompt Projection Roles
 
-### Voss Projection
+### Veyra Projection
 
-Use for scenes where speech, proof, guilt, bodily failure, or public persuasion matters. Voss should be brilliant and compromised, never merely mad. His worst choices should be understandable because he has spent years with the room as his only witness.
+Use for scenes where speech, proof, guilt, bodily failure, or public persuasion matters. Veyra should be brilliant and compromised, never merely mad. His worst choices should be understandable because he has spent years with the room as his only witness.
 
 ### Portia Projection
 
@@ -69,7 +69,7 @@ Branches should differ by what gets spent:
 
 - Spend proof to save bodies.
 - Spend bodies to preserve proof.
-- Spend Voss's credibility to preserve Portia agency.
+- Spend Veyra's credibility to preserve Portia agency.
 - Spend lab viability to escape institutional capture.
 - Spend secrecy to gain a human handle.
 - Spend public clarity to preserve route memory.
@@ -77,7 +77,7 @@ Branches should differ by what gets spent:
 Folds should return to unavoidable pressures:
 
 - The lab cannot remain hidden.
-- Voss cannot remain sole translator.
+- Veyra cannot remain sole translator.
 - The Portias cannot survive as mere evidence.
 - Institutions will classify the event before they understand it.
 - Someone will ask who owns the scaffold.
@@ -90,4 +90,4 @@ Portia text can be beautiful, but it should stay concrete. No mystical spider ch
 
 ## Cut Line
 
-Delete any branch whose only function is novelty. Delete any choice that asks the player to decide whether the Portias count as people. Delete any scene where Voss's redemption matters more than the fate of the minds he helped make visible.
+Delete any branch whose only function is novelty. Delete any choice that asks the player to decide whether the Portias count as people. Delete any scene where Veyra's redemption matters more than the fate of the minds he helped make visible.
