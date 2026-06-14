@@ -8,6 +8,8 @@ type Route = {
   matches: string[]
 }
 
+const githubUrl = "https://github.com/GameCult/Aetheria"
+
 const routes: Route[] = [
   {
     label: "Home",
@@ -84,6 +86,14 @@ export default (() => {
               </a>
             )
           })}
+          <a
+            href={githubUrl}
+            class="aetheria-nav-chip"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
         </nav>
       </section>
     )
