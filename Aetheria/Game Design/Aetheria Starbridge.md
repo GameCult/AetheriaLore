@@ -684,6 +684,71 @@ The first release should keep these boosts shallow and transparent. The goal is
 to make every run feel productive, not to make early runs feel intentionally
 underpowered.
 
+Completing the game should also unlock the next scenario. Scenario unlocks are
+the content-progression spine: a crew survives one authored co-op crisis, earns
+score currency and account investment, then opens the next crisis with a
+different starting shape.
+
+Each scenario defines:
+
+- starting base configuration;
+- initial station stock and ship availability;
+- starting technology availability;
+- wave structure and boss sequence;
+- faction mix attacking the base;
+- faction-specific loot table and recovered technology pool;
+- narrative premise and post-run consequence.
+
+The faction mix matters mechanically. A [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Zhestokost|Zhestokost]]
+attack should drop different hardware, pressure different defenses, and reward
+different recovery choices than a [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Cryonix|Cryonix]]
+raid, a pirate siege, autonomous probes, or alien-aligned machines. The scenario
+is therefore not just a map label. It is a controlled remix of production
+history, hostile doctrine, and reward ecology.
+
+This gives Starbridge an episodic release model. New scenarios can arrive as a
+steady stream of co-op episodes: compact authored premises, bounded mechanical
+twists, new faction mixes, and new recovered technology pools that groups can
+work through together without requiring a whole new campaign architecture every
+time.
+
+## Narrative
+
+Starbridge's narrative should follow the principles in [[Narrative and Missions]]:
+authored pressure inhabiting systemic space. A scenario is not just "wave set
+number seven." It is a particular base, under particular attack, for reasons
+that expose something about Aetheria's institutions.
+
+The first narrative unit is the defended base:
+
+- who built it;
+- who works there;
+- what it produces, stores, researches, or protects;
+- why the attackers want it destroyed or captured;
+- what the crew loses if it falls;
+- what uncomfortable thing surviving proves.
+
+The RTS player and pilots do not need long cutscenes during combat. They need
+briefings, station chatter, faction voice, boss introductions, post-wave recovery
+messages, and end-of-scenario consequences that make the defense feel situated.
+
+Scenario narrative can carry the live-content cadence:
+
+- an emergency defense of a frontier fabricator;
+- a station caught in a corporate patent raid;
+- a salvage court dispute turning into armed seizure;
+- a Cryonix thermal systems trial that becomes a siege;
+- a pirate coalition attack on a repair depot;
+- an alien probe sequence misread as ordinary raiding until the loot table stops
+  looking human.
+
+Narrative rewards should stay mostly systemic. A completed scenario can unlock
+the next scenario, alter available station stock, add a recovered technology to
+future pools, expose a faction's doctrine, or change how later briefings frame
+the same war. Starbridge should be able to release episodes constantly because
+each episode is a reusable composition of premise, starting configuration,
+faction mix, boss sequence, and loot ecology.
+
 ## User Interface Direction
 
 ### RTS Interface
@@ -797,6 +862,9 @@ grow later.
 - 1-4 pilot players;
 - one defend-the-base map;
 - one session mode;
+- scenario selection and completion unlocks;
+- first scenario definition with starting base, stock, technologies, attacker
+  mix, and loot table;
 - five enemy archetypes;
 - small RTS build set;
 - one baseline combat ship kit;
@@ -817,6 +885,7 @@ grow later.
 - wave preview through sensors;
 - post-wave upgrade choices;
 - meta-progression percentage boost investments;
+- episodic scenario metadata for faction mix and recovered technology pools;
 - pilot down/respawn loop through launch bay;
 - overclock, cooling, and vent interaction;
 - drone leashing;
@@ -855,6 +924,8 @@ The first release succeeds if:
 - pilots always have something physical and useful to do;
 - post-wave technology choices make runs diverge in readable ways;
 - score currency makes every run feel productive without replacing teamwork;
+- completing a scenario unlocks the next co-op episode;
+- faction mixes alter enemy pressure and recovered technology loot tables;
 - the team loses because of readable tactical failure, not confusion;
 - communication clearly improves outcomes;
 - the same battle feels different with different player behavior;
@@ -875,6 +946,8 @@ The first release succeeds if:
   derive from deterministic wave definitions?
 - Which pieces of Starbridge meta-progression should map to licenses,
   certification, manufacturing reserve, or reset-loop memory?
+- What is the first scenario sequence, and how many scenarios should ship before
+  the live episode cadence begins?
 - How much production provenance should station stock expose in the first
   release: item quality only, manufacturer identity, or full material history?
 - Should boss technologies be framed as research patents, hostile subsystem
