@@ -25,6 +25,35 @@ The result is a simple game with a clean silhouette:
 
 > One base. One crew. One player sees the whole war. The others are in it.
 
+## Market Pitch
+
+Starbridge is built for friend groups, not isolated individual fantasies. Its
+central market promise is that the group already contains different kinds of
+players, and the game finally makes that social shape useful.
+
+The pitch:
+
+> The co-op space defense game for the friend who wants to build the base and
+> the friends who want to fly out and save it.
+
+The RTS role is not a burden assigned to a random public-match stranger. It is a
+place for the friend who already likes strategy, logistics, tower defense,
+factory planning, or commander play. The pilot roles are for the friends who
+want movement, combat, salvage, repair, cooling, and clutch field execution.
+
+This makes the design unusual without making it illegible:
+
+- one player commands the base;
+- the others fly ships;
+- everyone defends the same position;
+- waves end in boss technology recovery;
+- the team refits, upgrades, and unlocks the next scenario together.
+
+The audience is the co-op group chat: three to five people looking for a game
+where different tastes can become a crew instead of a compromise. Starbridge
+should market itself less as an RTS/FPS hybrid for genre purists and more as an
+asymmetric co-op defense game for mixed-skill, mixed-preference friend groups.
+
 ## Design Intent
 
 Aetheria has long wanted two different kinds of players to struggle together in
@@ -245,6 +274,38 @@ Core pilot verbs:
     falls.
 
 Target first-release session length: **20-30 minutes**.
+
+## Session Pacing
+
+Starbridge should be tuned around graceful failure. The game should not collapse
+the first time one role underperforms. A completely undefended base can survive a
+few waves on passive resilience, starter systems, and forgiving enemy pacing. A
+good commander or a good crew can carry the team roughly halfway. Finishing a
+run requires everyone doing their jobs.
+
+The pacing goal:
+
+- **Opening waves**: teach the shape of the game. The base can absorb mistakes,
+  pilots can learn movement and salvage, and the commander can learn power,
+  stock, and build tools without instantly dooming the team.
+- **Early pressure**: either side can compensate. Strong pilots can intercept
+  threats and recover salvage while a new commander learns. A strong commander
+  can stabilize weak pilots with turret placement, repair reserves, drones, and
+  clear priorities.
+- **Middle waves**: the team begins to feel role dependency. Salvage flow,
+  station refits, support gear, thermal debt, and build timing start to matter
+  together rather than separately.
+- **Late waves**: no single role can carry. Pilots need a prepared base,
+  commander support, and sensible recovered technologies. The commander needs
+  pilots to execute dangerous objectives, recover key salvage, cool overheated
+  systems, and repair exposed modules.
+- **Finale**: the run asks whether the group became a crew. Victory should feel
+  earned through division of labor, not raw damage output.
+
+This protects the friend-group fantasy. Nobody should feel that inviting the
+strategy friend creates homework, and nobody should feel that a new pilot turns
+the session into a tutorial hostage situation. The game welcomes uneven skill,
+then gradually makes coordination necessary.
 
 ## Match Structure
 
@@ -563,6 +624,10 @@ Player lesson: not every threat is solved by damage alone.
 
 Difficulty should scale through composition, timing, and pressure layering, not
 just health inflation.
+
+The campaign curve should follow the same carry philosophy as session pacing:
+roles are individually sufficient early, partially sufficient in the middle, and
+intentionally insufficient alone by the end.
 
 Early waves teach one problem at a time:
 
@@ -922,6 +987,11 @@ The first release succeeds if:
 - new players understand the win condition immediately;
 - the RTS player is meaningfully busy for the entire session;
 - pilots always have something physical and useful to do;
+- an undefended base can survive the first few waves;
+- either a strong commander or strong pilots can carry the group into the middle
+  of a run;
+- completing a run requires commander preparation, pilot execution, support
+  gear, and shared recovered technology choices;
 - post-wave technology choices make runs diverge in readable ways;
 - score currency makes every run feel productive without replacing teamwork;
 - completing a scenario unlocks the next co-op episode;
