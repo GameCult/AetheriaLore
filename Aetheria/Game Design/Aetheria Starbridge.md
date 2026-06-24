@@ -539,6 +539,30 @@ Pilot ships should carry auto-eject survival pods. A pilot can trigger ejection
 at any time, and catastrophic ship failure should trigger it automatically when
 the pod system is still functional.
 
+The survival pod should be represented as a proxy ship with a fixed loadout
+determined by the ship's cockpit item. In fiction and in camera language, the
+cockpit the player sees is ejected whole as a module. The player does not
+teleport into an abstract escape object; their view tears free from the failing
+hull, carrying the cockpit module into the field as a small, limited,
+recoverable craft.
+
+The cockpit item therefore defines the pod's emergency capabilities:
+
+- minimal thrusters;
+- emergency beacon;
+- short-range comms;
+- limited sensors;
+- small self-defense gun or flare/countermeasure behavior if supported;
+- no lawful combat role;
+- no cargo or support-service capacity beyond survival.
+
+Escape pods can carry small guns, but those guns exist for wildlife,
+microdrone, debris, or desperate proximity defense after ejection. They are not
+legitimate combat craft. Using a pod as a combatant is a war crime because the
+entire survival norm depends on everyone treating pods as protected objects. The
+reason pirates, station guns, and player ships generally do not target pods is
+that pods are not supposed to affect the battle.
+
 This keeps ship loss material without making it terminal. Losing a ship costs
 the team hull value, equipment access, cargo, field position, recovery time, and
 possibly whatever wreck claim the attackers or scenario rules create. It does
@@ -548,12 +572,14 @@ continues without them.
 The survival loop:
 
 1. Pilot ejects manually or through automatic catastrophic-loss protection.
-2. The pod becomes a vulnerable recoverable object in the field.
-3. The Launch/Service Bay can recall, recover, or receive the pod depending on
+2. The cockpit module separates from the hull and becomes the pilot's proxy ship
+   with the cockpit item's fixed pod loadout.
+3. The pod becomes a vulnerable recoverable object in the field.
+4. The Launch/Service Bay can recall, recover, or receive the pod depending on
    distance, threat, and scenario rules.
-4. The pilot returns through an available ship, replacement hull, or repaired
+5. The pilot returns through an available ship, replacement hull, or repaired
    docked craft.
-5. The lost ship becomes an economic and tactical setback, not a player-state
+6. The lost ship becomes an economic and tactical setback, not a player-state
    failure.
 
 This follows the design pressure in [[Progression, Claims, and Consequence]]:
