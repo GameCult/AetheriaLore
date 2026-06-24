@@ -560,3 +560,143 @@ camera above the base. Keep the bottom third occupied by the station core. Keep
 the four player ships arranged protectively around the station, facing outward.
 Place all enemy groups outside the shield perimeter. Make every attack vector
 and defensive action legible in the panorama.
+
+## Revision: Outward-Looking Panorama From Above Station
+
+Use case: ads-marketing
+
+Asset type: Starbridge promo splash art / panoramic website hero image
+
+Input image: use the provided Aetheria screenshot as structural reference, not
+merely mood. The nebula forms gravitational terrain: a luminous blue-white
+volumetric surface like an ocean of space-clouds. Resources, debris, ships,
+stations, missiles, and combat activity cluster along or just above this nebular
+surface. Larger celestial bodies float above the surface. The battlefield should
+feel like it takes place at the playable boundary of the nebula, not in empty
+black deep space.
+
+Camera and format: panoramic wide-angle key art from a camera positioned above
+the station, looking outward across the battlefield rather than straight down.
+The station core is below and slightly behind the camera, mostly out of sight.
+Only the upper rim of the base, shield projectors, turrets, docking arms,
+radiator edges, and service structures are visible along the bottom foreground.
+The viewer should feel perched above the base looking out over its defensive
+perimeter toward the incoming pirates.
+
+Primary request: Create splashy matte-painting promo art for Aetheria:
+Starbridge. An Aeronautics Unlimited frontier station is being defended by four
+player ships arranged protectively around its visible upper perimeter while
+pirate forces attack from the outer edges of the nebular terrain. The defenders
+must clearly face outward and protect the station. They must not look like they
+are attacking the station.
+
+Composition:
+
+- **Bottom foreground**: the upper edge of the station fills the bottom band of
+  the panorama. Show only the visible rim of the base: shield emitter pylons,
+  point-defense turrets, docking-arm tips, radiator edges, service gantries, and
+  glowing infrastructure. The actual base core is below the camera and out of
+  frame.
+- **Middle band**: the station shield perimeter arcs across the image, just
+  beyond the foreground base rim. Four defending player ships form a clear
+  protective diamond along this perimeter, all oriented outward.
+- **Far field**: the blue-white nebular gravitational terrain stretches outward
+  from the station into the distance, with asteroid resources and debris
+  floating at the surface. Pirate attackers occupy the far left, far right,
+  upper-left, upper-right, and lower side approach lanes outside the defender
+  ring.
+- **Sky/depth marker**: a small pale icy moon or celestial body floats above the
+  nebular terrain in the upper middle distance, giving scale and echoing the
+  provided reference.
+
+Four defending player ships:
+
+1. **DPS ship A / interceptor**: lower-left perimeter, just beyond the visible
+   base rim and outside the shield arc. Sleek red-and-white triangular
+   interceptor, banking outward along the nebula surface. It fires twin
+   blue-white laser streams away from the station into pirate skiffs and laser
+   raiders on the left approach.
+2. **Tank ship / shield defender**: left-center perimeter, between the station
+   and the heaviest incoming laser fire. Bulky slab-armored ship with a large
+   cyan frontal shield facing outward. Its shield overlaps the station shield,
+   catching red-orange beams before they reach the visible base rim.
+3. **DPS ship B / gunship**: upper-right perimeter, outside the shield arc.
+   Heavier gunship with broad cannons and missile pods, nose pointed outward
+   toward the right and upper-right approaches. It launches missiles away from
+   the station toward a torpedo bomber and missile boats.
+4. **Support ship / repair-cooling craft**: lower-right perimeter, close to a
+   damaged radiator edge on the visible base rim. Compact utility craft with
+   articulated repair arms. One cyan repair beam and one pale coolant beam reach
+   down and back toward the damaged station edge, while white-blue heat mist
+   vents away from the base. It must read as servicing the station, not attacking
+   it.
+
+Enemy combatants:
+
+1. **Pirate laser raiders**: far left approach, small fast ships skimming the
+   nebula surface. They fire red-orange beam volleys inward toward the tank ship
+   and station shield.
+2. **Pirate missile boats**: far right approach, wedge-shaped craft launching
+   dense curved missile swarms inward toward the station. Missile trails arc
+   across the panorama and are intercepted by point defense.
+3. **Boarding pod carriers**: lower-right outer approach, ugly armored carriers
+   releasing small boarding pods inward toward the station's docking arms. The
+   pods form a dotted trail of hot engine sparks approaching the shield
+   boundary.
+4. **Torpedo bomber**: upper-left distance above the nebular surface, lining up
+   a heavy torpedo run toward the station below the camera. DPS ship B's missile
+   salvo streaks outward to intercept it.
+5. **Jammer corvette**: upper-right distance, spindly pirate support vessel
+   projecting faint red interference rings inward toward the station sensor mast
+   and shield perimeter.
+6. **Salvage skiffs**: lower-left outer edge, small pirate utility craft trying
+   to tow wreckage or resource fragments away from the battlefield while DPS
+   ship A peels outward to stop them.
+
+Projectile and motion vectors:
+
+- Enemy fire, missiles, boarding pods, and jammer rings travel inward from the
+  outer approaches toward the station perimeter.
+- Defender lasers, missiles, point-defense tracers, and shield faces point
+  outward from the station perimeter toward enemy groups.
+- Point-defense tracers originate from turrets along the bottom foreground base
+  rim and streak outward into incoming missile swarms.
+- Repair and coolant beams from the support ship angle down/back toward the
+  damaged station edge, visually distinct from weapons.
+- No defender weapon line points into the base.
+
+Visual hierarchy:
+
+1. The visible station rim and shield perimeter anchor the bottom foreground.
+2. The four defender ships are bright, medium-sized, and arranged as a protective
+   perimeter.
+3. Enemy ships are darker, ragged, and outside the perimeter, with red-orange
+   effects.
+4. Missile trails, laser beams, point-defense tracers, repair beams, shield
+   impacts, and jammer rings guide the eye across the panoramic battlefield
+   without confusing who is defending whom.
+
+Style/medium: high-end cinematic sci-fi matte painting, key art, painterly
+realism, dramatic scale, dense but readable battlefield composition, no UI, no
+text.
+
+Lighting/mood: intense blue-white nebula backlight, cold cyan shields and
+coolant beams, hot red-orange pirate impacts, white point-defense flashes,
+desperate but heroic co-op defense energy.
+
+Color palette: cold luminous blues, cyan shields, white nebula haze, steel-gray
+AU station, red-orange impact accents and pirate engine glows, small red/white
+accents on DPS A.
+
+Materials/textures: industrial station plating seen from above and behind,
+glassy shield refraction, heat-scarred turret barrels, missile plasma trails,
+repair/cooling beams, asteroid debris, volumetric nebula clouds, ragged pirate
+armor plating, scorched missile racks, flickering jammer rings.
+
+Constraints: no text, no logos, no watermark, no readable cockpit UI, no single
+huge human figure, no Star Wars/Star Trek styling, no fantasy magic. Do not show
+the entire station core as a top-down map; the core is below the camera and out
+of sight. Show only the upper rim of the base along the bottom foreground. Keep
+the four player ships arranged protectively around the station perimeter, facing
+outward. Place all enemy groups outside the shield perimeter. Make every attack
+vector and defensive action legible in the panorama.
