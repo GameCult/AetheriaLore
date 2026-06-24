@@ -377,8 +377,8 @@ First-release systems:
   field replacements through the [[Economy and Production]] grammar of inputs,
   quality, and maintenance.
 - **Sensor Array**: improves wave prediction, enemy reveal, and target marking.
-- **Launch/Service Bay**: respawn, repair, rearm, docked ship selection, and
-  pilot support.
+- **Launch/Service Bay**: survival pod recovery, respawn, repair, rearm, docked
+  ship selection, and pilot support.
 
 Damage should be readable. If the shield node is failing, everyone should know
 where and why.
@@ -527,6 +527,33 @@ Salvage is the main bridge between pilot risk and RTS agency. It should inherit
 the spirit of [[Progression, Claims, and Consequence]]: wreck recovery takes
 time, exposes the recovering ship, and may force the team to decide whether a
 component, material cache, or boss technology is worth the danger.
+
+### Survival Pods
+
+Pilot ships should carry auto-eject survival pods. A pilot can trigger ejection
+at any time, and catastrophic ship failure should trigger it automatically when
+the pod system is still functional.
+
+This keeps ship loss material without making it terminal. Losing a ship costs
+the team hull value, equipment access, cargo, field position, recovery time, and
+possibly whatever wreck claim the attackers or scenario rules create. It does
+not remove a player from the session or force them to spectate while the crew
+continues without them.
+
+The survival loop:
+
+1. Pilot ejects manually or through automatic catastrophic-loss protection.
+2. The pod becomes a vulnerable recoverable object in the field.
+3. The Launch/Service Bay can recall, recover, or receive the pod depending on
+   distance, threat, and scenario rules.
+4. The pilot returns through an available ship, replacement hull, or repaired
+   docked craft.
+5. The lost ship becomes an economic and tactical setback, not a player-state
+   failure.
+
+This follows the design pressure in [[Progression, Claims, and Consequence]]:
+failure leaves wreckage, claim risk, repair cost, and station exposure behind.
+The person survives. The balance sheet does not.
 
 ### Construction Ghosts
 
@@ -938,6 +965,7 @@ grow later.
 - salvage economy;
 - randomized post-wave technology recovery;
 - wave bosses or command units that drop recovered technologies;
+- pilot survival pods and ship-loss recovery;
 - construction anchoring;
 - target marking;
 - drone/turret support;
@@ -987,6 +1015,8 @@ The first release succeeds if:
 - new players understand the win condition immediately;
 - the RTS player is meaningfully busy for the entire session;
 - pilots always have something physical and useful to do;
+- total ship loss is a resource and positioning setback, not a terminal player
+  state;
 - an undefended base can survive the first few waves;
 - either a strong commander or strong pilots can carry the group into the middle
   of a run;
@@ -1008,8 +1038,8 @@ The first release succeeds if:
   commander fill the chair for pilot-only testing?
 - Should pilots have identical ships at first, or light role differences such as
   interceptor, bruiser, and support?
-- How punishing should pilot death be in a 2-player session versus a 5-player
-  session?
+- How much tactical risk should pod recovery carry before it becomes too
+  punishing for new crews?
 - Should construction anchoring require holding position, completing a timing
   interaction, or surviving a short vulnerable channel?
 - How much enemy wave control should the RTS runtime author directly versus
