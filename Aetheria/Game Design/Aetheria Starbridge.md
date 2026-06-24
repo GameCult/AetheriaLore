@@ -29,7 +29,8 @@ The result is a simple game with a clean silhouette:
 
 Aetheria has long wanted two different kinds of players to struggle together in
 the same universe: the player who loves systems, economy, construction, and
-command, and the player who wants thrust, weapons, heat, dodging, and risk.
+command, and the player who wants thrust, weapons, heat, dodging, and risk. See
+[[Playable Layers]] for the larger design problem Starbridge is cutting into.
 **Starbridge** turns that ambition into a readable first release.
 
 The game should be easy to understand in five minutes:
@@ -43,6 +44,39 @@ The game should be easy to understand in five minutes:
 The innovation comes from the way those roles depend on one another. The RTS
 player is not a spectator, and the pilots are not units. Each side owns
 information, agency, and failure modes the others cannot replace.
+
+## Relationship To Aetheria Systems
+
+Starbridge is the short-session co-op proof of Aetheria's larger design stack.
+It should not invent a separate class game, economy, or combat model for the
+sake of convenience. It should compress existing Aetheria pressures into a
+smaller arena where their relationships become easier to read.
+
+Core inheritance:
+
+- [[Design Pillars]]: the game must make heat, repair, risk, labor, and survival
+  feel material rather than decorative.
+- [[Playable Layers]]: the RTS operator and pilots are two distances from the
+  same crisis, not two unrelated clients sharing a scoreboard.
+- [[Action RPG Layer]]: ship feel, tactical combat, salvage, docking, and
+  loadout pressure come from cockpit-scale Aetheria.
+- [[Corporate Strategy Layer]]: infrastructure, production, research recovery,
+  station stock, and base defense come from strategy-scale Aetheria.
+- [[Ship-shape and Up to Specs]]: ships are hulls, hardpoints, heat budgets,
+  cargo compromises, docking options, and manufacturer doctrine.
+- [[Heat, Stealth, and Detection]]: thermal support is not healing by another
+  name. It is heat debt management under fire.
+- [[Economy and Production]]: every weapon, drone, support module, and station
+  stock item should have production history, quality, and maintenance
+  implications.
+- [[Progression, Claims, and Consequence]]: recovery, wreck claims, station
+  exposure, drones, and equipment access should all leave material traces.
+- [[Persistent Universe and Reset Loop]]: repeated runs should feel like a
+  scoped expression of Aetheria's larger reset logic: selective carryover,
+  knowledge, changed baselines, and another attempt under pressure.
+- [[Implementation Signals]]: the active game repo already points toward typed
+  state, behavior-driven equipment, cargo, docking, heat, and shared
+  simulation; Starbridge should use that direction rather than route around it.
 
 ## Subtitle Rationale
 
@@ -92,8 +126,8 @@ useful.
 ### 2. One Shared War Machine
 
 The base is not a static health bar. It is a living machine made of power,
-sensors, fabrication, defense, repair, and launch capacity. When part of it is
-damaged, the whole team should feel the change.
+sensors, fabrication, defense, repair, launch capacity, and station stock. When
+part of it is damaged, the whole team should feel the change.
 
 ### 3. Communication As Mechanics
 
@@ -112,14 +146,17 @@ The Verse authority model should support the game fantasy directly. The RTS
 runtime naturally authors base and tactical infrastructure. Pilot runtimes
 naturally author responsive ship claims. Short-lived leases can allow local
 close-combat response without turning every client into a hidden global
-authority.
+authority. That makes the networking model an expression of [[Playable Layers]],
+not just transport plumbing.
 
 ## Player Roles
 
 ### RTS Player: The Chair
 
 The RTS player acts as the base commander, logistics officer, engineer, and
-tactical systems operator.
+tactical systems operator. This role is a small-session expression of
+[[Corporate Strategy Layer]]: infrastructure and production decisions become
+conditions the pilots have to survive physically.
 
 Primary responsibilities:
 
@@ -152,7 +189,9 @@ Core RTS verbs:
 ### Ship Players: The Pilots
 
 Pilots fly individual ships in the Unity client. They are the fast, embodied
-response layer of the team.
+response layer of the team. Their verbs come from [[Action RPG Layer]] and
+[[Ship-shape and Up to Specs]]: the ship on screen is still a working object,
+not a class portrait with engines painted on.
 
 Primary responsibilities:
 
@@ -273,9 +312,12 @@ First-release systems:
   and long-term risk.
 - **Shield Nodes**: directional defensive systems that create obvious defense
   priorities.
-- **Fabricator**: converts salvage into deployables, repairs, and ammunition.
+- **Fabricator**: converts salvage into deployables, repairs, ammunition, and
+  field replacements through the [[Economy and Production]] grammar of inputs,
+  quality, and maintenance.
 - **Sensor Array**: improves wave prediction, enemy reveal, and target marking.
-- **Launch/Service Bay**: respawn, repair, rearm, and pilot support.
+- **Launch/Service Bay**: respawn, repair, rearm, docked ship selection, and
+  pilot support.
 
 Damage should be readable. If the shield node is failing, everyone should know
 where and why.
@@ -319,8 +361,9 @@ pathing or create kill zones.
 Starbridge should use Aetheria's existing ship and loadout identity rather than
 flattening pilots into fixed hero classes. Ships have hulls, hardpoints,
 equipment, cargo, thermal behavior, docking state, and station-facing inventory.
-The first release should make that system readable in co-op without exposing
-all of its long-term complexity at once.
+This is the [[Ship-shape and Up to Specs]] doctrine in co-op form. The first
+release should make that system readable without exposing all of its long-term
+complexity at once.
 
 Pilots can dock at the station between waves, or during combat if they accept
 the time and positioning risk. While docked, a pilot can:
@@ -332,15 +375,24 @@ the time and positioning risk. While docked, a pilot can:
 - install repair equipment;
 - restore a saved or preset loadout when the required stock exists.
 
-The station's stock is a team resource. A coolant projector sitting in storage
-is not helping anyone until a pilot chooses to give up another hardpoint for it.
+The station's stock is a team resource and a miniature
+[[Economy and Production]] surface. A coolant projector sitting in storage is
+not helping anyone until a pilot chooses to give up another hardpoint for it.
 This makes support an equipment commitment rather than a passive role label.
+
+Station stock should eventually carry quality and provenance:
+
+- mass-produced emergency gear with poor thermal margins;
+- recovered boss technology that enters the stock pool for this run;
+- premium manufactured components with better durability or performance curves;
+- scarce support modules whose presence changes team composition decisions.
 
 ### Thermal Support
 
 Thermal support means providing cooling services to ships, drones, turrets, and
 base systems. It should be expressed through gear that must be mounted on the
-supporting ship.
+supporting ship. This is [[Heat, Stealth, and Detection]] as cooperative labor:
+one player takes on the work of moving someone else's heat debt.
 
 Candidate thermal support gear:
 
@@ -361,7 +413,9 @@ vulnerable, and visibly different from shooting.
 
 Repair support means restoring damaged hulls, drones, turrets, and exposed base
 modules. It should also come from equipped gear, not from every ship having a
-universal repair button.
+universal repair button. In Aetheria terms, repair is not mercy dust. It is
+maintenance access, parts availability, time under threat, and a claim on the
+team's limited station stock.
 
 Candidate repair gear:
 
@@ -408,7 +462,10 @@ Destroyed enemies drop salvage. Pilots must recover it physically or escort
 collection drones. The RTS player spends salvage on structures, repairs, drones,
 and munitions.
 
-Salvage is the main bridge between pilot risk and RTS agency.
+Salvage is the main bridge between pilot risk and RTS agency. It should inherit
+the spirit of [[Progression, Claims, and Consequence]]: wreck recovery takes
+time, exposes the recovering ship, and may force the team to decide whether a
+component, material cache, or boss technology is worth the danger.
 
 ### Construction Ghosts
 
@@ -418,6 +475,11 @@ must fly to the location and anchor it before it becomes real.
 This creates a direct cooperation loop:
 
 RTS player identifies need -> pilot takes risk -> base gains new capability.
+
+Construction should remain grounded in [[Corporate Strategy Layer]] and
+[[Economy and Production]]. A turret frame is not magic terrain paint. It is a
+fabricated object, powered through the grid, anchored by a pilot, and maintained
+afterward.
 
 ### Target Marks
 
@@ -534,13 +596,23 @@ Candidate boss roles:
 
 Progression should be rogue-lite adjacent. Each session should feel like a
 distinct run because the team discovers different technologies, adapts to
-different recovered options, and invests permanent score currency between runs.
+different recovered options, and invests persistent score currency between runs.
+This is the compact-session cousin of [[Persistent Universe and Reset Loop]]:
+not total continuity, not disposable attempts, but selective carryover that
+changes future pressure.
 
 ### In-Session Technology Recovery
 
 At the end of each wave, the boss drops a randomized set of recovered
 technologies. The team chooses one or more, depending on difficulty and run
 length. These technologies change the shape of the current session only.
+
+Recovered technology should feel like research salvage, not a magical level-up
+screen. The team is pulling a usable pattern, prototype module, hostile
+subsystem, fabrication technique, or field calibration out of the boss wreck and
+forcing the base to digest it quickly. That ties the reward loop back to
+[[Economy and Production]] and the research pressure described in
+[[Corporate Strategy Layer]].
 
 Recovered technologies should be concrete enough to change behavior:
 
@@ -575,6 +647,12 @@ understands.
 Every run awards a persistent currency based on in-game score. This currency can
 be invested into modest percentage boosts that tune the team's long-term
 baseline without replacing skill, coordination, or in-session decisions.
+
+Fictionally, this currency can represent post-run analysis, recovered data,
+operator certification, manufacturing credit, or sponsor confidence. The exact
+name can come later. The important design constraint is that it behaves like
+selective carryover from [[Persistent Universe and Reset Loop]], not a license to
+flatten the early game into homework.
 
 Score inputs can include:
 
@@ -685,7 +763,10 @@ final wave, shield collapse, fabricator restored.
 ## Networking And State Authority
 
 Starbridge should be the first public-facing design target for Aetheria's
-trusted co-op Verse authority.
+trusted co-op Verse authority. It is also the place where
+[[Implementation Signals]] become visible to players: typed state, ship
+equipment, cargo, docking, heat, commands, and shared simulation all need to
+agree under pressure.
 
 Initial authority shape:
 
@@ -792,6 +873,12 @@ The first release succeeds if:
   interaction, or surviving a short vulnerable channel?
 - How much enemy wave control should the RTS runtime author directly versus
   derive from deterministic wave definitions?
+- Which pieces of Starbridge meta-progression should map to licenses,
+  certification, manufacturing reserve, or reset-loop memory?
+- How much production provenance should station stock expose in the first
+  release: item quality only, manufacturer identity, or full material history?
+- Should boss technologies be framed as research patents, hostile subsystem
+  recovery, salvage claims, or emergency field modifications?
 - What in-fiction entity is attacking the base in the first release: pirates,
   autonomous war machines, alien probes, corporate raiders, or something more
   specific to the current Aetheria timeline?
