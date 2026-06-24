@@ -9,6 +9,11 @@ Game Design Document
 
 Date: 2026-06-24
 
+<figure class="aetheria-media-card is-wide">
+  <img src="../media/aetheria/starbridge-promo-outward-panorama.png" alt="Aetheria: Starbridge promo art showing an Aeronautics Unlimited station defended from pirate attack across blue-white nebular terrain." />
+  <p>Starbridge as a co-op siege line: the station rim below the camera, defenders holding the perimeter, and pirate pressure advancing across Aetheria's luminous gravitational terrain.</p>
+</figure>
+
 ## High Concept
 
 **Aetheria: Starbridge** is a 2-5 player cooperative defense game about a small
