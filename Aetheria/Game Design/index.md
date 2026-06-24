@@ -9,7 +9,7 @@ description: "Aetheria's design is two different games sharing one doomed univer
 
 Aetheria's design begins from an old, unreasonable ambition and then tries to make it survivable: two different games sharing the same doomed universe. One layer is a tactical action RPG about ships, crews, missions, routes, and violence up close. The other is a corporate strategy game about production, infrastructure, population roles, research, and economic dominance. Both are meant to feed the same persistent galaxy, where field players collide with shortages and opportunities created by the people running the machinery.
 
-That is the full beast. The first major scope cut was [[End of the Line|Aetheria: Terminus]], a rogue-lite ARPG slice designed to prove combat, traversal, ship customization, narrative pressure, and the setting's corporate logic before the project tried to swallow the whole sun and ask politely for seconds. When even that looked too large, [[Call of the Void]] became the last-ditch smaller target: curated cases, taxi work, station life, and one exhausted private investigator discovering that the rupture is not politely undoing itself.
+That is the full beast. The first major scope cut was [[End of the Line|Aetheria: Terminus]], a rogue-lite ARPG slice designed to prove combat, traversal, ship customization, narrative pressure, and the setting's corporate logic before the project tried to swallow the whole sun and ask politely for seconds. When even that looked too large, [[Call of the Void]] became the last-ditch smaller target: curated cases, taxi work, station life, and one exhausted private investigator discovering that the rupture is not politely undoing itself. [[Aetheria Starbridge|Aetheria: Starbridge]] cuts sideways instead: one RTS operator and several pilots defending the same base through Verse-authoritative co-op.
 
 ## Design Stack
 
@@ -17,6 +17,7 @@ That is the full beast. The first major scope cut was [[End of the Line|Aetheria
 - [[Playable Layers]] - how the ARPG, corporate strategy layer, and shared world are supposed to meet.
 - [[Action RPG Layer]] - cockpit-scale play: travel, combat, loadouts, risk, quests, and survival.
 - [[Corporate Strategy Layer]] - spreadsheet-scale play: corporations, labor, production, research, logistics, and market pressure.
+- [[Aetheria Starbridge]] - asymmetric co-op defense: RTS base command, pilot ships, thermal support, repair, station refits, boss technology recovery, and score-driven meta-progression.
 - [[Persistent Universe and Reset Loop]] - the long campaign structure, alien escalation, extinction, and temporal reset.
 
 ## Systems
@@ -39,6 +40,7 @@ That is the full beast. The first major scope cut was [[End of the Line|Aetheria
 
 - [[End of the Line]]
 - [[Call of the Void]]
+- [[Aetheria Starbridge]]
 - [[../Lore/Welcome to Elysium|Welcome to Elysium]]
 - [[A Different Sort of Space]]
 - [[Ship-shape and Up to Specs]]
