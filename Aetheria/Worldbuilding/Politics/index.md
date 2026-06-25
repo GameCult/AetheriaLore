@@ -22,6 +22,7 @@ This branch tracks the doctrines, constraints, and enforcement systems that keep
 ## Doctrines And Techniques
 
 - [[Worldbuilding/Politics/Thermal Signature Warfare|Thermal Signature Warfare]]
+- [[Worldbuilding/Politics/Thermal Death Culture|Thermal Death Culture]]
 - [[Worldbuilding/Politics/Why Zhestokost’s Heavy-Weapons Specialization Works|Why Zhestokost’s Heavy-Weapons Specialization Works]]
 - [[Worldbuilding/Pre-Elysium/Timeline|Timeline]]
 
