@@ -18,11 +18,15 @@ The GDD avoids simple permadeath. If life support fails, the player ejects in an
 
 This keeps failure material. The player survives, but the ship, cargo, components, location, and claim status still matter.
 
+Thermal capture makes that material failure sharper. A hostile actor can pressure cooling, force ejection, then preserve the abandoned hull for seizure. The pod remains protected, but the ship becomes a contested object with heat history, claim status, cargo exposure, and salvage value. The player's next problem is not "respawn." It is whether the wreck can be cooled, boarded, towed, scuttled, ransomed, insured, or stolen before someone else establishes a stronger claim.
+
 ## Looting And Scavenging
 
 Wrecks create timed claims. The attacker can loot while vulnerable, spending time identifying and removing contents. Item rarity affects identification time. Mass and size affect removal time. After the claim window, the wreck can become property of the system owner or scavengers.
 
 This is a strong interaction model because looting is not instant moral confetti. It is a risky industrial process performed near evidence.
+
+Temperature logs should be part of that evidence. A recovered ship or cargo stack carries a thermal history: how hot it got, how long it stayed there, which compartments exceeded spec, whether pods launched before preservation cooling began, and whether hostile heat-transfer systems kept running after surrender. That history affects resale value, insurance payout, legal standing, faction reputation, and whether a pirate seizure reads as hard capture or radiator murder.
 
 ## Stations And Exposure
 

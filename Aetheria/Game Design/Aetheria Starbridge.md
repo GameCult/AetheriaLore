@@ -460,6 +460,14 @@ base systems. It should be expressed through gear that must be mounted on the
 supporting ship. This is [[Heat, Stealth, and Detection]] as cooperative labor:
 one player takes on the work of moving someone else's heat debt.
 
+Thermal support is also anti-capture play. Some enemies should try to win by
+forcing ejection rather than by destroying hulls outright: disabling radiators,
+overloading control systems, and attaching remora-style drones that push heat
+into ships until the pilot has to abandon the craft. A support pilot counters
+that win condition by stabilizing cockpit temperature, buying safe firing time,
+burning off hostile heat debt, or cooling a ship long enough for the pilot to
+dock instead of eject.
+
 Candidate thermal support gear:
 
 - **Coolant Beam**: transfers or dissipates heat from an allied target while
@@ -470,6 +478,8 @@ Candidate thermal support gear:
   from a critical ally or structure.
 - **Heat Pump Lance**: pulls heat out of one target and dumps it into the
   support ship's own thermal system, creating risk for the rescuer.
+- **Thermal Scrubber Burst**: clears hostile heat-transfer effects from a
+  friendly ship, turret, or station module before they cascade.
 
 Thermal support should create strong positioning decisions. A pilot cooling an
 overclocked turret or overheated bomber interceptor is doing something valuable,
@@ -585,6 +595,13 @@ The survival loop:
 This follows the design pressure in [[Progression, Claims, and Consequence]]:
 failure leaves wreckage, claim risk, repair cost, and station exposure behind.
 The person survives. The balance sheet does not.
+
+Thermal capture enemies sharpen this loop. If a pilot ejects because hostile
+heat pressure made the cockpit unsafe, the pod remains protected and the ship
+becomes a contested prize. Enemy remorae can switch from heating to cooling once
+the pod clears, preserving the hull for capture. The team can answer by killing
+the remorae, towing the derelict, cooling it for re-entry, or deliberately
+scuttling the wreck before attackers claim it.
 
 ### Construction Ghosts
 
@@ -711,6 +728,8 @@ Candidate boss roles:
 - **Scout Captain**: fast target that exposes weak base coverage before dying.
 - **Siege Carrier**: launches standoff threats until pilots push out.
 - **Thermal Warden**: overheats defenses and makes cooling support matter.
+- **Remora Matron**: launches attachment drones that force pilots into
+  thermal-capture counterplay.
 - **Breach Mother**: spawns attachment drones that force close defense.
 - **Bomber Frame**: slow final threat that tests priority fire and missile
   economy.
@@ -862,6 +881,8 @@ Scenario narrative can carry the live-content cadence:
 - a salvage court dispute turning into armed seizure;
 - a Cryonix thermal systems trial that becomes a siege;
 - a pirate coalition attack on a repair depot;
+- a thermal-capture raid where pirates want hulls and cargo intact, making pod
+  corridors, remora removal, and wreck recovery central objectives;
 - an alien probe sequence misread as ordinary raiding until the loot table stops
   looking human.
 

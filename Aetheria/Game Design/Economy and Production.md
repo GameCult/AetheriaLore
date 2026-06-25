@@ -6,6 +6,18 @@ Aetheria's economy is not a vendor table with lore wallpaper. It is the main pre
 
 The active implementation already contains simple and compound commodity categories, cargo bays, cargo transfer, docking bays, trade UI, inventory UI, and item storage geometry. That points toward an economy where goods are physical enough to matter. Cargo is not just a number. It occupies volume, constrains ship design, invites theft, and turns travel into exposure.
 
+Cargo should also have thermal capture properties. The same pirate tactic that cleanly seizes ore or hardened components destroys volatiles, batteries, wetware, seed stock, uploads, precision optics, luxury organics, and fragile medical freight. This gives every manifest a defensive meaning, not just a resale price.
+
+Thermal fragility creates market play:
+
+- merchants advertise fragile cargo, sometimes truthfully and sometimes as deterrence;
+- pirates scan cargo bays, coolant topology, and temperature history before committing to a heat squeeze;
+- insurers reward authenticated pod corridors, tamper-proof temperature logs, and anti-capture thermal coupling;
+- stations discount or reject recovered goods with suspicious thermal exposure;
+- smugglers hide rugged contraband behind cold-chain manifests or hide fragile contraband inside hardened decoys.
+
+The result is an economy where cargo identity changes combat behavior. A valuable shipment is not always a good target. Sometimes the safest way to steal it is not to fire.
+
 ## Blueprints And Quality
 
 Blueprints define ingredients for craftable items, and ingredients can influence performance stats. That is a quietly excellent foundation. It means production can carry history: a weapon's quality can reflect material choice, manufacturing chain, supplier competence, and corporate doctrine instead of appearing fully formed from the sacred vending fog.
