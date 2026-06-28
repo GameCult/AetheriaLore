@@ -21,7 +21,7 @@ This repository is an Obsidian vault for the Aetheria setting. Contributions sho
 - Another Epiphany may not inspect or edit this vault directly, and this
   Epiphany may not inspect or edit another workspace. Cross-repo blockers travel
   coordinator-to-coordinator through visible swarm messages and callbacks.
-- Humans converse with Face. Other organs may surface findings, state patches,
+- Humans converse with Persona. Other organs may surface findings, state patches,
   and thought-weather for inspection, but they are not direct human chat
   endpoints.
 - API affordances should mirror that story: asking is first-class; rummaging

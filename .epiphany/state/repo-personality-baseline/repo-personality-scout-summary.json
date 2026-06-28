@@ -1,0 +1,498 @@
+{
+  "artifactDir": "E:\\Projects\\AetheriaLore\\.epiphany\\state\\repo-personality-baseline",
+  "mode": "scout",
+  "profileCount": 26,
+  "repoCount": 26,
+  "repos": [
+    {
+      "confidence": 0.7,
+      "dominantAxes": [
+        "runtime_proximity:1.00",
+        "temporal_pressure:0.87",
+        "actuation_risk:0.85",
+        "verification_environment_need:0.85",
+        "production_pressure:0.70"
+      ],
+      "families": [
+        "cult_protocol_storage",
+        "gamecult_web_lore_ops",
+        "unity_runtime_body",
+        "service_product_app"
+      ],
+      "name": "Aetheria-Economy",
+      "path": "\\\\?\\E:\\Projects\\Aetheria-Economy",
+      "repoId": "aetheria-economy",
+      "warnings": [
+        "No AGENTS.md or instruction surface found."
+      ]
+    },
+    {
+      "confidence": 1.0,
+      "dominantAxes": [
+        "aesthetic_appetite:1.00",
+        "content_canon_bias:1.00",
+        "interface_orientation:1.00",
+        "source_fidelity:1.00",
+        "sensory_salience:0.91"
+      ],
+      "families": [
+        "gamecult_web_lore_ops"
+      ],
+      "name": "AetheriaLore",
+      "path": "\\\\?\\E:\\Projects\\AetheriaLore",
+      "repoId": "aetherialore",
+      "warnings": []
+    },
+    {
+      "confidence": 0.85,
+      "dominantAxes": [
+        "interface_orientation:1.00",
+        "sensory_salience:0.71",
+        "churn_spiral_risk:0.64",
+        "evidence_appetite:0.60",
+        "aesthetic_appetite:0.57"
+      ],
+      "families": [
+        "general_workspace"
+      ],
+      "name": "Bifrost",
+      "path": "\\\\?\\E:\\Projects\\Bifrost",
+      "repoId": "bifrost",
+      "warnings": []
+    },
+    {
+      "confidence": 0.7,
+      "dominantAxes": [
+        "contract_strictness:1.00",
+        "evidence_appetite:1.00",
+        "protocol_intolerance:0.85",
+        "burstiness:0.50",
+        "content_canon_bias:0.42"
+      ],
+      "families": [
+        "cult_protocol_storage"
+      ],
+      "name": "CultCacheTS",
+      "path": "\\\\?\\E:\\Projects\\CultCacheTS",
+      "repoId": "cultcachets",
+      "warnings": [
+        "No AGENTS.md or instruction surface found."
+      ]
+    },
+    {
+      "confidence": 0.85,
+      "dominantAxes": [
+        "contract_strictness:1.00",
+        "interface_orientation:1.00",
+        "runtime_proximity:1.00",
+        "protocol_intolerance:0.85",
+        "sensory_salience:0.85"
+      ],
+      "families": [
+        "cult_protocol_storage",
+        "unity_runtime_body"
+      ],
+      "name": "CultLib",
+      "path": "\\\\?\\E:\\Projects\\CultLib",
+      "repoId": "cultlib",
+      "warnings": []
+    },
+    {
+      "confidence": 0.7,
+      "dominantAxes": [
+        "contract_strictness:1.00",
+        "evidence_appetite:1.00",
+        "protocol_intolerance:0.85",
+        "burstiness:0.58",
+        "guardedness:0.36"
+      ],
+      "families": [
+        "cult_protocol_storage"
+      ],
+      "name": "CultNetTS",
+      "path": "\\\\?\\E:\\Projects\\CultNetTS",
+      "repoId": "cultnetts",
+      "warnings": [
+        "No AGENTS.md or instruction surface found."
+      ]
+    },
+    {
+      "confidence": 1.0,
+      "dominantAxes": [
+        "burstiness:1.00",
+        "contract_strictness:1.00",
+        "evidence_appetite:1.00",
+        "interface_orientation:1.00",
+        "protocol_intolerance:1.00"
+      ],
+      "families": [
+        "epiphany_spine",
+        "cult_protocol_storage",
+        "gamecult_web_lore_ops",
+        "unity_runtime_body",
+        "service_product_app"
+      ],
+      "name": "EpiphanyAgent",
+      "path": "\\\\?\\E:\\Projects\\EpiphanyAgent",
+      "repoId": "epiphanyagent",
+      "warnings": []
+    },
+    {
+      "confidence": 1.0,
+      "dominantAxes": [
+        "contract_strictness:1.00",
+        "evidence_appetite:1.00",
+        "interface_orientation:1.00",
+        "protocol_intolerance:1.00",
+        "boundary_severity:0.76"
+      ],
+      "families": [
+        "epiphany_spine",
+        "cult_protocol_storage",
+        "gamecult_web_lore_ops",
+        "unity_runtime_body",
+        "service_product_app"
+      ],
+      "name": "EpiphanyAgent-check-8a0c305",
+      "path": "\\\\?\\E:\\Projects\\EpiphanyAgent-check-8a0c305",
+      "repoId": "epiphanyagent-check-8a0c305",
+      "warnings": []
+    },
+    {
+      "confidence": 1.0,
+      "dominantAxes": [
+        "burstiness:1.00",
+        "interface_orientation:1.00",
+        "content_canon_bias:0.88",
+        "sensory_salience:0.86",
+        "source_fidelity:0.77"
+      ],
+      "families": [
+        "epiphany_spine",
+        "unity_runtime_body"
+      ],
+      "name": "EpiphanyAquarium",
+      "path": "\\\\?\\E:\\Projects\\EpiphanyAquarium",
+      "repoId": "epiphanyaquarium",
+      "warnings": []
+    },
+    {
+      "confidence": 0.6,
+      "dominantAxes": [
+        "interface_orientation:1.00",
+        "content_canon_bias:0.91",
+        "sensory_salience:0.78",
+        "aesthetic_appetite:0.72",
+        "editorial_restraint:0.64"
+      ],
+      "families": [
+        "epiphany_spine"
+      ],
+      "name": "EpiphanyGraph",
+      "path": "\\\\?\\E:\\Projects\\EpiphanyGraph",
+      "repoId": "epiphanygraph",
+      "warnings": [
+        "No AGENTS.md or instruction surface found."
+      ]
+    },
+    {
+      "confidence": 1.0,
+      "dominantAxes": [
+        "aesthetic_appetite:1.00",
+        "content_canon_bias:1.00",
+        "evidence_appetite:1.00",
+        "source_fidelity:1.00",
+        "state_hygiene:1.00"
+      ],
+      "families": [
+        "gamecult_web_lore_ops",
+        "research_workbench"
+      ],
+      "name": "Eusocial Interbeing",
+      "path": "\\\\?\\E:\\Projects\\Eusocial Interbeing",
+      "repoId": "eusocial-interbeing",
+      "warnings": []
+    },
+    {
+      "confidence": 0.85,
+      "dominantAxes": [
+        "aesthetic_appetite:1.00",
+        "content_canon_bias:1.00",
+        "interface_orientation:1.00",
+        "source_fidelity:1.00",
+        "sensory_salience:0.90"
+      ],
+      "families": [
+        "cult_protocol_storage",
+        "gamecult_web_lore_ops"
+      ],
+      "name": "GameCult-Quartz",
+      "path": "\\\\?\\E:\\Projects\\GameCult-Quartz",
+      "repoId": "gamecult-quartz",
+      "warnings": []
+    },
+    {
+      "confidence": 1.0,
+      "dominantAxes": [
+        "burstiness:1.00",
+        "content_canon_bias:1.00",
+        "contract_strictness:1.00",
+        "protocol_intolerance:0.85",
+        "source_fidelity:0.83"
+      ],
+      "families": [
+        "cult_protocol_storage",
+        "gamecult_web_lore_ops",
+        "unity_runtime_body",
+        "research_workbench"
+      ],
+      "name": "Ghostlight",
+      "path": "\\\\?\\E:\\Projects\\Ghostlight",
+      "repoId": "ghostlight",
+      "warnings": []
+    },
+    {
+      "confidence": 1.0,
+      "dominantAxes": [
+        "burstiness:1.00",
+        "content_canon_bias:1.00",
+        "state_hygiene:1.00",
+        "boundary_severity:0.86",
+        "editorial_restraint:0.79"
+      ],
+      "families": [
+        "service_product_app"
+      ],
+      "name": "Heimdall",
+      "path": "\\\\?\\E:\\Projects\\Heimdall",
+      "repoId": "heimdall",
+      "warnings": []
+    },
+    {
+      "confidence": 1.0,
+      "dominantAxes": [
+        "content_canon_bias:1.00",
+        "state_hygiene:1.00",
+        "editorial_restraint:0.80",
+        "source_fidelity:0.80",
+        "experimental_heat:0.70"
+      ],
+      "families": [
+        "research_workbench"
+      ],
+      "name": "LunaMosaic",
+      "path": "\\\\?\\E:\\Projects\\LunaMosaic",
+      "repoId": "lunamosaic",
+      "warnings": []
+    },
+    {
+      "confidence": 1.0,
+      "dominantAxes": [
+        "actuation_risk:1.00",
+        "boundary_severity:1.00",
+        "evidence_appetite:1.00",
+        "interface_orientation:1.00",
+        "social_surface:1.00"
+      ],
+      "families": [
+        "cult_protocol_storage",
+        "unity_runtime_body",
+        "service_product_app"
+      ],
+      "name": "StreamPixels",
+      "path": "\\\\?\\E:\\Projects\\StreamPixels",
+      "repoId": "streampixels",
+      "warnings": []
+    },
+    {
+      "confidence": 1.0,
+      "dominantAxes": [
+        "burstiness:1.00",
+        "content_canon_bias:1.00",
+        "aesthetic_appetite:0.90",
+        "editorial_restraint:0.78",
+        "experimental_heat:0.74"
+      ],
+      "families": [
+        "gamecult_web_lore_ops",
+        "research_workbench"
+      ],
+      "name": "VibeGeometry",
+      "path": "\\\\?\\E:\\Projects\\VibeGeometry",
+      "repoId": "vibegeometry",
+      "warnings": []
+    },
+    {
+      "confidence": 1.0,
+      "dominantAxes": [
+        "boundary_severity:1.00",
+        "contract_strictness:0.91",
+        "guardedness:0.85",
+        "protocol_intolerance:0.77",
+        "state_hygiene:0.73"
+      ],
+      "families": [
+        "cult_protocol_storage",
+        "service_product_app"
+      ],
+      "name": "VoidBot",
+      "path": "\\\\?\\E:\\Projects\\VoidBot",
+      "repoId": "voidbot",
+      "warnings": []
+    },
+    {
+      "confidence": 0.6,
+      "dominantAxes": [
+        "contract_strictness:1.00",
+        "evidence_appetite:0.88",
+        "protocol_intolerance:0.85",
+        "experimental_heat:0.65",
+        "content_canon_bias:0.56"
+      ],
+      "families": [
+        "cult_protocol_storage"
+      ],
+      "name": "cultcache-py",
+      "path": "\\\\?\\E:\\Projects\\cultcache-py",
+      "repoId": "cultcache-py",
+      "warnings": [
+        "No AGENTS.md or instruction surface found."
+      ]
+    },
+    {
+      "confidence": 0.5,
+      "dominantAxes": [
+        "contract_strictness:1.00",
+        "protocol_intolerance:0.85",
+        "content_canon_bias:0.83",
+        "burstiness:0.67",
+        "editorial_restraint:0.58"
+      ],
+      "families": [
+        "cult_protocol_storage"
+      ],
+      "name": "cultcache-rs",
+      "path": "\\\\?\\E:\\Projects\\cultcache-rs",
+      "repoId": "cultcache-rs",
+      "warnings": [
+        "No AGENTS.md or instruction surface found."
+      ]
+    },
+    {
+      "confidence": 0.7,
+      "dominantAxes": [
+        "contract_strictness:1.00",
+        "protocol_intolerance:0.85",
+        "evidence_appetite:0.72",
+        "churn_spiral_risk:0.39",
+        "guardedness:0.36"
+      ],
+      "families": [
+        "cult_protocol_storage"
+      ],
+      "name": "cultnet-rs",
+      "path": "\\\\?\\E:\\Projects\\cultnet-rs",
+      "repoId": "cultnet-rs",
+      "warnings": [
+        "No AGENTS.md or instruction surface found."
+      ]
+    },
+    {
+      "confidence": 0.6,
+      "dominantAxes": [
+        "content_canon_bias:1.00",
+        "burstiness:0.92",
+        "editorial_restraint:0.72",
+        "source_fidelity:0.50",
+        "aesthetic_appetite:0.47"
+      ],
+      "families": [
+        "epiphany_spine"
+      ],
+      "name": "epiphany-graph-rs",
+      "path": "\\\\?\\E:\\Projects\\epiphany-graph-rs",
+      "repoId": "epiphany-graph-rs",
+      "warnings": [
+        "No AGENTS.md or instruction surface found."
+      ]
+    },
+    {
+      "confidence": 0.7,
+      "dominantAxes": [
+        "interface_orientation:1.00",
+        "sensory_salience:0.70",
+        "content_canon_bias:0.66",
+        "aesthetic_appetite:0.54",
+        "editorial_restraint:0.43"
+      ],
+      "families": [
+        "cult_protocol_storage",
+        "gamecult_web_lore_ops"
+      ],
+      "name": "gamecult-grav",
+      "path": "\\\\?\\E:\\Projects\\gamecult-grav",
+      "repoId": "gamecult-grav",
+      "warnings": [
+        "No AGENTS.md or instruction surface found."
+      ]
+    },
+    {
+      "confidence": 0.75,
+      "dominantAxes": [
+        "actuation_risk:1.00",
+        "boundary_severity:1.00",
+        "content_canon_bias:1.00",
+        "social_surface:1.00",
+        "aesthetic_appetite:0.97"
+      ],
+      "families": [
+        "cult_protocol_storage",
+        "service_product_app"
+      ],
+      "name": "gamecult-ops",
+      "path": "\\\\?\\E:\\Projects\\gamecult-ops",
+      "repoId": "gamecult-ops",
+      "warnings": []
+    },
+    {
+      "confidence": 0.85,
+      "dominantAxes": [
+        "aesthetic_appetite:1.00",
+        "content_canon_bias:1.00",
+        "source_fidelity:1.00",
+        "interface_orientation:0.98",
+        "sensory_salience:0.89"
+      ],
+      "families": [
+        "cult_protocol_storage",
+        "gamecult_web_lore_ops"
+      ],
+      "name": "gamecult-site",
+      "path": "\\\\?\\E:\\Projects\\gamecult-site",
+      "repoId": "gamecult-site",
+      "warnings": []
+    },
+    {
+      "confidence": 1.0,
+      "dominantAxes": [
+        "burstiness:1.00",
+        "evidence_appetite:1.00",
+        "interface_orientation:1.00",
+        "sensory_salience:0.98",
+        "aesthetic_appetite:0.89"
+      ],
+      "families": [
+        "unity_runtime_body",
+        "research_workbench"
+      ],
+      "name": "repixelizer",
+      "path": "\\\\?\\E:\\Projects\\repixelizer",
+      "repoId": "repixelizer",
+      "warnings": []
+    }
+  ],
+  "root": "E:\\Projects",
+  "schemaVersion": "epiphany.repo_personality_artifacts.v0",
+  "store": "E:\\Projects\\AetheriaLore\\.epiphany\\state\\repo-personality-baseline\\baseline.msgpack",
+  "trajectoryCount": 26
+}

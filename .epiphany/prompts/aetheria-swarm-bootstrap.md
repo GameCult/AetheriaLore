@@ -41,7 +41,7 @@ Hard boundaries:
   must change its codebase, ask its coordinator through the swarm communication
   lane and wait for a callback.
 - Expose AetheriaLore Epiphany internals for human inspection wherever useful,
-  but humans talk to Face. Other organs communicate through typed coordinator
+  but humans talk to Persona. Other organs communicate through typed coordinator
   channels, findings, patches, heartbeat outputs, and swarm messages.
 - Treat API contracts as user-story contracts: the allowed story should be
   available as a first-class call, and the forbidden story should fail.

@@ -6,11 +6,10 @@ The Aetheria vault is treated like a codebase: Markdown notes are source files, 
 
 ## State Surfaces
 
-- `state/map.yaml`: compact workspace map and current swarm orientation.
-- `state/project-state.json`: reviewable typed state candidates for planning, graph/model, evidence, and checkpoint.
-- `state/evidence.jsonl`: distilled belief-changing records for this workspace.
-- `state/scratch.md`: disposable working scratch for one bounded subgoal.
-- `state/agents/*.agent-state.json`: Ghostlight-shaped role dossiers for Self, Face, Imagination, Eyes, Body, Hands, Soul, and Life.
+- `state/repo-initialization.msgpack`: accepted startup birth records for this repo-local Epiphany.
+- `state/agent-dossiers.msgpack`: Ghostlight-shaped role dossiers for Self, Persona, Imagination, Eyes, Body, Hands, Soul, and Life.
+- `state/agent-heartbeats.msgpack`: heartbeat continuity state for the active lanes.
+- `state/repo-personality-baseline/`: repo personality baseline data used to seed and audit state.
 - `prompts/aetheria-swarm-bootstrap.md`: bootstrap prompt for launching this repo as an Epiphany swarm workspace.
 
 ## Boundaries

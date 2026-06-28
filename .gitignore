@@ -23,7 +23,11 @@ Thumbs.db
 /.npm-cache/
 /.voidbot/birth/
 /.voidbot/logs/
+/.voidbot/status/
 /.voidbot/**/*.lock
+/.epiphany/artifacts/
+/.epiphany/**/*.lock
 /.quartz-build/
+/output/
 /quartz-site/node_modules/
 /quartz-site/public/
