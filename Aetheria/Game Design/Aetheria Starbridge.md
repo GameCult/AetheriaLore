@@ -453,6 +453,35 @@ Station stock should eventually carry quality and provenance:
 - premium manufactured components with better durability or performance curves;
 - scarce support modules whose presence changes team composition decisions.
 
+Starbridge should treat persistent ship ownership as build-shape access, not
+raw match power. A player may bring a personally unlocked hull and loadout into
+a scenario because those components define a known assembly graph: hardpoints,
+gear families, thermal topology, firmware assumptions, repair interfaces, and
+manufacturer doctrine. The scenario can normalize the starting quality of those
+components without erasing the player's chosen ship identity. The pilot still
+arrives in the shape of their dream machine. The run decides how good that
+machine becomes today.
+
+This works because Aetheria items are blueprint assemblies, not flat loot. A
+laser, coolant beam, reactor, or shield can contain crafted assemblies that are
+themselves blueprint instances. Enemy salvage, station stock, and recovered
+boss technology may share subassemblies with a player's own gear even when the
+finished item blueprints are different. Tearing down a wreck can therefore
+recover a higher-quality focusing lattice, capacitor bank, coolant collar,
+regulator, or other compatible assembly that upgrades the player's item if the
+interfaces and maintenance constraints match.
+
+The live-service rule is:
+
+> Persistent unlocks define what shapes the player can field. Run economy
+> defines how good those shapes become under fire.
+
+Owning a component grants practical maintenance and fabrication access to that
+component lineage during a scenario. It does not grant universal research
+mastery. A crew still needs salvage, station tooling, time, and compatible
+inputs to repair or upgrade the assembly, but they do not need a separate tech
+unlock merely to understand the object they brought with them.
+
 ### Thermal Support
 
 Thermal support means providing cooling services to ships, drones, turrets, and

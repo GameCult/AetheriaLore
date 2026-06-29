@@ -24,6 +24,50 @@ Blueprints define ingredients for craftable items, and ingredients can influence
 
 `Profits Rising` adds production tradeoffs directly: every piece of infrastructure can choose between speed and quality, while cost depends on ingredient spending. Fast, cheap, good. Pick your poison and then advertise it as innovation.
 
+Blueprints should be recursive. A finished item can require raw materials,
+crafted assemblies, and subassemblies which are themselves instances of their
+own blueprints. This continues down to raw materials. The useful unit is not
+only "laser cannon" or "reactor," but the focusing lattice, capacitor bank,
+coolant collar, actuator cluster, regulator, firmware core, casing, feed
+assembly, and every other part whose material history can matter.
+
+Two different finished blueprints can share one assembly. A pirate laser and a
+player's laser may have different completed item blueprints while both depend
+on the same capacitor bank or focusing lattice family. Salvage therefore is not
+generic loot paste. Tearing down a wreck can recover compatible assemblies that
+may be installed into another item, consumed by a repair, or used as a pattern
+source for fabrication when the local station has the required tools and
+inputs.
+
+This gives upgrades a material path:
+
+1. A player owns or fields an item with a known assembly graph.
+2. An enemy, station stock item, or recovered wreck contains one or more
+   compatible assemblies.
+3. Salvage, teardown, or inspection identifies the assembly, its quality, its
+   provenance, and any unusual technology hooks.
+4. The player can swap that assembly into their own item if the interface,
+   size, hardpoint, thermal, firmware, legal, and maintenance constraints are
+   satisfied.
+5. The finished item's performance changes according to the upgraded
+   assembly's quality and stat-scaling hooks.
+
+Quality is not just a single item-level number. Assemblies can carry different
+quality, manufacturer doctrine, material inputs, thermal behavior, durability,
+failure modes, legality, firmware assumptions, and performance hooks. A higher
+quality enemy assembly might make a player's weapon more efficient, more
+fragile, colder, louder, more accurate, easier to maintain, harder to repair at
+cheap stations, or better at a stat the original manufacturer did not optimize.
+That is the good filth: every improvement has ancestry.
+
+Owning a finished component can also act as a practical pattern right. If a
+pilot brings a strange laser, the crew does not need to rediscover the whole
+technology just to maintain that exact assembly family during a run. They still
+need materials, fabrication access, time, and compatible parts, but the owned
+component supplies enough shape knowledge to repair, reproduce, or improve its
+known assemblies when the economy supports it. This is not universal research
+mastery. It is maintenance and fabrication access to a concrete object lineage.
+
 ## Performance As Material History
 
 The codebase's `PerformanceStat` model connects item performance to durability, temperature, and crafting quality. This is exactly the kind of mechanic Aetheria should protect. It ties engineering, combat, economics, and maintenance together. A cheap reactor should not merely have smaller numbers. It should fail differently, run hotter, wear harder, and make its owner's options narrower.
