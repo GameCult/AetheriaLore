@@ -495,6 +495,32 @@ expression surface. It can contain:
 - cosmetic liveries, decals, bay dressing, titles, and other identity pieces;
 - convenience unlocks that reduce friction without increasing match power.
 
+The hangar is not owned by Starbridge. It is an Eve/CultUI CRUD surface over
+central player state, especially player inventory, unlocks, entitlements,
+component patterns, cosmetics, and saved loadout documents. Starbridge consumes
+approved loadout shapes from that player state and applies scenario
+normalization. A future PvP mode, route mode, web companion, or account
+management surface should consume the same hangar state rather than inventing a
+parallel inventory.
+
+Hangar authority:
+
+- owner: typed central player inventory and unlock state;
+- surface: Eve/CultUI hangar composition lowered into game, web, native, or TUI
+  clients;
+- commands: inspect, equip, unequip, rename, save loadout, apply livery,
+  compare assemblies, dismantle, queue repair, and fabricate when a station or
+  service context allows it;
+- non-owners: Starbridge sessions, Unity scene objects, websites, storefront
+  entitlements, matchmaking, cinematic hangar rooms, and renderer-local caches.
+
+The same hangar should be usable from the website and from inside the game.
+The website can host the exact customization surface the pilot later uses in
+the Unity client because both are lowerings of the same Eve graph and command
+surface. That is a product promise and an architecture constraint: no duplicate
+web inventory, no delayed synchronization as design policy, and no renderer
+becoming the secret owner of player loadouts because it had the prettiest room.
+
 The hangar should support the MechWarrior-style pleasure of owning, naming,
 tuning, and showing off a personal machine without letting ownership purchase a
 win. A veteran can bring a strange or expensive topology into an early scenario,
@@ -1013,6 +1039,26 @@ each episode is a reusable composition of premise, starting configuration,
 faction mix, boss sequence, and loot ecology.
 
 ## User Interface Direction
+
+### Shared Hangar Surface
+
+The hangar should be a shared Eve/CultUI surface over central player inventory,
+not a Starbridge-only screen. The official website, in-game Unity client,
+desktop launcher, Steam-adjacent account surface, future mobile companion, and
+developer/operator TUI can all lower the same composition graph and submit the
+same typed commands.
+
+This is a major live-service selling point:
+
+> Customize your ship anywhere. The same hangar follows you into the game.
+
+The website version should not be a separate account shop pretending to be an
+inventory editor. It should read the same player inventory state, expose the
+same loadout validation, compare the same assemblies, apply the same cosmetics,
+and submit the same save/equip/repair/fabrication commands where the player's
+current service context permits them. Storefront purchases or season rewards
+may grant unlock or entitlement documents, but the hangar remains a projection
+over typed player state.
 
 ### RTS Interface
 
