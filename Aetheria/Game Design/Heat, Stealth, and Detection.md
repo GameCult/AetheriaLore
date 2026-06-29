@@ -14,6 +14,34 @@ Ships have hull-specific heat transfer graphs based on the schematic proximity o
 
 That gives shipbuilding a real interior logic. A component is not just installed. It is placed into a thermal neighborhood with consequences.
 
+## Thermal And Power Modes
+
+Buying or unlocking a component does not mean the ship is configured well.
+The same hull and equipment set can support many cooling circuits, power
+priorities, refrigeration targets, heat dumps, radiator behaviors, weapon group
+bindings, and emergency modes. Some configurations are ingenious. Most are
+terrible in ways that only become obvious once the pilot starts firing more
+guns than the ship can cool.
+
+Configuration can be copied. Players will share and import complete thermal and
+power setups for popular builds. That is useful, but it is not the same as
+understanding. A copied mode stack still demands operating literacy:
+
+- when to use a high-output firing mode;
+- when to coast, vent, or rotate heat into a dump;
+- when to protect a reactor, cockpit, shield, or radiator loop;
+- when to accept lower damage to preserve the ship;
+- when to switch from pursuit to recovery;
+- when to ask for coolant or stop consuming squad support;
+- when an emergency mode is saving the ship versus merely delaying the bill.
+
+Heat rhythm is therefore the core skill check for high-output builds. The
+easiest and dumbest way to die should be thermal suicide: firing more weapons,
+boosting harder, or overdriving more systems than the configured cooling
+circuits can sustain. That failure is not a cheap gotcha. It is the machine
+truthfully reporting that the pilot copied a shape without learning its
+breathing pattern.
+
 ## Stealth
 
 A ship can hide by controlling emissions. Visibility comes from reflected light, active sensor illumination, radiator output, hull temperature, thrust, and firing signatures. Radiator placement can bias emissions directionally.

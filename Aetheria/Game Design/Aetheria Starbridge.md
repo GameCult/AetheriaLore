@@ -550,13 +550,16 @@ skill audits, and rescue drama without becoming purchased dominance.
 
 Deep metagame knowledge will create copied "meta" builds. That is expected and
 healthy as long as the build's operating doctrine remains visible in play. A
-copied elite ship should demand understanding: heat rhythm, engagement range,
-retreat timing, support dependency, ammo and salvage appetite, target priority,
-and recovery plan. If the pilot does not understand the machine, the squad
-should be able to tell from battlefield behavior rather than from a scolding UI
-badge. They will see the pilot out of position, consuming too much coolant,
-wasting commander attention, losing rare assemblies, or using a precision tool
-like a brick with decals.
+copied elite ship should demand understanding: heat rhythm, thermal and power
+modes, cooling circuit setup, engagement range, retreat timing, support
+dependency, ammo and salvage appetite, target priority, and recovery plan. A
+player can copy the loadout and the configuration, but they still have to know
+when to be in which mode. If the pilot does not understand the machine, the
+squad should be able to tell from battlefield behavior rather than from a
+scolding UI badge. They will see the pilot out of position, consuming too much
+coolant, wasting commander attention, losing rare assemblies, frying themselves
+by firing more guns than they can cool, or using a precision tool like a brick
+with decals.
 
 The anti-pay-to-win rule is:
 
