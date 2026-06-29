@@ -540,10 +540,13 @@ left to eject, pod home, and return in something more reasonable.
 That failure can become a social moment instead of a balance scandal. A player
 who brings a precious, expensive, aggressively personalized ship may still end
 up begging the squad to escort them back into contested space to salvage their
-beautiful mistake. The squad can decide whether the wreck's assemblies,
-sentimental value, and future upgrade potential justify the risk. This makes
-attachment playable: ownership can create stories, obligations, jokes, and
-rescue drama without becoming purchased dominance.
+beautiful mistake. The squad is not only pricing the wreck against the
+opportunity cost of a rescue. They are judging player/build fit: whether this
+pilot actually has the skill, discipline, and communication habits to fly that
+elite topology under pressure, or whether the team would be better served by
+the same player docking into a basic support ship with two useful buttons. This
+makes attachment playable: ownership can create stories, obligations, jokes,
+skill audits, and rescue drama without becoming purchased dominance.
 
 This makes monetization safer. Paid or accelerated unlocks can expand the
 player's collection, expression, loadout convenience, and access to alternate
@@ -713,8 +716,11 @@ Wreck recovery should require visible squad judgment. If the lost ship is
 valuable, exotic, sentimental, or full of rare assemblies, rescuing it can be a
 real objective that competes with base defense, salvage flow, and wave timing.
 The pilot may plead for an escort. The crew may agree, bargain, laugh, refuse,
-or make the recovery conditional on better decisions next wave. The system
-should give them a meaningful reason to talk.
+or make the recovery conditional on better decisions next wave: refit simpler,
+bring support gear, stop chasing scouts, fly near the base, or prove the elite
+machine is more than a costume. The system should give them a meaningful reason
+to talk about competence, role fit, and trust without needing a matchmaking
+score to say the quiet part out loud.
 
 Thermal capture enemies sharpen this loop. If a pilot ejects because hostile
 heat pressure made the cockpit unsafe, the pod remains protected and the ship
