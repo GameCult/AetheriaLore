@@ -548,6 +548,20 @@ the same player docking into a basic support ship with two useful buttons. This
 makes attachment playable: ownership can create stories, obligations, jokes,
 skill audits, and rescue drama without becoming purchased dominance.
 
+Deep metagame knowledge will create copied "meta" builds. That is expected and
+healthy as long as the build's operating doctrine remains visible in play. A
+copied elite ship should demand understanding: heat rhythm, engagement range,
+retreat timing, support dependency, ammo and salvage appetite, target priority,
+and recovery plan. If the pilot does not understand the machine, the squad
+should be able to tell from battlefield behavior rather than from a scolding UI
+badge. They will see the pilot out of position, consuming too much coolant,
+wasting commander attention, losing rare assemblies, or using a precision tool
+like a brick with decals.
+
+The anti-pay-to-win rule is:
+
+> A premium build can be bought or copied. Competence cannot.
+
 This makes monetization safer. Paid or accelerated unlocks can expand the
 player's collection, expression, loadout convenience, and access to alternate
 build shapes, while gameplay-affecting power remains governed by scenario
