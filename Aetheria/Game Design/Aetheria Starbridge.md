@@ -917,6 +917,62 @@ twists, new faction mixes, and new recovered technology pools that groups can
 work through together without requiring a whole new campaign architecture every
 time.
 
+### Seasons And Scenario Access
+
+Starbridge can organize new scenarios into seasons. A season is a coherent
+bundle of co-op episodes, faction pressure, recovered technology pools, hangar
+identity rewards, and toolchain practice for delivering more cinematic and
+interactive narrative through the game's existing systems.
+
+The first shipped game should include a small set of standard scenarios that
+prove breadth and depth before the live cadence begins. Those launch scenarios
+should test the core grammar: base defense, salvage pressure, thermal and
+repair support, outward pushes, boss technology recovery, and the ability for a
+crew to lose for legible tactical reasons. Later seasons should add authored
+scenarios that reuse and extend the same scenario grammar rather than becoming
+bespoke content coffins.
+
+Access policy:
+
+- the current season may be premium;
+- current-season scenarios may also be available as individual purchases;
+- the season pass bundles the current season's scenarios with cosmetics,
+  hangar identity rewards, convenience rewards, and supporter value;
+- when a season is no longer current, its gameplay scenarios move into the
+  earnable archive;
+- archived scenarios can be unlocked through play using earned currency,
+  progression milestones, reputation, or another humane in-game path;
+- cosmetics, titles, liveries, bay dressing, and supporter identity rewards may
+  remain premium or season-specific when that does not affect gameplay access;
+- gameplay-affecting scenarios should not be permanent missed-content ransom.
+
+Squad access should be contagious. If any player in the group has a scenario
+unlocked, the whole squad can launch and play it together. Scenario access is
+checked at squad launch, not as a per-player gate that splits friends at the
+door. Ownership still matters: it can grant hosting access, solo queue access,
+season-pass rewards, supporter cosmetics, convenience rewards, and direct
+progression claims. But the co-op fantasy takes priority over entitlement
+accounting.
+
+Players who guest into a scenario through a squadmate should still receive
+normal run rewards and should be able to make progress toward earning that
+scenario for themselves once it is archived. Current-season premium ownership
+can decide which account-level claims, cosmetics, or season-track rewards are
+available immediately, but it should not prevent friends from playing the
+mission together.
+
+Monetization doctrine:
+
+> Starbridge sells time, freshness, expression, convenience, and support for the
+> ongoing service. It does not permanently sell access to the war.
+
+This keeps the open-source posture coherent. The code can be open, older
+gameplay scenarios can become earnable, and the official live service can still
+charge for Steam convenience, current-season access, bundled value, account
+services, cosmetics, hangar expression, and the privilege of keeping the
+machine fed without turning the business model into a little extraction engine
+with patch notes.
+
 ## Narrative
 
 Starbridge's narrative should follow the principles in [[Narrative and Missions]]:
