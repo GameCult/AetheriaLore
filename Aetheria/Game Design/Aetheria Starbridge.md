@@ -528,6 +528,15 @@ but the starting component quality can be normalized to that scenario's
 baseline. Their advantage is build identity, assembly access, familiarity, and
 more possible upgrade paths during the run, not raw starting damage.
 
+Starbridge should permit audacious loadouts, then let scenario pressure and
+squad priorities judge them. If a pilot brings an overbuilt, overheated,
+under-supported, supply-hungry, or otherwise despicable machine, the game
+should not need a pre-match rules cop to forbid it. The loadout enters the
+mission in normalized form, performs according to its actual compromises, and
+the crew decides how much attention, coolant, repair, salvage, and commander
+support it deserves. If the build cannot justify its appetite, the pilot can be
+left to eject, pod home, and return in something more reasonable.
+
 This makes monetization safer. Paid or accelerated unlocks can expand the
 player's collection, expression, loadout convenience, and access to alternate
 build shapes, while gameplay-affecting power remains governed by scenario
@@ -677,6 +686,20 @@ The survival loop:
 This follows the design pressure in [[Progression, Claims, and Consequence]]:
 failure leaves wreckage, claim risk, repair cost, and station exposure behind.
 The person survives. The balance sheet does not.
+
+Survival pods also make loadout experimentation socially safe. A pilot can test
+an audacious hangar build without the team being forced to subsidize it for the
+entire match. If the ship proves too hot, too fragile, too slow, too greedy for
+ammo, or too dependent on support the squad needs elsewhere, the battlefield
+can answer. The crew may choose to save it, abandon it, tow it later, or spend
+their attention on the base instead. The pilot pods back to the Launch/Service
+Bay and refits into a better answer.
+
+Docking and refit are therefore the correction primitive for bad theory. The
+game should let players learn from the shape of their ship under pressure,
+change the shape, and rejoin the war. A failed loadout should create a
+recoverable tactical and economic setback, not a scolding modal, a queue dodge,
+or a permanent player-state failure.
 
 Thermal capture enemies sharpen this loop. If a pilot ejects because hostile
 heat pressure made the cockpit unsafe, the pod remains protected and the ship
