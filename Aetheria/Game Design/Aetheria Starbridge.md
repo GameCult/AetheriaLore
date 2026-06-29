@@ -537,6 +537,14 @@ the crew decides how much attention, coolant, repair, salvage, and commander
 support it deserves. If the build cannot justify its appetite, the pilot can be
 left to eject, pod home, and return in something more reasonable.
 
+That failure can become a social moment instead of a balance scandal. A player
+who brings a precious, expensive, aggressively personalized ship may still end
+up begging the squad to escort them back into contested space to salvage their
+beautiful mistake. The squad can decide whether the wreck's assemblies,
+sentimental value, and future upgrade potential justify the risk. This makes
+attachment playable: ownership can create stories, obligations, jokes, and
+rescue drama without becoming purchased dominance.
+
 This makes monetization safer. Paid or accelerated unlocks can expand the
 player's collection, expression, loadout convenience, and access to alternate
 build shapes, while gameplay-affecting power remains governed by scenario
@@ -700,6 +708,13 @@ game should let players learn from the shape of their ship under pressure,
 change the shape, and rejoin the war. A failed loadout should create a
 recoverable tactical and economic setback, not a scolding modal, a queue dodge,
 or a permanent player-state failure.
+
+Wreck recovery should require visible squad judgment. If the lost ship is
+valuable, exotic, sentimental, or full of rare assemblies, rescuing it can be a
+real objective that competes with base defense, salvage flow, and wave timing.
+The pilot may plead for an escort. The crew may agree, bargain, laugh, refuse,
+or make the recovery conditional on better decisions next wave. The system
+should give them a meaningful reason to talk.
 
 Thermal capture enemies sharpen this loop. If a pilot ejects because hostile
 heat pressure made the cockpit unsafe, the pod remains protected and the ship
