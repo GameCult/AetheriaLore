@@ -453,6 +453,8 @@ Station stock should eventually carry quality and provenance:
 - premium manufactured components with better durability or performance curves;
 - scarce support modules whose presence changes team composition decisions.
 
+### Persistent Hangar
+
 Starbridge should treat persistent ship ownership as build-shape access, not
 raw match power. A player may bring a personally unlocked hull and loadout into
 a scenario because those components define a known assembly graph: hardpoints,
@@ -481,6 +483,31 @@ component lineage during a scenario. It does not grant universal research
 mastery. A crew still needs salvage, station tooling, time, and compatible
 inputs to repair or upgrade the assembly, but they do not need a separate tech
 unlock merely to understand the object they brought with them.
+
+The persistent hangar is therefore the player's long-term collection and
+expression surface. It can contain:
+
+- unlocked hulls;
+- unlocked gear families;
+- owned component patterns;
+- saved loadout shapes;
+- manufacturer variants;
+- cosmetic liveries, decals, bay dressing, titles, and other identity pieces;
+- convenience unlocks that reduce friction without increasing match power.
+
+The hangar should support the MechWarrior-style pleasure of owning, naming,
+tuning, and showing off a personal machine without letting ownership purchase a
+win. A veteran can bring a strange or expensive topology into an early scenario,
+but the starting component quality can be normalized to that scenario's
+baseline. Their advantage is build identity, assembly access, familiarity, and
+more possible upgrade paths during the run, not raw starting damage.
+
+This makes monetization safer. Paid or accelerated unlocks can expand the
+player's collection, expression, loadout convenience, and access to alternate
+build shapes, while gameplay-affecting power remains governed by scenario
+normalization, salvage, station fabrication, and team execution. The live
+service can sell beautiful hangars and faster access to toys. It should not
+sell completed victories wearing a ship skin.
 
 ### Thermal Support
 
@@ -818,6 +845,13 @@ understands.
 Every run awards a persistent currency based on in-game score. This currency can
 be invested into modest percentage boosts that tune the team's long-term
 baseline without replacing skill, coordination, or in-session decisions.
+
+Meta-progression also feeds the persistent hangar. Players should be able to
+unlock hulls, gear families, component patterns, manufacturer variants, saved
+loadout conveniences, and cosmetic identity pieces over time. These unlocks
+expand the shapes a player can bring into a scenario, but scenario
+normalization and in-run fabrication determine the starting quality and realized
+power of those shapes.
 
 Fictionally, this currency can represent post-run analysis, recovered data,
 operator certification, manufacturing credit, or sponsor confidence. The exact
