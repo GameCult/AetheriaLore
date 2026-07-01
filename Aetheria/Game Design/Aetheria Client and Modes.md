@@ -189,6 +189,36 @@ Weksa vocals can give these interactions voice once the text event is accepted
 and bounded. Voice should reinforce staff presence without requiring animated
 portraits or a full barracks life sim.
 
+Generated outputs must be cached as content artifacts. Persona turns, accepted
+dialogue, Weksa voicing, and possible Vili acting or gesture data should not be
+recomputed every time a player opens the Barracks. Weksa interlingua tends to
+carry gesture information, so the cache should be able to store text, vocal
+performance, timing, expression, gesture intent, provenance, and the state keys
+that produced the event.
+
+This gives the live service a sane cost curve. Early players can expensively
+"discover" fresh staff interactions when a character, scenario, relationship,
+or trauma state has not been seen before. As the cache fills, common situations
+resolve to existing artifacts and only noteworthy state changes need new model
+work. The Barracks should feel alive without turning every hover, debrief, or
+minor stress tick into a model call.
+
+The cache key should include enough typed context to preserve continuity:
+
+- character id and variant;
+- event type;
+- scenario id and faction context;
+- relevant run facts;
+- current stress, injuries, scars, and traits;
+- relationships and bonds involved;
+- language, voice, and presentation policy;
+- model/prompt/pipeline version.
+
+Cached artifacts may be reused exactly, remixed through bounded templates, or
+invalidated when character state crosses a meaningful threshold. The important
+rule is that generation happens at moments of narrative consequence, not as a
+constant renderer dependency.
+
 V1 should treat generated interactions as authored-bounded events:
 
 - post-run debriefs;

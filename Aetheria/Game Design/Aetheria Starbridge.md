@@ -1155,6 +1155,15 @@ voice accepted interactions. The generated layer must preserve continuity:
 characters are not disposable text fountains, and their state changes must be
 inspectable and able to affect future runs.
 
+Model-generated outputs should be cached as discovered content. Persona text,
+accepted debriefs, Weksa vocal renders, and possible Vili gesture or acting
+data are content artifacts with provenance, not transient UI effects. Fresh
+character/scenario/state combinations can justify expensive generation; common
+states should resolve from cache once the service has seen them. Only
+meaningful changes such as new scars, deaths, bonds, refusals, promotions,
+faction revelations, or black-box events should force the expensive pipeline
+back awake.
+
 ## User Interface Direction
 
 ### Shared Hangar Surface
