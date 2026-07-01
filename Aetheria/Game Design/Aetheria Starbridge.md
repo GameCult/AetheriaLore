@@ -86,6 +86,12 @@ It should not invent a separate class game, economy, or combat model for the
 sake of convenience. It should compress existing Aetheria pressures into a
 smaller arena where their relationships become easier to read.
 
+Starbridge is a mode inside the broader [[Aetheria Client and Modes|Aetheria
+client]], not the whole client. The desktop app starts or joins Starbridge
+sessions, carries party and Verse context, exposes the shared Hangar, and can
+remain open as the commander UI. Pilot players launch into Unity clients that
+already know which Verse, session, role, and player identity to connect to.
+
 Core inheritance:
 
 - [[Design Pillars]]: the game must make heat, repair, risk, labor, and survival
@@ -1104,14 +1110,23 @@ faction mix, boss sequence, and loot ecology.
 ### Shared Hangar Surface
 
 The hangar should be a shared Eve/CultUI surface over central player inventory,
-not a Starbridge-only screen. The official website, in-game Unity client,
-desktop launcher, Steam-adjacent account surface, future mobile companion, and
+not a Starbridge-only screen. It belongs to the broader [[Aetheria Client and
+Modes|Aetheria client]] because ships, equipment, cockpits, support gear,
+cosmetics, presets, and unlocks cut across Starbridge, Arena, Conquest, and the
+future persistent world. The official website, in-game Unity client, desktop
+launcher, Steam-adjacent account surface, future mobile companion, and
 developer/operator TUI can all lower the same composition graph and submit the
 same typed commands.
 
 This is a major live-service selling point:
 
 > Customize your ship anywhere. The same hangar follows you into the game.
+
+Starbridge may contextualize a persistent ship through run-local quality
+scaling, recovered technologies, temporary station stock, and boss loot. That
+does not make the ship a Starbridge-only object. The same build can later enter
+Arena without Starbridge scaling and be matched by danger level, or enter a
+Conquest season where faction logistics and campaign rules matter.
 
 The website version should not be a separate account shop pretending to be an
 inventory editor. It should read the same player inventory state, expose the
