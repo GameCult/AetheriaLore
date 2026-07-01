@@ -946,6 +946,30 @@ expand the shapes a player can bring into a scenario, but scenario
 normalization and in-run fabrication determine the starting quality and realized
 power of those shapes.
 
+Meta-progression also feeds the Barracks, the commander-side progression
+surface described in [[Aetheria Client and Modes]]. The Hangar stores machines.
+The Barracks stores people and minds. A commander should not bring a custom
+station into every scenario, because the scenario owns the base, stock,
+technology, salvage ecology, and faction pressure. Instead, the commander
+builds a bridge crew: thermal officers, fabrication leads, drone marshals,
+fire-control officers, quartermasters, rescue coordinators, signal/witness
+officers, faction liaisons, and stranger advisory minds.
+
+The bridge crew changes how the commander operates the scenario's provided
+station:
+
+- warnings surface earlier or with better context;
+- automation behaves differently;
+- emergency procedures become available;
+- resource handling becomes cleaner or riskier;
+- drones, salvage, rescue, fabrication, shields, and fire control gain
+  staff-shaped priorities;
+- post-run analysis produces better black-box lessons.
+
+The bridge crew does not replace the scenario's equipment list, starting
+station, or loot table. It is the commander's build without stealing authorship
+from the episode.
+
 Fictionally, this currency can represent post-run analysis, recovered data,
 operator certification, manufacturing credit, or sponsor confidence. The exact
 name can come later. The important design constraint is that it behaves like
@@ -976,7 +1000,11 @@ small percentages:
 - station stock quality;
 - dock refit speed;
 - pilot boost recharge;
-- starting fabrication reserve.
+- starting fabrication reserve;
+- staff recovery speed;
+- staff training efficiency;
+- black-box analysis yield;
+- bridge roster capacity or flexibility within strict limits.
 
 The first release should keep these boosts shallow and transparent. The goal is
 to make every run feel productive, not to make early runs feel intentionally
@@ -996,6 +1024,12 @@ Each scenario defines:
 - faction mix attacking the base;
 - faction-specific loot table and recovered technology pool;
 - narrative premise and post-run consequence.
+
+The scenario may also define staff pressure: recommended roles, stress
+modifiers, factional frictions, special debrief hooks, and risks to particular
+staff archetypes. A Cryonix thermal trial should not merely alter the loot
+table; it should also make thermal officers matter and leave some of them
+different afterward.
 
 The faction mix matters mechanically. A [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Zhestokost|Zhestokost]]
 attack should drop different hardware, pressure different defenses, and reward
@@ -1105,6 +1139,22 @@ the same war. Starbridge should be able to release episodes constantly because
 each episode is a reusable composition of premise, starting configuration,
 faction mix, boss sequence, and loot ecology.
 
+The Barracks gives scenario narrative a second memory surface. A station can be
+saved while a staffer comes back altered. A beloved rescue coordinator can bond
+with a pilot whose pod they recovered. A thermal officer can learn the exact
+shape of a pirate heat-capture doctrine and develop radiator dread while
+becoming better at stopping it. These changes should be represented as typed
+staff state, not loose flavor text: stress, scars, bonds, rivalries, procedures,
+refusals, leave requests, promotions, retirements, and black-box memories.
+
+Generated staff interactions can carry some of this narrative load. Ghostlight,
+VoidBot, and Epiphany persona turns can produce bounded debriefs, conflicts,
+bond events, recovery moments, and staff requests from stable character state,
+recent run facts, relationship state, and scenario context. Weksa vocals can
+voice accepted interactions. The generated layer must preserve continuity:
+characters are not disposable text fountains, and their state changes must be
+inspectable and able to affect future runs.
+
 ## User Interface Direction
 
 ### Shared Hangar Surface
@@ -1135,6 +1185,58 @@ and submit the same save/equip/repair/fabrication commands where the player's
 current service context permits them. Storefront purchases or season rewards
 may grant unlock or entitlement documents, but the hangar remains a projection
 over typed player state.
+
+### Barracks Surface
+
+The Barracks is the commander progression surface in the Aetheria client. It is
+not a Starbridge-only minigame, but Starbridge is where the first version earns
+its keep.
+
+The V1 Barracks should include:
+
+- roster cards and staff dossiers;
+- a skills page for each staffer;
+- active bridge slots for the next run;
+- recovery, treatment, leave, and training slots;
+- bonds, rivalries, stress, injuries, scars, and staff availability;
+- staff-linked procedures and automation options;
+- after-action changes from the last run;
+- generated debrief and relationship events;
+- replacement and succession tools for dead, retired, broken, or reassigned
+  staff.
+
+Staff roles are assignments, not hard classes. A staffer can specialize in one
+area while remaining useful elsewhere. The skills page should show who can man
+a gun, control drones, handle rescue coordination, read witness telemetry, or
+run thermal triage in a pinch. Out-of-specialty assignments should be possible
+and costly: more stress, slower response, poorer automation, increased
+Cognition pressure, or higher chance of mistakes.
+
+The V1 Barracks should not include animated portraits or a RimWorld-style
+walk-around life simulation. The important presentation is roster consequence:
+who changed, who needs rest, who is becoming brilliant, who is becoming
+dangerous, and who the commander is about to send back into the furnace anyway.
+
+Character releases can use a gacha-style cadence without making the official
+game a casino costume machine. Rarity should mean specificity of personhood:
+common staffers are useful demographic cuts through a faction labor pool;
+higher tiers are specialists, named professionals, historical survivors,
+faction assets, illegal minds, or canon characters with unique procedures and
+consequences. The official axis is narrative gravity and operational profile,
+not outfit escalation.
+
+Duplicates are useful because war takes people. A duplicate may be a new
+trainee from the same program, a replacement officer, a sibling, a protege, a
+parallel firmware instance, or a legal/illegal mind fork. Some legacy can carry
+forward through certifications, training records, black-box lessons, and
+memorial procedures. Bonds, trauma, trust, and personal history do not simply
+copy over. The replacement may be mechanically familiar and emotionally not the
+same person. That is the point.
+
+Presentation mods can exist as sidecars. Community wardrobe, portrait, voice,
+or adult presentation packs should not alter skills, stress, procedures,
+recruitment odds, or scenario outcomes. Official staff rarity and progression
+remain mechanical and narrative. Mods dress the stage; they do not own the war.
 
 ### RTS Interface
 
@@ -1250,6 +1352,9 @@ grow later.
 - scenario selection and completion unlocks;
 - first scenario definition with starting base, stock, technologies, attacker
   mix, and loot table;
+- Barracks V1 with limited command staff roster;
+- active bridge staff selection for the commander;
+- staff skills, stress, recovery, and after-action changes;
 - five enemy archetypes;
 - small RTS build set;
 - one baseline combat ship kit;
@@ -1271,11 +1376,13 @@ grow later.
 - wave preview through sensors;
 - post-wave upgrade choices;
 - meta-progression percentage boost investments;
+- generated staff debriefs and relationship events;
+- staff bonds, rivalries, refusals, and leave requests;
 - episodic scenario metadata for faction mix and recovered technology pools;
 - pilot down/respawn loop through launch bay;
 - overclock, cooling, and vent interaction;
 - drone leashing;
-- saved or preset station loadouts;
+- saved bridge roster presets;
 - difficulty presets;
 - concise end-of-session score report.
 
@@ -1283,7 +1390,8 @@ grow later.
 
 - expanded pilot ship variants;
 - larger station stock progression;
-- alternate base presets;
+- broader staff release pool;
+- staff-linked command procedures;
 - challenge modifiers;
 - elite enemy variants;
 - replayable daily seed;
@@ -1298,6 +1406,8 @@ grow later.
 - large tech trees;
 - multiple factions;
 - complex economy simulation;
+- RimWorld-style Barracks walk-around simulation;
+- animated staff portraits;
 - unbounded account power creep;
 - PvP.
 
