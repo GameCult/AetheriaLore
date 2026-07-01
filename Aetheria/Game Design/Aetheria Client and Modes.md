@@ -67,7 +67,7 @@ season rewards, and scenario unlocks may add entitlement or inventory
 documents; the Hangar remains the projection over player-owned ships and
 equipment.
 
-## Commander Progression Candidates
+## Commander Progression
 
 The commander needs a progression layer as sticky as pilot loadout
 customization. It cannot simply be a persistent station loadout. Scenario
@@ -83,46 +83,165 @@ Commander progression candidates should be judged by whether they create real
 identity, mastery, and buildcraft without smuggling forbidden station assets
 into a scenario.
 
-### Real-Time Command Deck
+### Barracks V1
 
-The strongest current candidate is a real-time card-command game.
+The V1 commander progression target is the **Barracks**.
 
-The commander has a deck, hand, draw pile, cooldown pile, and cadence-based
-draw. Cards are played during the Starbridge defense to install equipment,
-upgrade equipment, deploy drones and turrets, activate item behaviors, trigger
-procedures, and spend emergency protocols. Played cards go into cooldown,
-discard, exhaust, or debt depending on their type and effect.
+The Hangar stores machines. The Barracks stores people and minds. Pilots tune
+ships and loadouts. Commanders build a bridge crew, put that crew under
+pressure, and live with what the pressure does to them.
 
-This makes the commander role a full game in the chair:
+The emotional model is closer to Darkest Dungeon than a collectible card game.
+Every run puts command staff against the grindstone. They gain skill,
+procedures, bonds, familiarity with pilots, and enemy-pattern memory. They also
+accumulate stress, injuries, burnout, trauma, moral damage, faction pressure,
+firmware scars, illegal habits, and strange command fixations.
 
-> Pilots fly loadouts. Commanders play decks.
+The V1 presentation should stay contained:
 
-Part of the deck comes from the scenario. That scenario deck represents the
-starting station, local technology, available equipment, faction constraints,
-damage state, emergency procedures, and salvage context. Part of the deck comes
-from the commander: persistent command cards, learned procedures, faction
-licenses, staff habits, and command rig choices. A run can then add temporary
-cards through boss technology recovery, field salvage, malfunctions, debt, or
-emergency improvisation.
+- roster cards and staff dossiers;
+- active bridge slots;
+- recovery, treatment, and training slots;
+- relationship and conflict summaries;
+- after-action changes;
+- staff-linked procedures and automation;
+- no animated portraits;
+- no walk-around RimWorld-style barracks simulation.
 
-Possible card classes:
+The most important visual outcome is not seeing staff wander around. It is
+seeing staff change.
 
-- **Install**: place equipment into valid station hull grid cells, still
-  respecting physical cells, adjacency, power, fabrication, and scenario tech.
-- **Upgrade**: improve, tune, reinforce, or add a behavior mode to installed
-  equipment.
-- **Deploy**: launch drones, turrets, decoys, sensor buoys, salvage tugs,
-  repair craft, or temporary field structures allowed by the scenario.
-- **Activate**: trigger item behaviors and arbitrary effects using the same
-  behavior concept as consumables and equipment.
-- **Procedure**: change priorities, retask automation, reroute power, alter
-  shield behavior, reclassify targets, or issue multi-system commands.
-- **Emergency**: produce strong saves at the cost of heat, damage, debt,
-  future draw pollution, score penalties, or maintenance consequences.
-- **Debt/Malfunction**: cards injected by damage, overheating, hacking,
-  under-crewing, illegal shortcuts, or desperate repairs.
+### Staff Roles
 
-The resource model should use four command resources:
+Command staff should affect how the commander operates the scenario's provided
+station, not which station nouns exist. They can modify warnings, procedures,
+automation, resource handling, and emergency options while the scenario still
+owns equipment, salvage, technology, and enemy pressure.
+
+Candidate staff roles:
+
+- thermal officer;
+- fabrication lead;
+- drone marshal;
+- fire-control officer;
+- quartermaster;
+- rescue coordinator;
+- signal/witness officer;
+- faction liaison;
+- morale/comms officer;
+- neuromorphic or ship-self advisor;
+- illegal firmware specialist.
+
+Staff do not need to be only ordinary humans. Aetheria can include trained
+officers, faction specialists, embodied ship-selves, advisory firmware,
+compliance engines, damaged station minds, and other legal or illegal minds
+allowed onto the command side of the war table.
+
+### Stress, Growth, And Decay
+
+Staff progression should create attachment and hesitation.
+
+After runs, staff can gain:
+
+- XP and promotions;
+- new or improved procedures;
+- better enemy/faction familiarity;
+- bonds with other staff;
+- bonds with specific pilots or ships;
+- commendations and titles;
+- faction credentials;
+- black-box insights.
+
+Staff can also suffer:
+
+- acute stress;
+- fatigue and leave requirements;
+- heat trauma;
+- overclock addiction;
+- radiator dread;
+- rescue obsession;
+- salvage fixation;
+- witness compulsion;
+- illegal firmware dependence;
+- faction loyalty drift;
+- contempt for cautious or reckless commanders;
+- rivalry with another staff member;
+- refusal to work a specific scenario class;
+- breakdown, retirement, or loss.
+
+This is the commander's risk economy. Pilots bring hulls back scorched.
+Commanders bring minds back altered.
+
+### Generated Interactions
+
+The Barracks should use a limited authored pool of releasable characters, with
+live interactions procedurally generated from character state, run history,
+relationships, scenario pressure, and faction context.
+
+Ghostlight, VoidBot, and Epiphany persona turns can generate staff interactions
+as structured narrative events rather than freeform noise. The generated layer
+should know the character's stable identity, current stress, relationships,
+recent failures, recent saves, faction background, and available event type.
+It should output bounded dialogue, relationship changes, event flags, and
+operator-facing summaries that the game can store as typed state.
+
+Weksa vocals can give these interactions voice once the text event is accepted
+and bounded. Voice should reinforce staff presence without requiring animated
+portraits or a full barracks life sim.
+
+V1 should treat generated interactions as authored-bounded events:
+
+- post-run debriefs;
+- stress breaks;
+- bond formation;
+- rivalry escalation;
+- staff requesting leave;
+- staff refusing or demanding assignment;
+- procedure discovery;
+- faction contact;
+- black-box confession;
+- memorial or recovery moments.
+
+The generation system must serve continuity. Characters are not disposable
+text fountains. Their state changes should persist, be inspectable, and affect
+future runs.
+
+### Character Release Model
+
+Aetheria can release a limited pool of command staff over time in a
+gacha-style cadence: named officers, specialists, firmware advisors, faction
+liaisons, illegal contractors, and strange command minds. The collection pull
+is real, but the design should avoid making the commander role depend on
+predatory availability or opaque power chasing.
+
+Safer release principles:
+
+- every commander has a competent baseline staff;
+- premium or rare staff create style, story, and specialization, not mandatory
+  access to basic command competence;
+- scenario completion, seasons, faction reputation, and achievements can unlock
+  staff alongside any monetized channel;
+- staff power is legible through role, stress profile, procedures, and
+  compatibility rather than hidden rarity math;
+- duplicate pulls, if used, should become training, memories, cosmetics, or
+  safe progression currency rather than a slot-machine cliff.
+
+The product can borrow the release cadence and excitement of character
+collection without designing the Barracks as a little extraction engine in a
+hat.
+
+### Shelved: Real-Time Command Deck
+
+The real-time command deck remains a viable alternate or later procedure layer,
+but it is not the V1 commander progression target.
+
+In that model, the commander has a deck, hand, draw pile, cooldown pile, and
+cadence-based draw. Cards install equipment, upgrade equipment, deploy drones
+and turrets, activate item behaviors, trigger procedures, and spend emergency
+protocols. The scenario contributes part of the deck so scenario authorship
+remains intact.
+
+The four-resource model remains useful even without cards:
 
 - **Power**: electrical capacity, routing, shields, sensors, weapon systems,
   drone charging, and immediate station activity.
@@ -134,92 +253,10 @@ The resource model should use four command resources:
   authority, operator focus, predictive modeling, witness activity, and the
   stranger Aetheria-specific forms of semantic or neuromorphic strain.
 
-Four resources are enough to create deck identity without making the commander
-read a tax form while missiles are arriving. Power is what the station can
-energize. Mass is what it can physically become. Heat is what it can survive
-doing. Cognition is what it can understand and coordinate.
+Cards may come back later as staff-authored procedures, emergency protocol
+bundles, or rig-like command scripts. For V1, the sticky sentence is:
 
-### Command Rigs As Basis Decks
-
-Command rigs are a companion idea to the command deck. A rig is the commander
-equivalent of a hull: a faction or manufacturer themed basis deck plus
-resource bias and a small set of mechanical affordances.
-
-The first useful version should go straight to mechanics and skip bespoke UI
-skins or audio. Cosmetic identity can come later after the rig earns it.
-
-A V1 command rig defines:
-
-- basis card ids;
-- resource bias across Power, Mass, Heat, and Cognition;
-- compatible card tags;
-- forbidden or awkward card tags;
-- one or two signature mechanics;
-- optional rig-specific debt or malfunction cards;
-- unlock requirements.
-
-Example V1 rigs:
-
-- **AU Industrial Command Rig**: Power/Mass bias. Install, repair, turret, and
-  fabrication cards. First install each wave gets a Mass discount; fabrication
-  cards cool down faster after a clean defensive interval.
-- **Cryonix Thermal Command Rig**: Heat/Cognition bias. Cooling, prediction,
-  thermal triage, and purge cards. Can preview heat debt and convert some Heat
-  cost into delayed debt once per draw cycle.
-- **Zhestokost Siege Command Rig**: Mass/Heat bias. Armor, heavy turret,
-  ammunition, rugged repair, and emergency venting cards. Can install into
-  damaged cells; defenses gain durability but create more Heat while firing.
-- **PSC Compliance Command Rig**: Power/Cognition bias. Witness, legal target
-  classification, protected corridors, and telemetry cards. Witness/authority
-  cards cost less Cognition; pod protection and surrender events improve score.
-- **Pirate Salvage Command Rig**: Mass/Cognition bias. Salvage theft, spoofing,
-  wreck preservation, and dirty conversion cards. Can convert wreck claims into
-  temporary Mass; illegal plays add Heat, Cognition debt, or reputation risk.
-
-The scenario still injects the actual station and available tech. A Cryonix
-commander defending an AU station operates AU machinery through Cryonix thermal
-doctrine; they do not replace the station with a Cryonix station.
-
-### Other Sticky Directions To Explore
-
-Cards are strong because they create collection, draw tension, buildcraft,
-streamable decisions, and visible clutch moments. Other commander progression
-ideas need to be just as sticky before they deserve to compete.
-
-Promising alternatives:
-
-- **Living Staff**: commanders collect, train, and shape semi-autonomous staff
-  officers who change priorities, warnings, automation, and failure habits.
-  Staff become a persistent crew with scars, preferences, and operational
-  culture rather than passive perk slots.
-- **Command Language**: commanders build custom named procedures that package
-  pings, drone orders, shield priorities, pilot alerts, and target classes.
-  Friend groups learn a commander's vocabulary: "Spine", "Lantern",
-  "Blackout", "No One Burns".
-- **Battle Memory**: commanders accumulate tactical ghosts from previous runs:
-  breach points, heat disasters, saves, bad chases, common pirate vectors, and
-  recurring crew habits. The command surface can project learned annotations
-  without giving universal knowledge to a fresh commander.
-- **Black Box Career**: every commander carries a persistent after-action
-  record of saves, abandoned modules, recovered pods, missiles intercepted,
-  stations lost, and ugly tradeoffs. Unlocks come from demonstrated command
-  style and mastery, not only currency.
-- **Command Room As Place**: a persistent deck or war room evolves with
-  trophies, black-box scars, faction certifications, pilot patches, recovered
-  artifacts, and visible campaign history. This is identity-heavy but should
-  wait until the mechanical progression proves it deserves a room.
-- **Emergency Possession**: rare protocols let the commander briefly take
-  direct simplified control of a drone, turret, rescue craft, or subsystem.
-  The chair becomes hands for a dramatic moment, with cost and risk.
-- **Commander As Witness**: Arena and later Conquest can let advanced
-  commanders serve as witnesses, referees, operators, or dispute analysts for
-  quorum matches. This turns command progression into trusted Verse authority,
-  not only Starbridge base management.
-
-The design test for all of these is emotional. A pilot should say, "I want to
-tune my ship." A commander needs an equally strong sentence. "I want to tune my
-deck" is currently the cleanest candidate. Keep looking for others with that
-kind of gravity.
+> Pilots build ships. Commanders build crews.
 
 ## Starbridge
 
