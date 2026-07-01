@@ -67,6 +67,160 @@ season rewards, and scenario unlocks may add entitlement or inventory
 documents; the Hangar remains the projection over player-owned ships and
 equipment.
 
+## Commander Progression Candidates
+
+The commander needs a progression layer as sticky as pilot loadout
+customization. It cannot simply be a persistent station loadout. Scenario
+authorship must remain intact: the scenario owns starting station equipment,
+available technologies, salvage ecology, faction mix, wave shape, boss loot,
+and infrastructure constraints.
+
+The commander progression rule:
+
+> Scenarios own nouns. Commanders own the operating language.
+
+Commander progression candidates should be judged by whether they create real
+identity, mastery, and buildcraft without smuggling forbidden station assets
+into a scenario.
+
+### Real-Time Command Deck
+
+The strongest current candidate is a real-time card-command game.
+
+The commander has a deck, hand, draw pile, cooldown pile, and cadence-based
+draw. Cards are played during the Starbridge defense to install equipment,
+upgrade equipment, deploy drones and turrets, activate item behaviors, trigger
+procedures, and spend emergency protocols. Played cards go into cooldown,
+discard, exhaust, or debt depending on their type and effect.
+
+This makes the commander role a full game in the chair:
+
+> Pilots fly loadouts. Commanders play decks.
+
+Part of the deck comes from the scenario. That scenario deck represents the
+starting station, local technology, available equipment, faction constraints,
+damage state, emergency procedures, and salvage context. Part of the deck comes
+from the commander: persistent command cards, learned procedures, faction
+licenses, staff habits, and command rig choices. A run can then add temporary
+cards through boss technology recovery, field salvage, malfunctions, debt, or
+emergency improvisation.
+
+Possible card classes:
+
+- **Install**: place equipment into valid station hull grid cells, still
+  respecting physical cells, adjacency, power, fabrication, and scenario tech.
+- **Upgrade**: improve, tune, reinforce, or add a behavior mode to installed
+  equipment.
+- **Deploy**: launch drones, turrets, decoys, sensor buoys, salvage tugs,
+  repair craft, or temporary field structures allowed by the scenario.
+- **Activate**: trigger item behaviors and arbitrary effects using the same
+  behavior concept as consumables and equipment.
+- **Procedure**: change priorities, retask automation, reroute power, alter
+  shield behavior, reclassify targets, or issue multi-system commands.
+- **Emergency**: produce strong saves at the cost of heat, damage, debt,
+  future draw pollution, score penalties, or maintenance consequences.
+- **Debt/Malfunction**: cards injected by damage, overheating, hacking,
+  under-crewing, illegal shortcuts, or desperate repairs.
+
+The resource model should use four command resources:
+
+- **Power**: electrical capacity, routing, shields, sensors, weapon systems,
+  drone charging, and immediate station activity.
+- **Mass**: salvage, material throughput, structure, ammunition, replacement
+  parts, and physical installation.
+- **Heat**: thermal capacity, cooling budget, radiator availability,
+  overclocking, fabrication haste, and emergency thermal debt.
+- **Cognition**: command bandwidth, staff attention, signal clarity, Verse
+  authority, operator focus, predictive modeling, witness activity, and the
+  stranger Aetheria-specific forms of semantic or neuromorphic strain.
+
+Four resources are enough to create deck identity without making the commander
+read a tax form while missiles are arriving. Power is what the station can
+energize. Mass is what it can physically become. Heat is what it can survive
+doing. Cognition is what it can understand and coordinate.
+
+### Command Rigs As Basis Decks
+
+Command rigs are a companion idea to the command deck. A rig is the commander
+equivalent of a hull: a faction or manufacturer themed basis deck plus
+resource bias and a small set of mechanical affordances.
+
+The first useful version should go straight to mechanics and skip bespoke UI
+skins or audio. Cosmetic identity can come later after the rig earns it.
+
+A V1 command rig defines:
+
+- basis card ids;
+- resource bias across Power, Mass, Heat, and Cognition;
+- compatible card tags;
+- forbidden or awkward card tags;
+- one or two signature mechanics;
+- optional rig-specific debt or malfunction cards;
+- unlock requirements.
+
+Example V1 rigs:
+
+- **AU Industrial Command Rig**: Power/Mass bias. Install, repair, turret, and
+  fabrication cards. First install each wave gets a Mass discount; fabrication
+  cards cool down faster after a clean defensive interval.
+- **Cryonix Thermal Command Rig**: Heat/Cognition bias. Cooling, prediction,
+  thermal triage, and purge cards. Can preview heat debt and convert some Heat
+  cost into delayed debt once per draw cycle.
+- **Zhestokost Siege Command Rig**: Mass/Heat bias. Armor, heavy turret,
+  ammunition, rugged repair, and emergency venting cards. Can install into
+  damaged cells; defenses gain durability but create more Heat while firing.
+- **PSC Compliance Command Rig**: Power/Cognition bias. Witness, legal target
+  classification, protected corridors, and telemetry cards. Witness/authority
+  cards cost less Cognition; pod protection and surrender events improve score.
+- **Pirate Salvage Command Rig**: Mass/Cognition bias. Salvage theft, spoofing,
+  wreck preservation, and dirty conversion cards. Can convert wreck claims into
+  temporary Mass; illegal plays add Heat, Cognition debt, or reputation risk.
+
+The scenario still injects the actual station and available tech. A Cryonix
+commander defending an AU station operates AU machinery through Cryonix thermal
+doctrine; they do not replace the station with a Cryonix station.
+
+### Other Sticky Directions To Explore
+
+Cards are strong because they create collection, draw tension, buildcraft,
+streamable decisions, and visible clutch moments. Other commander progression
+ideas need to be just as sticky before they deserve to compete.
+
+Promising alternatives:
+
+- **Living Staff**: commanders collect, train, and shape semi-autonomous staff
+  officers who change priorities, warnings, automation, and failure habits.
+  Staff become a persistent crew with scars, preferences, and operational
+  culture rather than passive perk slots.
+- **Command Language**: commanders build custom named procedures that package
+  pings, drone orders, shield priorities, pilot alerts, and target classes.
+  Friend groups learn a commander's vocabulary: "Spine", "Lantern",
+  "Blackout", "No One Burns".
+- **Battle Memory**: commanders accumulate tactical ghosts from previous runs:
+  breach points, heat disasters, saves, bad chases, common pirate vectors, and
+  recurring crew habits. The command surface can project learned annotations
+  without giving universal knowledge to a fresh commander.
+- **Black Box Career**: every commander carries a persistent after-action
+  record of saves, abandoned modules, recovered pods, missiles intercepted,
+  stations lost, and ugly tradeoffs. Unlocks come from demonstrated command
+  style and mastery, not only currency.
+- **Command Room As Place**: a persistent deck or war room evolves with
+  trophies, black-box scars, faction certifications, pilot patches, recovered
+  artifacts, and visible campaign history. This is identity-heavy but should
+  wait until the mechanical progression proves it deserves a room.
+- **Emergency Possession**: rare protocols let the commander briefly take
+  direct simplified control of a drone, turret, rescue craft, or subsystem.
+  The chair becomes hands for a dramatic moment, with cost and risk.
+- **Commander As Witness**: Arena and later Conquest can let advanced
+  commanders serve as witnesses, referees, operators, or dispute analysts for
+  quorum matches. This turns command progression into trusted Verse authority,
+  not only Starbridge base management.
+
+The design test for all of these is emotional. A pilot should say, "I want to
+tune my ship." A commander needs an equally strong sentence. "I want to tune my
+deck" is currently the cleanest candidate. Keep looking for others with that
+kind of gravity.
+
 ## Starbridge
 
 Starbridge is the co-op product wedge. It is always understandable:
@@ -162,4 +316,3 @@ The daemon owns game truth. The desktop client and Unity client are
 role-specific views into typed Verse state. That is the architectural fantasy
 and the product fantasy saying the same thing without having to apologize to
 each other.
-
