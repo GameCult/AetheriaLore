@@ -19,13 +19,13 @@ The trick is in the last line. Parallax does not need to own the later office. I
 
 ### Admissibility Routing
 
-The practical ladder is deliberately dull. Suspicion can follow a vessel for years without changing custody. A custody downgrade begins only when a receiving office accepts a class that gives it a named first cut.
+The practical ladder is deliberately dull. Suspicion can follow a vessel for years without changing custody. A custody downgrade begins only when a receiving office accepts a class that gives it a named first cut. The [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]] is the common restriction layer for that handoff at ports, insurer desks, custody liaisons, and claimant gates.
 
 | Admissibility class | Deciding office | First concrete cut |
 | --- | --- | --- |
 | Route Integrity Note / Non-actionable | Local route-integrity clerk or bonded traffic analyst | Record annotation only; no berth, title, command, testimony, or coverage right changes. |
 | CAF-1 Watch Notation | Parallax intake reviewer attached to a port, insurer, or fleet registrar | Manual review at the next controlled gate; the ship may still dock, depart, testify, and command as of right. |
-| CAF-2 Commercially Dirty | Parallax Admissibility Desk with insurer or port compact notice | Reconciliation surcharge, bond quote, delayed clearance window, or restricted lane assignment; suspicion is priced, not yet converted into custody action. |
+| CAF-2 Commercially Dirty | Parallax Admissibility Desk with insurer or [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|port compact]] notice | Reconciliation surcharge, bond quote, delayed clearance window, or restricted lane assignment; suspicion is priced, not yet converted into custody action. |
 | CAF-3 Restricted Admissibility | Parallax Admissibility Desk accepted by the named receiving office | The first right changes: berth denial, coverage refusal, claimant hold, operator suspension, or custody review may begin under that office's existing rules. |
 | CAF-4 Quarantine Admissibility | Compact emergency panel with port safety, insurer, and custody liaison signatures | Physical movement, command authority, and self-directed repair may be frozen pending hearing; custody is restricted, but title or personhood is still not resolved by Parallax. |
 
@@ -39,7 +39,7 @@ This is the line that keeps the machinery honest enough to be cruel. A CAF-2 fil
 | Observed contamination | Valid access history without clean entry route; command attestation predating local authority; residue echo across two berth logs |
 | Prior class | Route Integrity Note / Non-actionable |
 | Reclassified as | CAF-3 Restricted Admissibility |
-| Owning office | Parallax Admissibility Desk, Port-Insurer Compact |
+| Owning office | Parallax Admissibility Desk, [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]] |
 | Receiving office | Berth Authority and Custody Review Liaison |
 | Mandatory consequence | Temporary berth denial; custody hearing may proceed without ship-self testimony as controlling evidence |
 | First altered right | Right of physical docking before reconciliation bond |
@@ -60,7 +60,7 @@ Nobody has to declare the ship mind false. Nobody has to say the branch happened
 | Finding timestamp | 09:44:18 station standard, logged against the receiving port's bridge-security clock |
 | Confidence class | CAF-3 Restricted Admissibility, narrow continuity confidence |
 | Receiving enforcement surface | Bridge control authority for active helm session resumption |
-| Durable trace | Port-Insurer Compact continuity packet `PAF-CAF-22`, mirrored into the custody ledger as read-only admissibility evidence |
+| Durable trace | [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]] continuity packet `PAF-CAF-22`, mirrored into the custody ledger as read-only admissibility evidence |
 | Right flipped | Resume the interrupted helm session under the prior emergency route order |
 | Right kept shut | Access to sealed cargo title, private crew archive, owner vault, and salvage disposition authority |
 | Public language | Helm continuity accepted for emergency route completion; proprietary and custodial authorities remain unreconciled |

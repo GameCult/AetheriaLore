@@ -46,6 +46,8 @@ Black markets exploit this by selling counterfeit remembrance. Clinics reconstru
 
 The trigger that matters is usually CAF-3 Restricted Admissibility: enough mutually valid but incompatible witness surfaces to alter rights without proving fraud. Once that box is checked, a berth authority may deny docking, an insurer may refuse coverage, a claimant may freeze title, or a custody office may proceed without treating the ship-self's testimony as controlling evidence. The ship has not been disproven. Its record has become actionable against it.
 
+The usual handoff is the [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]]. It is not the missing grand office. It is the named restriction that lets each downstream office make one first cut at a controlled gate: berth, coverage, title, custody testimony, command authority, or operator credential. That keeps the contradiction portable without resolving it. The port does not need to own personhood to deny arrival, and the insurer does not need to own the hull to refuse coverage.
+
 A favorable continuity finding can be just as narrow. A Parallax desk may decide that one branch-smeared ship-self is continuous enough with another to resume an interrupted helm session, especially when private route-memory errors, challenge-response habits, and bridge logs agree in the wrong order. That flips a real right: the bridge may accept the ship-self back into the active route duty instead of treating it as a stranger at the controls. It does not unlock sealed cargo title, crew archives, owner vaults, salvage disposition, or general personhood recognition. Continuity for a duty is not inheritance of the whole body.
 
 ### Permanent Mud

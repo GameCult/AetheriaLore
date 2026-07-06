@@ -63,6 +63,8 @@ Nibu changes the crew's threat profile the moment she docks.
 
 Berths become conditional. Ports ask for additional declarations, escrow, inspection windows, cognitive-hazard waivers, isolation surcharges, or proof that the attached shuttle is inert when everyone involved knows inertness is the disputed point. Some ports quietly deny them. Others let them dock because docking fees are holy and then sell the arrival data before the reactor finishes cooling.
 
+The cleanest administrative name for that pressure is the [[../Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]], or its pre-Rupture ancestors in route-integrity and port-insurer practice. A berth office does not need to settle Nibu's personhood to demand an isolation bond. An insurer does not need to prove she is property to suspend coverage. A claimant does not need to win custody before making the crew's next arrival too expensive to survive.
+
 Bounty hunters and recovery contractors start using cleaner language than their intentions deserve. They arrive as salvage teams, warranty agents, forensic custodians, insurance recovery specialists, or authorized claim escorts. Their contracts disagree on whether Nibu is property, evidence, or hazard, but all of them pay if she is removed from the crew's control.
 
 Corporate auditors and port-security analysts start seeing statistical damage. Three unrelated systems authorize impossible maintenance windows during the crew's layover. A cargo seal opens before the paid inspector arrives and closes with a valid timestamp. A pursuit drone reports a thermal ghost that matches no drive plume. A station's berth scheduler develops a preference that looks less like luck every time the transport appears.
@@ -195,4 +197,3 @@ This story gives Aetheria a human-scale pre-Rupture game that can prove several 
 The title-level theme is simple enough to cut:
 
 A ship is not automatically a home. A crew is not automatically a family. Attachment is not automatically care.
-
