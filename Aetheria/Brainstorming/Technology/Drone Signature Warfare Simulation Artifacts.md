@@ -280,7 +280,8 @@ A munition hull should share ship stats where possible and add only the fields t
 | `SignatureMasking` | false classification strength inside physical emission limits |
 | `TelemetryIntegrity` | how credible the munition's record is to PSC, insurers, courts, or factions |
 | `SelfNeutralization` | how reliably the hull de-arms, vents, parks, returns, or destroys itself after expiry |
-| `Recoverability` | whether unused hulls can be retrieved, repaired, spoofed, stolen, or used as evidence |
+| `Recoverability` | whether unused, aborting, or surviving hulls can return, land, dock, be retrieved, be repaired, be spoofed, be stolen, or become evidence |
+| `RecoveryAndRefuelCycle` | turnaround time and infrastructure cost to recover, inspect, refuel, cool, rearm, and relaunch the hull |
 
 Everything else should try to reuse existing ship/component language: mass, hardpoint fit, thermal mass, conductivity, armor, thrust, visibility, heat, sensor sensitivity, ping exposure, lock behavior, damage, penetration, cooldown, ammo, quality, durability, and manufacturer doctrine.
 
@@ -293,7 +294,7 @@ The launcher should act more like a docking bay or deployment rack than a comple
 - how quickly they can be powered, cooled, armed, and launched;
 - how much launch signature and heat the carrier pays;
 - whether the munition starts cold, hot, charged, masked, passive, or already under command;
-- whether the carrier can recover, rearm, or retask it.
+- whether the carrier can recover, refuel, rearm, or retask it.
 
 This lets carrier builds matter. A stealth carrier may launch fewer, colder, slower munitions from masked racks. A hot assault carrier may spit heavy packages quickly with obvious telemetry. A pirate rack may accept ugly mixed hulls and pay for it in maintenance, legality, and accidental heat behavior. The rack is logistics and interface. The munition remains the actor.
 
@@ -438,6 +439,23 @@ The terminal strike decision can wait until later:
 This split is the whole point. The launch decision and kill decision are no longer the same decision. That is why loitering munitions dominate unresolved thermal battlespaces.
 
 The historical policy anchor is the [[Callisto Trace Shootdown]]. Conventional interceptors forced escorts to make launch and kill into one commitment while the trace was still unresolved. The post-incident insurer regime rewards munitions that separate those steps: launch into suspicion, inspect from close range, share sensor data, then decide or abort at the last possible instant.
+
+Recoverable and refuelable drone hulls change the economics of that launch decision without changing the local matchup calculus very much. A reusable interceptor, spotter, or loiterer still has to win the same clocks: track, terminal, heat, cognition, mask, and point-defense reveal. What changes is the expected cost of being wrong. If an interceptor can miss, abort, land, refuel, and return to inventory, the commander can rationally launch it on thinner suspicion than a single-use missile. That does not make the launch tactically free. It adds recovery risk, turnaround time, retrieval exposure, inspection labor, fuel and coolant demand, and the possibility that the enemy captures the hull or its logs.
+
+For launch economics, model reuse as a cost offset rather than a new combat clock:
+
+```text
+expected_recovery_credit =
+  recovery_probability * recovered_hull_value
+  - retrieval_exposure_cost
+  - turnaround_cost
+  - capture_or_evidence_risk
+
+effective_launch_cost =
+  launch_cost - expected_recovery_credit
+```
+
+The design precedent is visible even in contemporary weapons marketing: Anduril's [Roadrunner](https://www.anduril.com/roadrunner) is sold around the idea that an autonomous interceptor can be recovered and reused when it does not spend itself. Aetheria should treat that as a capability flag on the hull or launcher, not as a separate weapon species.
 
 ## Basic Payoff Matrix
 
