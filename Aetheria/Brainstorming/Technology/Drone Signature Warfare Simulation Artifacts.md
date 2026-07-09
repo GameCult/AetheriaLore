@@ -8,6 +8,7 @@ This note games out drone warfare under [[Thermal Stealth and Signature Warfare]
 - Detection is faster than identification. A sensor trace can be tactically meaningful before it is legally or materially resolved.
 - Every action has signature cost: thrust, active scan, radiator use, point defense, heat transfer, weapons charging, drone launch, drone correction, and emergency maneuver.
 - Thermal stealth is heat debt. Quiet platforms are borrowing time from future dump windows.
+- Signature shaping is not timeless. Before the Cold Wake metamaterial threshold, actors hide, delay, dump, and throw crude decoys. After it, ships and drones can spend heat to imitate other plausible signatures inside their physical envelope.
 - Loitering systems have option value. They let a commander commit mass, position, and sensor coverage before committing final lethality.
 - PSC-regulated actors care about admissible telemetry and legal exposure. Pirates and covert operators care about reputation, salvage value, and avoiding traceable intent.
 
@@ -19,9 +20,9 @@ The same heuristic should not produce the same war in every century. Each era ch
 | --- | --- | --- | --- |
 | [[Corporate Exodus]] | human security teams, basic sensors, dockside control, contract muscle, industrial tools | transport margin, habitat redundancy, public law, spare parts, independent food and fuel | boarding, berth seizure, convoy escort, strikebreaking, sabotage, pump-room war |
 | [[Age of Automation]] | cheap coordination, predictive patrols, basic drones, AGI logistics, compliance telemetry | legitimacy, audit clarity, swarm restraint, safe autonomy | perimeter swarms, automated interdiction, escort screens, permit-shaped violence |
-| Cold Wake period | better sensors, early thermal materials, probes, radiator discipline, insurer attention | trustworthy heat history, quiet-running certification, corridor patience | cold stalking, forced scans, decoy plumes, heat dumps as battle events |
+| Cold Wake period | better sensors, Cold Wake metamaterials, probes, radiator discipline, insurer attention | trustworthy heat history, quiet-running certification, corridor patience, classification certainty | cold stalking, forced scans, decoy plumes, early signature shaping, heat dumps as battle events |
 | [[Identity Crisis]] | uploads, BCIs, biodrones, uplift specialists, long-memory command | stable personhood law, consent, trust in weapon labor, command legitimacy | fast cognition with ugly custody questions; sabotage and targeting become personhood disputes |
-| [[Identity Abyss]] | commoditized cognition, [[Neuromorphic Firmware]], media spin, deniable command tools | moral credibility, firmware stability, clean evidence, public trust | cognitive overload warfare, target-classification fights, adaptive munitions, reality-management after the shot |
+| [[Identity Abyss]] | commoditized cognition, [[Neuromorphic Firmware]], shaped-emission attacks, media spin, deniable command tools | moral credibility, firmware stability, clean evidence, public trust, classifier robustness | cognitive overload warfare, target-classification fights, adversarial signatures, adaptive munitions, reality-management after the shot |
 | [[Existential Collapse]] | salvage, black-market refits, pirate doctrine, local militias, rescue networks, old stockpiles | food, coolant, radiator capacity, clinics, repair infrastructure, PSCC stability | convoy war, thermal capture, loitering ambushes, maintenance denial, strategic rescue |
 | Early Elysium | displaced fleets, old doctrines, desperate crews, strange terrain, inherited grudges | maps, fuel assumptions, stable law, known physics, supply chains | triage combat, doctrine mismatch, improvisation, old weapons under new failure conditions |
 | Mature Post-Elysium | shields, aetheric mobility, esper cognition, oracular tools, Parallax procedures | admissible reality, clean continuity, certified operators, uncontaminated records | protected first-hit windows, prediction contests, residue management, wars over what the battle legally was |
@@ -45,6 +46,25 @@ The active Aetheria behavior layer already points to the right variables. The do
 | `Cooldown`, `BurstTime`, `Count`, `MagazineSize`, `ReloadTime`, ammo key | salvo rhythm and how expensive it is to spend uncertainty |
 | active consumable `Duration` / `RemainingDuration` | useful prototype surface for loiter time, decoy life, heat-ferry endurance, or temporary signature masking |
 | cognitive components, AI cores, neuromorphic firmware, battle computers | how much usable inference, attention, target sorting, fire-control scheduling, and commitment judgment the platform can apply before overload |
+
+## Signature Shaping Threshold
+
+Treat signature shaping as an era-gated capability rather than a universal stealth stat. Early stealth can reduce visibility, delay a dump, hide behind background heat, or release a crude false plume. Mature shaping appears after Cold Wake metamaterials make thermal release programmable enough to imitate class features. The result is not invisibility. It is false classification bounded by heat capacity, emitter bandwidth, aspect, thrust history, radiator geometry, telemetry behavior, and what the observer already thinks should be in the volume.
+
+A ship trying to hide can make itself look like something thermally nearby. A drone can do the same if it has thermal mass, emitters, and enough cognition to keep the lie coherent. A heat ferry is the cleanest example because it already carries the parent hull's debt: it can move that heat away, then spend it as service traffic, a legal dump, a false radiator bloom, a wounded shuttle, a larger drive plume, or the signature that makes some other object look harmless by comparison.
+
+Useful shaping stats:
+
+| Stat | Meaning |
+| --- | --- |
+| `ShapeBandwidth` | how many independent signature features can be controlled at once: intensity, spectrum, direction, pulse rhythm, apparent radiator geometry, ping response, or decay curve |
+| `ThermalEnvelope` | set of plausible classes the platform can imitate without violating heat, thrust, geometry, or telemetry constraints |
+| `ImitationLibrary` | known target, service, industrial, legal, debris, and emergency signatures the platform can perform convincingly |
+| `CoherenceMaintenance` | heat, cognition, and control cost required to keep the apparent signature consistent as observers gather more data |
+| `ClassifierAttackStrength` | ability to generate shaped emissions that overload, bias, or split a specific cognitive architecture's inference |
+| `ClassifierRobustness` | observer resistance to adversarial signatures, including training diversity, sensor fusion, and refusal to overcommit |
+
+This is where stealth stops being only submarine warfare and becomes a hidden-object puzzle. The trace is not merely faint. It is asking to be classified as the wrong member of a crowded scene.
 
 ## Weapon Economy Axis
 
@@ -70,7 +90,7 @@ The doctrine question becomes: which resource is cheaper for this actor in this 
 
 Two stats are not explicit enough yet, but the doctrine wants them:
 
-- `SignatureMasking`: ability to shape emissions so the observer classifies the trace as something else within the platform's thermal and visibility envelope. This is not invisibility; it is false classification bounded by heat, radiator direction, ping behavior, thrust history, and legal telemetry.
+- `SignatureMasking`: ability to shape emissions so the observer classifies the trace as something else within the platform's thermal and visibility envelope. Before Cold Wake materials, this is mostly crude hiding and decoy work. After the threshold, it becomes active imitation bounded by heat, radiator direction, ping behavior, thrust history, and legal telemetry.
 - `LoiterTime`: how long a munition, decoy, heat ferry, or spotter can remain useful before fuel, heat, computation, visibility, or self-neutralization ends the question.
 
 The cognition layer should be explicit because Aetheria commoditizes minds. [[Neuromorphic Firmware]] already points toward target-acquisition layers, piloting assists, logistics search routines, and adaptive munitions packages. A smarter battle computer is not just a lore adjective. It changes how much information a platform can use before the relevant clock runs out.
@@ -114,6 +134,8 @@ This creates cognitive load. A platform can have excellent sensors and weapons w
 | `TerminalDiscrimination` | ability to identify vulnerable subsystems during final approach |
 | `ThrustTimingJudgment` | ability to decide when to spend remaining maneuver authority against evasive targets |
 | `AutonomyStability` | how well cognition performs under jamming, contradictory telemetry, or missing command link |
+| `AdversarialSignatureResistance` | how well the cognitive stack avoids being baited by shaped emissions tuned to its classifier habits |
+| `PuzzleLoadTolerance` | how many contradictory-but-plausible signatures the system can hold without brittle overcommitment |
 | `CognitiveHeat` | heat, power, or signature cost of running the cognition hard |
 | `MoralThresholding` | whether the system respects surrender, rescue, protected infrastructure, and autonomy-class limits |
 | `CognitionProvenance` | conventional software, AGI core, upload-derived firmware, uplift-derived model, illegal Cognitum package, or faction-certified stack |
@@ -144,6 +166,7 @@ cognitive_load =
   + active_locks * lock_complexity
   + controlled_munitions * autonomy_supervision_cost
   + active_masks * deception_maintenance_cost
+  + adversarial_signatures * classifier_attack_strength / adversarial_signature_resistance
   + incoming_threats * reaction_cost
   + legal_signals * thresholding_cost
 
@@ -177,6 +200,10 @@ effective_on_target_rate =
 
 effective_commit_threshold =
   base_commit_threshold / commit_judgment
+
+effective_mask_credibility =
+  signature_masking * shape_bandwidth * imitation_library_match * coherence_maintenance
+  / classifier_robustness
 ```
 
 The clean heuristic becomes four clocks:
@@ -292,6 +319,9 @@ The simplest useful simulation object is a matchup card. It reduces a loadout pa
 | `signature_now` | current visible signature | summed `VisibilitySources` |
 | `masked_signature` | apparent signature after shaping | `signature_now`, `SignatureMasking`, active heat/radiator/thrust envelope |
 | `mask_credibility` | chance the false class survives observation | overlap between apparent signature and plausible target classes |
+| `shape_bandwidth` | how much of the signature can be controlled at once | emitter quality, metamaterial surface, heat routing, cognition |
+| `thermal_envelope` | which false classes are physically plausible | heat capacity, radiator geometry, thrust history, aspect, telemetry |
+| `classifier_attack_pressure` | cognitive load imposed by an adversarially shaped signature | `ClassifierAttackStrength`, observer cognition provenance, `ClassifierRobustness` |
 | `passive_track_rate` | target info gained per second without ping | target signature, `Sensitivity`, angle curve, range, `TargetInfoDecay` |
 | `active_track_burst` | info gained by pinging | `PingBoost`, `PingRange`, `PingDuration`, ping geometry |
 | `active_scan_exposure` | visibility cost of pinging | `PingVisibility`, `PingCooldown`, enemy sensor sensitivity |
@@ -309,12 +339,13 @@ This card can be filled coarsely. It does not need exact physics to become usefu
 
 ## Three-Clock Heuristic
 
-The smallest machine is three clocks plus one deception check:
+The smallest machine is three clocks plus one deception check, with cognition pressure added when the era supports shaped-emission attacks:
 
 1. `track_clock`: how long until I can classify or lock the target enough to act?
 2. `terminal_clock`: how long until my munition can reach terminal geometry?
 3. `heat_clock`: how long until either side must reveal, dump, slow down, or stop masking?
-4. `mask_check`: does the current signature plausibly look like a lower-value or legally safer class?
+4. `mask_check`: does the current signature plausibly look like a lower-value, legally safer, or tactically misleading class inside the thermal envelope?
+5. `classifier_pressure`: if shaped emissions are mature, does the apparent signature consume enough enemy cognition to delay the correct commitment?
 
 Approximate formulas:
 
@@ -348,6 +379,7 @@ Use thresholds, not exact answers:
 | `loiter_margin > track_clock` | loitering munition is strong; launch now, decide later |
 | `loiter_margin < 0` | this is a missile, not a loitering weapon; use only after resolution |
 | `mask_credibility high` and `enemy active_scan_exposure high` | decoy and slow-play; make them reveal to classify |
+| `classifier_attack_pressure high` and `enemy cognition_margin low` | shape the emission as a cognitive trap; make the battle computer spend the moment classifying |
 | `pd_reveal_cost high` | cheap loiterers and spotters are valuable even when intercepted |
 | `false_positive_cost high` and `mask_credibility low` | use spotters/illuminators before terminal commitment |
 | `own_heat_clock huge` and `pd_reveal_cost low` | stop being clever; scan, advance, and make the hidden actor solve a visible industrial problem |

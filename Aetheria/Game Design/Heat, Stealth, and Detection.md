@@ -59,6 +59,10 @@ This suggests a layered information game:
 - identify equipment and cargo
 - decide whether the target is worth the heat, time, law, and risk
 
+Signature shaping should enter as a later tech threshold, not a baseline rule. Early stealth reduces, delays, redirects, or times emissions. After the Cold Wake metamaterial innovations, advanced ships and drones can shape emissions so a trace looks like another plausible class within its thermal envelope. A quiet ship might look like a courier, service craft, legal dump, spent sink, or wounded hull if its heat, thrust history, aspect, radiator geometry, and telemetry can support the lie. A heat ferry or other drone can spend carried heat the same way, turning stored thermal debt into false scene detail.
+
+That makes identification partly a hidden-object puzzle. The player is not only asking whether something is present. They are asking which apparent object in the scene is being performed for their sensors, and whether their own cognition stack is being baited into wasting the decision window. Later electronic warfare can grow from this substrate: shaped emissions that are tuned to overload or mislead specific battle computers, sensor processors, smart missiles, or neuromorphic firmware packages.
+
 ## Thermal Capture
 
 Thermal capture is the offensive use of heat management against a prize. The attacker disables cooling, pushes hostile heat into selected systems, or forces the target to hold more heat debt than the crew can tolerate. The goal is not simple destruction. The goal is to make the crew eject while the hull, cargo, and valuable equipment remain recoverable.
