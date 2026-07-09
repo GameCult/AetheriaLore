@@ -15,6 +15,7 @@ The solar timeline becomes easier to navigate once its major conflicts, congress
 [[Cinderlace Licensing War]]  
 [[Tycho Exclusion Riots]]  
 [[Pallas Species Strikes]]  
+[[Callisto Trace Shootdown]]
 [[Lagrange Broadcast War]]  
 [[Upload Vivisection Expose]]
 

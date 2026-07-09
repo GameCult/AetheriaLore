@@ -1,4 +1,4 @@
-Zhestokost's own leadership, composed of uploaded minds obsessed with long-term survival, understands that total warfare could lead to their own destruction. Their doctrine emphasizes victory through discipline, not annihilation, aligning with the PSC's broader framework. In thermal terms, this means Zhestokost does not need to dominate deep stealth. It needs to survive cold long enough to enter range, then end the fight inside a controlled burst window.
+Zhestokost's own leadership, composed of uploaded minds obsessed with long-term survival, understands that total warfare could lead to their own destruction. Their doctrine emphasizes victory through discipline, not annihilation, aligning with the PSC's broader framework. In thermal terms, this means Zhestokost does not need to dominate deep stealth or pretend to be a shadow. It needs to run hot longer than rivals can tolerate, reject heat faster than they can exploit it, and keep its violence narrow enough for PSC auditors to price.
 
 ## Doctrine-As-Product: Precision Brutality
 
@@ -6,7 +6,7 @@ Reputation for "controlled devastation": Zhestokost fields heavy ballistic and a
 
 Telemetry compliance as a feature: Their weapons broadcast authenticated traces proving cap adherence and exonerating them when rivals try to frame violations. This makes them the preferred contractor for high-stakes, close-in seizures of hardened assets.
 
-Burst doctrine as product: Zhestokost's platforms are built to remain thermally disciplined until commitment, then dump heat, fire, and thrust in short violent envelopes that insurers can still price more easily than a rival's messier stealth-adjacent improvisation.
+Hot doctrine as product: Zhestokost's platforms are built for sustained visible violence: rugged radiators, redundant loops, armor-forward geometry, ballistic throughput, and fire plans that remain legible under audit. Their assault phases may be timed and bounded, but the product is not stealthy disappearance. It is controlled devastation that keeps working after the other side expected the guns to overheat.
 
 ## Vertical Integration With Energy and Logistics
 

@@ -34,6 +34,8 @@ That banality is part of Cognitum's strength. The work settles into routine beca
 
 Cognitum's best-known clients are military and executive, but its influence runs much wider. Its firmware appears in piloting systems, target acquisition stacks, munitions guidance, command-support tools, route inference, anomaly detection, fraud screening, social prediction, and premium domestic interfaces. The same civilization that prefers abstraction whenever forced uploads enter public view still rewards any product that anticipates better, comforts faster, reacts sooner, or finds a path through clutter no ordinary model should have found.
 
+The [[Callisto Trace Shootdown]] turns that demand into policy. Cognitum does not need to argue openly that human operators are obsolete in millisecond battlespace decisions. The dead arbiter, the insurer models, and the footage do the work. Through cutouts and integration partners, the company sells target-commitment firmware, adaptive munition cognition, and battle-computer judgment as restraint technology: systems that can wait longer than a frightened human and decide faster once waiting is no longer possible.
+
 That is why Cognitum persists after every scandal. Most customers do not want the full truth, only the performance edge and enough legal insulation to claim ignorance. The company thrives in this gap. Respectable firms license white-label modules through consultancies. Governments bury purchases in security budgets. Luxury consumer brands speak of intuition engines, adaptive ambience, or affect-sensitive home systems. Somewhere behind those phrases sits a scan, a protocol library, and a technician who spent a week making the graph climb.
 
 ### Public Deniability and Late-Timeline Role

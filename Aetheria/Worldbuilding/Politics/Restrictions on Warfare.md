@@ -8,6 +8,8 @@ The PSC does not just cap violence; it financializes it. Its framework turns con
 
 Conflict permit underwriting: Permits are priced like insurance based on declared objectives, theater, force profile, expected externalities, and increasingly declared thermal posture. Higher-risk tools such as orbital kinetic strikes, AGI-directed swarms, or undeclared quiet-running envelopes cost more. Discounts apply for low-collateral doctrines, registered dump windows, and certified compliance telemetry.
 
+After the [[Callisto Trace Shootdown]], unresolved launch behavior becomes its own underwriting category. Cheap conventional interceptors remain physically cheap, but firing them before classification thresholds are met becomes financially expensive: higher bonds, punitive premia, and worse future permit scores. Lattice-linked smart munitions receive discounts because they can share sensor data, carry admissible telemetry, accept last-millisecond aborts, and delay terminal commitment until close inspection. The stated goal is restraint. The market result is a standing subsidy for military cognition.
+
 Damage cap bonding: Before hostilities, belligerents post bonds in [[PSCC]] indexed to a cap. Exceeding cap auto-triggers penalties: bond seizure, higher future permit premia, and targeted Economic Sanctions such as PSCC liquidity throttling or Aethernet throttles.
 
 Parametric penalties: The PSC uses sensor feeds and technological controls to auto-assess damage such as infrastructure loss, life-support hits, or supply-chain downtime. Pre-agreed formulas trigger fines without arbitration delays.
@@ -50,7 +52,7 @@ Client files a "Fortified Asset Reallocation" permit naming Zhestokost as execut
 
 ### Pricing and Bonding
 
-PSC sets a damage cap and requires a PSCC bond. Zhestokost offers weapon telemetry certs and a declared burst-cooling window to shave premia. Rival stakeholders can buy "cap tranches" to hedge spillover risk.
+PSC sets a damage cap and requires a PSCC bond. Zhestokost offers weapon telemetry certs, radiator capacity declarations, and bounded fire plans to shave premia. Rival stakeholders can buy "cap tranches" to hedge spillover risk.
 
 ### Execution
 
@@ -64,6 +66,6 @@ PSC auditors reconcile sensor feeds. Bond balance returns; remaining penalties a
 
 Innovation channeling: R&D funds flow into precision, telemetry, signature shaping, and infrastructure-sparing lethality rather than doomsday systems. [[Artificial General Intelligence]] is used to predict and minimize externalities, reducing permit cost.
 
-Competitive specialization: Lucent optimizes narrative and clout arbitrage; [[Finch Cybernetics]] sells neural command and stability packages for compliance-grade combat teams; [[SolEx]] and [[Aeronautics Unlimited]] prize drives and logistics that avoid Neutral Zones; Zhestokost dominates the assault niche where precision heavy force and disciplined burst windows beat swarms.
+Competitive specialization: Lucent optimizes narrative and clout arbitrage; [[Finch Cybernetics]] sells neural command and stability packages for compliance-grade combat teams; [[SolEx]] and [[Aeronautics Unlimited]] prize drives and logistics that avoid Neutral Zones; Zhestokost dominates the assault niche where precision heavy force, rugged radiators, and sustained audited fire beat swarms.
 
 Currency stability: By pricing destruction, the PSC protects [[PSCC]] velocity. Wars become balance-sheet events instead of existential shocks.

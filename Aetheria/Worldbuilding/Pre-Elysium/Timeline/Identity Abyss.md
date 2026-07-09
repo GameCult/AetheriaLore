@@ -14,6 +14,8 @@ The [[Cognitum]] rises from the forbidden overlap between upload science, milita
 
 Opposition consolidates accordingly. [[Emancipated]] cells smuggle digital testimony. [[Preservationists]] argue that sentience cannot depend on substrate. [[Pragmatists]] inside industrial and administrative circles conclude that even by elite standards the Cognitum is destabilizing the broader system. The arguments are ethical, but they are also infrastructural: tortured minds make unreliable tools.
 
+The [[Callisto Trace Shootdown]] gives the cognition lobby its most useful public tragedy. After a protected PSC arbiter is killed by conventional interceptors fired at an unresolved thermal trace, insurers begin pricing cheap early-launch weapons as systemic hazards and discounting smart munitions that can plug into sensor lattices, share readings, carry admissible telemetry, and delay terminal commitment until the final instant. The campaign is sold as restraint. It accelerates the military market for battle computers, adaptive munitions firmware, and cognition packages capable of making decisions faster than human operators can honestly understand them.
+
 ### Dominion
 
 Between 2728 and 2740, the most control-oriented parts of the late-Sol order cohere into [[Sol Dominion]]. [[SolEx]] contributes extraction and logistics. [[CogniSys]] contributes machine governance. [[GeneSys]] contributes inherited hierarchy. [[Quantum Dynamics]] contributes long-horizon escape ambition. The merger is backed materially by [[NiteLife Energy]], tolerated strategically by the [[Pan-Solar Consortium]], and defended militarily through alignment with [[Zhestokost]].

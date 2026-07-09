@@ -41,3 +41,13 @@ Ships should carry production history. Blueprints, component quality, commodity 
 The planning docs define a broad ship equipment grammar: hulls, weapons, shields, coolers, reactors, thrusters, warp thrusters, sensors, heatsinks, AI cores, jammers, ship scanners, planet scanners, anchors, mining tools, and cargo infrastructure. The final list can change, but the shared attribute layer is still valuable: mass, size, draw, tech level, rarity, thermal conductivity, specific heat, performance curves, ruggedness, and durability.
 
 That common attribute layer is what lets equipment belong to one simulation instead of becoming a zoo of unrelated exceptions.
+
+## Munition Hulls
+
+Loitering munitions should use that same grammar once they become more than simple missiles. The current implementation can treat ordinary guided weapons as projectile effects, but the setting's real loitering munition is a small built entity: an alternate hull type with its own hardpoints, heat budget, thrusters, sensors, autonomy, warhead, telemetry, signature masking, and self-neutralization behavior.
+
+The launcher should own storage, arming, launch signature, reload logistics, and command interface. The munition hull should own flight, loitering, sensing, masking, heat, target confirmation, terminal commitment, abort behavior, and whether it can be recovered as salvage or evidence. That split keeps the weapon from becoming a pile of special flags. A cold Cryonix loiterer, a pirate remora, a PSC-compliant witness package, and a Zhestokost assault munition can all be different loadouts on the same small-hull architecture.
+
+The same architecture should also blur "drone" and "munition." A PDC drone, spotter, relay, beacon, illuminator, mine, Remora, or loitering package is a role produced by components and current orders, not a sealed item category. If the hull has sensors, thrust, cognition, telemetry, and a point-defense weapon, it can defend the carrier, hunt enemy drones, force reveals, or spend itself to ruin an incoming munition's terminal geometry. That is one example of a broader rule: a capability that usually reads as support or defense can become the matchup plan when it attacks the opponent's shortest clock. Build surface first; battlefield role second.
+
+This also preserves the playable promise of shipbuilding at smaller scale. The player is not merely buying "missile, better." They are choosing what kind of unanswered question to release into the battlespace.
