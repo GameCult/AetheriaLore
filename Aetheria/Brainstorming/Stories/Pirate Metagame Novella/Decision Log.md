@@ -18,6 +18,14 @@
 | D-012 | Require a genuinely profitable final tactical victory. | Accepted | Fulfills the selected payoff while preserving future counterplay. |
 | D-013 | Make the shipmind the captain's upgraded childhood robotic butler. | Accepted | Gives the story a continuous witness to his class upbringing, hobbies, shame, affection, and growth. |
 | D-014 | Treat the shipmind as a precious relic without equating possession with consent. | Accepted | Preserves the warmth of their bond while keeping its servant-origin power imbalance alive. |
+| D-015 | Use the luxury regatta as the inciting hobby. | Accepted | Places class spectacle, technical enthusiasm, rescue, and automated repossession in one event. |
+| D-016 | Preserve Pal's caretaking habits and family property claim while removing hard obedience. | Accepted | Makes autonomy real but historically and legally compromised. |
+| D-017 | Contract twelve Corvids as the Twelvefold Borrowed Nest for one cut and one vote. | Accepted | Supports collective standing without discounting twelve persons' consent or liability. |
+| D-018 | Use only rotating Huginn and Muninn codenames in human-facing scenes. | Accepted | Turns face blindness into culture and operational comedy while retaining exact safety state. |
+| D-019 | Make Mara Kest a former purity militant and current baseliner boarding chief. | Accepted | Embeds Movement tension in boarding authority and personhood practice. |
+| D-020 | Make Sable Orison a premium-derived Enhancement Liberal drone coordinator. | Accepted | Keeps autonomy politics materially entangled with privilege and maintenance. |
+| D-021 | Name Wake-Without-Seal, Tern Undertow, and Ysabet Rhyne as the local web, principal yard, and recurring adversary. | Accepted | Gives social trust, labor, and hostile learning distinct owners. |
+| D-022 | Limit recurring primary POV to seven crew members, with selective Edda, Tess, Rhyne, and late Huginn chapters. | Accepted | Exploits dramatic irony without requiring every named character to narrate. |
 
 ## Supersession Rule
 

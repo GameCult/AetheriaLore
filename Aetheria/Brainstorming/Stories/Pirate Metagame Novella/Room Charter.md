@@ -31,7 +31,7 @@ The family fortune comes from a boring, indispensable patent portfolio: certifie
 
 The patents save lives. Their certification and replacement regime also makes continued habitability a royalty event. Both facts remain true. The captain's parents are not secret villains; they believe standards prevent lethal improvisation, and the evidence often supports them. The extraction lies in ownership, mandatory control tokens, replacement-only certification, repossession covenants, and the ability to turn a cooling emergency into a claim on somebody's home.
 
-His crisis of conscience begins during an expensive hobby expedition near a family-sponsored regatta or survey route. A marginal independent ship suffers a cooling failure. A physically compatible replacement coupling cannot activate without a licensed control token. He uses family credentials to authorize the repair and saves the crew, then learns that the authorization did not waive the charge. It transferred liability into the family office and initiated an automatic claim against the rescued operator. Every employee behaved reasonably according to role. Saving the crew and beginning repossession were adjacent workflow states.
+His crisis of conscience begins during a family-sponsored luxury regatta. A marginal independent support ship suffers a cooling failure. A physically compatible replacement coupling cannot activate without a licensed control token. He uses family credentials to authorize the repair and saves the six-person crew, then learns that the authorization did not waive the charge. It transferred liability into the family office and initiated an automatic claim against the rescued operator. Every employee behaved reasonably according to role. Saving the crew and beginning repossession were adjacent workflow states.
 
 He mistakes piracy for an escape from systems into direct moral action. The story will teach him that pirate freedom also rests on labor, coercion, reputation, compromised supply chains, and people who cannot afford to treat failure as education.
 
@@ -175,6 +175,10 @@ A POV change must provide at least one of:
 The reader may know more than any one character without knowing enough to collapse combat uncertainty. Engagements are not replayed wholesale merely to reveal a second opinion.
 
 Competence remains distributed. Sensor, thermal, fire-control, drone, boarding, financial, medical, maintenance, and shipmind authorities each hold partial truths and incompatible priorities. No character becomes the complete metagame wearing a name badge.
+
+The regular crew is culturally augmented except for boarding chief Mara Kest, whose baseline embodiment is a deliberate political commitment. Her former Species Purity Front work and continuing anthropocentrism create danger rather than colorful disagreement. Drone coordinator Sable Orison represents the opposite contradiction: an Enhancement Liberal fighting body licensing through premium Finch-derived architecture that poorer people cannot obtain or maintain. Their conflict concerns where authority, bodily risk, cognition, and maintenance burden should live.
+
+The Twelvefold Borrowed Nest is a contracted murder of twelve Corvid persons. It holds one cut and one campaign vote while preserving individual consent, medical standing, rescue obligation, and refusal. Humans hear only the rotating role-codenames `Huginn` and `Muninn`; authoritative safety state retains twelve encrypted identities.
 
 ## Final Victory Contract
 

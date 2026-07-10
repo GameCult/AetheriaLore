@@ -2,9 +2,9 @@
 
 ## Pass Status
 
-**Completed:** Pass 1 - Room Charter and Canon Boundary
+**Completed:** Pass 2 - Cast and Social Body
 
-**Next:** Pass 2 - Cast and Social Body
+**Next:** Pass 3 - Material Baseline
 
 ## Locked Premise
 
@@ -40,10 +40,12 @@
 
 ### Crew
 
-- Not yet named or cast.
-- Will initially join for pay, equipment, opportunity, or specific network reasons rather than affection.
+- Principal crew: Luce Orsino, Samira Venn, Palinode, Ilya Sorn, Jo Nwosu, Edda Marr, Tess Valez, Mara Kest, and Sable Orison.
+- Contracted allied unit: twelve-person Corvid murder, the Twelvefold Borrowed Nest.
+- Initially joins for pay, equipment, authority, opportunity, or specific network obligations rather than affection.
 - Must retain credible exit rights, prize shares, command-challenge customs, and the ability to refuse unlawful or suicidal work.
-- Expertise must cover sensing, thermal systems, fire control, drones, boarding, finance/procurement, medicine, maintenance, and social navigation without requiring one person per category.
+- Authority ownership and challenge boundaries are fixed in [[Relationship Matrix]].
+- Every regular crew member except Mara Kest has material augmentation and a defined maintenance dependency.
 
 ### Shipmind
 
@@ -56,14 +58,24 @@
 - Unique physical continuity core.
 - Core evacuation is part of complete crew evacuation.
 - Hull loss destroys meaningful embodiment state.
-- Exact manufacturer, original service constraints, legal status, name, and transfer procedure remain deferred.
+- Name is Palinode, usually Pal.
+- Hard obedience is absent; anticipatory service habits and enforceable Orsino property registration remain.
+- Exact manufacturer, transfer procedure, and hull-local state partition remain deferred.
 
 ### Network
 
-- Local Jovian-Saturnian capture-and-corridor reputation web.
+- Wake-Without-Seal, a local Jovian-Saturnian capture-and-corridor reputation web.
 - Includes yards, fences, brokers, rescue stations, couriers, capture crews, and shipmind or upload contacts.
 - No central pirate government.
 - Access begins commercial and can deepen into sanctuary and credit trust.
+
+### External Pressure
+
+- Tern Undertow and its eighty-seven workers own the principal refit labor bottleneck.
+- Halcyon Risk Recovery and Commander Ysabet Rhyne learn from every visible doctrine.
+- Navigator Choir-Speaker Nacre-in-Current audits rescue without granting absolution.
+- The _Mild Exception_ six and their households carry the inciting rescue and repossession wound.
+- Orsino parents and Sima Orlov can provide survival only by increasing legal custody.
 
 ## Narrative State Invariants
 
@@ -78,14 +90,13 @@
 9. POV controls interpretation, not physical truth.
 10. Final victory demonstrates coordination, selection, and restraint rather than build supremacy.
 
-## Open State For Pass 2
+## Open State For Pass 3
 
-- Full named cast and POV roster.
-- Parent identities and relationship texture.
-- Shipmind identity, personality, and pre-story history.
-- Crew household and dependant obligations.
-- Named aggregate populations affected by operations.
-- Named yards, brokers, insurer interests, Navigator contacts, and recurring adversaries.
-- Relationship graph and initial loyalty values.
-- Refusal thresholds and authority boundaries.
-- Inciting incident participants and its unresolved consequences.
+- First hull and full component stack.
+- Pal's manufacturer, core housing, transfer hardware, state partition, and legal chain.
+- Crew complement beyond principal officers and Twelvefold.
+- Wages, shares, Corvid cut, household remittances, operating reserve, insurance, and shadow-market premiums.
+- Watch schedule, gravity modes, domestic spaces, aquatic or avian accommodations, and evacuation geometry.
+- Maintenance inventories and each augmentation's concrete consumables.
+- First-yard procurement and laundering chain through Rafi Sen and Tern Undertow.
+- Initial reputation scores and exact replacement lead times.

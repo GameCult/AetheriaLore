@@ -15,9 +15,14 @@ The coordinator owns accepted continuity, chronology, tactical causality, story 
 - [[Invention Register]]
 - [[Story State]]
 - [[Decision Log]]
+- [[Cast Bible]]
+- [[Aggregate Actors]]
+- [[Relationship Matrix]]
+- [[Character State Ledger]]
 
-Later passes will add the cast, aggregate actors, relationships, ships, combat model, tactical traces, failure ladder, POV knowledge, chapter architecture, scene cards, and adversarial reports described in the charter.
+Later passes will add ships, combat model, tactical traces, failure ladder, POV knowledge, chapter architecture, scene cards, and adversarial reports described in the charter.
 
 ## Passes
 
 - [[01 Room Charter And Canon Boundary/Pass Report|Pass 1 - Room Charter and Canon Boundary]]
+- [[02 Cast And Social Body/Pass Report|Pass 2 - Cast and Social Body]]

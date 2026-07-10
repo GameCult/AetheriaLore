@@ -19,17 +19,15 @@ These elements are accepted for the novella but are not yet wider Aetheria canon
 | I-011 | Pirate and Navigator-adjacent rescue records eventually become shadow credit for the crew. | Benefits must arise through specific witnesses, yards, ledgers, and reciprocal acts. |
 | I-012 | The shipmind began as the captain's premium childhood robotic butler and reached ship-scale personhood through decades of cumulative upgrades and embodiments. | The same continuing mind persists; upgrades cannot erase the coercive history of having been purchased to serve him. |
 | I-013 | The captain treats the continuity core as a precious family relic and irreplaceable witness to his life. | His love may contain possessiveness; treasuring the core does not settle the shipmind's autonomy or consent. |
+| I-014 | The inciting rescue occurs during an Orsino-sponsored luxury regatta and saves Captain Ilyana Serrat's six-person _Mild Exception_ crew. | The rescue also initiates repossession and household harm. |
+| I-015 | The principal crew is Luce Orsino, Samira Venn, Palinode, Ilya Sorn, Jo Nwosu, Edda Marr, Tess Valez, Mara Kest, and Sable Orison. | Authority remains distributed as recorded in [[Relationship Matrix]]. |
+| I-016 | Mara Kest is a deliberately unaugmented former Species Purity Front organizer and militant Baseline League boarding chief. | Her accurate class critique coexists with consequential anthropocentrism; no redemption is promised. |
+| I-017 | Sable Orison is a Finch-derived Enhancement Liberal drone/cognition coordinator with extensive pirate modifications. | Autonomy gains create maintenance fragility; processing power grants no superior political authority. |
+| I-018 | The Twelvefold Borrowed Nest is twelve Corvid persons contracting for one cut, one vote, and two rotating human-facing codenames. | Individual consent, medicine, rescue, injury, captivity, and death remain twelvefold. |
+| I-019 | Wake-Without-Seal is the local capture-and-corridor reputation web; Tern Undertow is the principal Trojan yard. | Neither acts as a central pirate government. |
+| I-020 | Ysabet Rhyne and Halcyon Risk Recovery form the recurring privateer opposition that learns from public doctrine. | Rhyne shares the crew-survival ethic without sharing the crew's politics. |
 
 ## Deferred Inventions
-
-Pass 2 will determine:
-
-- names, identities, embodiments, backgrounds, and relationships for the captain, parents, shipmind, officers, crew, yards, brokers, adversaries, and civilians;
-- which childhood service obligations survive technically, psychologically, or contractually after the shipmind's upgrades;
-- the local reputation web's proper names and internal customs;
-- the captain's prior hobbies and which ones leave useful or ridiculous residues;
-- the identity of the independent crew harmed by the inciting claim;
-- whether any recurring adversary is linked to the family portfolio.
 
 Pass 3 will determine:
 
@@ -38,6 +36,7 @@ Pass 3 will determine:
 - embodiment-specific memory loss and recovery limits;
 - first hull, component stack, crew workflow, shares, wages, operating reserve, and replacement lead times;
 - the laundering and procurement chain used by named intermediaries.
+- detailed initial component, wage, share, maintenance, and household budgets for the Pass 2 cast.
 
 ## Rejected For This Story
 
