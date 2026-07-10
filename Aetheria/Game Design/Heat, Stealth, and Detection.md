@@ -77,6 +77,8 @@ Thermal capture creates counterplay:
 - pirates use remora drones that heat during the coercion phase and cool during the preservation phase;
 - insurers and stations read temperature logs to decide whether recovered goods are legitimate, spoiled, laundered, or evidence of atrocity.
 
+Thermal capture should not make pirates one-note. A Remora drone is better understood as a non-destructive subsystem-attack chassis that often carries heat-transfer tools because heat is profitable to manipulate. The same attachment logic can support reactor safing interference, life-support pressure, internal datanet intrusion, sensor degradation, cargo-lock spoofing, tracker placement, or crew-environment dosing. The playable question is which subsystem the pirate can reach, what they want preserved, and how quickly the defender can identify and remove the attachment before coercion becomes surrender, boarding, or ejection.
+
 The playable distinction is intent plus state. A radiator kill against an active combatant is war. Continuing to trap heat after surrender, ejection, rescue code, or clear helplessness is radiator murder. The simulation should preserve enough telemetry for that line to matter: target status, pod state, heat-transfer direction, and post-disable behavior.
 
 ## Design Use

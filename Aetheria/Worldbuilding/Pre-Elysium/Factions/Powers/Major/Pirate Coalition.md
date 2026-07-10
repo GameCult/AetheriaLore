@@ -38,6 +38,14 @@ The Coalition moves:
 
 Its most important affinities run through [[Corvid Collective]] infiltration, [[Cephalopod Syndicate]] technical sabotage, [[Free Upload Network]] logistics, and the feral autonomy of [[Ship Mutiny]] cultures. This gives piracy a deeper social base than simple raiding would suggest.
 
+### Combat Habits
+
+Pirates do not have one trick. A cell built around refugee extraction, a salvage syndicate, a mutinous shipmind, a predatory raider band, and a Corvid-backed infiltration crew may all fly under Coalition reputational cover while fighting very different wars. Some specialize in thermal capture because intact cargo pays better than wreckage. Others prefer boarding, forged rescue traffic, credential theft, data poisoning, hostage leverage, convoy misdirection, or non-destructive disables that make a ship surrender before anyone admits a battle has started.
+
+[[Thermal Signature Warfare|Remora]] drones are useful across many of those traditions because they are not merely heat-delivery devices. A Remora is a non-destructive subsystem-attack chassis: a small hull that reaches exposed utility geometry, attaches, and acts on the ship through the parts the owner would rather keep intact. Heat-transfer clamps are common because radiators and coolant loops are accessible and profitable targets, but other variants spoof reactor safing loops, pressure life-support routing, degrade sensor masts, interfere with command antennas, tap internal data buses, unlock docking collars, spoof cargo locks, or dose crew environmental feeds. A reactor Remora can force shutdowns, evacuation alarms, or uninhabitable operating margins without slagging the prize. A life-support Remora can make staying aboard worse than surrender. A datanet Remora can open doors, falsify status, or turn the victim's maintenance system into the boarding route. The ugliest versions target the soft biological fact inside the hull: sedatives, irritants, toxins, or atmosphere chemistry changes delivered through systems the crew normally trusts to keep them alive.
+
+That versatility is why respectable doctrine keeps misreading them. A Remora sighting does not tell the defender whether the pirates want cargo, bodies, passwords, a shipmind, political leverage, or a surrender that leaves the ship saleable. It only proves that some exposed subsystem has become a negotiation surface.
+
 ### Aesthetic and Cultural Cues
 
 Pirate aesthetics are patched, improvised, and inherited from a dozen stolen worlds at once. Hull plates rarely match. Ritual markings matter. Crews wear trophies, route sigils, counterfeit uniforms, family relics, and jury-rigged interfaces in combinations no respectable power would allow. The look is half necessity, half anti-civilizational bravado.

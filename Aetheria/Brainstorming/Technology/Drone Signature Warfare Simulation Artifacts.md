@@ -231,7 +231,7 @@ Ownership becomes clean:
 | autonomy component | allowed target classes, confirmation threshold, jamming response, retreat/abort behavior |
 | telemetry component | PSC compliance record, command provenance, legal beaconing, spoofability |
 
-This preserves the existing Aetheria instinct that the build is the character sheet. A loitering munition becomes dangerous because of its loadout, not because "loiter" is a single missile flag. A cheap pirate remora can carry a weak motor, a heat-transfer clamp, a bad sensor, and a dirty autonomy package. A Cryonix cold loiterer can spend most of its budget on thermal mass, signature masking, and a patient sensor. A Zhestokost assault loiterer can be hot, blunt, audited, armored, and willing to be seen because it is there to force defenders to answer.
+This preserves the existing Aetheria instinct that the build is the character sheet. A loitering munition becomes dangerous because of its loadout, not because "loiter" is a single missile flag. A cheap pirate Remora can carry a weak motor, a clamp, a bad sensor, a dirty autonomy package, and whatever non-destructive subsystem payload the crew expects to monetize. Heat-transfer clamps are only one variant. Other Remorae can spoof reactor controls, pressure life-support routing, tap internal data networks, degrade sensor masts, interfere with command antennas, unlock docking collars, spoof cargo locks, or dose crew environmental feeds. A Cryonix cold loiterer can spend most of its budget on thermal mass, signature masking, and a patient sensor. A Zhestokost assault loiterer can be hot, blunt, audited, armored, and willing to be seen because it is there to force defenders to answer.
 
 ### Capability Bundles, Not Clean Categories
 
@@ -247,7 +247,7 @@ The same hull architecture can produce several battlefield questions:
 | loitering munition | sensor, autonomy, thruster, warhead, thermal buffer | occupy terminal geometry before final commitment |
 | heat ferry | thermal mass, heat pump interface, radiator/dump control | carry heat debt away from a quiet platform or become a false dump |
 | decoy | signature masker, reflector/emitter, scripted heat behavior | imitate ship classes, service traffic, junk, or legal telemetry |
-| Remora | clamp, heat-transfer package, short-range thruster, disabling payload | attach to radiators, cargo loops, crew cooling systems, sensor masts, or other exposed utility |
+| Remora | clamp, short-range thruster, sensor, non-destructive subsystem payload | attach to radiators, reactor control runs, life-support feeds, internal network taps, cargo loops, sensor masts, docking collars, command antennas, or crew environmental systems without wrecking the prize |
 | interceptor | sensor, high thrust, point-defense payload | kill other unresolved objects while leaking as little parent information as possible |
 | PDC drone | point-defense weapon, sensor, high-thrust repositioning, relay | shoot down enemy drones, force defensive reveals, or lock down a local volume |
 | compliance witness | telemetry, sensor, legal beacon, low payload | make a regulated package admissible and make jamming politically expensive |
@@ -258,7 +258,7 @@ These are not separate bespoke systems. They are loadout patterns on small hulls
 
 The metagame is deep enough that a usually secondary capability can become the matchup plan. Point defense is the easy example because it sounds defensive until it is mounted on small mobile hulls. A carrier could launch PDC drones to seize local authority over the unresolved-object layer: some hold near the parent as an interception screen, some push forward to hunt enemy spotters, relays, heat ferries, and loiterers, some fire just enough to force the enemy to answer, and some spend themselves as blockers when spoiling terminal geometry matters more than killing the incoming object.
 
-That does not make all-in PDC drones the universal meta. It means capabilities are contextual weapons. A relay-heavy cloud can win if command continuity is the bottleneck. Illuminators can win if the enemy's mask collapses under forced classification. Beacons can win if legal pressure changes what the opponent is willing to shoot. Remorae can win if thermal capture matters more than hull kill. Mines can win if the opponent must cross predictable dump or rescue geometry. Point defense can win if removing the enemy's small hulls collapses their sensor lattice faster than they can threaten the carrier. The doctrine question is always: which capability attacks the opponent's shortest clock?
+That does not make all-in PDC drones the universal meta. It means capabilities are contextual weapons. A relay-heavy cloud can win if command continuity is the bottleneck. Illuminators can win if the enemy's mask collapses under forced classification. Beacons can win if legal pressure changes what the opponent is willing to shoot. Remorae can win if an exposed subsystem matters more than hull damage: cooling for thermal capture, reactor safing for rapid evacuation, life support for surrender pressure, datanet access for boarding, or environmental feeds for crew-directed chemical coercion. Mines can win if the opponent must cross predictable dump or rescue geometry. Point defense can win if removing the enemy's small hulls collapses their sensor lattice faster than they can threaten the carrier. The doctrine question is always: which capability attacks the opponent's shortest clock?
 
 ### Required Munition Stats
 
@@ -282,6 +282,8 @@ A munition hull should share ship stats where possible and add only the fields t
 | `SelfNeutralization` | how reliably the hull de-arms, vents, parks, returns, or destroys itself after expiry |
 | `Recoverability` | whether unused, aborting, or surviving hulls can return, land, dock, be retrieved, be repaired, be spoofed, be stolen, or become evidence |
 | `RecoveryAndRefuelCycle` | turnaround time and infrastructure cost to recover, inspect, refuel, cool, rearm, and relaunch the hull |
+| `SubsystemPayload` | what the hull is built to do after contact without wrecking the prize: heat transfer, reactor safing interference, life-support pressure, datanet intrusion, sensor degradation, cargo-lock spoofing, crew-environment dosing, tracker, beacon, or reversible disablement |
+| `AttachmentPersistence` | how long the hull can remain clamped, hidden, powered, and useful while the target maneuvers, heats, repairs, or sends removal drones |
 
 Everything else should try to reuse existing ship/component language: mass, hardpoint fit, thermal mass, conductivity, armor, thrust, visibility, heat, sensor sensitivity, ping exposure, lock behavior, damage, penetration, cooldown, ammo, quality, durability, and manufacturer doctrine.
 
@@ -629,7 +631,7 @@ The important property is not numerical precision. The important property is tha
 - [[Zhestokost]] uses drones reluctantly but competently: rugged spotters, compliance relays, interceptor screens, and heavy loiterers that support visible advance rather than replace it.
 - [[Cryonix]] sells premium cold loiterers, signature-managed skins, and heat-ferry platforms whose value is not explosive yield but how long they can remain a question.
 - [[Pan-Solar Consortium]] prices loiter packages through autonomy class, geofence, thermal profile, telemetry integrity, and neutralization clock.
-- [[Pirate Coalition]] favors remora drones, false service traffic, salvage-preserving loiterers, and packages that force ejection without ruining cargo.
+- [[Pirate Coalition]] favors Remora drones with non-destructive subsystem payloads, false service traffic, salvage-preserving loiterers, and packages that force surrender, boarding, or ejection without ruining cargo.
 - [[Aya Collective]] and [[Cetacean Navigators]] bias toward interceptors, rescue relays, pod shielding, decoy convoy logic, and point defense that protects lives without turning corridors into indiscriminate hazard fields.
 - [[Sol Dominion]] likes the administrative version: predictive launch authorization, command-authenticated drone clouds, lawful-looking escalation, and telemetry that proves obedience while hiding coercion.
 
