@@ -102,9 +102,22 @@
 - Reputation: commercial Wake-Without-Seal access, pending Navigator audit, passive Halcyon correlation.
 - Full technical, domestic, financial, service, and replacement state is authoritative in [[Ship And Refit Ledger]].
 
-## Open State For Pass 4
+## Pass 4 Combat Model
 
-- Normalized combat scales and deterministic state-transition rules.
-- Exact clock interactions for track, terminal, heat, cognition, mask, and economics.
-- Representation of recovery queues, service neighborhoods, and component damage.
-- Mapping from material ledger values into gameplay-shaped combat variables.
+- Physical truth lives in canonical combat state advanced by one deterministic transition function.
+- Authoritative time advances in fixed 250-millisecond integer ticks with stable event order and no hidden random rolls.
+- Faction observation state is partial and separate from truth; policies may not inspect true entities directly.
+- Track, terminal, heat, cognition, and economic clocks are derived forecasts. `mask_check` is a deterministic observer-relative feasibility and detection test.
+- Cognition allocates finite work across sensing, classification, electronic warfare, command, fire control, guidance, terminal discrimination, and damage control.
+- Fire control owns both assignment throughput and whether rounds remain on the intended solution.
+- Signature shaping is post-Cold-Wake and bounded by thermal, directional, motion, historical, power, and control envelopes.
+- Drones and munitions share one component-built small-platform model; role follows loadout and orders.
+- Native Aetheria entity, component, behavior, grid, weapon, thermal, power, cargo, and docking state remains authoritative where it exists.
+- Full transition order, state schema, clock meanings, output vector, compatibility boundary, and hand-solvable fixtures are authoritative in [[Combat Model]] and the Pass 4 folder.
+
+## Open State For Pass 5
+
+- Exact scenario cards and normalized or physical values for seven candidate doctrines.
+- Full deterministic event traces and counterfactual reruns.
+- Policy thresholds for launch, reveal, abort, recovery, capture, and escape.
+- Selection of which laboratory matchup becomes narrative history.

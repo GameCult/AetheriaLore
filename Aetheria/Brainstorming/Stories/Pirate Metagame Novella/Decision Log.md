@@ -31,6 +31,11 @@
 | D-025 | Use sixteen recoverable Courtesy PDC drones for the Doctrine of Reversible Superiority. | Accepted | The capability produces a real edge while exposing recovery topology as a physical counter. |
 | D-026 | Give Pal a 118-kilogram portable continuity shell with bounded wireless control and severe uncoupled thermal limits. | Accepted | Makes evacuation executable without turning the core into a ship-scale computer in a suitcase. |
 | D-027 | Denominate story planning economics in relative PSCC settlement units. | Accepted | Reconciles budgets without inventing unsupported purchasing-power canon. |
+| D-028 | Advance combat on deterministic 250-millisecond integer ticks under one canonical transition function. | Accepted | Makes traces replayable and keeps clocks from becoming competing state owners. |
+| D-029 | Separate physical truth from faction-local observation and contact hypotheses. | Accepted | Detection, masking, uncertainty, and false commitment require ignorance without hidden randomness. |
+| D-030 | Treat cognition as finite task work across the complete decision stack. | Accepted | Quality must improve sensing through terminal maneuver while load, heat, power, links, and architecture remain counters. |
+| D-031 | Use clock cards as matchup explanations rather than scalar combat ratings. | Accepted | Tactical value depends on which effect matures before which interruption under a particular objective. |
+| D-032 | Extend native Aetheria state without duplicating facts it already owns. | Accepted | Preserves compatibility with the daemon and avoids a parallel combat ontology. |
 
 ## Supersession Rule
 

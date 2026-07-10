@@ -29,6 +29,9 @@ These elements are accepted for the novella but are not yet wider Aetheria canon
 | I-021 | The first hull is the thirty-six-person bespoke capture corvette _The Sum of Our Parts_. | Its premium integration concentrates drone recovery service; it has no shields. |
 | I-022 | Pal inhabits a 118-kilogram portable continuity shell that unlocks ship-scale processing only through a powered, cooled cradle. | Portability preserves continuity and bounded control, not full ship performance. |
 | I-023 | The first campaign uses sixteen recoverable Courtesy PDC drones under the Doctrine of Reversible Superiority. | Recovery economics do not erase finite throat, service, fuel, heat, or cognition capacity. |
+| I-024 | The novella workbench advances combat in deterministic 250-millisecond ticks and derives explanatory tactical clocks from canonical state. | This is a planning and future game-design decision, not established wider history. |
+| I-025 | Cognition is modeled as finite task throughput spanning sensing, classification, EW, command, fire control, guidance, terminal discrimination, and damage control. | Better cognition improves every layer but remains bounded by embodiment and infrastructure. |
+| I-026 | A clock card compares earliest credible effect against earliest interruption across track, terminal, heat, cognition, economic, and masking pressure. | It is the simplest proposed machine for turning two matchups into a tactical heuristic. |
 
 ## Deferred Inventions
 
