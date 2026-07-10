@@ -1,4 +1,5 @@
 type ReaderSettings = {
+  version: number
   cfi?: string
   theme: "dark" | "light" | "sepia"
   font: "serif" | "sans"
@@ -16,13 +17,15 @@ declare global {
 }
 
 const cookieName = "aetheria_tbp_reader"
+const settingsVersion = 2
 const defaults: ReaderSettings = {
+  version: settingsVersion,
   theme: "dark",
   font: "serif",
   fontSize: 100,
   lineHeight: 165,
   flow: "paginated",
-  spread: "auto",
+  spread: "none",
 }
 
 function readSettings(): ReaderSettings {
@@ -31,13 +34,14 @@ function readSettings(): ReaderSettings {
     const saved = raw ? JSON.parse(decodeURIComponent(raw)) : {}
     return {
       ...defaults,
+      version: settingsVersion,
       cfi: typeof saved.cfi === "string" ? saved.cfi : undefined,
       theme: ["dark", "light", "sepia"].includes(saved.theme) ? saved.theme : defaults.theme,
       font: ["serif", "sans"].includes(saved.font) ? saved.font : defaults.font,
       fontSize: Number.isFinite(saved.fontSize) ? Math.min(150, Math.max(80, saved.fontSize)) : defaults.fontSize,
       lineHeight: Number.isFinite(saved.lineHeight) ? Math.min(210, Math.max(130, saved.lineHeight)) : defaults.lineHeight,
       flow: ["paginated", "scrolled-doc"].includes(saved.flow) ? saved.flow : defaults.flow,
-      spread: ["auto", "none"].includes(saved.spread) ? saved.spread : defaults.spread,
+      spread: saved.version === settingsVersion && ["auto", "none"].includes(saved.spread) ? saved.spread : defaults.spread,
     }
   } catch {
     return { ...defaults }
@@ -148,11 +152,15 @@ async function initReader(root: HTMLElement) {
     const mutationObserver = new MutationObserver(() => clampRenditionDom())
     mutationObserver.observe(viewport, { attributes: true, childList: true, subtree: true, attributeFilter: ["style"] })
 
-    root.querySelector('[data-reader-action="previous"]')?.addEventListener("click", () => {
-      void rendition.prev().then(() => clampRenditionDom())
+    root.querySelectorAll('[data-reader-action="previous"]').forEach((control) => {
+      control.addEventListener("click", () => {
+        void rendition.prev().then(() => clampRenditionDom())
+      })
     })
-    root.querySelector('[data-reader-action="next"]')?.addEventListener("click", () => {
-      void rendition.next().then(() => clampRenditionDom())
+    root.querySelectorAll('[data-reader-action="next"]').forEach((control) => {
+      control.addEventListener("click", () => {
+        void rendition.next().then(() => clampRenditionDom())
+      })
     })
     root.querySelector('[data-reader-action="fullscreen"]')?.addEventListener("click", () => {
       if (document.fullscreenElement) void document.exitFullscreen()

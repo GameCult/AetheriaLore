@@ -32,7 +32,7 @@ export default (() => {
         </label>
         <label>
           <span>Spread</span>
-          <select data-reader-setting="spread"><option value="auto">Auto</option><option value="none">Single</option></select>
+          <select data-reader-setting="spread"><option value="none">Single</option><option value="auto">Auto</option></select>
         </label>
         <label>
           <span>Theme</span>
@@ -56,7 +56,26 @@ export default (() => {
         <span data-reader-status>Opening book...</span>
         <span data-reader-progress></span>
       </div>
-      <div class="aetheria-reader-viewport" data-reader-viewport></div>
+      <div class="aetheria-reader-viewport" data-reader-viewport>
+        <button
+          type="button"
+          class="aetheria-reader-page-zone aetheria-reader-page-zone-left"
+          data-reader-action="previous"
+          aria-label="Previous page"
+          title="Previous page"
+        >
+          &lsaquo;
+        </button>
+        <button
+          type="button"
+          class="aetheria-reader-page-zone aetheria-reader-page-zone-right"
+          data-reader-action="next"
+          aria-label="Next page"
+          title="Next page"
+        >
+          &rsaquo;
+        </button>
+      </div>
     </section>
   )
 

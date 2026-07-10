@@ -58,10 +58,21 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug === "Articles/index",
     }),
   ],
-  left: [AetheriaOverviewSidebar()],
+  left: [
+    Component.ConditionalRender({
+      component: AetheriaOverviewSidebar(),
+      condition: (page) => page.fileData.slug !== "Fiction/The-Burden-of-Proof",
+    }),
+  ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.TableOfContents()),
+      condition: (page) => page.fileData.slug !== "Fiction/The-Burden-of-Proof",
+    }),
+    Component.ConditionalRender({
+      component: Component.Backlinks(),
+      condition: (page) => page.fileData.slug !== "Fiction/The-Burden-of-Proof",
+    }),
   ],
 }
 

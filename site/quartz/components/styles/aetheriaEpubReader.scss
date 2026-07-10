@@ -1,3 +1,16 @@
+body[data-slug="Fiction/The-Burden-of-Proof"] {
+  .left.sidebar,
+  .right.sidebar,
+  article.popover-hint,
+  .center > hr {
+    display: none;
+  }
+
+  .center {
+    max-width: min(72rem, calc(100vw - 2rem));
+  }
+}
+
 .aetheria-epub-reader {
   margin: 1.5rem 0 2.5rem;
   border: 1px solid #2b3946;
@@ -104,6 +117,34 @@
       max-width: 100% !important;
     }
   }
+
+  .aetheria-reader-page-zone {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 3;
+    width: min(18%, 7rem);
+    border: 0;
+    border-radius: 0;
+    padding: 0;
+    background: transparent;
+    color: #ff9b4a;
+    cursor: pointer;
+    font-size: clamp(2.2rem, 5vw, 4rem);
+    line-height: 1;
+    opacity: 0.18;
+    transition: opacity 160ms ease, background-color 160ms ease;
+
+    &:hover,
+    &:focus-visible {
+      background: rgba(255, 155, 74, 0.08);
+      opacity: 0.78;
+      outline: none;
+    }
+  }
+
+  .aetheria-reader-page-zone-left { left: 0; }
+  .aetheria-reader-page-zone-right { right: 0; }
 
   &.reader-error .aetheria-reader-viewport { display: none; }
 
