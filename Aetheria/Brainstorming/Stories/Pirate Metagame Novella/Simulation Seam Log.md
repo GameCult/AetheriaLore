@@ -97,5 +97,17 @@ Drafting produced additional nonblocking candidates in [[10 Draft Movement I/Nar
 - dependency-aware subsystem restraint after Remora attachment.
 
 Only the physical halt and dependency graph recur strongly enough to influence current combat design priorities. The rescue and claim mechanics remain narrative inspiration unless later movements or gameplay require deliberate invocation.
+
+## Pass 11 Movement II Discoveries
+
+Movement II adds or sharpens the candidates in [[11 Draft Movement II/Narrative Seam Notes]]:
+
+- sequential loiterer commitment against a recovery consequence volume;
+- shipmind embodied working-memory shedding under extraction pressure;
+- possible-history volume attacks against bounded signature shaping;
+- provenance-dependent attacks on a specific cognition architecture;
+- staged rescue-to-custody transition.
+
+The possible-history counter and architecture-provenance attack meet multiple promotion triggers. They recur, change loadouts and doctrine, create observables, require absent state, and must survive observed/offscreen transfer. Drafting continues without schema work.
 | Optical claimant authentication under partition | Maintain trusted identity and claim continuity across isolated low-bandwidth paths | Geometry, optical links, witnesses, cognition, time | Multi-source authentication without central network | Occlusion, movement, compromised witness, or link loss interrupts | Visible optical/courier exchanges; broad until exact bandwidth matters | **Provisional**; AI invocation and observed/offscreen continuity justify promotion |
 | Ballistic route denial around inhabited volumes | Use unguided hazard volumes to constrain escort approaches without firing through protected habitats | Ammunition, solution quality, geometry, time, conduct policy | Persistent hazard volumes with protected-volume exclusions | Maneuver, patience, armor, alternate axis, or saturation counters | Visible trajectories and denied routes; exact density contested | **Provisional**; player choice and loadout effect justify promotion |

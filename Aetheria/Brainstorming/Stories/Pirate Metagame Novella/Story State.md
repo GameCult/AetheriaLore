@@ -214,3 +214,24 @@
 - Preserve Luce's visible emotional continuity despite no Luce POV.
 - Protect Sable's genuine excellence from reading as setup for punishment.
 - Keep all simulation discoveries nonblocking.
+
+## Pass 11 Draft Movement II
+
+- [[11 Draft Movement II/Movement II Draft]] contains ten chapters, fifteen explicit POV sections, and 14,027 revised words.
+- Hull One dies through the accepted second-loiterer chain; all persons clear after Pal sacrifices control and recent embodied memory.
+- Hull Two remains alive, rotates under bounded control, and is consciously abandoned after a plausible volunteer-salvage preparation.
+- Hull Three is genuinely splendid, then loses semantic trust under a provenance-informed cognition attack and pre-fired ballistic envelope.
+- Sable consciously refuses partition, later rejects contaminated-history restoration, and remains politically unreformed by injury.
+- Rhyne guarantees personnel evacuation before enforcement; Samira transfers title after protected passage.
+- Pal’s hardest extraction reaches boat-one cooling at minute twenty-three and loses the galley’s domestic preference cache.
+- Pal answers Ship Mutiny “not yet”; the Twelvefold separately grants only a narrow continuation.
+- Four skeptical reviews were reconciled in [[11 Draft Movement II/Skeptical Review Report]].
+- Combined manuscript length is 30,056 words. Passes 12-13 must bring the final manuscript to 50,000-60,000 words.
+
+## Open State For Pass 12
+
+- Draft Movement III with enough lived duration that the combined manuscript approaches the 50,000-word floor before unified revision.
+- Validate Hot doctrine through pleasure and work, not parody.
+- Preserve Meera, workers, claimants, Pal, and Twelvefold stop authority through final victory.
+- Keep the final reader-facing causal spine simple.
+- Continue logging simulation candidates without pausing prose.

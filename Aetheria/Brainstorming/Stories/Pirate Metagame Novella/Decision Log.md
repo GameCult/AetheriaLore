@@ -91,6 +91,12 @@
 | D-085 | Make Deep Quiet's abort integrate plural refusal authority. | Accepted | Samira commands because other actors own and remove options, not because their agency collapses into her competence. |
 | D-086 | Spend two Remorae and contaminate a third during Patient Hands withdrawal. | Accepted | Competent target counteraction and inventory conservation must survive narrative restraint. |
 | D-087 | End Movement I on Luce commissioning a more selective but service-heavy physical isolation design. | Accepted | The crew learned something real; Luce's overcorrection turns it into another beautiful machine. |
+| D-088 | Accept Movement II at 14,027 revised words with an explicit whole-manuscript expansion obligation. | Accepted | The movement is emotionally complete after doubling in review, but final promotion still requires 50-60k words. |
+| D-089 | Make Samira own Campaign VI withdrawal and Luce safe the objective. | Accepted | Survival-margin authority remains continuous from the articles and Deep Quiet. |
+| D-090 | Seed hostile mass before Sable refuses partition and forbid cognition compulsion. | Accepted | The attack exploits weighted judgment and a pre-fired envelope rather than inventing behavior or capability after commitment. |
+| D-091 | Evacuate Hull Three before enforcement and transfer title under Samira’s authority. | Accepted | Rescue, treatment, possession, and title remain separate transitions. |
+| D-092 | Give Sable post-injury choices that preserve disagreement and narrower authority. | Accepted | Pain cannot function as political purification or automatic humility. |
+| D-093 | Make Pal’s hardest extraction lose recent domestic state and reach boat-one cooling at minute twenty-three. | Accepted | Each embodiment loss must carry distinct operational and psychological residue. |
 
 ## Supersession Rule
 

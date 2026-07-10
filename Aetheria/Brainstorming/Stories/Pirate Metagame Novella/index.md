@@ -37,6 +37,7 @@ Later passes will add ships, combat model, tactical traces, failure ladder, POV 
 - [[08 Narrative Architecture/Pass Report|Pass 8 - Narrative Architecture]]
 - [[09 Scene Engineering/Pass Report|Pass 9 - Scene Engineering]]
 - [[10 Draft Movement I/Pass Report|Pass 10 - Draft Movement I]]
+- [[11 Draft Movement II/Pass Report|Pass 11 - Draft Movement II]]
 
 ## Current Planning Surfaces
 
@@ -56,3 +57,5 @@ Later passes will add ships, combat model, tactical traces, failure ladder, POV 
 - [[09 Scene Engineering/Simulation Candidate Notes|Simulation Candidate Notes]]
 - [[10 Draft Movement I/Movement I Draft|Movement I Draft]]
 - [[10 Draft Movement I/Narrative Seam Notes|Movement I Narrative Seam Notes]]
+- [[11 Draft Movement II/Movement II Draft|Movement II Draft]]
+- [[11 Draft Movement II/Narrative Seam Notes|Movement II Narrative Seam Notes]]
