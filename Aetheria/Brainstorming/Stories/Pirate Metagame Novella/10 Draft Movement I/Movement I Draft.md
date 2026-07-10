@@ -8,7 +8,7 @@ Luce Orsino had dressed for an emergency.
 
 This was not the same as expecting one. He expected to win.
 
-The suit waiting in the aft locker was charcoal rather than racing white, severe at the shoulders, easy to clean, and certified for twelve minutes of vacuum if the collar seal behaved. Its maker had called it the Humane Response Cut. The name had embarrassed Luce so badly that he had bought two.
+The suit waiting in the aft locker was charcoal rather than racing white, severe at the shoulders, easy to clean, and certified for twelve minutes of vacuum if the collar seal behaved. Its maker had called it the Humane Response Cut. Luce had objected to the name, ordered two, and paid extra to have the labels removed.
 
 He wore racing white now. The couch pressed hard between his shoulder blades as _Auspicious Exception_ came around Callisto with the other regatta ships spread behind her in a bright, expensive fan. Sponsor telemetry filled the left side of his vision. The right held the course and the cooling reserve Pal had asked him, twice, not to spend.
 
