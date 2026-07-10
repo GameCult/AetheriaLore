@@ -2,7 +2,8 @@
 
 ## Pass Status
 
-**Completed:** Pass 1 - Room Charter and Canon Boundary  
+**Completed:** Pass 1 - Room Charter and Canon Boundary
+
 **Next:** Pass 2 - Cast and Social Body
 
 ## Locked Premise
