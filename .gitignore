@@ -31,3 +31,4 @@ Thumbs.db
 /output/
 /quartz-site/node_modules/
 /quartz-site/public/
+/quartz-site/*.log

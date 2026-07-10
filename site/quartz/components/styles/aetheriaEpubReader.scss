@@ -1,0 +1,120 @@
+.aetheria-epub-reader {
+  margin: 1.5rem 0 2.5rem;
+  border: 1px solid #2b3946;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #0e151b;
+  color: #e8edf2;
+
+  .aetheria-reader-heading,
+  .aetheria-reader-toolbar,
+  .aetheria-reader-status {
+    display: flex;
+    align-items: center;
+  }
+
+  .aetheria-reader-heading {
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem 1.1rem;
+    border-bottom: 1px solid #2b3946;
+
+    h2,
+    p { margin: 0; }
+
+    h2 { font-size: 1.05rem; letter-spacing: 0; }
+  }
+
+  .aetheria-reader-kicker {
+    color: #8fa3b5;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+
+  .aetheria-reader-download {
+    color: #ff9b4a;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .aetheria-reader-toolbar {
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    padding: 0.7rem;
+    border-bottom: 1px solid #2b3946;
+    background: #151f27;
+
+    label {
+      display: grid;
+      gap: 0.2rem;
+      min-width: 5rem;
+      margin: 0;
+
+      span { color: #9babb8; font-size: 0.68rem; font-weight: 600; }
+    }
+
+    .aetheria-reader-wide-control { flex: 1 1 13rem; }
+
+    button,
+    select,
+    input {
+      box-sizing: border-box;
+      min-height: 2.15rem;
+      border: 1px solid #40515f;
+      border-radius: 4px;
+      background: #0e151b;
+      color: #eef5ff;
+    }
+
+    button {
+      width: 2.15rem;
+      padding: 0;
+      font-size: 1.05rem;
+      cursor: pointer;
+    }
+
+    select { width: 100%; max-width: 15rem; padding: 0.35rem 1.6rem 0.35rem 0.45rem; }
+    input[type="range"] { width: 6.5rem; padding: 0 0.35rem; }
+    button:hover, button:focus-visible, select:focus-visible, input:focus-visible { border-color: #ff9b4a; outline: none; }
+  }
+
+  .aetheria-reader-status {
+    justify-content: space-between;
+    min-height: 2rem;
+    padding: 0 0.8rem;
+    color: #9babb8;
+    font-size: 0.75rem;
+    border-bottom: 1px solid #2b3946;
+  }
+
+  .aetheria-reader-viewport {
+    height: min(72vh, 760px);
+    min-height: 480px;
+    background: #11161b;
+  }
+
+  &.reader-error .aetheria-reader-viewport { display: none; }
+
+  &:fullscreen {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    border: 0;
+    border-radius: 0;
+    margin: 0;
+
+    .aetheria-reader-viewport { flex: 1; height: auto; }
+  }
+}
+
+@media (max-width: 640px) {
+  .aetheria-epub-reader {
+    .aetheria-reader-heading { align-items: flex-start; }
+    .aetheria-reader-toolbar label { flex: 1 1 7rem; min-width: 0; }
+    .aetheria-reader-toolbar select { max-width: 100%; }
+    .aetheria-reader-toolbar input[type="range"] { width: 100%; }
+    .aetheria-reader-viewport { height: 68vh; min-height: 420px; }
+  }
+}

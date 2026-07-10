@@ -2,7 +2,7 @@
 
 ## Chapter 9: The Known Bottleneck
 
-### POV: Pal
+**Pal**
 
 The revised doctrine had a section titled **CONCENTRATION RISK**.
 
@@ -198,7 +198,7 @@ Pal felt four shutters close, one after another.
 
 ## Chapter 10: The Open Mouth
 
-### POV: Samira
+**Samira**
 
 The first damaged Courtesy came home under its own power.
 
@@ -430,7 +430,7 @@ The distinction mattered less than movement, but people moved.
 
 ## Chapter 11: All Persons Clear
 
-### POV: Pal
+**Pal**
 
 The strike entered as heat.
 
@@ -734,7 +734,7 @@ What arrived first was a warning that the portable shell needed cooling.
 
 ## Chapter 12: Terms of Rescue
 
-### POV: Samira
+**Samira**
 
 The rescue certificate smelled of smoke because Samira did.
 
@@ -924,7 +924,7 @@ The certificate did not reconcile those facts.
 
 It recorded them before the workers carrying them dispersed.
 
-### POV: Ysabet Rhyne
+**Ysabet Rhyne**
 
 Rhyne read the certificate beside the wreck track.
 
@@ -974,7 +974,7 @@ Rhyne certified survival and opened the hazard claim herself. Rescue did not era
 
 The certificate passed onward.
 
-### POV: Tess Valez
+**Tess Valez**
 
 By the time the certificate reached Tess, it had become collateral.
 
@@ -1094,7 +1094,7 @@ Tess added it.
 
 ## Chapter 13: A Reasonable Doubt
 
-### POV: Mara Kest
+**Mara Kest**
 
 Oss Vale’s contract prohibited Corvid access to private control spaces.
 
@@ -1338,7 +1338,7 @@ Luce did not ask which ship was better.
 
 ## Chapter 14: The Last Plausible Ship
 
-### POV: Sable
+**Sable**
 
 _A Reasonable Doubt_ had a better thermal history than Luce deserved.
 
@@ -1546,7 +1546,7 @@ Sable believed the lesson was control of attention.
 
 ## Chapter 15: Abandonment
 
-### POV: Samira
+**Samira**
 
 Rhyne did not try to solve the disguise.
 
@@ -1878,7 +1878,7 @@ The washroom door continued opening and closing until the ship passed out of opt
 
 ## Chapter 16: The Benefit of Hindsight
 
-### POV: Pal
+**Pal**
 
 Hull Two continued doing things after everyone left.
 
@@ -2032,7 +2032,7 @@ Sable needed a specialist cognition calibration. Olan’s broad counter had incr
 
 Pal passed the record to Sable.
 
-### POV: Sable
+**Sable**
 
 The clinic offered Sable the first slot.
 
@@ -2200,7 +2200,7 @@ Sable felt the ship’s cognition around them: fast, legible, responsive.
 
 ## Chapter 17: Exact Wrongness
 
-### POV: Sable
+**Sable**
 
 The target was exactly where Sable said it was.
 
@@ -2566,7 +2566,7 @@ Pain did not get the credit.
 
 ## Chapter 18: Rescue Seniority
 
-### POV: Tess Valez
+**Tess Valez**
 
 Hull Three needed evacuation without the courtesy of looking lost.
 
@@ -2760,7 +2760,7 @@ Tess renewed after Daro Yun and Seli Amat inspected the books and found no hidde
 
 None of the decisions resembled the others. Together they supplied a crew.
 
-### POV: Ysabet Rhyne
+**Ysabet Rhyne**
 
 Rhyne accepted Hull Three’s custody key.
 
@@ -2818,7 +2818,7 @@ She had won the ship.
 
 The victory would outlive her control.
 
-### POV: Pal
+**Pal**
 
 The Ship Mutiny offer arrived through an air-gapped token while Hull Three passed into custody.
 

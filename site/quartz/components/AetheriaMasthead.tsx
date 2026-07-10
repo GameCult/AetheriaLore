@@ -33,7 +33,7 @@ const routes: Route[] = [
   {
     label: "Stories",
     slug: "Stories/index" as FullSlug,
-    matches: ["Stories"],
+    matches: ["Stories", "Fiction"],
   },
   {
     label: "Articles",

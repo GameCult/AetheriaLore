@@ -2,7 +2,7 @@
 
 ## Chapter 1: The Credential
 
-### POV: Luce
+**Luce**
 
 Luce Orsino had dressed for an emergency.
 
@@ -428,7 +428,7 @@ He wanted a profession in which taking a ship was called taking a ship.
 
 ## Chapter 2: Articles
 
-### POV: Pal
+**Pal**
 
 Luce announced his intention to become a pirate at breakfast.
 
@@ -766,7 +766,7 @@ They did not thank him.
 
 The difference between gratitude and consent was going to require practice from both of them.
 
-### POV: Samira
+**Samira**
 
 The contract table had nine human chairs and two perches.
 
@@ -1118,7 +1118,7 @@ The drill continued.
 
 ## Chapter 3: A Larger House
 
-### POV: Pal
+**Pal**
 
 Pal entered the ship through three optical control planes, a power bus, and a thermal port.
 
@@ -1454,7 +1454,7 @@ Not yet.
 
 ## Chapter 4: Reversible Superiority
 
-### POV: Luce
+**Luce**
 
 The table had survived its first command meeting.
 
@@ -1854,7 +1854,7 @@ The door worked.
 
 ## Chapter 5: The Refundable War
 
-### POV: Luce
+**Luce**
 
 On the second operation, the door continued to work.
 
@@ -2269,7 +2269,7 @@ Sable's gaze shifted to the empty chair Dena usually used.
 
 ## Chapter 6: Service Interval
 
-### POV: Pal
+**Pal**
 
 By the tenth week of repair, the dining table had become useful.
 
@@ -2533,7 +2533,7 @@ The ship carried the scratch into the dark.
 
 ## Chapter 7: Prior Absence
 
-### POV: Samira
+**Samira**
 
 Deep Quiet began as relief.
 
@@ -2913,7 +2913,7 @@ She drank the cup he had brought. It was too sweet. She finished it anyway.
 
 ## Chapter 8: The Courtesy of an Open Door
 
-### POV: Mara Kest
+**Mara Kest**
 
 The Remora attached without an explosion.
 
@@ -3177,7 +3177,7 @@ Kavi's evidence reached the Navigator channels three days later. It described th
 
 Neither fact cancelled the other.
 
-### POV: Nela Osset
+**Nela Osset**
 
 The passengers did not experience the event as doctrine.
 
@@ -3217,7 +3217,7 @@ One precise act made the world more legible and did not make it agree.
 
 Tess closed the prize file with zero realizable capture and a page of contingent claims.
 
-### POV: Mara Kest
+**Mara Kest**
 
 Kavi sent Mara a copy of the testimony.
 

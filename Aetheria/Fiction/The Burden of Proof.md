@@ -4,7 +4,7 @@
 
 ### Chapter 1: The Credential
 
-#### POV: Luce
+**Luce**
 
 Luce Orsino had dressed for an emergency.
 
@@ -430,7 +430,7 @@ He wanted a profession in which taking a ship was called taking a ship.
 
 ### Chapter 2: Articles
 
-#### POV: Pal
+**Pal**
 
 Luce announced his intention to become a pirate at breakfast.
 
@@ -768,7 +768,7 @@ They did not thank him.
 
 The difference between gratitude and consent was going to require practice from both of them.
 
-#### POV: Samira
+**Samira**
 
 The contract table had nine human chairs and two perches.
 
@@ -1120,7 +1120,7 @@ The drill continued.
 
 ### Chapter 3: A Larger House
 
-#### POV: Pal
+**Pal**
 
 Pal entered the ship through three optical control planes, a power bus, and a thermal port.
 
@@ -1456,7 +1456,7 @@ Not yet.
 
 ### Chapter 4: Reversible Superiority
 
-#### POV: Luce
+**Luce**
 
 The table had survived its first command meeting.
 
@@ -1856,7 +1856,7 @@ The door worked.
 
 ### Chapter 5: The Refundable War
 
-#### POV: Luce
+**Luce**
 
 On the second operation, the door continued to work.
 
@@ -2271,7 +2271,7 @@ Sable's gaze shifted to the empty chair Dena usually used.
 
 ### Chapter 6: Service Interval
 
-#### POV: Pal
+**Pal**
 
 By the tenth week of repair, the dining table had become useful.
 
@@ -2535,7 +2535,7 @@ The ship carried the scratch into the dark.
 
 ### Chapter 7: Prior Absence
 
-#### POV: Samira
+**Samira**
 
 Deep Quiet began as relief.
 
@@ -2915,7 +2915,7 @@ She drank the cup he had brought. It was too sweet. She finished it anyway.
 
 ### Chapter 8: The Courtesy of an Open Door
 
-#### POV: Mara Kest
+**Mara Kest**
 
 The Remora attached without an explosion.
 
@@ -3179,7 +3179,7 @@ Kavi's evidence reached the Navigator channels three days later. It described th
 
 Neither fact cancelled the other.
 
-#### POV: Nela Osset
+**Nela Osset**
 
 The passengers did not experience the event as doctrine.
 
@@ -3219,7 +3219,7 @@ One precise act made the world more legible and did not make it agree.
 
 Tess closed the prize file with zero realizable capture and a page of contingent claims.
 
-#### POV: Mara Kest
+**Mara Kest**
 
 Kavi sent Mara a copy of the testimony.
 
@@ -3402,7 +3402,7 @@ The drawing was beautiful.
 
 ### Chapter 9: The Known Bottleneck
 
-#### POV: Pal
+**Pal**
 
 The revised doctrine had a section titled **CONCENTRATION RISK**.
 
@@ -3598,7 +3598,7 @@ Pal felt four shutters close, one after another.
 
 ### Chapter 10: The Open Mouth
 
-#### POV: Samira
+**Samira**
 
 The first damaged Courtesy came home under its own power.
 
@@ -3830,7 +3830,7 @@ The distinction mattered less than movement, but people moved.
 
 ### Chapter 11: All Persons Clear
 
-#### POV: Pal
+**Pal**
 
 The strike entered as heat.
 
@@ -4134,7 +4134,7 @@ What arrived first was a warning that the portable shell needed cooling.
 
 ### Chapter 12: Terms of Rescue
 
-#### POV: Samira
+**Samira**
 
 The rescue certificate smelled of smoke because Samira did.
 
@@ -4324,7 +4324,7 @@ The certificate did not reconcile those facts.
 
 It recorded them before the workers carrying them dispersed.
 
-#### POV: Ysabet Rhyne
+**Ysabet Rhyne**
 
 Rhyne read the certificate beside the wreck track.
 
@@ -4374,7 +4374,7 @@ Rhyne certified survival and opened the hazard claim herself. Rescue did not era
 
 The certificate passed onward.
 
-#### POV: Tess Valez
+**Tess Valez**
 
 By the time the certificate reached Tess, it had become collateral.
 
@@ -4494,7 +4494,7 @@ Tess added it.
 
 ### Chapter 13: A Reasonable Doubt
 
-#### POV: Mara Kest
+**Mara Kest**
 
 Oss Vale’s contract prohibited Corvid access to private control spaces.
 
@@ -4738,7 +4738,7 @@ Luce did not ask which ship was better.
 
 ### Chapter 14: The Last Plausible Ship
 
-#### POV: Sable
+**Sable**
 
 _A Reasonable Doubt_ had a better thermal history than Luce deserved.
 
@@ -4946,7 +4946,7 @@ Sable believed the lesson was control of attention.
 
 ### Chapter 15: Abandonment
 
-#### POV: Samira
+**Samira**
 
 Rhyne did not try to solve the disguise.
 
@@ -5278,7 +5278,7 @@ The washroom door continued opening and closing until the ship passed out of opt
 
 ### Chapter 16: The Benefit of Hindsight
 
-#### POV: Pal
+**Pal**
 
 Hull Two continued doing things after everyone left.
 
@@ -5432,7 +5432,7 @@ Sable needed a specialist cognition calibration. Olan’s broad counter had incr
 
 Pal passed the record to Sable.
 
-#### POV: Sable
+**Sable**
 
 The clinic offered Sable the first slot.
 
@@ -5600,7 +5600,7 @@ Sable felt the ship’s cognition around them: fast, legible, responsive.
 
 ### Chapter 17: Exact Wrongness
 
-#### POV: Sable
+**Sable**
 
 The target was exactly where Sable said it was.
 
@@ -5966,7 +5966,7 @@ Pain did not get the credit.
 
 ### Chapter 18: Rescue Seniority
 
-#### POV: Tess Valez
+**Tess Valez**
 
 Hull Three needed evacuation without the courtesy of looking lost.
 
@@ -6160,7 +6160,7 @@ Tess renewed after Daro Yun and Seli Amat inspected the books and found no hidde
 
 None of the decisions resembled the others. Together they supplied a crew.
 
-#### POV: Ysabet Rhyne
+**Ysabet Rhyne**
 
 Rhyne accepted Hull Three’s custody key.
 
@@ -6218,7 +6218,7 @@ She had won the ship.
 
 The victory would outlive her control.
 
-#### POV: Pal
+**Pal**
 
 The Ship Mutiny offer arrived through an air-gapped token while Hull Three passed into custody.
 
@@ -6315,7 +6315,7 @@ The shell cooled.
 
 ### Chapter 19: The Burden of Proof
 
-#### POV: Pal
+**Pal**
 
 The workers voted on the ship before Luce was allowed to see it.
 
@@ -6511,7 +6511,7 @@ Pal did too.
 
 ### Chapter 20: Evident Intent
 
-#### POV: Jo Nwosu
+**Jo Nwosu**
 
 Jo had spent most of his career helping weapons conceal what they were about to do. _The Burden of Proof_ considered this cowardice.
 
@@ -6719,7 +6719,7 @@ Jo's victory report remained correct in every field except why they had come.
 
 ### Chapter 21: The Parliament of Useful Things
 
-#### POV: Samira
+**Samira**
 
 The uncomplicated victory lasted forty-seven seconds.
 
@@ -6941,7 +6941,7 @@ The ship's radiators remained open. Its guns were hot. Its armor had worked. Its
 
 ### Chapter 22: Cash Now
 
-#### POV: Tess Valez
+**Tess Valez**
 
 The lender admired their rescue record.
 
@@ -7105,7 +7105,7 @@ Then she began calculating what the coalition would have to owe people before Lu
 
 ### Chapter 23: One Cut
 
-#### POV: Huginn
+**Huginn**
 
 Kesh knew the humans believed the parliament began when they entered the room.
 
@@ -7207,7 +7207,7 @@ They opened the hatch for Luce.
 
 ### Chapter 24: The Option
 
-#### POV: Pal
+**Pal**
 
 Luce dressed for Pal's departure as if clothing could keep the event from becoming an accident.
 
@@ -7391,7 +7391,7 @@ It felt like work they had come back to do.
 
 ### Chapter 25: The Honest Accounting
 
-#### POV: Luce
+**Luce**
 
 The coalition meeting had thirty-two participants and eleven seats.
 
@@ -7555,7 +7555,7 @@ Luce left the name in his private notes.
 
 ### Chapter 26: What Can Be Preserved
 
-#### POV: Sable
+**Sable**
 
 The operation was delayed because a latch was warm.
 
@@ -7727,7 +7727,7 @@ Jo brought active sensors and ballistic directors into full attribution.
 
 ### Chapter 27: Common Measure
 
-#### POV: Samira
+**Samira**
 
 The workers were not ready.
 
@@ -8055,7 +8055,7 @@ The Twelvefold held post-operation review in fragments across the ship. Kesh con
 
 No collective answer followed.
 
-#### POV: Mara Kest
+**Mara Kest**
 
 Khraa visited the rescue hatch where Mara still stood.
 
@@ -8081,7 +8081,7 @@ This time she did.
 
 Khraa left.
 
-#### POV: Sable
+**Sable**
 
 Sable maintained the cognition partition through withdrawal even after Rruk offered a supervised merge review. The slower architecture forced them to ask Ilya twice for a track history they could previously have pulled directly.
 
@@ -8095,7 +8095,7 @@ Sable maintained the cognition partition through withdrawal even after Rruk offe
 
 Sable kept the partition.
 
-#### POV: Samira
+**Samira**
 
 Samira's Ganymede refusal confirmation remained in her private messages. Nia Venn called after the freeze, not to congratulate her but to ask whether command here had a household plan.
 
@@ -8131,7 +8131,7 @@ He closed them.
 
 ### Chapter 28: Present
 
-#### POV: Pal
+**Pal**
 
 The bailment expired after safe disengagement.
 

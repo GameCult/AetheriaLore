@@ -2,7 +2,7 @@
 
 ## Chapter 19: The Burden of Proof
 
-### POV: Pal
+**Pal**
 
 The workers voted on the ship before Luce was allowed to see it.
 
@@ -198,7 +198,7 @@ Pal did too.
 
 ## Chapter 20: Evident Intent
 
-### POV: Jo Nwosu
+**Jo Nwosu**
 
 Jo had spent most of his career helping weapons conceal what they were about to do. _The Burden of Proof_ considered this cowardice.
 
@@ -406,7 +406,7 @@ Jo's victory report remained correct in every field except why they had come.
 
 ## Chapter 21: The Parliament of Useful Things
 
-### POV: Samira
+**Samira**
 
 The uncomplicated victory lasted forty-seven seconds.
 
@@ -628,7 +628,7 @@ The ship's radiators remained open. Its guns were hot. Its armor had worked. Its
 
 ## Chapter 22: Cash Now
 
-### POV: Tess Valez
+**Tess Valez**
 
 The lender admired their rescue record.
 
@@ -792,7 +792,7 @@ Then she began calculating what the coalition would have to owe people before Lu
 
 ## Chapter 23: One Cut
 
-### POV: Huginn
+**Huginn**
 
 Kesh knew the humans believed the parliament began when they entered the room.
 
@@ -894,7 +894,7 @@ They opened the hatch for Luce.
 
 ## Chapter 24: The Option
 
-### POV: Pal
+**Pal**
 
 Luce dressed for Pal's departure as if clothing could keep the event from becoming an accident.
 
@@ -1078,7 +1078,7 @@ It felt like work they had come back to do.
 
 ## Chapter 25: The Honest Accounting
 
-### POV: Luce
+**Luce**
 
 The coalition meeting had thirty-two participants and eleven seats.
 
@@ -1242,7 +1242,7 @@ Luce left the name in his private notes.
 
 ## Chapter 26: What Can Be Preserved
 
-### POV: Sable
+**Sable**
 
 The operation was delayed because a latch was warm.
 
@@ -1414,7 +1414,7 @@ Jo brought active sensors and ballistic directors into full attribution.
 
 ## Chapter 27: Common Measure
 
-### POV: Samira
+**Samira**
 
 The workers were not ready.
 
@@ -1742,7 +1742,7 @@ The Twelvefold held post-operation review in fragments across the ship. Kesh con
 
 No collective answer followed.
 
-### POV: Mara Kest
+**Mara Kest**
 
 Khraa visited the rescue hatch where Mara still stood.
 
@@ -1768,7 +1768,7 @@ This time she did.
 
 Khraa left.
 
-### POV: Sable
+**Sable**
 
 Sable maintained the cognition partition through withdrawal even after Rruk offered a supervised merge review. The slower architecture forced them to ask Ilya twice for a track history they could previously have pulled directly.
 
@@ -1782,7 +1782,7 @@ Sable maintained the cognition partition through withdrawal even after Rruk offe
 
 Sable kept the partition.
 
-### POV: Samira
+**Samira**
 
 Samira's Ganymede refusal confirmation remained in her private messages. Nia Venn called after the freeze, not to congratulate her but to ask whether command here had a household plan.
 
@@ -1818,7 +1818,7 @@ He closed them.
 
 ## Chapter 28: Present
 
-### POV: Pal
+**Pal**
 
 The bailment expired after safe disengagement.
 

@@ -1,6 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import AetheriaAuthorMeta from "./quartz/components/AetheriaAuthorMeta"
+import AetheriaEpubReader from "./quartz/components/AetheriaEpubReader"
 import AetheriaMasthead from "./quartz/components/AetheriaMasthead"
 import AetheriaOverviewSidebar from "./quartz/components/AetheriaOverviewSidebar"
 import AetheriaThemeLock from "./quartz/components/AetheriaThemeLock"
@@ -37,6 +38,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.ContentMeta(),
       condition: (page) => !page.fileData.slug?.endsWith("/index") && page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: AetheriaEpubReader(),
+      condition: (page) => page.fileData.slug === "Fiction/The-Burden-of-Proof",
     }),
   ],
   afterBody: [
