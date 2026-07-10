@@ -40,9 +40,25 @@ The current implementation already exposes more useful combat state than a conve
 | Conduct and legal evidence | Capture, surrender, rescue, post-disable action and insurer exposure require durable event state. |
 | Campaign economics | Recoverability and replacement delay matter across sorties without altering immediate physics. |
 
+## Economy And Crafting Corrections
+
+The combat workbench requires a sharper content boundary than the surviving legacy `ItemData` and construction-blueprint vocabulary currently guarantees.
+
+| Concept | Authority |
+| --- | --- |
+| Technology blueprint | Component arrangement, behavior relationships, tolerances, performance derivation, revision ancestry, patent and licensing status |
+| Crafting recipe / manufacturing run | Actual input commodities and component instances, lots, producer, facility, substitutions, process, quality, license claim, date, and supply-chain provenance |
+| Item instance | The manufactured object, brand/model presentation, quality, durability, serial and custody history, current condition, and recipe/run reference |
+| Loadout blueprint | Placement and configuration of actual equipment required to instantiate a ship or small hull; it does not manufacture the equipment it references |
+| Entity snapshot | Live placement, behavior progress, temperature, armor, ammunition, damage, cargo, children, and control state after instantiation |
+
+Blueprints may be corporate-patented, licensed, proprietary, public domain, stolen, expired, or independently discovered. Those relationships affect access, price, legal exposure, and diffusion without turning every branded incarnation into new item data.
+
+The Pass 5 fixture database must contain technological and manufactured variety, not merely a catalog row per desired scenario role. Scenario definitions reference native instance and loadout IDs. They may set condition and geometry, but may not override derived equipment statistics.
+
 ## Mapping Rule
 
-Native state remains authoritative wherever it already describes the same fact. Additive combat state may reference native entity, component, and behavior IDs but may not duplicate temperature, armor, durability, ammunition, power, position, or docking truth under a second owner.
+Native state remains authoritative wherever it already describes the same fact. Additive combat state may reference native blueprint, recipe, item-instance, entity, component, and behavior IDs but may not duplicate provenance, temperature, armor, durability, ammunition, power, position, or docking truth under a second owner.
 
 For example, `heat_clock` reads native temperature, thermal mass, conductivity, behavior heat, and radiator state. It does not own a second “heat points” pool. `track_clock` reads emitted visibility evidence and observer state; it does not set target visibility because its forecast reached zero.
 

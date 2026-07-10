@@ -1,6 +1,6 @@
 # Clock Machine Test Vectors
 
-These are hand-solvable deterministic fixtures. Pass 5 will create full tactical traces.
+These are expected-result acceptance fixtures, not evidence that a simulation has run. Pass 5 must instantiate them from native Aetheria database objects, exercise the daemon combat kernel, capture observation streams, and compare the heuristic's predictions with ground truth. Any value the actual kernel contradicts must be revised rather than defended as story canon.
 
 ## Vector 1: Sparse Picket Screen
 

@@ -32,6 +32,8 @@ These elements are accepted for the novella but are not yet wider Aetheria canon
 | I-024 | The novella workbench advances combat in deterministic 250-millisecond ticks and derives explanatory tactical clocks from canonical state. | This is a planning and future game-design decision, not established wider history. |
 | I-025 | Cognition is modeled as finite task throughput spanning sensing, classification, EW, command, fire control, guidance, terminal discrimination, and damage control. | Better cognition improves every layer but remains bounded by embodiment and infrastructure. |
 | I-026 | A clock card compares earliest credible effect against earliest interruption across track, terminal, heat, cognition, economic, and masking pressure. | It is the simplest proposed machine for turning two matchups into a tactical heuristic. |
+| I-027 | Candidate simulations are instantiated from native technology blueprints, manufacturing recipes, item instances, and loadout blueprints, then run by the daemon kernel. | This is a game architecture decision rather than wider setting canon. |
+| I-028 | The heuristic is scored against synchronized omniscient traces and actor-local observation streams. | This distinguishes predictive decision quality from post-hoc narration. |
 
 ## Deferred Inventions
 

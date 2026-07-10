@@ -36,6 +36,10 @@
 | D-030 | Treat cognition as finite task work across the complete decision stack. | Accepted | Quality must improve sensing through terminal maneuver while load, heat, power, links, and architecture remain counters. |
 | D-031 | Use clock cards as matchup explanations rather than scalar combat ratings. | Accepted | Tactical value depends on which effect matures before which interruption under a particular objective. |
 | D-032 | Extend native Aetheria state without duplicating facts it already owns. | Accepted | Preserves compatibility with the daemon and avoids a parallel combat ontology. |
+| D-033 | Require all evidentiary tactical traces to come from Aetheria's actual daemon combat kernel. | Accepted | The story room specifies fixtures and expectations but does not own a shadow simulator. |
+| D-034 | Test the tactical heuristic as a partial-observation consumer against synchronized kernel ground truth. | Accepted | Explanation after the fact is not decision competence. |
+| D-035 | Separate technology blueprints, provenance-bearing manufacturing recipes, manufactured item instances, and platform loadout blueprints. | Accepted | Technology, legal control, supply chain, branded incarnation, and combat arrangement are different facts with different owners. |
+| D-036 | Populate native database fixtures deeply enough to express candidate doctrines without scenario-local equipment statistics. | Accepted | Balance results must arise from the same economy and content grammar as play. |
 
 ## Supersession Rule
 

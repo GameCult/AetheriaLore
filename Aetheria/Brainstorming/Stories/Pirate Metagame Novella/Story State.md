@@ -114,6 +114,8 @@
 - Drones and munitions share one component-built small-platform model; role follows loadout and orders.
 - Native Aetheria entity, component, behavior, grid, weapon, thermal, power, cargo, and docking state remains authoritative where it exists.
 - Full transition order, state schema, clock meanings, output vector, compatibility boundary, and hand-solvable fixtures are authoritative in [[Combat Model]] and the Pass 4 folder.
+- Tactical traces become evidence only when exported by Aetheria's actual daemon kernel. The heuristic is a separately tested consumer of actor-available observations.
+- A blueprint expresses technology and component arrangement with patent and licensing history. A crafting recipe or manufacturing run carries supply-chain provenance. A manufactured item instance is the actual branded or unbranded object entering inventory and combat. A loadout blueprint arranges those objects into a platform.
 
 ## Open State For Pass 5
 
@@ -121,3 +123,5 @@
 - Full deterministic event traces and counterfactual reruns.
 - Policy thresholds for launch, reveal, abort, recovery, capture, and escape.
 - Selection of which laboratory matchup becomes narrative history.
+- Native database fixture population sufficient to express technological, manufacturing, legal, branded, and supply-chain variety without scenario-local equipment stats.
+- Heuristic verification metrics against omniscient kernel traces and synchronized actor observation streams.

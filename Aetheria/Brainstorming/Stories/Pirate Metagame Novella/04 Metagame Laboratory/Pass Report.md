@@ -18,6 +18,10 @@
 - Signature shaping is post-Cold-Wake, observer-relative, and bounded by heat, aspect, motion, history, and control envelope.
 - Every drone or munition is a component-built small platform whose battlefield role comes from capability and orders.
 - Native Aetheria component, behavior, grid, and entity state remains authoritative where available; new mechanics extend rather than duplicate it.
+- The actual daemon kernel, not a story-room approximation, produces tactical traces and ground-truth outcomes.
+- The heuristic is a separate consumer under test; it predicts from actor-available observations and is scored against kernel truth.
+- Technology blueprints, manufacturing recipes, item instances, and loadout blueprints have separate authorities.
+- Pass 5 scenarios require native database fixtures with varied technologies, rights histories, producers, supply chains, manufacturing quality, and item condition.
 
 ## Verification
 
@@ -35,11 +39,12 @@
 - The first-hull recovery failure can be simulated without requiring crew stupidity or an unseeded counter.
 - Pass 5 can vary doctrines and component packages while sharing one transition ontology.
 - Future daemon implementation has a stated compatibility boundary with native typed Aetheria state.
+- The hand-solvable vectors are acceptance expectations only until the real kernel reproduces or corrects them.
 
 ## Review Points Before Pass 5
 
 - Whether 250 milliseconds is the right authoritative quantum, or whether terminal guidance needs 100 milliseconds despite the larger trace volume.
 - Whether the clock card should remain explanatory only or also become the first hand-authored doctrine policy input.
-- Whether the first candidate simulations should use normalized `0-100` stats for readability or fixed physical units wherever Pass 3 provides them.
+- Which minimum blueprint, recipe, producer, commodity-lot, and manufactured-instance fixture set is sufficient to express all seven doctrines without scenario-local stat overrides.
 - Whether cognition architecture attacks should appear in the first seven doctrine simulations or enter as a counterfactual after the physical metagame is legible.
 - Whether the two worked Courtesy vectors should become the canonical opening success and first failure, or remain laboratory examples until the failure ladder is selected.

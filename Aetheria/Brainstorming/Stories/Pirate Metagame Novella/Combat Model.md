@@ -2,7 +2,7 @@
 
 ## Purpose And Authority
 
-This model is the deterministic tactical workbench for the novella. It is also a design specification for the future Aetheria combat kernel: the daemon should eventually advance compatible native entity state to the same result, while Unity or another viewer renders and locally interpolates that result.
+This document specifies the deterministic tactical workbench for the novella. The workbench is not a second simulator. Aetheria's daemon combat kernel advances native entity state and owns ground-truth results; Unity or another viewer renders and locally interpolates committed state. Story-room traces used as evidence must be exported from that kernel.
 
 The **combat state** owns physical truth. One transition function advances it. Clocks, tactical summaries, and matchup heuristics are derived forecasts; they never write reality back into the state merely because a forecast expired.
 
@@ -10,19 +10,47 @@ The model is idealized, not impoverished. It omits continuous collision geometry
 
 ## Smallest Useful Machine
 
-The smallest machine that turns two matchups into a tactical heuristic has five parts:
+The smallest machine that turns two matchups into a tactical heuristic has six parts:
 
-1. Two platform states assembled from hulls and components.
+1. Two native platform states instantiated from manufactured items and loadout blueprints.
 2. One shared environment and initial geometry.
 3. One policy per side mapping its observation state to an order bundle.
-4. One deterministic transition function.
-5. One outcome vector and clock-pressure explanation.
+4. The actual daemon transition function.
+5. A heuristic implementation that predicts clock pressure from observation-compatible inputs.
+6. One ground-truth outcome vector used to score the heuristic's prediction and decisions.
 
-Run policy A against policy B, then swap one doctrine, component package, or opening condition and run again. The useful output is not a scalar combat rating. It is a **clock card**:
+Run policy A against policy B, then swap one doctrine, blueprint, manufactured instance set, supply chain, or opening condition and run again. The useful output is not a scalar combat rating. It is a **clock card**:
 
 `advantage = earliest credible own effect - earliest enemy interruption`, with signs reported separately for track, terminal, heat, cognition, economic, and escape pressure.
 
 A tactic is locally favored when its decisive effect matures before the opponent can interrupt it and when the margin survives one plausible counterfactual. The heuristic should say, for example, “recoverable PDC pressure wins the track clock by 41 seconds against a sparse picket screen, but loses the recovery/terminal clock by 73 seconds against heterogeneous bait with lane loiterers.” It should not say “drone build: 82.”
+
+The simulator does not consult that explanation to decide what happens. The heuristic predicts before or during the run from information its actor could possess. The harness then compares predicted clocks, confidence, recommended action, and failure explanation against the kernel's event trace. A heuristic that narrates the completed trace perfectly but could not make the decision in time has failed.
+
+## Blueprint, Manufacture, And Scenario Authority
+
+Scenario variety must be expressed through Aetheria's economy and crafting state rather than scenario-local stat blocks.
+
+A **blueprint** expresses a technology: an arrangement of components, behavior relationships, manufacturing tolerances, and performance derivations that makes a thing happen. Its history may include a corporate patent, licensed implementation, proprietary control, public-domain release, theft, expiry, or independent discovery. Two legally unrelated blueprints may implement similar technology without becoming the same commercial object.
+
+A blueprint is not a branded good and not an individual weapon. A **manufactured item instance** is the actual hull, radiator, sensor, gun, cognition core, drone component, or complete product that enters inventory and combat. Brand, model presentation, quality, durability, substitutions, defects, serial history, and chain of custody belong to the instance or its manufacturing record, not to a proliferation of near-identical item-data definitions.
+
+The instance's crafting recipe is its supply-chain provenance. It records the blueprint revision used, actual component and commodity inputs, input instance or lot identities, producer, facility, manufacturing run, substitutions, process quality, licensing claim, timestamps, and resulting performance. A pristine licensed Cryonix emitter and a pirate-built emitter derived from the same leaked arrangement can share technological ancestry while producing materially and legally different instances.
+
+Pass 5 requires a database fixture population with enough variety to express every doctrine through native objects:
+
+- component technologies and blueprint revisions;
+- patent, license, proprietary, public-domain, and independent-discovery relationships;
+- corporations, yards, workshops, and illicit producers;
+- commodity lots and component instances with quality and provenance;
+- manufacturing recipes and runs producing branded and unbranded item instances;
+- complete ship and small-hull loadout blueprints referencing those instances;
+- maintenance, damage, ammunition, propellant, and thermal starting state;
+- scenario, policy, and observation fixtures referencing durable native IDs.
+
+The population should be deliberately factorial where useful. A doctrine must be testable with the same blueprint manufactured well or badly, competing blueprints built from similar inputs, and one branded line produced through different supply chains. This distinguishes technology advantage, arrangement advantage, manufacturing quality, maintenance condition, and market access.
+
+No candidate doctrine receives bespoke “Hot gun,” “stealth drone,” or “premium cognition” item data merely to make a scenario work. If a capability cannot be assembled from the database's technologies, blueprints, recipes, instances, and loadouts, the content model is incomplete.
 
 ## Determinism Contract
 
@@ -253,13 +281,21 @@ _The Sum of Our Parts_ enters Pass 5 with the following model commitments:
 
 Exact normalized component values belong to Pass 5 scenario cards. Pass 4 fixes meanings and transition rules so later tuning changes numbers rather than ontology.
 
-## Kernel Compatibility Boundary
+## Kernel And Heuristic Verification Boundary
 
-The future daemon kernel should consume Aetheria's typed catalog and entity snapshots directly:
+The daemon kernel consumes Aetheria's typed catalog, economy, crafting, and entity snapshots directly:
 
 - item references, hull grid, equipment slots, weapon groups, behavior payloads, stat grids, temperature, armor, durability, velocity, target state, visibility, behavior progress, weapon state, and cargo/docking state remain native inputs;
 - cognition, signature shaping, observation contacts, small-hull autonomy, service topology, conduct state, and campaign economics are additive typed state where the current game lacks the mechanic;
+- blueprints own technological arrangements and derivation rules; manufacturing recipes own provenance; item instances own the actual material incarnation used by the entity;
 - Unity remains a consumer and renderer of committed daemon state, not the owner of combat truth;
 - visible simulation and out-of-view simulation use the same state and transition semantics. Changing observation should change rendering and available player input, not secretly swap combat rules.
+
+The verification harness runs the real kernel and records two synchronized products:
+
+1. an omniscient event trace containing physical state transitions and final outcome;
+2. each actor's observation stream, heuristic clock cards, confidence, recommendations, and issued orders.
+
+Tests score replay determinism, heuristic clock error, confidence calibration, action regret against available information, explanation fidelity, and whether a recommendation relied on truth unavailable to the actor. Bulk runs populate balance datasets from native instance IDs and provenance, allowing results to be grouped by blueprint, manufacturer, recipe input, quality, doctrine, or condition without confusing any of those categories.
 
 The abstraction boundary is deliberate: continuous presentation may interpolate positions and effects, while every decision-bearing event is committed on deterministic ticks and can be replayed from state plus orders.
