@@ -25,19 +25,28 @@ export const defaultContentPageLayout: PageLayout = {
         showCurrentPage: false,
         showRoot: false,
       }),
-      condition: (page) => page.fileData.slug !== "index",
+      condition: (page) => page.fileData.slug !== "index" && page.fileData.slug !== "Fiction/The-Burden-of-Proof",
     }),
     Component.ConditionalRender({
       component: Component.ArticleTitle(),
-      condition: (page) => !page.fileData.slug?.endsWith("/index") && page.fileData.slug !== "index",
+      condition: (page) =>
+        !page.fileData.slug?.endsWith("/index") &&
+        page.fileData.slug !== "index" &&
+        page.fileData.slug !== "Fiction/The-Burden-of-Proof",
     }),
     Component.ConditionalRender({
       component: AetheriaAuthorMeta(),
-      condition: (page) => !page.fileData.slug?.endsWith("/index") && page.fileData.slug !== "index",
+      condition: (page) =>
+        !page.fileData.slug?.endsWith("/index") &&
+        page.fileData.slug !== "index" &&
+        page.fileData.slug !== "Fiction/The-Burden-of-Proof",
     }),
     Component.ConditionalRender({
       component: Component.ContentMeta(),
-      condition: (page) => !page.fileData.slug?.endsWith("/index") && page.fileData.slug !== "index",
+      condition: (page) =>
+        !page.fileData.slug?.endsWith("/index") &&
+        page.fileData.slug !== "index" &&
+        page.fileData.slug !== "Fiction/The-Burden-of-Proof",
     }),
     Component.ConditionalRender({
       component: AetheriaEpubReader(),

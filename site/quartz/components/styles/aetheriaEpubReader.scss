@@ -114,10 +114,9 @@ body[data-slug="Fiction/The-Burden-of-Proof"] {
     contain: layout paint;
     background: #11161b;
 
-    iframe,
     .epub-container {
-      width: 100% !important;
-      max-width: 100% !important;
+      position: absolute !important;
+      inset: 0 auto auto 0;
     }
   }
 

@@ -28,27 +28,6 @@ class Chapter:
     blocks: list[str]
 
 
-@dataclass
-class SpinePage:
-    chapter_index: int
-    page_index: int
-    title: str
-    movement: str
-    blocks: list[str]
-
-    @property
-    def href(self) -> str:
-        if self.page_index == 1:
-            return f"text/chapter-{self.chapter_index:02}.xhtml"
-        return f"text/chapter-{self.chapter_index:02}-p{self.page_index:02}.xhtml"
-
-    @property
-    def item_id(self) -> str:
-        if self.page_index == 1:
-            return f"chapter-{self.chapter_index}"
-        return f"chapter-{self.chapter_index}-p{self.page_index}"
-
-
 def inline_markup(text: str) -> str:
     placeholders: dict[str, str] = {}
 
@@ -113,40 +92,6 @@ def chapter_xhtml(chapter: Chapter) -> str:
     return xhtml_page(chapter.title, body, "chapter")
 
 
-def paginate_chapters(chapters: list[Chapter], target_chars: int = 1400) -> list[SpinePage]:
-    pages: list[SpinePage] = []
-    for chapter_index, chapter in enumerate(chapters, 1):
-        chunks: list[list[str]] = []
-        current: list[str] = []
-        current_chars = 0
-        for block in chapter.blocks:
-            block_chars = len(block)
-            if current and current_chars + block_chars > target_chars:
-                chunks.append(current)
-                current = []
-                current_chars = 0
-            current.append(block)
-            current_chars += block_chars
-        if current:
-            chunks.append(current)
-        for page_index, blocks in enumerate(chunks, 1):
-            pages.append(SpinePage(chapter_index, page_index, chapter.title, chapter.movement, blocks))
-    return pages
-
-
-def page_xhtml(page: SpinePage) -> str:
-    paragraphs = []
-    for block in page.blocks:
-        rendered = inline_markup(block)
-        css_class = " class=\"pov\"" if re.fullmatch(r"<strong>[^<]+</strong>", rendered) else ""
-        paragraphs.append(f"<p{css_class}>{rendered}</p>")
-    header = ""
-    if page.page_index == 1:
-        header = f'<header><p class="movement">{html.escape(page.movement)}</p><h1>{html.escape(page.title)}</h1></header>'
-    body = header + "\n".join(paragraphs)
-    return xhtml_page(page.title, body, "chapter")
-
-
 def modified_timestamp(source: Path) -> str:
     epoch = int(os.environ.get("SOURCE_DATE_EPOCH", source.stat().st_mtime))
     return datetime.fromtimestamp(epoch, timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -154,13 +99,12 @@ def modified_timestamp(source: Path) -> str:
 
 def build(source: Path, output: Path) -> None:
     title, chapters = parse_manuscript(source)
-    pages = paginate_chapters(chapters)
     output.parent.mkdir(parents=True, exist_ok=True)
     chapter_items = "\n".join(
-        f'<item id="{page.item_id}" href="{page.href}" media-type="application/xhtml+xml"/>'
-        for page in pages
+        f'<item id="chapter-{i}" href="text/chapter-{i:02}.xhtml" media-type="application/xhtml+xml"/>'
+        for i in range(1, len(chapters) + 1)
     )
-    spine = "\n".join(f'<itemref idref="{page.item_id}"/>' for page in pages)
+    spine = "\n".join(f'<itemref idref="chapter-{i}"/>' for i in range(1, len(chapters) + 1))
     nav_points = "\n".join(
         f'<li><a href="text/chapter-{i:02}.xhtml">{html.escape(chapter.title)}</a></li>'
         for i, chapter in enumerate(chapters, 1)
@@ -191,8 +135,8 @@ def build(source: Path, output: Path) -> None:
         archive.writestr("EPUB/toc.ncx", ncx)
         archive.writestr("EPUB/styles/book.css", css)
         archive.writestr("EPUB/text/title.xhtml", title_page)
-        for page in pages:
-            archive.writestr(f"EPUB/{page.href}", page_xhtml(page))
+        for i, chapter in enumerate(chapters, 1):
+            archive.writestr(f"EPUB/text/chapter-{i:02}.xhtml", chapter_xhtml(chapter))
     validate(output, len(chapters))
 
 

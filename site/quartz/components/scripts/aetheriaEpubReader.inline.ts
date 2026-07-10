@@ -6,7 +6,7 @@ type ReaderSettings = {
   fontSize: number
   lineHeight: number
   flow: "paginated" | "scrolled-doc"
-  spread: "auto" | "none"
+  spread: "always" | "none"
 }
 
 declare global {
@@ -17,7 +17,7 @@ declare global {
 }
 
 const cookieName = "aetheria_tbp_reader"
-const settingsVersion = 3
+const settingsVersion = 4
 const defaults: ReaderSettings = {
   version: settingsVersion,
   theme: "dark",
@@ -41,7 +41,7 @@ function readSettings(): ReaderSettings {
       fontSize: Number.isFinite(saved.fontSize) ? Math.min(150, Math.max(80, saved.fontSize)) : defaults.fontSize,
       lineHeight: Number.isFinite(saved.lineHeight) ? Math.min(210, Math.max(130, saved.lineHeight)) : defaults.lineHeight,
       flow: ["paginated", "scrolled-doc"].includes(saved.flow) ? saved.flow : defaults.flow,
-      spread: saved.version === settingsVersion && ["auto", "none"].includes(saved.spread) ? saved.spread : defaults.spread,
+      spread: saved.version === settingsVersion && ["always", "none"].includes(saved.spread) ? saved.spread : defaults.spread,
     }
   } catch {
     return { ...defaults }
@@ -112,12 +112,6 @@ async function initReader(root: HTMLElement) {
       viewport.style.width = "100%"
       viewport.style.maxWidth = "100%"
       viewport.style.overflow = "hidden"
-      viewport.querySelectorAll<HTMLElement>(".epub-container, .epub-view, iframe").forEach((element) => {
-        element.style.setProperty("width", "100%", "important")
-        element.style.setProperty("max-width", "100%", "important")
-        element.style.setProperty("min-width", "0", "important")
-        if (element.classList.contains("epub-view")) element.style.setProperty("flex", "0 0 100%", "important")
-      })
     }
 
     async function displayLocation(target?: string) {

@@ -7,7 +7,7 @@ export default (() => {
   const AetheriaEpubReader: QuartzComponent = () => (
     <section
       class="aetheria-epub-reader"
-      data-epub-src="/static/fiction/the-burden-of-proof.epub?v=reader-pages-2"
+      data-epub-src="/static/fiction/the-burden-of-proof.epub?v=reader-native-pages-1"
       aria-label="The Burden of Proof ebook reader"
     >
       <div class="aetheria-reader-heading">
@@ -32,7 +32,7 @@ export default (() => {
         </label>
         <label>
           <span>Spread</span>
-          <select data-reader-setting="spread"><option value="none">Single</option><option value="auto">Auto</option></select>
+          <select data-reader-setting="spread"><option value="none">Single</option><option value="always">Two Pages</option></select>
         </label>
         <label>
           <span>Theme</span>
