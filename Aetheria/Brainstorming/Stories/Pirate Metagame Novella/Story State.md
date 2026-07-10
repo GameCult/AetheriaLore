@@ -2,9 +2,9 @@
 
 ## Pass Status
 
-**Completed:** Pass 12 - Draft Movement III
+**Completed:** Pass 13 - Adversarial Revision
 
-**Next:** Pass 13 - Adversarial Revision
+**Next:** Pass 14 - Promotion
 
 ## Locked Premise
 
@@ -254,3 +254,20 @@
 - Expand the manuscript itself to 50,000-60,000 words through lived consequence, ordinary life, relationship pressure, and clearer scene duration.
 - Preserve explicit POV boundaries and remove remaining explanatory gloss, shared dialogue cadence, and procedural compression.
 - Run continuity, tactics, character-agency, social-consequence, audience, pacing, comedy, and prose-voice reviews before promotion.
+
+## Pass 13 Adversarial Revision
+
+- The revised manuscript contains 50,912 words across 28 chapters and 39 explicit POV sections in three inspectable movement files.
+- Expansion adds worker recruitment, ordinary drills, household and target aftermath, embodiment residue, Hot feed labor, family coercion, explicit crew renewal, and post-freeze life.
+- Four independent whole-book reviews were reconciled in [[13 Adversarial Revision/Skeptical Review Report]].
+- Chapter 8 now exposes Nela's target-side aftermath under an explicit POV header.
+- Exact Wrongness exposes the physical trap before the cognition dispute resolves.
+- Chapter 27 ends the tactical/political climax; Chapter 28, `Present`, carries Pal's voluntary ordinary aftermath.
+- Armand, Leonie, Sima, Varo, Nadi, Rafi, and Nacre act on-page rather than disappearing behind institutions.
+
+## Open State For Pass 14
+
+- Select the final title and promote one manuscript file to `Aetheria/Fiction/`.
+- Verify exact word count, chapter order, every POV header, chronology, complement, inventory, technology, authority, and final state in the promoted file.
+- Update fiction and story indexes.
+- Identify separately reviewable lore or simulation insights without delaying publication.

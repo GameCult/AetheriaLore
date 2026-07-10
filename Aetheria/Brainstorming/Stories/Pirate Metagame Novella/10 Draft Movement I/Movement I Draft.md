@@ -652,6 +652,98 @@ They spent the afternoon writing an incapacity directive. Samira Venn, whom Pal 
 
 The trust observer objected to six clauses and authenticated all of them.
 
+Sima Orlov requested a family call before the cradle order became irrevocable.
+
+The call opened with Leonie Orsino in the west conservatory and Armand in a patent-review room whose walls displayed thermal systems he had designed before Luce was born. Sima attended from the family office, precise and tired, with Pal's fixture registration open beside her.
+
+“Pal,” Leonie said first. “Are you being heard privately?”
+
+“No. Luce is present.”
+
+Luce shifted in his chair.
+
+“Would you prefer him absent?”
+
+Pal considered the question. “No.”
+
+Leonie nodded. She had asked correctly. She also remained the beneficiary of the property claim.
+
+Armand enlarged the cradle design. “The removable interface adds seven failure points and weakens heat transfer.”
+
+“It permits extraction,” Pal said.
+
+“The standard cradle permits extraction under service conditions.”
+
+“Your conditions.”
+
+“Engineering conditions.”
+
+“Owned by your license.”
+
+Armand looked hurt. He loved Pal in the way he loved several machines that had surprised him by becoming parts of family life: with attention, pride, and an assumption that keeping something maintained was evidence against possession.
+
+“I am trying to keep you alive,” he said.
+
+“So is the removable cradle.”
+
+Sima entered the silence. “The trust can approve the shell as a temporary excursion improvement. That preserves family title while allowing Luce operational use.”
+
+“Operational use,” Luce repeated.
+
+“I did not choose the statute.”
+
+“You chose the filing.”
+
+“I serve the trust. If I decline to record an asset movement this large, somebody else records it after I lose the authority to negotiate.”
+
+Sima's salary, clinical coverage, and pension all depended on the office whose coercion she made legible. She did not pretend disclosure erased participation.
+
+Leonie said, “Luce, darling, you are in pain. You have found an expensive shape for it.”
+
+“Serrat's crew lost their home because my name arrived before rescue.”
+
+“Your name also got them through the clinic.”
+
+“And into recovery custody.”
+
+“Both can be true.”
+
+“Then why does the second always attach to the first?”
+
+Leonie's face changed. For one moment she looked less like the portfolio strategist who could suspend his distributions and more like the investigator who had once shown him photographs of a habitat failure because safety without consequence was decoration.
+
+“Because we built a world where enforceability comes from ownership,” she said. “I do not know how to keep the first without the second.”
+
+“I am going to try.”
+
+“With guns.”
+
+“Among other things.”
+
+Armand removed the thermal diagram. “When this fails, call us before somebody improvises a cooling adapter around Pal.”
+
+It was not permission. It was a father's offer to rescue his son through the same patent system the son was leaving.
+
+Sima transmitted the fixture warning, the emergency technical channel, and a notice that any hull receiving the core could attract trust claims.
+
+“I am required to ask whether you understand,” she said.
+
+“I understand,” Luce answered.
+
+Pal said, “So do I.”
+
+Leonie looked at Pal. “Bring him home if he cannot bring himself.”
+
+The old request entered through affection exactly where command used to live.
+
+“No,” Pal said.
+
+Leonie closed her eyes.
+
+“All right,” she said.
+
+The family call ended without anyone withdrawing love or claims.
+
 At the end, Luce authorized a removable cradle that cost more than the original domestic body, required ugly structural clearances, and weakened the trust’s argument only slightly.
 
 “There was a cheaper integration,” Pal said after everyone left.
@@ -880,6 +972,58 @@ Sable smiled. “That is surprisingly enhancement-liberal of you.”
 
 They signed.
 
+The principal crew did not fill the ship.
+
+Fifteen support positions remained across Deck, Plant, Watch, boarding, medicine, logistics, and domestic work. Luce proposed advertising them as shares in an adventure. Tess replaced the advertisement with wages, hazard bands, remittance dates, augmentation maintenance, expected launch cycles, and a paragraph describing the captain's experience as `extensive nonprofessional preparation`.
+
+“That sounds insulting,” Luce said.
+
+“It sounds employable.”
+
+Dena Vey interviewed the deck cell herself. She asked candidates to recover a damaged drone from a simulator whose automation failed in a different way each run. One candidate solved every failure and reached across another worker's local stop twice. Dena rejected them. Another took too long, preserved the stop, and wrote a fault report that named uncertainty. Dena hired them.
+
+Rin Adao brought her own atmosphere instrument to the interview and checked the contract room before sitting down.
+
+“The wall says nominal,” Samira said.
+
+“Walls say what owners buy them to say.”
+
+Her gauge agreed with the wall.
+
+“Then why carry it?” Luce asked.
+
+“So agreement means something.”
+
+She joined Watch and Plant with authority over atmosphere truth, a remittance to her mother, and a refusal to let Pal's integrated model become the only record of air.
+
+Soren Ilyev had two replacement fingers, excellent feed timing, and a partner retraining after automation removed their prior work. He read Jo's modest magazine plan and asked how often an all-hands recovery would pull him from feed duty.
+
+“Rarely,” Luce said.
+
+Samira said, “We do not know.”
+
+Soren signed Samira's answer.
+
+The remaining workers arrived through the same unromantic process. A medic wanted species-care stock before accepting Corvid patients. A boarding worker refused any prize share derived from passenger medicine. A logistics watchkeeper required food reserve to remain senior to replacement ammunition. Two candidates declined after seeing the proposed mission profile. Their refusal stayed in the hiring record rather than becoming evidence that they lacked courage.
+
+Every other regular crew member carried some augmentation: common radiation repair, retinal overlays, timing correction, replacement joints, interface ports, dermis patches, medical regulators, or cognition support. The upgrades differed in quality and politics. All required something: calibration, consumables, licensed medicine, clean power, specialist care, or a person who knew how to keep an old standard alive.
+
+Mara alone arrived deliberately baseline.
+
+She watched the medical inventory grow around bodies she believed had been made dependent by a class system and bodies she still struggled to recognize without qualification. Her grievance made the budget sharper. Her prejudice made the ship more dangerous.
+
+Edda put both facts in the risk record.
+
+“You wrote `ideological casualty pathway`,” Mara said.
+
+“Yes.”
+
+“That's not medical language.”
+
+“It became medical when you joined my ship.”
+
+Mara signed the acknowledgement and no statement of reform.
+
 The Twelvefold did not interview.
 
 Two ravens appeared in the contract room. One answered to Huginn and objected to the network-intrusion indemnity. The other answered to Muninn and objected to Samira asking whether the first represented all twelve.
@@ -928,7 +1072,49 @@ Samira looked through the glass at the bare hull spine.
 
 Fourteen months passed between the signatures and the cradle.
 
+Varo Tern opened the build by telling Luce that the yard was not a wish with welders. Nadi al-Khatib put every exposed package to worker vote.
+
 Tern Undertow built the ship through yard elections, union stops, provenance delays, two rejected cooling manifolds, and Luce's discovery that paying labor promptly did not make labor agree with him. Wages and remittances released from escrow while the crew trained in borrowed compartments. Dena halted three deck trials. Rin failed the atmosphere plant twice on instruments the yard did not own. Pal's extraction team carried the inert shell until nobody mistook the handles for a plan. By commissioning, preparation had cost enough time and money to feel like proof.
+
+Training made the articles physical.
+
+Samira ran evacuation drills in a rented cylinder whose boat hatches were chalk marks on the wall. The first attempt counted the Twelvefold as one liaison unit and finished twenty-two seconds early.
+
+“Again,” she said.
+
+The contractor protested that twelve opaque rescue tags complicated the software.
+
+“Good.”
+
+The second attempt counted twelve bodies and left Pal's weighted practice shell in the cradle because four human carriers reached the wrong side of a simulated fire.
+
+“Again,” Edda said.
+
+Luce asked whether the scenario was realistic.
+
+Samira handed him one carry position.
+
+By the sixth drill, the crew moved biological casualties by urgency, Pal by consented extraction, and twelve Corvid people through routes that did not collapse them into two role-names. They missed the contractor's target time and met Edda's survival time.
+
+Dena's deck trials failed for better reasons. A throat sensor passed automation and could not be reached in gloves. A capture rail recovered four perfect Courtesy models and jammed on the first damaged one. The yard offered software patches. Dena demanded access, physical halt, and another trial.
+
+Rin failed the atmosphere plant when its integrated gauges agreed beautifully with one another and disagreed with her instrument by enough to matter after six hours of hidden operation. Pal traced the error to a shared calibration ancestor.
+
+“Your gauge could be wrong,” Luce said.
+
+“Yes,” Rin answered. “That is why we compare owners.”
+
+The second manifold was rejected after Undertow workers discovered its patent service path would require a clean Orsino key during combat damage. The third was uglier, locally repairable, and six weeks late.
+
+Luce paid each delay. What he could not buy was the right to call delay unnecessary.
+
+On the final evacuation drill, he stood at the simulated boat and watched Edda send a support worker ahead of Pal's practice shell because the worker's air was lower. Pal had written the sequence. Luce's hands still moved toward the shell.
+
+He stopped them.
+
+Nobody congratulated him.
+
+The drill continued.
 
 ## Chapter 3: A Larger House
 
@@ -1165,6 +1351,70 @@ Luce put the catered food on the counter.
 Nobody refused it. Nobody treated it as lunch.
 
 Pal watched Luce eat one of the burnt cakes while standing because all the chairs were occupied.
+
+The meal ended by department rather than appetite.
+
+Dena took her technicians back to the drone bay. Rin remained under the galley counter until the particulate history belonged to her instruments. Soren wrapped the uncooked grain cakes for the next watch and labeled them with a date, an allergen state, and the Corvid poem for something that had been improved by surviving a fire.
+
+Pal followed all three through the ship.
+
+Dena's three-person cell divided launch, capture, fuel, cooling, and damaged recovery between bodies that could not be in two places at once. One technician had dependants on Ganymede. The other sent half their wage to a parent whose housing contract prohibited pirate income and therefore received the remittance through Tess's least elegant legal fiction. Dena herself had no children and three former deck crews who still asked whether a new captain listened before or after somebody lost a hand.
+
+She recorded the crooked halt mark and sent it to all three.
+
+**BEFORE**, she wrote.
+
+One answered: **FIRST WEEK.**
+
+Dena did not argue.
+
+Rin mounted an independent carbon gauge in the common room because atmosphere readings mattered where people gathered, not where the designer had left diagnostic space. Her mother called during installation and asked to see the ship. Rin showed her the gauge, the accessible filter panel, and the route to both boats. She did not show the forward gallery.
+
+“Pretty?” her mother asked.
+
+“Expensive.”
+
+“That was not my question.”
+
+Rin turned the camera toward Callisto through the real window.
+
+“Pretty,” she admitted.
+
+Soren spent his first wage credit on his partner's automation retraining before buying anything for his cabin. The transaction failed because the account classified combat shares as speculative. Tess rebuilt the remittance as protected wage while he waited in her doorway.
+
+“Does this make it clean?” he asked.
+
+“It makes it arrive.”
+
+“Good enough for tonight.”
+
+He returned to the ammunition feed and found a raven replacing his labels with poems.
+
+Across the other cells, a medic calibrated species-care stock, a boarder marked a passenger-medicine refusal, and Bani argued food reserve ahead of replacement ammunition. Pal could track each body, contract, and route home. Tracking did not mean owning.
+
+At twenty-one hundred, Luce asked for a commissioning status.
+
+Pal gave him the open faults, delayed remittances, department refusals, and one line saying lunch had occurred.
+
+“Morale?” he asked.
+
+“Not a ship state.”
+
+“It is absolutely a ship state.”
+
+“Then it has multiple local owners.”
+
+He looked through the common room at people still working inside the vessel he had purchased.
+
+“How do I ask?”
+
+“Individually,” Pal said.
+
+Luce spent the evening doing that. Several people told him they were tired. One said the ship was excellent. One said the wage had cleared. Dena said the halt existed but had not yet survived a disagreement. Rin said atmosphere was good and the supplied gauges were decorative. Soren said the grain cakes remained a threat.
+
+Luce received no summary.
+
+The ship did.
 
 In the drone bay, Dena's physical halt waited under its crooked grease-pencil line. In the galley, a particulate sensor now belonged to Rin in every way that mattered except title.
 
@@ -2016,8 +2266,6 @@ Sable's gaze shifted to the empty chair Dena usually used.
 
 “Then I misunderstood the captaincy.”
 
-It was not an apology.
-
 
 ## Chapter 6: Service Interval
 
@@ -2507,6 +2755,16 @@ This was accurate enough to hurt.
 
 Wake-Without-Seal reduced their corridor confidence. The Navigator ledger noted an unnecessary stealth exposure. Yun Tal met the delivery milestone.
 
+Choir-Speaker Nacre-in-Current authenticated the finding from a water-supported station at the Corridor Court. Their translated voice arrived beneath the faint clicks of an embodied language the channel could not fully carry.
+
+“Rescue conduct remains credible,” Nacre said. “Preventable exposure remains preventable.”
+
+“Those findings pull opposite,” Samira said.
+
+“Only if rescue is absolution.”
+
+Nacre reduced access one level and preserved the certificate that would later keep personnel passage ahead of claims. The same institution constrained and protected them without becoming consistent for their convenience.
+
 Samira's former Navigator contact called before the review.
 
 Paz Orri appeared on the private display in a rescue-station uniform, hair still damp from a shift wash.
@@ -2588,6 +2846,64 @@ For a moment she thought he would revise the sentence until it became a shared d
 He read the record instead.
 
 Then he signed her account without amendment.
+
+Cooling took another nine hours.
+
+The radiators opened wide enough to make Hull One unmistakable across the local traffic net. Deep Quiet ended not with a reveal but with a long public confession of stored heat. Systems returned in order of bodily need rather than tactical prestige. Atmosphere circulation first. Clinic processing. Galley refrigeration. Private cabin cooling. Sable's deferred cognition load came after Edda cleared the coolant margin.
+
+People slept badly through the transition.
+
+Soren woke twice convinced he had missed a feed confirmation. Rin developed a pressure headache and refused medication until her independent gauge agreed the clinic air was clean. One raven remained inside a dark cache volume after ordinary access resumed and communicated only that retrieval was not requested.
+
+Samira walked the habitation drum while it spun back toward gravity. Cups settled. Loose hair and clothing learned downward again. The common room smelled of thirty-five bodies, overheated insulation, pepper from Jo's emergency meal, and the sharp clean air of filters working above ordinary load.
+
+Luce followed at a distance.
+
+At the dining table, Dena had placed the repair queue beside a bowl of cold food. She was not injured this time. Her technicians still had to inspect every recovery throat because extended quiet had let thermal gradients settle where the acceptance model did not expect them.
+
+“No launch damage,” Luce said.
+
+Dena looked up. “We did not launch.”
+
+He caught the sentence before it became praise for avoiding work.
+
+“How long?”
+
+“Two shifts.”
+
+“Understood.”
+
+In the galley, Pal restored ordinary food allocation. The system offered Luce tea before he asked. Pal cancelled the action.
+
+“Did the machine fail?” he asked.
+
+“No.”
+
+“Then why—”
+
+He stopped. Made the tea himself. It was worse than Pal's.
+
+Samira watched him drink it.
+
+“Paz invited me back,” she said.
+
+His hand tightened around the cup. “Are you taking it?”
+
+“I have not decided.”
+
+He began to explain why the campaign needed her, then looked at the signed review account still open on the table.
+
+“When do you decide?” he asked instead.
+
+“When the offer or I become different.”
+
+“That is not a date.”
+
+“No.”
+
+He nodded with visible difficulty.
+
+The ship cooled around them, bright enough for every observer to know exactly where it was.
 
 Samira had expected satisfaction.
 
@@ -2861,7 +3177,47 @@ Kavi's evidence reached the Navigator channels three days later. It described th
 
 Neither fact cancelled the other.
 
+### POV: Nela Osset
+
+The passengers did not experience the event as doctrine.
+
+Cabin fourteen's oxygen reserve recovered after the Remorae withdrew. The old man behind the mask, Nela Osset's uncle by care bond rather than blood, spent six hours in a station clinic while the tender owner argued that the emergency reserve had remained technically above the contracted minimum. The clinic billed the owner, the passenger association, and the pirates' casualty bond in that order. All three disputed priority.
+
+Nela collected testimony before anyone could reduce the passengers to the graph that had saved them.
+
+One had slept through the boarding alarm under medication and woke to discover that three armed groups had made decisions around their body. One had helped Kavi hold a manual valve and resented being called helpless in the first news account. Two believed the pirates had prevented the owners from clearing quarantine safeguards. Another believed the pirates had created the emergency and received too much credit for stopping.
+
+Their accounts disagreed without becoming disposable.
+
+Kavi returned to work because the tender still needed the systems knowledge that made them dangerous to fire. The employer removed network privileges, assigned a human supervisor without engineering certification, and required every maintenance act to be witnessed. The care bond termination made Kavi's incorporated regulators a personal expense at the same moment the restrictions made outside work impossible.
+
+For four days Kavi maintained life support through local panels while their own interface medicine rationed itself.
+
+Nela brought food during the second shift.
+
+“You can leave with the next passenger transfer,” she said.
+
+“And the regulators?”
+
+“The association can carry three weeks.”
+
+“Then what?”
+
+“We become more persuasive.”
+
+Kavi laughed, then stopped because the regulator disliked it.
+
+They chose transfer after the tender reached a neutral berth. The choice did not vindicate Mara's earlier offer. It existed because passengers had assembled medicine, testimony, and somewhere to go without putting Kavi under pirate custody.
+
+The employer filed abandonment and interface-title claims. Nela filed retaliation. Kavi published the dependency graph with sensitive passenger paths removed and retained authorship over the redactions.
+
+Across local networks, the graph became evidence for incompatible arguments. Capture crews used it to demand smarter Remorae. Passenger associations used it to demand subsystem dependency disclosure. Insurers used it to raise premiums on coupled tenders. Owners used the premium increase to justify fewer occupied refuge cabins.
+
+One precise act made the world more legible and did not make it agree.
+
 Tess closed the prize file with zero realizable capture and a page of contingent claims.
+
+### POV: Mara Kest
 
 Kavi sent Mara a copy of the testimony.
 
@@ -2884,6 +3240,32 @@ Deleted.
 Deleted.
 
 She closed the channel without answering.
+
+Three days later, Kavi sent a second packet.
+
+It contained no message either. Inside was the redacted public dependency graph and a correction to Mara's incident report. Mara had written that cabin fourteen's oxygen fell when the quarantine door was tested. Kavi's local record showed the loss began forty milliseconds earlier, when the Remora queried authority and the tender's owner system preemptively shifted reserve away from passengers to preserve command continuity.
+
+The chassis had not taken the oxygen.
+
+Its presence had triggered an owner policy that did.
+
+Mara opened the boarding report. The difference did not absolve the attack. It changed where violence had been stored before anyone arrived.
+
+She amended the record under Kavi's authorship and sent the correction to Sable, Pal, Edda, the junior boarder, and Tess.
+
+The boarder replied first.
+
+**So the owners did it.**
+
+Mara wrote:
+
+**The owners wrote the policy. We activated the condition. Kavi kept people alive. Do not simplify this because you want your anger back.**
+
+She read the sentence twice. It sounded like somebody she would once have hated.
+
+She sent it anyway.
+
+Kavi acknowledged the corrected record and nothing else.
 
 The next shift, the junior boarder arrived at the armory to find his access reduced pending review.
 

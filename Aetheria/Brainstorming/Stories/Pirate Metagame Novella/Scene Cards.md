@@ -961,7 +961,9 @@ Fields:
 - **Delta:** Rhyne orders local separation, names dispersal/remote-quorum counter, and preserves Halcyon competence. Hull Four survives.
 - **Obligation:** Metagame remains unsolved.
 
-#### 27.7 One Berth
+### Chapter 28: Present
+
+#### 28.1 One Berth
 
 - **POV:** Pal.
 - **Drive:** Inhabit the aftermath without converting one chosen operation into permanence.

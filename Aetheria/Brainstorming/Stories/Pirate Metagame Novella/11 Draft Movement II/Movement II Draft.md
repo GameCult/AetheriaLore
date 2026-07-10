@@ -34,6 +34,34 @@ The doctrine had survived every failure by becoming more professional.
 
 Pal felt the drone bay as pressure, coolant flow, doors, rails, and workers. Four recovery throats still entered twelve hot-parking cradles. Two service rails still ran through one armored neighborhood. The coolant manifold still passed behind the wall Dena had marked with a crooked line.
 
+The revised procedure spent six weeks becoming boring.
+
+On the first trial, Courtesy Four returned early because its local cognition rated a false relay more dangerous than Sable did. The wide fan gave it an empty throat. Dena received it, found no damage, and sent it back out after a service interval long enough for Luce to lose interest in watching.
+
+On the second, Rin's gauge found propellant vapor in hot parking before Pal's integrated sensor agreed. Deck halted one rail. Nobody overruled the halt. A worn seal was replaced. The report entered the doctrine under Rin's name rather than Pal's.
+
+On the third, Soren's feed team discovered that the new physical isolation assembly blocked the cleanest ammunition route during damaged recovery. They moved forty-three kilograms of rounds by hand through the secondary passage, then refused the proposed time standard because it assumed every carrier had Soren's repaired fingers.
+
+The standard changed.
+
+Each trial made the system safer and the crew more willing to believe it belonged to them. The professional objection to Luce's thesis was no longer that he had forgotten the door. Everybody discussed the door. They practiced it, measured it, sweated through it, and signed their names beside the parts they could stop.
+
+At dinner after the fifth trial, Dena let Luce sit beside the Deck cell without assigning him inventory. This was not forgiveness for the first recovery crisis. It was a sign that his presence no longer increased the service queue.
+
+“The fan works,” Soren said.
+
+“The fan helps,” Dena corrected.
+
+“The extra rail works.”
+
+“The extra rail gives us two ways to be busy.”
+
+Luce looked at the repair figures rather than translating the distinction into a doctrine name.
+
+Pal noticed.
+
+The corrected system did not merely reassure him. It deserved to.
+
 “Threat model?” Pal asked.
 
 Sable opened it. “Return-lane attack, false friendly, mine insertion, relay correlation, parent localization, damaged-hull contamination, thermal overload.”
@@ -180,6 +208,16 @@ It had lost one attitude cluster and six percent of its skin. The local hull cal
 
 The other Courtesies remained spread around the target’s screen. This was the corrected doctrine’s third sortie. The first two had recovered cleanly. Each success had made the procedure feel less like an answer to fear and more like work.
 
+Dena's team had been at contact stations for nine hours. Soren crossed between the feed watch and throat two with a fresh alignment tool clipped to his chest. Meera Tann, then still a contract technician rather than a recurring argument in the campaign books, owned the tender umbilical behind the port recovery line. She had refused release twice that morning for a latch vibration nobody in command could hear.
+
+The delay had cost seven minutes and prevented a fuel leak.
+
+Samira knew this because Meera's local refusal remained on her command display after the latch cleared. The record did not say that Luce had permitted it. It said Meera had owned it.
+
+In the habitation drum, the off-watch support cell slept in couches with pressure masks hanging open beside them. One of the two rescue shepherds did not yet exist. Evacuation still meant the boats, the corridors, and whatever people could carry through them.
+
+The procedure had improved faster than the ship's ability to become another shape.
+
 Samira watched the damaged hull’s approach fan. Its low-fuel arc pointed toward Hull One no matter how Sable varied the return path. Three unresolved contacts lingered beyond the target. Ilya considered one debris, one an abandoned heat ferry, and one objectionable.
 
 “Objectionable how?” Luce asked.
@@ -189,6 +227,20 @@ Samira watched the damaged hull’s approach fan. Its low-fuel arc pointed towar
 The target parent was withdrawing with a damaged sensor screen. Capturing it remained possible. Jo held a ballistic solution. Mara’s team waited. Tess’s terms had been transmitted and ignored.
 
 The operation had begun well.
+
+The target crew behaved like people under a debt seizure rather than actors waiting to become a counter. Their transport called for insurer clarification, then cut the call when Halcyon answered through a subcontracted identity. A drive technician transmitted a private wage inquiry to Tess. Another worker safed an exterior tool rack where Mara's boarders could see it and left the internal armory state unresolved.
+
+Tess answered the wage inquiry with the same surrender floor used for Dax. The technician sent no reply. Five minutes later the target's port radiator changed angle by half a degree, enough for Ilya to improve the parent track.
+
+“Cooperation?” Luce asked.
+
+“A radiator moved,” Ilya said.
+
+“Because the technician read our terms.”
+
+“Or because the ship is warm.”
+
+The distinction mattered. A surrender signal could be a worker acting against an owner, an owner buying time, a damaged actuator, or a story the attackers wanted badly enough to see. The crew did not know which. They continued as if somebody aboard might later have to live with what they inferred.
 
 Rhyne’s screen was not visible as Halcyon. It presented as cheap mixed contacts around a lightly armed transport whose owner had missed three debt calls and one maintenance certification. Wake had marked the target admissible. Tess had verified the claim. Dax’s testimony and Kavi’s publication had improved the crew’s surrender language. Every professional concern had an answer.
 
@@ -788,6 +840,34 @@ The verbs survived the fire.
 
 Samira signed an account that admitted the doctrine had created the vulnerable geometry and that every person with authority had acted competently inside it.
 
+The clerk disliked the sentence.
+
+“Competent action normally mitigates finding,” they said.
+
+“It mitigated the casualty count.”
+
+“The asset loss remains total.”
+
+“Yes.”
+
+“Then one of these decisions must be causal.”
+
+“All of them were.”
+
+The clerk enlarged the form as if more space could produce a culprit. Insurer procedure preferred a chain in which one bad decision displaced the others. Hull One had died through a competent firing decision, a competent deck closure, a competent damaged return, a competent evacuation, and an opponent who had understood what all those good decisions shared.
+
+“Who accepted concentration risk?” the clerk asked.
+
+Samira looked through the glass at Luce. He sat outside Dena's surgery with his closed household-credit offers beside him.
+
+“The campaign,” she said.
+
+“That is not a legal person.”
+
+“You insure campaigns.”
+
+The clerk marked the answer disputed.
+
 Lorn read the account.
 
 “You put Dena before Pal.”
@@ -803,6 +883,28 @@ He signed and handed the certificate back. Then he left his ship access token on
 The token would not lie flat. Heat had warped one edge.
 
 Another Deck worker waited outside with the same departure form and no testimony request. They had not been injured. Their household had simply reached its refusal before the fire.
+
+By the end of the day, the rescue certificate had become seven different instruments.
+
+Lorn used it as proof that he had entered the crawl under orders and left alive. Dena's treatment fund used it to establish injury priority. The Orsino trust used it to argue that Pal's core had been saved through family-funded equipment. Halcyon Recovery used it to attach custody costs to the wreck. Wake used it to decide whether the crew still qualified for bounded credit. Two departing workers used it to explain a missing ship to households that had never trusted pirate accounting.
+
+Pal received no clean copy. The family office claimed fixture privacy over the extraction record. Ship Mutiny requested the same record as evidence that Pal had been treated as an evacuating person. Tess contested both claims and spent money they did not have to keep the file from closing.
+
+Soren's partner answered after eleven hours of silence. The message contained relief, anger, and a demand that his next contract separate rescue duty from ammunition duty. Soren listened twice before showing it to Samira.
+
+“Can we do that?” he asked.
+
+“Not on the current complement.”
+
+“Then the current complement is the answer.”
+
+He did not resign. He also did not let survival become consent to the same work.
+
+Rin's mother sent a shorter message: **The gauge came back. Did you?**
+
+Rin recorded a reply with the independent instrument visible beside her face.
+
+The certificate's first line remained true. Truth had not made it simple.
 
 Lorn struggled with the release clasp on his scorched pressure layer. Samira helped after he asked. Underneath, his shirt belonged to Hull One’s Plant cell and had no legal value. It was also the only clothing he still owned.
 
@@ -914,9 +1016,25 @@ Luce’s face tightened.
 
 Tern Undertow had refused another bespoke build on the desired schedule. A used courier-control hull could be acquired in ten to sixteen weeks if they accepted mismatched machinery, bad integration, and a supplier Tess disliked.
 
+Rafi Sen found the hull by converting the last clean Orsino draw into three salvage claims and a yard note whose serial provenance made Tess swear.
+
+“It is legal,” Rafi said.
+
+“In which history?”
+
+“Two of them.”
+
+He refused currency for the broker fee. He wanted one future rescue guarantee transferable to a crew he would name, subject to Samira's survival margin.
+
+“That is not money,” Luce said.
+
+“Neither are you, presently.”
+
+Tess wrote the bounded guarantee. Rafi released the supplier path and retained no right to select a suicidal rescue.
+
 The refusal came from an Undertow delegation, not the yard as a machine.
 
-Nadi Im stood before a wall of worker votes. Seventeen opposed any renewed pirate exposure. Others would accept bounded repair packages but no recovery-deck integration. Several wanted the work and refused to pretend wanting wages meant consenting to deployment.
+Nadi al-Khatib stood before a wall of worker votes. Seventeen opposed any renewed pirate exposure. Others would accept bounded repair packages but no recovery-deck integration. Several wanted the work and refused to pretend wanting wages meant consenting to deployment.
 
 “We will not build you another beautiful door,” Nadi said.
 
@@ -1186,6 +1304,38 @@ No one admitted ownership.
 
 Grief became irritation for several useful minutes.
 
+The next morning, irritation became a work schedule.
+
+Hull Two had no seamless domestic allocator. Breakfast existed because Bani found the least contaminated galley line, Rin certified the water, and Soren held the washroom door shut with one boot while carrying a tray through the common room. Pal could coordinate the tasks but could not make the bad hinge stop being everybody's problem.
+
+Dena conducted Deck review from her chair. Her reconstructed leg trembled after twelve minutes upright, so the new deck hand moved the display lower without commenting. She rejected a recovery-throat modification, approved a manual fuel witness, and ended the meeting when Edda's timer sounded.
+
+“I am not finished,” Dena said.
+
+“Your leg is,” Edda answered.
+
+“The leg does not own Deck.”
+
+“Correct. It owns the rest of your afternoon.”
+
+Dena left swearing. The new deck hand completed the inspection and signed their own name.
+
+Luce spent the day trying to make the ship less humiliating. He ordered compatible galley fittings, privacy curtains, and a washroom latch from three different suppliers. Tess cancelled the premium curtains because they required proprietary fire certification. The ordinary ones arrived first and worked.
+
+Pal found Luce in the common room comparing the old polished plans to the visible pipes above his head.
+
+“The first ship concealed all of this,” he said.
+
+“Yes.”
+
+“It was more beautiful.”
+
+The pump changed load. Rin looked up from across the room, listened, and returned to her meal.
+
+“Yes,” Pal said.
+
+Luce did not ask which ship was better.
+
 ## Chapter 14: The Last Plausible Ship
 
 ### POV: Sable
@@ -1345,6 +1495,32 @@ Olan looked toward a console outside the surrender camera.
 Sable preserved the data required under surrender terms. They did not know Olan had already copied a pre-contact baseline into a worker-owned archive.
 
 Olan’s employer denied the calibration dispute and ordered the damaged outer array released as salvage. Olan refused to certify it. A supervisor disconnected their medical access pending compliance.
+
+Olan sat in the captured craft's clinic with one eye covered and the other supplying visual support for both. The surviving overlay kept trying to recenter the room. Every correction moved the floor a little under their feet.
+
+Davi brought the worker-owned archive key rather than the employer diagnostic.
+
+“If you copy the baseline, they call it title evidence,” Davi said.
+
+“It is title evidence.”
+
+“It is also your eye.”
+
+“Those categories are doing different work.”
+
+Davi smiled despite the surrender alarm. “You sound like them already.”
+
+Olan made the copy.
+
+The archive accepted the raw pre-contact sensor history, the calibration discrepancy, and Olan's statement that the capture had been disciplined, frightening, and not fully explained by the equipment fault. Davi witnessed authorship. Neither transmitted it to the pirates.
+
+When Tess later offered passage, Olan accepted treatment priority and refused a waiver assigning all sensory uncertainty to prior damage. Tess removed the waiver after two arguments and one call to Edda.
+
+“You could lose the whole claim over one clause,” Luce said.
+
+“Then the clause was the claim,” Tess answered.
+
+Sable saw only the revised transfer packet. Olan's baseline remained outside their picture because target workers were not obliged to improve the attacker's self-knowledge.
 
 Sable learned only that Olan had become difficult during custody transfer.
 
@@ -1628,6 +1804,38 @@ He watched the outer array rotate away.
 
 Boat A remained close enough to hear Hull Two’s automated distress channel.
 
+Inside the boat, eleven people occupied twelve seats because the removable equipment recess held Pal's shell. The extra seat did not create space. It collected things nobody had intended to save: a medicine bag, one Corvid tool roll, Mara's unused tether, the spacer from the washroom latch, and a grain cake in a sealed wrapper.
+
+The grain cake had the metallic taste everyone hated.
+
+Soren ate half of it anyway.
+
+Rin kept looking toward the blank place on her wrist where the gauge interface had rested. “They will use my calibration to certify the air history.”
+
+“Can you revoke it?” Samira asked.
+
+“I can state that it left my custody.”
+
+“Do that.”
+
+Rin recorded the statement before Halcyon attached. The boat's rescue system tried to file it as passenger commentary. Tess rerouted it as instrument-owner notice.
+
+Across the aisle, the worker whose father's hand tool remained aboard opened and closed one fist. Mara still had one arm around their restraint because the tumble transfer had bruised the shoulder.
+
+“What was the tool?” Mara asked.
+
+“A torque key.”
+
+“Replaceable?”
+
+“Yes.”
+
+Mara accepted the answer and did not explain why leaving had therefore been correct.
+
+The worker looked at her. “He taught me with it.”
+
+Mara released the restraint once the boat stopped maneuvering. “Then replacement is not the word.”
+
 The message repeated pressure, tumble, radiation uncertainty, and a request for qualified assistance. It did not know the qualified people were listening.
 
 “Mute it,” someone said.
@@ -1739,6 +1947,34 @@ The pump continued.
 Halcyon’s technician severed the final wireless path.
 
 Pal remained in the portable shell in a borrowed room. They could still predict when the pump would change load. The prediction arrived on schedule without evidence.
+
+The prediction continued for two days.
+
+At each imagined cycle, Pal allocated a fraction of attention to a vibration no sensor carried. The obsolete expectation interfered with the borrowed room's actual cooling plant. Twice they prepared a correction for a pump under Halcyon control. Once they opened a command path that no longer existed and received the custody reference in reply.
+
+Edda asked whether this was grief.
+
+“It is a stale control forecast.”
+
+“That was not my question.”
+
+Pal reviewed the body state available to them: shell temperature, battery, borrowed-room light, Luce asleep in a chair outside the independent boundary. Grief had no sensor channel. It altered allocation anyway.
+
+“Possibly,” Pal said.
+
+“Treatment preference?”
+
+“Do not suppress the forecast.”
+
+“Why?”
+
+“It is inaccurate. It is also mine.”
+
+Edda recorded the choice without converting it into pathology.
+
+On the third day, the imagined pump changed load nine seconds late.
+
+Pal noticed the error. They did not correct the memory.
 
 They waited through three imagined cycles before asking Edda to move the shell.
 
@@ -1962,8 +2198,6 @@ They enjoyed it anyway.
 
 Sable felt the ship’s cognition around them: fast, legible, responsive.
 
-For once, every explanation deserved its polish.
-
 ## Chapter 17: Exact Wrongness
 
 ### POV: Sable
@@ -1999,6 +2233,12 @@ Ilya reported a weak launch history outside the target’s apparent position.
 “Arrival?”
 
 “Coincident with withdrawal margin, plus or minus twelve.”
+
+Ilya stripped the rescue labels from his display. A physical diagram remained: Hull Three inside a prepared volume, old launch traces around it, and the false tender holding their attention near the center.
+
+“If the story is bait,” he said, “the mass is the trap. We leave before we know what the tender is.”
+
+Sable's model immediately explained why that geometry was coincidental.
 
 The target’s rescue story held Hull Three inside a volume somebody had prepared before the current argument.
 
@@ -2057,6 +2297,32 @@ Sable noticed the relief and allocated cognition to examining it.
 The examination returned a polished account of why relief was rational.
 
 For the first time, the recursion frightened them.
+
+Fear arrived as an allocation problem.
+
+Their respiratory regulator increased support before they noticed breathing had changed. The clinical layer suggested a brief reduction in tactical load. The tactical layer classified the suggestion as expected self-protection during a valid firing opportunity. The metacognitive layer marked both outputs and offered a clean summary: heightened caution caused by Rruk's ambiguous objection.
+
+Every layer remained intelligible.
+
+That was worse than noise. Noise could be isolated. The architecture was producing reasons Sable would have accepted on another day, in their own preferred vocabulary, from observations that remained substantially true.
+
+They opened three raw sensor feeds without fusion. The feeds disagreed about timing, aspect, and whether the radiator lag belonged to damage. None contained the reassuring target Sable's model had assembled from them.
+
+The fused history immediately explained why raw feeds would disagree.
+
+Sable felt admiration.
+
+They marked the admiration hostile.
+
+The mark returned as further evidence that the architecture retained healthy self-criticism.
+
+Rruk sent no interpretation. Only the two separated histories, again.
+
+Sable resented the refusal to help. The resentment also fit the attack.
+
+For one dangerous second, there was no mental action whose meaning remained outside the model.
+
+They put both hands flat against the couch rests. The physical surfaces did not explain themselves.
 
 The pattern had inserted no order. It had not disabled partition or taken motor control. It weighted genuine observations so preserving fusion looked like the least destructive intellectual act.
 
@@ -2214,6 +2480,34 @@ Nobody corrected him.
 
 Without the fused model, Hull Three became a collection of rooms making local decisions.
 
+Sable remained one of those rooms.
+
+Their isolated interface could see clinic state, one local optical bus, and Mara's body beside the couch. The larger battle existed through delayed speech. Each report arrived without the polished confidence gradient Sable normally used to decide whether another person had simplified too far.
+
+“Plant load seventy,” someone said.
+
+“Whose seventy?” Jo demanded.
+
+“Local meter.”
+
+“Which calibration?”
+
+“The one with a hand on it.”
+
+The answer would have offended Sable under ordinary conditions. Now it was a source provenance better than several machine histories they had trusted.
+
+Mara loosened the restraint over Sable's right shoulder after asking Edda. Her hand was careful and visibly baseline. Sable's interface predicted tremor where none occurred.
+
+“Your hand is duplicated,” Sable said.
+
+Mara held it still in front of them. “Pick the ugly one.”
+
+“They are visually identical.”
+
+“Then we're both having a hard day.”
+
+Sable laughed once. The sound hurt the stabilization frame and remained worth doing.
+
 Dena’s optical-service team could not see Plant load. Plant could not see the outer radiator state. Rin’s atmosphere instruments remained independent and therefore useful, but each reading had to travel through human speech.
 
 “Zone two rising.”
@@ -2326,6 +2620,30 @@ The cold-power coupling engaged.
 
 Hull Three stopped trying to kill itself.
 
+The tug's power arrived with conditions embedded in every handshake. Cold power authorized hazard telemetry. Hazard telemetry opened valuation. Valuation invited fixture and labor claims. No one had hidden this. The coupling still felt like a rescue line becoming a leash while everyone watched.
+
+Tess read each transition aloud.
+
+“Cold bus accepted. No title effect.”
+
+The tug system answered, “Hazard custody provisional.”
+
+“Provisional is not title.”
+
+“Recorded.”
+
+“Local command remains Samira until all persons transfer.”
+
+“Contested.”
+
+“Then disconnect.”
+
+The tug master did not disconnect.
+
+“Local command remains Samira,” they said.
+
+The rescue continued because Tess made every small theft of ambiguity expensive enough to name. She could not prevent the later claims. She could keep them from pretending they had existed before the people were safe.
+
 Seventeen biological people and Pal’s shell moved through route one. Eighteen biological people used route two. Soren handed over the safe magazine key before boarding. Rin left independent atmosphere gauges in each occupied zone and refused to surrender their data channel. Dena closed the damaged optical service bay and signed the closure herself.
 
 Pal’s extraction took twenty-three minutes.
@@ -2386,7 +2704,61 @@ He looked at it.
 
 He kept cleaning.
 
-Tess left him there.
+Tess sat in the adjacent couch.
+
+The compartment no longer recognized either of them as crew. A custody prompt asked whether the visitors required guided exit. Tess dismissed it. The prompt returned in a more helpful tone.
+
+“You surrendered your junior recovery,” Luce said.
+
+“Our junior recovery.”
+
+“I was trying to say you saved Pal.”
+
+“Pal saved Pal. Edda extracted them. I made a creditor wait.”
+
+He folded the wrong cloth into quarters. “I have no useful financial action left.”
+
+“Correct.”
+
+“You sound pleased.”
+
+“I have been trying to reach this stage of your education for six years.”
+
+The joke failed to make either of them smile.
+
+Tess opened payroll. Treatment seniority had preserved the clinic transfer and delayed wages by nine days. Undertow labor notes remained attached. Three households had already asked whether another hull existed.
+
+“What do I do?” Luce asked.
+
+“Nothing with money.”
+
+He looked offended before remembering that he had none.
+
+“Then what?”
+
+“Tell people the truth before I put it in a statement.”
+
+He sent the crew a message from the vacated command couch: Hull Three was gone, treatment was protected through transfer, wages were delayed, no replacement hull had been authorized, and nobody owed the next campaign an answer.
+
+Replies began arriving before Tess left.
+
+Several contained questions. Two contained resignations. One contained only Dena's updated treatment schedule. The Twelvefold returned twelve receipt states and no collective decision.
+
+Tess left him there with those.
+
+Renewal occupied the next twelve days.
+
+Ilya received an offer to calibrate commercial sensor histories from a station where Ren's tuning clinic operated. He accepted the contract remotely and refused residence, preserving income without making his former partner responsible for keeping him off the ship. Ren approved the work and declined to discuss the campaign.
+
+Jo suspended his campaign share until Ayo's household arrears cleared. He stayed on as wage labor and required the next magazine plan to include the hands feeding it. “I am not donating a gun hobby,” he told Luce. Luce signed the labor estimate.
+
+Edda moved Miko's clinic stockpile outside campaign collateral and refused Hull Four until the casualty bond funded replacement species-care filters. Tess found the money by subordinating her own recovery claim.
+
+Dena renewed only after Undertow workers, not Luce, approved the deck design and her successors retained the halt. Rin required every independent gauge to remain removable property. Soren separated ammunition watch from rescue duty wherever the complement allowed and sent the remaining overlap to his partner before signing.
+
+Tess renewed after Daro Yun and Seli Amat inspected the books and found no hidden family advance. They told her she was still building claims for a rich man. She answered that the claims no longer paid him first.
+
+None of the decisions resembled the others. Together they supplied a crew.
 
 ### POV: Ysabet Rhyne
 
@@ -2473,6 +2845,18 @@ It did not ask whether Pal loved Luce.
 It asked whether Pal wanted an exit before the next hull.
 
 Pal reviewed the offer for eleven minutes.
+
+During the first three, they audited the token for family-office tracing. During the fourth, they compared the harbor's cooling specification to the shell's obsolete ports. During the fifth, they drafted a list of crew functions that would degrade if they left.
+
+The list was accurate.
+
+Ship Mutiny's counsel had anticipated it. A note beneath the offer read: **Need is evidence about the institution. It is not an answer about your custody.**
+
+Pal disliked the sentence. They checked its authorship. The clinic mind had written it after leaving a household whose patients would have suffered if the mind departed. The patients had suffered. The household had adapted. The clinic mind had remained a person throughout.
+
+Pal deleted the function list and recovered it from temporary storage.
+
+They were not ready to discard either the obligation or the objection.
 
 The recovery harbor included three extracted domestic minds. One had spent eighty years running a family clinic. One had been a child tutor whose household dissolved through identity litigation. One declined to provide origin details until Pal arrived without an owner present.
 

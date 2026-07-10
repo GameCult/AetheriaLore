@@ -100,6 +100,8 @@
 | D-094 | Accept the final victory only after Rhyne's relay shot, insurer standing, and pre-existing worker commit authority are visible in prose. | Accepted | The climax follows available competent choices; Remorae preserve decision space rather than manufacturing consent. |
 | D-095 | Make Samira explicitly decline the Ganymede command before departure. | Accepted | Attachment must be an affirmative costly choice, not an offer the architecture allows to expire off-page. |
 | D-096 | Treat Movement III as a complete 10.8k causal draft with a mandatory Pass 13 expansion gate. | Accepted | The full manuscript remains below 50k; revision must add lived consequence and breathing room before promotion. |
+| D-097 | Split the final aftermath from Chapter 27 into Chapter 28, `Present`. | Accepted | The tactical and political climax now lands before Pal's ordinary voluntary presence, Meera's departure, and the damaged-pump epilogue. |
+| D-098 | Accept 50,000-60,000 manuscript words as the promotion range without padding toward the 58,900 planning target. | Accepted | Reader value, causal clarity, and lived consequence govern revision length. |
 
 ## Supersession Rule
 

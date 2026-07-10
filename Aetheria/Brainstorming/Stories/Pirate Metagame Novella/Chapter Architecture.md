@@ -1,6 +1,6 @@
 # Chapter Architecture
 
-The novella targets **58,900 words** across twenty-seven chapters and three movements. Every chapter or break section displays `POV: <name>`. Close third never transfers knowledge across sections.
+The revised novella contains **28 chapters** across three movements. Every chapter or break section displays `POV: <name>`. Close third never transfers knowledge across sections.
 
 The architecture uses [[07 Character Causality Replay/Audience Visibility And Comedy Ledger]] as a hard exposure budget. Sideband state remains richer than the manuscript.
 
@@ -60,7 +60,8 @@ The architecture uses [[07 Character Causality Replay/Audience Visibility And Co
 | 24 | **The Option** — `POV: Pal` | 1,800 | Pal actually leaves for an attractive neutral harbor, tests a noncombat body and other extracted domestic minds, then returns under a one-operation bailment with boundaries Luce dislikes | Return becomes a mixed, revocable choice rather than proof of pure affection | Custody and embodiment only |
 | 25 | **The Honest Accounting** — `POV: Luce` | 2,400 | Incompatible claimants nearly collapse the operation; Meera exercises release authority; Samira's outside command offer expires; Luce gives up his recovery priority and chooses a continuity freeze | Coalition becomes costly action, not consensus; chapter ends on immediate departure before the window closes | Objective definition and deadline |
 | 26 | **What Can Be Preserved** — `POV: Sable` | 2,500 | Meera's thermal veto delays launch; worker-issued tokens earn bounded ingress; Remorae leave external relay cradles, partition early, and attach after deception ends | Prior doctrines become bounded tools; workers and contractors retain stop authority | Approach, attachment, cognition partition |
-| 27 | **Common Measure** — `POV: Samira`, then `POV: Pal` | 3,100 | Workers delay for a fresh vote; Mara and Khraa preserve movement; Rhyne splits the title vault; Luce refuses personal title security; casualty consumes rescue attention; quorum freezes continuity; Rhyne names the next counter and disengages | Immediate value clears campaign losses while months of hostile settlement and one title class remain; Pal's chosen presence changes home without solving it | Objective and interruption only |
+| 27 | **Common Measure** — `POV: Samira`, with event sections for `POV: Mara Kest`, `POV: Sable`, and `POV: Samira` | 3,100 | Workers delay for a fresh vote; Mara and Khraa preserve movement; Rhyne splits the title vault; Luce refuses personal title security; casualty consumes rescue attention; quorum freezes continuity; Rhyne names the next counter and disengages | Immediate value clears campaign losses while months of hostile settlement and one title class remain | Objective and interruption only |
+| 28 | **Present** — `POV: Pal` | 1,600 | Pal chooses dinner, one berth, Meera's goodbye, and one bounded maintenance task after the operation and bailment end | Pal chooses present residence rather than future ownership; home becomes voluntary and unfinished | No new tactical concept |
 
 **Final state:** 28.9m SU cash-equivalent minimum value clears the 26.17m SU campaign deficit. Later value remains contested, one title class is unresolved, and Luce remains financially ruined. Hull Four survives. Pal retains independent standing. The crew has won one matchup. Rhyne already knows why it will not work twice.
 
@@ -71,7 +72,9 @@ The architecture uses [[07 Character Causality Replay/Audience Visibility And Co
 | I. Beautiful Answers | 17,500 |
 | II. Things That Cannot Be Replaced | 22,700 |
 | III. The Uses Of An Honest Ship | 18,700 |
-| **Total** | **58,900** |
+| **Planning target** | **58,900** |
+
+Pass 13's revised manuscript contains 50,000-60,000 words; exact accepted counts live in [[13 Adversarial Revision/Pass Report]].
 
 Drafting tolerance is 50,000-60,000. A chapter may move 15 percent without review. Movement totals may move 8 percent if the whole manuscript remains in range. Expansion must come from character action, sensory experience, comedy, or consequence, never from adding a second technical lecture.
 
