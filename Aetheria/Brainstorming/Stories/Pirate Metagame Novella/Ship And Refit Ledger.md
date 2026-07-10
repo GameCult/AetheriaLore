@@ -19,7 +19,7 @@ _The Sum of Our Parts_ is a bespoke 4,850-tonne capture corvette commissioned th
 | Weapons | Two medium capture cannon, twelve PDC mounts, four Remora tubes, drone-carried PDC batteries |
 | Small hulls | 16 recoverable PDC drones, 8 Remorae, 6 passive pickets, 4 relay/illuminator hulls |
 | Protection | Compartmentation, Whipple layers, localized armor, redundant life support; no shields |
-| Evacuation | Two 18-person lifeboats plus four 6-person pressure refuges; every berth has suit access |
+| Evacuation | Two 18-person lifeboats for all biological crew, each with a Pal-shell sled socket; four 6-person pressure refuges provide shelter but not independent propulsion; every berth has suit access |
 
 ### Doctrine of Reversible Superiority
 
@@ -54,6 +54,8 @@ Cheap mixed contacts need not defeat the drones. They can spend the drones' fuel
 | Barrel/ammunition turnaround | Adds 11 minutes after more than 60 bursts |
 | Coolant-limited surge | 8 serviced in 31 minutes, followed by 45-minute deck cooldown |
 | Fuel reserve rule | Recover with 22% maneuver reserve; doctrine initially budgets 12% |
+| Drone heat capacity | 410 MJ usable sink per Courtesy; 96 MJ reserved for recovery capture and safing |
+| Thermal return rule | Nominal return below 68% sink load; emergency capture accepted to 84%; hotter drones must loiter, dump a sink, or be abandoned |
 
 The 12% assumption is Luce's professional-looking error. It raises useful forward time by minutes and removes the margin needed to break away from a threatened recovery lane.
 
@@ -71,7 +73,7 @@ The fifteen support crew are organized as five three-person cells. They are cros
 | Plant | Reactor, thermal plant, structure | Damage control and Pal extraction |
 | Watch | Gunnery, sensors, logistics, galley | Medical response and communications |
 
-Each principal officer stands one of three eight-hour watches or remains on a call rotation. Six support crew are awake in ordinary operations, twelve during contact, and all fifteen during launch/recovery or casualty. Nobody receives a magical substitute expert: loss of a cell member reduces a named process.
+Each principal officer stands one of three eight-hour watches or remains on a call rotation. Six support crew are awake in ordinary operations, twelve during contact, and all fifteen during launch/recovery or casualty. Edda is the only surgeon; one member of each boarding cell and two Watch-cell members hold trauma and augmentation-stabilization certification, while Plant can preserve Pal and damaged embodied systems for later treatment. This is response redundancy, not replacement expertise. Nobody receives a magical substitute expert: loss of a cell member reduces a named process.
 
 ### Habitation
 

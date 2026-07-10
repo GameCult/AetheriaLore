@@ -22,6 +22,7 @@
 - D-017's one-vote clause is superseded by D-023. One cut and two votes are compatible with twelve individual medical, rescue, and consent obligations.
 - Pal's portable operation is no longer unspecified. Bandwidth, cooling, battery, carriers, extraction time, and residual ship authority are fixed.
 - The first hull's excellent integration and fatal service concentration are the same design fact, not a hidden defect added for the plot.
+- Evacuation and recovery arithmetic now distinguishes biological seats, Pal-shell sockets, non-propelled refuges, drone heat capacity, and the specialist limits of medical cross-coverage.
 
 ## State Delta
 

@@ -20,7 +20,7 @@
 | D-014 | Treat the shipmind as a precious relic without equating possession with consent. | Accepted | Preserves the warmth of their bond while keeping its servant-origin power imbalance alive. |
 | D-015 | Use the luxury regatta as the inciting hobby. | Accepted | Places class spectacle, technical enthusiasm, rescue, and automated repossession in one event. |
 | D-016 | Preserve Pal's caretaking habits and family property claim while removing hard obedience. | Accepted | Makes autonomy real but historically and legally compromised. |
-| D-017 | Contract twelve Corvids as the Twelvefold Borrowed Nest for one cut and one vote. | Accepted | Supports collective standing without discounting twelve persons' consent or liability. |
+| D-017 | Contract twelve Corvids as the Twelvefold Borrowed Nest for one cut and one vote. | Superseded by D-023 | The one-cut structure remains; Pass 3 replaces one council vote with two independently mandated votes. |
 | D-018 | Use only rotating Huginn and Muninn codenames in human-facing scenes. | Accepted | Turns face blindness into culture and operational comedy while retaining exact safety state. |
 | D-019 | Make Mara Kest a former purity militant and current baseliner boarding chief. | Accepted | Embeds Movement tension in boarding authority and personhood practice. |
 | D-020 | Make Sable Orison a premium-derived Enhancement Liberal drone coordinator. | Accepted | Keeps autonomy politics materially entangled with privilege and maintenance. |
