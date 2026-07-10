@@ -218,6 +218,8 @@ Cargo-escort sensor officer with calibrated visual cortex support and a habit of
 | **Asha Pell** | Undertow specialist who leaves direct exposure after Hull Three and later offers bounded remote expertise under a pseudonym. |
 | **Lorn Ves** | Undertow Plant worker who leaves after Hull One and returns for Hull Four only after halt authority becomes contractual. |
 | **Mae Corin** | Orsino compliance analyst who discovers contradictory Pal fixture histories and controls whether claimants receive them. |
+| **Rhea Bost** | _Common Measure_ clinical-record custodian with a radiation-damaged left hand. Her local commit hardware predates the attack; she withholds continuity until Olan's full record and the authorization chain affecting her own care enter patient-selected custody. |
+| **Anik Daro** | _Common Measure_ transfer-route custodian whose daughter travels under an enrolled dependent-care guarantee. He rejects pirate-controlled transit, then votes after Samira opens a noncustodial route. |
 
 ## Named Dependants And Witnesses
 

@@ -246,3 +246,5 @@ After Campaign VII, Hull Four holds 41% of its main magazine, 63% of PDC stock, 
 Protected withdrawal and rescue floors are 25% main magazine, 30% PDC stock, and 20% propellant. The final convergence exposes three time-sensitive approach corridors; Jo may deny two while preserving direct defense and those floors. Hot doctrine does not control arbitrary space.
 
 The continuity freeze realizes 28.9m SU in standardized cash-equivalent value, net of overlap, adverse priority, and direct replenishment. It exceeds the 26.17m SU pre-victory campaign deficit. Expected later value of 3.1-6.1m SU remains contested or nontransferable and is excluded from profitability. Pal's fixture class and Hull Four's clean title remain frozen but unresolved because the title vault escapes.
+
+Final withdrawal state is 31% main magazine, 36% PDC stock, and 28% translation propellant. All remain above protected floors after the delayed approach, defensive roll, relay loss, rescue interruption, and disengagement.

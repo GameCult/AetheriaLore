@@ -97,6 +97,9 @@
 | D-091 | Evacuate Hull Three before enforcement and transfer title under Samira’s authority. | Accepted | Rescue, treatment, possession, and title remain separate transitions. |
 | D-092 | Give Sable post-injury choices that preserve disagreement and narrower authority. | Accepted | Pain cannot function as political purification or automatic humility. |
 | D-093 | Make Pal’s hardest extraction lose recent domestic state and reach boat-one cooling at minute twenty-three. | Accepted | Each embodiment loss must carry distinct operational and psychological residue. |
+| D-094 | Accept the final victory only after Rhyne's relay shot, insurer standing, and pre-existing worker commit authority are visible in prose. | Accepted | The climax follows available competent choices; Remorae preserve decision space rather than manufacturing consent. |
+| D-095 | Make Samira explicitly decline the Ganymede command before departure. | Accepted | Attachment must be an affirmative costly choice, not an offer the architecture allows to expire off-page. |
+| D-096 | Treat Movement III as a complete 10.8k causal draft with a mandatory Pass 13 expansion gate. | Accepted | The full manuscript remains below 50k; revision must add lived consequence and breathing room before promotion. |
 
 ## Supersession Rule
 

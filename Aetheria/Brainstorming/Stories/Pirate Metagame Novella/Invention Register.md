@@ -54,6 +54,8 @@ These elements are accepted for the novella but are not yet wider Aetheria canon
 | I-046 | Halcyon's mobile continuity convergence can commit a witnessed freeze on remote alteration and asset flight when a bounded worker, claimant, provenance, escrow, and communication quorum survives. | The event enforces minimum floors and neutral custody; it does not complete every legal adjudication. |
 | I-047 | Pal's neutral Ship Mutiny bailment denies fixture accession and preserves an independent extraction right. | It supplies legal and physical exit without becoming remote authority over Pal or Hull Four. |
 | I-048 | The final operation's two Remorae carry identical dual-purpose override-isolation packages in external relay cradles. | One attachment plus worker custody is sufficient; the second extends the window and prevents purge rather than unlocking a separate magic function. |
+| I-049 | Rhea Bost and Anik Daro are the two local worker custodians whose pre-existing commit authority completes the _Common Measure_ freeze. | Remora attachment only removes remote suppression and alteration paths; it cannot create their authority or consent. |
+| I-050 | Participating insurers recognize a properly witnessed continuity freeze only across assets and counterparties already enrolled in the event. | The freeze preserves claimable state and minimum floors; it neither binds outsiders nor performs final adjudication. |
 
 ## Deferred Inventions
 

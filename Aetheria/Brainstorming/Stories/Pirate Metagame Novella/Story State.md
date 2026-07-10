@@ -2,9 +2,9 @@
 
 ## Pass Status
 
-**Completed:** Pass 7 - Character Causality Replay
+**Completed:** Pass 12 - Draft Movement III
 
-**Next:** Pass 8 - Narrative Architecture
+**Next:** Pass 13 - Adversarial Revision
 
 ## Locked Premise
 
@@ -235,3 +235,22 @@
 - Preserve Meera, workers, claimants, Pal, and Twelvefold stop authority through final victory.
 - Keep the final reader-facing causal spine simple.
 - Continue logging simulation candidates without pausing prose.
+
+## Pass 12 Draft Movement III
+
+- [[12 Draft Movement III/Movement III Draft]] completes Chapters 19-27 with 11,008 words and ten explicit POV sections.
+- Proper Hot doctrine wins a visible exchange and loses the protected objective; standing shepherd authority saves Soren and Meera.
+- Pal leaves for a genuinely attractive harbor and returns under a revocable one-operation bailment.
+- The final operation uses genuine worker credentials, bounded shaping, non-destructive Remora attachment, pre-existing local worker authority, and Hot route denial.
+- Rhea Bost and Anik Daro complete the witnessed freeze while retaining distinct reasons and withdrawal rights.
+- Luce refuses the title vault; Rhyne's seeded relay shot interrupts but does not erase the worker decision.
+- Immediate value is 28.9m SU, Hull Four survives, Pal's title remains unresolved, and Rhyne names the next counter.
+- Four skeptical reviews were reconciled in [[12 Draft Movement III/Skeptical Review Report]].
+- Combined manuscript state is 41,064 words across twenty-seven chapters; Pass 13 must add at least 8,936 net manuscript words before promotion.
+
+## Open State For Pass 13
+
+- Unify and revise all three movements.
+- Expand the manuscript itself to 50,000-60,000 words through lived consequence, ordinary life, relationship pressure, and clearer scene duration.
+- Preserve explicit POV boundaries and remove remaining explanatory gloss, shared dialogue cadence, and procedural compression.
+- Run continuity, tactics, character-agency, social-consequence, audience, pacing, comedy, and prose-voice reviews before promotion.

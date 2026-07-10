@@ -80,3 +80,12 @@ Campaign-by-campaign decisions are authoritative in [[07 Character Causality Rep
 - **Corvid Collective nests:** retain recall and control target disclosure. Juvenile and authored-record claims give them an objective independent of Luce.
 - **Wake:** hosts coordination and authenticates bounded credit while refusing central command or unrestricted support.
 - **Orsino staff and pension holders:** are exposed by contradictory fixture history; voiding family claims indiscriminately would injure workers who did not design the system.
+
+## Pass 12 Endpoint
+
+- **Claimant households:** authorize only the minimum-floor operation. Meera's cooperative withholds further labor until wage arrears clear; Soren's household accepts the one-operation risk because the escrow replenishment protects treatment and retraining before salvage.
+- **Enrolled treatment claimants:** remain divided. Rhea Bost forces publication of Olan's full record, while Halcyon Liability preserves a reserve pool whose disorderly collapse would injure hundreds of smaller claimants.
+- **Worker custodians:** Rhea and Anik exercise pre-existing local commit authority for different material reasons. Neither joins Luce's crew or transfers future authority.
+- **Participating insurers:** recognize the witnessed freeze because the continuity event is worthless without a binding commit rule. Recognition reaches enrolled assets and counterparties only.
+- **Corvid Collective nests:** lose a six-year observation source and recover standing for authored juvenile records. Each Twelvefold member begins a separate post-operation consent decision.
+- **Undertow Eighty-Seven:** gains enforceable labor-note and casualty floors but inherits repair exposure on surviving Hull Four. The worker ballot remains revocable.

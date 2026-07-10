@@ -109,5 +109,19 @@ Movement II adds or sharpens the candidates in [[11 Draft Movement II/Narrative 
 - staged rescue-to-custody transition.
 
 The possible-history counter and architecture-provenance attack meet multiple promotion triggers. They recur, change loadouts and doctrine, create observables, require absent state, and must survive observed/offscreen transfer. Drafting continues without schema work.
+
+## Pass 12 Movement III Discoveries
+
+Movement III adds the candidates detailed in [[12 Draft Movement III/Narrative Seam Notes]]:
+
+- route-denial fire control with protected moving holes;
+- worker-authenticated capability ingress;
+- terminal subsystem selection from point-blank damage state;
+- physically witnessed continuity freeze;
+- mutable small-hull role assignment;
+- independent service release veto;
+- dispersed or remote procedure ownership as counterplay.
+
+Terminal subsystem selection, mutable role assignment, and protected moving holes meet multiple promotion triggers. The remote-quorum counter remains contested future doctrine and cannot retroactively decide the novella.
 | Optical claimant authentication under partition | Maintain trusted identity and claim continuity across isolated low-bandwidth paths | Geometry, optical links, witnesses, cognition, time | Multi-source authentication without central network | Occlusion, movement, compromised witness, or link loss interrupts | Visible optical/courier exchanges; broad until exact bandwidth matters | **Provisional**; AI invocation and observed/offscreen continuity justify promotion |
 | Ballistic route denial around inhabited volumes | Use unguided hazard volumes to constrain escort approaches without firing through protected habitats | Ammunition, solution quality, geometry, time, conduct policy | Persistent hazard volumes with protected-volume exclusions | Maneuver, patience, armor, alternate axis, or saturation counters | Visible trajectories and denied routes; exact density contested | **Provisional**; player choice and loadout effect justify promotion |
