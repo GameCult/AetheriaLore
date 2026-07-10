@@ -66,3 +66,17 @@ No aggregate is treated as unanimous. Named representatives carry authority only
 - **Ship Mutiny circles:** offer Pal sanctuary after Hull Three's dispossession. Pal postpones a decision while injured people and contested custody remain unresolved; postponement is not consent to lifelong service.
 - **Wake-Without-Seal:** converts witnessed aborts, worker authority, and evacuation records into bounded credit. It closes open-ended refit support after Campaign VII and may support claimant coordination without becoming a government.
 - **Navigator rescue institutions:** record broad-margin evacuations and deliberate abandonment of property before life. They also preserve preventable-risk findings; rescue does not erase exposure.
+
+## Pass 7 Endpoint
+
+Campaign-by-campaign decisions are authoritative in [[07 Character Causality Replay/Social Body Replay]].
+
+- **Claimant coalition:** actionable after Campaign VII but internally adversarial. It can agree on enforceable distribution without agreeing about piracy, Luce, Halcyon, or claim priority beyond the negotiated floor.
+- **Undertow Eighty-Seven:** divided among technical enthusiasm, risk refusal, dependant need, patent exposure, and conditional support. Hull Four is approved by ballot under worker terms.
+- **Halcyon:** divided among Recovery, Doctrine, Liability, and Rhyne's command. The mobile portfolio concentrates custody because each desk treated consolidation as local simplification.
+- **Core crew dependants:** have removed refit, retirement, clinic, route, and employment options through actual decisions. They are part of command causality.
+- **Target crews:** Suri Dax, Bram Corda, Yun Tal, Nela Osset, Davi Renn, Haleh Doran, Kavi Issen, and Olan Tere preserve distinct claims and accounts. Cooperation never transfers authorship to the crew.
+- **Ship Mutiny:** offers Pal a real sanctuary with a real decision date and requires Pal to speak without Luce before supporting claimant action.
+- **Corvid Collective nests:** retain recall and control target disclosure. Juvenile and authored-record claims give them an objective independent of Luce.
+- **Wake:** hosts coordination and authenticates bounded credit while refusing central command or unrestricted support.
+- **Orsino staff and pension holders:** are exposed by contradictory fixture history; voiding family claims indiscriminately would injure workers who did not design the system.

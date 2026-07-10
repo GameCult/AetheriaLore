@@ -10,7 +10,7 @@ These packets supplement [[../Tactical Traces]] for the campaigns accepted into 
 | False belief | Recoverability turns expenditure into a minor service cost rather than transferring it into finite human labor. |
 | Commitment | The main wave spends the impulse needed to relocate its return fan. |
 | Decisive effect | The Courtesies mostly return, but only by consuming Dena's halt margin, sleep, tendon health, ammunition, and deferred maintenance. |
-| Human decision | Dena refuses a third sortie; Samira backs the refusal; Luce obeys. |
+| Human decision | Sable requests one exception; Dena refuses it and a third sortie; Jo offers destructive conversion; Samira makes the halt executable; Luce abandons the objective. |
 | Competent alternative | Retain ordinary reserve, stagger flights, or decline the screen. |
 | Residue | Two drones and profit lost, service debt exposed, no hull loss, labor refusal becomes a later constraint. |
 | Status | Recovery concentration and finite service throughput Established; coerced labor is social causality, not a simulation claim. |
@@ -23,7 +23,7 @@ These packets supplement [[../Tactical Traces]] for the campaigns accepted into 
 | False belief | Target schedule and crew strain remain cheaper than a brief reveal. |
 | Commitment | Prepositioned assets pass economical recall while the parent remains thermally constrained. |
 | Decisive effect | The target earns by waiting; stale information, atmosphere strain, and heat mature before capture. |
-| Human decision | Rin rejects her own overlay, Edda declares the limit, Samira aborts, Pal refuses memory sacrifice, Luce accepts. |
+| Human decision | Rin rejects her own overlay, Edda declares the limit, Pal and Kesh refuse specific consumptions, and Samira aborts before Luce catches up. |
 | Competent alternative | Reveal briefly on chosen terms or accept a smaller target/window. |
 | Residue | Assets and job lost, Rin injured, Samira's reputation damaged, wage seniority established. |
 | Status | Heat debt and information decay Established; Cold Choir and memory decoy Provisional and non-decisive. |
@@ -36,7 +36,7 @@ These packets supplement [[../Tactical Traces]] for the campaigns accepted into 
 | False belief | Agreement among remote control acknowledgements proves safe physical authority. |
 | Commitment | Mara enters the service route or Remorae broaden into disputed pressure control. |
 | Decisive effect | Target evidence reveals passenger-refuge coupling; conduct limits make continued intrusion unacceptable. |
-| Human decision | Mara refuses entry before target usefulness is known; Luce backs the abort. |
+| Human decision | Mara refuses entry before target usefulness is known; Kavi/Ek reject protective custody; Tess removes the prize; Samira withdraws. |
 | Competent alternative | Immediate withdrawal preserves more Remora hardware; defender severs buses and clears attachments. |
 | Residue | Target escapes, testimony spreads, Mara's conduct changes without absolution. |
 | Status | Dependency coupling and local control Established broadly; hostile safe-state competition Provisional. |
@@ -62,7 +62,7 @@ These packets supplement [[../Tactical Traces]] for the campaigns accepted into 
 | False belief | A physically coherent performance gives the pirates control over how the defender spends attention. |
 | Commitment | Parent occupies the residual volume required by several stories; ferries and exclusion geometry narrow escape. |
 | Decisive effect | Rhyne preserves baselines, forces aspect, and preassigns distributed ballistics to externally inferable translation-root and sink-rail regions. Several coarse hits create tumble and make thrust, radiation, and structure mutually unsafe. |
-| Human decision | Ilya collapses a lie, Samira burns early and later forbids workers from returning, Pal requests separation pulses from the independent Kestrel controller. |
+| Human decision | Ilya collapses a lie and later proposes bounded salvage; Mara volunteers; Edda, Rin, and Trraak reject the route; Tess names custody cost; Luce forbids return. |
 | Competent alternative | Abandon the performance before entering the residual volume or decline the protected convoy. |
 | Residue | Hull Two becomes an insurer-controlled hazard; Pal loses second embodiment; Samira's abort is distorted publicly. |
 | Status | Bounded mask exhaustion and volume assignment Established conceptually; cross-aspect collapse and tumble details Provisional but broad. |
@@ -75,7 +75,7 @@ These packets supplement [[../Tactical Traces]] for the campaigns accepted into 
 | False belief | The premium stack can resolve contradictory subsystem significance without partitioning command. |
 | Commitment | Sable refuses Rruk's first partition demand and remains past Samira's declared withdrawal margin; charged and thermal margin is spent while hostile ballistics are already in flight. |
 | Decisive effect | A provenance-informed pattern reaches several inferable energy-handling volumes. Distributed damage shorts transfer, ruptures coolant, and removes a dump path. Isolation saves people while external rescue becomes the only robust stabilization path. |
-| Human decision | Sable delegates; Slow Vote identifies retained control; Samira surrenders the hull under rescue seniority; Pal refuses archive risk; Luce accepts dispossession. |
+| Human decision | Rruk demands partition; Sable refuses; Ilya splits geometry from meaning; Jo retains a valid shot; Samira invokes margin; Luce withdraws before consensus; Samira later surrenders title. |
 | Competent alternative | Invoke confidence fuses immediately, stop semantic targeting, and withdraw with more margin. |
 | Residue | Hull Three lost to rescue and fixture liens, Sable injured, clinic allocation becomes political, Pal receives an independent sanctuary offer. |
 | Status | Energy/heat cost and charged-bus damage Established classes; confidence contamination and exact cascade Provisional; behavioral compulsion Contested and non-decisive. |

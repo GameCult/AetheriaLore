@@ -59,6 +59,21 @@
 | D-053 | Require broad evacuation margins, conserved small-hull inventories, and low-burn cash support. | Accepted | Complete rescue and multi-year operation must follow prepared geometry and financing rather than invisible arithmetic. |
 | D-054 | Require architecture-specific cognition attacks to carry acquisition provenance. | Accepted | Shaped emissions may create generic load, but targeted adversarial bias requires evidence about the architecture being attacked. |
 | D-055 | Separate confidence in rescue, wages, peers, institution, and Luce when tracking crew loyalty. | Accepted | Survival does not obligate workers to remain, forgive, or become personally devoted. |
+| D-056 | Fix the campaign chronology at month resolution from 2671.02 through the 2677 final-operation window. | Accepted | Treatment, refits, cash, testimony, and institutional learning require elapsed time rather than outline-speed propagation. |
+| D-057 | Make Luce order Campaign VI withdrawal before Sable accepts the diagnosis. | Accepted | Command integration matters only if disagreement remains live; consensus would let the cognition system own the choice. |
+| D-058 | Preserve physically valid fire-control geometry separately from contested target meaning. | Accepted | Jo can be correct about where a shot goes while Samira and Luce correctly refuse what the system says the shot means. |
+| D-059 | Make Hull Two abandonment a contested sacrifice with a plausible sensor-salvage option and explicit custody cost. | Accepted | Choosing life over property is meaningful only when property remains recoverable through a dangerous but competent alternative. |
+| D-060 | Require post-loss Twelvefold parliament review and exact twelve-person sideband continuity. | Accepted | Collective opacity protects individual people and cannot substitute for consent, injury, location, or motive state. |
+| D-061 | Give Pal's sanctuary offer a decision date and require private speech without Luce. | Accepted | Postponement must not quietly become consent, and later choice requires an option that can actually expire. |
+| D-062 | Make Meera leave crew employment after Campaign VII and return, if at all, as an independent contractor. | Accepted | Rescue confidence does not imply loyalty, and her cooperative must possess material authority. |
+| D-063 | Seed the final claimant coalition through named target witnesses and divided institutional desks. | Accepted | Distributed value becomes legible through continuing people and conflicting claims rather than an aggregate revealed at the climax. |
+| D-064 | Treat the thirty-six-person complement as thirty-five biological persons plus Pal. | Accepted | Nine principals include the shipmind; evacuation arithmetic may not create a thirty-seventh person. |
+| D-065 | Separate complete sideband truth from dramatized, reported, latent, and cuttable reader state. | Accepted | Meticulous continuity must deepen the novella without forcing a census onto the page. |
+| D-066 | Limit each campaign to one primary dispute, one secondary complication, and three visible decision owners. | Accepted | A 50-60k novella cannot dramatize every valid action in the replay. |
+| D-067 | Make Kesh, Rruk, and Khraa the principal Corvid reader through-lines. | Accepted | The late Huginn POV should reveal depth rather than decode all twelve identities. |
+| D-068 | Assign rescue shepherd designation to Tess, activation to Edda, geometry to Samira, and maneuver to Sable. | Accepted | Protected reserve cannot remain under split or captain-centered authority. |
+| D-069 | Give Pal an air-gapped sanctuary token expiring 2677.09.15. | Accepted | The option must be real, private, and capable of expiring for later choice to be meaningful. |
+| D-070 | Require one consequential comedy mechanism per campaign. | Accepted | Warm black comedy must change material or relational state rather than live only in labels. |
 
 ## Supersession Rule
 

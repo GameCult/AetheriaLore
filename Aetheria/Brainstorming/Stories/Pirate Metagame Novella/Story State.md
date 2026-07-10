@@ -2,9 +2,9 @@
 
 ## Pass Status
 
-**Completed:** Pass 6 - Failure Ladder
+**Completed:** Pass 7 - Character Causality Replay
 
-**Next:** Pass 7 - Character Causality Replay
+**Next:** Pass 8 - Narrative Architecture
 
 ## Locked Premise
 
@@ -143,12 +143,28 @@
 - Halcyon's accumulating claims portfolio seeds a final mobile adjudication objective whose distributed value benefits workers, yards, dependants, and claimants rather than making Luce rich.
 - Full causality, economics, hull sequence, and reader-facing reversal rules are authoritative in [[Failure Ladder]], [[Ship And Refit Ledger]], and the Pass 6 folder.
 
-## Open State For Pass 7
+## Pass 7 Character Causality Replay
 
-- Replay every selected campaign across every named character and aggregate actor without changing accepted physical causality casually.
-- Date operations and inter-hull intervals at month resolution.
-- Decide which support workers leave, return, or renegotiate after each loss, and why each remaining worker stays.
-- Track Kavi Issen, Olan Tere, Meera Tann, target workers, dependants, yards, insurers, and claimant populations continuously.
-- Distinguish Pal postponing an exit from Pal eventually choosing Luce; the latter remains unearned.
-- Make the Twelvefold's private and Collective-facing decisions continuous rather than distributing one token action to each member.
-- Reject any replay that leaks knowledge, makes all officers agree, or lets equipment own the interesting choice.
+- Month chronology fixes commissioning, eight high-tempo Hull One months, fourteen low-burn months, refits, treatment, testimony, and institutional learning from 2671.02 through the 2677 final window.
+- [[Character Causality Replay]] records principal and named support state, live disagreement, loyalty separation, and knowledge boundaries across seven campaigns.
+- All twelve Corvids have exact location, action, injury, cache, consent, vote, and evacuation state in the Pass 7 folder. Emergency systems expose opaque rescue IDs, not true identity mappings.
+- [[07 Character Causality Replay/Social Body Replay]] tracks established external characters, target witnesses, dependants, five support cells, Undertow factions, Halcyon desks, Ship Mutiny, Wake, family, and claimant conflict.
+- Thirty-six-person complement means thirty-five biological persons plus Pal. All boat seating, replacement cells, and Corvid manifests reconcile.
+- Campaign VI separates a valid physical solution from contaminated meaning and assigns partition authority explicitly. Campaign VII assigns protected designation, rescue activation, geometry, maneuver, route closure, and physical security to distinct owners.
+- Pal privately answers Ship Mutiny “not yet,” acknowledges unresolved service conditioning, and holds an air-gapped option expiring 2677.09.15.
+- Meera leaves crew employment after Campaign VII; any return is independently contracted.
+- Audience visibility limits sideband exposure to one primary dispute, one secondary complication, and at most three visible decision owners per campaign.
+- Kesh, Rruk, and Khraa are the principal Corvid reader through-lines; Vek/Tlak remain partially legible; the rest remain causally active sideband.
+- Consequential comedy and distinct evacuation presentation are locked in [[07 Character Causality Replay/Audience Visibility And Comedy Ledger]].
+
+## Open State For Pass 8
+
+- Build chapter architecture and POV knowledge under the visibility hierarchy rather than attempting to dramatize the complete replay.
+- Choose Meera's exact final-operation contract and conserve the resulting thirty-five or thirty-six-person complement.
+- Choose three or four decisive turns per major arc; leave ordinary competence, error, drift, and unchanged state on the page.
+- Treat Campaign VII's Hot victory as setup error; the shepherd rescue is its only emotional climax.
+- Give each hull era one ordinary-life compression scene rather than a montage of every interval.
+- Keep Campaign VI's visible question simple: the gun knows where the point is; does it know what the point means?
+- Decide which role-held witnesses earn a second named appearance. Do not make the claimant coalition a roll call.
+- Preserve one incompatible coalition demand in the final operation: managed settlement, immediate fixture abolition, medicine priority, pension protection, and data compensation cannot all be first.
+- Draft the three required temporary voice tests before architecture freezes.

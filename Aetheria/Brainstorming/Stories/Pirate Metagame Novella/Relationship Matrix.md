@@ -71,5 +71,36 @@ No romantic or sexual attraction is authoritative at Pass 2. Later attraction mu
 | Drone lattice | Sable | Ilya tracks, Jo fire plan, Edda service margin | May reject compromised cognition. Cannot command Twelvefold or release weapons outside Jo's boundary. |
 | Corvid contract methods | Twelvefold parliament | Accepted objective and protected-person constraints | Individual consent is nontransferable; ship may revoke operation credentials but not demand private identity. |
 | Yard schedule and labor exposure | Nadi al-Khatib / relevant yard labor | Tess payment, Edda scope, Varo facilities | Labor may stop work; Luce cannot purchase an unsafe schedule. |
+| Rescue-shepherd designation and use | Tess preserves protected designation; Edda activates casualty rescue; Samira assigns geometry; Sable maneuvers craft | Tik-tik or any contract party may present encumbrance evidence; Mara and Khraa advise physical security method | Luce cannot redesignate protected craft by campaign authority. Dena may halt parent recovery; Trraak may declare a route unrecoverable. |
 
 Luce owns commitment but almost none of the physical truth. His arc is learning that command integrates bounded authorities rather than replacing them.
+
+## Pass 7 Endpoint
+
+Scores remain descriptive. They summarize evidence in [[Character Causality Replay]] and do not flatten distinct forms of loyalty.
+
+| Pair | Trust | Affection | Dependency | Accepted residue before final operation |
+| --- | ---: | ---: | ---: | --- |
+| Luce / Pal | +2 | +3 | +2 | Luce repeatedly honors bodily refusal; Pal has a credible exit and has not yet freely chosen to stay. |
+| Luce / Samira | +2 | +1 | +2 | He accepts rulings that cost victory and status; she trusts command integration more than his tactical interpretation. |
+| Luce / Dena | +1 | 0 | +1 | Rescue boundary proven; workload judgment remains suspect; halt authority no longer depends on goodwill. |
+| Luce / Sable | +1 | +1 | +1 | Shared enthusiasm survives, constrained by proof that Luce will interrupt Sable before consensus. |
+| Pal / Samira | +2 | +1 | +2 | Three evacuations establish executable mutual trust without ownership language. |
+| Pal / Mara | 0 | -1 | +1 | Mara protects Pal's bodily authority while retaining beliefs Pal finds degrading. Conduct changes; ontology does not. |
+| Pal / Sable | +1 | +1 | +2 | Pal enforces archive boundary; Sable relinquishes control; neither receives total access to the other. |
+| Mara / Sable | -1 | -1 | +1 | They can plan around real refusal thresholds and remain politically hostile. |
+| Mara / Twelvefold | -1 | -2 | +1 | Trraak and Khraa share operational authority with Mara. Bounded trust rises; forgiveness remains individual and absent by default. |
+| Sable / Twelvefold | +1 | +1 | +2 | Early delegation and accepted dissent improve trust; objectifying curiosity and premium privilege remain. |
+| Tess / Twelvefold | +2 | +1 | +2 | Contract, cache loss, rescue tokens, and split votes remain legible without exposing private identity. |
+| Ilya / Twelvefold | +2 | +1 | +2 | Opaque source provenance can retain evidentiary weight; Tlak/Qerr disagreement is preserved rather than fused away. |
+| Edda / Pal | +3 | +2 | +2 | Species-neutral triage and consented extraction make Edda Pal's most trusted bodily collaborator. |
+| Crew / Undertow labor | +2 | +1 | +3 | Worker ballot, senior notes, and stop authority replace purchase as the basis of Hull Four. Internal yard dissent remains. |
+| Luce / Rhyne | -1 | 0 | +1 | Each recognizes the other's rescue threshold. Respect makes conflict less morally simple and more operationally dangerous. |
+
+### Loyalty Separation
+
+- Rescue confidence is high among most continuing crew.
+- Wage trust remains conditional on Tess, Nadi, and enforceable seniority.
+- Peer attachment is stronger than affection for Luce across much of the support crew.
+- Institutional loyalty grows where refusal survives contact with insolvency.
+- Continued piracy is not unanimous and is not required for loyalty to the claimant operation.

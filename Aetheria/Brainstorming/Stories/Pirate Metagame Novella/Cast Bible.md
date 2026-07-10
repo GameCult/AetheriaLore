@@ -201,6 +201,24 @@ Augmented life-support engineer under a passenger-care bond. Kavi transmits evid
 
 Cargo-escort sensor officer with calibrated visual cortex support and a habit of retaining raw baselines after automated summaries expire. Injured during the first shaped-heat capture, Olan is denied compensation and sells Halcyon the historical inconsistencies that defeat the next performance. The sale is survival, not allegiance. Halcyon's repackaging of the work creates a later information and injury claim Olan can pursue.
 
+### Compact Recurring Witnesses And Institutional Actors
+
+| Person | Role, agency, and continuing stake |
+| --- | --- |
+| **Suri Dax** | Relay operator who accepts Campaign I passage without surrendering a wage claim; later authenticates surrender terms without endorsing piracy. |
+| **Bram Corda** | Union delegate who trades Campaign II title cooperation for back wages and contests the insurer's account of voluntary surrender. |
+| **Yun Tal** | Captain who defeats Deep Quiet by continuing productive transit; sells bounded trace data without knowing pirate truth. |
+| **Nela Osset** | Passenger-refuge representative who keeps medicine and care obligations attached to the pharmaceutical prize. |
+| **Paz Orri** | Halcyon small-hull operator whose later rescue threshold makes Rhyne's internal life-over-profit rule observable. |
+| **Davi Renn** | Cargo steward who cooperates under wage and passenger guarantees and helps Olan prevent a false-track shot. |
+| **Haleh Doran** | Officer who surrenders to precision attack to preserve crew, then files restitution rather than becoming proof of ethical capture. |
+| **Aster Quill** | Contract principal who enforces Campaign VII's objective clause and refuses exchange victory as substitute performance. |
+| **Mira Sol** | Halcyon recovery analyst who consolidates claims believing custody reduces harm, then encounters suppressed contradictions. |
+| **Dev Koro** | Halcyon liability analyst who suppresses transferred worker costs while depending on employer salary and clinical coverage. |
+| **Asha Pell** | Undertow specialist who leaves direct exposure after Hull Three and later offers bounded remote expertise under a pseudonym. |
+| **Lorn Ves** | Undertow Plant worker who leaves after Hull One and returns for Hull Four only after halt authority becomes contractual. |
+| **Mae Corin** | Orsino compliance analyst who discovers contradictory Pal fixture histories and controls whether claimants receive them. |
+
 ## Named Dependants And Witnesses
 
 - **Nia Venn:** Samira's adult daughter, Ganymede clinic scheduler, primary voice against deferred shares; protects two children from becoming leverage.

@@ -33,9 +33,14 @@ Later passes will add ships, combat model, tactical traces, failure ladder, POV 
 - [[04 Metagame Laboratory/Pass Report|Pass 4 - Metagame Laboratory]]
 - [[05 Strategy Auditions/Pass Report|Pass 5 - Strategy Auditions]]
 - [[06 Failure Ladder/Pass Report|Pass 6 - Failure Ladder]]
+- [[07 Character Causality Replay/Pass Report|Pass 7 - Character Causality Replay]]
 
 ## Current Planning Surfaces
 
 - [[Failure Ladder]]
 - [[06 Failure Ladder/Selected Counter Traces|Selected Counter Traces]]
 - [[06 Failure Ladder/Skeptical Review Report|Pass 6 Skeptical Review]]
+- [[Character Causality Replay]]
+- [[07 Character Causality Replay/Twelvefold Replay|Twelvefold Replay]]
+- [[07 Character Causality Replay/Social Body Replay|Social Body Replay]]
+- [[07 Character Causality Replay/Audience Visibility And Comedy Ledger|Audience Visibility And Comedy Ledger]]

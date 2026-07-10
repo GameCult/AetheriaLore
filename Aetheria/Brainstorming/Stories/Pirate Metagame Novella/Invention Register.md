@@ -37,7 +37,7 @@ These elements are accepted for the novella but are not yet wider Aetheria canon
 | I-029 | Observed and offscreen combat exchange compatible state at explicit synchronization checkpoints. | This supports seamless tactical observation inside Aetheria's large strategic game. |
 | I-030 | New mechanics are explored and selected in the fast heuristic kernel before frame-by-frame implementation and subsequent conformance. | This is the combat-design development loop, not setting canon. |
 | I-031 | Profits Rising corporation gameplay enters the current product path through community-warfare seasons before eventual merger with embodied Terminus-style play. | This is a game-mode and development-path clarification, not setting canon. |
-| I-032 | Dena Vey, Rin Adao, and Soren Ilyev are recurring support crew aboard _The Sum of Our Parts_. | Their exact campaign residue remains open for Pass 6 and Pass 7. |
+| I-032 | Dena Vey, Rin Adao, and Soren Ilyev are recurring support crew aboard _The Sum of Our Parts_. | Their exact campaign residue is authoritative in [[Character Causality Replay]]. |
 | I-033 | Narrative tactical claims use Established, Provisional, and Contested statuses. | This is story-room governance, not setting terminology. |
 | I-034 | Cold Choir, Slow Vote, consequence-volume defense, protected rescue reserve, distributed subsystem authority, and other Pass 5 maneuvers are simulation candidates. | They are not implemented mechanics merely because the novella may use them. |
 | I-035 | The career uses four named hulls: _The Sum of Our Parts_, _A Reasonable Doubt_, _The Benefit of Hindsight_, and _The Burden of Proof_. | The first three are lost through escape, abandonment, and dispossession; the fourth survives the final operation. |
@@ -46,6 +46,11 @@ These elements are accepted for the novella but are not yet wider Aetheria canon
 | I-038 | Halcyon accumulates a mobile portfolio of rescue liens, denied claims, seized hull interests, and restitution obligations across the career. | Its final value is distributed across existing actors; it is not one giant treasure ship or free money created by records. |
 | I-039 | Kestrel is Hull Two's independently powered local translation-cluster controller. | Portable Pal may request bounded pulses after cradle separation but does not own high-rate drive authority. |
 | I-040 | Meera Tann is the technician stranded with Soren Ilyev during Campaign VII's detached-tender rescue. | The rescue shepherds preserve people because their geometry was established before the crisis. |
+| I-041 | Campaign operations run from July 2672 through June 2677 under the month chronology in Pass 7. | The February 2671 regatta, commissioning, treatment, testimony, ordinary work, and refit intervals remain part of the 2671-2677 career. |
+| I-042 | Suri Dax, Bram Corda, Yun Tal, Nela Osset, Paz Orri, Davi Renn, Haleh Doran, and Aster Quill are compact recurring witnesses or counterparties. | They preserve target-side action and consequence without becoming automatic allies or POV principals. |
+| I-043 | Mira Sol and Dev Koro embody conflicting Halcyon Recovery and Liability pressures. | Neither represents all of Halcyon; both remain materially dependent on the institution they may criticize. |
+| I-044 | Asha Pell, Lorn Ves, and Mae Corin preserve Undertow-worker and Orsino-staff agency across the final claims conflict. | Their evidence and labor remain theirs; they are not secret agents planted to help Luce. |
+| I-045 | Kesh, Trraak, Tlak, Rruk, and Khraa sustain nonfatal injuries across the campaign. | Rescue tokens, treatment, and consent changes become exercised state without manufacturing deaths for gravity. |
 
 ## Deferred Inventions
 

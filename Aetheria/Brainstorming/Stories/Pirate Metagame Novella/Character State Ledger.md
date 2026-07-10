@@ -74,8 +74,33 @@ All twelve begin aboard a Collective courier approaching the contract meeting, u
 
 | Character | Embodiment / dependency | Knowledge and stake | Available action and residue |
 | --- | --- | --- | --- |
-| Meera Tann | Common vacuum dermis, wrist reinforcement, retinal service overlay; weekly physical calibration | Owns tender umbilical safety; supports a three-household cooperative skeptical of pirate shares | Refuse unsafe release, leave after rescue, or renegotiate. Campaign VII strands and rescues her without deciding whether she stays. |
+| Meera Tann | Common vacuum dermis, wrist reinforcement, retinal service overlay; weekly physical calibration | Owns tender umbilical safety; supports a three-household cooperative skeptical of pirate shares | Refuses unsafe release and leaves crew employment after rescue; any final-operation return requires an independent contract. |
 | Kavi Issen | Life-support augmentation under a terminated passenger-care bond | Holds passenger-coupling evidence, publication rights, employer debt, and a claim against Halcyon's portfolio | Authenticate danger, refuse custody forgery, publish contradictory testimony, contest debt, join or reject claimant coalition. |
 | Olan Tere | Calibrated visual cortex support requiring employer-linked service | Retains raw sensor baselines, injury evidence, and knowledge of the shaped-history family | Sell analysis for survival, contest Halcyon's reuse, testify, conceal later baselines, or cooperate with claimants. |
 
 Pass 7 owns the full campaign-by-campaign replay. These rows prevent newly named people from disappearing between the causal ladder and that replay.
+
+## Pass 7 Endpoint Before Final Operation
+
+Full continuous state is authoritative in [[Character Causality Replay]], [[07 Character Causality Replay/Twelvefold Replay]], and [[07 Character Causality Replay/Social Body Replay]].
+
+| Character | Body and material state | Belief and relationship state | Live choice or unresolved pressure |
+| --- | --- | --- | --- |
+| Luce | Healthy, insolvent, Hull Four not personally unencumbered | Rescue boundary trusted; tactical interpretation bounded by others | Select objective and refuse chase without purchasing compliance |
+| Samira | Maintained but career offer lost through public distortion | Loyal to command institution; attachment to Luce remains difficult to name | Stay by choice after receiving another credible exit |
+| Pal | Core continuous, three embodiments lost, portable limits known | Loves Luce; fixture law and service habit remain; privately admits caretaking motives cannot yet be separated from chosen solidarity | Air-gapped sanctuary token expires 2677.09.15; answer is “not yet,” not consent to stay |
+| Ilya | Sensor systems current; confidence-provenance distrust active | Trusts Rin and opaque Corvid evidence more; elegance no longer equals safety | Use quiet and shaping as bounded tools rather than identity |
+| Jo | Physically stable; ammunition constrained by household escrow | “On target” now includes objective legitimacy and feed labor | Integrate Hot force without allowing clean solutions to choose the fight |
+| Edda | Modules strained; successors trained; self-neglect exposed | Authority trusted, self-report challenged | Accept care allocation and delegation rather than overfunctioning |
+| Tess | Books constrained; claims network unusually rich | Institution and claimant coalition supersede patron recovery | Keep distribution enforceable under tactical opportunity |
+| Mara | Baseline body worn but capable | Protects people her beliefs misclassify; forgiveness not granted | Share authority without demanding ideological comfort or absolution |
+| Sable | Partition injury improving; premium maintenance socially conditioned | Accepts interruption and delegation; remains proudly enhanced | Operate well without making indispensability proof of politics |
+| Dena | Tendon/respiratory strain treated; contractual halt authority | Rescue trust high, workload trust conditional | Exercise stop authority when final value is enormous |
+| Rin | Campaign II injury treated; independent instruments installed | Trusts manual redundancy and enforceable wages | Prevent crisis without needing visible heroism |
+| Soren | Stable; rescued from tender; household obligations protected | Rescue trust personal; piracy still questionable | Remain for claimant operation without becoming Luce loyalist |
+| Meera | Stable; leaves crew employment after Campaign VII | Trusts reserve and Dena, not ordinary pirate shares | Return only as independent tender contractor under cooperative terms |
+| Kavi | Care bond terminated; debt/maintenance contested | Owns paired testimony and distrusts moral appropriation | Join only if passenger and worker restitution remain senior |
+| Olan | Injury and visual maintenance unresolved | Halcyon used bounded work beyond expected scope | Offer remaining baselines without surrendering authorship |
+| Rhyne | Operationally capable inside Halcyon | Recognizes Luce's rescue conduct; remains hostile to piracy | Protect people while confronting the custody concentration she helped build |
+
+The twelve Corvid endpoint states remain individual. The parliament has renewed combat scope for Campaign VII but has not ceded authority over final-target disclosure.
