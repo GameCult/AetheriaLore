@@ -32,3 +32,10 @@ Later passes will add ships, combat model, tactical traces, failure ladder, POV 
 - [[03 Material Baseline/Pass Report|Pass 3 - Material Baseline]]
 - [[04 Metagame Laboratory/Pass Report|Pass 4 - Metagame Laboratory]]
 - [[05 Strategy Auditions/Pass Report|Pass 5 - Strategy Auditions]]
+- [[06 Failure Ladder/Pass Report|Pass 6 - Failure Ladder]]
+
+## Current Planning Surfaces
+
+- [[Failure Ladder]]
+- [[06 Failure Ladder/Selected Counter Traces|Selected Counter Traces]]
+- [[06 Failure Ladder/Skeptical Review Report|Pass 6 Skeptical Review]]

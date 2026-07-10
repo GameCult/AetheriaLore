@@ -69,3 +69,13 @@ All twelve begin aboard a Collective courier approaching the contract meeting, u
 | Seli Amat | Altered identity, voice and gait masking requiring service. | Knows extraction route and its costs. | Preserve cover, challenge contracts. | Loyal but less forgiving; refuses becoming collateral again. |
 | Tomas Kest | Employer-financed synthetic organs under lien. | Shares class grievance, rejects Mara's purity politics. | Keep organs and household; provide contacts or withdraw support. | Loves Mara; refuses propaganda use of his body. |
 | Tavi Ro | Extensive clinic augments and illegal maintenance keys. | Knows Sable's body and movement contradictions. | Keep clinic open; service, refuse, expose exploit. | Affectionate ally; refuses Sable monopolizing scarce care. |
+
+## Pass 6 Added Named State
+
+| Character | Embodiment / dependency | Knowledge and stake | Available action and residue |
+| --- | --- | --- | --- |
+| Meera Tann | Common vacuum dermis, wrist reinforcement, retinal service overlay; weekly physical calibration | Owns tender umbilical safety; supports a three-household cooperative skeptical of pirate shares | Refuse unsafe release, leave after rescue, or renegotiate. Campaign VII strands and rescues her without deciding whether she stays. |
+| Kavi Issen | Life-support augmentation under a terminated passenger-care bond | Holds passenger-coupling evidence, publication rights, employer debt, and a claim against Halcyon's portfolio | Authenticate danger, refuse custody forgery, publish contradictory testimony, contest debt, join or reject claimant coalition. |
+| Olan Tere | Calibrated visual cortex support requiring employer-linked service | Retains raw sensor baselines, injury evidence, and knowledge of the shaped-history family | Sell analysis for survival, contest Halcyon's reuse, testify, conceal later baselines, or cooperate with claimants. |
+
+Pass 7 owns the full campaign-by-campaign replay. These rows prevent newly named people from disappearing between the causal ladder and that replay.

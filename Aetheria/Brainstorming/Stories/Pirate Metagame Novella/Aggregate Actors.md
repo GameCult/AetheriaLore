@@ -54,3 +54,15 @@ No aggregate is treated as unanimous. Named representatives carry authority only
 - **Corvid Collective nests:** confirm twelve medical/rescue tokens, one cut, and two votes. Recall authority remains live.
 - **Navigator institutions:** retain Serrat's credible rescue report and no credit benefit while preventable-risk review remains open.
 - **Orsino staff and licensees:** can identify the thermal geometry if telemetry or wreckage becomes public; no hull lien is yet recorded.
+
+## Pass 6 Campaign Delta
+
+- **Support crew and dependants:** rescue confidence rises after three complete evacuations, while confidence in solvency and Luce remains uneven. Some workers leave after each loss. Senior remittances, treatment, and enforceable halt authority keep others aboard; Pass 7 assigns individual exits.
+- **Target crews and dependants:** Kavi Issen and Olan Tere become named owners of testimony and claims. Other captured workers retain the power to challenge certification, cooperate for wages, sabotage title, or join the final claimant coalition.
+- **Undertow Eighty-Seven:** repeated hull labor deepens wage and blacklisting exposure. Nadi's casualty bonds and refusal authority become prerequisites for Hull Four rather than favors.
+- **Halcyon analysts:** purchase worker testimony, infer recovery and energy-handling ancestry, acquire rescue liens, and aggregate a mobile claims-and-adjudication portfolio. Analysts do not share uniform appetite for Rhyne's rescue limits.
+- **Core crew dependants:** Nia Venn, Rin's mother, Ayo Nwosu, Tavi Ro, and other households can remove labor, calibration, or consent rather than merely complain about cost. Pass 7 assigns the decisions campaign by campaign.
+- **Corvid Collective nests:** receive twelve distinct accounts of cache loss, disputed mission spending, human rescue authority, and contract compliance. Their independent intelligence becomes one access path to the final objective.
+- **Ship Mutiny circles:** offer Pal sanctuary after Hull Three's dispossession. Pal postpones a decision while injured people and contested custody remain unresolved; postponement is not consent to lifelong service.
+- **Wake-Without-Seal:** converts witnessed aborts, worker authority, and evacuation records into bounded credit. It closes open-ended refit support after Campaign VII and may support claimant coordination without becoming a government.
+- **Navigator rescue institutions:** record broad-margin evacuations and deliberate abandonment of property before life. They also preserve preventable-risk findings; rescue does not erase exposure.

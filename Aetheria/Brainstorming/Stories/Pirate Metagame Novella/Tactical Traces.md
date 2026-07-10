@@ -2,6 +2,8 @@
 
 These are narrative causal packets, not executable simulation traces. They preserve enough state for a skeptical reader to reconstruct why an engagement turned. Exact values remain provisional unless separately established.
 
+Pass 6 counter packets and accepted hull-loss traces continue in [[06 Failure Ladder/Selected Counter Traces]].
+
 ## Trace Status
 
 - **Established** claims follow accepted setting or material invariants.

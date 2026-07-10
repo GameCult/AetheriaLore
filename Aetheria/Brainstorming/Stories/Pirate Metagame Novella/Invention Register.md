@@ -40,6 +40,12 @@ These elements are accepted for the novella but are not yet wider Aetheria canon
 | I-032 | Dena Vey, Rin Adao, and Soren Ilyev are recurring support crew aboard _The Sum of Our Parts_. | Their exact campaign residue remains open for Pass 6 and Pass 7. |
 | I-033 | Narrative tactical claims use Established, Provisional, and Contested statuses. | This is story-room governance, not setting terminology. |
 | I-034 | Cold Choir, Slow Vote, consequence-volume defense, protected rescue reserve, distributed subsystem authority, and other Pass 5 maneuvers are simulation candidates. | They are not implemented mechanics merely because the novella may use them. |
+| I-035 | The career uses four named hulls: _The Sum of Our Parts_, _A Reasonable Doubt_, _The Benefit of Hindsight_, and _The Burden of Proof_. | The first three are lost through escape, abandonment, and dispossession; the fourth survives the final operation. |
+| I-036 | Kavi Issen is the augmented Patient Hand engineer whose testimony preserves both Mara's refusal and the terror of the attack. | Their employer retaliation and later claim remain social state, not proof that Mara is redeemed. |
+| I-037 | Olan Tere is the injured sensor officer whose retained baselines teach Halcyon how to counter a family of shaped thermal histories. | The counter requires prior evidence and does not grant omniscient classification. |
+| I-038 | Halcyon accumulates a mobile portfolio of rescue liens, denied claims, seized hull interests, and restitution obligations across the career. | Its final value is distributed across existing actors; it is not one giant treasure ship or free money created by records. |
+| I-039 | Kestrel is Hull Two's independently powered local translation-cluster controller. | Portable Pal may request bounded pulses after cradle separation but does not own high-rate drive authority. |
+| I-040 | Meera Tann is the technician stranded with Soren Ilyev during Campaign VII's detached-tender rescue. | The rescue shepherds preserve people because their geometry was established before the crisis. |
 
 ## Deferred Inventions
 

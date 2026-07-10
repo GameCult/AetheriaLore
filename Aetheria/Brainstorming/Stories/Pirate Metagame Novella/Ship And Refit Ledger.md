@@ -172,3 +172,69 @@ Large transfers remain signatures. Halcyon sees a regatta-derived spine, Orsino-
 - Replacement of an intact standard corvette: 8-11 months with clean access; 12-18 months after attribution.
 - Emergency used hull: 10-16 weeks, with poor integration and 25-40% immediate refit cost.
 - Bespoke replacement equal to _The Sum of Our Parts_: 18-24 months after a public loss, assuming Undertow accepts exposure.
+
+## Career Hull Sequence
+
+### Hull One: _The Sum of Our Parts_
+
+- Campaigns: Reversible Superiority, Deep Quiet, Patient Hands, corrected recovery doctrine.
+- Fate: service-neighborhood propellant and ammunition fire after an occluded terminal attack enters a jammed recovery throat.
+- Loss mode: internal fire severs coolant, pressure, and control paths; complete evacuation and deliberate scuttle.
+- Pal consequence: first ship-body death and manual core extraction.
+
+### Hull Two: _A Reasonable Doubt_
+
+Emergency used courier-control hull acquired through Oss Vale after Tern Undertow refuses an impossible bespoke schedule.
+
+- Lead time: 10-16 weeks.
+- Acquisition and immediate conversion: about 4,100,000 SU, plus 500,000 SU for wages, medicine, berthing, and legal survival.
+- Financing: constrained family advance secured by Pal fixture claims, remaining trust distributions, and replacement title interest.
+- Traits: crowded distributed machinery, poor integration, two separated small-hull bays, fewer Courtesies, expanded passive stowage, detachable thermal media, four relay hulls converted into bounded heat ferries, excellent compartment isolation, modest capture ballistics, removable Pal cradle.
+- Political cost: supplier excludes Corvids from private systems; Luce loses time and money permitting an independent Twelvefold inspection and cache route.
+- Fate: a distributed pattern damages broad translation-root and sink-rail regions during forced reveal, producing uncontrollable tumble; thrust, radiation, and structural safety become incompatible.
+- Loss mode: physically extant and theoretically recoverable only by returning workers to a tumbling, heating hull. Luce orders abandonment; an insurer hazard lien takes custody after complete evacuation.
+
+### Hull Three: _The Benefit of Hindsight_
+
+Delayed premium rebuild financed through salvage claims, clinic credit, family leverage, and Undertow labor.
+
+- Lead time: approximately 7-9 months including credit and labor negotiation.
+- Traits: premium sensing and Finch-derived cognition support, two precision energy batteries, capacitor banks, optical cooling, confidence gates, strong Remora support, reduced ballistic magazine and armor, excellent Pal cradle bandwidth, severe specialist dependence.
+- Name: Luce's sincere attempt at humility, universally received as evidence against it.
+- Fate: a provenance-informed ballistic pattern damages several externally inferable energy-handling volumes after adversarial delay carries the ship beyond its declared withdrawal margin.
+- Loss mode: isolation prevents immediate deaths. Samira surrenders the stabilized hull to an external rescue tug for cold power and bus separation; rescue and fixture liens dispossess the crew before the hull is stripped and scrapped.
+- Pal consequence: hardest extraction, central network abandoned as untrusted, greater hull-local working-memory loss.
+
+### Hull Four: _The Burden of Proof_
+
+Rugged Hot hull assembled through Wake guarantee, Undertow labor notes, Vale supply, remaining personal assets, and worker conditions rather than unrestricted family capital.
+
+- Lead time: 7-9 months.
+- Traits: heavy compartmentation, accessible machinery, distributed ballistic directors, deep finite magazines, redundant visible radiator roots, mechanical local control, adequate cognition, separated Pal/command paths, bounded mixed small hulls, two protected rescue shepherds, retained Remora and heat-ferry options.
+- Contract conditions: funded casualty bond and wages; Dena's deck halt authority; Rin's independent atmosphere instruments; ordnance labor included in fire-control throughput; no Corvid exclusion.
+- Fate before final victory: survives both objective defeat and mixed-cloud rescue failure.
+- Final constraint: no fifth capital hull. The synthesis must use this material body as it exists.
+
+## Campaign Economics
+
+Planning-only figures exclude the original 18,000,000 SU capitalization. They measure realizable capture after claims and attributable campaign losses including equipment, repair, refit, replacement, treatment, default, and downtime.
+
+| Campaign | Realizable capture | Attributable loss | Cumulative capture | Cumulative loss |
+| --- | ---: | ---: | ---: | ---: |
+| Refundable War | 740,000 | 1,460,000 | 740,000 | 1,460,000 |
+| Prior Absence | 570,000 | 720,000 | 1,310,000 | 2,180,000 |
+| Open Door | 1,750,000 | 1,700,000 | 3,060,000 | 3,880,000 |
+| Open Mouth | 400,000 | 10,800,000 | 3,460,000 | 14,680,000 |
+| Last Plausible Ship | 900,000 | 5,900,000 | 4,360,000 | 20,580,000 |
+| Exact Wrongness | 1,100,000 | 8,100,000 | 5,460,000 | 28,680,000 |
+| Honest Ship | 950,000 | 3,900,000 | 6,410,000 | 32,580,000 |
+
+Before the final victory, cumulative realizable capture trails cumulative campaign loss by 26,170,000 SU. This does not authorize a conveniently enormous prize ship. Halcyon's accumulating rescue liens, denied claims, seized hull interests, and restitution obligations establish a mobile claims-and-adjudication convoy whose distributed value has been growing throughout the career. The final operation should unlock a robust 31,000,000-38,000,000 SU coalition value band after adverse claims and direct expense. Released liens, restitution, worker-controlled salvage shares, wages, treatment, dependants, and yard obligations are paid before Luce. The protected coalition becomes narrowly campaign-profitable; Luce does not become rich, and the original capitalization remains ruined.
+
+Three values remain separate:
+
+- **Face value:** the number Luce announces.
+- **Realizable value:** what remains after claims, restitution, certification, and fencing.
+- **Cash now:** what remains after protected wages, medicine, dependants, labor notes, and service stock.
+
+Detailed small-hull conservation, low-burn cash support, and coarse evacuation margins are authoritative in [[Failure Ladder]].

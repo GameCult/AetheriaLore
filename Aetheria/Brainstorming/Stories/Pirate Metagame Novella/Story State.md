@@ -2,9 +2,9 @@
 
 ## Pass Status
 
-**Completed:** Pass 5 - Strategy Auditions
+**Completed:** Pass 6 - Failure Ladder
 
-**Next:** Pass 6 - Failure Ladder
+**Next:** Pass 7 - Character Causality Replay
 
 ## Locked Premise
 
@@ -131,10 +131,24 @@
 - Target and external actors make decisions that constrain subsequent doctrine.
 - Skeptical reviews accepted the pass after reconciliation.
 
-## Open State For Pass 6
+## Pass 6 Failure Ladder
 
-- Select six or seven campaigns and their emotional escalation.
-- Decide which doctrines receive full cycles, combine, remain profitable, or are abandoned before combat.
-- Establish every selected counter trace and any hull-loss damage chain.
-- Assign refit and replacement-hull sequence, costs, social constraints, and accumulated residue.
-- Preserve distinct narrative forms rather than repeating briefing, success, counter, invoice.
+- Seven campaigns span 2672-2677 after the 2671 regatta, hiring, and first-hull commissioning.
+- Campaigns I-III establish labor debt, productive absence, and illegitimate subsystem control before the first full combat loss.
+- Three hull losses have distinct governing actions: Hull One is escaped and scuttled, Hull Two is consciously abandoned rather than risking workers, and Hull Three is surrendered into rescue and fixture liens before being stripped.
+- Hull Four survives one continuous campaign whose Hot opening error constrains its mixed-cloud rescue climax.
+- Campaigns conserve small-hull inventory, low-burn cash support, broad evacuation margins, and Pal's portable authority limits.
+- Kavi Issen and Olan Tere carry target-side testimony into later insurer learning. All twelve Corvids receive at least one named consequential choice across the ladder.
+- Crew commitment remains plural: rescue trust, wage trust, peer attachment, institutional belief, and affection for Luce are separate states.
+- Halcyon's accumulating claims portfolio seeds a final mobile adjudication objective whose distributed value benefits workers, yards, dependants, and claimants rather than making Luce rich.
+- Full causality, economics, hull sequence, and reader-facing reversal rules are authoritative in [[Failure Ladder]], [[Ship And Refit Ledger]], and the Pass 6 folder.
+
+## Open State For Pass 7
+
+- Replay every selected campaign across every named character and aggregate actor without changing accepted physical causality casually.
+- Date operations and inter-hull intervals at month resolution.
+- Decide which support workers leave, return, or renegotiate after each loss, and why each remaining worker stays.
+- Track Kavi Issen, Olan Tere, Meera Tann, target workers, dependants, yards, insurers, and claimant populations continuously.
+- Distinguish Pal postponing an exit from Pal eventually choosing Luce; the latter remains unearned.
+- Make the Twelvefold's private and Collective-facing decisions continuous rather than distributing one token action to each member.
+- Reject any replay that leaks knowledge, makes all officers agree, or lets equipment own the interesting choice.

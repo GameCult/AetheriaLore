@@ -153,7 +153,11 @@ Thirty-one, with pulmonary membranes, blood-gas telemetry, pressure reflex work,
 
 Thirty-eight, with cochlear timing correction, retinal range overlays, radiation repair, and two fingers replaced after a magazine accident. Soren crosses between Watch and Deck during all-hands launch or recovery, making him familiar with both firing abstractions and the hands feeding them. He supports a partner retraining after automation displacement. During the mixed-cloud counter, Soren is one of two technicians trapped in the damaged launch blister; the named rescue reserve saves him after its tactical withholding helps lose the prize.
 
-The other twelve support crew remain department-tracked until narrative work gives them recurring agency. No unnamed worker may appear with expertise absent from the five established cells.
+### Meera Tann - Recovery Tender Technician
+
+Twenty-nine, with common-standard vacuum dermis patches, wrist torque reinforcement, and a retinal service overlay that requires weekly alignment against physical fiducials. Meera owns tender umbilicals and may refuse release when a small hull's fuel, latch, or thermal state threatens the parent. She sends money to a three-household cooperative whose members distrust pirate shares but need prompt cash. During Campaign VII she and Soren are stranded in a detached recovery tender. Being rescued proves the reserve works; it does not settle whether she signs another contract.
+
+The other eleven support crew remain department-tracked until narrative work gives them recurring agency. No unnamed worker may appear with expertise absent from the five established cells.
 
 ## Primary External Characters
 
@@ -188,6 +192,14 @@ Bottlenose Navigator serving the Ganymede Corridor Court and Rescue Ledger. Reco
 ### Commander Ysabet Rhyne - Recurring Adversary
 
 Commands Halcyon Risk Recovery's privateer _Indemnity of Dawn_. Former Callisto trace analyst who believes pirates weaponize ambiguity against ordinary crews and patient weapons make coercion admissible. Studies every visible failure, buys counters, pressures yards, and offers crew immunity. She also sacrifices profitable captures to save her own people, making her the competent mirror Luce cannot dismiss.
+
+### Kavi Issen - Patient Hand Witness
+
+Augmented life-support engineer under a passenger-care bond. Kavi transmits evidence that a service route is coupled to an occupied refuge, accepts Mara's immediate protection, and refuses Mara's proposed forgery into safe custody. Their employer terminates the bond after Kavi publishes both the crew's abort and the terror of its intrusion. Kavi controls their testimony, contests the resulting debt through Wake, and acquires a direct claim against Halcyon's later portfolio.
+
+### Olan Tere - Sensor Baseline Witness
+
+Cargo-escort sensor officer with calibrated visual cortex support and a habit of retaining raw baselines after automated summaries expire. Injured during the first shaped-heat capture, Olan is denied compensation and sells Halcyon the historical inconsistencies that defeat the next performance. The sale is survival, not allegiance. Halcyon's repackaging of the work creates a later information and injury claim Olan can pursue.
 
 ## Named Dependants And Witnesses
 

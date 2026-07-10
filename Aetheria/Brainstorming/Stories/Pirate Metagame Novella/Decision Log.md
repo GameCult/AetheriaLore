@@ -50,6 +50,15 @@
 | D-044 | Audition seven doctrines without promising each one an equal campaign cycle. | Accepted | The failure ladder must vary dramatic experience rather than mechanically repeat success, counter, and invoice seven times. |
 | D-045 | Make Dena Vey, Rin Adao, and Soren Ilyev recurring support characters before the first selected hull loss. | Accepted | Crew survival must refer to familiar workers with authority, bodies, dependants, and memory. |
 | D-046 | Leave Hull One's destruction unresolved after the Pass 5 recovery ambush. | Accepted | A hull loss requires a robust damage and evacuation chain rather than a provisional lane interaction doing hidden work. |
+| D-047 | Select seven pre-victory campaigns and four capital hulls, with no fifth hull before the final operation. | Accepted | The ladder needs repeated material loss without turning replacement itself into the ending's answer. |
+| D-048 | Give the three hull losses distinct governing actions: escape, abandonment, and surrender/dispossession. | Accepted | Different physical causes are insufficient if the reader experiences the same orderly evacuation three times. |
+| D-049 | Make Campaign I expose recoverability as labor debt rather than physically previewing Hull One's later loss. | Accepted | Campaign IV owns the recovery-topology catastrophe; Campaign I establishes that reusable hardware can consume people instead of money. |
+| D-050 | Merge Hull Four's Hot and mixed-cloud lessons into one continuing contract. | Accepted | The opening objective error must constrain the rescue climax rather than create an eighth miniature campaign. |
+| D-051 | Seed the final economic objective through Halcyon's accumulated claims-and-adjudication portfolio. | Accepted | Distributed liens, restitution, and settlement authority can exceed campaign losses without inventing one implausibly valuable prize ship. |
+| D-052 | Define campaign profitability at the protected-coalition level rather than as Luce's personal recovery. | Accepted | Wages, treatment, dependants, yards, claimants, and worker-controlled salvage receive value before the ruined investor. |
+| D-053 | Require broad evacuation margins, conserved small-hull inventories, and low-burn cash support. | Accepted | Complete rescue and multi-year operation must follow prepared geometry and financing rather than invisible arithmetic. |
+| D-054 | Require architecture-specific cognition attacks to carry acquisition provenance. | Accepted | Shaped emissions may create generic load, but targeted adversarial bias requires evidence about the architecture being attacked. |
+| D-055 | Separate confidence in rescue, wages, peers, institution, and Luce when tracking crew loyalty. | Accepted | Survival does not obligate workers to remain, forgive, or become personally devoted. |
 
 ## Supersession Rule
 
