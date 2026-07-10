@@ -139,6 +139,22 @@ Luce names objective, limits, withdrawal conditions, and protected persons. The 
 
 The late chapter headed `POV: Huginn` uses Kesh as the unannounced viewpoint. It reveals twelve consent states, names as edited autobiography, simultaneous communication layers, juvenile extraction, cache obligations, and debate over whether Luce is trustworthy or merely safer. It never supplies a key to earlier identities.
 
+## Recurring Support Crew
+
+### Dena Vey - Deck Cell Lead
+
+Forty-six, with industrial haptic armatures, tendon reinforcement, vestibular correction, and ammunition-toxicity filters serviced from common yard standards. Dena owns capture-throat safing and may halt recovery when heat, damage, or crew exposure crosses the deck limit. She supports a brother and his two children on Ganymede. Luce repeatedly mistakes her exceptional turnaround for unused capacity. She accepts dangerous overtime when remittance escrow is threatened, then records the coercion instead of calling it loyalty.
+
+### Rin Adao - Plant And Atmosphere Technician
+
+Thirty-one, with pulmonary membranes, blood-gas telemetry, pressure reflex work, and a cheap cortical overlay that translates atmosphere faults into spatial color. Filters and quarterly calibration are mandatory. Rin owns atmosphere-zone verification under Pal and Edda and may reject a compartment's return to service. Deep Quiet injures the very augment that lets Rin detect everyone else's safe breathing margin. Rin's mother depends on remittances and later refuses deferred shares in place of wages.
+
+### Soren Ilyev - Watch And Ordnance Technician
+
+Thirty-eight, with cochlear timing correction, retinal range overlays, radiation repair, and two fingers replaced after a magazine accident. Soren crosses between Watch and Deck during all-hands launch or recovery, making him familiar with both firing abstractions and the hands feeding them. He supports a partner retraining after automation displacement. During the mixed-cloud counter, Soren is one of two technicians trapped in the damaged launch blister; the named rescue reserve saves him after its tactical withholding helps lose the prize.
+
+The other twelve support crew remain department-tracked until narrative work gives them recurring agency. No unnamed worker may appear with expertise absent from the five established cells.
+
 ## Primary External Characters
 
 ### Dr. Armand Orsino And Leonie Orsino - Parents

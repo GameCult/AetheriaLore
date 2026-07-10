@@ -20,6 +20,12 @@ This ledger is the continuous behavioral state surface. Profiles describe tenden
 
 Fourteen months after recruitment, all principal crew are aboard _The Sum of Our Parts_. Contracts are active, four months of wage/remittance obligations are escrowed, and all domain authorities have completed trials. Luce has 800,000 SU uncommitted and believes the commissioned ship proves he has converted study into competence. Samira has recorded a 22% drone recovery reserve. Sable has demonstrated that scheduling can stagger returns. Edda and Nadi have recorded that recovery service meets the commissioned profile, not every later doctrine. Pal is cradle-integrated and experiences the corvette as a chosen body while remaining legally registered as an Orsino fixture.
 
+| Recurring support crew | Location / condition | Knowledge and stake | Authority / available action | Initial relationship state |
+| --- | --- | --- | --- | --- |
+| Dena Vey | Deck cell; armatures and filters current | Knows four throats and service labor are the real Courtesy limit; supports brother and two children | Halt unsafe recovery, accept/refuse overtime, document service coercion | Respects paid preparation; distrusts Luce's praise as workload forecasting |
+| Rin Adao | Plant cell; pulmonary and gas overlay current | Knows quiet doctrine can conceal atmosphere damage from the people enduring it; supports mother | Verify atmosphere zones, reject return to service, trigger Edda review | Trusts Pal's life-support authority; expects officers to spend technician health invisibly |
+| Soren Ilyev | Watch cell with all-hands ordnance duty; timing and range augments current | Knows firing rate is magazine and body labor; supports displaced partner | Stop unsafe ammunition feed, report solution/service mismatch, perform launch-blister recovery work | Likes Jo's discipline; finds Luce funny until the joke becomes overtime |
+
 The Twelvefold is aboard with all twelve uninjured and consenting to the base contract. Each holds an individually funded medical/rescue token. The parliament has one economic cut and two campaign-council votes, which may split; task consent remains individual. Krrik and Tik-tik hold the contract vote credentials, while Chak and Rruk hold the operational vote credentials on rotating mandate. Credentials express the parliament's current positions, not personal ownership of either vote.
 
 ## Twelvefold Individual Baseline

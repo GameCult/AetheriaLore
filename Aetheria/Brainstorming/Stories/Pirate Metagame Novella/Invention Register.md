@@ -37,6 +37,9 @@ These elements are accepted for the novella but are not yet wider Aetheria canon
 | I-029 | Observed and offscreen combat exchange compatible state at explicit synchronization checkpoints. | This supports seamless tactical observation inside Aetheria's large strategic game. |
 | I-030 | New mechanics are explored and selected in the fast heuristic kernel before frame-by-frame implementation and subsequent conformance. | This is the combat-design development loop, not setting canon. |
 | I-031 | Profits Rising corporation gameplay enters the current product path through community-warfare seasons before eventual merger with embodied Terminus-style play. | This is a game-mode and development-path clarification, not setting canon. |
+| I-032 | Dena Vey, Rin Adao, and Soren Ilyev are recurring support crew aboard _The Sum of Our Parts_. | Their exact campaign residue remains open for Pass 6 and Pass 7. |
+| I-033 | Narrative tactical claims use Established, Provisional, and Contested statuses. | This is story-room governance, not setting terminology. |
+| I-034 | Cold Choir, Slow Vote, consequence-volume defense, protected rescue reserve, distributed subsystem authority, and other Pass 5 maneuvers are simulation candidates. | They are not implemented mechanics merely because the novella may use them. |
 
 ## Deferred Inventions
 

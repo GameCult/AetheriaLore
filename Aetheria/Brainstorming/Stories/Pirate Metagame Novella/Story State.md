@@ -2,9 +2,9 @@
 
 ## Pass Status
 
-**Completed:** Pass 3 - Material Baseline
+**Completed:** Pass 5 - Strategy Auditions
 
-**Next:** Pass 4 - Metagame Laboratory
+**Next:** Pass 6 - Failure Ladder
 
 ## Locked Premise
 
@@ -120,11 +120,21 @@
 - New mechanics normally begin as fast heuristic-kernel experiments. Once matchup sweeps establish desired dynamics and counterplay, those dynamics become the contract for frame-by-frame implementation; the live simulator then becomes execution ground truth for continuing conformance.
 - A blueprint expresses technology and component arrangement with patent and licensing history. A crafting recipe or manufacturing run carries supply-chain provenance. A manufactured item instance is the actual branded or unbranded object entering inventory and combat. A loadout blueprint arranges those objects into a platform.
 
-## Open State For Pass 5
+## Pass 5 Strategy Auditions
 
-- Exact scenario cards and normalized or physical values for seven candidate doctrines.
-- Full deterministic event traces and counterfactual reruns.
-- Policy thresholds for launch, reveal, abort, recovery, capture, and escape.
-- Selection of which laboratory matchup becomes narrative history.
-- Native database fixture population sufficient to express technological, manufacturing, legal, branded, and supply-chain variety without scenario-local equipment stats.
-- Paired kernel/live-simulation conformance metrics, promotion/demotion tests, and performance measurements under hundreds of concurrent battles.
+- Seven doctrines passed narrative audition without becoming equally mandatory campaigns.
+- Reversible Superiority and Patient Hands have both favorable and counter causal packets; other selected campaigns receive full counter packets in Pass 6.
+- Tactical claims use Established, Provisional, and Contested status under [[Simulation Seam Log]].
+- Hull One recovery arithmetic is corrected; the recovery ambush does not yet establish hull destruction.
+- Later doctrines have explicit refit or replacement-hull boundaries.
+- Dena Vey, Rin Adao, and Soren Ilyev are recurring support crew with authority, dependants, and maintenance state.
+- Target and external actors make decisions that constrain subsequent doctrine.
+- Skeptical reviews accepted the pass after reconciliation.
+
+## Open State For Pass 6
+
+- Select six or seven campaigns and their emotional escalation.
+- Decide which doctrines receive full cycles, combine, remain profitable, or are abandoned before combat.
+- Establish every selected counter trace and any hull-loss damage chain.
+- Assign refit and replacement-hull sequence, costs, social constraints, and accumulated residue.
+- Preserve distinct narrative forms rather than repeating briefing, success, counter, invoice.

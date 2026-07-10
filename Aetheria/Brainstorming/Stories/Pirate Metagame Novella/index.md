@@ -21,6 +21,7 @@ The coordinator owns accepted continuity, chronology, tactical causality, story 
 - [[Character State Ledger]]
 - [[Ship And Refit Ledger]]
 - [[Combat Model]]
+- [[Simulation Seam Log]]
 
 Later passes will add ships, combat model, tactical traces, failure ladder, POV knowledge, chapter architecture, scene cards, and adversarial reports described in the charter.
 
@@ -30,3 +31,4 @@ Later passes will add ships, combat model, tactical traces, failure ladder, POV 
 - [[02 Cast And Social Body/Pass Report|Pass 2 - Cast and Social Body]]
 - [[03 Material Baseline/Pass Report|Pass 3 - Material Baseline]]
 - [[04 Metagame Laboratory/Pass Report|Pass 4 - Metagame Laboratory]]
+- [[05 Strategy Auditions/Pass Report|Pass 5 - Strategy Auditions]]

@@ -37,7 +37,7 @@ A blueprint is not a branded good and not an individual weapon. A **manufactured
 
 The instance's crafting recipe is its supply-chain provenance. It records the blueprint revision used, actual component and commodity inputs, input instance or lot identities, producer, facility, manufacturing run, substitutions, process quality, licensing claim, timestamps, and resulting performance. A pristine licensed Cryonix emitter and a pirate-built emitter derived from the same leaked arrangement can share technological ancestry while producing materially and legally different instances.
 
-Pass 5 requires a database fixture population with enough variety to express every doctrine through native objects:
+Promoting these narrative maneuvers into executable simulation later requires a database fixture population with enough variety to express every doctrine through native objects:
 
 - component technologies and blueprint revisions;
 - patent, license, proprietary, public-domain, and independent-discovery relationships;

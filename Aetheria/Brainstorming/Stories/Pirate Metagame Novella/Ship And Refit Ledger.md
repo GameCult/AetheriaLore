@@ -27,7 +27,7 @@ The sixteen **Courtesy** PDC drones launch in two eights. Each carries passive s
 
 The proposition is sound inside its envelope. Against a sparse sensor screen, the drones export risk, preserve abortability, and make the target pay to identify them.
 
-The omitted constraint is **recovery topology**. Four external recovery throats feed two internal service rails. A throat captures one drone every 70 seconds under ideal alignment. The rails can cool, reload, inspect, and refuel four drones concurrently; a normal turnaround takes 24 minutes. Sixteen near-simultaneous returns therefore create an eleven-minute exposed queue before servicing even begins. Returning drones are low on thrust, hot, ammunition-poor, and geometrically committed. Their approach vectors identify the parent. The throats, rails, coolant manifold, magazine lift, and fuel couplings share one armored service neighborhood.
+The omitted constraint is **recovery topology**. Four external recovery throats each feed a capture lock, then a shared internal transfer corridor with twelve hot-parking cradles. A throat captures one drone every 70 seconds under ideal alignment, so sixteen simultaneous returns require four capture cycles: about 4 minutes 40 seconds from recovery start, or 3 minutes 30 seconds from the first completed capture to the last. The first four drones can enter service immediately; the remaining twelve park hot and cannot relaunch until moved through two service rails. The rails can cool, reload, inspect, and refuel four drones concurrently; a normal turnaround takes 24 minutes. Returning drones are low on thrust, hot, ammunition-poor, and geometrically committed during the external queue. Their approach vectors identify the parent. The capture locks, parking cradles, rails, coolant manifold, magazine lift, and fuel couplings share one armored service neighborhood.
 
 Cheap mixed contacts need not defeat the drones. They can spend the drones' fuel and ammunition, observe the return fan, and place loiterers in the recovery lanes. Cognition can prioritize the queue. It cannot make four throats become sixteen.
 
@@ -49,6 +49,7 @@ Cheap mixed contacts need not defeat the drones. They can spend the drones' fuel
 | Cold launch | 8 drones in 96 seconds; all 16 in 4 minutes after rail reset |
 | Ideal recovery | 1 drone per throat per 70 seconds; 4 simultaneous throats |
 | Damaged recovery | 1 drone per 3 minutes by manipulator; blocks one throat |
+| Internal hot parking | 12 drones after capture; no reload, refuel, or relaunch until serviced |
 | Concurrent service | 4 drones |
 | Routine turnaround | 24 minutes per drone |
 | Barrel/ammunition turnaround | Adds 11 minutes after more than 60 bursts |

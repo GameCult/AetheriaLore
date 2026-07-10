@@ -45,6 +45,11 @@
 | D-039 | Target many-times-realtime batch performance and hundreds of concurrent local-galaxy battles for Aetheria's large RTS layer. | Accepted | Starbridge establishes shared combat; community-warfare seasons combine strategic combat with Profits Rising corporation logistics on the path to a persistent world. |
 | D-040 | Prototype new combat mechanics in the heuristic kernel, lock desired dynamics through batch exploration, then build them into the frame-by-frame simulation. | Accepted | Fast design search should precede expensive animated implementation; conformance begins once both models exist. |
 | D-041 | Treat Profits Rising as corporation-scale logistics and supply-chain gameplay developed through community-warfare seasons. | Accepted | Scenario corporations range from inherited small firms to stealth startups; the eventual persistent world merges this layer with embodied Terminus-style play. |
+| D-042 | Allow narratively admissible provisional maneuvers to enter the novella without executable simulation. | Accepted | Conservation, era, knowledge, competence, and seeded counterplay protect causality without making unfinished software the story's gatekeeper. |
+| D-043 | Keep simulation seams in a noncanonical promotion ledger with Established, Provisional, and Contested statuses. | Accepted | Narrative truth and future implementation requirements need related but separate authorities. |
+| D-044 | Audition seven doctrines without promising each one an equal campaign cycle. | Accepted | The failure ladder must vary dramatic experience rather than mechanically repeat success, counter, and invoice seven times. |
+| D-045 | Make Dena Vey, Rin Adao, and Soren Ilyev recurring support characters before the first selected hull loss. | Accepted | Crew survival must refer to familiar workers with authority, bodies, dependants, and memory. |
+| D-046 | Leave Hull One's destruction unresolved after the Pass 5 recovery ambush. | Accepted | A hull loss requires a robust damage and evacuation chain rather than a provisional lane interaction doing hidden work. |
 
 ## Supersession Rule
 
