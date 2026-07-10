@@ -17,7 +17,7 @@ declare global {
 }
 
 const cookieName = "aetheria_tbp_reader"
-const settingsVersion = 2
+const settingsVersion = 3
 const defaults: ReaderSettings = {
   version: settingsVersion,
   theme: "dark",
@@ -35,7 +35,7 @@ function readSettings(): ReaderSettings {
     return {
       ...defaults,
       version: settingsVersion,
-      cfi: typeof saved.cfi === "string" ? saved.cfi : undefined,
+      cfi: saved.version === settingsVersion && typeof saved.cfi === "string" ? saved.cfi : undefined,
       theme: ["dark", "light", "sepia"].includes(saved.theme) ? saved.theme : defaults.theme,
       font: ["serif", "sans"].includes(saved.font) ? saved.font : defaults.font,
       fontSize: Number.isFinite(saved.fontSize) ? Math.min(150, Math.max(80, saved.fontSize)) : defaults.fontSize,
@@ -61,6 +61,10 @@ function loadScript(src: string, ready: () => boolean): Promise<void> {
     script.addEventListener("error", () => reject(new Error(`Could not load ${src}`)), { once: true })
     if (!existing) document.head.appendChild(script)
   })
+}
+
+function chapterHrefFor(locationHref: string): string {
+  return locationHref.replace(/chapter-(\d+)-p\d+\.xhtml$/, "chapter-$1.xhtml")
 }
 
 async function initReader(root: HTMLElement) {
@@ -146,7 +150,7 @@ async function initReader(root: HTMLElement) {
       saveSettings(settings)
       const percentage = book.locations?.length() ? book.locations.percentageFromCfi(settings.cfi) : null
       progress.textContent = percentage == null ? "Position saved" : `${Math.round(percentage * 100)}% - position saved`
-      if (location.start.href) chapterSelect.value = location.start.href
+      if (location.start.href) chapterSelect.value = chapterHrefFor(location.start.href)
     })
 
     const mutationObserver = new MutationObserver(() => clampRenditionDom())
