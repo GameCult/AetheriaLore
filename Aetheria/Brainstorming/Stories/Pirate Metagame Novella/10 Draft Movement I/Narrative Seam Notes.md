@@ -1,0 +1,20 @@
+# Movement I Narrative Seam Notes
+
+These notes record mechanics and invariants discovered through prose. They are not manuscript canon by themselves and do not block drafting.
+
+| Candidate | Narrative use | Consumed state | Missing simulation state | Conservation / counterplay | Observable cues | Status / promotion trigger |
+| --- | --- | --- | --- | --- | --- | --- |
+| Casualty classification hold | Post-Callisto restraint delays formal rescue of an unresolved trace | Time, sensor confidence, responder position, casualty heat and atmosphere | Rescue rules acting on actor-local classification rather than physical truth | Independent confirmation, direct light/laser contact, or authorized risk acceptance can break the hold; false rescue traces remain possible | Assigned-but-stationary rescue, repeated challenge, direct local signal | **Provisional**; promote if civilian rescue and itchy-trigger doctrine become player decisions |
+| Cross-hull emergency heat acceptance | Luce saves _Mild Exception_ by spending his racing sink to accept casualty cabin heat | Parent sink capacity, coupling compatibility, time, later service damage | Transferable heat debt between docked/nearby hulls | Requires compatible emergency connection and geometry; accepting hull may lose performance or damage cooling | Coupling state, sink rise, radiator deployment | **Provisional**; promote if rescue, heat ferries, or cooperative thermal tactics recur |
+| Tethered rotating personnel transfer | Rescue succeeds without matched docking by exploiting a periodic relative-motion null | Tether, suit/sleeve protection, thrust precision, injury risk, time | Coarse transfer geometry and human injury state | Miss, fouling, acceleration injury, tether failure, or changing tumble counter it | Rotation period, null window, line tension | **Contested** in exact execution, narratively robust; promote only if player-operable rescue maneuvers recur |
+| Physical local halt | Dena can stop recovery machinery despite intact captain/shipmind command paths | Local mechanism, authority state, deck availability | Physical interlock ownership separate from network command | Captain may continue mission without the deck; emergency override exists only for physical casualty paths and carries authority consequence | Local red state, safed rails/doors, visible owner | **Established** as story authority; promote if crew labor and subsystem command are simulated |
+| Wage/title sabotage under surrender | Suri Dax preserves worker claims while deleting the captor's easy title path | Time, local access, evidence integrity, bargaining leverage | Target-side surrender actions and claim provenance | Captor can intrude earlier, destroy, reject terms, or accept reduced value; sabotage may also erase useful evidence | Title enclave loss, wage authentication, altered surrender terms | **Provisional** strategic/economic mechanic; promote if capture settlement becomes player-facing |
+| Dependency-aware subsystem restraint | Kavi's graph makes an otherwise successful Remora intrusion inadmissible | Local topology knowledge, cognition, time, predeclared conduct bounds | Dynamic dependency graph between subsystem control and protected populations | Narrower payload, physical isolation, withdrawal, destructive capture, or deliberate coercion remain available | Shared life-support/medical edges, target testimony, payload refusal | **Provisional**; promote because player/AI subsystem targeting and capture economics should invoke it deliberately |
+
+## Narrative Invariants Confirmed
+
+- A correct tactical classification can still conceal target-side people and claims.
+- Recoverability changes economics but does not make service labor or return geometry disappear.
+- Better cognition improves observations and local dependency discovery; it does not manufacture consent.
+- A target's decision during surrender changes realizable value and later institutional learning.
+- Authority matters because systems remain physically capable of doing things their owners refuse to authorize.

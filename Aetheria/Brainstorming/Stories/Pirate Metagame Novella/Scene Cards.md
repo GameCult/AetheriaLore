@@ -264,9 +264,9 @@ Fields:
 - **POV:** Mara Kest.
 - **Drive:** Salvage some value from a technically successful attachment and intrusion after Tess rules the prize legally and morally unusable.
 - **Boundary:** Mara knows Kavi's refusal and Tess's ruling, not future publication.
-- **Body:** Intact machinery, live passengers, Remora waiting for commands.
+- **Body:** Intact machinery, live passengers, two attached Remorae and one intrusion relay waiting for commands.
 - **Work:** Tess produces several mutually exclusive definitions of “intact,” all binding on someone.
-- **Delta:** Luce orders withdrawal and releases control. Kavi remains with target and preserves evidence of both coercion and restraint; Mara loses possession but changes conduct.
+- **Delta:** Luce orders withdrawal and releases control. Target counteraction destroys both attached Remorae; the relay returns contaminated with Kavi's evidence. Kavi remains with target and preserves evidence of both coercion and restraint; Mara loses possession but changes conduct.
 - **Obligation:** Movement ends with institution stronger, economics worse, and tactical thesis overcorrecting toward known bottlenecks.
 
 ## Movement II: Things That Cannot Be Replaced

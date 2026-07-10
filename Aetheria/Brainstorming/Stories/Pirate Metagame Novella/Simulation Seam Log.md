@@ -84,5 +84,18 @@ Scene engineering refined the most consequential candidates in [[09 Scene Engine
 - continuity objectives need revocable participant state before an irreversible commit.
 
 These refinements remain noncanonical implementation prompts and do not delay manuscript drafting.
+
+## Pass 10 Movement I Discoveries
+
+Drafting produced additional nonblocking candidates in [[10 Draft Movement I/Narrative Seam Notes]]:
+
+- casualty classification holds under post-Callisto restraint;
+- cross-hull emergency heat acceptance;
+- tethered personnel transfer through a rotating relative-motion null;
+- physical local subsystem halt distinct from network command;
+- target-side wage/title sabotage during surrender;
+- dependency-aware subsystem restraint after Remora attachment.
+
+Only the physical halt and dependency graph recur strongly enough to influence current combat design priorities. The rescue and claim mechanics remain narrative inspiration unless later movements or gameplay require deliberate invocation.
 | Optical claimant authentication under partition | Maintain trusted identity and claim continuity across isolated low-bandwidth paths | Geometry, optical links, witnesses, cognition, time | Multi-source authentication without central network | Occlusion, movement, compromised witness, or link loss interrupts | Visible optical/courier exchanges; broad until exact bandwidth matters | **Provisional**; AI invocation and observed/offscreen continuity justify promotion |
 | Ballistic route denial around inhabited volumes | Use unguided hazard volumes to constrain escort approaches without firing through protected habitats | Ammunition, solution quality, geometry, time, conduct policy | Persistent hazard volumes with protected-volume exclusions | Maneuver, patience, armor, alternate axis, or saturation counters | Visible trajectories and denied routes; exact density contested | **Provisional**; player choice and loadout effect justify promotion |

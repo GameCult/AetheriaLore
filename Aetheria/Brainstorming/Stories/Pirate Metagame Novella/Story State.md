@@ -195,3 +195,22 @@
 - Preserve one foreground question per scene and no more than one primary plus one secondary tactical clock.
 - Append newly invented maneuvers to [[Simulation Seam Log]] without interrupting prose.
 - Run audience, continuity/tactics, character/social-agency, and prose/voice review on the completed movement before acceptance.
+
+## Pass 10 Draft Movement I
+
+- [[10 Draft Movement I/Movement I Draft]] contains eight chapters, nine explicit POV sections, and 16,029 revised words.
+- Luce's regatta rescue saves all six people and triggers the automatic Serrat recovery claim.
+- Fourteen months separate recruitment from commissioning.
+- Suri Dax survives aboard the disabled relay, preserves wage authentication, sabotages easy title, and accepts conditional passage without granting innocence.
+- The Refundable War loses two Courtesies, sends six to depot work, injures Dena, and exercises her local halt.
+- Deep Quiet integrates Rin, Edda, Pal, Kesh, Vek, and Samira's separate refusals while Yun Tal turns ordinary work into witnesses.
+- Patient Hands ends with no boarding, two Remorae destroyed, one contaminated return, Kavi's care-bond retaliation, and a new physical-isolation overcorrection.
+- Four skeptical reviews were reconciled in [[10 Draft Movement I/Skeptical Review Report]].
+
+## Open State For Pass 11
+
+- Draft Movement II as an emotionally complete manuscript section.
+- Distinguish Hull One's violent destruction, Hull Two's living abandonment, and Hull Three's dispossession in prose, sensation, and aftermath.
+- Preserve Luce's visible emotional continuity despite no Luce POV.
+- Protect Sable's genuine excellence from reading as setup for punishment.
+- Keep all simulation discoveries nonblocking.

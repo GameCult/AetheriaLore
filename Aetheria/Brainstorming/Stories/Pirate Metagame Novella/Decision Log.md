@@ -86,6 +86,11 @@
 | D-080 | Restrict polished thematic lines to at most one per scene and leave authority implicit in at least one scene per chapter. | Accepted | The manuscript must sound like different people living under pressure rather than one institutional intelligence routing decisions. |
 | D-081 | Preserve the second loiterer in Hull One's destruction chain. | Accepted | The loss must follow seeded redundancy rather than a lucky fragment cascade. |
 | D-082 | Make Suri Dax's wage/title choice part of the first Courtesy victory. | Accepted | Target agency and coercive residue must be visible before the crew calls a prize clean. |
+| D-083 | Accept Movement I at 16,029 words after audience-led expansion and compression. | Accepted | The movement is emotionally complete; additional words added only to meet the planning target would reduce rather than improve reader experience. |
+| D-084 | Preserve Suri Dax as the surviving relay operator with no casualties in the first Courtesy victory. | Accepted | This restores tactical-trace and social-ledger continuity while keeping target-side wage/title agency. |
+| D-085 | Make Deep Quiet's abort integrate plural refusal authority. | Accepted | Samira commands because other actors own and remove options, not because their agency collapses into her competence. |
+| D-086 | Spend two Remorae and contaminate a third during Patient Hands withdrawal. | Accepted | Competent target counteraction and inventory conservation must survive narrative restraint. |
+| D-087 | End Movement I on Luce commissioning a more selective but service-heavy physical isolation design. | Accepted | The crew learned something real; Luce's overcorrection turns it into another beautiful machine. |
 
 ## Supersession Rule
 

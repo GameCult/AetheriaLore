@@ -36,6 +36,7 @@ Later passes will add ships, combat model, tactical traces, failure ladder, POV 
 - [[07 Character Causality Replay/Pass Report|Pass 7 - Character Causality Replay]]
 - [[08 Narrative Architecture/Pass Report|Pass 8 - Narrative Architecture]]
 - [[09 Scene Engineering/Pass Report|Pass 9 - Scene Engineering]]
+- [[10 Draft Movement I/Pass Report|Pass 10 - Draft Movement I]]
 
 ## Current Planning Surfaces
 
@@ -53,3 +54,5 @@ Later passes will add ships, combat model, tactical traces, failure ladder, POV 
 - [[Scene Cards]]
 - [[09 Scene Engineering/Scene Progression Ledger|Scene Progression Ledger]]
 - [[09 Scene Engineering/Simulation Candidate Notes|Simulation Candidate Notes]]
+- [[10 Draft Movement I/Movement I Draft|Movement I Draft]]
+- [[10 Draft Movement I/Narrative Seam Notes|Movement I Narrative Seam Notes]]
