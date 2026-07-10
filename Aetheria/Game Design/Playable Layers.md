@@ -24,6 +24,10 @@ The shared world is the hard part, naturally. The active `Aetheria-Economy` work
 
 The design problem is to decide which interactions must be live and which can be summarized. Not every corporate decision needs to spawn a bespoke cockpit encounter. Not every player dogfight needs to update a quarterly report. The useful overlap is where one layer creates pressure the other layer can understand.
 
+Combat crosses that boundary through two synchronized execution models. The daemon's deterministic heuristic kernel advances hundreds of offscreen battles many times faster than realtime. The frame-by-frame full simulation owns battles under direct observation. Both consume compatible native state, and authority transfers only at explicit synchronization checkpoints so watching a battle cannot change its material truth.
+
+The heuristic kernel doubles as a game-design laboratory. New combat mechanics can be explored through large matchup sweeps before their desired dynamics are locked and built as animated live-simulation behavior. After both versions exist, paired conformance tests keep their tactical decisions, resource costs, damage, and outcomes within characterized bounds.
+
 ## Near-Term Shape
 
 The release path should keep the layers honest without requiring them all to ship at once:

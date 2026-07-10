@@ -2,9 +2,9 @@
 
 ## Purpose And Authority
 
-This document specifies the deterministic tactical workbench for the novella. The workbench is not a second simulator. Aetheria's daemon combat kernel advances native entity state and owns ground-truth results; Unity or another viewer renders and locally interpolates committed state. Story-room traces used as evidence must be exported from that kernel.
+This document specifies Aetheria's deterministic **heuristic combat kernel**. It is a second execution model by design: a fast approximation of the frame-by-frame full simulation used for live gameplay. The fine-grained live simulation is the reference ground truth. The daemon kernel resolves offscreen combat and runs balance or training batches many times faster than realtime.
 
-The **combat state** owns physical truth. One transition function advances it. Clocks, tactical summaries, and matchup heuristics are derived forecasts; they never write reality back into the state merely because a forecast expired.
+Compatible native combat state crosses between the two execution models. While a battle is observed, the frame-by-frame loop owns advancement. While it is offscreen, the daemon kernel owns advancement. Clocks and tactical summaries are derived inside the heuristic model; they do not independently write either simulation's state merely because a forecast expired.
 
 The model is idealized, not impoverished. It omits continuous collision geometry, individual projectile paths, and cosmetic motion while preserving the decisions those systems make important: whether a track resolves in time, whether a firing solution remains valid, where heat and cognition are spent, what a munition can still reach, and which subsystem takes the first meaningful hit.
 
@@ -15,9 +15,9 @@ The smallest machine that turns two matchups into a tactical heuristic has six p
 1. Two native platform states instantiated from manufactured items and loadout blueprints.
 2. One shared environment and initial geometry.
 3. One policy per side mapping its observation state to an order bundle.
-4. The actual daemon transition function.
-5. A heuristic implementation that predicts clock pressure from observation-compatible inputs.
-6. One ground-truth outcome vector used to score the heuristic's prediction and decisions.
+4. The daemon kernel's fast transition function.
+5. A clock-based policy and explanation surface operating on observation-compatible state.
+6. A paired fine-grained run used to measure heuristic error where conformance is being tested.
 
 Run policy A against policy B, then swap one doctrine, blueprint, manufactured instance set, supply chain, or opening condition and run again. The useful output is not a scalar combat rating. It is a **clock card**:
 
@@ -25,7 +25,7 @@ Run policy A against policy B, then swap one doctrine, blueprint, manufactured i
 
 A tactic is locally favored when its decisive effect matures before the opponent can interrupt it and when the margin survives one plausible counterfactual. The heuristic should say, for example, “recoverable PDC pressure wins the track clock by 41 seconds against a sparse picket screen, but loses the recovery/terminal clock by 73 seconds against heterogeneous bait with lane loiterers.” It should not say “drone build: 82.”
 
-The simulator does not consult that explanation to decide what happens. The heuristic predicts before or during the run from information its actor could possess. The harness then compares predicted clocks, confidence, recommended action, and failure explanation against the kernel's event trace. A heuristic that narrates the completed trace perfectly but could not make the decision in time has failed.
+The kernel uses those clock estimates to advance abstracted combat and choose policy actions; they are therefore part of the heuristic simulator rather than a separate spectator model. The conformance harness compares the kernel's predicted clocks, decisions, state deltas, and outcome against a paired fine-grained run. A kernel that narrates the completed live trace perfectly but cannot make the right abstract decision in time has still failed.
 
 ## Blueprint, Manufacture, And Scenario Authority
 
@@ -249,7 +249,7 @@ An order bundle may set:
 - small-hull role, autonomy, loiter box, recovery rule, and self-neutralization;
 - surrender, rescue, capture, abort, and evacuation boundaries.
 
-Policies act only on faction observation state plus their own internal state. They cannot inspect truth entities. This allows the kernel to produce both an omniscient ground-truth trace and the partial observation stream used to train a decision model.
+Policies act only on faction observation state plus their own internal state. They cannot inspect truth entities. This allows the kernel to produce both its omniscient internal trace and the partial observation stream used to train a decision model; paired live simulation remains the conformance ground truth.
 
 ## Outcome Vector
 
@@ -281,21 +281,43 @@ _The Sum of Our Parts_ enters Pass 5 with the following model commitments:
 
 Exact normalized component values belong to Pass 5 scenario cards. Pass 4 fixes meanings and transition rules so later tuning changes numbers rather than ontology.
 
-## Kernel And Heuristic Verification Boundary
+## Dual-Simulation Boundary
 
-The daemon kernel consumes Aetheria's typed catalog, economy, crafting, and entity snapshots directly:
+Both execution models consume Aetheria's typed catalog, economy, crafting, and compatible entity state:
 
 - item references, hull grid, equipment slots, weapon groups, behavior payloads, stat grids, temperature, armor, durability, velocity, target state, visibility, behavior progress, weapon state, and cargo/docking state remain native inputs;
 - cognition, signature shaping, observation contacts, small-hull autonomy, service topology, conduct state, and campaign economics are additive typed state where the current game lacks the mechanic;
 - blueprints own technological arrangements and derivation rules; manufacturing recipes own provenance; item instances own the actual material incarnation used by the entity;
-- Unity remains a consumer and renderer of committed daemon state, not the owner of combat truth;
-- visible simulation and out-of-view simulation use the same state and transition semantics. Changing observation should change rendering and available player input, not secretly swap combat rules.
+- the frame-by-frame full simulation owns advancement while a battle is live and observed;
+- the daemon heuristic kernel owns advancement while a battle is offscreen;
+- promotion to live simulation materializes fine-grained game-world state from a kernel synchronization checkpoint;
+- demotion to offscreen simulation projects live state into the kernel at a synchronization checkpoint;
+- changing observation may change execution model, rendering, and available player input, but must not create a tactically advantageous discontinuity.
 
-The verification harness runs the real kernel and records two synchronized products:
+The conformance harness runs paired scenarios and records three synchronized products:
 
-1. an omniscient event trace containing physical state transitions and final outcome;
-2. each actor's observation stream, heuristic clock cards, confidence, recommendations, and issued orders.
+1. the fine-grained frame-by-frame trace and final state;
+2. the daemon kernel's abstract state transitions, clocks, decisions, and final state;
+3. each actor's observation stream and issued orders under both execution models.
 
-Tests score replay determinism, heuristic clock error, confidence calibration, action regret against available information, explanation fidelity, and whether a recommendation relied on truth unavailable to the actor. Bulk runs populate balance datasets from native instance IDs and provenance, allowing results to be grouped by blueprint, manufacturer, recipe input, quality, doctrine, or condition without confusing any of those categories.
+Tests score kernel replay determinism, state-transition error, clock error, confidence calibration, action divergence, time-to-kill or capture error, damage-location error, resource-consumption error, conduct-boundary agreement, and final-outcome agreement. Exact frame agreement is neither expected nor useful; tactical invariants and bounded aggregate error are. Promotion and demotion tests must prove that repeated observation changes cannot heal damage, duplicate ammunition, reset heat, reroll a decision, lose provenance, or alter an already committed event.
+
+Bulk kernel runs populate balance and decision-training datasets from native instance IDs and provenance, allowing results to be grouped by blueprint, manufacturer, recipe input, quality, doctrine, or condition without confusing those categories. The performance target is many times faster than realtime with hundreds of concurrent battles across the local galaxy. This is infrastructure for Aetheria's large strategic/RTS game, not the scoped [[Aetheria Starbridge]] mode and not merely a restatement of the older `Profits Rising` document.
+
+## Mechanics Development Contract
+
+New combat mechanics normally begin in the heuristic kernel because it is cheap enough to explore rather than merely validate. The development sequence is:
+
+1. propose native state, orders, candidate invariants, and observable consequences;
+2. implement the candidate mechanic in the heuristic kernel;
+3. use fast batches, matchup sweeps, and counterfactuals to compare game-design options;
+4. lock the desired dynamics, material costs, counterplay, and state contract;
+5. build the mechanic as fine-grained animated game-world behavior in the live simulation loop;
+6. add paired conformance fixtures across ordinary, edge, damage, and observation-transition cases;
+7. tune abstractions where necessary without teaching the kernel scenario identities or bypassing manufacturing provenance.
+
+Before the live implementation exists, heuristic results are design experiments rather than claims about frame-level reality. Once the desired dynamics are accepted, they become the implementation target for the live simulator. Once that simulator exists, it becomes execution ground truth: unexpected fine-grained consequences may force an honest revision of the mechanic or the heuristic rather than being averaged away.
+
+A mechanic is strategically complete only when both execution models exchange its state and their divergence is characterized. The kernel should preserve accepted decisions and material consequences, not imitate every projectile frame.
 
 The abstraction boundary is deliberate: continuous presentation may interpolate positions and effects, while every decision-bearing event is committed on deterministic ticks and can be replayed from state plus orders.

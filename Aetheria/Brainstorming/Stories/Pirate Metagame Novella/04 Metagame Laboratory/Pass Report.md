@@ -8,18 +8,19 @@
 
 ## Decisions Locked
 
-- Canonical combat state and one deterministic transition function own physical truth.
+- One shared combat-state contract supports two transition implementations: the fast daemon kernel offscreen and the frame-by-frame full simulation while observed.
 - Combat uses fixed 250-millisecond integer ticks with stable event ordering and no hidden random rolls.
 - Clocks are derived forecasts with confidence and invalidation conditions; they never become independent state owners.
-- The smallest matchup machine is two builds, one environment, two policies, one transition function, and an outcome vector explained by a clock card.
+- The smallest kernel matchup machine is two builds, one environment, two policies, one fast transition function, and an outcome vector explained by a clock card; selected cases add a paired live-simulation run.
 - Physical truth and faction-local observation state are separate.
 - Cognition is allocated work across sensing, classification, EW, command, fire control, guidance, terminal discrimination, and damage control.
 - Fire control separately tracks assignment throughput and solution quality.
 - Signature shaping is post-Cold-Wake, observer-relative, and bounded by heat, aspect, motion, history, and control envelope.
 - Every drone or munition is a component-built small platform whose battlefield role comes from capability and orders.
 - Native Aetheria component, behavior, grid, and entity state remains authoritative where available; new mechanics extend rather than duplicate it.
-- The actual daemon kernel, not a story-room approximation, produces tactical traces and ground-truth outcomes.
-- The heuristic is a separate consumer under test; it predicts from actor-available observations and is scored against kernel truth.
+- The daemon kernel is the fast deterministic heuristic simulator and offscreen combat authority.
+- The frame-by-frame live simulation is the fine-grained conformance ground truth.
+- Observed and offscreen battles exchange compatible native state at explicit synchronization checkpoints.
 - Technology blueprints, manufacturing recipes, item instances, and loadout blueprints have separate authorities.
 - Pass 5 scenarios require native database fixtures with varied technologies, rights histories, producers, supply chains, manufacturing quality, and item condition.
 
@@ -37,9 +38,11 @@
 
 - Pass 3 material quantities now have stable semantic homes in the combat state.
 - The first-hull recovery failure can be simulated without requiring crew stupidity or an unseeded counter.
-- Pass 5 can vary doctrines and component packages while sharing one transition ontology.
-- Future daemon implementation has a stated compatibility boundary with native typed Aetheria state.
-- The hand-solvable vectors are acceptance expectations only until the real kernel reproduces or corrects them.
+- Pass 5 can vary doctrines and component packages while both execution models share one state and mechanics contract.
+- The two simulation models have a stated compatibility and conformance boundary around native typed Aetheria state.
+- The hand-solvable vectors are acceptance expectations until the kernel runs them and selected live-simulation pairs quantify heuristic error.
+- The architecture serves hundreds of concurrent local-galaxy battles in Aetheria's large strategic/RTS game, not Starbridge or a renamed `Profits Rising` prototype.
+- New mechanics are explored through fast kernel batches first; accepted dynamics then become the live-simulation implementation target and later conformance contract.
 
 ## Review Points Before Pass 5
 

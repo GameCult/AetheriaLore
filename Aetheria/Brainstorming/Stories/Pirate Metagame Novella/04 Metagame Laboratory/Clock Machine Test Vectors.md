@@ -1,6 +1,6 @@
 # Clock Machine Test Vectors
 
-These are expected-result acceptance fixtures, not evidence that a simulation has run. Pass 5 must instantiate them from native Aetheria database objects, exercise the daemon combat kernel, capture observation streams, and compare the heuristic's predictions with ground truth. Any value the actual kernel contradicts must be revised rather than defended as story canon.
+These are expected-result acceptance fixtures, not evidence that a simulation has run. Pass 5 must instantiate them from native Aetheria database objects, exercise the fast daemon heuristic kernel, and run selected cases through the frame-by-frame live simulation as conformance ground truth. Any value the fine-grained simulation contradicts must be revised or recorded as bounded heuristic error rather than defended as story canon.
 
 ## Vector 1: Sparse Picket Screen
 

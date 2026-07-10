@@ -31,15 +31,19 @@
 | D-025 | Use sixteen recoverable Courtesy PDC drones for the Doctrine of Reversible Superiority. | Accepted | The capability produces a real edge while exposing recovery topology as a physical counter. |
 | D-026 | Give Pal a 118-kilogram portable continuity shell with bounded wireless control and severe uncoupled thermal limits. | Accepted | Makes evacuation executable without turning the core into a ship-scale computer in a suitcase. |
 | D-027 | Denominate story planning economics in relative PSCC settlement units. | Accepted | Reconciles budgets without inventing unsupported purchasing-power canon. |
-| D-028 | Advance combat on deterministic 250-millisecond integer ticks under one canonical transition function. | Accepted | Makes traces replayable and keeps clocks from becoming competing state owners. |
+| D-028 | Advance combat on deterministic 250-millisecond integer ticks under one canonical transition function. | Superseded by D-037 | The 250-millisecond kernel tick remains; one shared contract now has separate heuristic and frame-by-frame transition implementations. |
 | D-029 | Separate physical truth from faction-local observation and contact hypotheses. | Accepted | Detection, masking, uncertainty, and false commitment require ignorance without hidden randomness. |
 | D-030 | Treat cognition as finite task work across the complete decision stack. | Accepted | Quality must improve sensing through terminal maneuver while load, heat, power, links, and architecture remain counters. |
 | D-031 | Use clock cards as matchup explanations rather than scalar combat ratings. | Accepted | Tactical value depends on which effect matures before which interruption under a particular objective. |
 | D-032 | Extend native Aetheria state without duplicating facts it already owns. | Accepted | Preserves compatibility with the daemon and avoids a parallel combat ontology. |
-| D-033 | Require all evidentiary tactical traces to come from Aetheria's actual daemon combat kernel. | Accepted | The story room specifies fixtures and expectations but does not own a shadow simulator. |
-| D-034 | Test the tactical heuristic as a partial-observation consumer against synchronized kernel ground truth. | Accepted | Explanation after the fact is not decision competence. |
+| D-033 | Require all evidentiary tactical traces to come from Aetheria's actual daemon combat kernel. | Superseded by D-037 | The daemon kernel is itself the heuristic model; the fine-grained live simulation supplies conformance ground truth. |
+| D-034 | Test the tactical heuristic as a partial-observation consumer against synchronized kernel ground truth. | Superseded by D-037 | Kernel decisions and transitions are compared with paired live-simulation behavior rather than treating the kernel as ground truth. |
 | D-035 | Separate technology blueprints, provenance-bearing manufacturing recipes, manufactured item instances, and platform loadout blueprints. | Accepted | Technology, legal control, supply chain, branded incarnation, and combat arrangement are different facts with different owners. |
 | D-036 | Populate native database fixtures deeply enough to express candidate doctrines without scenario-local equipment statistics. | Accepted | Balance results must arise from the same economy and content grammar as play. |
+| D-037 | Make the daemon kernel the fast offscreen heuristic simulator and the frame-by-frame live loop its fine-grained conformance ground truth. | Accepted | Aetheria needs hundreds of concurrent strategic battles without allowing observed and offscreen combat to become different games. |
+| D-038 | Transfer battle ownership only at explicit compatible-state synchronization checkpoints. | Accepted | Observation changes must not heal, cool, duplicate, erase, reroll, or otherwise alter committed combat state. |
+| D-039 | Target many-times-realtime batch performance and hundreds of concurrent local-galaxy battles for Aetheria's large RTS layer. | Accepted | This capability is not a Starbridge mechanic and is not merely the old `Profits Rising` design. |
+| D-040 | Prototype new combat mechanics in the heuristic kernel, lock desired dynamics through batch exploration, then build them into the frame-by-frame simulation. | Accepted | Fast design search should precede expensive animated implementation; conformance begins once both models exist. |
 
 ## Supersession Rule
 

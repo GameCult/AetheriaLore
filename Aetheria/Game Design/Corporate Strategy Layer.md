@@ -34,6 +34,8 @@ See [[Colonies and Population]] for the population model recovered from the plan
 
 Research should not be a clean ladder of bigger numbers. It should alter what a corporation can build, which materials it needs, what risks it externalizes, and which factions become rivals or suppliers. Production should inherit quality, material origin, blueprint design, labor conditions, and manufacturing doctrine where the game can support it without turning every bolt into a tax filing.
 
+A blueprint expresses a technology and arrangement of components, not a branded inventory good. It may be patented, licensed, proprietary, public domain, stolen, expired, or independently discovered. The actual branded or unbranded object is a manufactured item instance. Its crafting recipe and manufacturing run carry the supply-chain provenance: real input lots and components, producer, facility, substitutions, quality, licensing claim, and process history. Strategy-scale production should create those instances rather than minting a new item-data definition for every brand and quality tier.
+
 The planning docs give research a patent window: completed technologies grant exclusive rights for a time before becoming licensable by others. That is much more interesting than permanent unlock hoarding. It lets research create temporary monopoly, licensing revenue, arms races, and the brief corporate ecstasy of mistaking first-mover advantage for virtue.
 
 ## Conflict
@@ -41,3 +43,13 @@ The planning docs give research a patent window: completed technologies grant ex
 Strategy conflict is economic before it is military. Route denial, contract manipulation, supply interruption, standards capture, sabotage, insurance pricing, infrastructure enclosure, and hostile acquisition all fit Aetheria better than simple conquest. Open violence still exists, but the setting is strongest when coercion comes with invoices.
 
 The strategy GDD also includes police protocol, pirates/privateers, independent traders, AI corporations, and alien escalation. The current design may rename, replace, or cut them, but the actor roles are still useful: they keep the corporate layer from becoming a closed optimization puzzle. The market has predators, referees, parasites, and the occasional existential correction.
+
+## Strategic Combat Simulation
+
+The large strategy game needs hundreds of battles to progress across the local galaxy without requiring every engagement to run frame by frame. A fast deterministic combat kernel in the daemon resolves offscreen engagements from the same native hulls, manufactured item instances, loadouts, condition, cognition, observations, orders, and campaign state used by live play.
+
+The kernel is also the combat-design laboratory. New mechanics should be cheap to prototype there: run many matchups, vary blueprints and supply chains, expose counters, and decide which dynamics deserve to exist. Once those dynamics are accepted, the live frame-by-frame simulation builds them out as animated game-world behavior. Paired conformance scenarios then keep offscreen and observed combat aligned as both implementations evolve.
+
+An observed battle transfers advancement authority to the live simulation at an explicit synchronization checkpoint. A battle leaving observation returns to the kernel the same way. Crossing that boundary must not repair damage, cool components, duplicate ammunition, change provenance, reset cognition, or reroll committed events.
+
+This architecture belongs to Aetheria's large corporate strategy/RTS layer. [[Aetheria Starbridge|Starbridge]] may consume shared combat machinery, but its scoped cooperative defense sessions are not the reason hundreds of persistent battles must run faster than realtime. The older `Profits Rising` document is ancestry, not the name or boundary of the resulting game.

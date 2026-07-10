@@ -104,7 +104,7 @@
 
 ## Pass 4 Combat Model
 
-- Physical truth lives in canonical combat state advanced by one deterministic transition function.
+- Combat uses one compatible state and mechanics contract with two transition implementations: the deterministic fast kernel offscreen and the frame-by-frame full simulation while observed.
 - Authoritative time advances in fixed 250-millisecond integer ticks with stable event order and no hidden random rolls.
 - Faction observation state is partial and separate from truth; policies may not inspect true entities directly.
 - Track, terminal, heat, cognition, and economic clocks are derived forecasts. `mask_check` is a deterministic observer-relative feasibility and detection test.
@@ -114,7 +114,10 @@
 - Drones and munitions share one component-built small-platform model; role follows loadout and orders.
 - Native Aetheria entity, component, behavior, grid, weapon, thermal, power, cargo, and docking state remains authoritative where it exists.
 - Full transition order, state schema, clock meanings, output vector, compatibility boundary, and hand-solvable fixtures are authoritative in [[Combat Model]] and the Pass 4 folder.
-- Tactical traces become evidence only when exported by Aetheria's actual daemon kernel. The heuristic is a separately tested consumer of actor-available observations.
+- The daemon kernel is the fast deterministic heuristic simulator and owns offscreen combat advancement. The frame-by-frame live simulation owns observed combat advancement and supplies fine-grained conformance ground truth.
+- Both execution models exchange compatible native combat state at synchronization checkpoints. Promotion or demotion must not create tactical discontinuities or duplicate, erase, heal, cool, or reroll committed state.
+- The kernel exists to run many times faster than realtime so Aetheria's large strategic/RTS game can sustain hundreds of battles across the local galaxy. This requirement is not scoped to Starbridge and is not synonymous with `Profits Rising`.
+- New mechanics normally begin as fast heuristic-kernel experiments. Once matchup sweeps establish desired dynamics and counterplay, those dynamics become the contract for frame-by-frame implementation; the live simulator then becomes execution ground truth for continuing conformance.
 - A blueprint expresses technology and component arrangement with patent and licensing history. A crafting recipe or manufacturing run carries supply-chain provenance. A manufactured item instance is the actual branded or unbranded object entering inventory and combat. A loadout blueprint arranges those objects into a platform.
 
 ## Open State For Pass 5
@@ -124,4 +127,4 @@
 - Policy thresholds for launch, reveal, abort, recovery, capture, and escape.
 - Selection of which laboratory matchup becomes narrative history.
 - Native database fixture population sufficient to express technological, manufacturing, legal, branded, and supply-chain variety without scenario-local equipment stats.
-- Heuristic verification metrics against omniscient kernel traces and synchronized actor observation streams.
+- Paired kernel/live-simulation conformance metrics, promotion/demotion tests, and performance measurements under hundreds of concurrent battles.

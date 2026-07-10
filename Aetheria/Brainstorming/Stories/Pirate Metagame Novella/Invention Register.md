@@ -33,7 +33,9 @@ These elements are accepted for the novella but are not yet wider Aetheria canon
 | I-025 | Cognition is modeled as finite task throughput spanning sensing, classification, EW, command, fire control, guidance, terminal discrimination, and damage control. | Better cognition improves every layer but remains bounded by embodiment and infrastructure. |
 | I-026 | A clock card compares earliest credible effect against earliest interruption across track, terminal, heat, cognition, economic, and masking pressure. | It is the simplest proposed machine for turning two matchups into a tactical heuristic. |
 | I-027 | Candidate simulations are instantiated from native technology blueprints, manufacturing recipes, item instances, and loadout blueprints, then run by the daemon kernel. | This is a game architecture decision rather than wider setting canon. |
-| I-028 | The heuristic is scored against synchronized omniscient traces and actor-local observation streams. | This distinguishes predictive decision quality from post-hoc narration. |
+| I-028 | The daemon heuristic kernel is scored against paired frame-by-frame live-simulation traces and actor-local observation streams. | The live simulation is fine-grained ground truth; the kernel preserves decisions and consequences at much higher speed. |
+| I-029 | Observed and offscreen combat exchange compatible state at explicit synchronization checkpoints. | This supports seamless tactical observation inside Aetheria's large strategic game. |
+| I-030 | New mechanics are explored and selected in the fast heuristic kernel before frame-by-frame implementation and subsequent conformance. | This is the combat-design development loop, not setting canon. |
 
 ## Deferred Inventions
 
