@@ -94,22 +94,50 @@ async function initReader(root: HTMLElement) {
       rendition.themes.override("line-height", String(settings.lineHeight / 100))
     }
 
+    function resizeRendition() {
+      const width = Math.max(320, Math.floor(viewport.clientWidth))
+      const height = Math.max(320, Math.floor(viewport.clientHeight))
+      if (rendition.manager && typeof rendition.resize === "function") rendition.resize(width, height)
+    }
+
+    function clampRenditionDom() {
+      viewport.style.width = "100%"
+      viewport.style.maxWidth = "100%"
+      viewport.style.overflow = "hidden"
+      viewport.querySelectorAll<HTMLElement>(".epub-container, .epub-view, iframe").forEach((element) => {
+        element.style.setProperty("width", "100%", "important")
+        element.style.setProperty("max-width", "100%", "important")
+        element.style.setProperty("min-width", "0", "important")
+        if (element.classList.contains("epub-view")) element.style.setProperty("flex", "0 0 100%", "important")
+      })
+    }
+
+    async function displayLocation(target?: string) {
+      status.textContent = "Loading chapter"
+      await rendition.display(target)
+      clampRenditionDom()
+      resizeRendition()
+      clampRenditionDom()
+      status.textContent = "Ready"
+    }
+
     root.querySelectorAll<HTMLInputElement | HTMLSelectElement>("[data-reader-setting]").forEach((control) => {
       const key = control.dataset.readerSetting as keyof ReaderSettings
       if (key !== "chapter" && settings[key] !== undefined) control.value = String(settings[key])
     })
 
     applyTypography()
-    await rendition.display(settings.cfi)
+    await displayLocation(settings.cfi)
     status.textContent = settings.cfi ? "Position restored" : "Ready"
 
     const chapterSelect = root.querySelector<HTMLSelectElement>('[data-reader-setting="chapter"]')!
     const navigation = await book.loaded.navigation
     chapterSelect.replaceChildren(...navigation.toc.map((item: any) => new Option(item.label.trim(), item.href)))
-    chapterSelect.addEventListener("change", () => void rendition.display(chapterSelect.value))
+    chapterSelect.addEventListener("change", () => void displayLocation(chapterSelect.value))
 
     void book.ready.then(() => book.locations.generate(1200))
     rendition.on("relocated", (location: any) => {
+      clampRenditionDom()
       settings.cfi = location.start.cfi
       saveSettings(settings)
       const percentage = book.locations?.length() ? book.locations.percentageFromCfi(settings.cfi) : null
@@ -117,16 +145,23 @@ async function initReader(root: HTMLElement) {
       if (location.start.href) chapterSelect.value = location.start.href
     })
 
-    root.querySelector('[data-reader-action="previous"]')?.addEventListener("click", () => void rendition.prev())
-    root.querySelector('[data-reader-action="next"]')?.addEventListener("click", () => void rendition.next())
+    const mutationObserver = new MutationObserver(() => clampRenditionDom())
+    mutationObserver.observe(viewport, { attributes: true, childList: true, subtree: true, attributeFilter: ["style"] })
+
+    root.querySelector('[data-reader-action="previous"]')?.addEventListener("click", () => {
+      void rendition.prev().then(() => clampRenditionDom())
+    })
+    root.querySelector('[data-reader-action="next"]')?.addEventListener("click", () => {
+      void rendition.next().then(() => clampRenditionDom())
+    })
     root.querySelector('[data-reader-action="fullscreen"]')?.addEventListener("click", () => {
       if (document.fullscreenElement) void document.exitFullscreen()
       else void root.requestFullscreen()
     })
     root.addEventListener("keydown", (event) => {
       if ((event.target as HTMLElement).matches("input, select")) return
-      if (event.key === "ArrowLeft") void rendition.prev()
-      if (event.key === "ArrowRight") void rendition.next()
+      if (event.key === "ArrowLeft") void rendition.prev().then(() => clampRenditionDom())
+      if (event.key === "ArrowRight") void rendition.next().then(() => clampRenditionDom())
     })
 
     root.querySelectorAll<HTMLInputElement | HTMLSelectElement>("[data-reader-setting]").forEach((control) => {
@@ -135,14 +170,21 @@ async function initReader(root: HTMLElement) {
         const key = control.dataset.readerSetting as keyof ReaderSettings
         if (key === "fontSize" || key === "lineHeight") settings[key] = Number(control.value)
         else (settings as any)[key] = control.value
-        if (key === "flow") rendition.flow(settings.flow)
-        else if (key === "spread") rendition.spread(settings.spread)
-        else applyTypography()
+        if (key === "flow") {
+          rendition.flow(settings.flow)
+          void displayLocation(settings.cfi)
+        } else if (key === "spread") {
+          rendition.spread(settings.spread)
+          resizeRendition()
+        } else applyTypography()
         saveSettings(settings)
       })
     })
 
-    window.addCleanup(() => book.destroy())
+    window.addCleanup(() => {
+      mutationObserver.disconnect()
+      book.destroy()
+    })
   } catch (error) {
     root.dataset.readerReady = "false"
     status.textContent = error instanceof Error ? error.message : "The reader could not open this book."
