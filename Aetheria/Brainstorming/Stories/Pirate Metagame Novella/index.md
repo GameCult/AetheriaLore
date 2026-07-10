@@ -34,6 +34,7 @@ Later passes will add ships, combat model, tactical traces, failure ladder, POV 
 - [[05 Strategy Auditions/Pass Report|Pass 5 - Strategy Auditions]]
 - [[06 Failure Ladder/Pass Report|Pass 6 - Failure Ladder]]
 - [[07 Character Causality Replay/Pass Report|Pass 7 - Character Causality Replay]]
+- [[08 Narrative Architecture/Pass Report|Pass 8 - Narrative Architecture]]
 
 ## Current Planning Surfaces
 
@@ -44,3 +45,7 @@ Later passes will add ships, combat model, tactical traces, failure ladder, POV 
 - [[07 Character Causality Replay/Twelvefold Replay|Twelvefold Replay]]
 - [[07 Character Causality Replay/Social Body Replay|Social Body Replay]]
 - [[07 Character Causality Replay/Audience Visibility And Comedy Ledger|Audience Visibility And Comedy Ledger]]
+- [[Chapter Architecture]]
+- [[POV Knowledge Matrix]]
+- [[08 Narrative Architecture/Final Operation Architecture|Final Operation Architecture]]
+- [[08 Narrative Architecture/Voice And Prose Standard|Voice And Prose Standard]]

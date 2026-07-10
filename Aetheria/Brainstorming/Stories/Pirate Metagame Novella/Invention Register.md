@@ -51,6 +51,9 @@ These elements are accepted for the novella but are not yet wider Aetheria canon
 | I-043 | Mira Sol and Dev Koro embody conflicting Halcyon Recovery and Liability pressures. | Neither represents all of Halcyon; both remain materially dependent on the institution they may criticize. |
 | I-044 | Asha Pell, Lorn Ves, and Mae Corin preserve Undertow-worker and Orsino-staff agency across the final claims conflict. | Their evidence and labor remain theirs; they are not secret agents planted to help Luce. |
 | I-045 | Kesh, Trraak, Tlak, Rruk, and Khraa sustain nonfatal injuries across the campaign. | Rescue tokens, treatment, and consent changes become exercised state without manufacturing deaths for gravity. |
+| I-046 | Halcyon's mobile continuity convergence can commit a witnessed freeze on remote alteration and asset flight when a bounded worker, claimant, provenance, escrow, and communication quorum survives. | The event enforces minimum floors and neutral custody; it does not complete every legal adjudication. |
+| I-047 | Pal's neutral Ship Mutiny bailment denies fixture accession and preserves an independent extraction right. | It supplies legal and physical exit without becoming remote authority over Pal or Hull Four. |
+| I-048 | The final operation's two Remorae carry identical dual-purpose override-isolation packages in external relay cradles. | One attachment plus worker custody is sufficient; the second extends the window and prevents purge rather than unlocking a separate magic function. |
 
 ## Deferred Inventions
 

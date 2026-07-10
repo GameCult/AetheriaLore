@@ -157,14 +157,21 @@
 - Kesh, Rruk, and Khraa are the principal Corvid reader through-lines; Vek/Tlak remain partially legible; the rest remain causally active sideband.
 - Consequential comedy and distinct evacuation presentation are locked in [[07 Character Causality Replay/Audience Visibility And Comedy Ledger]].
 
-## Open State For Pass 8
+## Pass 8 Narrative Architecture
 
-- Build chapter architecture and POV knowledge under the visibility hierarchy rather than attempting to dramatize the complete replay.
-- Choose Meera's exact final-operation contract and conserve the resulting thirty-five or thirty-six-person complement.
-- Choose three or four decisive turns per major arc; leave ordinary competence, error, drift, and unchanged state on the page.
-- Treat Campaign VII's Hot victory as setup error; the shepherd rescue is its only emotional climax.
-- Give each hull era one ordinary-life compression scene rather than a montage of every interval.
-- Keep Campaign VI's visible question simple: the gun knows where the point is; does it know what the point means?
-- Decide which role-held witnesses earn a second named appearance. Do not make the claimant coalition a roll call.
-- Preserve one incompatible coalition demand in the final operation: managed settlement, immediate fixture abolition, medicine priority, pension protection, and data compensation cannot all be first.
-- Draft the three required temporary voice tests before architecture freezes.
+- Twenty-seven chapters target 58,900 words across three emotionally distinct movements.
+- Hull Two receives Pal's embodied abandonment aftermath before Hull Three's genuine cognitive triumph.
+- Consequence break chapters pass one rescue certificate or custody transfer across their POV boundaries.
+- Pal uses the sanctuary token, experiences an attractive alternative, and returns under neutral one-operation bailment with no automatic future embodiment.
+- Meera returns for one operation under claimant-funded contract and exercises unilateral tender-release authority.
+- The final operation uses worker-issued inspection authority, bounded shaping, dual-purpose Remorae, finite Hot route denial, a worker vote, and a continuity-freeze quorum.
+- The freeze realizes 28.9m SU cash-equivalent minimum value and clears campaign losses. Luce remains ruined; later settlement and fixture/title claims remain contested.
+- Rhyne retains local command competence, negotiates disengagement, and names the counter that makes repetition unlikely.
+- Voice tests remain temporary evidence. [[08 Narrative Architecture/Voice And Prose Standard]] governs drafting.
+
+## Open State For Pass 9
+
+- Convert every chapter into scene cards with entrance state, exit delta, knowledge boundary, comedy mechanism, and setup/payoff obligations.
+- Ensure every scene changes at least two tracked dimensions.
+- Keep Campaign VI's manuscript foreground to six causal beats and cut more than half the voice-test explanation.
+- Dramatize Samira's outside offer, Sable's clinic allocation, Mara/Khraa joint authority, Meera's veto, worker surprise, and claimant refusal without turning the final movement into a roll call.

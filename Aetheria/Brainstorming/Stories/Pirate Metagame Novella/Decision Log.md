@@ -74,6 +74,12 @@
 | D-068 | Assign rescue shepherd designation to Tess, activation to Edda, geometry to Samira, and maneuver to Sable. | Accepted | Protected reserve cannot remain under split or captain-centered authority. |
 | D-069 | Give Pal an air-gapped sanctuary token expiring 2677.09.15. | Accepted | The option must be real, private, and capable of expiring for later choice to be meaningful. |
 | D-070 | Require one consequential comedy mechanism per campaign. | Accepted | Warm black comedy must change material or relational state rather than live only in labels. |
+| D-071 | Target twenty-seven chapters and 58,900 words across three movements. | Accepted | The architecture leaves drafting room inside the 50-60k range while giving hull losses and final choices adequate aftermath. |
+| D-072 | Make the final operation commit a continuity freeze rather than instantaneous adjudication. | Accepted | Combat can prevent alteration, asset flight, and evidence loss; incompatible claims still require months of institutional conflict. |
+| D-073 | Give Pal an attractive sanctuary and a revocable one-operation neutral bailment. | Accepted | Choice is meaningful only if departure is credible and return does not imply permanent service. |
+| D-074 | Value the immediate final continuity event at 28.9m SU cash-equivalent net of overlap and direct replenishment. | Accepted | The protected coalition clears campaign losses without counting contested later rights or restoring Luce's fortune. |
+| D-075 | Earn final ingress through worker-issued authority and bounded maintenance geometry. | Accepted | Signature shaping obscures capability assignment but cannot counterfeit unlimited authorization or impulse. |
+| D-076 | Make Campaign VI's manuscript account substantially simpler than its tactical sideband. | Accepted | Reader comprehension and live disagreement matter more than displaying the full causal model. |
 
 ## Supersession Rule
 
