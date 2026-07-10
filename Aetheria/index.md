@@ -11,7 +11,7 @@ enableToc: false
 
 Aetheria is part post-collapse corporate diaspora, part megacorporate cold war, part galaxy-scale social simulation, part action-RPG sandbox, part excuse to spend an unreasonable amount of time inventing ships, factions, and economic problems in space.
 
-The deeper lore, design notes, and fiction live here now. This page is the fast tour for people who want the pitch before the spiral.
+The deeper lore, design notes, and [[Fiction/index|fiction]] live here now. This page is the fast tour for people who want the pitch before the spiral.
 
 <div class="aetheria-home-hero">
   <section class="aetheria-hero-panel">

@@ -102,6 +102,8 @@
 | D-096 | Treat Movement III as a complete 10.8k causal draft with a mandatory Pass 13 expansion gate. | Accepted | The full manuscript remains below 50k; revision must add lived consequence and breathing room before promotion. |
 | D-097 | Split the final aftermath from Chapter 27 into Chapter 28, `Present`. | Accepted | The tactical and political climax now lands before Pal's ordinary voluntary presence, Meera's departure, and the damaged-pump epilogue. |
 | D-098 | Accept 50,000-60,000 manuscript words as the promotion range without padding toward the 58,900 planning target. | Accepted | Reader value, causal clarity, and lived consequence govern revision length. |
+| D-099 | Promote the novella as _The Burden of Proof_. | Accepted | The title joins the surviving hull, insurer comedy, Luce's object-mediated conscience, and Pal's unresolved evidentiary boundary between need and choice. |
+| D-100 | Preserve the reviewed movement drafts after single-file promotion. | Accepted | Development remains inspectable while `Aetheria/Fiction/The Burden of Proof.md` becomes the finished reading artifact. |
 
 ## Supersession Rule
 

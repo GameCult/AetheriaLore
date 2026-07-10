@@ -2010,6 +2010,6 @@ The pump sounded beneath the floor.
 
 Its bearing was healthy. Its mounts were still imperfect. The noise now carried a faint beat from the damaged frame, an ordinary maintenance disturbance requiring attention in the morning.
 
-Pal created a task and assigned it to Lorn.
+The task remained with Lorn.
 
-They did not fix it before he asked.
+Pal did not fix it.

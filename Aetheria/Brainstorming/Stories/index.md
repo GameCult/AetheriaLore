@@ -4,6 +4,10 @@ This branch holds fiction rooms, continuity ledgers, character state, tactical s
 
 Each room owns its accepted story state locally. Material enters the wider vault only through an explicit promotion pass.
 
+## Promoted Rooms
+
+- [[Pirate Metagame Novella/index|Pirate Metagame Novella]] - promoted as [[../../Fiction/The Burden of Proof|The Burden of Proof]]
+
 ## Active Rooms
 
-- [[Pirate Metagame Novella/index|Pirate Metagame Novella]]
+No active room is currently listed.

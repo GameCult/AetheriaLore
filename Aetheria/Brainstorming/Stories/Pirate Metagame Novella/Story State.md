@@ -2,9 +2,9 @@
 
 ## Pass Status
 
-**Completed:** Pass 13 - Adversarial Revision
+**Completed:** Pass 14 - Promotion
 
-**Next:** Pass 14 - Promotion
+**Next:** Complete
 
 ## Locked Premise
 
@@ -271,3 +271,11 @@
 - Verify exact word count, chapter order, every POV header, chronology, complement, inventory, technology, authority, and final state in the promoted file.
 - Update fiction and story indexes.
 - Identify separately reviewable lore or simulation insights without delaying publication.
+
+## Pass 14 Promotion
+
+- Final title: [[../../../Fiction/The Burden of Proof|The Burden of Proof]].
+- The promoted single manuscript contains 50,910 words including its title, three movements, 28 chapters, and 39 explicit POV sections.
+- The promoted file is text-equivalent to the accepted movement drafts after heading normalization.
+- Fiction, Stories, brainstorming, room, and Aetheria-root navigation surfaces link the final artifact.
+- Final promotion checks and separately reviewable discoveries are recorded in [[14 Promotion/Pass Report]].

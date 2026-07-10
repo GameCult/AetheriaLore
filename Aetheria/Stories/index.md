@@ -11,6 +11,8 @@ This branch holds fiction set in Aetheria: scenes, fragments, and longer stories
 
 Some of the pieces gathered here were written before the current canon settled into its newer shape. They remain useful as tonal and thematic artifacts even where the surrounding continuity is still being tightened.
 
+Finished long-form work is indexed under [[../Fiction/index|Fiction]].
+
 ## Current Stories
 
 - [[Corvid Collective First Exodus]]
