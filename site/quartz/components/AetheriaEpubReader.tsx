@@ -20,8 +20,8 @@ export default (() => {
         </a>
       </div>
       <div class="aetheria-reader-toolbar" aria-label="Reader controls">
-        <button type="button" data-reader-action="previous" aria-label="Previous page" title="Previous page">&larr;</button>
-        <button type="button" data-reader-action="next" aria-label="Next page" title="Next page">&rarr;</button>
+        <button type="button" data-reader-action="previous-chapter" aria-label="Previous chapter" title="Previous chapter">&larr;</button>
+        <button type="button" data-reader-action="next-chapter" aria-label="Next chapter" title="Next chapter">&rarr;</button>
         <label class="aetheria-reader-wide-control">
           <span>Chapter</span>
           <select data-reader-setting="chapter" aria-label="Chapter"><option>Loading contents...</option></select>
@@ -32,7 +32,7 @@ export default (() => {
         </label>
         <label>
           <span>Spread</span>
-          <select data-reader-setting="spread"><option value="none">Single</option><option value="always">Two Pages</option></select>
+          <select data-reader-setting="spread"><option value="auto">Auto</option><option value="none">Single</option><option value="always">Two Pages</option></select>
         </label>
         <label>
           <span>Theme</span>

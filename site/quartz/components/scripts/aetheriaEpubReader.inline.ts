@@ -6,7 +6,7 @@ type ReaderSettings = {
   fontSize: number
   lineHeight: number
   flow: "paginated" | "scrolled-doc"
-  spread: "always" | "none"
+  spread: "auto" | "always" | "none"
 }
 
 declare global {
@@ -17,7 +17,7 @@ declare global {
 }
 
 const cookieName = "aetheria_tbp_reader"
-const settingsVersion = 4
+const settingsVersion = 5
 const defaults: ReaderSettings = {
   version: settingsVersion,
   theme: "dark",
@@ -25,7 +25,7 @@ const defaults: ReaderSettings = {
   fontSize: 100,
   lineHeight: 165,
   flow: "paginated",
-  spread: "none",
+  spread: "auto",
 }
 
 function readSettings(): ReaderSettings {
@@ -35,13 +35,13 @@ function readSettings(): ReaderSettings {
     return {
       ...defaults,
       version: settingsVersion,
-      cfi: saved.version === settingsVersion && typeof saved.cfi === "string" ? saved.cfi : undefined,
+      cfi: typeof saved.cfi === "string" ? saved.cfi : undefined,
       theme: ["dark", "light", "sepia"].includes(saved.theme) ? saved.theme : defaults.theme,
       font: ["serif", "sans"].includes(saved.font) ? saved.font : defaults.font,
       fontSize: Number.isFinite(saved.fontSize) ? Math.min(150, Math.max(80, saved.fontSize)) : defaults.fontSize,
       lineHeight: Number.isFinite(saved.lineHeight) ? Math.min(210, Math.max(130, saved.lineHeight)) : defaults.lineHeight,
       flow: ["paginated", "scrolled-doc"].includes(saved.flow) ? saved.flow : defaults.flow,
-      spread: saved.version === settingsVersion && ["always", "none"].includes(saved.spread) ? saved.spread : defaults.spread,
+      spread: saved.version === settingsVersion && ["auto", "always", "none"].includes(saved.spread) ? saved.spread : defaults.spread,
     }
   } catch {
     return { ...defaults }
@@ -135,7 +135,31 @@ async function initReader(root: HTMLElement) {
     const chapterSelect = root.querySelector<HTMLSelectElement>('[data-reader-setting="chapter"]')!
     const navigation = await book.loaded.navigation
     chapterSelect.replaceChildren(...navigation.toc.map((item: any) => new Option(item.label.trim(), item.href)))
+    const currentLocation = rendition.currentLocation() as any
+    if (currentLocation?.start?.href) chapterSelect.value = chapterHrefFor(currentLocation.start.href)
+    else chapterSelect.selectedIndex = -1
     chapterSelect.addEventListener("change", () => void displayLocation(chapterSelect.value))
+
+    const previousChapter = root.querySelector<HTMLButtonElement>('[data-reader-action="previous-chapter"]')!
+    const nextChapter = root.querySelector<HTMLButtonElement>('[data-reader-action="next-chapter"]')!
+
+    function syncChapterButtons() {
+      previousChapter.disabled = chapterSelect.selectedIndex <= 0
+      nextChapter.disabled = chapterSelect.selectedIndex === chapterSelect.options.length - 1
+    }
+
+    function seekChapter(offset: -1 | 1) {
+      const current = chapterSelect.selectedIndex
+      const target = current < 0 ? (offset > 0 ? 0 : -1) : current + offset
+      if (target < 0 || target >= chapterSelect.options.length) return
+      chapterSelect.selectedIndex = target
+      syncChapterButtons()
+      void displayLocation(chapterSelect.value)
+    }
+
+    previousChapter.addEventListener("click", () => seekChapter(-1))
+    nextChapter.addEventListener("click", () => seekChapter(1))
+    syncChapterButtons()
 
     void book.ready.then(() => book.locations.generate(1200))
     rendition.on("relocated", (location: any) => {
@@ -144,7 +168,10 @@ async function initReader(root: HTMLElement) {
       saveSettings(settings)
       const percentage = book.locations?.length() ? book.locations.percentageFromCfi(settings.cfi) : null
       progress.textContent = percentage == null ? "Position saved" : `${Math.round(percentage * 100)}% - position saved`
-      if (location.start.href) chapterSelect.value = chapterHrefFor(location.start.href)
+      if (location.start.href) {
+        chapterSelect.value = chapterHrefFor(location.start.href)
+        syncChapterButtons()
+      }
     })
 
     const mutationObserver = new MutationObserver(() => clampRenditionDom())
