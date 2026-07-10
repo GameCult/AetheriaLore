@@ -25,7 +25,12 @@
 | D-019 | Make Mara Kest a former purity militant and current baseliner boarding chief. | Accepted | Embeds Movement tension in boarding authority and personhood practice. |
 | D-020 | Make Sable Orison a premium-derived Enhancement Liberal drone coordinator. | Accepted | Keeps autonomy politics materially entangled with privilege and maintenance. |
 | D-021 | Name Wake-Without-Seal, Tern Undertow, and Ysabet Rhyne as the local web, principal yard, and recurring adversary. | Accepted | Gives social trust, labor, and hostile learning distinct owners. |
-| D-022 | Limit recurring primary POV to seven crew members, with selective Edda, Tess, Rhyne, and late Huginn chapters. | Accepted | Exploits dramatic irony without requiring every named character to narrate. |
+| D-022 | Limit recurring primary POV to five crew members, with event-centered break sections for technical and external viewpoints. | Superseded wording | Pass 3 narrows the recurring spine to Luce, Samira, Pal, Mara, and Sable while preserving Ilya, Jo, Edda, Tess, Rhyne, and Huginn as explicit secondary POVs. |
+| D-023 | Supersede D-017's one-vote clause: the Twelvefold receives one economic cut and two campaign-council votes. | Accepted | Gives its contract and operational perspectives political weight while preserving twelve independent consent states. |
+| D-024 | Name the first hull _The Sum of Our Parts_ and build it as a bespoke thirty-six-person capture corvette. | Accepted | Joins luxury, labor, domestic life, and doctrine in one materially constrained body. |
+| D-025 | Use sixteen recoverable Courtesy PDC drones for the Doctrine of Reversible Superiority. | Accepted | The capability produces a real edge while exposing recovery topology as a physical counter. |
+| D-026 | Give Pal a 118-kilogram portable continuity shell with bounded wireless control and severe uncoupled thermal limits. | Accepted | Makes evacuation executable without turning the core into a ship-scale computer in a suitcase. |
+| D-027 | Denominate story planning economics in relative PSCC settlement units. | Accepted | Reconciles budgets without inventing unsupported purchasing-power canon. |
 
 ## Supersession Rule
 

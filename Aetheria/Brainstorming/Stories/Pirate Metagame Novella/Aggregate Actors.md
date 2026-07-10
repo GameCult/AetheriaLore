@@ -44,3 +44,13 @@ No aggregate is treated as unanimous. Named representatives carry authority only
 | Corvid Collective nests | Know and authorized the Twelvefold's bounded contract. | Cache and juvenile routes must remain hidden. | Captain unproven; crew composition concerning. | Recall, intelligence, and contract enforcement. |
 | Navigator institutions | Hold Serrat's preliminary rescue report. | Reputation system exposed to false heroic claims. | Rescue credible; preventable-risk judgment pending. | Record testimony; no credit benefit yet. |
 | Orsino staff and licensees | Know hobby trust liquidation and regatta incident by role. | Brand and employment stable but exposed if piracy resolves. | Latest Luce phase, unusually expensive. | Records, technical access, family pressure. |
+
+## Post-Commissioning Delta
+
+- **Undertow Eighty-Seven:** fourteen months of paid work and a funded casualty bond improve immediate security; unusual Orsino, Finch, and drone work raises blacklisting exposure. Nadi retains a complete doctrine-change warning.
+- **Core crew dependants:** receive first remittances and proof of four-month protected escrow. Attitude improves from implausible generosity to cautious contractual confidence.
+- **Wake-Without-Seal:** grants commercial yard, broker, and fence introductions. It withholds sanctuary routes and rescue-backed credit.
+- **Halcyon analysts:** correlate purchases at 0.22 confidence that they belong to one armed cell. No combat attribution exists.
+- **Corvid Collective nests:** confirm twelve medical/rescue tokens, one cut, and two votes. Recall authority remains live.
+- **Navigator institutions:** retain Serrat's credible rescue report and no credit benefit while preventable-risk review remains open.
+- **Orsino staff and licensees:** can identify the thermal geometry if telemetry or wreckage becomes public; no hull lien is yet recorded.

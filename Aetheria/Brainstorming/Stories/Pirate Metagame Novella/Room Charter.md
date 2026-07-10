@@ -178,7 +178,7 @@ Competence remains distributed. Sensor, thermal, fire-control, drone, boarding, 
 
 The regular crew is culturally augmented except for boarding chief Mara Kest, whose baseline embodiment is a deliberate political commitment. Her former Species Purity Front work and continuing anthropocentrism create danger rather than colorful disagreement. Drone coordinator Sable Orison represents the opposite contradiction: an Enhancement Liberal fighting body licensing through premium Finch-derived architecture that poorer people cannot obtain or maintain. Their conflict concerns where authority, bodily risk, cognition, and maintenance burden should live.
 
-The Twelvefold Borrowed Nest is a contracted murder of twelve Corvid persons. It holds one cut and one campaign vote while preserving individual consent, medical standing, rescue obligation, and refusal. Humans hear only the rotating role-codenames `Huginn` and `Muninn`; authoritative safety state retains twelve encrypted identities.
+The Twelvefold Borrowed Nest is a contracted murder of twelve Corvid persons. It holds one cut and two campaign-council votes while preserving individual consent, medical standing, rescue obligation, and refusal. The votes may split and cannot lend consent. Humans hear only the rotating role-codenames `Huginn` and `Muninn`; authoritative safety state retains twelve encrypted identities.
 
 ## Final Victory Contract
 

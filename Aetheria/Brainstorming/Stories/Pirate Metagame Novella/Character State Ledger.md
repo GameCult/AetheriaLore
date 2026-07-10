@@ -16,6 +16,12 @@ This ledger is the continuous behavioral state surface. Profiles describe tenden
 | Mara Kest | Saturnine baseline network; chronic pain stable. | Knows Pal owns internal systems and Luce needs reactionary-route access. | Fund households, prove human-scale boarding doctrine, retain local overrides. | Tomas and two households exposed; past may surface. | Conditional consent on boarding autonomy and operation-specific credentials. |
 | Sable Orison | Gray lunar clinic route; integration functional with minor aliasing. | Knows Luce can fund a lattice and Finch can revoke service. | Build distributed doctrine, fund Tavi clinic, retain stolen autonomy. | Personal maintenance and clinic support compete. | Conditional consent on lattice integrity and abort rules. |
 
+## Post-Commissioning Material Delta
+
+Fourteen months after recruitment, all principal crew are aboard _The Sum of Our Parts_. Contracts are active, four months of wage/remittance obligations are escrowed, and all domain authorities have completed trials. Luce has 800,000 SU uncommitted and believes the commissioned ship proves he has converted study into competence. Samira has recorded a 22% drone recovery reserve. Sable has demonstrated that scheduling can stagger returns. Edda and Nadi have recorded that recovery service meets the commissioned profile, not every later doctrine. Pal is cradle-integrated and experiences the corvette as a chosen body while remaining legally registered as an Orsino fixture.
+
+The Twelvefold is aboard with all twelve uninjured and consenting to the base contract. Each holds an individually funded medical/rescue token. The parliament has one economic cut and two campaign-council votes, which may split; task consent remains individual. Krrik and Tik-tik hold the contract vote credentials, while Chak and Rruk hold the operational vote credentials on rotating mandate. Credentials express the parliament's current positions, not personal ownership of either vote.
+
 ## Twelvefold Individual Baseline
 
 All twelve begin aboard a Collective courier approaching the contract meeting, uninjured unless noted, aware of the bounded offer, able to accept, refuse, propose amendment, return to courier, or call parliament.

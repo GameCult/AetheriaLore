@@ -1,6 +1,6 @@
 # Corvid Murder Brief
 
-The [[../Cast Bible#The Twelvefold Borrowed Nest|Twelvefold Borrowed Nest]] is twelve persons, one contracted unit, one cut, and one campaign vote. `Huginn` and `Muninn` are rotating liaison roles, never stable identities.
+The [[../Cast Bible#The Twelvefold Borrowed Nest|Twelvefold Borrowed Nest]] is twelve persons, one contracted unit, one cut, and two campaign-council votes. The votes may split and cannot lend individual consent. `Huginn` and `Muninn` are rotating liaison roles, never stable identities.
 
 Their human-facing ambiguity follows limits:
 

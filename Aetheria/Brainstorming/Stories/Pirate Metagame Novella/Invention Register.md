@@ -23,20 +23,16 @@ These elements are accepted for the novella but are not yet wider Aetheria canon
 | I-015 | The principal crew is Luce Orsino, Samira Venn, Palinode, Ilya Sorn, Jo Nwosu, Edda Marr, Tess Valez, Mara Kest, and Sable Orison. | Authority remains distributed as recorded in [[Relationship Matrix]]. |
 | I-016 | Mara Kest is a deliberately unaugmented former Species Purity Front organizer and militant Baseline League boarding chief. | Her accurate class critique coexists with consequential anthropocentrism; no redemption is promised. |
 | I-017 | Sable Orison is a Finch-derived Enhancement Liberal drone/cognition coordinator with extensive pirate modifications. | Autonomy gains create maintenance fragility; processing power grants no superior political authority. |
-| I-018 | The Twelvefold Borrowed Nest is twelve Corvid persons contracting for one cut, one vote, and two rotating human-facing codenames. | Individual consent, medicine, rescue, injury, captivity, and death remain twelvefold. |
+| I-018 | The Twelvefold Borrowed Nest is twelve Corvid persons contracting for one cut, two campaign-council votes, and two rotating human-facing codenames. | The two votes may split; individual consent, medicine, rescue, injury, captivity, and death remain twelvefold. |
 | I-019 | Wake-Without-Seal is the local capture-and-corridor reputation web; Tern Undertow is the principal Trojan yard. | Neither acts as a central pirate government. |
 | I-020 | Ysabet Rhyne and Halcyon Risk Recovery form the recurring privateer opposition that learns from public doctrine. | Rhyne shares the crew-survival ethic without sharing the crew's politics. |
+| I-021 | The first hull is the thirty-six-person bespoke capture corvette _The Sum of Our Parts_. | Its premium integration concentrates drone recovery service; it has no shields. |
+| I-022 | Pal inhabits a 118-kilogram portable continuity shell that unlocks ship-scale processing only through a powered, cooled cradle. | Portability preserves continuity and bounded control, not full ship performance. |
+| I-023 | The first campaign uses sixteen recoverable Courtesy PDC drones under the Doctrine of Reversible Superiority. | Recovery economics do not erase finite throat, service, fuel, heat, or cognition capacity. |
 
 ## Deferred Inventions
 
-Pass 3 will determine:
-
-- exact shipmind transfer hardware and procedure;
-- legal ownership and custody records for the cognition core;
-- embodiment-specific memory loss and recovery limits;
-- first hull, component stack, crew workflow, shares, wages, operating reserve, and replacement lead times;
-- the laundering and procurement chain used by named intermediaries.
-- detailed initial component, wage, share, maintenance, and household budgets for the Pass 2 cast.
+Pass 4 will determine the normalized combat-model scale used to advance this material state deterministically.
 
 ## Rejected For This Story
 

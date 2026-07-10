@@ -24,7 +24,7 @@ Scores are descriptive planning aids from `-3` active hostility to `+3` deep tru
 | Jo / Sable | 0 | 0 | +2 | Shot authority meets drone autonomy; both care about honest terminal decisions. |
 | Ilya / Sable | +1 | 0 | +2 | Ilya owns track truth; Sable owns trusted interpretation machinery. |
 | Edda / Sable | +1 | +1 | +3 | Edda maintains the body Sable politicizes; scarce labor disciplines privilege. |
-| Tess / Twelvefold | +1 | 0 | +2 | Contract precision, one vote, twelve liabilities, and intentionally bounded disclosure. |
+| Tess / Twelvefold | +1 | 0 | +2 | Contract precision, two possibly split votes, twelve liabilities, and intentionally bounded disclosure. |
 | Twelvefold / Pal | +1 | +1 | +2 | Shared nonhuman personhood without assumed sameness; emergency IDs remain protected. |
 | Luce / Ysabet Rhyne | -2 | 0 | +1 | Opponents who share crew-survival boundaries and disagree about admissible coercion. |
 | Luce / Parents | +2 | +3 | +3 | Love, rescue, embarrassment, and help that increasingly restores custody. |

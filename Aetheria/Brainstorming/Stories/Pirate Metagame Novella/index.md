@@ -19,6 +19,7 @@ The coordinator owns accepted continuity, chronology, tactical causality, story 
 - [[Aggregate Actors]]
 - [[Relationship Matrix]]
 - [[Character State Ledger]]
+- [[Ship And Refit Ledger]]
 
 Later passes will add ships, combat model, tactical traces, failure ladder, POV knowledge, chapter architecture, scene cards, and adversarial reports described in the charter.
 
@@ -26,3 +27,4 @@ Later passes will add ships, combat model, tactical traces, failure ladder, POV 
 
 - [[01 Room Charter And Canon Boundary/Pass Report|Pass 1 - Room Charter and Canon Boundary]]
 - [[02 Cast And Social Body/Pass Report|Pass 2 - Cast and Social Body]]
+- [[03 Material Baseline/Pass Report|Pass 3 - Material Baseline]]

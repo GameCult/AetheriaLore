@@ -2,9 +2,9 @@
 
 ## Pass Status
 
-**Completed:** Pass 2 - Cast and Social Body
+**Completed:** Pass 3 - Material Baseline
 
-**Next:** Pass 3 - Material Baseline
+**Next:** Pass 4 - Metagame Laboratory
 
 ## Locked Premise
 
@@ -90,13 +90,21 @@
 9. POV controls interpretation, not physical truth.
 10. Final victory demonstrates coordination, selection, and restraint rather than build supremacy.
 
-## Open State For Pass 3
+## Pass 3 Material Baseline
 
-- First hull and full component stack.
-- Pal's manufacturer, core housing, transfer hardware, state partition, and legal chain.
-- Crew complement beyond principal officers and Twelvefold.
-- Wages, shares, Corvid cut, household remittances, operating reserve, insurance, and shadow-market premiums.
-- Watch schedule, gravity modes, domestic spaces, aquatic or avian accommodations, and evacuation geometry.
-- Maintenance inventories and each augmentation's concrete consumables.
-- First-yard procurement and laundering chain through Rafi Sen and Tern Undertow.
-- Initial reputation scores and exact replacement lead times.
+- First hull: _The Sum of Our Parts_, a 4,850-tonne bespoke capture corvette without shields.
+- Complement: nine principal officers, twelve Twelvefold members, and fifteen support crew.
+- Small-hull doctrine: sixteen recoverable Courtesy PDC drones, eight Remorae, six pickets, and four relay/illuminator hulls.
+- Doctrine: Reversible Superiority; real edge against sparse unresolved-object screens, blind to concentrated recovery topology.
+- Pal shell: 118 kilograms, twelve-hour ordinary battery, two-hour emergency coordination, eighteen-minute uncoupled overclock, ship-scale function only through cradle cooling and control planes.
+- Capital: 18,000,000 SU fully allocated; 800,000 SU uncommitted operating reserve; about three combat-active months of runway.
+- Procurement: Rafi Sen converts trust funds through salvage claims and yard notes; Tern Undertow owns the labor calendar.
+- Reputation: commercial Wake-Without-Seal access, pending Navigator audit, passive Halcyon correlation.
+- Full technical, domestic, financial, service, and replacement state is authoritative in [[Ship And Refit Ledger]].
+
+## Open State For Pass 4
+
+- Normalized combat scales and deterministic state-transition rules.
+- Exact clock interactions for track, terminal, heat, cognition, mask, and economics.
+- Representation of recovery queues, service neighborhoods, and component damage.
+- Mapping from material ledger values into gameplay-shaped combat variables.

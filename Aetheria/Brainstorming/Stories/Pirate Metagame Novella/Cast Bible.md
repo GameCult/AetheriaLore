@@ -131,7 +131,7 @@ Humans see only `Huginn` and `Muninn`. Either codename may be used by any member
 
 ### Contract And Internal Authority
 
-The Twelvefold contracts as one allied unit for one cut, one campaign-council vote, and one human-facing liaison. It remains twelve persons for consent, medicine, rescue, injury, captivity, and death. The cut covers signals intelligence, EW, intrusion, counter-classification, and specifically accepted drone coordination. It excludes unrestricted crew surveillance, coercive cognition editing, captive-mind custody, unaccepted boarding, nest disclosure, and cache keys.
+The Twelvefold contracts as one allied unit for one cut, two campaign-council votes, and one human-facing liaison process. Its votes may split between contract and operational positions, but neither can lend an individual's consent. It remains twelve persons for consent, medicine, rescue, injury, captivity, and death. The cut covers signals intelligence, EW, intrusion, counter-classification, and specifically accepted drone coordination. It excludes unrestricted crew surveillance, coercive cognition editing, captive-mind custody, unaccepted boarding, nest disclosure, and cache keys.
 
 Members not marked conditional in the roster begin with full consent to the contracted scope. Consent is checked per task and recorded against the private safety ID; no parliament may lend an absent member's consent.
 
@@ -185,4 +185,4 @@ Commands Halcyon Risk Recovery's privateer _Indemnity of Dawn_. Former Callisto 
 
 ## POV Roster
 
-Primary recurring POVs are Luce, Samira, Pal, Ilya, Jo, Mara Kest, and Sable. Edda and Tess receive selective consequence chapters. Ysabet Rhyne receives one adversary chapter. The late `POV: Huginn` chapter belongs internally to Kesh. Every chapter header names the displayed POV exactly; no mid-chapter transfer occurs.
+Primary recurring POVs are Luce, Samira, Pal, Mara Kest, and Sable. Event-centered break chapters may use short sections from Ilya, Jo, Edda, Tess, Ysabet Rhyne, and late `Huginn`. The `POV: Huginn` section belongs internally to Kesh. Every section header names the displayed POV exactly; no section transfers viewpoint.
