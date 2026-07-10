@@ -42,8 +42,9 @@
 | D-036 | Populate native database fixtures deeply enough to express candidate doctrines without scenario-local equipment statistics. | Accepted | Balance results must arise from the same economy and content grammar as play. |
 | D-037 | Make the daemon kernel the fast offscreen heuristic simulator and the frame-by-frame live loop its fine-grained conformance ground truth. | Accepted | Aetheria needs hundreds of concurrent strategic battles without allowing observed and offscreen combat to become different games. |
 | D-038 | Transfer battle ownership only at explicit compatible-state synchronization checkpoints. | Accepted | Observation changes must not heal, cool, duplicate, erase, reroll, or otherwise alter committed combat state. |
-| D-039 | Target many-times-realtime batch performance and hundreds of concurrent local-galaxy battles for Aetheria's large RTS layer. | Accepted | This capability is not a Starbridge mechanic and is not merely the old `Profits Rising` design. |
+| D-039 | Target many-times-realtime batch performance and hundreds of concurrent local-galaxy battles for Aetheria's large RTS layer. | Accepted | Starbridge establishes shared combat; community-warfare seasons combine strategic combat with Profits Rising corporation logistics on the path to a persistent world. |
 | D-040 | Prototype new combat mechanics in the heuristic kernel, lock desired dynamics through batch exploration, then build them into the frame-by-frame simulation. | Accepted | Fast design search should precede expensive animated implementation; conformance begins once both models exist. |
+| D-041 | Treat Profits Rising as corporation-scale logistics and supply-chain gameplay developed through community-warfare seasons. | Accepted | Scenario corporations range from inherited small firms to stealth startups; the eventual persistent world merges this layer with embodied Terminus-style play. |
 
 ## Supersession Rule
 

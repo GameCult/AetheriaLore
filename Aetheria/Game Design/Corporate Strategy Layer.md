@@ -4,11 +4,13 @@ The corporate strategy layer is Aetheria from the distance at which people becom
 
 ## Player Role
 
-The player corporation defines population roles, gathers resources, builds infrastructure, researches technology, manufactures items, expands into territory, and competes for money and influence. That older `Profits Rising` premise matters because it makes the galaxy's cruelty operational rather than merely atmospheric.
+The player corporation defines population roles, gathers resources, builds infrastructure, researches technology, manufactures items, expands into territory, and competes for money and influence. This is the **Profits Rising** gameplay lineage: the logistics and supply-chain game in which the player controls an entire corporation.
+
+The corporation is not assumed to be a [[Mega]]. Scenario premises can begin with an inherited family workshop, a distressed freight cooperative, a regional manufacturer, a licensed franchise, a stealth startup built around one hot disruptive technology, or an established firm trying to survive a standards war. Different starting ownership, debt, workforce, intellectual property, supplier access, and reputation should produce materially different games before any corporation becomes large.
 
 A corporation does not have to personally fire a shot to hurt people. It can underfund route security, overproduce disposable ships, monopolize a resource node, lock a settlement into maintenance dependence, or price repairs just high enough that desperate pilots accept worse contracts.
 
-`Profits Rising` starts corporations with capital, a colonist population, and population traits that shape what people demand and what they produce well. That means a corporation begins as a social design problem wearing a finance hat. Naturally everyone involved insists this is normal.
+The original `Profits Rising` model starts some scenarios with capital, a colonist population, and population traits that shape what people demand and what they produce well. That is one scenario family, not the universal opening. Every corporation still begins as a social design problem wearing a finance hat. Naturally everyone involved insists this is normal.
 
 ## Strategic Outputs
 
@@ -52,4 +54,6 @@ The kernel is also the combat-design laboratory. New mechanics should be cheap t
 
 An observed battle transfers advancement authority to the live simulation at an explicit synchronization checkpoint. A battle leaving observation returns to the kernel the same way. Crossing that boundary must not repair damage, cool components, duplicate ammunition, change provenance, reset cognition, or reroll committed events.
 
-This architecture belongs to Aetheria's large corporate strategy/RTS layer. [[Aetheria Starbridge|Starbridge]] may consume shared combat machinery, but its scoped cooperative defense sessions are not the reason hundreds of persistent battles must run faster than realtime. The older `Profits Rising` document is ancestry, not the name or boundary of the resulting game.
+This architecture belongs to Aetheria's large corporate strategy/RTS layer. [[Aetheria Starbridge|Starbridge]] may consume shared combat machinery, but its scoped cooperative defense sessions are not the reason hundreds of persistent battles must run faster than realtime.
+
+Profits Rising remains the name of the corporation-management gameplay, not the entire Aetheria strategy layer and not a discarded prototype. The original long-term plan was to use it to solidify the economic model, prove logistics and supply chains at scale, and eventually merge that play with [[End of the Line|Terminus]]-style embodied play in the MMO-scale persistent world. With Starbridge now providing the first shared-combat foundation, Profits Rising systems should instead be introduced and developed as a layer of the community-warfare seasons described under [[Aetheria Client and Modes#Conquest|Conquest]]. Those seasons can add production, procurement, transport, corporate coordination, and market consequence incrementally while feeding real wars.

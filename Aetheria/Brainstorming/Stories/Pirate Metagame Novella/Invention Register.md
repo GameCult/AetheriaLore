@@ -36,6 +36,7 @@ These elements are accepted for the novella but are not yet wider Aetheria canon
 | I-028 | The daemon heuristic kernel is scored against paired frame-by-frame live-simulation traces and actor-local observation streams. | The live simulation is fine-grained ground truth; the kernel preserves decisions and consequences at much higher speed. |
 | I-029 | Observed and offscreen combat exchange compatible state at explicit synchronization checkpoints. | This supports seamless tactical observation inside Aetheria's large strategic game. |
 | I-030 | New mechanics are explored and selected in the fast heuristic kernel before frame-by-frame implementation and subsequent conformance. | This is the combat-design development loop, not setting canon. |
+| I-031 | Profits Rising corporation gameplay enters the current product path through community-warfare seasons before eventual merger with embodied Terminus-style play. | This is a game-mode and development-path clarification, not setting canon. |
 
 ## Deferred Inventions
 

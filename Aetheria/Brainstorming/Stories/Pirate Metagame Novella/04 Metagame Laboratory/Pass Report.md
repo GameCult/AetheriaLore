@@ -41,7 +41,7 @@
 - Pass 5 can vary doctrines and component packages while both execution models share one state and mechanics contract.
 - The two simulation models have a stated compatibility and conformance boundary around native typed Aetheria state.
 - The hand-solvable vectors are acceptance expectations until the kernel runs them and selected live-simulation pairs quantify heuristic error.
-- The architecture serves hundreds of concurrent local-galaxy battles in Aetheria's large strategic/RTS game, not Starbridge or a renamed `Profits Rising` prototype.
+- The architecture serves hundreds of concurrent local-galaxy battles for community-warfare seasons and the persistent strategy layer. Starbridge establishes shared combat; Profits Rising contributes corporation logistics, production, and supply-chain play.
 - New mechanics are explored through fast kernel batches first; accepted dynamics then become the live-simulation implementation target and later conformance contract.
 
 ## Review Points Before Pass 5

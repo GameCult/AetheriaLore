@@ -14,9 +14,11 @@ This layer is where [[End of the Line|Aetheria: Terminus]] made the first major 
 
 ## Corporate Strategy Layer
 
-The strategy layer lets players operate as corporations rather than lone operators. The dated but still dangerous `Profits Rising` planning line points toward corporations defining population roles, gathering resources, building infrastructure, researching technology, producing items, and competing for economic dominance.
+The strategy layer lets players operate as corporations rather than lone operators. **Profits Rising** is the logistics and supply-chain gameplay in which a player controls a whole corporation: perhaps an inherited family operation, perhaps a stealth startup with one dangerous new technology, perhaps a larger regional producer. It does not assume the player begins as a Mega.
 
 This layer should create the material conditions the ARPG layer has to inhabit. A corporate decision is not only a menu choice. It becomes a shortage, a patrol, a cheap weapon flooding the market, a station that needs protection, a new route worth raiding, or a worker population trapped inside somebody else's growth plan.
+
+The original long arc used Profits Rising to prove the economic model before merging corporation play with Terminus-style embodied play at MMO scale. Starbridge changes the development path without erasing that destination. Profits Rising systems now enter through community-warfare seasons: each campaign can deepen production, procurement, logistics, markets, corporate coordination, and strategic combat before those systems become one persistent world.
 
 ## Shared Persistent World
 

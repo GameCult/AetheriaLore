@@ -29,7 +29,9 @@ The product spine is:
 3. **Arena**: the controlled competitive environment for proving
    witness-authoritative quorum consensus under real player pressure.
 4. **Conquest**: the seasonal campaign layer for territory, faction struggle,
-   economic movement, logistics, and broader simulation experiments.
+   economic movement, logistics, community warfare, and broader simulation
+   experiments. This is where Profits Rising corporation-management gameplay
+   is introduced and developed season by season.
 5. **Persistent world**: the later synthesis, after the smaller vessels have
    proven sync, loadouts, economy, territory, and faction consequence.
 
@@ -352,6 +354,20 @@ Conquest should run in seasons. Each season is an experiment:
 - which logistics constraints create good play;
 - how player corporations or clans coordinate;
 - how much world-state persistence creates drama without becoming homework.
+
+These seasons are the current development path for **Profits Rising** gameplay.
+Players may control corporations ranging from inherited small operations to
+stealth startups and larger producers, managing blueprints, licenses, supply
+chains, manufacturing, transport, labor, contracts, and market position in
+support of community warfare. The corporation layer should grow through real
+seasonal pressures rather than appearing all at once as a detached management
+game.
+
+The long-term destination remains synthesis: corporation-scale Profits Rising
+play and embodied Terminus-style play inhabiting the same persistent economy.
+Starbridge establishes shared combat and command infrastructure; Conquest
+seasons progressively establish the logistics, economic, territorial, and
+organizational machinery needed for that merger.
 
 When Conquest is active, it should be the PvP focus. If a low-friction
 deathmatch queue is available at the same time, many players will choose the
