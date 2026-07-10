@@ -175,3 +175,23 @@
 - Ensure every scene changes at least two tracked dimensions.
 - Keep Campaign VI's manuscript foreground to six causal beats and cut more than half the voice-test explanation.
 - Dramatize Samira's outside offer, Sable's clinic allocation, Mara/Khraa joint authority, Meera's veto, worker surprise, and claimant refusal without turning the final movement into a roll call.
+
+## Pass 9 Scene Engineering
+
+- [[Scene Cards]] defines ninety drafting scenes across twenty-seven chapters.
+- Every scene records objective/conflict, POV knowledge boundary, bodily/tactical condition, comedy/thematic work, state delta, and obligations.
+- The final reader-facing causal spine is “keep one communication path alive while the workers finish choosing.”
+- Kavi's evidence precedes Mara's boarding threshold; the first Courtesy success uses eight drones; Hull One retains the second loiterer and accepted authority chain.
+- Pal's separation begins before sanctuary. Luce's middle-movement emotional state remains visible through witnessed behavior.
+- Sable's injury does not redeem them; final restraint is precommitted, costly, and shared with Rruk and Mara.
+- Worker delegates, Suri Dax, Meera, and multiple Twelvefold members retain plan-changing choices.
+- [[09 Scene Engineering/Simulation Candidate Notes]] records nonblocking implementation seams.
+- [[09 Scene Engineering/Skeptical Review Report]] records four independent reviews and reconciliation.
+
+## Open State For Pass 10
+
+- Draft Movement I as an emotionally complete manuscript section.
+- Enforce [[08 Narrative Architecture/Voice And Prose Standard]] and the drafting restraints in [[Scene Cards]].
+- Preserve one foreground question per scene and no more than one primary plus one secondary tactical clock.
+- Append newly invented maneuvers to [[Simulation Seam Log]] without interrupting prose.
+- Run audience, continuity/tactics, character/social-agency, and prose/voice review on the completed movement before acceptance.

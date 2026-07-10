@@ -71,5 +71,18 @@ Exact schemas and database fixtures remain deferred.
 | Worker-opened maintenance geometry | Let cooperating target workers create legitimate attachment opportunities without granting universal access | Worker authority, maintenance schedule, open panels, local topology, risk | Authorized inspection states and revocable local cooperation | Workers may withdraw; defender can close access or separate override topology | Multiple opened regions and changed service state; broad | **Provisional**; deliberate play, new signal, and observed/offscreen transfer justify promotion |
 | Smart terminal subsystem selection | Let a Remora spend final thrust after point-blank sensing to choose among accessible subsystem attachments | Remaining impulse, local sensors, cognition, countermaneuver, attachment envelope | Terminal choice over several subsystem objectives and last-thrust timing | No impulse recovery; armor, tumble, PDC, closed access, and decoys counter | Late vector change and attachment telemetry; numerical boundaries may matter | **Provisional**; recurring missile AI and balance sensitivity justify promotion |
 | Continuity-freeze quorum | Make preservation of workers, records, communication, and authority a tactical objective independent of hull capture | People, records, escrow keys, local authority, time, authentication paths | Quorum state, remote-suppression transition, and neutral-custody commit | Destroyed or scattered participants reduce value; cooperation is revocable; combat freezes alteration but does not adjudicate every claim | Local confirmations, witness links, override loss; robust at coarse state | **Provisional**; objective, economics, and synchronization justify promotion |
+
+## Pass 9 Scene-Level Candidates
+
+Scene engineering refined the most consequential candidates in [[09 Scene Engineering/Simulation Candidate Notes]]. In particular:
+
+- recovery topology needs a spatially coupled service-neighborhood consequence volume, not merely a scalar recovery rate;
+- protected rescue reserve may require distributed release authority rather than a single owner flag;
+- local worker action is an actuator with consent and interruption state, not an environmental bonus;
+- role migration requires component-defined small hull capabilities and actor-local role confidence;
+- terminal Remora selection needs a maintenance-constrained divert envelope, not free last-millisecond maneuver;
+- continuity objectives need revocable participant state before an irreversible commit.
+
+These refinements remain noncanonical implementation prompts and do not delay manuscript drafting.
 | Optical claimant authentication under partition | Maintain trusted identity and claim continuity across isolated low-bandwidth paths | Geometry, optical links, witnesses, cognition, time | Multi-source authentication without central network | Occlusion, movement, compromised witness, or link loss interrupts | Visible optical/courier exchanges; broad until exact bandwidth matters | **Provisional**; AI invocation and observed/offscreen continuity justify promotion |
 | Ballistic route denial around inhabited volumes | Use unguided hazard volumes to constrain escort approaches without firing through protected habitats | Ammunition, solution quality, geometry, time, conduct policy | Persistent hazard volumes with protected-volume exclusions | Maneuver, patience, armor, alternate axis, or saturation counters | Visible trajectories and denied routes; exact density contested | **Provisional**; player choice and loadout effect justify promotion |

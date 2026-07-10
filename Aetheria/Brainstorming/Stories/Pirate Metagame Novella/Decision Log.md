@@ -80,6 +80,12 @@
 | D-074 | Value the immediate final continuity event at 28.9m SU cash-equivalent net of overlap and direct replenishment. | Accepted | The protected coalition clears campaign losses without counting contested later rights or restoring Luce's fortune. |
 | D-075 | Earn final ingress through worker-issued authority and bounded maintenance geometry. | Accepted | Signature shaping obscures capability assignment but cannot counterfeit unlimited authorization or impulse. |
 | D-076 | Make Campaign VI's manuscript account substantially simpler than its tactical sideband. | Accepted | Reader comprehension and live disagreement matter more than displaying the full causal model. |
+| D-077 | Govern drafting through ninety scene cards that each change at least two tracked dimensions. | Accepted | Scene-level causality prevents architecture from becoming summary while preserving room for prose invention. |
+| D-078 | Reduce the final reader-facing causal spine to one surviving communication path and workers finishing their choice. | Accepted | Readers should understand victory before receiving procedural terminology. |
+| D-079 | Begin Pal's separation from ship labor before the sanctuary chapter. | Accepted | A credible alternative life requires preparation and relinquishment, not departure and return compressed into one contractual event. |
+| D-080 | Restrict polished thematic lines to at most one per scene and leave authority implicit in at least one scene per chapter. | Accepted | The manuscript must sound like different people living under pressure rather than one institutional intelligence routing decisions. |
+| D-081 | Preserve the second loiterer in Hull One's destruction chain. | Accepted | The loss must follow seeded redundancy rather than a lucky fragment cascade. |
+| D-082 | Make Suri Dax's wage/title choice part of the first Courtesy victory. | Accepted | Target agency and coercive residue must be visible before the crew calls a prize clean. |
 
 ## Supersession Rule
 

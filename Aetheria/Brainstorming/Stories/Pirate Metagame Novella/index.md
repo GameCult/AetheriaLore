@@ -35,6 +35,7 @@ Later passes will add ships, combat model, tactical traces, failure ladder, POV 
 - [[06 Failure Ladder/Pass Report|Pass 6 - Failure Ladder]]
 - [[07 Character Causality Replay/Pass Report|Pass 7 - Character Causality Replay]]
 - [[08 Narrative Architecture/Pass Report|Pass 8 - Narrative Architecture]]
+- [[09 Scene Engineering/Pass Report|Pass 9 - Scene Engineering]]
 
 ## Current Planning Surfaces
 
@@ -49,3 +50,6 @@ Later passes will add ships, combat model, tactical traces, failure ladder, POV 
 - [[POV Knowledge Matrix]]
 - [[08 Narrative Architecture/Final Operation Architecture|Final Operation Architecture]]
 - [[08 Narrative Architecture/Voice And Prose Standard|Voice And Prose Standard]]
+- [[Scene Cards]]
+- [[09 Scene Engineering/Scene Progression Ledger|Scene Progression Ledger]]
+- [[09 Scene Engineering/Simulation Candidate Notes|Simulation Candidate Notes]]
