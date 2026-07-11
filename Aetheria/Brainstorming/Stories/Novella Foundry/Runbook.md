@@ -8,6 +8,8 @@
 4. Paste the Master Prompt with paths and policies resolved.
 5. Execute Pass 1 only.
 
+Before committing to the full planning machine, select a representative sequence for a minimal-process comparison. If time and readers permit, produce unlabeled minimal-ledger and full-room variants. This is the only direct evidence that added machinery earns its cost. If the comparison is skipped, record the limitation.
+
 ## Pass Operation
 
 At the beginning of a pass, declare objective, current mechanism, invariants, intended change, and cut line. Assemble one immutable specialist packet. Parallelize independent proposals; run dependent reviews sequentially after coordinator adjudication.
@@ -35,6 +37,7 @@ Do not reread the entire evidence pile by default. The state files exist to prev
 - Randomize reviewer framing and withhold other reports until independent reads are complete; nominally different roles can still produce correlated reassurance.
 - Require evidence at the layer claimed: prose defects need prose evidence; causal defects need event traces; packaging defects need the published artifact.
 - Re-review the repaired path, not merely the revised explanation.
+- Preserve raw reviewer submissions and prompts beside adjudication so later auditors can reconstruct dissent.
 
 ## Closed-Loop Alarm
 
@@ -48,6 +51,8 @@ Stop and run the Hostile Process Reviewer when:
 - acceptance language celebrates completeness more than effect;
 - the coordinator cannot name a manuscript change caused by an unprimed reader.
 - reviewers find defects but never identify language, ambiguity, or strangeness that revision must preserve.
+- no artifact can name the uncertainty it reduced or the decision it changed.
+- a movement is certified and the next begins without any fallow interval or genuinely separate reader encounter.
 
 The repair is external evidence or a less-primed read, not another checklist.
 
@@ -59,6 +64,7 @@ The repair is external evidence or a less-primed read, not another checklist.
 - Update state for discoveries that survive revision.
 - Keep technical explanation attached to bets, objections, improvisation, desire, rescue, repair, surrender, or consequence.
 - Stop expanding when added prose only proves the planning was thorough.
+- Draft representative prose before freezing the full causal ladder; voices are evidence that plans cannot supply.
 
 ## Version Control
 

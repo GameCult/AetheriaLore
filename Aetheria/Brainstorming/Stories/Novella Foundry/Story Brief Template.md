@@ -58,6 +58,7 @@ Describe any warfare, mystery, economics, law, science, magic, romance, or other
 - What must be understandable without setting homework?
 - What mysteries should remain unresolved?
 - What emotional attachment should exist by 10%, 25%, and 50%?
+- What should a reader remember about each principal character without naming that character's job?
 - What kinds of comedy, fear, wonder, or tenderness should recur?
 - What would make the opening fail despite being technically competent?
 
@@ -68,5 +69,6 @@ Describe any warfare, mystery, economics, law, science, magic, romance, or other
 - Research permissions:
 - Version-control policy:
 - Minimum and maximum planning appetite:
+- Minimal-process comparison sequence and reader panel, if available:
+- Required fallow interval or human cold-read checkpoint:
 - Publication and packaging requirements:
-

@@ -34,6 +34,8 @@ This reviewer receives manuscript prose and the target-audience description only
 
 > Read without lore packet, outline, scene cards, acceptance tests, or prior reviews. Report what you believe is happening, whom you care about, what questions pull you forward, where you would stop, what confused you, and which promises you expect the book to keep. Do not diagnose against an unseen plan. The coordinator will compare your reconstruction with intended causality.
 
+For each major reversal, retell what happened in no more than two sentences. Name the character you most want to follow. Describe memorable secondary characters without using their occupations, departments, or plot functions. State what you skimmed and what you remember after a delay. If no real delay occurred, say so.
+
 ## Prose, Voice, And Comedy Reviewer
 
 > Read for sentence-level authority, viewpoint integrity, rhythm, image freshness, dialogue distinction, emotional precision, tonal continuity, and whether comedy exposes character pressure rather than decorating it. Flag planning-aware prose, repeated rhetorical pivots, generic competence language, and exposition wearing dialogue clothes. Quote brief examples and describe the failure; do not rewrite the canonical manuscript.

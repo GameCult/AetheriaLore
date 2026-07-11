@@ -36,6 +36,8 @@ Generate at least five materially different ways the central engine could operat
 
 **Gate:** Every candidate is attractive before it fails. Candidates differ in dramatic shape, not merely equipment or scenery.
 
+Before selecting the full ladder, take one representative candidate into provisional prose alongside one quiet domestic scene and one relationship rupture. Where practical, draft the representative sequence twice: once from a chapter outline plus minimal continuity ledger, and once through the full room machinery. Give unlabeled excerpts to cold readers and compare comprehension, character recall, desire to continue, revision time, and defects caught. Record the absence of a viable comparison rather than pretending one occurred.
+
 ## Pass 6: Failure And Escalation Ladder
 
 Select the campaign or plot sequence. Each unit follows an appropriate causal arc such as `thesis -> gain -> overgeneralization -> seeded pressure -> competent response -> consequence -> changed belief`. Vary the certainty attacked, emotional target, source of tension, and consequence.
@@ -58,15 +60,17 @@ Reader-facing limits for each major sequence are one primary dispute, at most on
 
 ## Pass 9: Scene Engineering
 
-Produce scene cards with POV, objective, conflict, knowledge boundary, entrance state, exit delta, sensory conditions, comedy or tension mechanism, thematic work, and setup/payoff obligations. Every scene changes at least two meaningful dimensions.
+Produce scene cards only at the resolution justified by unresolved risk. High-risk scenes may track POV, objective, conflict, knowledge boundary, entrance state, exit delta, sensory conditions, comedy or tension mechanism, thematic work, and setup/payoff obligations. Straightforward scenes may use a one-line chapter beat. A scene does not deserve to exist merely because two ledger dimensions change.
 
-**Gate:** Scene cards describe decisions and pressure, not prose sentences waiting to be expanded. Remove scenes whose work is fully duplicated.
+**Gate:** Scene cards describe decisions and pressure, not prose sentences waiting to be expanded. Remove scenes whose work is fully duplicated. Record what uncertainty each detailed card resolves; do not automatically build a card for every scene.
 
 ## Passes 10-12: Draft Movements
 
 Draft emotionally complete movements in the coordinator's unified voice. Update state for discoveries. Append seams separately. After each movement, run four skeptical reviews and one blind manuscript-only first read.
 
 **Gate:** Review revisions occur before acceptance. Word count is measured, never used as the sole reason to add prose.
+
+At least one movement receives a cold read after a real pause rather than in the same uninterrupted generation session. Readers retell major reversals in two sentences, name the character they most want to follow, and describe memorable characters without job titles.
 
 ## Pass 13: Adversarial Revision
 

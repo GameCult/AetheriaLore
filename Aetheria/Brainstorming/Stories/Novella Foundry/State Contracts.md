@@ -21,6 +21,7 @@ These are semantic contracts, not rigid schemas. Use Markdown tables or sections
 - **Chapter Architecture:** chapter function, POV, time, event, promise, turn, and exit pressure.
 - **Scene Cards:** playable dramatic state, not drafted prose.
 - **Review Ledger:** finding, reviewer, evidence surface, severity, adjudication, repair, and verification.
+- **Artifact Utility Ledger:** artifact, uncertainty reduced, decision changed, ongoing owner, last use, and delete-or-retain judgment.
 
 ## State Rules
 
@@ -34,6 +35,7 @@ These are semantic contracts, not rigid schemas. Use Markdown tables or sections
 8. Provisional causal claims may support robust outcomes; contested claims cannot exclusively decide them.
 9. The manuscript may reveal a better truth than the plan. When accepted, update the plan and record the change.
 10. Planning volume is not a quality metric. Track utility and unresolved risk, not a minimum word count unless the operator explicitly requires one.
+11. Raw specialist submissions survive beside coordinator adjudication. A summary cannot replace evidence of disagreement.
 
 ## Causal Packet
 
@@ -51,4 +53,3 @@ Classify sideband state as:
 - **Withheld:** deliberately unavailable to the current POV or reader.
 
 No scene should display a ledger merely because the ledger exists.
-

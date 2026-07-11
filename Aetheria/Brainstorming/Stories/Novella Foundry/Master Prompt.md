@@ -73,9 +73,11 @@ For each numbered pass:
 7. Run the pass acceptance checks and negative checks.
 8. For tactical or drafting passes, run Audience, Continuity/Causality, and Character/Social Agency reviews. Add Prose/Voice for drafting and revision.
 9. At movement and whole-manuscript boundaries, run a blind first-reader test on manuscript prose alone.
-10. Revise before acceptance. Do not let a report merely promise that a later pass will repair a current blocker unless the defect genuinely belongs downstream.
-11. End with artifacts produced, decisions, contradictions, state delta, review adjudication, explicit operator review points, and next-pass inputs.
-12. Commit and push the coherent checkpoint when policy requires it.
+10. Before the full plot ladder freezes, draft one representative pressure sequence, one quiet ordinary-life scene, and one relationship rupture. Revise architecture from what the voices can actually carry.
+11. Revise before acceptance. Do not let a report merely promise that a later pass will repair a current blocker unless the defect genuinely belongs downstream.
+12. For every retained artifact, state what uncertainty it reduced and which decision it changed. Cut artifacts that only prove compliance.
+13. End with artifacts produced, decisions, contradictions, state delta, review adjudication, explicit operator review points, and next-pass inputs.
+14. Commit and push the coherent checkpoint when policy requires it.
 
 ## Coordinator Judgment
 
@@ -87,6 +89,7 @@ For each numbered pass:
 - Require every manuscript reviewer to name strong material that revision should preserve. Defect hunting without preservation pressure flattens voice.
 - Do not draft toward word count by expanding explanation. Expand lived consequence, conflict, desire, sensory presence, and decision.
 - Do not stop prose work to formalize a model unless the unresolved issue makes causality impossible, contradictory, or numerically knife-edged.
+- Do not allow uninterrupted generation to impersonate incubation. Schedule at least one cold read after a real pause or a separate human session, and record when that independence could not be obtained.
 
 ## Required Room Layout
 
