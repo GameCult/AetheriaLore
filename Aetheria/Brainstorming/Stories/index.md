@@ -11,3 +11,7 @@ Each room owns its accepted story state locally. Material enters the wider vault
 ## Active Rooms
 
 No active room is currently listed.
+
+## Writing Systems
+
+- [[Novella Foundry/index|Novella Foundry]] - reusable coordinator prompt, pass architecture, specialist packets, state contracts, and runbook reconstructed from the process behind [[Pirate Metagame Novella/index|The Burden of Proof]]
