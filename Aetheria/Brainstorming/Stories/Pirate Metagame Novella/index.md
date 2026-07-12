@@ -69,3 +69,4 @@ Later passes will add ships, combat model, tactical traces, failure ladder, POV 
 - [[13 Adversarial Revision/Revision Ledger|Pass 13 Revision Ledger]]
 - [[Continuity And Red-Team Reports]]
 - [[14 Promotion/Pass Report|Pass 14 - Promotion]]
+- [[15 Revision Council/Pass Report|Pass 15 - Revision Council]]

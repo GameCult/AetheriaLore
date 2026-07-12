@@ -116,9 +116,21 @@ Adjudicate findings into one revision blueprint. Record accepted, modified, reje
 
 Do not set a hard reduction quota. Record an expected range only where diagnosis demonstrates repeated interpretation, duplicated examples, unnecessary aftermath, or structural drag.
 
+### Phase 2A: Subject-Writer Proposals
+
+After synthesis, the seven subject specialists become proposal writers. Each reads the accepted synthesis, their raw diagnosis, the manuscript, and their permitted sideband. Each produces concrete chapter-by-chapter changes from their obsession: exact anchor, cut/rewrite/add/move instruction, rationale, sample language where useful, grounding, benefit, collateral risk, and priority. They explicitly protect chapters considered but not changed.
+
+Subject writers do not rewrite whole chapters, edit steward candidates, or resolve conflicts with another specialty. Their job is to make their desired intervention concrete enough to contest.
+
+### Phase 2B: Coordinator Adjudication
+
+The coordinator rules on every substantive proposal as `Accept`, `Modify`, or `Reject`, with reason, protected collateral, exact accepted instruction, and dependencies. Systems and knowledge constraints may block an elegant change. Fresh reader evidence may outweigh correlated council preference. Conflicts are settled before a chapter steward receives the brief.
+
+The accepted adjudication, not the synthesis alone and not any single specialist report, governs prose revision.
+
 ### Phase 3: Structural Candidate Draft
 
-Assign chapter stewards sequentially by movement or tightly linked chapter group. They perform the structural revision from accepted briefs and sideband dossiers. Integrate accepted candidates before preparing a dependent steward's next packet. Reconcile chronology, state, setup, and transitions after each group.
+Assign chapter stewards sequentially by movement or tightly linked chapter group. They perform revision from the accepted proposal adjudication and sideband dossiers. Integrate accepted candidates before preparing a dependent steward's next packet. Reconcile chronology, state, setup, and transitions after each group.
 
 ### Phase 4: Character, Culture, And Subtext Revision
 

@@ -279,3 +279,14 @@
 - The promoted file is text-equivalent to the accepted movement drafts after heading normalization.
 - Fiction, Stories, brainstorming, room, and Aetheria-root navigation surfaces link the final artifact.
 - Final promotion checks and separately reviewable discoveries are recorded in [[14 Promotion/Pass Report]].
+
+## Pass 15 Revision Council
+
+- [[15 Revision Council/Pass Report]] records the complete post-publication council revision.
+- The promoted manuscript now contains 47,602 whitespace-counted words, three movements, and twenty-eight chapters.
+- Seven diagnostic editors and seven subject writers operated independently before coordinator adjudication.
+- Eight stable chapter stewards revised non-overlapping spans from accepted proposal stacks and bounded sideband dossiers.
+- Fresh-reader, prose, implementation-regression, and final continuity audits passed after finite repairs.
+- Pal's nested embodiment terminology and the Twelvefold's one-cut/two-vote/twelve-person state are explicit in prose.
+- The final operation foregrounds named worker ownership and retains exact resource, claim, custody, and authority state.
+- Revised manuscript SHA-256: `EC3E9191D8AEF3BF129627C2A0B7757143EFF9A462E428923D15280EA78E1A9B`.

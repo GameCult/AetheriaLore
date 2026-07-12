@@ -424,7 +424,7 @@ Luce sat again.
 
 The sponsor liaison remained crouched, still prepared to help.
 
-Luce looked down at the credential on his wrist. It had opened the doors. It had also followed everyone through.
+Luce looked down at the credential on his wrist. It had followed everyone through.
 
 He wanted a profession in which taking a ship was called taking a ship.
 
@@ -954,13 +954,17 @@ She returned the next.
 
 Sable Orison arrived through a secure link because the Finch-derived base architecture in their body had three active identity warrants and a manufacturer dispute over whether pirate modifications constituted an unauthorized fork.
 
-Their projected face remained very still while their attention moved through the contract at machine speed.
+Their projected face remained very still. A coolant-service notice opened beside the contract, waited through two clauses, and closed without acknowledgement.
 
 “The cognition coordinator owns task allocation,” Sable said.
 
 “Within assigned objectives.”
 
 “Allocation without authority to revise an incoherent objective is clerical.”
+
+“Your maintenance window,” Samira said.
+
+“Remains mine.” Sable restored the disputed clause. “Continue.”
 
 “Then challenge the objective.”
 
@@ -1006,9 +1010,9 @@ Samira said, “We do not know.”
 
 Soren signed Samira's answer.
 
-The remaining workers arrived through the same unromantic process. A medic wanted species-care stock before accepting Corvid patients. A boarding worker refused any prize share derived from passenger medicine. A logistics watchkeeper required food reserve to remain senior to replacement ammunition. Two candidates declined after seeing the proposed mission profile. Their refusal stayed in the hiring record rather than becoming evidence that they lacked courage.
+The remaining workers arrived through the same unromantic process. A medic made species-care stock a condition of accepting Corvid patients. A boarding worker struck passenger medicine from prize shares. Bani kept food reserve senior to replacement ammunition. Two candidates read the mission profile and declined; their refusals remained in the hiring record.
 
-Every other regular crew member carried some augmentation: common radiation repair, retinal overlays, timing correction, replacement joints, interface ports, dermis patches, medical regulators, or cognition support. The upgrades differed in quality and politics. All required something: calibration, consumables, licensed medicine, clean power, specialist care, or a person who knew how to keep an old standard alive.
+Most of the crew brought some bodily dependency aboard: calibration, licensed medicine, clean power, specialist care, or an old standard somebody still knew how to maintain.
 
 Mara alone arrived deliberately baseline.
 
@@ -1320,9 +1324,9 @@ Soren, standing above her with a tray of uncooked grain cakes, said, “It becom
 
 “It is how meals work.”
 
-One raven watched from the lintel. Another had entered a storage drawer and was making the inventory system report a moving packet of dried fruit. A third had set a teaching tile beside Rin's open service chase: fired black ceramic, one edge already repaired with wire, its pressure marks encoding a correction to a maintenance route the yard drawings had got wrong.
+One raven watched from the lintel. Another had entered a storage drawer and was making the inventory system report a moving packet of dried fruit. A third set a cracked black teaching tile beside Rin's open service chase, turned it until one pressure-marked edge aligned with the particulate line, and tapped twice.
 
-The raven beside the tile pressed one new mark into a soft repair strip, then turned the strip away when Soren leaned closer. The correction was offered. Its authorship was not.
+Rin shifted her wrist light to follow the mark. The raven pulled the tile back before Soren could move the grain tray onto it.
 
 “Pal,” Rin said, “tell him.”
 
@@ -1362,7 +1366,7 @@ Dena took her technicians back to the drone bay. Rin remained under the galley c
 
 Pal followed all three through the ship.
 
-Dena's three-person cell divided launch, capture, fuel, cooling, and damaged recovery between bodies that could not be in two places at once. One technician had dependants on Ganymede. The other sent half their wage to a parent whose housing contract prohibited pirate income and therefore received the remittance through Tess's least elegant legal fiction. Dena herself had no children and three former deck crews who still asked whether a new captain listened before or after somebody lost a hand.
+Dena's three-person cell divided launch, capture, fuel, cooling, and damaged recovery between bodies that could not be in two places at once. One technician sent half their wage home through Tess's least elegant legal fiction. Dena kept messages from three former deck crews who still asked whether a new captain listened before or after somebody lost a hand.
 
 She recorded the crooked halt mark and sent it to all three.
 
@@ -1394,7 +1398,7 @@ Soren spent his first wage credit on his partner's automation retraining before 
 
 He returned to the ammunition feed and found a raven replacing his labels with poems.
 
-Across the other cells, a medic calibrated species-care stock, a boarder marked a passenger-medicine refusal, and Bani argued food reserve ahead of replacement ammunition. Pal could track each body, contract, and route home. Tracking did not mean owning.
+Across the other cells, a medic calibrated species-care stock, a boarder marked a passenger-medicine refusal, and Bani checked food reserve ahead of replacement ammunition.
 
 At twenty-one hundred, Luce asked for a commissioning status.
 
@@ -1421,8 +1425,6 @@ Luce received no summary.
 The ship did.
 
 In the drone bay, Dena's physical halt waited under its crooked grease-pencil line. In the galley, a particulate sensor now belonged to Rin in every way that mattered except title.
-
-The ship was acquiring owners faster than the registry could describe.
 
 ---
 
@@ -1460,20 +1462,25 @@ Not yet.
 
 ## Grounding Note
 
-This candidate uses the accepted constraints in [[15 Revision Council/Coordinator Synthesis]], [[Room Charter]], [[Canon Ledger]], [[Story State]], [[Decision Log]], [[Cast Bible]], [[Character State Ledger]], [[Relationship Matrix]], [[Ship And Refit Ledger]], [[POV Knowledge Matrix]], [[Continuity And Red-Team Reports]], [[10 Draft Movement I/Movement I Draft]], [[Scene Cards]], [[Character Causality Replay]], and [[02 Cast And Social Body/Corvid Murder Brief]].
+This candidate uses the accepted constraints in [[15 Revision Council/Coordinator Synthesis]], [[15 Revision Council/Coordinator Adjudication]], [[Room Charter]], [[Canon Ledger]], [[Story State]], [[Decision Log]], [[Cast Bible]], [[Character State Ledger]], [[Relationship Matrix]], [[Ship And Refit Ledger]], [[POV Knowledge Matrix]], [[Continuity And Red-Team Reports]], [[10 Draft Movement I/Movement I Draft]], [[Scene Cards]], [[Character Causality Replay]], and [[02 Cast And Social Body/Corvid Murder Brief]].
 
 The revision preserves the accepted manuscript's events and POV knowledge while applying Group A's bounded mandate: the six-person rescue and involuntary recovery claim; Pal's ability to refuse and negotiate extraction, counsel, continuity, and survival authority; Samira's domain-bounded command; one Twelvefold economic cut, two campaign votes, twelve persons, and twelve rescue places; thirty-six persons aboard and thirty-five biological persons; Dena's local physical halt; and the first ship's concentrated, elegant recovery architecture.
 
 ### Cut / Move / Add
 
-- **Cut:** No event-bearing material. Compression was not forced where the opening's existing sequence remained load-bearing.
+- **Cut — ST 1.1 modified / TS Chapter 1:** Removed one repeated credential interpretation after the wage and housing consequences; retained the claim workflow, worker questions, `It had followed everyone through`, and the vocation line.
+- **Cut — PD 2.1 / RE 2.2 / TS Chapter 2:** Compressed recruitment dossiers while preserving medical stock, passenger-medicine refusal, food priority, candidate refusal, bodily maintenance dependence, and all full authority negotiations.
+- **Cut — CP 3.2 / PD 3.1-3.2 / TS Chapter 3 modified:** Reduced aggregate worker dependency and ownership summary. Retained causal remittance, medicine, refusal, food, Dena, Rin, and Soren markers.
 - **Move:** None.
-- **Add:** Clarified Pal's accepted nested embodiment: a twenty-eight-kilogram continuity core inside a 118-kilogram portable support shell carrying emergency power, cooling, networking, sensors, and the carry frame.
-- **Add:** Seeded a Corvid teaching tile as an authored, inherited maintenance correction whose usefulness is shared without surrendering private authorship.
+- **Add — RE 2.1 / SC 2.1:** Clarified Pal's accepted nested embodiment: a twenty-eight-kilogram continuity core inside a 118-kilogram portable support shell carrying emergency power, cooling, networking, sensors, and the carry frame.
+- **Add — CP 2.1 modified:** Replaced Sable's machine-speed summary with a self-controlled coolant-service interruption observed but not diagnosed by Samira.
+- **Add — CP 3.1 modified / RE 3.1 / SC 3.1:** Seeded the cracked teaching tile as used, opaque material culture during Rin's repair work.
+
+Net prose change from the first Group A candidate: 94 words removed. The change serves cast-entry hierarchy and removes repeated interpretation rather than pursuing a compression quota.
 
 ### Proposed State Deltas
 
-None. The shell topology and teaching-object seed are coordinator-approved clarifications or additions within existing sideband constraints; they do not alter depicted event state.
+None. The shell topology, Sable maintenance beat, and teaching-object seed are adjudication-approved clarifications or replacement additions; they do not alter depicted event state.
 
 ### Protected Material Retained
 
@@ -1485,8 +1492,11 @@ None. The shell topology and teaching-object seed are coordinator-approved clari
 - Pal's sensory wonder on entering the ship; thirty-six persons total and thirty-five biological persons.
 - Dena's physical deck halt, Rin's independent gauge, the twenty-gravity table, food, labels, domestic maintenance, and Luce's responsive-system obsession.
 
-### Dependencies And Unresolved Contradictions
+### Dependencies, Deviations, And Unresolved Contradictions
 
-- Later chapters should use `continuity core` for the twenty-eight-kilogram inner body, `portable support shell` or `portable shell` for the complete 118-kilogram evacuation assembly, and `maintenance body` for the non-continuity wheeled peripheral.
-- The teaching tile is intact here apart from an older wire repair. Any later cracking or loss should preserve a legible damage history and Corvid-controlled authorship.
+- Later chapters should use `continuity core` for the twenty-eight-kilogram inner body, `portable support shell` or `portable shell` for the complete 118-kilogram evacuation assembly, and `maintenance body` for the non-continuity wheeled peripheral. Emergency evacuation moves the complete assembly; controlled harbor transfer may remove the inner core.
+- The teaching tile is already cracked at first appearance. Later damage or loss must preserve a legible history without exposing private authorship or identity topology.
+- **Deviation from CP 2.2 modified:** No Samira/Nia message was added in Chapter 2. Recruitment remained dense after accepted authority and embodiment work; adjudication explicitly permits the first household seed in Chapter 6 or 7.
+- **Deviation from first-pass candidate:** Removed the tile's wire-repair description, encoded-route explanation, and explicit authorship conclusion to comply with CP 3.1 modified and the no-human-readable-cultural-key dependency.
+- **Rejected instructions respected:** no Chapter 1 Corvid foreshadowing; no structural shortening of the regatta or rescue; no Sable temporal-order failure; no cultural roster key or private topology.
 - No contradiction requiring coordinator adjudication was found inside Chapters 1-3.

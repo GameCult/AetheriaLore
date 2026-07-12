@@ -104,6 +104,11 @@
 | D-098 | Accept 50,000-60,000 manuscript words as the promotion range without padding toward the 58,900 planning target. | Accepted | Reader value, causal clarity, and lived consequence govern revision length. |
 | D-099 | Promote the novella as _The Burden of Proof_. | Accepted | The title joins the surviving hull, insurer comedy, Luce's object-mediated conscience, and Pal's unresolved evidentiary boundary between need and choice. |
 | D-100 | Preserve the reviewed movement drafts after single-file promotion. | Accepted | Development remains inspectable while `Aetheria/Fiction/The Burden of Proof.md` becomes the finished reading artifact. |
+| D-101 | Revise the promoted manuscript through a diagnosis, subject-writer proposal, coordinator adjudication, and chapter-steward sequence. | Accepted | Specialist diagnosis alone does not create a contested prose decision surface; every subject must propose concrete chapter changes before the coordinator rules. |
+| D-102 | Accept 47,602 words as the revised natural length. | Accepted | The 6.36 percent reduction improves hierarchy and repetition without using the provisional compression range as a quota. |
+| D-103 | Define Pal's twenty-eight-kilogram continuity shell as nested inside the 118-kilogram portable support shell. | Accepted | Controlled transfer, emergency evacuation, and maintenance peripherals now share one physically coherent embodiment model. |
+| D-104 | Correct all Twelvefold political language to one cut, two campaign votes, and twelve independent person states. | Accepted | Economic identity, council representation, rescue, medicine, and consent must not collapse into one count. |
+| D-105 | Promote the Pass 15 candidate after fresh-reader and final continuity verification. | Accepted | The candidate preserves the book's identity while reducing explanatory completion and improving character-owned hierarchy. |
 
 ## Supersession Rule
 

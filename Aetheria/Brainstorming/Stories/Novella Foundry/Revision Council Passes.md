@@ -90,6 +90,18 @@ Each chapter brief records current and revised dramatic function, POV purpose, e
 
 **Gate:** Every writing assignment has one chapter steward, a non-overlapping span, an accepted brief, and a bounded sideband dossier. Conflicting council recommendations are adjudicated before prose work. Later passes return to the same steward for substantial rewriting.
 
+## Phase 2A Subject-Writer Proposals
+
+Each council specialty produces a chapter-by-chapter proposal packet. Every affected chapter receives exact anchors, concrete intervention, subject rationale, grounding, expected benefit, collateral risk, priority, and sample language where useful. Every considered protected chapter receives an explicit `No change` disposition.
+
+These writers are subject-obsessed on purpose. They do not compromise with one another or rewrite complete chapters. Their disagreement is retained as evidence.
+
+## Phase 2B Coordinator Adjudication
+
+The coordinator enumerates every substantive proposal and rules `Accept`, `Modify`, or `Reject`. Modified rulings contain the exact instruction the steward may execute. Rejections remain inspectable. The resulting chapter brief identifies proposal sources, controlling continuity constraints, protected material, and dependencies.
+
+**Gate:** No steward begins or resumes prose until every proposal affecting its span has a disposition. A steward may not silently synthesize raw council disagreement.
+
 ## Phases 3-7 Candidate Artifacts
 
 For each assignment retain:

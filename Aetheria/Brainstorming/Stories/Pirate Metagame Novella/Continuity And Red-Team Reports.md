@@ -7,3 +7,7 @@ The authoritative whole-book findings and coordinator reconciliation are recorde
 ## Pass 14 Promotion Audit
 
 The promoted artifact was mechanically compared with the accepted movement drafts and received independent packaging/POV, continuity/tactics, and first-reader blocker audits. Results are recorded in [[14 Promotion/Pass Report]].
+
+## Pass 15 Revision Audit
+
+The revised promotion candidate received manuscript-only reader review, prose regression, seven subject implementation regressions, and a final systems/continuity audit after all finite edits. No continuity blocker remained. The complete evidence chain is indexed in [[15 Revision Council/Pass Report]].

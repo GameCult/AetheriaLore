@@ -2,6 +2,11 @@
 
 Dedicated writing agents turn accepted revision briefs into candidate prose. They are not diagnostic editors and not co-owners of the manuscript.
 
+The revision loop uses two kinds of writer:
+
+- **Subject writers** propose concrete chapter-level interventions from one obsession and never rewrite whole chapters.
+- **Chapter stewards** produce bounded candidate prose only after the coordinator adjudicates those proposals.
+
 ## Shared Writer Prompt
 
 Prepend this block to every writing assignment:
@@ -90,6 +95,8 @@ Use when separately revised chapter groups no longer meet cleanly.
 ## Chapter Steward Model
 
 One chapter steward owns candidate prose for a chapter or tightly linked chapter group throughout revision. The steward receives successive accepted change briefs and the latest coordinator-integrated span. This continuity reduces voice churn and makes the writer accountable for the cumulative effect rather than one editorial dimension.
+
+The steward receives the coordinator's accepted proposal stack, not raw council reports. It may not invent a compromise between rejected and accepted proposals or omit an accepted change without recording a contradiction for coordinator review.
 
 Specialist writing agents may provide:
 
