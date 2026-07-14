@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 12
+
+- `Pirate Coalition.md` fell from about 971 to 628 words. Pirate power now rests on fragmented reputation, illicit routes, labor, capture, and the contradiction between escape infrastructure and predation rather than a unified code or romantic culture.
+- `Aya Collective.md` fell from about 928 to 596 words. Its federation carries shared food, water, repair, sanctuary, evacuation, and defense obligations while local autonomy, scarce capacity, informal authority, and militarization remain live conflicts.
+- `Activist Network.md` fell from about 586 to 467 words. It retains Major placement as cross-jurisdiction authentication and handoff infrastructure without absorbing member movements, clinics, routes, witnesses, or ideology.
+- Soul removed unsupported pirate insurgent logistics, constitutional powers for the Hellas Congress, settled specialist authority after the Food Security Wars, and a repeated vanguard conclusion. An ancillary combat-doctrine repair replaced a pre-Elysium shield dependency with armor and compartment survival.
+
 ### Wave 11
 
 - `Cymata Systems.md` fell from 1,201 to about 643 words. It now owns cognition growth, voicing, fit review, records, and licensed lines while technology, hulls, deployment certification, downstream custody, and Nibu's uncertain provenance retain separate owners.

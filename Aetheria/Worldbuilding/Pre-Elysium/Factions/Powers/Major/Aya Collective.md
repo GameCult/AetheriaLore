@@ -1,65 +1,31 @@
 *"No system is inevitable if people can still keep one another alive."*
 
-[[Aya Collective]] is the stubborn anti-corporate federation of the setting: a network of communes, sanctuaries, agricultural cooperatives, sentience-rights institutions, and mutual-aid logistics experiments that refused the premise that life-support, food, medicine, cognition, and safety must remain permanently enclosed inside corporate sovereignty.
+[[Aya Collective]] is a federation of communes, agricultural cooperatives, sanctuaries, clinics, repair networks, and mutual-aid logistics across late Sol. Its members reject corporate control of food, medicine, life-support, cognition, and safety by building institutions able to provide them on different terms.
 
-It is not the largest power in Sol, and it is not innocent. Aya survives by compromise, selective defense, and strategic alliances with actors much larger and harsher than itself. But it remains one of the setting's crucial counterfactuals: proof that technological modernity need not automatically collapse into company-town feudalism.
+Aya politics begins with material care. A right without food, transport, maintenance, legal support, or a safe destination remains difficult to exercise. Pumps, kitchens, crop stores, clinics, servers, and evacuation routes are political infrastructure, providing autonomy while imposing recurring work and allocation decisions.
 
-### Historical Lineage
+### Federation and Territory
 
-Aya formed out of Earth-based mutual-aid organizers, debt abolitionists, refugee agriculturalists, dissident habitat engineers, and labor networks radicalized by the early colony system. The movement gained coherence during the first century of off-world expansion when it became clear that privatized settlement had reproduced older structures of coercion in airlocked form.
+Aya formed as agricultural settlements, labor networks, refugee communities, habitat engineers, and rights advocates connected their local projects. Its strongest territorial concentration lies around the Hellas Basin, with scattered communes and sanctuary sites elsewhere on Mars, around Saturn, and along refuge routes crossing jurisdictions controlled by larger powers.
 
-Its name comes from organizer Aya Moreno, whose work during the [[Hellas Mutual Defense Congress]] helped connect Mars agronomy communes, labor organizers, and rights advocates into a durable federation. Unlike many oppositional formations, Aya did not rely on purity. It survived by building food systems, clinics, legal doctrine, and evacuation pathways that people could actually use.
+Local assemblies govern settlements and cooperatives. Federation exists to carry needs that exceed one community's capacity. Arrangements established at the [[Hellas Mutual Defense Congress]] coordinate shared reserves, water access, crop planning, legal aid, evacuation capacity, and collective defense without claiming ownership of every member institution. Local autonomy is negotiated against dependence on common water, transport, and protection.
 
-### Political Logic
+This arrangement makes scarcity visible. Local control protects accountability, yet a settlement guarding its stores may shift hunger onto refugees or neighbors. Federal coordination can move resources toward urgent need, yet the same capacity can harden into command.
 
-Aya's doctrine is federation through material care. It believes people defend systems that sustain them, not slogans alone. This makes the Collective deeply concerned with agriculture, water, repair, disability access, and sanctuary infrastructure. It does not romanticize spontaneity. It knows autonomy has supply-chain requirements.
+### Work and Care
 
-That practical orientation also explains its strong ties to the [[Elephant Enclave]], [[Ewan Hart]], [[Awakened Labor Front]], [[Preservationists]], and elements of the [[Free Upload Network]]. Aya is where rights discourse meets kitchens, clinics, pumps, and transport manifests.
+Daily labor varies by site and season. Agronomists manage crops; habitat crews repair seals, pumps, and power systems; clinicians and technicians support biological and digital patients; cooks, teachers, mediators, drivers, server custodians, and defense volunteers keep settlements usable. Shared decisions still require meetings, inventories, and records of what was promised.
 
-### Territory and Everyday Life
+Care work is not distributed equally. Experienced organizers, disabled residents, clinicians, and people already responsible for households often absorb extra mediation and support because they are trusted to do it well. Aya communities argue over whether recognition, reduced shifts, or formal roles correct that burden or quietly create another durable class of administrators.
 
-Aya territory is scattered rather than imperial: Hellas Basin cooperatives, agronomy corridors, Saturnine communes, sanctuary habitats, and food-producing settlements embedded uneasily inside broader hostile geographies. Life there is more participatory than in the megas, but also more labor-intensive. Meetings matter. Repair labor matters. Water accounting matters. Childcare and defense planning often happen in the same week.
+Sanctuaries are central to the Collective, but food, housing, clinic attention, and compute are finite. Some members demand open admission; others impose capacity limits or seek help from neighboring sites. Disputes concern who performs the additional work and what the federation owes when one settlement says it cannot.
 
-Social life in Aya settlements is not utopian calm. It is structured by practical argument: how to distribute scarce resources, how to welcome refugees without collapsing local capacity, how to prevent charismatic leadership from hardening into hierarchy, and how to defend communities without becoming what they oppose.
+### Alliances and Defense
 
-### Economy and Institutions
+Aya maintains independent alliances with [[Ewan Hart]], the [[Elephant Enclave]], labor and sentience-rights organizers such as the [[Awakened Labor Front]] and [[Preservationists]], and upload-rescue networks including the [[Free Upload Network]]. These partners do not become Aya subsidiaries. Cooperation may involve sanctuary, food, technical support, testimony, or transport while political authority remains local to each participant.
 
-Aya's economy centers on:
+The [[Food Security Wars]] forced agricultural communes to defend stores, water systems, and supply corridors against seizure. Aya developed convoy protection, site defense, and coordinated logistics because unguarded abundance became an invitation to appropriation. Members continue to dispute whether emergency specialists and command structures can protect the federation without acquiring durable authority inside it.
 
-- cooperative agriculture and food distribution
-- habitat repair and commons infrastructure
-- sanctuary logistics for uploads, uplifts, labor fugitives, and political dissidents
-- shared clinics and rights-oriented research networks
-- reciprocal trade with aligned or tolerated partners
+During the [[Enceladus Cooperative Schism]], Aya organizers supported worker-pilgrims and debtor congregations resisting [[Framgång]] contracts. They supplied solidarity without claiming custody of the dissidents or turning assistance into authority over the emerging cooperatives. That restraint remains an aspiration rather than an automatic virtue: sanctuary providers always possess leverage over people who need somewhere to go.
 
-Its key institutions include the Commons Assemblies, Sanctuary Bureaus, Agricultural Mutuals, Sentience Defense Clinics, and the rotating coordination councils that keep the federation interoperable without turning it into a state in the Dominion mold.
-
-### Seed Notes in Season
-
-`Seed Notes` and `Water Tallies` appear when harvests run thin, convoys come late, or a repair season demands more labor than goodwill alone can allocate. They ration irrigation time, reserve stock, transport slots, and difficult communal work without pretending scarcity has disappeared.
-
-Settlements let them expire on purpose. Emergency paper is supposed to pass through the hands that need it, do its work, and lose force before it can become inheritance. Aya status accumulates elsewhere: in remembered labor, trusted stewardship, and the habit of showing up for the dull tasks that keep other people alive. No one gets rich in Aya space. That is the point, and sometimes also the problem.
-
-### A Life in Aya
-
-Aya childhood is communal without being anonymous. Children grow up around gardens, workshops, kitchens, assemblies, and the practical argument that care is not a private afterthought but the center of politics. Adolescents rotate through farm work, repair, teaching, mediation, and defense support so they understand what keeps a settlement alive before they specialize.
-
-Adulthood in Aya means living with more agency and more obligation than most of Sol allows. You vote, argue, plant, repair, remember, and occasionally fight. Old age is not automatically dignified, but it is meant to remain socially visible. Elders become keepers of seed lines, stories, craft memory, and political warning. The Collective's deepest promise is not comfort. It is that your life, however difficult, will remain recognizably your own.
-
-### Aesthetic and Cultural Cues
-
-Aya aesthetics reflect maintenance and reuse rather than luxury or intimidation: repaired metal, communal murals, practical textiles, seed vault iconography, worn public tables, irrigation glass, grafted gardens, and architecture that visibly prioritizes livability over display. Their settlements often look less polished than rival powers and more beloved.
-
-Culturally, Aya values accountability, testimony, practical knowledge, and the idea that care work is civilization work. Their ceremonies are often agricultural, memorial, or restorative rather than triumphalist. They remember the dead as obligations carried forward, not as branding assets.
-
-### Major Historical Events
-
-[[Hellas Mutual Defense Congress]] transformed dispersed opposition into a durable federated project.
-
-The [[Food Security Wars]] forced Aya to become a serious logistical and military actor in order to preserve agricultural autonomy.
-
-[[Enceladus Cooperative Schism]] tested the Collective's ability to intervene in a spiritually manipulated debt economy without imposing its own paternalism from above.
-
-### Role in the Late Timeline
-
-Aya matters because it makes the setting's politics morally and materially thicker. Without it, every alternative to the megas would collapse either into romance or pure negation. Aya instead shows how difficult, compromised, and necessary it is to build institutions around care under late-capitalist conditions.
+Aya survives through this friction. It offers food, refuge, repair, and collective defense while repeatedly confronting the risk that the machinery required to sustain autonomy can reproduce hierarchy inside it.

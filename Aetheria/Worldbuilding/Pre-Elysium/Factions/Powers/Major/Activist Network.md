@@ -1,46 +1,23 @@
 *"If the truth cannot travel, neither can justice."*
 
-The [[Activist Network]] is the logistical nervous system of dissent in late Sol: leak cells, labor organizers, medics, rights litigators, sanctuary planners, strike couriers, whistleblower archivists, and smuggling crews who keep oppositional politics from dying alone inside isolated jurisdictions.
+The [[Activist Network]] is federated logistics and trust infrastructure shared by movements that retain their own politics, membership, and custody decisions. It has no central command and cannot order a strike, define personhood, or compel a sanctuary to accept someone. It helps evidence, witnesses, requests, and material aid cross jurisdictions designed to isolate them.
 
-It is not a unified ideology. It is the shared infrastructure through which many ideologies continue to exist. In a solar system where hostile powers control most formal institutions, that kind of connective tissue matters as much as doctrine.
+The Network became durable because different struggles needed the same capabilities. An organizer might possess evidence without a safe archive. A witness might reach a clinic without legal standing. A labor cell might know an extraction route but not whether the receiving habitat could support another household. Shared protocols let separate groups negotiate handoffs without becoming one organization.
 
-### Historical Lineage
+## Routes and Trust
 
-The Network emerged gradually as separate labor, abolitionist, sentience-rights, and transparency movements discovered that they all needed the same practical tools: secure communication, trusted couriers, document authentication, emergency extraction routes, safe clinics, and the means to turn local testimony into system-wide scandal.
+Network nodes authenticate and mirror documents, match couriers to routes, arrange witness intake, and connect emergency extractions to clinics, lawyers, or sanctuaries. They warn partners when a courier, archive, credential, or address has been compromised.
 
-Its influence expanded dramatically after the [[Upload Vivisection Expose]], the [[Pallas Species Strikes]], and the long sequence of collapse-era conflicts that made witness survival itself a political problem. By then it had ceased to be merely an activist coalition and become a durable shadow institution.
+That authority is narrow but consequential. A verification node may refuse to endorse altered evidence. A dispatcher may close a route after exposure. A clinic or sanctuary may reject a handoff it cannot safely receive. These decisions govern passage through the Network, not the politics or personhood of those seeking help.
 
-### Political Logic
+The [[Free Upload Network]] may request mirrors and substrate transport while keeping custody of the people it moves. The [[Awakened Labor Front]] may use couriers without surrendering strike strategy. [[Gene Commons]] clinics may accept referrals while refusing partners whose methods endanger patients.
 
-The Network is built around one hard-earned lesson: isolated resistance is narratively useful to the powerful because it can be crushed or edited before it becomes contagious. Solidarity therefore has to be infrastructural. It has to move evidence, people, technical knowledge, and care.
+The [[Upload Vivisection Expose]] demonstrated why distributed authentication and preservation mattered: testimony, memory fragments, and technical logs had to survive hostile institutions long enough to corroborate one another. The [[Pallas Species Strikes]] created a different demand for cross-category communication among workers whom employers had separated as products, uplifts, and ordinary labor. Neither event belonged to the Network. Both produced problems its routing practices were built to address.
 
-This is also why the Network is messy. It routinely coordinates actors with incompatible long-term visions because immediate survival problems do not wait for ideological purification. That pragmatism gives the Network reach and also exposes it to opportunism, infiltration, and morally compromised tactical alliances.
+## Work and Failure
 
-### Constituencies and Internal Tensions
+Archivists check provenance and maintain copies. Couriers move records, people, medicine, and keys. Intake workers assess needs without promising resources owned elsewhere. Dispatchers compare exposure, travel time, and receiving capacity. Specialists contribute through their own institutions or temporary agreements.
 
-The Network regularly overlaps with:
+Compartmentation protects this labor by limiting what any worker can reveal under pressure. It also fragments accountability. A courier may not know why a route closed. An intake worker may carry traumatic testimony without learning whether the witness arrived. A failed handoff can pass through several locally defensible decisions with no office able to explain the whole loss.
 
-- [[Awakened Labor Front]] organizers
-- [[Free Upload Network]] custodians and extraction crews
-- [[Gene Commons]] reformers and clinic mutuals
-- [[Truth Cults]] and leak cultures
-- [[Preservationists]] and broad sentience-rights advocates
-- baseline populists linked to the [[Mortal Majority]]
-
-Its ugliest contradictions appear when tactical overlap brings it into temporary proximity with reactionary forces such as parts of the [[Species Purity Front]]. The Network survives those tensions because it treats logistics as a commons even when politics remain unresolved.
-
-### Territory and Everyday Life
-
-The Network's territory is hidden inside other territories. It lives in clinic basements, cargo manifests, disguised courier firms, illegal mirror archives, repurposed signal relays, and sanctuary apartments nobody marks on official maps. Some hubs are almost public secrets. Others survive only because everyone involved speaks in layers.
-
-Daily life for Network operatives is administrative in a way outsiders often underestimate. They spend as much time checking manifests, verifying testimony, triaging trauma, forging records, and moving medical stock as they do making speeches. In Aetheria, justice work is often paperwork performed under threat.
-
-### Aesthetic and Cultural Cues
-
-Network aesthetics are practical, mixed, and intentionally unheroic. Borrowed uniforms, repurposed med-kits, blank workwear, heavily annotated tablets, archive tags, and patched signal gear are more characteristic than banners. Their culture values documentation, handoff discipline, witness care, and the ability to act without demanding to be the center of the story.
-
-This makes the Network less glamorous than other factions and often more historically significant. Many of the events now remembered as turning points would have remained rumors without its couriers and archivists.
-
-### Role in the Setting
-
-The [[Activist Network]] matters because it gives late Sol a practical memory and a practical conscience. It does not topple power by itself. It keeps the evidence, the people, and the routes alive long enough that power can actually be contested.
+Trust creates its own hierarchy. Long-serving verifiers and dispatchers can become gatekeepers whose doubts decide which claims travel. Moving too slowly can strand a witness; moving too quickly can spread forged evidence or expose every receiving node. Infiltration encourages secrecy, while secrecy makes abuse harder to contest.

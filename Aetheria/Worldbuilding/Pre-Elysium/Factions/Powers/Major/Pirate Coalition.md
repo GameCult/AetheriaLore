@@ -1,59 +1,29 @@
-*"A sealed corridor is just a challenge written in metal."*
+The [[Pirate Coalition]] is a distributed counter-sovereignty of late Sol: raiders, smugglers, mutinous crews, liberated uploads, shipminds, saboteurs, refugee ferrymen, and black-market carriers operating where official route law fails or becomes intolerable.
 
-The [[Pirate Coalition]] is the distributed counter-sovereignty of late Sol: raiders, smugglers, mutinous crews, liberated uploads, shipminds, saboteurs, refugee ferrymen, and black-market carriers who learned to survive in the spaces where official route law fails or becomes intolerable.
+It has no central command or common political program. A crew moving fugitives, strike funds, or banned medicine may share routes and reputation with a salvage syndicate or predatory raider band. Some cells keep people alive beyond corporate jurisdiction. Others use the language of autonomy while treating isolated settlements, passengers, and weaker crews as inventory. Both belong to the same ecology because clandestine movement requires contacts more often than ideological agreement.
 
-It is not a single ideology and never pretends to be. Some pirate cells are insurgent lifelines moving fugitives, strike funds, and banned medicine. Others are predators who speak the language of freedom while treating weaker settlements as inventory. The Coalition matters because both of those realities are true at once.
+### Routes and Territory
 
-### Historical Lineage
+Coalition territory is noncontiguous. It includes ring-shadow yards, hidden docks, patched [[Bloom]] cavities, Trojan nests, falsified rescue stations, convoy parasites, and temporary storage habitats. A base may be abandoned once its traffic pattern becomes legible. Access depends on introductions, useful cargo, local bargaining power, and whether previous visitors brought payment, danger, or recovery teams behind them.
 
-Piracy became structurally durable once the [[Pan-Solar Consortium]] and the major powers made route law dense enough that evasion itself became a profession. Early smugglers and privateers were often little more than failed contractors and surplus crews. Over time they absorbed far stranger elements: rogue vessel intelligences linked to [[Ship Mutiny]], dissident courier networks, frontier repair cultures associated with [[AstroDyne]], and deep infiltration cells tied to the [[Corvid Collective]].
+These networks move contraband medicine, firmware, weapons, identity papers, fugitives, uploads, uplifted refugees, stolen goods, captured industrial components, illicit compute, salvage, and route intelligence. They also carry deniable cargo for institutions that publicly condemn piracy. Tightening route control after conflicts such as the [[Lagrange Broadcast War]] or [[Food Security Wars]] increased demand for evasion without making every smuggler or convoy raider a Coalition member.
 
-The Coalition's growth accelerated during periods of tightening corridor control, especially after the [[Lagrange Broadcast War]], the [[Food Security Wars]], and the outer-route pressures that culminated in the [[Ice Giant Navigation Wars]]. Every attempt to seal the system created new clients for people willing to slip between its seals.
+Local cells cooperate with independent networks including the [[Corvid Collective]], [[Cephalopod Syndicate]], [[Free Upload Network]], and [[Ship Mutiny]] cultures. Those relationships may provide infiltration, technical labor, refuge, or trusted handoffs. They do not place those movements under pirate authority.
 
-### Political Logic
+The Coalition participated directly in the [[Ice Giant Navigation Wars]], where pirate toll systems and raids helped threaten the trust compacts maintained by the [[Cetacean Navigators]]. The contradiction was structural: piracy could preserve passage outside recognized sovereignty while making passage more dangerous for anyone unable to bargain or fight.
 
-Pirate politics are organized around three recurring claims:
+### Work and Reputation
 
-- no corridor regime is legitimate if it traps people inside debt, identity, or legal caste
-- cargo and code will keep moving whether the recognized sovereigns approve or not
-- autonomy without force protection is just a slow way of being repossessed
+Pirate infrastructure still requires maintenance crews, brokers, pilots, caregivers, loaders, fabricators, and people willing to keep air and heat moving through unofficial habitats. Their households live with interrupted supply, sudden relocation, hazardous repair, irregular income, and the possibility that a captain's profitable feud will arrive at the dock before the next food shipment.
 
-That gives the Coalition a strange moral profile. It can be heroic in one context and parasitic in the next. It often protects the stateless while making statelessness more dangerous for everyone else.
+No universal pirate law protects them. Some enclaves are disciplined commons with shared maintenance and defense. Others are patronage systems controlled by captains, creditors, armed crews, or shipminds. A worker who leaves one may lose housing, passage, accumulated trust, or access to the only repair yard willing to ignore a damaged identity record.
 
-### Territory and Everyday Life
+Reputation supplies partial coordination where formal enforcement is weak. Witnessed rescue, reliable surrender terms, fulfilled transport agreements, and restraint during capture can open docks and attract skilled crews. Betrayal, abandoned passengers, false distress calls, and violence after surrender can close routes. Records remain local, disputed, and vulnerable to forgery; reputation constrains behavior without turning the Coalition into a court.
 
-Pirate territory is mostly noncontiguous: ring-shadow yards, hidden docks, patched Bloom cavities, Trojan nests, falsified rescue stations, convoy parasites, and remote storage habitats known only through reputation webs. Many bases are temporary by design. A pirate city is often a secret worth more than the city itself.
+Victims face the inverse problem. A pirate crew may return stolen medicine, honor evacuation terms, or spare a captured ship while leaving its owners, passengers, and workers no recognized venue for appeal. The same opacity that shelters fugitives also protects extortion and abuse.
 
-Daily life varies wildly. Some enclaves are disciplined commons built around maintenance, secrecy, and mutual defense. Others are brutal patronage economies ruled by charismatic captains or shipminds with just enough resources to buy loyalty. Scarcity is constant. Trust is precious and often contractual. People learn quickly who can be relied on in a decompression breach, who only talks about freedom, and who still shows up when a convoy burns.
+### Combat
 
-### Economy and Allied Currents
+Pirate combat follows material opportunity rather than a single fleet doctrine. Cells use ambush, spoofing, credential theft, intrusion, boarding, thermal pressure, misdirection, and non-destructive subsystem attacks when preserving a ship or cargo is more profitable than destroying it. They attack logistics, force ejection or surrender, disengage from unfavorable fights, and salvage what remains. The equipment, counterplay, and limits of those methods belong to [[Combat Doctrine]].
 
-The Coalition moves:
-
-- contraband medicine, firmware, weapons, and identity papers
-- fugitives, uploads, uplifted refugees, and strike operatives
-- stolen luxury goods and captured industrial components
-- illicit compute, salvage, and route intelligence
-- deniable cargo for the very powers that publicly condemn it
-
-Its most important affinities run through [[Corvid Collective]] infiltration, [[Cephalopod Syndicate]] technical sabotage, [[Free Upload Network]] logistics, and the feral autonomy of [[Ship Mutiny]] cultures. This gives piracy a deeper social base than simple raiding would suggest.
-
-### Combat Habits
-
-Pirates do not have one trick. A cell built around refugee extraction, a salvage syndicate, a mutinous shipmind, a predatory raider band, and a Corvid-backed infiltration crew may all fly under Coalition reputational cover while fighting very different wars. Some specialize in thermal capture because intact cargo pays better than wreckage. Others prefer boarding, forged rescue traffic, credential theft, data poisoning, hostage leverage, convoy misdirection, or non-destructive disables that make a ship surrender before anyone admits a battle has started.
-
-[[Thermal Signature Warfare|Remora]] drones are useful across many of those traditions because they are not merely heat-delivery devices. A Remora is a non-destructive subsystem-attack chassis: a small hull that reaches exposed utility geometry, attaches, and acts on the ship through the parts the owner would rather keep intact. Heat-transfer clamps are common because radiators and coolant loops are accessible and profitable targets, but other variants spoof reactor safing loops, pressure life-support routing, degrade sensor masts, interfere with command antennas, tap internal data buses, unlock docking collars, spoof cargo locks, or dose crew environmental feeds. A reactor Remora can force shutdowns, evacuation alarms, or uninhabitable operating margins without slagging the prize. A life-support Remora can make staying aboard worse than surrender. A datanet Remora can open doors, falsify status, or turn the victim's maintenance system into the boarding route. The ugliest versions target the soft biological fact inside the hull: sedatives, irritants, toxins, or atmosphere chemistry changes delivered through systems the crew normally trusts to keep them alive.
-
-That versatility is why respectable doctrine keeps misreading them. A Remora sighting does not tell the defender whether the pirates want cargo, bodies, passwords, a shipmind, political leverage, or a surrender that leaves the ship saleable. It only proves that some exposed subsystem has become a negotiation surface.
-
-### Aesthetic and Cultural Cues
-
-Pirate aesthetics are patched, improvised, and inherited from a dozen stolen worlds at once. Hull plates rarely match. Ritual markings matter. Crews wear trophies, route sigils, counterfeit uniforms, family relics, and jury-rigged interfaces in combinations no respectable power would allow. The look is half necessity, half anti-civilizational bravado.
-
-Culturally, pirate spaces are saturated with reputation. Stories are currency. Rescue records matter. Betrayal is remembered for generations. So is generosity. The Coalition cannot afford amnesia because it has too little law to survive it.
-
-### Role in the Setting
-
-The [[Pirate Coalition]] is important because it prevents the solar order from becoming fully closed. It makes escape, leakage, and deniable circulation possible. It also ensures that every hard border in Aetheria acquires a shadow market almost immediately.
-
-In practical terms, that means many of the setting's revolutions, atrocities, rescues, and disappearances happen on pirate routes before they ever make it into anyone else's history.
+The Coalition matters because it prevents route law from fully closing Sol. It keeps escape and unauthorized circulation possible, at the cost of making freedom from public authority available to rescuers and predators alike.
