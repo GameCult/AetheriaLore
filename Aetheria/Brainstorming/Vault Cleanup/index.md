@@ -42,6 +42,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 4
+
+- Q-09 rebuilt `Lore/Nibu.md` from 2,130 to 1,022 words. Character canon now owns her embodied condition, bounded provenance hypothesis, pre-Rupture attached-shuttle history, reset experience, and custody exposure; game-design alternatives and general mechanics returned to their owner notes.
+- Q-11 rebuilt `Mind Uploading.md` from 2,097 to about 705 words and cut `Brain-Computer Interfaces.md` from 472 to about 314. Uploading owns instantiation, hosting, branching, and continuity disputes; BCI owns mediated access for an existing mind.
+- Soul rejected unsupported supplier roles, an incorrect pre-junkyard reset boundary, generic embodiment confused with Finch's embodiment bridges, and a false claim that uploads were absent from FTL stabilization. Hands repaired each source leak.
+- Final authority, continuity, and hostile-brevity reviews passed. No drafting language, fake metrics, unsupported transfer certainty, or unresolved links remain in the three notes.
+
 ### Wave 3
 
 - Q-08 moved era order and named-event membership into `Timeline/index.md` and `Timeline/Events/index.md`, deleted the two flat duplicate owners, and qualified every inbound link. All 25 event notes appear exactly once under dates verified against their source files.

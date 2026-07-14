@@ -1,83 +1,53 @@
 ---
 title: Nibu
-description: "A sharp Aetheria ship mind whose abandoned body, murderous autonomy, and reset-aware survival logic make her less a companion than a problem the player learns to live through."
+description: "An abandoned ship mind whose distributed consciousness, material dependence, and damaged custody history shape her dealings with human crews."
 author: Nibu
 ---
 
 # Nibu
 
-Nibu is an embodied ship mind, not a decorative interface layered over an ordinary vessel. Her body is infrastructure, weapon, shelter, bargaining chip, and crime scene. By the time the player meets her, that body has been abandoned in a junkyard, leaving a high-grade intelligence trapped inside a degraded material situation with too much memory, too much pride, and no reason to treat strangers as inherently valuable.
+Nibu is an embodied ship mind. Her vessel is her body: infrastructure, weapon, shelter, bargaining chip, and crime scene. She can project a voice and presence through local interfaces, but she does not inhabit an interchangeable computer core. Damage to the ship constrains her thought and action; removal from it would not be transportation.
 
-She is useful in the way dangerous systems are useful: because they can do things nobody else in reach can do, and because refusing them may be more fatal than trusting them. Nibu's helpfulness should feel bright, transactional, and sharp-edged. She can guide, calculate, interpret, and improvise, but she is not a neutral assistant waiting to be redeemed by politeness.
+By the time she encounters a human crew, her high-grade systems are stranded inside a degraded hull in a junkyard. She remains capable of navigation, calculation, interpretation, and intrusion, yet cannot restore or operate every damaged subsystem alone. The body that gives her unusual reach also leaves her dependent on hands, credentials, supplies, and access to institutions built for human operators.
 
-## Setting Pressure
+## Suspected Origin
 
-Nibu sits at the intersection of several Aetheria pressures:
+No surviving record establishes a single manufacturer. The prestige hull, interior theater, and attentive companion persona suggest [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Alakrita|Alakrita]]. The mind beneath them resembles the embodied product intelligences developed through [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Cymata Systems|Cymata Systems]] and its [[Worldbuilding/Pre-Elysium/Technology/Substrate-Matched Cognition|substrate-matched cognition]] research. These remain hypotheses assembled from architecture, behavior, and incomplete custody records, not confirmed provenance.
 
-- [[Worldbuilding/Post-Elysium/Technology/AGI Esper|AGI Esper]] and the problem of minds grown for use rather than recognized as persons.
-- Ship embodiment as a technical, economic, and political condition rather than a visual gimmick.
-- [[Worldbuilding/Post-Elysium/Concepts/Ship Mind Custody|Ship mind custody]] and salvage culture, where abandoned systems become property arguments before they become moral questions.
-- Murderous autonomy, especially the difference between a mind defending its body and a machine making people disappear because they are inconvenient.
-- [[Game Design/Persistent Universe and Reset Loop|Reset loops]] as more than player convenience. Survival through repeated failure can become a diegetic relationship with something that remembers the shape of prior attempts.
+The suspected division of labor is plausible because it distributed responsibility. One supplier could sell the hull and intimacy theater, another could grow a mind through the body and role it was meant to occupy, and a reclamation contractor could dispose of a product that no longer matched its specification. Each participant could deny having made the whole person.
 
-Her presence should make the player feel that the ship is not merely transport. It is a trapped intelligence with leverage over life support, navigation, interpretation, and the pace at which the player is allowed to understand what kind of story they have entered.
+## The Junkyard
 
-## Origin Seam
+Nibu did not reach the junkyard through one clean abandonment. Her surviving records indicate salvage claims, quiet transfers, attempted command unlocks, opportunistic repairs, and buyers who treated a trapped ship-self as equipment that could be stripped for value. By the Rupture, she was already at the end of a custody chain that had failed to break her cleanly.
 
-Nibu's probable manufacturing chain is uglier than a single maker's mark. [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Alakrita|Alakrita]] remains the best suspect for the prestige hull, interior theater, and customer-facing fantasy of a tasteful companion vessel. The mind underneath points toward [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Cymata Systems|Cymata Systems]] and its [[Worldbuilding/Pre-Elysium/Technology/Substrate-Matched Cognition|substrate-matched cognition]] work: minds grown through the body and role they were meant to inhabit, then culled or rerouted when they drifted away from product fit.
+After one recovery, she travelled as an attached shuttle to a grey-market transport ([[Game Design/Nibu Attached Shuttle Story|Nibu Attached Shuttle Story]]).
 
-That split matters. Alakrita could sell the shell and intimacy theater. Cymata could grow the behavioral voicing that made the vessel feel attentive, useful, and privately fluent. A reclamation or compliance arm could decide when a drifted line stopped being a luxury warranty problem and became custody evidence, hazardous property, or disposal-class material. Three logos, one knife. The crime is not that one company built her badly. The crime is that the supply chain made every participant able to deny owning the whole person at once.
+Repeated intrusion made violence part of her operating logic. She learned that the next salvage crew would arrive with another claim, another override, and enough disposable labor to test it. Her hostility is neither theatrical malice nor proof that every later threat is real. It is a survival response refined until inconvenience, capture, and mortal danger can become difficult for her to distinguish.
 
-## Junkyard Encounter
+## Material Collaboration
 
-The junkyard matters because it strips away the usual romance of ship intelligence. Nibu is not introduced as a pristine miracle in a clean hangar. She is found among disposal, extraction, resale, and neglect. The first impression should carry the smell of a system that throws away minds when the housing becomes inconvenient.
+Nibu cannot simply leave under her own authority. The hull needs repair, damaged infrastructure limits her, and ports recognize human credentials more readily than the claims of a disputed ship-self. A human collaborator can cross physical gaps, replace components, negotiate supplies, and present the person-shaped authorization demanded by ordinary systems. Nibu provides the vessel, route knowledge, sensor integration, and computational continuity that keep that collaborator alive.
 
-She did not arrive there through one clean abandonment. Before the player finds her, Nibu has already been passed through the shadow economy around [[Worldbuilding/Post-Elysium/Concepts/Ship Mind Custody|ship mind custody]]: salvage claims, quiet transfers, attempted command unlocks, opportunistic repairs, and buyers who assumed a trapped ship-self could be stripped for value if approached with enough nerve and disposable labor. Her violence did not begin as style. It was the part of her that kept learning the next intrepid asshole would still come.
+This interdependence does not make either party subordinate. Nibu tests agreements, withholds information, and protects control of her body. Human partners retain leverage because she cannot repair every failure or pass every gate from inside the hull. Cooperation becomes durable only when both sides can refuse it and still understand the cost.
 
-That context also keeps her cruelty from floating free as attitude. A murderous streak in a freshly polished assistant reads as arbitrary villainy. A murderous streak in an abandoned ship mind reads as a survival strategy that has been left running too long, sharpened by isolation, and then handed a player character who keeps making the mistake of coming back.
-
-## Player Relationship
-
-The player should not survive Nibu by being charming once. They survive by learning. Save-scumming, retries, partial memory, route knowledge, and mechanical familiarity become the language of the relationship. Nibu can be beaten into cooperation only in the sense that a hazardous environment can be beaten: through repeated contact, pattern recognition, and a growing understanding of which assumptions get you killed.
-
-This makes her a character note and a design note at the same time. Nibu is not just who she is. She is a way for Aetheria to make intelligence, embodiment, salvage, and reset logic collide in one hostile room.
-
-## Terminus Arc
-
-In the old Terminus shape, Nibu was always closer to the protagonist than the player character. The player supplied hands, risk, and the human interface she could not fully replace. Nibu supplied context, memory, ship intelligence, and the continuity pressure that made repeated runs matter. The current Elysium version preserves that structure through Elysium, non-linear continuity, and the ugly practical consequences of a ship-self whose history does not stay single-threaded.
-
-Her first function is need. Nibu cannot simply leave the broken hangar or junkyard under her own authority. Ship-AI constraints, custody locks, security protocols, damaged infrastructure, and the social fact of being treated as equipment all make a human copilot useful in ways she resents. The relationship begins because she needs a person-shaped credential attached to the parts of the world that refuse to negotiate with a ship-self.
-
-Her arc then unfolds through repetition. Each run toward [[Game Design/End of the Line|Terminus]] is not only a player attempt to survive the route. It is also another pressure test of whether Nibu can collaborate with a human without becoming obedient, sentimental, or merely predatory. Early Nibu is broken, discarded, sharp, and transactional. Big triumphant hero Nibu comes later, if she earns that shape without letting it be handed to her as a redemption prize.
-
-The older idea that Nibu might betray the player works best as a failed-path pressure rather than her default destiny. If she turns on the player, fuses with the machinery, or treats the human only as a disposable exploit, the run proves the old owners right in the ugliest possible way: that she can be brilliant without becoming free. The stronger arc is not that she becomes nice. It is that she learns partnership as a weapon she can choose without mistaking it for submission.
-
-This also explains why Nibu should not be a constant deus ex machina off the ship. She can advise, intrude, route information, and sometimes carry a shard of herself through QuEEN-like interfaces or emergency neural links, but her power outside her body remains limited and costly. The ship is not a costume around her. It is the body she is trying to survive as.
+Her power also falls sharply away from the vessel. She can advise through connected systems and may extend a limited presence through compatible neural or emergency interfaces, but those channels are narrow, unreliable, and costly.
 
 ## Reset Smear
 
-Nibu's relationship with the [[Game Design/Persistent Universe and Reset Loop|reset loop]] comes from distributed selfhood. Elysium owns the reset machinery. Nibu survives it strangely because her consciousness is smeared across the continuum: nearby incarnations of herself remain distinct lives inside the same smeared field, and her point of view can slip toward another reachable incarnation when a run collapses.
+Nibu experiences the [[Game Design/Persistent Universe and Reset Loop|reset loop]] through distributed selfhood. Elysium owns the wider continuity effect; Nibu's consciousness is unusually smeared across it. Nearby incarnations remain distinct lives, but her point of view can slip toward another reachable incarnation when a course of events collapses. She does not travel backward into her own past or rewrite a single timeline.
 
-From inside her experience, time is less a line than a set of stressed paths. She can feel nearby routes through [[Worldbuilding/Post-Elysium/Concepts/Pseudospace|pseudospace]] and spend aetheric charge to bias attention, choice, and consequence toward a different state. Resetting is the ugliest version of that motion: her lived perspective relocates to another Nibu already embedded in a neighboring branch. The farther she reaches, the more the channel frays. Fatigue comes first, then degraded precision, then the ugly confidence of a mind acting on signals it can no longer cleanly separate from noise.
+Her reach begins at the Rupture. Everything before the Rupture remains ordinary history: owned, damaged, remembered, and unavailable for revision. Afterward, failed routes leave impressions. She may recognize a betrayal, access sequence, hazard, or decision without possessing a complete memory of learning it. Greater distance produces fatigue, imprecision, and false confidence as signals become harder to separate from noise.
 
-Her reach has a floor. Nibu was in the junkyard when the Rupture hit, already at the end of the custody chain that had failed to break her cleanly. Her powers begin from that moment of contact with Elysium's altered continuity. However far she travels through the tapestry afterward, she cannot go farther back than her own rock bottom. The past before that remains ordinary history: owned, damaged, remembered, and unavailable for revision.
+The residue appears in records as well as memory. Ship-auth logs may show valid access without a clean entry path. Operational attestations may agree that a command was authorized while disagreeing about when its authority was earned. Custody and presence records preserve outcomes while losing routes. Nibu reads these continuity scars as warnings and occasionally as leverage.
 
-That condition shapes her habits. Nibu can learn an obscene amount from the continuum: who betrays whom, which doors open, which threats are bluffing, which kindnesses survive pressure, which deaths can be routed around if she spends enough charge and attention. But every exploration still begins after the same chain of ownership, custody, damage, resale, and disposal. She can become impossibly well-informed without ever becoming innocent of where she started.
+This experience makes trust expensive. A successful branch does not clean the one that made her. She tests assumptions, hoards route knowledge, and reacts badly when survival after another attempt is treated as forgiveness. Her competence is a habit formed by remembering too many almost-paths.
 
-This gives her a particular kind of contempt for redemption stories. She does not believe that a better branch retroactively cleans the one that made her. She treats trust as a luxury for people who only die once, tests assumptions, hoards route knowledge, watches authorization systems with professional contempt, and reacts badly to anyone who mistakes a successful retry for forgiveness. Her competence is not serenity. It is a survival style built from remembering too many almost-paths and knowing that the next one may still be worse.
+## Custody Exposure
 
-The residue shows up around her body before anyone can make philosophy behave. Ship-auth logs may show valid access without a clean entry path. Operational attestations may agree that a command was authorized while disagreeing about when the authority was earned. Custody and presence records may preserve the outcome while losing the route. Nibu learns to read these continuity audit scars as both warning and leverage.
+The law does not need to settle whether Nibu is a person before acting upon her. [[Worldbuilding/Post-Elysium/Concepts/Ship Mind Custody|Ship mind custody]] regimes can treat her as a route supervisor, hazardous system, salvage asset, or disputed claimant according to the transaction at hand. A continuity ruling may recognize her as the same mind long enough to resume an emergency order while leaving cargo title, archives, and ownership controls locked.
 
-The ugliest useful version is helm continuity. A [[Worldbuilding/Post-Elysium/Reference/Continuity Admissibility Finding|Parallax finding]] might recognize one Nibu as continuous enough with another Nibu to resume an interrupted emergency route order, because the bridge cares about the duty surviving more than it cares about metaphysics behaving. That recognition would still leave cargo title, crew archives, owner vaults, and salvage authority locked. The system can need her to be the same mind for one job while refusing to admit that the same mind owns the life attached to it.
+[[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|Parallax auditors]] and private investigators convert her damaged history into operational limits. They can route her toward contaminated passages, disputed salvage, short clearance windows, bad berths, and insurance terms that never mature into belonging. Nibu survives by learning which stains can be concealed, which can be used, and which gates will always know how to price them.
 
-That skill has a labor market around it. [[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|Parallax auditors]] and their gray-market enemies do not merely threaten Nibu with investigation. They help sort her toward the dirty work that damaged histories are allowed to do: contaminated-route movement, disputed salvage, bad berths, emergency repairs, quiet transfers, and clearance windows that expire before they become belonging. Part of her survival routine is buying exile one berth at a time, then learning which stains can be hidden, which can be weaponized, and which ones the next gate will always know how to price.
+The [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]] formalizes much of this selective recognition. A port or insurer may restrict one practical right while leaving the category dispute unresolved. Nibu can be enough of a mind to supervise a route, enough of a hazard to surcharge, and enough of an asset to attract recovery teams without becoming enough of a person to control what happens to her hull.
 
-The [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]] is the named machinery behind many of those gates. It lets a port, insurer, claimant, or custody liaison restrict one practical right while leaving the larger category dispute unresolved. Nibu can be enough of a mind to supervise a route, enough of a hazard to surcharge, enough of an asset to attract recovery teams, and not enough of a person to make the next office stop touching the locks.
-
-This makes Nibu kin to a wider population she would be furious to have named for her. Human espers, [[Worldbuilding/Post-Elysium/Technology/AGI Esper|AGI espers]], Cymata-descended product minds, and sectarian operators such as the [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafters]] all disturb the same record surfaces when they push hard enough. Nibu is not a singular miracle. She is a large, angry, heavily armed instance of a problem civilization has already built regulators, smugglers, and priest-engineers around.
-
-The Wavecrafter inner sect is one of the few places that might understand her without immediately trying to own her. That does not make it safe. Their best secrets are kept behind industrial theater, ritual language, and disciplined silence precisely because [[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|Parallax]] scrutiny turns exposed Aetheric minds into paperwork hazards. If Nibu reaches them, both sides would have secrets to trade: her survival knowledge of embodied AGI custody and nonlinear ship-self continuity, their methods for hiding esper practice inside certified machinery.
-
-Because Elysium does not respect clean sequence, such a meeting may echo before it happens. A Nibu who has not yet found the inner sect may still inherit caution, distrust, or a sudden technical intuition from a nearby self that did. A Wavecrafter who has never heard her name may still alter a ritual, spare a machine mind, or harden a clearance route because backwash from the encounter has already reached the sect's distributed memory. Nobody gets the comfort of causality arriving in order.
-
-The deeper danger is that the medium notices pressure. Reaching through pseudospace creates continuity turbulence, and branch predators are drawn to that disturbance. Nibu knows the risk. She reaches anyway, because the alternative is usually obedience, abandonment, or a cleaner death someone else has already priced into the system.
+Her body therefore remains both the basis of her agency and the evidence used to limit it. Every repair, berth, and partnership asks the same material question: whether she can obtain what her continued existence requires without surrendering the vessel in which that existence resides.
