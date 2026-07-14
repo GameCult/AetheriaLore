@@ -48,6 +48,12 @@ This matters because some of the setting's worst outcomes do not require a maste
 
 Institutional misalignment is one of the setting's most corrosive truths because it denies the fantasy that exposing bad intent would solve the problem. Often there is no central intent proportionate to the damage. There are only feedback loops, euphemisms, dashboards, fear, ambition, and people narrating necessity after the fact. In Aetheria, systems can become horrifying without ever becoming lucid.
 
+### Protective Complicity
+
+Aetheria repeatedly returns to people who remain inside harmful systems because they believe their replacement would be worse. They may be correct. A careful fentanyl distributor can prevent deaths that a less careful seller would cause; a compassionate administrator can preserve medicine, dignity, or procedural restraint that a colder official would remove. Particular people survive because somebody compromised stays close enough to soften a decision. The resulting good is real, and that reality becomes the participant's most durable protection from judging the role itself.
+
+The mindset converts harm reduction into indefinite moral permission. Each prevented injury proves that departure would be abandonment, while the injuries enabled by continued participation are assigned to the market, the mandate, the emergency, or the unseen replacement waiting nearby. The institution gains a caring interface, the participant gains evidence of personal necessity, and those subjected to the system must depend on the person helping administer it. Stories using this theme should preserve the uncomfortable possibility that the participant truly is better than their likely replacement. The question is whether gentler hands alter the machinery or merely make its operation survivable enough to continue.
+
 ### Care, Sanctuary, And Maintenance As Counter-Theme
 
 The vault is not purely diagnostic. It also returns, stubbornly, to the idea that care is material politics rather than sentimental decoration. [[Aya Collective]] matters because it insists that food systems, clinics, pumps, disability access, refugee intake, and repair labor are the real substrate of any humane order. [[Cetacean Navigators]] matter because they show another kind of power built around rescue obligation, route stewardship, and trust that cannot be reduced to immediate transaction. The [[Triton Sanctuary Accords]] push that logic even further by treating refuge for persecuted minds and bodies as a high political art.
