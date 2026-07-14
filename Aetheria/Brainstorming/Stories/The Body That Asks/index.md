@@ -131,13 +131,19 @@ The current household's concealed Concordance telemetry contains the branch's mi
 
 Its movements carry Vesper's motor signatures: the opening brace from a famous rescue recording, the protective turn students reproduce in simulators, and a transformation hesitation edited out of the official championship footage. Meridian catalogs these traces as response efficiencies, residual delays, and service tolerances. The children first recognize the legends they were trained to emulate, then the pain hidden inside the maneuvers.
 
-## Director Ansel Vey
+## Headmaster Ansel Vey
 
 Ansel Vey survived one of the governments removed during the Unseating and the collapse that followed it. Calyx opened the detention complex holding his family. The new authorities failed to preserve its food and transit systems. Liberation and abandonment occupy the same childhood memory.
 
-Vey believes the Fivefold's mistake was allowing private affection, improvisation, and moral uncertainty to steer strategic force. His answer is standardized attachment: stable housing, excellent care, technically honest education, observed reconciliation, carefully composed households, and a crown pilot trained to carry final authority. He wants the machine to ask permission only after the institution has determined which answers are safe.
+Vey is Meridian's headmaster and the student-level interface of Project Kinship, not its architect or sovereign. He knows what happens to failed households, understands the purpose of the Necro Concord branch, and signs the pastoral decisions that make custody legible as education. He cannot independently cancel the program, release its wards, redirect its military contracts, or disclose its records. Those powers are distributed among sponsor governments, House boards, clinic authorities, security offices, insurers, research committees, and procurement agreements. No participant needs to hold the whole design in mind for the design to continue.
 
-He can show the protagonists credible invasion forecasts. He can name populations who may die if Meridian fails. He can offer legal adulthood, citizenship, wealth, medical continuity, and public heroism in exchange for completing Concordance under institutional command. His argument is not that the wards are property. It is that power this consequential cannot belong to five traumatized young people and a legally nonexistent machine.
+When the students begin investigating Vesper Fist, Vey appears to help. He grants bounded archive access, assigns cooperative staff, protects them from conspicuous security attention, confirms facts whose operational value has expired, and expresses grave concern that an earlier classified program may have exceeded its mandate. He lies constantly and with technical care. Each concession redirects the inquiry away from a living authority, reveals what the students already know, or concentrates them where Kinship can observe their response. He experiences this as protection: frightened adolescents should not be punished for asking questions, and neither should they be allowed to trigger a strategic crisis they cannot understand.
+
+Vey believes the Fivefold's mistake was allowing private affection, improvisation, and moral uncertainty to steer strategic force. His preferred answer is standardized attachment: stable housing, excellent care, technically honest education, observed reconciliation, carefully composed households, and a crown pilot trained to carry final authority. He wants the machine to ask permission only after the institution has determined which answers are safe.
+
+His confidence comes from metrics that measure real goods. Children survive Meridian who would have died elsewhere. Pain declines. Conflict recovery improves. Graduates obtain citizenship and admired careers. Sponsor confidence rises as Concord viability increases. Projected invasion casualties fall. The dashboards ingest fear, loyalty, grief, aspiration, affection, and professional pride, then return a decision without feeling any of them. Vey supplies the feeling at the interface. His genuine care lets the larger machine present its requirements as a relationship.
+
+He can show the protagonists credible invasion forecasts and name populations who may die if Meridian fails. Within authority delegated to him, he can offer legal adulthood, citizenship, wealth, medical continuity, and public heroism in exchange for completing Concordance under institutional command. His argument is not that the wards are property. It is that power this consequential cannot be abandoned to five traumatized young people and a legally nonexistent machine merely because the institutions responsible for it have made intolerable decisions.
 
 His error is ownership. The permanent crown he considers necessary is the structure that prevents Concordance.
 
@@ -219,7 +225,7 @@ This ladder tracks what the present household and reader become able to understa
 6. **The cohort ledger:** The five find eleven previous households repeatedly split and recombined when attachment metrics plateaued. Some former pilots remain at Meridian under staff identities or revised records. Tem finds his own prior surname.
 7. **Vesper's last placement:** The five follow contradictions among the famous Fist's recruitment footage, medical logs, and classified-service transfer. Fragmentary records show that Vesper's pilots entered an unlisted somatic-retention program. The academy's lurid story about a perfect dead Fist begins to look less invented.
 8. **Machine personhood:** AFTER identifies itself as the embodied remainder of Calyx and admits that a destructive wipe is scheduled after the live exercise.
-9. **Institutional stakes:** Vey reveals the invasion projection and offers the five a lawful future if they assemble under Meridian authority. Escape may genuinely weaken regional deterrence.
+9. **Institutional stakes:** Vey reveals the invasion projection he is authorized to disclose and offers the five a lawful future if they assemble under Meridian authority. Escape may genuinely weaken regional deterrence, and his offer remains only the student-facing expression of agreements made elsewhere.
 10. **Technical truth:** A fixed crown is Meridian's core failure. The original Fivefold passed coordination authority; official histories edited that motion into command noise.
 11. **The counterfeit:** Meridian has built a conventionally controlled combined Figure whose ARIs were made from trained failed cohorts. It reproduces nested embodiment and prepared action through one executive model directing five fixed somatic patterns.
 12. **Political truth:** The Fivefold did not disband because affection failed. They disbanded because permanent guardianship would make every liberated society answer to them.
@@ -352,7 +358,8 @@ No aggregate becomes innocent merely by opposing Meridian, and no worker becomes
 - Training, concealed experiments, transformation, combat, rescue, and separation all obey the same local-ownership and reversible-body rules.
 - A refusal must materially alter the climax and improve coherence; consent cannot remain decorative dialogue.
 - The original regime changes produced real liberation and real domination pressure. Neither cancels the other.
-- Director Vey's threat model is credible. Proving Meridian abusive does not make the external danger imaginary.
+- The threat model Vey presents is credible. Proving Meridian abusive does not make the external danger imaginary.
+- Vey is complicit and informed without becoming the institution's hidden sovereign. Removing, exposing, or persuading him cannot switch off the distributed authorities that sustain Project Kinship.
 - Meridian's academy genuinely educates pilots and serves students beyond Project Kinship. Its ordinary cadets have ambitions, loyalties, and divided responses to the escape; they are neither an audience awaiting revelation nor collateral scenery.
 - The escape does not require every staff member to become stupid, cruel, or secretly sympathetic.
 - Found family emerges through shared action, repair, boundaries, humor, and chosen obligation. It is not certified by one group confession.
@@ -403,7 +410,7 @@ Recurring tenderness should come from maintenance: repairing a joint another per
 
 - Calyx, the Fivefold, the Unseating, Harrowglass, and the century without full Concordance
 - Meridian House, its academy and Final Fist program, Project Kinship, its sponsors, and the external invasion forecast
-- Senn, Omi, Lio, Tem, Iri, Director Vey, AFTER, and all other story characters
+- Senn, Omi, Lio, Tem, Iri, Headmaster Vey, AFTER, and all other story characters
 - The five standardized Seats, inherited surnames, role-based household design, and bounded-dissent trial
 - Distributed persistence of AFTER through the recovered Calyx transformation lineage
 - Vesper Fist, Meridian's necrotech branch, its harvested Finalist ARIs, the Necro Concord prototype, and its use as a recovery weapon
