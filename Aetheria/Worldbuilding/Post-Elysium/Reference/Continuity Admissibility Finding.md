@@ -1,82 +1,39 @@
 # Continuity Admissibility Finding
 
-A continuity admissibility finding is the document that makes [[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|Parallax Auditors]] dangerous. It does not prove what really happened. It decides whether contaminated observation may be used by later offices as if it were clean enough to act on.
+A **continuity admissibility finding** records whether contradiction-bearing evidence is suitable for a named office to consider under its existing rules. [[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|Parallax auditors]] issue or validate these findings when individually credible records preserve incompatible routes, command histories, custody chains, acts of access, or sequences of observation.
 
-That is the auditors' monopoly. They do not own [[Worldbuilding/Post-Elysium/Concepts/Esper|espers]], ship minds, ports, insurers, or salvage courts. They own the threshold where residue, branch anomalies, reset-contaminated witness chains, and contradiction-bearing sensor records become admissible for berth denial, claimant action, insurer refusal, operator restriction, or custody review. The state does not have to say nonlinear survival out loud. It only has to honor the class.
+The finding classifies evidence. It does not establish which history occurred, identify a true branch, prove continuity, decide personhood or title, or impose a custody action. A receiving office must accept the finding separately and may use it only for the purpose named in the document.
 
-### CAF-3: Restricted Admissibility
+## Required Record
 
-CAF-3 is the first class downstream offices can act on without proving ordinary fraud, sabotage, or sensor failure. A CAF-2 record is dirty enough to require notation and surcharge. A CAF-3 record is dirty enough to alter rights.
+A usable finding identifies:
 
-The threshold is narrow on paper:
+- **Subject and claim:** the vessel, person, operator, record, or transaction under review and the assertion the evidence bears upon.
+- **Contradictory evidence:** the witness surfaces that remain credible while preserving incompatible accounts.
+- **Ordinary alternatives:** known fraud, clock, sensor, maintenance, transcription, or command-auth explanations and whether the available record supports or excludes them.
+- **Admissibility status:** non-actionable, commercially qualified, restricted, or another class recognized by the receiving institution.
+- **Scope:** the precise question for which the evidence may be considered.
+- **Receiving office:** the port, insurer, registrar, claimant, custody, fleet, or other office asked to accept the finding.
+- **Permitted use:** the proceeding or decision in which the evidence may enter.
+- **Explicit non-findings:** questions the review does not decide.
+- **Review and expiry:** the event, date, new evidence, or completed proceeding that requires reconsideration or ends the finding's use.
 
-- two or more mutually valid witness surfaces preserve incompatible paths
-- ordinary fraud and sensor degradation remain unsupported by tool marks, motive, or maintenance history
-- the contradiction affects movement, custody, command authority, title, coverage, or operator practice
-- at least one affected office can name a mandatory consequence already recognized by its own rules
+Classification names vary among jurisdictions and professional pools. What matters is not a universal ladder but a legible scope. A notation suitable for pricing an insurance risk may remain unusable in a custody hearing. Evidence accepted for one interrupted helm duty may remain inadmissible for title, cargo access, or general command.
 
-The trick is in the last line. Parallax does not need to own the later office. It only needs to make the record admissible there.
+## Review
 
-### Admissibility Routing
+Auditors compare provenance, maintenance history, tool marks, sensor behavior, command authentication, independent witnesses, and the incentives of parties who produced or preserved the record. A contradiction alone is not enough. The finding must state which ordinary explanations were tested, which remain possible, and what new evidence could change the result.
 
-The practical ladder is deliberately dull. Suspicion can follow a vessel for years without changing custody. A custody downgrade begins only when a receiving office accepts a class that gives it a named first cut. The [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]] is the common restriction layer for that handoff at ports, insurer desks, custody liaisons, and claimant gates.
+Affected parties may challenge provenance, omitted records, reviewer conflicts, scope, or the receiving office's proposed use. A corrected or superseding finding should preserve the earlier document rather than silently replacing it. Expiry does not erase the underlying records; it ends permission to rely on that finding without renewed review.
 
-| Admissibility class | Deciding office | First concrete cut |
-| --- | --- | --- |
-| Route Integrity Note / Non-actionable | Local route-integrity clerk or bonded traffic analyst | Record annotation only; no berth, title, command, testimony, or coverage right changes. |
-| CAF-1 Watch Notation | Parallax intake reviewer attached to a port, insurer, or fleet registrar | Manual review at the next controlled gate; the ship may still dock, depart, testify, and command as of right. |
-| CAF-2 Commercially Dirty | Parallax Admissibility Desk with insurer or [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|port compact]] notice | Reconciliation surcharge, bond quote, delayed clearance window, or restricted lane assignment; suspicion is priced, not yet converted into custody action. |
-| CAF-3 Restricted Admissibility | Parallax Admissibility Desk accepted by the named receiving office | The first right changes: berth denial, coverage refusal, claimant hold, operator suspension, or custody review may begin under that office's existing rules. |
-| CAF-4 Quarantine Admissibility | Compact emergency panel with port safety, insurer, and custody liaison signatures | Physical movement, command authority, and self-directed repair may be frozen pending hearing; custody is restricted, but title or personhood is still not resolved by Parallax. |
+## Routing
 
-This is the line that keeps the machinery honest enough to be cruel. A CAF-2 file can make everyone expensive and suspicious around a ship-self, but it cannot by itself demote the mind into salvage custody. A CAF-3 finding does not prove the ship-self false either. It names the office allowed to take the first right away. If that office is a berth authority, the cut is docking. If it is an insurer, the cut is coverage. If it is a custody desk, the cut is testimonial control inside a custody review. The same smear does not become every punishment at once unless several offices each accept their own route into it.
+Admissibility and enforcement are separate transitions. Parallax can make contaminated evidence legible to an office without giving that office a new power. The office must already possess authority over the contemplated decision.
 
-### PAF-CAF-17: Continuity Admissibility Finding
+At ports and insurer-linked custody gates, that handoff commonly uses the [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]]. Each office accepts separately. A berth authority's acceptance cannot suspend coverage, freeze title, or reduce testimony in another proceeding. Those consequences require their own offices, authority, notice, and review.
 
-| Field | Recorded Value |
-| --- | --- |
-| Old custody marker | Ship-self custody under salvage-contested recovery |
-| Observed contamination | Valid access history without clean entry route; command attestation predating local authority; residue echo across two berth logs |
-| Prior class | Route Integrity Note / Non-actionable |
-| Reclassified as | CAF-3 Restricted Admissibility |
-| Owning office | Parallax Admissibility Desk, [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]] |
-| Receiving office | Berth Authority and Custody Review Liaison |
-| Mandatory consequence | Temporary berth denial; custody hearing may proceed without ship-self testimony as controlling evidence |
-| First altered right | Right of physical docking before reconciliation bond |
-| Permitted downstream use | Insurer refusal, claimant hold, custody review, operator credential suspension |
-| Public language | Anomalous route-integrity exposure exceeds local tolerance |
+## Example
 
-The form is ugly because it does not need drama. The old marker says the ship-self is already inside a custody dispute. The new class says the contaminated observation is admissible. The receiving office now owns the fallout. The first right changes immediately: the ship cannot dock as of right until someone pays, clears, or overrides the finding.
+A ship's local helm record and an external route beacon both authenticate, but place the same command under incompatible authority chains. Ordinary clock drift and credential fraud remain possible but unsupported. An auditor issues a restricted finding to the receiving berth authority for one purpose: deciding whether ordinary docking may proceed before reconciliation.
 
-Nobody has to declare the ship mind false. Nobody has to say the branch happened. The admissibility class does the work.
-
-### PAF-CAF-22: Helm Continuity Witness
-
-| Field | Recorded Value |
-| --- | --- |
-| Subject claim | Ship-self `Nibu-of-Junkyard Spur` asserts continuity with `Nibu-of-Approach Spur` for interrupted helm duty only |
-| Observed contamination | Two valid helm challenge sequences share private route-memory errors; local bridge log records the second sequence before the first vessel state should have learned it; custody ledger preserves both hull-presence paths without a clean transfer |
-| Continuity authority | Parallax Admissibility Desk, Ship-Auth Continuity Panel |
-| Finding timestamp | 09:44:18 station standard, logged against the receiving port's bridge-security clock |
-| Confidence class | CAF-3 Restricted Admissibility, narrow continuity confidence |
-| Receiving enforcement surface | Bridge control authority for active helm session resumption |
-| Durable trace | [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]] continuity packet `PAF-CAF-22`, mirrored into the custody ledger as read-only admissibility evidence |
-| Right flipped | Resume the interrupted helm session under the prior emergency route order |
-| Right kept shut | Access to sealed cargo title, private crew archive, owner vault, and salvage disposition authority |
-| Public language | Helm continuity accepted for emergency route completion; proprietary and custodial authorities remain unreconciled |
-
-This is the clean cruelty the class was built for. Parallax judges that the second ship-self is continuous enough with the first to resume one active duty: hold the helm through the emergency route already in progress. The bridge authority enforces exactly that. It does not decide that the ship now owns the sealed cargo, inherits every crew secret, clears its salvage stain, or becomes the master key to its own person-sized vault.
-
-The record matters because every later office will want to make the narrow finding larger. A claimant will argue that helm continuity proves title liability. A frightened port will argue that the same continuity justifies quarantine. A sympathetic crew member will argue that it proves full personhood. The packet refuses all three comforts. Same enough to finish the duty is not same enough to own everything attached to the body. The trace says where the knife went in, and the bridge is not allowed to keep cutting after Parallax stops.
-
-### Inherited Markers
-
-Inherited markers are how old custody scars survive into later systems. A Cymata-era line record, salvage custody note, failed warranty transfer, or black-market ownership smear may be inert until a Parallax office reclassifies later residue as admissible. Once that happens, downstream offices can act on the inherited marker as if it were live context rather than dead history.
-
-This is what makes the handoff filthy. A pre-Elysium custody scar does not itself deny a berth. A CAF-3 finding can make that scar usable by a post-Elysium berth authority, insurer, or custody desk. The office that receives the finding does not inherit metaphysical certainty. It inherits permission.
-
-### Why Wavecrafters Care
-
-[[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafters]] understand admissibility because their inner sect lives near the same forbidden substrate. A ritual failure, overreach event, or uncontrolled backwash can produce records that Parallax could turn into CAF-3 evidence. The outer industrial arm exists partly to keep the record shape boring: certified component, tolerable variance, customer-side misuse, no exposed operator.
-
-Both institutions know contaminated observation can be made actionable. One treats that knowledge as sacrament, discipline, and silence. The other treats it as paperwork. That is why they can recognize each other without trusting each other for a second.
+The finding permits the berth authority to consider both records. It does not prove that the ship-self crossed between histories, decide who owns the hull, or authorize an insurer or custody desk to act. If the berth authority accepts the finding, any restriction comes from that office's existing powers and the protocol governing the handoff.

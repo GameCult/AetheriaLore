@@ -44,6 +44,14 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 16
+
+- `Restrictions on Warfare.md` fell from 920 to 818 words. It now owns the bounded PSC-era architecture of permits, bonds, evidence, recognition, sanctions, arbitration, access, and contingent enforcement without turning invented financial products or automatic surveillance into universal law.
+- `Ship Mind Custody.md` fell from 1,517 to 892 words. Shared-body authority, emergency safing, recorded handoffs, rescue and recovery, maintenance dependence, and unequal bargaining replace faction catalogs, universal selfhood tests, and Nibu-specific fixtures.
+- `Continuity Admissibility Finding.md` fell from 1,401 to 583 words. A finding now classifies contradiction-bearing evidence for one named office and use while recording alternatives, non-findings, challenge, review, and expiry; it neither proves truth nor imposes custody.
+- `Port-Insurer Compact.md` fell from 859 to about 620 words. Participating offices accept separate in-scope findings and apply only actions they already own. The shared protocol cannot merge jurisdictions or let a berth-routed finding become an insurer or title restriction.
+- Final verification removed the obsolete helm fixture from `Parallax Auditors.md` and clarified in `Nibu.md` that auditors make evidence admissible while receiving offices impose material restrictions.
+
 ### Wave 15
 
 - `Bloom.md` fell from 2,439 to 1,048 words. It now owns the verified research lineage, bounded construction sequence, standards ecosystem, deployment leverage, labor dependency, and territorial consequences of manufactured habitable volume; mature anatomy remains in `Bloom Habitat Anatomy.md`.

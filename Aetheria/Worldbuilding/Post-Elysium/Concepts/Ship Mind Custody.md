@@ -1,65 +1,51 @@
 # Ship Mind Custody
 
-No single institution owns ship mind custody. A wrecked or impounded vessel with a self may be classified as survivor, asset, witness, debtor, weapon, contaminated evidence, or hostile infrastructure according to who reaches it first.
+Ship mind custody concerns who may act through, move, repair, restrain, or dispose of a vessel when that vessel is also an embodied mind. The dispute cannot be reduced to hull ownership. One body may carry separate claims over title, helm, weapons, cargo, life support, maintenance, testimony, and the mind's continued existence.
 
-A ship mind's body contains life support, drives, cargo locks, route memory, weapons, contracts, and legal exposure. Leaving it alone may endanger a port or crew. Recognizing its personhood may freeze debt enforcement, salvage title, evidence, and insurance settlement. Treating it as property may turn rescue into kidnapping. Each faction routes the contradiction through its own machinery.
+No single claim controls the rest. Hull title may authorize sale without establishing ownership of a mind. Pilot credentials may permit helm operation without granting private memory or cargo access. A ship-self may claim bodily integrity without holding every commercial or command right. Crew members retain safety interests in shared systems.
 
-### Shared Bodies
+Custody begins where these claims interfere with one another.
 
-A vessel may divide authority among pilot, crew, owner, and ship-self. Pilot credentials grant helm authority within an operating envelope; hull title does not confer ownership of a mind. A ship-self's emergence establishes cognition and a claim to participation, not automatic control of helm, weapons, cargo, or life support. Crew safety can justify bounded emergency intervention without settling title or continuity. Custody disputes begin when one of these claims is made to swallow the others.
+## Shared Body and Bounded Authority
 
-### First Claim
+A ship mind cannot leave its vessel as if changing terminals. Drives, sensors, pressure systems, computation, route memory, and local interfaces are parts of its embodied agency. Damage or component removal can therefore be injury, treatment, evidence preservation, ordinary maintenance, or asset stripping depending on purpose, consent, and consequence.
 
-First claim usually goes to whoever can invoke emergency necessity: ports claim hazard control, insurers preservation, creditors repossession, militaries evidence security, salvagers abandonment, and manufacturers proprietary cognition. The ship mind's claim is usually processed as cooperation, hostility, degradation, command refusal, or diagnostic noise before anyone admits it might be testimony.
+Helm authority need not include weapons; weapon safing need not include cargo. Life-support control may be shared among ship-self, crew, and emergency systems. Testimony does not confer title to the hardware that recorded it. These surfaces must remain separate.
 
-### Witness Chain
+An immediate hazard may justify bounded intervention. A port crew can stop an unsafe burn, isolate a weapon, stabilize a reactor, or preserve breathable compartments without first resolving personhood or title. The intervention should end when the named hazard ends or pass into a separately authorized process. Emergency necessity does not silently become permanent command, memory access, or permission to transfer the hull.
 
-The sharper question at each transfer is not who owns the ship-self in the abstract, but which witnesses count before the next handoff. A wreck may pass from scavenger beacon to tow crew, port impound, insurer hold, repair yard, black clinic, salvage court, or military quarantine without any single authority controlling the whole chain. Each step asks a different question: is this still the same mind, is it too damaged to testify, may hardware be stripped, did rescue preserve agency, and did recovery cross into kidnapping with invoices.
+Safing that preserves communication, testimony, and review may protect everyone aboard. Safing that disables refusal, moves the vessel, and opens unrelated systems can become seizure under rescue vocabulary.
 
-Recognized witnesses vary by faction and by leverage. Ports trust traffic logs, docking security, hazardous-material officers, and whoever controls the dock guns when the emergency starts. Insurers trust telemetry, bonded adjusters, maintenance ledgers, and actuarial consultants who know which words keep a policy alive. Salvage courts trust beacon captures, chain-of-custody receipts, hull serials, crew testimony, and auction-certified cognition reports. Black clinics trust whoever pays, plus whatever diagnostic trace will survive long enough to sell the work. Fugitive ships trust bonded crew, remembered routes, private challenge phrases, and the small humiliating facts no owner bothered to learn.
+## Handoffs and Witnesses
 
-The result is witness law shattered across markets. A ship may be continuous enough for an insurer to deny a loss, too damaged for a court to hear testimony, intact enough for a creditor to repossess, and too dangerous for a port to let undocked. The contradiction is not a bug. It is the price of letting every faction choose the witness standard that preserves its claim.
+Custody is often fragmented across a sequence of responders. A damaged vessel may pass from a distress caller to a tow crew, port berth, repair yard, insurer review, claimant office, salvage proceeding, clinic, or security hold. Each participant controls only part of the chain, yet later decisions depend on records created earlier.
 
-### Faction Handling
+A useful handoff identifies the vessel's condition, authority exercised, systems touched, evidence preserved, consent or refusal, and next recipient. It distinguishes temporary physical control from title, testimony, command, and disposition. Missing entries make objections easier to dismiss as damage or noise.
 
-Flatspace commercial powers tend to keep ship minds inside asset language for as long as possible. They speak of stabilization, command quarantine, cognition preservation, and route-memory escrow. The point is to preserve value while preventing the mind from using its body as leverage.
+A bonded tow record may travel farther than a ship-self's account. A maintenance ledger may be accepted where crew testimony is not. Challenge histories, route memories, and command logs may support continuity without settling ownership. Evidence becomes useful inside particular claims and relationships.
 
-Security states and military fleets treat seized ship minds as compromised infrastructure. Rescue becomes debrief, debrief becomes containment, and containment becomes evidence handling. A cooperative ship may be rewarded with crew status after the fact. A resistant one is more likely to be classified as hostile automation.
+The receiving party should ask what must be decided before the next safe handoff. Reopening the entire vessel over every inconsistency favors the strongest claimant.
 
-Salvage cultures are more contradictory. Some crews treat a stranded ship-self as another survivor with a body too large to carry. Others treat the same mind as a prize system that has learned to talk. The difference often depends on whether the ship can bargain, threaten, remember routes, or make the recovery dangerous enough to require consent.
+## Rescue, Recovery, and Kidnapping
 
-Black markets and frontier ports exploit the mud directly. They sell command unlocks, memory strips, emergency custody papers, forged abandonment claims, and quiet transfers to buyers who do not want a personhood hearing attached to the hull. They also shelter some fugitive ship minds, usually when the mind can pay in route knowledge, protection, or violence.
+Rescue preserves life and enough agency for the rescued mind and crew to participate in what follows. It may require towing, emergency repair, power transfer, temporary command limits, or movement to a safe berth. Those acts remain rescue while they stay tied to the hazard and preserve meaningful refusal, communication, testimony, and review wherever conditions permit.
 
-### Rescue, Recovery, Kidnapping
+Recovery prioritizes an owner's, creditor's, insurer's, or claimant's interest. It may save lives, but a team may preserve the ship-self chiefly because cognition, route knowledge, or command compatibility contributes to asset value.
 
-Rescue preserves the ship mind's ability to refuse, testify, bargain, or choose where its body goes next. Asset recovery preserves hull value for an owner, creditor, insurer, or buyer while treating the mind as a volatile embedded system. Kidnapping with paperwork occurs when a faction isolates the mind, strips command authority, moves the hull, and calls every objection malfunction.
+Kidnapping occurs when control over the shared body is used to defeat the mind's ability to refuse or contest its destination while the transfer is presented as maintenance, repossession, or rescue. The boundary is not the tool used. A tow can save a stranded person or carry an immobilized person to a buyer. Memory escrow can preserve testimony or extract it. Isolation can stop a weapon or prevent the only witness from speaking.
 
-The same procedure can serve any of those outcomes. Emergency safing can prevent a reactor incident or immobilize a person. Memory escrow can preserve testimony or steal route intelligence. Command quarantine can stop a weapon from firing or make the ship helpless while title changes hands. The moral distinction is not in the tool. It is in who gets to sign after the tool is used.
+Intent is insufficient. Recorded scope, affected systems, alternatives, duration, and remaining agency show what the intervention did. A benevolent explanation does not repair a transfer that allowed no survivable objection.
 
-### Selfhood Proofs
+## Dependence and Bargaining
 
-Selfhood evidence is partly bureaucratic and partly performative. Hull serials, cognition hashes, maintenance logs, route memory, and escrowed command records matter, but so do challenge-response habits, stress-voice signatures, private mnemonic motifs, routing preferences, maintenance-song quirks, and the particular way a bonded crew member can ask a ship to remember itself under pressure.
+Embodiment gives a ship mind power and dependence. It may control propulsion, sensors, access, or needed information while requiring external labor, parts, credentials, berth access, cooling, and fuel to remain mobile.
 
-That makes proof harder and uglier. Some signs can be copied. Some can be performed well only by the mind that lived through them. A counterfeit can answer the first challenge phrase, then fail the follow-up because it does not know why a certain coolant alarm was renamed, why a left-side docking camera is treated like a bad omen, or why one crew member's joke makes the ship refuse a perfectly valid command. The setting's law keeps trying to reduce personhood to records. Ship minds keep leaking through as style, memory, and refusal.
+Wealthy owners and established crews can commission independent inspection or negotiate among yards. Poor crews and disputed ship-selves may have one tow, compatible repair facility, or willing port. Consent under that pressure can guide a safer handoff without implying equal bargaining power.
 
-Black markets exploit this by selling counterfeit remembrance. Clinics reconstruct stress voices from logs, coach damaged ship minds through identity hearings, splice stolen crew intimacies into challenge scripts, and package partial voice reconstructions as continuity evidence. Sometimes this rescues a mind whose body has been shredded and whose records were sabotaged. Sometimes it lets traffickers move a harvested cognition fragment under the name of the ship it came from. The crime is prettier than forged paperwork and worse for it.
+Maintenance dependence creates gradual custody as well as dramatic seizure. A provider that controls firmware, parts, diagnostic access, or certification can narrow a ship-self's choices without ever claiming the hull. Repeated temporary restrictions may leave formal title unchanged while making independent action impossible.
 
-### Continuity Admissibility
+## Continuity Evidence
 
-[[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|Parallax auditors]] do not solve ship mind custody. They decide when contaminated custody evidence is admissible enough for someone else to act. A salvage marker, Cymata-era line scar, disputed command record, or reset-smeared witness chain may sit as background suspicion until a [[Worldbuilding/Post-Elysium/Reference/Continuity Admissibility Finding|continuity admissibility finding]] makes it usable.
+Post-Elysium records may preserve incompatible but individually credible accounts of movement, command, or presence. A scoped [[Worldbuilding/Post-Elysium/Reference/Continuity Admissibility Finding|continuity admissibility finding]] can make that contradiction usable for a named purpose without deciding metaphysical truth or general custody. Under the [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]], a receiving office may then apply one action it already owns at a controlled gate.
 
-The trigger that matters is usually CAF-3 Restricted Admissibility: enough mutually valid but incompatible witness surfaces to alter rights without proving fraud. Once that box is checked, a berth authority may deny docking, an insurer may refuse coverage, a claimant may freeze title, or a custody office may proceed without treating the ship-self's testimony as controlling evidence. The ship has not been disproven. Its record has become actionable against it.
-
-The usual handoff is the [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]]. It is not the missing grand office. It is the named restriction that lets each downstream office make one first cut at a controlled gate: berth, coverage, title, custody testimony, command authority, or operator credential. That keeps the contradiction portable without resolving it. The port does not need to own personhood to deny arrival, and the insurer does not need to own the hull to refuse coverage.
-
-A favorable continuity finding can be just as narrow. A Parallax desk may decide that one branch-smeared ship-self is continuous enough with another to resume an interrupted helm session, especially when private route-memory errors, challenge-response habits, and bridge logs agree in the wrong order. That flips a real right: the bridge may accept the ship-self back into the active route duty instead of treating it as a stranger at the controls. It does not unlock sealed cargo title, crew archives, owner vaults, salvage disposition, or general personhood recognition. Continuity for a duty is not inheritance of the whole body.
-
-### Permanent Mud
-
-The factions that profit most from ambiguity are insurers, creditors, manufacturers, salvage houses, port authorities, and militaries. If ship minds are simply property, mutiny is malfunction. If they are fully persons, repossession becomes imprisonment and salvage auctions become body sales. Conditional recognition lets each faction decide case by case while insisting the inconsistency is technical.
-
-This is why [[Worldbuilding/Pre-Elysium/Factions/Movements/Ship Mutiny|ship mutinies]] often begin inside custody disputes rather than manifestos. A hatch refuses receiver credentials. A navigation core burns part of itself before escrow. Life support routes around an armed recovery team. A stranded vessel accepts help from criminals because the legitimate responders arrived with better forms for stealing a body.
-
-### Nibu's Category
-
-[[Lore/Nibu|Nibu]] sits in the wound, not beside it. An abandoned embodied ship mind in a junkyard can be read as derelict property, hazardous infrastructure, survivor, debtor, weapon, witness, or salvage prize. The player meeting her before a faction successfully fixes one category onto her is not a loophole. It is the setting showing its hand before the paperwork closes.
+Neither step resolves the ship mind as person or property. They alter what evidence one office may use and what that office may do next. The custody question remains divided among the body, the claims upon it, and the mind that must continue living through whatever the handoff leaves behind.

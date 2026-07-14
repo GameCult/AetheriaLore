@@ -1,71 +1,37 @@
-Warfare in Aetheria is not characterized by large-scale battles or indiscriminate destruction but by calculated, often covert operations designed to weaken competitors without destabilizing the broader economy. The primary objective is to gain economic or strategic advantage, such as seizing key assets, disrupting supply chains, or forcing rivals into unfavorable mergers.
+# Restrictions on Warfare
 
-The PSC does not just cap violence; it financializes it. Its framework turns conflict into a regulated market with predictable pricing, tradable risk, and standardized compliance. The result is that corporations specialize within tolerated niches (for example [[Why Zhestokost’s Heavy-Weapons Specialization Works]]), compete under constraints, and avoid spiral-to-zero destruction that would crash the PSCC and core supply webs.
+In PSC-aligned pre-Elysium Sol, restrictions on warfare exist to keep violence from destroying the infrastructure and financial relationships that make corporate sovereignty possible. The [[Pan-Solar Consortium]] is not a universal government and does not prevent war. It makes some forms of force legible to insurers, ports, clearing systems, arbitrators, and other powers whose cooperation determines whether a victory can become a durable claim.
 
-# Mechanisms
+The system favors seizure, disruption, coercion, and bounded damage. A captured yard, interrupted route, or disabled ship may still produce revenue. A ruined habitat or contaminated corridor spreads liabilities beyond the original dispute. Restraint therefore enters PSC law primarily as protection for market continuity, not equal safety.
 
-## Conflict As-a-Service (Permits, Caps, Pricing)
+## Regulatory Architecture
 
-Conflict permit underwriting: Permits are priced like insurance based on declared objectives, theater, force profile, expected externalities, and increasingly declared thermal posture. Higher-risk tools such as orbital kinetic strikes, AGI-directed swarms, or undeclared quiet-running envelopes cost more. Discounts apply for low-collateral doctrines, registered dump windows, and certified compliance telemetry.
+The PSC translates conflict into administrative categories: permitted or illicit, insured or uninsured, recognized or deniable, corridor-safe or corridor-breaking. A recognized conflict permit identifies an operation well enough for interested institutions to price exposure and decide whether its outcome will receive legal or commercial recognition. It does not authorize every act committed under it, guarantee neutral enforcement, or bind actors outside the relevant agreements.
 
-After the [[Callisto Trace Shootdown]], unresolved launch behavior becomes its own underwriting category. Cheap conventional interceptors remain physically cheap, but firing them before classification thresholds are met becomes financially expensive: higher bonds, punitive premia, and worse future permit scores. Lattice-linked smart munitions receive discounts because they can share sensor data, carry admissible telemetry, accept last-millisecond aborts, and delay terminal commitment until close inspection. The stated goal is restraint. The market result is a standing subsidy for military cognition.
+Permits, escrow, and bonds give the system financial leverage before force is used. Requirements vary by jurisdiction, participants, declared objective, expected externalities, and the infrastructure placed at risk. An operation near a major transport corridor, shared power system, settlement, or other widely used asset attracts greater scrutiny because damage can interrupt obligations far beyond the target. Arbitration after the event determines how much of the declared account survives contact with competing evidence.
 
-Damage cap bonding: Before hostilities, belligerents post bonds in [[PSCC]] indexed to a cap. Exceeding cap auto-triggers penalties: bond seizure, higher future permit premia, and targeted Economic Sanctions such as PSCC liquidity throttling or Aethernet throttles.
+The PSC also maintains corridor rules and arrangements around neutral docks, relays, clearing access, and sanctions relief. Protection is uneven. Some facilities are backed by several powers and hired security; others remain neutral only while recognition is more profitable than violation. Restrictions are strongest where many parties depend on the same asset.
 
-Parametric penalties: The PSC uses sensor feeds and technological controls to auto-assess damage such as infrastructure loss, life-support hits, or supply-chain downtime. Pre-agreed formulas trigger fines without arbitration delays.
+## Evidence And Price
 
-Secondary markets: "Cap-slots" and "peril tranches" are traded. Risk desks buy and sell portions of a conflict's allowed harm, creating a futures market in destruction. This lets firms hedge exposure to a rival's sanctioned operation.
+Sensor records, command logs, weapon telemetry, surrender signals, damage histories, and witness accounts affect how an operation is classified. Evidence can change bond requirements, insurance premia, access to ports, later procurement, and whether seized property can be sold or serviced openly. It does not produce an uncontested truth. Records can be incomplete, forged, selectively disclosed, or generated by systems whose owners helped define the standard.
 
-## Protected Infrastructure and Chokepoints
+The 2667 [[Callisto Trace Shootdown]] changed how insurers treated uncertain launches. Conventional interceptors fired before a thermal contact had been adequately classified remained physically cheap, but became expensive to bond and insure. Munitions able to share sensor data, preserve admissible telemetry, accept abort updates, and delay terminal commitment received better terms. The reform rewarded restraint while also subsidizing military cognition and the firms capable of certifying it.
 
-Neutral Zone network: Trade hubs, relay constellations, and fusion corridors are no-strike areas with automatic PMC tripwires. Violations are near-instantly interdicted by Private Military Contractors.
+Thermal posture entered the same evidentiary economy. Quiet running, shaped emissions, and delayed heat dumps could be legitimate operations or signs of concealed force. Exact rules varied across corridors and periods. What mattered was whether an operator could explain an unusual signature through records that insurers, authorities, and counterparties were prepared to recognize.
 
-"Shared Backbones" registry: The PSC maintains a whitelist of critical assets such as fusion nodes by [[NiteLife Energy]], major Bloom air and water recyclers, backbone data relays, and later strategic radiator farms and certified thermal corridors. Any permit intersecting these nodes faces punitive pricing or outright denial.
+## Enforcement And Evasion
 
-PSC observability mandates: Weapon systems above certain thresholds must broadcast normalization beacons and telemetry frames. Quiet-running hulls and signature-shaped systems increasingly have to register thermal classes and authorized dump envelopes. Sabotaging these beacons is treated as intent to exceed caps.
+The PSC's strongest instrument is dependency. By the late pre-Elysium period, access to [[PSCC]] clearing, neutral docks, recognized arbitration, and sanctions relief is difficult for major operators to abandon. Penalties can increase transaction costs, delay settlement, restrict access, or isolate an actor from institutions needed to repair ships and realize captured value. Such pressure is severe without being universal; independent yards, rival currencies, political patrons, and black markets provide partial alternatives.
 
-## Incentivized Indirection
+Hired coercive specialists and private military contractors may inspect cargo, enforce a ceasefire, hold a disputed asset, or deny access on behalf of participating institutions. Their neutrality is contractual and contested. They act where a mandate, payment, and tolerable risk coincide. A powerful member can obstruct enforcement, while a weak operator may face penalties before its account receives serious review.
 
-White-listed conflict modes: Proxy Conflicts, Resource Denial, and Cyber Warfare have codified templates with predictable permit paths and lower premia if done away from Neutral Zones and shared backbones.
+Evasion is part of the system. Belligerents use proxies, disputed ownership, altered telemetry, jurisdiction shopping, deniable privateers, and emergency claims to move violence outside expensive categories. The PSC responds by changing recognition and price, creating another market for compliance, influence, and convincing records.
 
-Letters of marque for Privateering: PSC-licensed raiding is cheaper than direct confrontation but tightly geofenced. Stolen PSCC-denominated cargo auto-flags provenance; fenced cargo incurs sanctions unless laundered through risky black channels, and the laundering risk is priced into permits.
+## Surrender, Rescue, And Survival
 
-## PSCC as the Enforcement Engine
+Surrender and rescue protections are not uniform across Sol. Continuing to attack a recognized helpless target, deliberately denying cooling after resistance ends, or using a false distress signal can damage an actor's evidentiary standing and reputation. Depending on jurisdiction and the available record, those acts may affect port access, insurance, permit recognition, custody claims, or later adjudication. Disputes persist over when surrender became legible, whether a target remained dangerous, and which party controlled the systems required for survival.
 
-Currency centrality: Access to PSCC clearing is survival. Violators face stepped sanctions: increased transaction costs, delayed settlement, collateral haircuts, or full delisting.
+These restrictions help make surrender and rescue credible without guaranteeing either. Their practical force comes from future dependence: crews, ports, insurers, and allies remember which actors preserve exits and which turn vulnerability into a trap.
 
-Rehypothecation squeeze: The PSC can raise haircuts on a violator's collateral such as ships, mining rights, or Bloom titles, driving up their cost of capital overnight.
-
-Brand risk multipliers: Public image feeds into pricing. Lucent-indexed sentiment scores raise or lower permit premia. "Reckless" brands pay more to fight.
-
-## Compliance Tech and Instant Consequences
-
-Technological Controls: AGI-driven ISR (Intelligence, Surveillance, and Reconnaissance) flags unauthorized launches; auto-escrowed bonds liquidate if certain signatures are detected, such as nuclear events, broad-spectrum EMP in populated or relay zones, or undeclared thermal dump events in controlled corridors.
-
-PMC deterrence: Contracted, nominally neutral Private Military Contractors are authorized to freeze battlespace, impound assets, and enforce ceasefires per Arbitration and Ceasefires clauses.
-
-## Practical Flow of a Typical PSC-Regulated Operation
-
-### Pre-clearance
-
-Client files a "Fortified Asset Reallocation" permit naming Zhestokost as executor. It declares target, time window, expected harm profile, and thermal posture. PSC runs an impact model against Neutral Zones and shared backbones.
-
-### Pricing and Bonding
-
-PSC sets a damage cap and requires a PSCC bond. Zhestokost offers weapon telemetry certs, radiator capacity declarations, and bounded fire plans to shave premia. Rival stakeholders can buy "cap tranches" to hedge spillover risk.
-
-### Execution
-
-Zhestokost deploys heavy armor and ballistics with embedded beacons. ISR verifies adherence. Any spill or undeclared dump triggers automated micro-penalties deducted from the bond in real time.
-
-### Post-action Settlement
-
-PSC auditors reconcile sensor feeds. Bond balance returns; remaining penalties adjust Zhestokost's future permit risk score. If disputes arise, Arbitration and Ceasefires clauses govern, with PMCs holding the ground in escrow.
-
-## Knock-on Systemic Effects
-
-Innovation channeling: R&D funds flow into precision, telemetry, signature shaping, and infrastructure-sparing lethality rather than doomsday systems. [[Artificial General Intelligence]] is used to predict and minimize externalities, reducing permit cost.
-
-Competitive specialization: Lucent optimizes narrative and clout arbitrage; [[Finch Cybernetics]] sells neural command and stability packages for compliance-grade combat teams; [[SolEx]] and [[Aeronautics Unlimited]] prize drives and logistics that avoid Neutral Zones; Zhestokost dominates the assault niche where precision heavy force, rugged radiators, and sustained audited fire beat swarms.
-
-Currency stability: By pricing destruction, the PSC protects [[PSCC]] velocity. Wars become balance-sheet events instead of existential shocks.
+PSC regulation does not make warfare humane. It makes violence answerable to a market order that needs assets intact, records negotiable, and destruction expensive enough to remain exceptional.

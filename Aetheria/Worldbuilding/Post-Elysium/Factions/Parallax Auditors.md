@@ -8,11 +8,9 @@ The profession is neither a state bureau nor a universal regulator. Auditors wor
 
 Parallax authority is indirect. Auditors investigate a record and issue or validate a [[Worldbuilding/Post-Elysium/Reference/Continuity Admissibility Finding|continuity admissibility finding]]. That finding does not establish which history is true. It determines whether a named receiving office may treat the contradiction as evidence under its existing rules.
 
-The distinction limits their formal power. An auditor cannot normally close a berth, void coverage, freeze salvage title, or suspend command by personal decree. A berth authority, insurer, claimant office, custody desk, or operator board owns that decision. The [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]] supplies a common handoff among participating offices. Parallax owns the permission; the receiving office owns the cut.
+The distinction limits their formal power. An auditor cannot normally close a berth, void coverage, freeze salvage title, or suspend command by personal decree. A berth authority, insurer, claimant office, custody desk, or operator board owns that decision. The [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]] supplies a common handoff among participating offices. Parallax classifies the evidence; the receiving office decides the action.
 
-The classes, thresholds, and required fields bind individual professional judgment. Auditors must identify the contaminated evidence, test ordinary explanations, name the receiving office, and record the consequence that office is authorized to consider. A finding that names no receiving authority remains an annotation, however alarming its language.
-
-One helm-continuity case illustrates the boundary. Two ship-self instances supplied private route-memory errors and challenge sequences that agreed despite appearing in the wrong order. A Parallax desk accepted continuity narrowly enough for the second instance to resume an interrupted emergency helm duty. The finding did not transfer cargo title, open private archives, resolve salvage custody, or establish general personhood. It made one claim usable by one control surface.
+Required fields and scoped classifications constrain individual judgment. Auditors must identify the contaminated evidence, test ordinary explanations, name the receiving office, and record the permitted use for which that office may consider the evidence. A finding that names no receiving authority remains an annotation, however alarming its language.
 
 ### Practice and Secrecy
 
