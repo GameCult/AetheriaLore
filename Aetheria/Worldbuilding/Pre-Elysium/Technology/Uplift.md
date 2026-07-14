@@ -13,7 +13,7 @@ Uplifts, beings born of ambition and control, have carved a complex niche within
 - **Logisticians:** [[GeneSys]]'s uplifted elephants, emerging by 2460, became living heavy lifters, their strength and memory harnessed for complex logistical tasks, though some found freedom and formed the pacifist [[Elephant Enclave]].
 - **Ship Minds:** [[Alakrita]]'s foray into uplifting ship AI around 2480, created a new echelon of sentient starships, subtly conditioned for obedience, catering to elite clients, though their occasional rogue behavior caused chaos and embarrassment.
 
-### Historical Context within the [[Timeline]]
+### Historical Context within the [[Worldbuilding/Pre-Elysium/Timeline/index|Timeline]]
 
 This era marked the explosion of uplift diversity. The [[Portia Line]] made the category politically unstable first; corporations like [[BioElevate]], [[GeneSys]], and [[NeuroSyn]] then raced to exploit different species while promising that their own programs would be cleaner, safer, and more controllable than the basement scandal that had opened the question. This period saw the birth of the major uplift factions: [[Cetacean Navigators]], [[Corvid Collective]], [[Cephalopod Syndicate]], and [[Elephant Enclave]].
 

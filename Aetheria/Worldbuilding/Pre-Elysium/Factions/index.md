@@ -16,16 +16,7 @@ Use this branch to read institutional power and social agitation together. Aethe
 - [[Worldbuilding/Pre-Elysium/index|Pre-Elysium]]
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/index|Powers]]
 - [[Worldbuilding/Pre-Elysium/Factions/Movements/index|Movements]]
-- [[Worldbuilding/Pre-Elysium/Historical Events|Historical Events]]
-
-## Major Powers
-
-- [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Pan-Solar Consortium|Pan-Solar Consortium]]
-- [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Sol Dominion|Sol Dominion]]
-- [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Zhestokost|Zhestokost]]
-- [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Lucent Media|Lucent Media]]
-- [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Framgång|Framgång]]
-- [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Aya Collective|Aya Collective]]
+- [[Worldbuilding/Pre-Elysium/Timeline/Events/index|Historical Events]]
 
 ## Movements And Counter-Projects
 

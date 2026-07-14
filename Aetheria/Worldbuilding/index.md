@@ -15,7 +15,7 @@ This branch gathers the vault's main structural fields. Use it to move between t
 
 - [[Worldbuilding/Pre-Elysium/index|Pre-Elysium]]
 - [[Worldbuilding/Post-Elysium/index|Post-Elysium]]
-- [[Worldbuilding/Pre-Elysium/Timeline|Timeline]]
+- [[Worldbuilding/Pre-Elysium/Timeline/index|Timeline]]
 - [[Worldbuilding/Pre-Elysium/Colonizing Sol|Colonizing Sol]]
 
 ## Institutions And Orders

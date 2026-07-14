@@ -16,7 +16,7 @@ Read this branch as linked pressure rather than encyclopedic garnish. Start with
 - [[Welcome to Elysium]]
 - [[Introduction]]
 - [[Narrative Themes]]
-- [[Worldbuilding/Pre-Elysium/Timeline|Timeline]]
+- [[Worldbuilding/Pre-Elysium/Timeline/index|Timeline]]
 - [[Worldbuilding/Politics/index|Politics]]
 
 ## Major Domains

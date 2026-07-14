@@ -1,11 +1,30 @@
 ---
 title: Minor Powers
-description: "Smaller specialists, choke-point operators, and weird little empires that kept late Sol running while quietly making it worse."
+description: "Pre-Elysium powers with narrower reach."
 ---
 
-Not every important institution in late Sol needed to dominate the whole system. Some only had to own one indispensable service, one impossible patent cluster, one grotesquely efficient logistics niche, or one habit everyone else was too dependent to stop funding.
+# Minor Powers
 
 - [[Alakrita]]
-- [[Cymata Systems]]
+- [[AstroDyne]]
+- [[BioElevate]]
+- [[Cephalopod Syndicate]]
+- [[CogniSys]]
 - [[Cognitum]]
+- [[Corriedales]]
+- [[Corvid Collective]]
+- [[Cymata Systems]]
+- [[Elephant Enclave]]
+- [[EternaMind]]
+- [[Ewan Hart]]
+- [[GeneSys]]
+- [[Lightsail Express]]
+- [[NeuroPulse]]
+- [[NeuroSyn]]
+- [[NiteLife Energy]]
+- [[Orbital Forge]]
+- [[Portia Line]]
+- [[Quantum Dynamics]]
 - [[Rossum & Douglas]]
+- [[SolEx]]
+- [[VitaForge]]

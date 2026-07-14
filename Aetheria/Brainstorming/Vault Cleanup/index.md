@@ -42,6 +42,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 3
+
+- Q-08 moved era order and named-event membership into `Timeline/index.md` and `Timeline/Events/index.md`, deleted the two flat duplicate owners, and qualified every inbound link. All 25 event notes appear exactly once under dates verified against their source files.
+- Q-10 made the Powers root a three-category router and each category index an exhaustive local map: 12 Major, 23 Minor, and 5 Defunct. The broader Factions index no longer carries a partial duplicate roster.
+- Soul rejected two category claims: the FTL experiment did not create Elysium, and the Pan-Solar Consortium was not a counterpower. Hands corrected the causal sentence and flattened the Major list.
+- Final continuity, structure, and hostile-brevity reviews passed. Q-08 cut at least 218 conservative tokens against a 140-word requirement; the four Power indexes total 177 conservative tokens against a 300-word ceiling. All new wiki targets resolve.
+
 ### Wave 2
 
 - Q-01/Q-04/Q-07 now assign separate owners to interface translation, embodied intent, field tuning, commanded momentum exchange, and esper agency. The seven-note mechanism pass cut 1,125 words before Soul repairs.

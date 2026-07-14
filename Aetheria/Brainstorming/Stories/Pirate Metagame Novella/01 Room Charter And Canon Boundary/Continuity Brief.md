@@ -29,7 +29,7 @@ This places the story four to ten years after the [[Callisto Trace Shootdown]]. 
 
 ## Source Set
 
-- [[Worldbuilding/Pre-Elysium/Timeline]]
+- [[Worldbuilding/Pre-Elysium/Timeline/index|Timeline]]
 - [[Worldbuilding/Pre-Elysium/Timeline/Identity Abyss]]
 - [[Worldbuilding/Pre-Elysium/Timeline/Events/Callisto Trace Shootdown]]
 - [[Worldbuilding/Pre-Elysium/Timeline/Events/Cold Wake Panic]]

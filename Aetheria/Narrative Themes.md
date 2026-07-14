@@ -1,4 +1,4 @@
-This note collects recurring narrative themes across Aetheria. It is less a complete taxonomy than a place to name the pressures the setting returns to across the [[Timeline]], its institutions, and its technologies.
+This note collects recurring narrative themes across Aetheria. It is less a complete taxonomy than a place to name the pressures the setting returns to across the [[Worldbuilding/Pre-Elysium/Timeline/index|Timeline]], its institutions, and its technologies.
 
 ### Rampant Accelerationism
 

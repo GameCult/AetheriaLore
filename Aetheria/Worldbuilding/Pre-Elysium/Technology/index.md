@@ -39,4 +39,4 @@ This branch tracks the technical stack that transformed embodiment, cognition, e
 - [[Worldbuilding/Pre-Elysium/Technology/Wireheading|Wireheading]]
 - [[Worldbuilding/Pre-Elysium/Technology/Thermal Management|Thermal Management]]
 - [[Worldbuilding/Politics/Restrictions on Warfare|Restrictions on Warfare]]
-- [[Worldbuilding/Pre-Elysium/Timeline|Timeline]]
+- [[Worldbuilding/Pre-Elysium/Timeline/index|Timeline]]

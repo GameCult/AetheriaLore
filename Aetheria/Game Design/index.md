@@ -64,5 +64,5 @@ The live hierarchy treats them as inherited design pressure, then filters them t
 
 - [[Introduction]]
 - [[Narrative Themes]]
-- [[Worldbuilding/Pre-Elysium/Timeline|Timeline]]
+- [[Worldbuilding/Pre-Elysium/Timeline/index|Timeline]]
 - [[Worldbuilding/Politics/Restrictions on Warfare|Restrictions on Warfare]]

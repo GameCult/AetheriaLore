@@ -67,4 +67,4 @@ Some powers remain too distributed, too deniable, or too infrastructural to fit 
 - [[Baseline League]] channels mortal resentment and anti-posthuman reaction.
 
 For where these powers actually live and how that changes across the timeline, see [[Territories]].  
-For the events that made them what they are, see [[Historical Events]].
+For the events that made them what they are, see [[Worldbuilding/Pre-Elysium/Timeline/Events/index|Historical Events]].

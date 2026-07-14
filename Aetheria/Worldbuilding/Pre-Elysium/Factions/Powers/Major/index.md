@@ -1,6 +1,19 @@
 ---
 title: Major Powers
-description: "The sovereign-scale blocs and megacorporate empires that shaped late Sol directly instead of merely feeding off it."
+description: "Pre-Elysium powers with system-scale influence."
 ---
 
-These are the powers large enough to treat infrastructure, law, logistics, security, and cultural atmosphere as one continuous administrative surface. If Aetheria has a ruling class with engines attached, it lives here.
+# Major Powers
+
+- [[Activist Network]]
+- [[Aeronautics Unlimited]]
+- [[Aya Collective]]
+- [[Cetacean Navigators]]
+- [[Cryonix]]
+- [[Finch Cybernetics]]
+- [[Framgång]]
+- [[Lucent Media]]
+- [[Pan-Solar Consortium]]
+- [[Pirate Coalition]]
+- [[Sol Dominion]]
+- [[Zhestokost]]

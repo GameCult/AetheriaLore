@@ -1,4 +1,4 @@
-[[Timeline]] only makes sense if the reader can follow who inherited whose infrastructure, patents, cadres, and myths. The great powers of late Sol were not eternal. They were stacked atop dead startups, captured laboratories, debt restructurings, strikebreakers, and research programs whose original authors usually lost control of their own work.
+[[Worldbuilding/Pre-Elysium/Timeline/index|Timeline]] only makes sense if the reader can follow who inherited whose infrastructure, patents, cadres, and myths. The great powers of late Sol were not eternal. They were stacked atop dead startups, captured laboratories, debt restructurings, strikebreakers, and research programs whose original authors usually lost control of their own work.
 
 ### Foundational Research Programs
 

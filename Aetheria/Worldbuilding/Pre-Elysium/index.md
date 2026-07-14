@@ -13,9 +13,9 @@ Read this branch as a linked history of colonization, automation, stratified per
 
 ## Historical Foundations
 
-- [[Worldbuilding/Pre-Elysium/Timeline|Timeline]]
+- [[Worldbuilding/Pre-Elysium/Timeline/index|Timeline]]
 - [[Worldbuilding/Pre-Elysium/Colonizing Sol|Colonizing Sol]]
-- [[Worldbuilding/Pre-Elysium/Historical Events|Historical Events]]
+- [[Worldbuilding/Pre-Elysium/Timeline/Events/index|Historical Events]]
 - [[Worldbuilding/Pre-Elysium/From Sol to Elysium|From Sol to Elysium]]
 
 ## Territory And Sovereignty

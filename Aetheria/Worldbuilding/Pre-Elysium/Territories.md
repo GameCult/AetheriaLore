@@ -1,6 +1,6 @@
 Territory in late Sol is not just a matter of flags on worlds. It is the control of life-support, route law, food systems, compute stacks, habitat volume, media weather, and the legal categories through which different kinds of people are allowed to exist. A world can be nominally "held" by one mega while its food comes from another, its emotional culture from a third, and its shadow politics from a network nobody can publicly acknowledge.
 
-This note is meant to help the reader visit the setting at different points in the [[Timeline]] and understand what daily life feels like in the major regions, who is dominant there, and which tensions are active.
+This note is meant to help the reader visit the setting at different points in the [[Worldbuilding/Pre-Elysium/Timeline/index|Timeline]] and understand what daily life feels like in the major regions, who is dominant there, and which tensions are active.
 
 ### Reading Territory Across Eras
 
