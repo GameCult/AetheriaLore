@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 15
+
+- `Bloom.md` fell from 2,439 to 1,048 words. It now owns the verified research lineage, bounded construction sequence, standards ecosystem, deployment leverage, labor dependency, and territorial consequences of manufactured habitable volume; mature anatomy remains in `Bloom Habitat Anatomy.md`.
+- `Thermal Signature Warfare.md` fell from 1,902 to 896 words. It now owns heat as observable history, constrained classification, forced revelation, Cold Wake signature shaping, and unequal access to thermal ambiguity without duplicating engineering, combat doctrine, or game systems.
+- `Thermal Death Culture.md` fell from 1,842 to 743 words. Thermal trust, classed margin, practical warning habits, varied mourning, and the stigma of deliberate cooling denial replace invented universal rites, faction and species profiles, legal procedure, and design instructions.
+- Final verification removed an anachronistic Cinderlace attribution from the 2241–2248 `Cold Wake Panic`; the Cinderlace research lineage begins in 2351.
+
 ### Wave 14
 
 - `Territories.md` fell from 2,047 to about 1,120 words. It now maps layered geographic, infrastructural, and cognitive authority without turning regions into uniform cultures or overlapping movements into one polity.

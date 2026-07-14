@@ -2,7 +2,7 @@
 
 **Date:** 2241-2248
 **Location:** inner-system test corridors, lunar thermal yards, early PSC insurer tribunals
-**Primary actors:** PSC insurers, [[Cryonix]], Cinderlace researchers, [[Rossum & Douglas]] precursor teams, privateer cells, corridor security buyers
+**Primary actors:** PSC insurers, [[Cryonix]], [[Rossum & Douglas]] precursor teams, privateer cells, corridor security buyers
 
 [[Cold Wake Panic]] was the moment early PSC corridor law admitted that thermal stealth had become a strategic problem rather than a boutique engineering trick. A run of near-miss interceptions, ghost tracks, delayed heat dumps, and misclassified quiet-running vessels convinced insurers that existing permit categories no longer described the real battlespace. Too many ships could remain cold long enough to make first detection politically explosive.
 
