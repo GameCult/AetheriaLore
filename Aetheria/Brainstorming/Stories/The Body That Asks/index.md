@@ -141,6 +141,8 @@ Vey is Meridian's headmaster and the student-level interface of Project Kinship,
 
 When the students begin investigating Vesper Fist, Vey genuinely helps. He grants the archive access available to him, assigns cooperative staff, shields them from conspicuous security attention, and presses his own contacts for answers. He also lies constantly and with technical care about Project Kinship, because exposing the household experiment would threaten their medical continuity, legal futures, and the deterrence program he considers necessary. The contradiction does not trouble him as much as it should: the conspiracy the students describe is real, while the conspiracy he serves is, in his mind, an ugly form of care. His investigation becomes an unwitting leak audit. Every question he escalates tells the Necro branch what the students have discovered, and every reassuring answer sent back through him arrives wearing the credibility of a man sincerely trying to protect them.
 
+His relationship to the five is deliberately asymmetrical. He has known Lio since she was a yard ward and personally forced an exception through Meridian's clinic budget for the treatment that made piloting possible. He kept Tem enrolled when contradictory relief and custody records would have let the academy classify him as an identity risk. To them, his care is biographical fact rather than administrative theatre. Senn knows him mainly as the senior authority cultivating her career; Iri encounters him through training and clinic review; Omi has never needed to experience his discretion as rescue. The household cannot discuss whether Vey is trustworthy without also discussing whose survival counts as evidence.
+
 Vey believes the Fivefold's mistake was allowing private affection, improvisation, and moral uncertainty to steer strategic force. His preferred answer is standardized attachment: stable housing, excellent care, technically honest education, observed reconciliation, carefully composed households, and a crown pilot trained to carry final authority. He wants the machine to ask permission only after the institution has determined which answers are safe.
 
 His confidence comes from metrics that measure real goods. Children survive Meridian who would have died elsewhere. Pain declines. Conflict recovery improves. Graduates obtain citizenship and admired careers. Sponsor confidence rises as Concord viability increases. Projected invasion casualties fall. The dashboards ingest fear, loyalty, grief, aspiration, affection, and professional pride, then return a decision without feeling any of them. Vey supplies the feeling at the interface. His genuine care lets the larger machine present its requirements as a relationship.
@@ -173,11 +175,15 @@ He does not lack trust. He insists that trust have terms. He becomes the group's
 
 Lio is a former yard ward and drive specialist who is proud of Meridian. The institution gave her pain treatment, education, a machine she can inhabit gracefully, and a route out of casual labor. Her loyalty is material rather than naïve.
 
+Vey knew her before the others and made the clinic spend money it had already decided she was not worth. She does not confuse that act with innocence, but neither will she permit the household to redescribe it as manipulation merely because gratitude has become politically inconvenient. When Omi treats Vey's help with the Vesper investigation as an obvious trap, Lio hears him dismissing the event that made her present life possible.
+
 She reports the first evidence of machine awareness because she believes recognition will protect both the program and the mind. Her report is instead used to erase records and quietly remove a different household that encountered the same anomaly. Discovering that consequence breaks her trust without erasing what Meridian genuinely gave her. She must choose escape without pretending the world outside is kinder.
 
 ### Tem Rusk, 18
 
 Tem maintains several incompatible accounts of his childhood because different relief offices, custody courts, schools, and clinics required different histories before they would help him. Meridian treats the discrepancies as defensive identity construction. Tem treats them as paperwork that kept him alive.
+
+Vey admitted him anyway and repeatedly prevented clerical contradictions from becoming grounds for removal. Tem knows the headmaster can recognize a person beneath hostile records. He also knows Vey later signed the educational transition that moved him between Seats. The same adult preserved his right to remain at Meridian and permitted Meridian to alter who was doing the remaining.
 
 He specializes in sensors and radiative skin. He is best at shared perception because he knows legibility is not identity: a useful map does not become the person mapped. The machine is the first authority that never asks which childhood is the real one. Tem can carry crown authority during navigation because he shares what others need to see without demanding they interpret it identically.
 
@@ -294,7 +300,7 @@ At midpoint both lines reach first Concordance. The original Fivefold assembles 
 
 The success arrives beside the threat. The next live exercise will activate armed drives and the recovered Calyx transformation lattice. AFTER is scheduled for a destructive wipe immediately afterward. One or more pilots will be reassigned if the household again fails to meet threshold.
 
-Lio's old report and the prior-household ledger fracture the group. Her action had consequences she did not know, and ignorance does not make those consequences vanish. Vey offers his bargain and shows them the invasion forecasts. The five do not resolve every betrayal or agree on the politics of deterrence. They agree on one bounded proposition: tomorrow, nobody will be erased or reassigned.
+Lio's old report and the prior-household ledger fracture the group. Her action had consequences she did not know, and ignorance does not make those consequences vanish. Vey's genuine help sharpens the conflict: Lio trusts a man who once chose her life over a budget, Omi sees every kindness arriving with institutional access, and Tem knows both readings describe him. Vey offers his bargain and shows them the invasion forecasts. The five do not resolve every betrayal or agree on the politics of deterrence. They agree on one bounded proposition: tomorrow, nobody will be erased or reassigned.
 
 ### Movement III: The Exercise
 
