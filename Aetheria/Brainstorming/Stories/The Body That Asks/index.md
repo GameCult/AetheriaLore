@@ -49,6 +49,7 @@ The reader should repeatedly receive three pleasures: institutional procedure re
 - [[Story Constraints]] — social body, invariants, prohibited resolutions, and reader contract.
 - [[Distributed Critic Review 2026-07-15]] — superseded pre-repair review preserved as historical diagnostic evidence.
 - [[Focused Repair Review 2026-07-15]] — post-repair verification of the previously identified planning blockers.
+- [[Distributed Critic Review 2 2026-07-15]] — fresh post-repair review focused on reader load, person-scale persistence, and external political embodiment.
 - [[Concept Art/Daedal Production Figure v7.prompt|Concept Art]] — accepted Daedal production-Figure direction and saved generation prompt.
 
 ## Canon and Invention Boundary
