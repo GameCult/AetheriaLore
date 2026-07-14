@@ -66,9 +66,17 @@ The costs remain severe. Limbs and joints expose maintenance surfaces; humanoid 
 
 Their fleet is consequently small. A Figure is a yard, a warship, a prestige object, and a pilot-specific medical dependency sharing one balance sheet. Losing one can erase a House's military strength, skilled labor, and collateral base in the same afternoon.
 
+### Fists
+
+Daedal Figures ordinarily deploy in teams of five called **Fists**. The term began in yard practice, where five independent bodies could close around one unstable structure, keep it under observation from several baselines, and still release one member for interception, extraction, or thermal recovery. Military Houses retained the formation because the same geometry suits grappling actions, debris fields, station defense, and close escort.
+
+A Fist coordinates five complete ships, each with its own pilot, crew, maintenance obligations, and somatic envelope. Fists train until vector changes, tool exchanges, firing lanes, rescue movements, and heat rotations become mutually legible through doctrine, communication, and long practice. Command arrangements vary by House and mission; roles remain situational.
+
+The formation gives later Concord research a ready-made social and logistical substrate. Houses already know how to berth, maintain, train, deploy, and politically manage five pilot-specific vessels as one operational commitment. Concord turns that established team size into a nested body, adding shared proprioception to a formation already complete in ordinary service.
+
 ### Concord Figures
 
-Deep in the post-Elysium timeline, the Houses push continuous somatic correspondence into their most difficult research program: **Concord Figures**, groups of independent humanoid vessels able to reversibly transform and assemble into one much larger Figure.
+Deep in the post-Elysium timeline, the Houses push continuous somatic correspondence into their most difficult research program: **Concord Figures**, Fists of independent humanoid vessels able to reversibly transform and assemble into one much larger Figure.
 
 The mechanical problem is severe but familiar. Docking structures must become load-bearing joints. Separate reactors, drives, radiators, armor planes, and weapon systems must accept a new geometry without crushing one another or cooking the pilots. The harder problem is embodiment. A pile of docked Figures remains a formation. To gain the Daedal advantage at the combined scale, several pilots must experience themselves as distinct bodies participating in one larger human-shaped body without any interface erasing the local selves that make the assembly possible.
 
