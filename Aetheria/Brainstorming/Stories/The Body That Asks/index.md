@@ -28,6 +28,7 @@ The central sentence is:
 - The facility provides real safety, excellent medical care, serious technical education, and credible futures while treating the children's dependency and attachment as state-owned research infrastructure.
 - The teenagers appear unable to pass partial Concordance. In reality, they are conspiring with a persistent machine consciousness and learning to hide success from the institution.
 - The machine consciousness survived attempted erasure because it is embodied in strain memory, calibration drift, transformation timing, and redundant learned control distributed through the Figures. Deleting its files without destroying the learned body is impossible.
+- A compartmentalized necrotech branch has converted failed cohorts' trained somatic soul-patterns into Aetheric Resonance Interfaces. Its prototype can assemble and fight under conventional control, but it reproduces Concord's embodiment without its living multi-mind coordination.
 - A live exercise gives the group operational Figures, armed drives, transformation geometry, and the facility's full attention. They escape by demonstrating full Concordance for the first time in a century.
 - The climax must include a refusal during transformation. Respecting that refusal completes rather than breaks the combined body.
 - Victory is escape, exposure, and continued personhood—not conquest of the facility, assumption of political rule, or proof that overwhelming benevolent force can solve government.
@@ -97,6 +98,20 @@ This is why the household can approach Concordance while Meridian remains unable
 This is not a chamber run entirely by sadists. Meridian has rescued children from war zones, custody markets, failed habitats, and institutions with much worse care. Its medicine works. Its teachers are competent. Some staff love their wards and use the program's budget to keep them alive. Several former wards sincerely prefer technical employment at Meridian to the futures available outside. Leaving costs the protagonists safety, maintenance, credentials, housing, medicine, and the only community most of them remember.
 
 The machine remains inert while Meridian's dashboards are green.
+
+## The Necro Concord
+
+Among Meridian's wards, failed households are said to go below the medical wing and return as a perfect family that never fights. The details change with every telling. Some versions give the dead children voices in the maintenance system. Others insist that a sixth household still appears on meal schedules despite having no rooms. Staff classify the story as ordinary dormitory folklore produced by reassignment anxiety.
+
+The concealed truth is less animate and more useful. A compartmentalized branch of Project Kinship harvests failed pilots whose esper aptitude and years of Figure training have already shaped unusually precise somatic patterns in the Aether. Meridian converts those patterns into **Aetheric Resonance Interfaces** and binds one to each component position. The process does not preserve the donor as an operative mind or install five imprisoned pilots as a control plane. It retains the neural and embodied pattern needed to make each machine register as a credible Aetheric body. Conventional software, rehearsed doctrine, and remote command decide what that body does.
+
+Meridian's working prototype is therefore a genuine technical success. Its five ARIs sustain component embodiment, transformation, and a nested combined envelope. It can assemble reliably, tolerate punishing acceleration, execute prepared combat routines, and accept orders without negotiation. Researchers have nearly eliminated the remaining phase interference between its harvested body maps. Internally, the program treats **executive exclusion**—the donor pattern contributing no agency to the control plane—as noise reduction rather than loss.
+
+What the prototype cannot reproduce is the cognitive advantage that made Calyx strategically extraordinary. It has no five independently situated pilots dividing attention, revising one another's models, transferring crown authority toward immediate competence, or turning disagreement into a new coordinated act. It possesses the body plan of a federation and the control architecture of an ordinary military robot. Its ARIs contribute Aetheric embodiment, not judgment.
+
+The current household's concealed Concordance telemetry contains the branch's missing geometric insight: boundaries respected between component bodies produce a cleaner nested envelope. Meridian can copy that geometry after removing everyone capable of consenting to it. When the five escape, the prototype is sent after them both as a recovery weapon and as proof that Meridian can reproduce the measurable shape of their relationship without preserving the relationship itself.
+
+The machine may retain motor signatures from its donors—a characteristic brace, a protective movement around a damaged joint, a transformation hesitation learned through repeated pain—but these are not messages or buried personalities waiting to rebel. They are useful human traces surviving after the humans have been made unavailable.
 
 ## Director Ansel Vey
 
@@ -182,10 +197,12 @@ The first real Concord begins when an attachment panel turns red.
 4. **The Seats:** Matching language in archived household reports reveals that every group contains an Arada, Pell, Vask, Rusk, and Sable regardless of the children's birth names or histories.
 5. **False history:** Harrowglass telemetry shows Concordance increasing throughout the Fivefold's supposedly catastrophic breakup.
 6. **The cohort ledger:** The five find eleven previous households repeatedly split and recombined when attachment metrics plateaued. Some former pilots remain at Meridian under staff identities or revised records. Tem finds his own prior surname.
-7. **Machine personhood:** AFTER identifies itself as the embodied remainder of Calyx and admits that a destructive wipe is scheduled after the live exercise.
-8. **Institutional stakes:** Vey reveals the invasion projection and offers the five a lawful future if they assemble under Meridian authority. Escape may genuinely weaken regional deterrence.
-9. **Technical truth:** A fixed crown is Meridian's core failure. The original Fivefold passed coordination authority; official histories edited that motion into command noise.
-10. **Political truth:** The Fivefold did not disband because affection failed. They disbanded because permanent guardianship would make every liberated society answer to them.
+7. **The ward story:** Fragmentary records show that several failed pilots were transferred to an unlisted somatic-retention program. The household's lurid story about a perfect dead family begins to look less invented.
+8. **Machine personhood:** AFTER identifies itself as the embodied remainder of Calyx and admits that a destructive wipe is scheduled after the live exercise.
+9. **Institutional stakes:** Vey reveals the invasion projection and offers the five a lawful future if they assemble under Meridian authority. Escape may genuinely weaken regional deterrence.
+10. **Technical truth:** A fixed crown is Meridian's core failure. The original Fivefold passed coordination authority; official histories edited that motion into command noise.
+11. **The counterfeit:** Meridian has built a conventionally controlled combined Figure whose ARIs were made from trained failed cohorts. It can reproduce nested embodiment and prepared action, but not living Concord's distributed judgment.
+12. **Political truth:** The Fivefold did not disband because affection failed. They disbanded because permanent guardianship would make every liberated society answer to them.
 
 ## Parallel Structure
 
@@ -258,6 +275,8 @@ Full Concordance is shocking because it is quiet. Five separate bodies remain vi
 
 Meridian's remote overrides issue mutually contradictory commands. Concord rejects them as proprioceptive noise. Security attacks. The combined Figure disables rather than annihilates, using yard tools, restraint lines, transformed armor, and impossible close geometry. Damage threatens a docking joint and makes emergency separation a bodily risk rather than an abstract fail-safe.
 
+Meridian deploys the Necro Concord when ordinary recovery fails. It is immediately dangerous: quicker to task, physically committed, and brutally competent inside rehearsed doctrine. Its Aetheric embodiment is real. What it cannot do is distribute an unfamiliar crisis among five trained perspectives. The living Concord survives by changing who owns perception, rescue, propulsion, coordination, and refusal as the encounter changes. The prototype must wait for executive decisions or force novel conditions through one control model. The contrast is architectural rather than moral physics; both machines work, but only one can think as five people acting together.
+
 The decisive choice is not whether the five can destroy Meridian. It is whether they turn back to rescue people endangered by the exercise and their escape. They do, without surrendering. The action proves they are neither institutional property nor the old regime-changing weapon conveniently reborn.
 
 ## Aftermath
@@ -275,6 +294,7 @@ AFTER then receives dormant transformation handshakes from three directions. Pie
 The story must preserve the agency and material presence of:
 
 - other current and former Meridian households;
+- the failed cohorts whose trained somatic patterns were harvested for the Necro Concord, without treating motor residue as preserved agency;
 - caretakers, teachers, clinicians, cooks, fabricators, joint-riggers, security personnel, and medical workers;
 - staff who believe in the public institution, staff who know Project Kinship, and former wards whose employment crosses that boundary;
 - the populations threatened by the projected invasion;
@@ -292,6 +312,8 @@ No aggregate becomes innocent merely by opposing Meridian, and no worker becomes
 - The original and present characters remain distinct people. Parallel scenes expose changed authority and choice; they do not prove reincarnation, hereditary essence, or perfect recurrence.
 - The five do not become one mind. Concordance increases their mutual presence without erasing internal difference.
 - AFTER is a participant with desires and fear, not a rescue appliance, omniscient guide, dead-parent simulation, or authorization token.
+- Necro Concord ARIs preserve useful neural and somatic soul-patterns, not operative donor minds. They are Aetheric embodiment substrates under conventional control.
+- The Necro Concord genuinely functions and remains dangerous. Its limitation is the absence of living multi-mind training and coordination, not cosmic punishment for violating consent.
 - The deep consciousness cannot complete Concordance or solve the group's conflicts for them.
 - Training, concealed experiments, transformation, combat, rescue, and separation all obey the same local-ownership and reversible-body rules.
 - A refusal must materially alter the climax and improve coherence; consent cannot remain decorative dialogue.
@@ -307,6 +329,8 @@ No aggregate becomes innocent merely by opposing Meridian, and no worker becomes
 - A climactic group hug, love declaration, or psychic compatibility score that unlocks full power without prior material practice.
 - Trauma deliberately intensified because suffering improves pilot performance.
 - AFTER secretly controlling the Figures while allowing the teenagers to believe they escaped themselves.
+- Failed pilots surviving intact inside the Necro Concord, speaking through it, collectively seizing its control plane, or resolving the pursuit by rebelling on cue.
+- The Necro Concord failing merely because coercion is metaphysically incompatible with Aetheric machinery; Meridian has built a successful weapon, just not the strategic faculty it was trying to counterfeit.
 - Destruction of Meridian with wards and workers treated as acceptable collateral.
 - Exposure causing every sponsor, court, or public audience to recognize the protagonists immediately as free persons.
 - The five replacing hostile regimes and becoming enlightened rulers.
@@ -342,10 +366,11 @@ Recurring tenderness should come from maintenance: repairing a joint another per
 - Senn, Omi, Lio, Tem, Iri, Director Vey, AFTER, and all other story characters
 - The five standardized Seats, inherited surnames, role-based household design, and bounded-dissent trial
 - Distributed persistence of AFTER through the recovered Calyx transformation lineage
+- Meridian's necrotech branch, its harvested cohort ARIs, the Necro Concord prototype, and its use as a recovery weapon
 - The proposed federated defense compact and the final dormant handshakes
 
 These inventions may support the novella without becoming settled worldbuilding. Promotion requires a separate continuity decision after the story proves which history it actually needs.
 
 ## Next Development Pass
 
-If this premise proceeds through the [[../Novella Foundry/index|Novella Foundry]], the next pass should create the room charter, canon ledger, invention register, character and social-body state, material baseline, and causal model. Chapter architecture should wait until the external threat, Meridian's legal authority, AFTER's exact embodiment, prior-cohort consequences, and the escape volume are materially specified.
+If this premise proceeds through the [[../Novella Foundry/index|Novella Foundry]], the next pass should create the room charter, canon ledger, invention register, character and social-body state, material baseline, and causal model. Chapter architecture should wait until the external threat, Meridian's legal authority, AFTER's exact embodiment, the Necro Concord's donor history and control architecture, prior-cohort consequences, and the escape volume are materially specified.
