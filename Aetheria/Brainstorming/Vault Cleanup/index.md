@@ -42,6 +42,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 5
+
+- Q-12 rebuilt `Uplift.md` from 1,040 to 357 words. The note now owns biological-uplift boundaries and cross-lineage history rather than classifying peoples by assigned job or inherited psychology.
+- The rewrite keeps the 2268 Portia recognition event, corporate labor-line pattern, variable legal status, Pallas coalition, and bounded FTL contribution. Lineage cultures and detailed histories remain with their owner notes.
+- Soul rejected unresolved category links, an invented legal ladder, imprecise Pallas participants, and a sentence that conflated cetacean routing with uploaded/machine stabilization. Final continuity, authority, stereotype, and link reviews passed.
+- A user continuity correction clarified Nibu's centuries among successive crews before the junkyard. The attached-shuttle episode now sits explicitly inside that earlier history; the junkyard is her condition at the Rupture, when reset reach begins.
+
 ### Wave 4
 
 - Q-09 rebuilt `Lore/Nibu.md` from 2,130 to 1,022 words. Character canon now owns her embodied condition, bounded provenance hypothesis, pre-Rupture attached-shuttle history, reset experience, and custody exposure; game-design alternatives and general mechanics returned to their owner notes.

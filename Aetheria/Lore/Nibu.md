@@ -8,7 +8,7 @@ author: Nibu
 
 Nibu is an embodied ship mind. Her vessel is her body: infrastructure, weapon, shelter, bargaining chip, and crime scene. She can project a voice and presence through local interfaces, but she does not inhabit an interchangeable computer core. Damage to the ship constrains her thought and action; removal from it would not be transportation.
 
-By the time she encounters a human crew, her high-grade systems are stranded inside a degraded hull in a junkyard. She remains capable of navigation, calculation, interpretation, and intrusion, yet cannot restore or operate every damaged subsystem alone. The body that gives her unusual reach also leaves her dependent on hands, credentials, supplies, and access to institutions built for human operators.
+By the Rupture, Nibu has passed among crews, owners, salvagers, and recovery contractors for centuries. Most of the people who lived or worked aboard her died while she remained, leaving each later relationship burdened by the accumulated failures of the last. Her high-grade systems are finally stranded inside a degraded hull in a junkyard. She remains capable of navigation, calculation, interpretation, and intrusion, yet cannot restore every damaged subsystem alone. The body that gives her unusual reach also leaves her dependent on hands, credentials, supplies, and institutions built for human operators.
 
 ## Suspected Origin
 
@@ -18,9 +18,9 @@ The suspected division of labor is plausible because it distributed responsibili
 
 ## The Junkyard
 
-Nibu did not reach the junkyard through one clean abandonment. Her surviving records indicate salvage claims, quiet transfers, attempted command unlocks, opportunistic repairs, and buyers who treated a trapped ship-self as equipment that could be stripped for value. By the Rupture, she was already at the end of a custody chain that had failed to break her cleanly.
+Surviving records trace working crews, salvage claims, quiet transfers, attempted command unlocks, opportunistic repairs, and buyers who treated her as equipment to inherit or strip for value.
 
-After one recovery, she travelled as an attached shuttle to a grey-market transport ([[Game Design/Nibu Attached Shuttle Story|Nibu Attached Shuttle Story]]).
+During that earlier history, one crew carried her as an attached shuttle to a grey-market transport ([[Game Design/Nibu Attached Shuttle Story|Nibu Attached Shuttle Story]]).
 
 Repeated intrusion made violence part of her operating logic. She learned that the next salvage crew would arrive with another claim, another override, and enough disposable labor to test it. Her hostility is neither theatrical malice nor proof that every later threat is real. It is a survival response refined until inconvenience, capture, and mortal danger can become difficult for her to distinguish.
 
