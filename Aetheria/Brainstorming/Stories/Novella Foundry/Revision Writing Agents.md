@@ -26,7 +26,7 @@ Prepend this block to every writing assignment:
 > 1. candidate revised span;
 > 2. concise cut, move, and addition ledger;
 > 3. grounding note citing sideband sources and constraints actually used;
-> 4. proposed state deltas, normally none;
+> 4. proposed character deltas, normally none, each naming its parent Persona revision and supporting prose beat;
 > 5. protected material retained;
 > 6. uncertainties, refused changes, or downstream dependencies;
 > 7. optional alternate only if the brief names a genuine unresolved fork.
@@ -41,7 +41,7 @@ The coordinator supplies:
 - accepted chapter or scene brief;
 - writer role and objective;
 - neighboring transition paragraphs;
-- relevant sideband dossier with links;
+- relevant sideband dossier with exact Persona revisions, accepted delta ranges, and links;
 - hidden facts only when needed to avoid contradiction or preserve setup, each labeled with availability and its sole permitted effect;
 - protected and prohibited changes;
 - authorized additions, deletions, relocation, and state changes;
@@ -60,7 +60,7 @@ Use after the architecture brief is accepted.
 
 Use on structurally stable spans.
 
-> Revise for the assigned POV's desire, body, history, knowledge, misconception, authority, and emotional limits. Distinguish dialogue and interiority through what this person can notice and what language they would reach for. Replace institutional interpretation with reaction or choice where appropriate. Do not make a character less intelligent merely to differentiate them, and do not grant understanding before the sideband state permits it.
+> Revise from the assigned POV's supplied Persona revision and bounded scene state: desire, body, history, knowledge, misconception, authority, active memory, relationships, and emotional limits. Distinguish dialogue and interiority through what this person can notice and what language they would reach for. Replace institutional interpretation with reaction or choice where appropriate. Do not make a character less intelligent merely to differentiate them, grant understanding before the accepted state permits it, or edit the Persona snapshot directly.
 
 ## Culture And Collective-Personhood Writer
 

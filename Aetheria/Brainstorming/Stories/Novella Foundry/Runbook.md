@@ -14,7 +14,7 @@ Before committing to the full planning machine, select a representative sequence
 
 At the beginning of a pass, declare objective, current mechanism, invariants, intended change, and cut line. Assemble one immutable specialist packet. Parallelize independent proposals; run dependent reviews sequentially after coordinator adjudication.
 
-The coordinator writes canonical files. Specialist outputs live in the numbered pass folder. A pass report lists artifacts, decisions, contradictions, state delta, accepted and rejected findings, operator review points, and the next pass.
+The coordinator writes canonical files. Specialist outputs live in the numbered pass folder. Character action in prose produces proposed deltas; the coordinator records adjudication and advances Persona revisions only through accepted or repaired deltas. A pass report lists artifacts, decisions, contradictions, accepted and rejected character deltas, other state changes, accepted and rejected findings, operator review points, and the next pass.
 
 ## Resumption
 
@@ -23,7 +23,7 @@ After interruption or compaction, load in this order:
 1. Master Prompt and completed Story Brief.
 2. Story State and Decision Log.
 3. Room Charter, Canon Ledger, and Invention Register.
-4. Only the state and manuscript relevant to the current pass.
+4. Only the state and manuscript relevant to the current pass, including each active character's current Persona revision and delta ancestry.
 5. The previous pass report and unresolved review findings.
 
 Do not reread the entire evidence pile by default. The state files exist to prevent transcript dependence. If state and pass artifacts disagree, stop and adjudicate before drafting.
@@ -62,6 +62,9 @@ The repair is external evidence or a less-primed read, not another checklist.
 - Preserve a unified coordinator voice.
 - Let characters invent plausible actions beyond the current model; log seams afterward.
 - Update state for discoveries that survive revision.
+- Project characters from their accepted Persona revision plus bounded scene state; do not give prose agents the accumulating cross-character ledger.
+- Resolve the observable event before participant-local appraisal. Accept resulting deltas before using them as the next scene's character state.
+- After scene reorder or material redraft, replay from the last valid parent revision rather than repairing snapshots by hand.
 - Keep technical explanation attached to bets, objections, improvisation, desire, rescue, repair, surrender, or consequence.
 - Stop expanding when added prose only proves the planning was thorough.
 - Draft representative prose before freezing the full causal ladder; voices are evidence that plans cannot supply.

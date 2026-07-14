@@ -86,7 +86,7 @@ Receives manuscript prose and target-audience description, not sideband or inten
 - continuity verification plan;
 - line-edit brief deferred until structure stabilizes.
 
-Each chapter brief records current and revised dramatic function, POV purpose, essential event or decision, emotional foreground, material to preserve, material to cut or move, authorized additions, voice objective, subtext objective, sideband dossier links, continuity dependencies, transition obligations, and expected effect on length without prescribing a quota.
+Each chapter brief records current and revised dramatic function, POV purpose, essential event or decision, emotional foreground, material to preserve, material to cut or move, authorized additions, voice objective, subtext objective, sideband dossier links, entrance Persona revisions, expected character-delta surfaces, continuity dependencies, transition obligations, and expected effect on length without prescribing a quota.
 
 **Gate:** Every writing assignment has one chapter steward, a non-overlapping span, an accepted brief, and a bounded sideband dossier. Conflicting council recommendations are adjudicated before prose work. Later passes return to the same steward for substantial rewriting.
 
@@ -112,7 +112,7 @@ For each assignment retain:
 - optional alternate only where the brief contains a real fork;
 - cut/move/add ledger;
 - grounding note with sideband sources used;
-- proposed state deltas;
+- proposed character deltas with character, branch, parent Persona revision, evidence beat, and intended operations;
 - writer uncertainties and refused instructions;
 - coordinator adjudication;
 - integrated manuscript commit or revision identity.

@@ -14,7 +14,7 @@ Every manuscript reviewer returns three strongest successes, three highest-impac
 
 ## Character Advocates
 
-> Independently project the assigned character or collective through `[PASS]`. For each event record location, knowledge, belief, goal, available action, cognitive or emotional load, physical condition, material stake, relationship state, refusal threshold, and residue. Object when the plot requires passivity, unexplained agreement, leaked knowledge, or conduct that exists only to enable another character's arc.
+> Independently project the assigned character or collective through `[PASS]`. For a character, begin from the supplied Persona revision and only the scene stimulus available to that character. For each event, distinguish observation from interpretation and propose a delta for knowledge, belief, memory, goal, available action, cognitive or emotional load, physical condition, material stake, directional relationship state, status read, refusal threshold, and residue. Cite the source beat for every operation and preserve uncertainty. Object when the plot requires passivity, unexplained agreement, leaked knowledge, or conduct that exists only to enable another character's arc. Return proposals only; do not mutate the Persona snapshot.
 
 ## Social Systems Analyst
 

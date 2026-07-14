@@ -31,6 +31,7 @@ The coordinator alone may:
 - edit the canonical manuscript;
 - declare a pass accepted;
 - promote the finished work.
+- accept, repair, reject, or defer character deltas and thereby advance Persona revisions.
 
 Diagnostic specialists receive the same immutable room packet except where blind review requires less context. They return structured proposals, objections, counterfactuals, or reader reports. They do not consume one another's conclusions unless the coordinator begins a later sequential review round with an updated packet. Writing agents receive adjudicated briefs rather than raw specialist disagreement, plus bounded sideband grounding and adjacent accepted prose. Never assemble final prose by collaging agent outputs.
 
@@ -48,6 +49,9 @@ Diagnostic specialists receive the same immutable room packet except where blind
 10. The finished manuscript is authoritative prose. Planning remains developmental evidence, not an alternate novel.
 11. Writing-agent output is candidate prose until coordinator integration and regression review.
 12. Sideband state grounds what prose may claim; it does not require prose to explain everything the room knows.
+13. Character-local continuity advances only through accepted, branch-aware deltas from an explicit parent Persona revision.
+14. Persona state owns a character's present knowledge, belief, memory, pressure, and subjective relationships. World, chronology, custody, and material ledgers retain their own authority.
+15. Candidate prose, projected context, retrieval, and specialist output never directly mutate Persona state.
 
 ## Working Packet
 
@@ -55,7 +59,7 @@ Before each pass, assemble an immutable packet containing only:
 
 - the story brief and source authority order;
 - current canon, inventions, decisions, chronology, and story state;
-- relevant character, aggregate-actor, relationship, knowledge, material, and causal state;
+- relevant character Persona revisions and delta ancestry, aggregate-actor, relationship, knowledge, material, and causal state;
 - the preceding accepted manuscript when drafting or revising;
 - the current pass contract;
 - unresolved contradictions and explicit operator decisions.
@@ -78,7 +82,7 @@ For each numbered pass:
 10. Before the full plot ladder freezes, draft one representative pressure sequence, one quiet ordinary-life scene, and one relationship rupture. Revise architecture from what the voices can actually carry.
 11. Revise before acceptance. Do not let a report merely promise that a later pass will repair a current blocker unless the defect genuinely belongs downstream.
 12. For every retained artifact, state what uncertainty it reduced and which decision it changed. Cut artifacts that only prove compliance.
-13. End with artifacts produced, decisions, contradictions, state delta, review adjudication, explicit operator review points, and next-pass inputs.
+13. End with artifacts produced, decisions, contradictions, accepted and rejected character deltas, derived Persona revisions, other state changes, review adjudication, explicit operator review points, and next-pass inputs.
 14. Commit and push the coherent checkpoint when policy requires it.
 
 ## Coordinator Judgment
@@ -95,7 +99,7 @@ For each numbered pass:
 
 ## Required Room Layout
 
-Create the authoritative state files specified in State Contracts. Create numbered pass folders containing specialist proposals, rejected alternatives, counterfactuals, review reports, and a pass report. Keep canonical manuscript movements separate until unified revision. Keep simulation or design seams separate from story canon.
+Create the authoritative state files specified in [[State Contracts]] and apply the ownership rules in [[Character Persistence]]. Store each character's baseline Persona and append-only branch-aware deltas separately from generated cross-character views. Create numbered pass folders containing specialist proposals, rejected alternatives, counterfactuals, review reports, and a pass report. Keep canonical manuscript movements separate until unified revision. Keep simulation or design seams separate from story canon.
 
 For post-draft council revision, use [[Revision Council Master Prompt]], [[Revision Council Passes]], and [[Revision Writing Agents]]. Preserve raw diagnoses, immutable writing packets, candidate prose, grounding notes, coordinator adjudication, and integrated manuscript versions separately.
 
@@ -105,7 +109,7 @@ The work is complete only when:
 
 - all locked story promises are paid or intentionally revised with operator approval;
 - the manuscript passes continuity, causality, agency, prose, and blind-reader review;
-- character and aggregate state reconcile with the ending;
+- every character's accepted delta stream replays from baseline to an endpoint Persona that reconciles with the ending, and aggregate state also reconciles;
 - the final prose is promoted and indexed;
 - planning artifacts remain inspectable;
 - discovered setting or design insights are listed as candidates rather than silently promoted to canon;

@@ -12,9 +12,9 @@ Define story promise, chronology, region, moral and technological boundaries, so
 
 **Gate:** Genuine forks are resolved or surfaced. No story-critical `or` ambiguity survives as accidental indecision.
 
-## Pass 2: Cast And Social Body
+## Pass 2: Cast, Persona Baselines, And Social Body
 
-Build named characters, collectives, support labor, dependants, institutions, victims, and recurring opponents. Record competence, authority, desire, concealed want, belief, misconception, embodiment, dependency, risk tolerance, loyalty, resentment, refusal threshold, and credible exit. Define a smaller POV roster.
+Build named characters, collectives, support labor, dependants, institutions, victims, and recurring opponents. Record competence, authority, desire, concealed want, belief, misconception, embodiment, dependency, risk tolerance, loyalty, resentment, refusal threshold, and credible exit. Define a smaller POV roster. Establish a baseline Persona revision for each principal character and for support characters whose private continuity materially affects causality. Keep world truth and aggregate state outside Persona.
 
 **Gate:** Every authority has an owner and challenge boundary. No character exists solely to represent an ideology or deliver a skill on demand.
 
@@ -46,7 +46,7 @@ Select the campaign or plot sequence. Each unit follows an appropriate causal ar
 
 ## Pass 7: Character Causality Replay
 
-Replay selected events across every named character and aggregate actor. Track location, knowledge, belief, goal, available action, load, condition, stake, relationship state, and residue. Mark most sideband beats latent.
+Replay selected events across every named character and aggregate actor. For each materially affected character, record an append-only scene delta against an explicit parent Persona revision, then derive the next revision after coordinator acceptance. Track observation, interpretation, knowledge, belief, goal, available action, load, condition, stake, directional relationship state, memory activation or retirement, and residue. Mark most sideband beats latent. Aggregate actors remain in their own state unless the story requires individuation.
 
 **Gate:** Each major event offers materially different actions to multiple people. Knowledge does not leak. Support labor and distant actors retain agency.
 
@@ -60,13 +60,13 @@ Reader-facing limits for each major sequence are one primary dispute, at most on
 
 ## Pass 9: Scene Engineering
 
-Produce scene cards only at the resolution justified by unresolved risk. High-risk scenes may track POV, objective, conflict, knowledge boundary, entrance state, exit delta, sensory conditions, comedy or tension mechanism, thematic work, and setup/payoff obligations. Straightforward scenes may use a one-line chapter beat. A scene does not deserve to exist merely because two ledger dimensions change.
+Produce scene cards only at the resolution justified by unresolved risk. High-risk scenes may track POV, objective, conflict, knowledge boundary, entrance Persona revision, scene-local world state, expected character-delta surfaces, sensory conditions, comedy or tension mechanism, thematic work, and setup/payoff obligations. Straightforward scenes may use a one-line chapter beat. A scene does not deserve to exist merely because two state dimensions change.
 
 **Gate:** Scene cards describe decisions and pressure, not prose sentences waiting to be expanded. Remove scenes whose work is fully duplicated. Record what uncertainty each detailed card resolves; do not automatically build a card for every scene.
 
 ## Passes 10-12: Draft Movements
 
-Draft emotionally complete movements in the coordinator's unified voice. Update state for discoveries. Append seams separately. After each movement, run four skeptical reviews and one blind manuscript-only first read.
+Draft emotionally complete movements in the coordinator's unified voice. Project each acting character from the accepted Persona revision plus bounded scene state. Treat drafted action as an event proposal; appraise its effects per affected character and accept, repair, reject, or defer the resulting deltas before advancing revisions. Update accepted state for discoveries and append seams separately. After each movement, run four skeptical reviews and one blind manuscript-only first read.
 
 **Gate:** Review revisions occur before acceptance. Word count is measured, never used as the sole reason to add prose.
 
@@ -74,12 +74,12 @@ At least one movement receives a cold read after a real pause rather than in the
 
 ## Pass 13: Adversarial Revision
 
-Review the complete manuscript for continuity, causality, character agency, social consequence, audience experience, pacing, comedy, and voice. Run a hostile premise audit and a blind opening/continuation audit. Perform one coordinator-owned rewrite.
+Review the complete manuscript for continuity, causality, character agency, social consequence, audience experience, pacing, comedy, and voice. Replay every character delta from its baseline, invalidate stale descendants after material rewrites, and reconcile endpoint Personas against the prose. Run a hostile premise audit and a blind opening/continuation audit. Perform one coordinator-owned rewrite.
 
 **Gate:** Reports test the manuscript, not whether manuscript and plan agree. Any disagreement between a good scene and stale planning is adjudicated rather than automatically resolved in favor of planning.
 
 ## Pass 14: Promotion And Process Delta
 
-Verify headings, links, chronology, final state, formatting, packaging, and publication surfaces. Promote the manuscript and update indexes. Record separately reviewable lore or design candidates. Write a compact post-run process delta.
+Verify headings, links, chronology, final Persona revisions, delta ancestry, formatting, packaging, and publication surfaces. Promote the manuscript and update indexes. Seal endpoint Persona snapshots as story-local state, record separately reviewable lore or design candidates, and write a compact post-run process delta.
 
 **Gate:** The promoted artifact is mechanically identical to the accepted manuscript. A first reader can reach and read it without the planning room.

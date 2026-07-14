@@ -41,6 +41,10 @@ When relevant, treat gear, medicine, cognition, architecture, doctrine, and prof
 
 For each required person or collective, provide role, contradiction, competence, desire, refusal threshold, and relationship to the premise. Identify who may receive POV and who must remain outside it.
 
+### Character Persistence
+
+Name the principal characters who require baseline Personas and per-scene delta histories. Identify support characters whose private continuity materially affects causality, and characters or collectives adequately represented by aggregate state. Note any branch structure, reverse chronology, memory distortion, concealed identity, plural mind, or unusual embodiment that changes how character-local state must be projected or replayed.
+
 ## Social Body
 
 Name the workers, dependants, victims, institutions, markets, communities, and distant decision-makers whose choices or exposure matter. State which may remain aggregate actors.

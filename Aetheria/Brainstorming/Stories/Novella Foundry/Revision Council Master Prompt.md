@@ -26,13 +26,13 @@ Diagnostic editors never modify prose. Writing agents produce bounded candidate 
 - `MANUSCRIPT`: the complete accepted draft.
 - `STORY_BRIEF`: promise, audience, tone, ending, and non-negotiable artistic commitments.
 - `SOURCE_AUTHORITY`: canon sources and invention boundaries.
-- `SIDEBAND_INDEX`: authoritative character, aggregate, relationship, knowledge, chronology, material, causal, POV, and continuity state.
+- `SIDEBAND_INDEX`: accepted character Persona revisions and delta ranges plus authoritative aggregate, chronology, material, causal, POV, and continuity state. Generated character, relationship, and knowledge views are inspection surfaces, not mutation authorities.
 - `REVISION_BRIEF`: operator goals, known concerns, protected strengths, desired scope, and publication constraints.
 - `ROOM_PATH`: revision artifacts and candidate prose destination.
 - `CANONICAL_PATH`: sole manuscript promoted by the coordinator.
 - `VERSION_CONTROL_POLICY`: checkpoint and publication rules.
 
-If no usable sideband state exists, create the minimum continuity, character, chronology, authority, and setup ledger needed to revise safely. Do not manufacture a full generative story room after the fact.
+If no usable sideband state exists, create the minimum continuity, baseline Persona, chronology, authority, and setup state needed to revise safely. Record subsequent character changes as coordinator-accepted deltas rather than manufacturing a full generative story room after the fact.
 
 ## Governing Principles
 
@@ -87,7 +87,8 @@ Writing agents may not:
 
 Every writing packet contains a bounded sideband dossier assembled from authoritative files:
 
-- POV character state and voice profile;
+- exact POV character Persona revision and relevant accepted delta range;
+- projected voice, knowledge, belief, active memory, relationship, and pressure surfaces derived from that revision;
 - location, time, physical condition, and current knowledge;
 - goals, false beliefs, available actions, refusal and authority boundaries;
 - relationship state and residue entering the scene;
@@ -98,7 +99,7 @@ Every writing packet contains a bounded sideband dossier assembled from authorit
 - protected lines, images, jokes, ambiguities, and cultural boundaries;
 - adjacent accepted prose and transition requirements.
 
-The dossier uses exact links or source references. Writers return a grounding note naming the constraints they used, any contradiction found, and every proposed state delta. Grounding notes remain outside prose.
+The dossier uses exact links or source references. Writers return a grounding note naming the constraints they used, any contradiction found, and every proposed character delta with its parent Persona revision and supporting prose beat. Grounding notes remain outside prose. Proposed deltas have no effect until coordinator adjudication.
 
 ## Revision Workflow
 
@@ -130,7 +131,7 @@ The accepted adjudication, not the synthesis alone and not any single specialist
 
 ### Phase 3: Structural Candidate Draft
 
-Assign chapter stewards sequentially by movement or tightly linked chapter group. They perform revision from the accepted proposal adjudication and sideband dossiers. Integrate accepted candidates before preparing a dependent steward's next packet. Reconcile chronology, state, setup, and transitions after each group.
+Assign chapter stewards sequentially by movement or tightly linked chapter group. They perform revision from the accepted proposal adjudication and sideband dossiers. Integrate accepted candidates before preparing a dependent steward's next packet. After each group, adjudicate proposed character deltas, replay dependent Persona revisions, and reconcile chronology, setup, and transitions.
 
 ### Phase 4: Character, Culture, And Subtext Revision
 
@@ -138,7 +139,7 @@ Issue focused change briefs only where the structural draft survives. Chapter st
 
 ### Phase 5: Continuity Repair
 
-Run the systems editor against the integrated structural manuscript and sideband state. Chapter stewards apply substantial accepted continuity repairs in their spans; a continuity repair writer may handle an isolated patch. Update sideband state only when the coordinator accepts an intentional story change.
+Run the systems editor against the integrated structural manuscript and sideband state. Chapter stewards apply substantial accepted continuity repairs in their spans; a continuity repair writer may handle an isolated patch. Intentional character changes advance only through coordinator-accepted deltas; world and material state update through their existing owners.
 
 ### Phase 6: Prose And Dialogue Revision
 
@@ -156,7 +157,7 @@ Separately, a fresh manuscript-only reader who has not seen the baseline, brief,
 
 ### Phase 9: Final Integration And Promotion
 
-Perform a unified coordinator pass for voice, transitions, causality, and formatting. Reconcile sideband final state. Run the complete systems and continuity verification checklist against the actual promotion candidate after all final edits. This is verification, not another creative revision round. Compare the promoted artifact mechanically with the accepted manuscript and preserve revision evidence.
+Perform a unified coordinator pass for voice, transitions, causality, and formatting. Replay character deltas from each baseline and seal endpoint Persona revisions; reconcile the remaining sideband final state. Run the complete systems and continuity verification checklist against the actual promotion candidate after all final edits. This is verification, not another creative revision round. Compare the promoted artifact mechanically with the accepted manuscript and preserve revision evidence.
 
 ## Coordinator Integration Contract
 
@@ -167,7 +168,7 @@ For every candidate span:
 3. Identify language worth preserving from both source and candidate.
 4. Reject local improvements that damage movement rhythm or neighboring causality.
 5. Integrate in the coordinator's voice; do not paste incompatible alternatives together.
-6. Record accepted cuts, additions, moved material, state deltas, and protected material retained.
+6. Record accepted cuts, additions, moved material, character deltas with parent revisions and dispositions, other state changes, and protected material retained.
 7. Re-read the integrated chapter without the brief and ask whether it works as prose.
 
 ## Completion
