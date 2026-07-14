@@ -6,7 +6,7 @@
 - **Target length:** 45,000–60,000 words
 - **Genre and tone:** Political mecha thriller, institutional science fiction, found-family escape story; tense, intimate, technically grounded, and intermittently very funny about the administrative measurement of love
 - **Audience:** Adult science-fiction readers; accessible without prior Aetheria knowledge
-- **POV and tense:** Alternating historical and present-day close third, past tense. Chapters move between the original Fivefold and Meridian's current household, with matched situations exposing how the facility reduced remembered people into reproducible roles. AFTER remains outside direct POV unless later architecture proves that withholding it damages rather than protects the story.
+- **POV and tense:** Historical and present-day close third, past tense. The present line moves forward. The Calyx line begins at Harrowglass and moves backward through the Unseating to first Concordance, stripping institutional roles from the original Fivefold as it approaches the people beneath them. The lines meet at the current household's first hidden Concordance; the historical strand ends there and the present continues alone. AFTER remains outside direct POV unless later architecture proves that withholding it damages rather than protects the story.
 - **Setting:** Deep post-Elysium, approximately a century after the first successful [[Worldbuilding/Post-Elysium/Factions/Daedal Houses|Concord Figure]]
 - **Status:** Active story room. Historical events, institutions, characters, and names introduced here are story-local inventions until promoted into worldbuilding canon.
 
@@ -191,6 +191,8 @@ The first real Concord begins when an attachment panel turns red.
 
 ## Reveal Ladder
 
+This ladder tracks what the present household and reader become able to understand, not the chronological order of the Calyx chapters. The backward historical line supplies each piece from the consequence side while the teenagers approach it through investigation and experiment.
+
 1. **Benign anomaly:** An actuator believed isolated catches Iri during a training accident.
 2. **Private address:** A maintenance surface asks Senn whether it may answer where staff can hear.
 3. **A prior household:** Lio discovers that her anomaly report preceded the reassignment and disappearance of another promising group.
@@ -206,26 +208,33 @@ The first real Concord begins when an attachment panel turns red.
 
 ## Parallel Structure
 
-The novella alternates chapters between the original Fivefold and Meridian's present household. The historical line advances from separate researchers, through first Concordance and the Unseating, toward voluntary disassembly. The present line advances from manufactured household unity, through deliberate failure and recovered history, toward freely chosen assembly and escape.
+The novella begins as two opposed movements through the same institutional history. Meridian's present household advances from manufactured unity through deliberate failure and recovered evidence toward its first concealed assembly. The Calyx line moves backward from voluntary disassembly, through the political burden of the Unseating, toward the original researchers' first assembly.
 
-Adjacent chapters should share a concrete situation, image, or relational problem without delivering the same answer. Likely pairings include:
+The historical line begins with the Fivefold close to the shapes later institutions remember: Mara as crown, Sol as dissenter, Eda as political bridge, Tern as interpreter, and Ysra as caretaker. Each backward step restores the pressures, mistakes, reversals, and acquired competencies that those roles flatten into personality. The reader encounters the official functions first because Meridian's wards encounter the past through those functions. History then surrenders the people it converted into doctrine.
+
+The two lines converge at first Concordance. In the oldest historical chapter, an expected order becomes a request and five researchers discover that shared embodiment requires transferable authority, legible boundaries, and local refusal. In the adjacent present chapter, the teenagers recover the same missing architecture and sustain their first hidden nested embodiment. Meridian has reproduced the mature roles while suppressing the constitutional mechanism that allowed those roles to remain temporary.
+
+The Calyx line ends at that convergence. Movement III belongs entirely to the present household. The five have learned what the past can give them and must now act inside what it left behind: Vey's childhood, the deterrence crisis, the fear of unelected guardianship, Calyx's weaponized reputation, and Meridian's attempt to turn a federated body into governable military property. The disappearance of historical chapters should feel like structural release. The teenagers continue without alternating permission from their predecessors.
+
+The whole novella should preserve concrete correspondences between the two periods without requiring every echo to occupy adjacent chapters. During the braided movements, adjacency can sharpen a shared situation, image, or relational problem; after convergence, present action may answer an earlier historical scene from memory. The table records thematic correspondences rather than final chapter order:
 
 | Original Fivefold | Meridian Household |
 | --- | --- |
-| Mara Arada receives crown authority because everyone else is overloaded and immediately asks how to give it back. | Senn Arada is praised for retaining authority through a rehearsal and quietly punished when she tries to delegate it. |
-| Sol Pell stops a transformation because a sponsor's maneuver would kill dockworkers. | Omi Pell is trained to make objections precise enough for Senn to absorb without changing command ownership. |
+| The Fivefold reaches peak Concordance while choosing to come apart at Harrowglass; history records relational failure. | The opening rehearsal stops when one component refuses to become an arm; Meridian records attachment failure. |
 | Eda Vask conceals an unauthorized intervention from sponsors because she wants Calyx free to act. | Lio Vask reports AFTER because she believes institutional recognition is the only path to the machine's safety. |
+| Sol Pell stops a transformation because a sponsor's maneuver would kill dockworkers. | Omi Pell is trained to make objections precise enough for Senn to absorb without changing command ownership. |
 | Tern Rusk forces the team toward one sensor account and nearly breaks shared perception. | Tem Rusk preserves contradictory accounts and is classified as unreliable despite producing the group's clearest navigation. |
 | Ysra Sable dismisses maintenance labor as support work, then discovers that repair and rescue define the team's actual obligations. | Iri Sable offers practical care freely but refuses Meridian's demand that care prove emotional compliance. |
+| Mara Arada receives crown authority because everyone else is overloaded and immediately asks how to give it back. | Senn Arada is praised for retaining authority through a rehearsal and quietly punished when she tries to delegate it. |
 | The Fivefold first assembles when an expected order becomes a request. | Meridian's household first assembles when an expected yes remains a respected no. |
-| Calyx intervenes against a regime and discovers that departure can abandon the people it freed. | The escaping Concord turns back for Meridian workers without returning itself to custody. |
-| The Fivefold reaches peak Concordance while choosing to come apart. | The present five reach full Concordance while choosing to leave together. |
 
-The correspondence should feel uncanny before the reader understands its cause. Meridian has chosen environments, crises, roles, and even names to reproduce the archived relationship. The historical chapters then expose the distortion: the original researchers repeatedly violated the traits later assigned to them. Present-day echoes become most exact when the teenagers stop obeying their roles.
+The correspondence should feel uncanny before the reader understands its cause. Meridian has chosen environments, crises, roles, and even names to reproduce the archived relationship. Moving backward exposes the distortion: the original researchers acquired, abandoned, exchanged, and repeatedly violated the traits later assigned to them. Present-day echoes become most exact when the teenagers stop obeying their roles.
 
-Chapter titles may repeat in altered form across timelines. Repeated gestures, diagnostic phrases, transformation positions, maintenance tasks, and arguments should acquire different meanings rather than merely signaling clever symmetry. The structure exists to compare agency under similar pressure, not to claim that history mechanically repeats.
+After convergence, Movement III may recall rather than reenact the historical strand. The escaping Concord's return for Meridian workers answers Calyx's discovery that departure can abandon the people it freed. Full Concordance while leaving together answers peak Concordance while coming apart. These echoes arrive through remembered evidence, AFTER's bounded recognition, repeated gestures, and the teenagers' choices rather than renewed Fivefold POV.
 
-AFTER is the only living participant in both lines. It recognizes recurrence but must not treat the teenagers as replacements or steer them toward reenactment. One of its most important lines should be a refusal of that premise: it remembers Mara Arada and knows Senn is not her.
+Chapter titles may repeat in altered form across timelines until first Concordance. Movement III then adopts an exclusively present-day title sequence. Repeated gestures, diagnostic phrases, transformation positions, maintenance tasks, and arguments should acquire different meanings rather than merely signaling clever symmetry. The structure exists to compare agency under similar pressure, not to claim that history mechanically repeats.
+
+AFTER is the only living participant in both lines. In reverse history it recedes from the coherent presence at Harrowglass toward the first shared embodiment from which it will emerge; in the present it develops from protective reflex toward recognized personhood. It recognizes recurrence but must not treat the teenagers as replacements or steer them toward reenactment. One of its most important lines should be a refusal of that premise: it remembers Mara Arada and knows Senn is not her.
 
 ## Narrative Architecture
 
@@ -234,6 +243,8 @@ AFTER is the only living participant in both lines. It recognizes recurrence but
 The opening transformation rehearsal reaches eighty-two percent. There is no explosion. One component simply refuses to become an arm. Meridian treats the failure as an attachment problem and schedules a guided household review.
 
 Daily life establishes care as procedure: excellent food, bodykeeping, training, monitored privacy, conflict prompts, maintenance work, medication, education, and the quiet threat of reassignment. The five are told they are Meridian's most promising household. They know enough institutional language to understand that this is both praise and exposure. The historical chapters initially make the shared surnames and eerily similar conflicts look like thematic parallel rather than experimental design.
+
+The Calyx strand opens at Harrowglass with the Fivefold's final public disassembly. Official history supplies the apparent reading: mature functional roles fractured under distrust and destroyed the machine they could no longer govern. The backward chapters move from that remembered ending into the constitutional crises, interventions, and institutional bargains that made those roles appear natural.
 
 Iri's training chassis catches her through an actuator that should be safed. Senn investigates to protect the household from a dangerous unknown. The inciting exchange arrives through a calibration surface:
 
@@ -247,13 +258,17 @@ The five establish a protocol with AFTER and one another. Every covert experimen
 
 They feed the facility plausible partial improvement while secretly learning crown transfer, reversible transformation, and the sensory grammar of nested embodiment. Intimacy grows through work: exchanging maintenance burdens, protecting contradictory memories, changing plans after refusal, noticing pain without claiming it, and allowing another person to remain angry after a practical problem is solved.
 
-At midpoint they sustain a few seconds of hidden nested embodiment in cold hardware. It is quiet and physically overwhelming. Each remains locally present while briefly feeling the posture of a larger body that does not belong to any one of them.
+As the present household reconstructs crown transfer and local refusal, the historical strand reaches the failed command architecture that preceded Calyx. Sol's refusal protocol, Mara's need to relinquish authority, and the researchers' decision to enter their own components recover the mechanism beneath Meridian's personality model.
+
+At midpoint both lines reach first Concordance. The original Fivefold assembles when an expected order becomes a request. The teenagers sustain a few seconds of hidden nested embodiment in cold hardware by applying the same constitutional discovery. It is quiet and physically overwhelming. Each remains locally present while briefly feeling the posture of a larger body that does not belong to any one of them. The historical strand ends.
 
 The success arrives beside the threat. The next live exercise will activate armed drives and the recovered Calyx transformation lattice. AFTER is scheduled for a destructive wipe immediately afterward. One or more pilots will be reassigned if the household again fails to meet threshold.
 
 Lio's old report and the prior-household ledger fracture the group. Her action had consequences she did not know, and ignorance does not make those consequences vanish. Vey offers his bargain and shows them the invasion forecasts. The five do not resolve every betrayal or agree on the politics of deterrence. They agree on one bounded proposition: tomorrow, nobody will be erased or reassigned.
 
 ### Movement III: The Exercise
+
+The present line now proceeds without historical alternation. Calyx remains as inherited political reality rather than a parallel cast available to explain or authorize the teenagers' choices.
 
 The live exercise simulates seizure of an orbital shipyard. Meridian expects a controlled partial assembly followed by remote separation. Security craft, yard crews, observers, and external sponsors are present. The five reproduce their familiar failure while AFTER conceals the buried transformation path beneath noisy telemetry.
 
