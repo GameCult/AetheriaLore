@@ -1,72 +1,35 @@
 *"Civilization survives when someone is finally willing to administer it."*
 
-[[Sol Dominion]] is the late imperial synthesis of the solar age: a state-corporate bloc built from extraction bureaucracy, machine governance, hereditary optimization, and long-range escape planning. It did not appear until the late timeline because it could only emerge once enough elites concluded that ordinary corporate pluralism had become too unstable to preserve their civilization.
+[[Sol Dominion]] is a state-corporate bloc built to make late Sol's infrastructure, permissions, and strategic planning answer to one administrative order. It emerged between 2728 and 2740 amid resource contraction, insurgency, proliferating personhood, and corporate systems whose local decisions broke one another.
 
-The Dominion is what happens when crisis management becomes a theory of human destiny. It is one of the setting's clearest answers to the question of how late Sol tried to save itself, and one of the clearest reasons that salvation became intolerable.
+The Dominion's answer was integration. A power forecast could alter transport schedules; transport priority could alter work and housing access; a security classification could follow the same person through each system. This coordination kept services running across crises that fragmented institutions handled badly. It also made an error or hostile classification portable.
 
-### Historical Lineage
+## Administrative Synthesis
 
-The Dominion assembled between 2728 and 2740 from the most control-oriented and institutionally mature parts of the solar order. [[SolEx]] brought extraction, logistics, and audit habit. [[CogniSys]] brought predictive governance. [[GeneSys]] brought a hereditary ruling anthropology. [[Rossum & Douglas]] brought stabilization and risk-managed reliability. [[Quantum Dynamics]] brought a frontier horizon grand enough to justify all the rest.
+Four contributors defined the Dominion during the [[Identity Abyss]]. [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/SolEx|SolEx]] supplied extraction, logistics, and audit practice. [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/CogniSys|CogniSys]] supplied machine-assisted governance and prediction. [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/GeneSys|GeneSys]] supplied inherited hierarchy through biological optimization and family advantage. [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Quantum Dynamics|Quantum Dynamics]] supplied the escape ambition that made long-horizon propulsion research a civilizational project.
 
-The merger was framed publicly as a stability pact. In reality it was an elite answer to plural personhood, resource contraction, and proliferating insurgency. Too many subjects were now speaking back: uploads, uplifts, mutual-aid federations, rogue AGI cultures, baseline populists, and frontier autonomists. Dominion ideology formed around the conviction that this complexity itself was the disease.
+The Dominion did not invent these technologies or erase the firms that owned them. It joined their outputs through shared records, planning priorities, and permissions recognized across participating institutions. [[NiteLife Energy]] backed the synthesis materially, while the [[Pan-Solar Consortium]] tolerated it strategically.
 
-### Political Doctrine
+[[Zhestokost]] defended the synthesis through military alignment without becoming a constituent duplicate. The two retained different doctrines: Zhestokost organized society as permanent mobilization, while the Dominion organized it as administration.
 
-The Dominion believes society should be legible, ranked, and steerable. Governance is not meant to be participatory. It is meant to be competently administered by enhanced elites, AGI-assisted institutions, and strategic planners capable of thinking on civilizational timescales.
+## Order as a Service
 
-This does not mean the regime rejects markets, sensation, or private life entirely. It subordinates them. Commerce should serve system continuity. Family should reproduce competent strata. Science should be bold but supervised. Personhood may expand, but only under categories the state can absorb. In this view, liberty is not a foundation but a variable that can be raised or lowered according to systemic need.
+Dominion power operates through schedules, credentials, classifications, and service priority. It coordinates energy, freight, repairs, transit, housing allocation, research access, emergency response, and strategic procurement. Not every private act requires a permit, and its forecasts are neither complete nor infallible. Its advantage is that offices throughout the core accept enough of the same records for one decision to have consequences elsewhere.
 
-### Territory and Everyday Life
+The ordinary labor belongs to schedulers, auditors, clerks, infrastructure technicians, model reviewers, transit workers, clinic administrators, and appeals staff. Their work prevents real harm. Parts arrive before failure. Power is shifted around a damaged array. A clinic prepares for a shortage. A transit corridor closes before an unsafe load arrives.
 
-Dominion territory centers on Earth arcologies, Luna command hubs, Mercury arrays, and the more formalized parts of the inner-system administrative core. Daily life there feels efficient, stratified, and quietly suffocating. Services work. Streets are clean. Infrastructure rarely fails without warning. But every comfort is tied to ranking, credential, and observability.
+That competence gives the Dominion material legitimacy. Inner-system residents can expect clean water, working transit, planned repairs, and warnings that usually correspond to something real. The bargain turns coercive when access to those goods depends on remaining legible to records that travel farther than any individual explanation.
 
-People experience the regime through permissions. Housing quality, schooling track, reproductive license, research access, travel clearance, neural bandwidth, and even acceptable emotional profiles are all mediated through institutional scorekeeping. Citizens are not expected to adore the Dominion in the theatrical sense. They are expected to recognize it as the adult in the room.
+A transit scheduler on Earth is flagged after approving an emergency route that a later audit associates with contraband movement. Her pay continues while review proceeds, but her operational clearance is suspended. The suspension makes her ineligible for housing tied to the transit district. Moving would sever the clinic route used by her father, whose care authorization remains valid only at its assigned site. Her partner can request household co-location, but that appeal reads the unresolved security flag from the same record. No office has ordered the family punished. Each office has accepted another office's prudent classification.
 
-For elites and upper technical strata, Dominion life can be luxurious in a severe, curated way. For baseline laborers, migrants, and politically suspect populations, it is an endless corridor of audits, documentation, and behavioral evaluation.
+Senior administrators and trusted technical workers can contest such cascades through professional networks and durable credentials. Lower-status workers, migrants, and politically suspect residents face slower appeals and fewer alternative institutions. Dominion class is therefore visible in how long a person can survive an administrative interruption without losing the rest of their life around it.
 
-### Economy and Institutions
+## Consolidation and Escape
 
-The Dominion's economy is a consolidation machine. It coordinates extraction, compute, medical hierarchy, predictive policing, and frontier R&D through overlapping institutional layers. The goal is not maximum immediate profit but durable command over the conditions under which profit, labor, and future expansion remain possible.
+Dominion territory is concentrated in the Earth arcologies, major Luna command infrastructure, Mercury arrays, and formal inner-system administrative corridors described in [[Worldbuilding/Pre-Elysium/Territories|Territories]]. The [[Urban Sovereignty War]] made Earth its political core by replacing fragmented municipal and corporate rule with coordinated infrastructure leverage, predictive policing, coalition-building, and force.
 
-Its central organs include:
+The [[Mercury Array Crisis]] extended that authority. Dominion institutions stabilized a failure in solar-power forecasting faster than rival powers could exploit it, then retained leverage because energy schedules had become inseparable from trade, military readiness, and research. The success proved the value of integration without proving the forecasts themselves perfect.
 
-- the Civil Continuity Secretariat
-- the Dominion Core Stack and other [[CogniSys]] governance complexes
-- hereditary optimization ministries drawing on [[GeneSys]]
-- industrial planning arms inherited from [[SolEx]]
-- strategic risk and infrastructure boards influenced by [[Rossum & Douglas]]
-- long-horizon propulsion and FTL directorates centered on [[Quantum Dynamics]]
+The [[Arete Program Consolidation]] carried the same method into propulsion, cognition, materials, and nonlocal research. Programs owned by semi-rival institutions were drawn under common secrecy and priority because escape from Sol had become the Dominion's justification for demanding coordination at civilizational scale. The project promised survival. It also made delay, refusal, and competing research priorities easier to classify as threats to the species rather than disagreements about who controlled its future.
 
-Together they create perhaps the most complete state form the solar age ever produced, even if it still hides inside corporate legal grammar.
-
-### Helios Allotments
-
-`Helios` arrives as a universal civic allotment for food, housing modules, clinic time, transport windows, bandwidth, education, and reproductive consultation. The currency is real enough. Every use of it passes through clearance bands, licensure, and hereditary standing, so the same balance can open one life and barely sustain another.
-
-Upper strata convert Helios into long horizons because their permissions persist. Middle strata stack licensures and performance reviews into temporary security. Lower strata learn that the Dominion's sharpest scarcity is future tense: the right to imagine a future more than a quarter in advance. They may possess money for necessities and still never be authorized to touch the life held before them as exemplary. They hold numbers that can never purchase what they are not supposed to want.
-
-### A Life in the Dominion
-
-Dominion life begins before birth, with screening, optimization, and early sorting. Children enter educational tracks calibrated to genotype, family standing, and institutional usefulness. Adolescence is shaped by exams, behavioral profiling, and the dawning recognition that some doors will glide open forever while others were never built for you.
-
-Adulthood becomes a sequence of licensures: work band, housing band, intimacy band, reproductive band, movement band. Even success feels pre-approved. Elite households plan decades ahead, manage heirs, and purchase continuity. Lower households learn to treat small promotions as proof that the system is fair while watching one denial quietly redraw the rest of a life.
-
-Old age is equally stratified. Senior administrators are absorbed into mentorship, archive culture, or continuity programs. The less useful age into dignified neglect, then administrative disappearance. In Dominion space, a life feels less like a story than like a corridor of doors that either open silently or do not admit you at all.
-
-### Aesthetic and Cultural Cues
-
-Dominion aesthetics are imperial minimalism: black glass, white stone, solar gold, severe gardens, biometric gates, disciplined silence, and architecture designed to imply that history has already chosen its administrators. Fashion is elegant but coded by caste and office. Even leisure looks curated for seriousness.
-
-Its cultural ideal is not joy but competence. Citizens are taught to admire foresight, restraint, and lineage. The regime's propaganda does not usually scream. It reassures. It says that the chaos outside is real, the future is difficult, and adults with enough data are handling it.
-
-### Major Historical Events
-
-[[Urban Sovereignty War]] transformed Earth from a patchwork of hollow sovereignties into a Dominion-centered administrative core.
-
-The [[Mercury Array Crisis]] demonstrated how control over energy forecasting and solar infrastructure could become the backbone of geopolitical hierarchy.
-
-The [[Arete Program Consolidation]] made the FTL project the regime's ultimate civilizational wager and tied its legitimacy directly to the possibility of leaving Sol.
-
-### Role in the Late Timeline
-
-The Dominion matters because it is late Sol's most serious attempt to convert fear into order at full scale. It is not merely villainous theater. It is a plausible authoritarian answer to real collapse pressures, and that plausibility is what makes it dangerous.
+Sol Dominion is dangerous because its order works. It can coordinate systems that otherwise fail at their seams. Its claim to rule begins when that practical competence becomes evidence that no life, institution, or future should remain outside the shared record.

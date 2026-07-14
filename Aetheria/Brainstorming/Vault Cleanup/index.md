@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 11
+
+- `Cymata Systems.md` fell from 1,201 to about 643 words. It now owns cognition growth, voicing, fit review, records, and licensed lines while technology, hulls, deployment certification, downstream custody, and Nibu's uncertain provenance retain separate owners.
+- `Framgång.md` fell from 1,100 to about 672 words. Therapeutic aspiration, pilgrimage retail, and institutional alignment remain useful services whose commercial and administrative links turn distress into recurring work.
+- `Sol Dominion.md` fell from 1,097 to about 753 words. The four-contributor synthesis now coordinates infrastructure through shared records and permissions without Helios, invented ministries, omniscient prediction, or Zhestokost's mobilization doctrine.
+- Soul removed unsupported motives for Dominion's external relationships and rejected an invented Cymata worker-clearance regime. The final worker surface records the supported conflict between recognized self-claim and commercial drift.
+
 ### Wave 10
 
 - `Cryonix.md` fell from 1,331 to about 643 words. It now owns premium materials, clean fabrication, licensing, certification, bounded territory, and labor exposure without claiming the whole thermal economy.

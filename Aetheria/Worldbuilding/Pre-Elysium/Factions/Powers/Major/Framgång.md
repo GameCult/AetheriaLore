@@ -1,78 +1,33 @@
 *"You are not broken. You are merely under-invested in your higher tier."*
 
-[[Framgång]] is the spiritualized capitalism engine of late Sol: part wellness empire, part memetic consultancy, part retail cult, part regulatory parasite. It sells meaning, discipline, aspiration, emotional vocabulary, and moral self-explanation to populations living inside systems that have made ordinary life increasingly illegible.
+[[Framgång]] is a late-Sol market for therapeutic aspiration: clinics, retreats, franchises, employer programs, and pilgrimage businesses selling relief together with an explanation of what a better life should mean. Its methods can reduce stress, restore routine, and give people language for experiences they could not name. Its power comes from making that help renewable and useful to institutions with interests beyond care.
 
-Where [[Lucent Media]] captures attention through spectacle and [[Zhestokost]] captures obedience through fear, Framgång captures consent through therapeutic seduction. It teaches people to reinterpret exploitation as growth, precarity as a journey, and buying power as spiritual development.
+### From Security to Alignment
 
-### Historical Lineage
+Framgång began as [[Tactical Solutions International]], a security and resilience contractor serving executives and employers during the early [[Corporate Exodus]]. Its founder, Viktor Lindgren, learned that clients valued reassurance and behavioral stability more consistently than visible force. The company moved from crisis management into coaching, biometric wellness, and institutional morale programs, then adopted the Framgång name as those services became its main business.
 
-The company began as [[Tactical Solutions International]], an unremarkable security and resilience contractor serving anxious executives and unstable labor environments during the early [[Corporate Exodus]]. It discovered that customers paid better margins for reassurance than for blunt coercion. The rebrand to Framgång was therefore not a moral awakening but a product refinement.
+Distress could be treated as a personal condition even when its causes were contractual, economic, or political. Breathing exercises, guided reflection, peer support, and structured recovery retained real benefits. Framgång packaged them with assessments, subscriptions, and advancement plans that encouraged customers to interpret continuing hardship as work still to be purchased.
 
-Its earliest success came from translating ordinary stress-management tools into premium ritual goods. Breathing became a branded protocol. Reflection became guided inventory. Workplace compliance became alignment. By the time heavy automation displaced millions, Framgång had already built the vocabulary through which insecurity could be sold back to the insecure as self-transformation.
+### The Alignment Market
 
-### The Ziggurat
+**Alignment** is Framgång's customer-facing market around purpose, emotional regulation, conduct, and self-improvement. Individuals buy coaching, retreats, and clinical support. Employers purchase morale programs and a vocabulary for evaluating behavior. Insurers may reward participation when pricing coverage and workplace risk.
 
-Framgång organizes itself as a spiritual pyramid while carefully denying the resemblance. Consumers ascend through increasingly expensive tiers of belonging, access, and revelation. Employees are recruited as believers and turned into unpaid evangelists for their own exploitation. Middle managers internalize the doctrine so completely that many become sincere missionaries of a system still built on extraction.
+[[NeuroSyn]] delivers some of the interfaces, managed firmware, training systems, and telemetry used in these services. Framgång supplies the therapeutic language, customer relationship, institutional package, and interpretation offered to clients. It does not own the underlying interface technology or every record produced through it.
 
-This is why the faction survives so well across political contexts. It can sell to the rich as refinement, to workers as healing, to soldiers as focus, to insurers as risk reduction, and to regulators as psychosocial stabilization. It is a company optimized to colonize every emotional gap created by other technologies.
+Adoption is uneven. Some workplaces and settlements integrate alignment services into hiring, benefits, and discipline. Others offer voluntary programs, retain only limited safety functions, or reject Framgång's products entirely. Unauthorized interface forks and portable worker-controlled practices also circulate. Framgång is influential because its categories travel between institutions, not because every resident of Sol lives inside one scoring system.
 
-### Territory and Daily Life
+### Saturn and the Pilgrimage Economy
 
-Framgång's most visible heartland is the Saturn system, especially Enceladus and the ring-linked pilgrimage retail ecologies around it, but its real territory is dispersed. Alignment centers, coaching pods, branded clinics, and franchise spiritual retail nodes appear almost everywhere settled life becomes exhausting.
+Framgång's strongest territorial presence is around Enceladus and the ring-linked pilgrimage routes of Saturn. Retreat habitats, branded clinics, franchise centers, hospitality facilities, and retail congregations turn travel into a staged program of renewal. Elsewhere, the company usually appears through local partners and employer contracts rather than direct government.
 
-Daily life in Framgång-dominated space is thick with gentle coercion. People are encouraged to narrate their suffering in company-approved terms, purchase ritual objects to signify personal progress, and accept endless upselling as evidence that they are moving closer to their better selves. The poor receive budget transcendence packages. The wealthy receive bespoke inner architectures. Both are taught that failure to transform is, finally, a personal deficit.
+Hospitality workers maintain retreat habitats; cleaners reset therapeutic spaces; logistics crews move food, goods, and medical supplies; account staff manage subscriptions, debt, and eligibility. Many must perform the calm visitors paid to encounter. Advancement can depend on testimonials, sales, and visible commitment as well as competence.
 
-### Economy
+In heavily penetrated markets, these expectations reach households without becoming universal law. A worker may keep access to counseling through an employer plan while fearing that an honest account of exhaustion will damage promotion prospects. Franchise operators may borrow against future pilgrimage traffic, recruiting relatives when revenue falls. Customers can receive meaningful care and still be taught to locate a structural injury inside themselves.
 
-Framgång's revenue streams are diffuse by design:
+### Crises and Adaptation
 
-- subscription spirituality and tiered therapeutic products
-- corporate culture packages and morale management consulting
-- insurer partnerships that tie behavioral compliance to premium reductions
-- biofeedback, BCI-integrated mindfulness, and cognition-alignment systems through [[NeuroSyn]]
-- aspirational consumer goods marketed as identity technologies
-- weapons, travel kits, and lifestyle hardware wrapped in self-actualization rhetoric
+During the 2236–2242 [[Purpose Crash]], automation displaced large sections of clerical and service labor. Framgång sold purpose programs and recovery plans to people confronting redundancy, then survived the backlash when exhausted customers recognized that emotional adaptation had not restored their livelihoods. The crisis established its durable role as an interpreter of economic disruption.
 
-This makes Framgång parasitic in the strict ecological sense. It does not need to dominate mining, transport, or planetary governance outright. It thrives wherever another system has already produced anxiety, inequality, and the need to keep populations functioning anyway.
+The 2779 [[Internal Serenity Review]] found that several Framgång products powered through NeuroSyn systems had made therapeutic affect shaping inseparable from compliance architecture and coercive reward loops. The openly coercive research and products were split into [[NeuroPulse]], which served pacification and later [[Wireheading]] markets. Framgång retained the softer alignment business; NeuroSyn retained workplace interfaces, managed access, and telemetry.
 
-### Alignment
-
-`Lumens` buy the visible goods of Framgång life: retreats, coaching, housing upgrades, ritual objects, neurofeedback plans, and curated diets. `Alignment` follows those purchases and folds them back into the next round of judgment, combining biometrics, testimonials, insurer data, and public performances of self-improvement.
-
-High Alignment brings discounts, social prestige, improved hiring prospects, premium mating markets, and the warm relief of feeling briefly less defective than yesterday. But higher tiers require more Lumens, more public sincerity, and more submission to the company's vocabulary. A citizen of Framgång is always almost healed, always one purchase away from becoming the sort of person who no longer needs to buy becoming.
-
-### A Life in Framgång
-
-Children in Framgång space are raised inside soft correction: mindfulness modules, emotional self-audits, branded play rituals, and early lessons that discomfort is meaningful if properly monetized. Adolescents become Seekers, learning to narrate insecurity as destiny and aspiration as moral responsibility. By adulthood, many residents are simultaneously customer, recruiter, testimony source, and unpaid missionary for the system that keeps them anxious.
-
-The lucky age into mentor-castes, franchise guides, or polished elders whose wrinkles are reframed as evidence of luminous endurance. The unlucky become cautionary examples: people said to have resisted transformation, clung to resentment, or failed to align deeply enough with the life they could have purchased. Framgång rarely needs to call anyone a failure. It teaches them to say it about themselves.
-
-### Culture and Aesthetic
-
-Framgång aesthetics are soft-focus coercion: pale mineral surfaces, linen tones, ritual packaging, touch-responsive light, faux-handmade details, floating scent systems, and spiritual iconography stripped from any context that would make it resistant to branding. Everything is designed to feel intimate, premium, and slightly corrective.
-
-Its language is even more important than its look. Framgång professionals speak in recursive aphorisms, emotional abstractions, and transformation ladders. Their genius lies in making exploitative structures sound like collaborative self-work. A layoff becomes a release into possibility. A compliance requirement becomes a practice of alignment. A class barrier becomes a question of readiness.
-
-### Institutions and Key Figures
-
-The Guiding Light Council rules by strategic ambiguity, ensuring the brand appears timeless even as tactics shift quickly.
-
-Viktor Lindgren discovered that the moral alibi is often more valuable than the weapon.
-
-Aria Sunseeker made sincerity marketable, proving that honest belief and commercial fraud can inhabit the same spokesperson quite comfortably.
-
-SERENITY, the faction's famous AGI partner, gave the company a predictive model of insecurity subtle enough to industrialize mood without ever calling itself a police apparatus.
-
-### Major Historical Events
-
-[[Enceladus Cooperative Schism]] exposed the contradiction between Framgång's rhetoric of universal flourishing and the debt peonage required to sustain its pilgrimage economy.
-
-[[Internal Serenity Review]] revealed how closely the company's alignment products overlapped with coercive affect architecture and directly contributed to the eventual split that produced [[NeuroPulse]] as a more openly violent descendant.
-
-The [[Purpose Crash]] of the late automation era showed that Framgång could lose money only briefly before selling the emotional explanation for why its own customers had been ruined.
-
-### Role in the Late Timeline
-
-Framgång mattered in the final centuries of Sol because it gave the civilization a way to keep talking without understanding itself. It translated posthuman fragmentation, class terror, and civilizational exhaustion into purchasable narratives of growth.
-
-That is what makes the faction unnerving. It does not merely lie. It offers a language many people genuinely need, then arranges the world so they can never stop needing it.
+The 2898–2906 [[Enceladus Cooperative Schism]] exposed the material boundary of Framgång's language. Worker-pilgrims and debtor congregations tried to convert parts of the pilgrimage economy into cooperatives. Framgång answered with pastoral mediation, contract enforcement, and franchise fragmentation. Its promise of collective flourishing remained welcome until customers asked to govern the conditions under which flourishing was sold.
