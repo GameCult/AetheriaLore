@@ -63,6 +63,8 @@ These contrasts are essential. Meridian has not reconstructed the Fivefold. It h
 
 **Meridian House** is a real and prestigious Daedal residential academy with an attached trauma clinic for young people with rare somatic-envelope aptitude. It occupies a remote yard complex surrounded by controlled training volumes, medical infrastructure, fabrication halls, student housing, staff quarters, and a defensible exclusion zone. Its graduates enter House Fists, interface clinics, yards, rescue services, and military contracts across the region. The instruction is excellent, the credentials travel, and most students arrive voluntarily, graduate under their own names, and never encounter Project Kinship.
 
+Meridian is particularly proud of its orphan, refugee, and ward admissions. House foundations identify talented children in failed habitats, military evacuations, custody markets, and underfunded clinics, then offer full residence, augmentation care, and a path into one of the most prestigious professions in the 'Verse. Many of those students receive exactly what was promised and remain fiercely loyal to the school. The same pipeline also produces cadets whose guardian, creditor, clinician, landlord, certifying authority, and prospective employer may all be Meridian or institutions joined to it by contract.
+
 The concealed program is **Project Kinship**, funded by a compact of minor polities facing a credible expansionist threat. Their projections show an adversary rebuilding a fleet of advanced Figures and gaining control of regional shipyards faster than a conventional coalition can answer. Meridian's sponsors do not agree on much, but they agree that one controllable Concord would change the arithmetic.
 
 ### The Academy
