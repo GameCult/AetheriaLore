@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 10
+
+- `Cryonix.md` fell from 1,331 to about 643 words. It now owns premium materials, clean fabrication, licensing, certification, bounded territory, and labor exposure without claiming the whole thermal economy.
+- `Aeronautics Unlimited.md` fell from about 1,233 to 610 words. AU owns Bloom deployment, ramps, logistics, project claims, and failure allocation while Orbital Forge retains cavity standards and portable engineering.
+- `Finch Cybernetics.md` fell from about 1,233 to 771 words. Finch owns clinical integration, embodiment bridges, maintenance, and coverage; BCI, uploading, EternaMind, and Cryonix retain their separate seams.
+- Soul rejected unsupported claimshare equity, a VitaForge tissue-interface role, direct enforcement/ranking language, and editorial authority routing. The final cross-note test cleanly assigns a vessel fault among AU logistics, Cryonix materials, and Finch embodiment.
+
 ### Wave 9
 
 - `NeuroSyn.md` fell from 1,800 to about 592 words. Its live authority is industrial BCI service, work access, telemetry, and the transition from safety infrastructure to labor governance; Corvid society, BCI mechanics, and NeuroPulse weapons remain elsewhere.
