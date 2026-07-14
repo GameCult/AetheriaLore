@@ -1,19 +1,19 @@
 ---
 title: Aetheria
-description: "An open science-fiction setting where radically different genres share one causal world and stories leave consequences behind."
-socialDeck: "Almost any kind of story can happen here. The world remembers what it meant."
+description: "Galaxy-scale social experiment disguised as open science-fantasy: cockpit action, corporate logistics, alien civilizations, and stories that leave consequences behind."
+socialDeck: "Cockpits, spreadsheets, impossible genres, extinction on repeat."
 enableToc: false
 ---
 
 # Aetheria
 
-*"Almost any kind of story can happen here. The world remembers what it meant."*
+*"A civilization with every tool it could want and no reliable way to tell itself no."*
 
-Aetheria is an open science-fiction setting built to hold stories that should not fit together and make their coexistence materially true. Pre-Elysium black-magic hard SF can sit beside post-Elysium giant-mecha drama, Wavecrafter cultivation fiction full of sects and face-slapping, early-Elysium noir, Ratfolk first contact, cockpit action, and corporate logistics. The genres change because the world changes. The causal substrate does not: technology remains political, power remains material, and every impossible breakthrough becomes somebody's job, weapon, faith, debt, or maintenance problem.
+Aetheria is a galaxy of megacorporate frontier myth, post-collapse diaspora, ship customization, corporate cold war, and civilizations repeatedly discovering new ways to make impossible technology somebody else's problem. You can inhabit it from the cockpit or the spreadsheet, before or after physics develops new and deeply inconvenient opinions.
 
-Writers do not need custody of the whole setting to make something true inside it. A story can own its people, place, and immediate consequences while the wider world remembers what happened. The [[Lore/index|lore]], [[Fiction/index|fiction]], [[Game Design/index|design work]], and [writing process](https://github.com/GameCult/AetheriaLore) are open: bring the story you are hungry to tell, then make it materially belong.
+It is also an open setting built to let radically different stories become materially true in the same world: black-magic hard SF before Elysium, giant-mecha drama after it, Wavecrafter cultivation epics full of sects and face-slapping, noir investigations, Ratfolk first contact, corporate logistics, and whatever pressure point another writer finds next. The genres change because the world changes. The causal substrate does not: technologies have histories, institutions have incentives, and consequences survive the stories that create them.
 
-This page is the fast tour for people who want the pitch before the spiral.
+Writers do not need custody of the whole universe to make something true inside it. A story can own its people, place, and immediate consequences while the wider setting remembers what happened. The [[Lore/index|lore]], [[Fiction/index|fiction]], [[Game Design/index|design work]], and [writing process](https://github.com/GameCult/AetheriaLore) are open. This page is the fast tour for people who want the pitch before the spiral.
 
 <div class="aetheria-home-hero">
   <section class="aetheria-hero-panel">

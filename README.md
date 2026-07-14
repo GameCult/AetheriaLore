@@ -1,8 +1,8 @@
 # AetheriaLore
 
-Aetheria is an open science-fiction setting built to hold radically different kinds of stories without reducing them to crossover mush. Pre-Elysium black-magic hard SF, post-Elysium mecha drama, Wavecrafter cultivation epics, early-Elysium noir, alien first contact, cockpit action, and corporate logistics all share the same causal world: technologies have histories, institutions have incentives, and consequences survive the story that created them.
+Aetheria is a galaxy of megacorporate frontier myth, cockpit action, corporate logistics, alien civilizations, and humanity repeatedly discovering new ways to make impossible technology somebody else's problem. It is also an open setting built to hold radically different stories—from black-magic hard SF and noir to cultivation epics and giant mecha—inside one causal world where technologies have histories, institutions have incentives, and consequences survive the stories that create them.
 
-Writers can claim a place, an era, and a cast without asking custody of the whole universe. Contributions are authoritative where they live; the wider setting carries their consequences forward. The lore, fiction, design work, and writing process are open so other people can inspect the machinery, find an unoccupied pressure point, and tell the kind of story they came here to tell.
+Writers can claim a place, an era, and a cast without asking custody of the whole universe. Contributions are authoritative where they live; the wider setting carries their consequences forward. The lore, fiction, design work, and writing process are open for inspection, discussion, and contribution.
 
 `AetheriaLore` is the source vault for [aetheria.gamecult.org](https://aetheria.gamecult.org): lore, design notes, stories, and the sort of worldbuilding that thrives when nobody forces it into a CMS shaped like office software.
 
