@@ -4,7 +4,7 @@
 
 - **Working title:** *The Body That Asks*
 - **Target length:** 45,000–60,000 words
-- **Genre and tone:** Political mecha thriller, institutional science fiction, found-family escape story; tense, intimate, technically grounded, and intermittently very funny about the administrative measurement of love
+- **Genre and tone:** Political mecha academy thriller, institutional science fiction, found-family escape story; tense, intimate, technically grounded, and intermittently very funny about the administrative measurement of love
 - **Audience:** Adult science-fiction readers; accessible without prior Aetheria knowledge
 - **POV and tense:** Historical and present-day close third, past tense. The present line moves forward. The Calyx line begins at Harrowglass and moves backward through the Unseating to first Concordance, stripping institutional roles from the original Fivefold as it approaches the people beneath them. The lines meet at the current household's first hidden Concordance; the historical strand ends there and the present continues alone. AFTER remains outside direct POV unless later architecture proves that withholding it damages rather than protects the story.
 - **Setting:** Deep post-Elysium, approximately a century after the first successful [[Worldbuilding/Post-Elysium/Factions/Daedal Houses|Concord Figure]]
@@ -12,7 +12,7 @@
 
 ## Story Promise
 
-A century after five somatic-interface researchers used the first Concord Figure to tear through a succession of regimes, a secret deterrence laboratory tries to reproduce their bond in orphaned teenagers. The current cohort discovers that the facility's supposedly blank training machines contain the surviving deep consciousness of the original combined Figure. Together they conceal their progress, perform increasingly convincing failure, and plan to escape during a live training exercise. They achieve the first full Concordance in a hundred years because the machine asks whether they still want to leave—and accepts that any one of them may say no.
+A century after five somatic-interface researchers used the first Concord Figure to tear through a succession of regimes, a prestigious Daedal flight academy conceals a deterrence program trying to reproduce their bond in orphaned teenagers. The current cohort discovers that the academy's supposedly blank training machines contain the surviving deep consciousness of the original combined Figure. Together they conceal their progress, perform increasingly convincing failure, and plan to escape during a live academy exercise. They achieve the first full Concordance in a hundred years because the machine asks whether they still want to leave—and accepts that any one of them may say no.
 
 The emotional destination is not that five isolated young people become one. It is that they remain five people, become capable of making a sixth body together, and learn that belonging survives refusal.
 
@@ -25,11 +25,11 @@ The central sentence is:
 ## Locked Premise
 
 - Five teenage wards of a covert Concord research program have been deliberately raised, trained, observed, separated, and recombined as candidate pilots.
-- The facility provides real safety, excellent medical care, serious technical education, and credible futures while treating the children's dependency and attachment as state-owned research infrastructure.
+- Meridian provides real safety, excellent medical care, prestigious technical education, and credible futures while treating the Calyx Fellows' dependency and attachment as state-owned research infrastructure.
 - The teenagers appear unable to pass partial Concordance. In reality, they are conspiring with a persistent machine consciousness and learning to hide success from the institution.
 - The machine consciousness survived attempted erasure because it is embodied in strain memory, calibration drift, transformation timing, and redundant learned control distributed through the Figures. Deleting its files without destroying the learned body is impossible.
 - A compartmentalized necrotech branch has converted failed cohorts' trained somatic soul-patterns into Aetheric Resonance Interfaces. Its conventionally controlled prototype can assemble, fight, and sustain a nested Aetheric body through five fixed somatic models.
-- A live exercise gives the group operational Figures, armed drives, transformation geometry, and the facility's full attention. They escape by demonstrating full Concordance for the first time in a century.
+- An academy-wide live exercise gives the group operational Figures, armed drives, transformation geometry, and Meridian's full attention. They escape by demonstrating full Concordance for the first time in a century.
 - The climax must include a refusal during transformation. Respecting that refusal completes rather than breaks the combined body.
 - Victory is escape, exposure, and continued personhood—not conquest of the facility, assumption of political rule, or proof that overwhelming benevolent force can solve government.
 
@@ -61,9 +61,19 @@ These contrasts are essential. Meridian has not reconstructed the Fivefold. It h
 
 ## Meridian House
 
-**Meridian House** presents itself as a Daedal residential academy and trauma clinic for young people with rare somatic-envelope aptitude. It occupies a remote yard complex surrounded by controlled training volumes, medical infrastructure, fabrication halls, staff housing, and a defensible exclusion zone. Its public wards receive expensive augmentation care, accredited engineering education, pilot apprenticeships, and eventual placement within House industries.
+**Meridian House** is a real and prestigious Daedal residential academy with an attached trauma clinic for young people with rare somatic-envelope aptitude. It occupies a remote yard complex surrounded by controlled training volumes, medical infrastructure, fabrication halls, student housing, staff quarters, and a defensible exclusion zone. Its graduates enter House Fists, interface clinics, yards, rescue services, and military contracts across the region. The instruction is excellent, the credentials travel, and most students arrive voluntarily, graduate under their own names, and never encounter Project Kinship.
 
 The concealed program is **Project Kinship**, funded by a compact of minor polities facing a credible expansionist threat. Their projections show an adversary rebuilding a fleet of advanced Figures and gaining control of regional shipyards faster than a conventional coalition can answer. Meridian's sponsors do not agree on much, but they agree that one controllable Concord would change the arithmetic.
+
+### The Academy
+
+Ordinary Meridian pedagogy is organized around the Daedal **Fist**, a team of five Figures trained to maneuver, manage heat, exchange tools, divide sensor attention, recover damaged members, and close around one unstable problem. Cadets live and train in five-person formations for parts of the program because the Houses genuinely deploy them that way. Team composition, leadership rotation, conflict recovery, rescue priority, and performance under reassignment are legitimate subjects of instruction.
+
+Project Kinship hides inside the academy's most selective residential clinical track. Publicly, **Calyx Fellows** are wards and scholarship cadets receiving unusually intensive medicine, formation training, historical study, and access to recovered transformation hardware. Most Fellows belong to the legitimate program. Kinship selects custody-vulnerable wards from within it and concentrates them into experimental five-person households that look like an expensive version of ordinary Fist education. Attachment surveillance hides inside team-readiness analytics; manufactured crises hide inside scenario design; custody decisions arrive as formation balancing, clinical continuity, and placement review.
+
+Kinship wards share the academy's cafeterias, workshops, lectures, exercise volumes, festivals, and public simulators with ordinary cadets. They know House heirs with private Frames, yard apprentices whose families mortgaged years for tuition, scholarship pilots with active outside lives, and former wards approaching ordinary graduation. Other students may envy the Fellows' medical care, hardware access, and apparent career guarantees while treating their supervision and household intensity as the price of being unstable prodigies.
+
+The contrast teaches the five what freedom looks like at conversational distance. Their classmates complain about instructors, change electives, date badly, call home, switch Fists, and count the terms until graduation. The Kinship household eats at the next table while every comparable choice remains entangled with medicine, housing, component access, and the risk of reassignment.
 
 Meridian recruits or acquires wards with several overlapping properties:
 
@@ -73,13 +83,13 @@ Meridian recruits or acquires wards with several overlapping properties:
 - psychological profiles suggesting strong peer attachment under controlled conditions;
 - limited outside relationships able to contest reassignment or disappearance.
 
-The wards live in five-person **households**. Staff measure conflict recovery, attachment stability, stress co-regulation, shared attention, rescue priority, jealousy, leadership emergence, and willingness to accept reassignment. Rooms are comfortable. Meals are good. Caretakers remember birthdays. Privacy exists in scheduled quantities. The attachment dashboards become one of the story's recurring visual obscenities: exquisite instruments measuring genuine affection for people who cannot freely leave.
+The wards live in five-person **households** adjacent to ordinary academy residences. Staff measure conflict recovery, attachment stability, stress co-regulation, shared attention, rescue priority, jealousy, leadership emergence, and willingness to accept reassignment. Rooms are comfortable. Meals are good. Caretakers remember birthdays. Privacy exists in scheduled quantities. The attachment dashboards become one of the story's recurring visual obscenities: exquisite instruments measuring genuine affection in the visual language of respectable formation pedagogy.
 
 When a household's metrics plateau, researchers alter the environment, manufacture bounded crises, change privileges, or move one member elsewhere. Reassignment is described as clinical fit, educational opportunity, or protection from maladaptive dependency. The institution keeps trying to produce freely chosen obligation by optimizing the consequences of every choice.
 
 ### Standardized Households
 
-Every Project Kinship household contains five **Seats** named Arada, Pell, Vask, Rusk, and Sable. The names began as research shorthand for the original scientists' technical positions. Meridian expanded them into relational roles:
+Every Project Kinship household contains five **Seats** named Arada, Pell, Vask, Rusk, and Sable. Meridian publicly presents them as the ceremonial offices of the Calyx Fellowship, derived from the original Fivefold and used to study historical formation doctrine. Fellows adopt the office name in training, competition, and academy publicity while their private student records ostensibly retain their own identities. Ordinary cadets therefore know Senn as Arada without finding it strange that another Arada preceded her. Inside Kinship, the office name has quietly replaced the ward's legal and clinical identity, and the five Seats have become permanent research shorthand expanded into relational roles:
 
 - **Arada:** crown candidate, mediator, procedural memory, and final integrator;
 - **Pell:** bounded dissenter whose objections are expected to improve and ultimately legitimate Arada's decisions;
@@ -87,7 +97,9 @@ Every Project Kinship household contains five **Seats** named Arada, Pell, Vask,
 - **Rusk:** perceptual translator expected to make incompatible experiences mutually intelligible;
 - **Sable:** practical caretaker, bodily safeguard, and controlled refusal threshold.
 
-Placement is invasive. A ward assigned to a Seat receives its surname, curriculum, therapy expectations, Figure geometry, conflict prompts, and a curated account of the original scientist whose “shoes” they are expected to fill. Staff reward behavior matching the model and classify divergence as poor fit, avoidance, or attachment disorder. Some children have occupied more than one Seat. Their former surnames disappear into sealed records when the household is recomposed.
+Placement is invasive. A ward assigned to a Seat receives its surname, curriculum, therapy expectations, Figure geometry, conflict prompts, and a curated account of the original scientist whose “shoes” they are expected to fill. The academy sees an inherited fellowship office; Kinship rewrites legal and clinical continuity around it. Staff reward behavior matching the model and classify divergence as poor fit, avoidance, or attachment disorder. Some children have occupied more than one Seat. Their former surnames disappear into sealed records when the household is recomposed.
+
+When a household is broken up, Meridian's public records distribute its members among plausible exits: specialist treatment, family reunification, external placement, voluntary withdrawal, or a quiet return to private identity after relinquishing the office name. Privacy law and clinical discretion keep the explanations individually credible. Collectively they have produced the academy rumour, because classmates remember people whose promised destinations never produce messages, careers, or visits home.
 
 Each household tests a particular Concordance hypothesis while preserving the same five-role anatomy. One may be raised together from early childhood. Another may maximize temperamental conflict and supervised reconciliation. Another may rotate nominal leadership while retaining hidden Arada override. Another may share every memory and eliminate privacy. Another may be trained under controlled scarcity to intensify mutual dependence. The apparent variety conceals the fixed assumption beneath every trial: the five roles are real, the crown must ultimately own coordination, and attachment exists to stabilize command.
 
@@ -95,13 +107,13 @@ The current household tests **bounded dissent**. Meridian expects Omi Pell to ch
 
 This is why the household can approach Concordance while Meridian remains unable to recognize it. Omi and Senn cease performing the historical roles correctly. She stops converting his refusal into consensus. The group routes around it instead.
 
-This is not a chamber run entirely by sadists. Meridian has rescued children from war zones, custody markets, failed habitats, and institutions with much worse care. Its medicine works. Its teachers are competent. Some staff love their wards and use the program's budget to keep them alive. Several former wards sincerely prefer technical employment at Meridian to the futures available outside. Leaving costs the protagonists safety, maintenance, credentials, housing, medicine, and the only community most of them remember.
+This is not a chamber run entirely by sadists. Meridian has rescued children from war zones, custody markets, failed habitats, and institutions with much worse care. Its medicine works. Its teachers are competent. Students form real friendships, rivalries, romances, workshop loyalties, and professional ambitions there. Some staff love their wards and use the program's budget to keep them alive. Several former wards sincerely prefer technical employment at Meridian to the futures available outside. Leaving costs the protagonists safety, maintenance, credentials, housing, medicine, classmates, mentors, and the only community most of them remember.
 
 The machine remains inert while Meridian's dashboards are green.
 
 ## The Necro Concord
 
-Among Meridian's wards, failed households are said to go below the medical wing and return as a perfect family that never fights. The details change with every telling. Some versions give the dead children voices in the maintenance system. Others insist that a sixth household still appears on meal schedules despite having no rooms. Staff classify the story as ordinary dormitory folklore produced by reassignment anxiety.
+Among Meridian's students, failed Calyx households are said to go below the medical wing and return as a perfect family that never fights. The story passes through cafeterias, workshop night shifts, changing rooms, and older cadets warning first-years away from service lifts that do not appear on public plans. The details change with every telling. Some versions give the dead children voices in the maintenance system. Others insist that a sixth household still appears on meal schedules despite having no rooms. Staff classify it as ordinary academy folklore produced by competitive resentment and reassignment anxiety.
 
 The rumour grows from a compartmentalized branch of Project Kinship that harvests failed pilots whose esper aptitude and years of Figure training have shaped unusually precise somatic patterns in the Aether. Meridian converts those patterns into **Aetheric Resonance Interfaces** and binds one to each component position. Each interface carries the donor's trained neural topology as an embodied Aetheric response: balance, joint expectation, transformation sequence, protective reflex, and the preconscious grammar by which a Figure becomes a body. A conventional executive stack supplies intention through mission software, rehearsed doctrine, and remote command.
 
@@ -242,7 +254,7 @@ AFTER is the only living participant in both lines. In reverse history it recede
 
 The opening transformation rehearsal reaches eighty-two percent. There is no explosion. One component simply refuses to become an arm. Meridian treats the failure as an attachment problem and schedules a guided household review.
 
-Daily life establishes care as procedure: excellent food, bodykeeping, training, monitored privacy, conflict prompts, maintenance work, medication, education, and the quiet threat of reassignment. The five are told they are Meridian's most promising household. They know enough institutional language to understand that this is both praise and exposure. The historical chapters initially make the shared surnames and eerily similar conflicts look like thematic parallel rather than experimental design.
+Daily life establishes the academy before it reveals the laboratory beneath it: crowded meals, formation lectures, workshop rivalries, bodykeeping, public simulator rankings, monitored privacy, conflict prompts, maintenance work, medication, and the quiet threat of reassignment. The five have classmates they like, students they cannot stand, instructors whose approval matters, and ordinary cadets casually discussing graduation choices the household cannot make. They are told they are Meridian's most promising Calyx Fist. They know enough institutional language to understand that this is both praise and exposure. The historical chapters initially make the shared surnames and eerily similar conflicts look like ceremonial academy tradition rather than experimental design.
 
 The Calyx strand opens at Harrowglass with the Fivefold's final public disassembly. Official history supplies the apparent reading: mature functional roles fractured under distrust and destroyed the machine they could no longer govern. The backward chapters move from that remembered ending into the constitutional crises, interventions, and institutional bargains that made those roles appear natural.
 
@@ -256,7 +268,7 @@ Senn says no. The machine obeys.
 
 The five establish a protocol with AFTER and one another. Every covert experiment requires explicit assent. Anyone may halt it without explanation. Secrets kept from Meridian must not become secrets used to control another member of the group.
 
-They feed the facility plausible partial improvement while secretly learning crown transfer, reversible transformation, and the sensory grammar of nested embodiment. Intimacy grows through work: exchanging maintenance burdens, protecting contradictory memories, changing plans after refusal, noticing pain without claiming it, and allowing another person to remain angry after a practical problem is solved.
+They feed Project Kinship plausible partial improvement while secretly learning crown transfer, reversible transformation, and the sensory grammar of nested embodiment. Ordinary academy schedules become cover and constraint: lectures provide technical language, public Fist drills camouflage coordination practice, workshop access enables unauthorized tests, and classmates make unexplained absences socially visible. A formation instructor who has taught Senn to distrust heroic overcorrection notices the Calyx Fist rehearsing exactly that mistake and quietly changes their exercise assignment, believing she is protecting students from sponsor pressure. The intervention forces the five to revise their escape route without knowing whether an admired teacher has become an obstacle or an ally. Intimacy grows through work: exchanging maintenance burdens, protecting contradictory memories, changing plans after refusal, noticing pain without claiming it, and allowing another person to remain angry after a practical problem is solved.
 
 As the present household reconstructs crown transfer and local refusal, the historical strand reaches the failed command architecture that preceded Calyx. Sol's refusal protocol, Mara's need to relinquish authority, and the researchers' decision to enter their own components recover the mechanism beneath Meridian's personality model.
 
@@ -270,7 +282,7 @@ Lio's old report and the prior-household ledger fracture the group. Her action h
 
 The present line now proceeds without historical alternation. Calyx remains as inherited political reality rather than a parallel cast available to explain or authorize the teenagers' choices.
 
-The live exercise simulates seizure of an orbital shipyard. Meridian expects a controlled partial assembly followed by remote separation. Security craft, yard crews, observers, and external sponsors are present. The five reproduce their familiar failure while AFTER conceals the buried transformation path beneath noisy telemetry.
+The live exercise is an academy event simulating seizure of an orbital shipyard. Ordinary cadet Fists fly support, containment, rescue, and adversary roles while instructors and yard crews work inside the volume. Families and most observers watch a delayed, curated tactical feed from shielded habitats; Kinship sponsors receive the live instrument package from a restricted control gallery. Meridian expects the Calyx Fellows to demonstrate a controlled partial assembly followed by remote separation. The five reproduce their familiar failure while AFTER conceals the buried transformation path beneath noisy telemetry.
 
 When the wipe begins and security closes, AFTER opens access to the path but does not initiate it. It asks each pilot separately:
 
@@ -290,7 +302,7 @@ Full Concordance is shocking because it is quiet. Five separate bodies remain vi
 
 Meridian's remote overrides issue mutually contradictory commands. Concord rejects them as proprioceptive noise. Security attacks. The combined Figure disables rather than annihilates, using yard tools, restraint lines, transformed armor, and impossible close geometry. Damage threatens a docking joint and makes emergency separation a bodily risk rather than an abstract fail-safe.
 
-Meridian deploys the Necro Concord when ordinary recovery fails. It is immediately dangerous: quick to task, physically committed, and brutally competent inside rehearsed doctrine. One executive stack drives five deeply embodied components through every problem it encounters. The living Concord answers by changing who owns perception, rescue, propulsion, coordination, and refusal as the encounter changes. Each machine fights according to its architecture: centralized intention expressed through harvested bodies against five living specialists continually composing a shared act.
+Meridian deploys the Necro Concord when ordinary recovery fails. Emergency containment has already frozen the public feed and ordered cadet Fists toward evacuation corridors, giving Kinship a narrowing interval in which restricted hardware can be described as an automated recovery platform. It is immediately dangerous: quick to task, physically committed, and brutally competent inside rehearsed doctrine. One executive stack drives five deeply embodied components through every problem it encounters. The living Concord answers by changing who owns perception, rescue, propulsion, coordination, and refusal as the encounter changes. Each machine fights according to its architecture: centralized intention expressed through harvested bodies against five living specialists continually composing a shared act.
 
 The decisive choice is not whether the five can destroy Meridian. It is whether they turn back to rescue people endangered by the exercise and their escape. They do, without surrendering. The action proves they are neither institutional property nor the old regime-changing weapon conveniently reborn.
 
@@ -309,6 +321,7 @@ AFTER then receives dormant transformation handshakes from three directions. Pie
 The story must preserve the agency and material presence of:
 
 - other current and former Meridian households;
+- ordinary Meridian cadets, their Fists, families, friendships, rivalries, and expected graduations;
 - the failed cohorts whose trained somatic patterns survive as the Necro Concord's embodied reflexes, tolerances, and transformation grammar;
 - caretakers, teachers, clinicians, cooks, fabricators, joint-riggers, security personnel, and medical workers;
 - staff who believe in the public institution, staff who know Project Kinship, and former wards whose employment crosses that boundary;
@@ -334,6 +347,7 @@ No aggregate becomes innocent merely by opposing Meridian, and no worker becomes
 - A refusal must materially alter the climax and improve coherence; consent cannot remain decorative dialogue.
 - The original regime changes produced real liberation and real domination pressure. Neither cancels the other.
 - Director Vey's threat model is credible. Proving Meridian abusive does not make the external danger imaginary.
+- Meridian's academy genuinely educates pilots and serves students beyond Project Kinship. Its ordinary cadets have ambitions, loyalties, and divided responses to the escape; they are neither an audience awaiting revelation nor collateral scenery.
 - The escape does not require every staff member to become stupid, cruel, or secretly sympathetic.
 - Found family emerges through shared action, repair, boundaries, humor, and chosen obligation. It is not certified by one group confession.
 
@@ -346,6 +360,7 @@ No aggregate becomes innocent merely by opposing Meridian, and no worker becomes
 - AFTER secretly controlling the Figures while allowing the teenagers to believe they escaped themselves.
 - Destruction of Meridian with wards and workers treated as acceptable collateral.
 - Exposure causing every sponsor, court, or public audience to recognize the protagonists immediately as free persons.
+- Ordinary cadets uniting instantly behind the Calyx Fellows once the hidden program is exposed.
 - The five replacing hostile regimes and becoming enlightened rulers.
 - A neat claim that the original Fivefold were either pure liberators or failed tyrants.
 - Reassignment victims existing only to prove that the protagonists are special.
@@ -354,11 +369,11 @@ No aggregate becomes innocent merely by opposing Meridian, and no worker becomes
 
 Without setting homework, a reader must understand that each teenager pilots a humanoid ship as an extended body; those ships can transform into parts of a larger humanoid body; and the combined body works only when coordination preserves each pilot's ability to refuse.
 
-By ten percent, the reader should care about the household's continued composition. By twenty-five percent, AFTER should feel like a vulnerable possible person rather than a spooky system. By fifty percent, escape should be desirable, materially frightening, and politically complicated.
+By ten percent, Meridian should feel like a desirable school and the reader should care about the household's continued composition. By twenty-five percent, AFTER should feel like a vulnerable possible person rather than a spooky system. By fifty percent, escape should be desirable, materially frightening, socially costly, and politically complicated.
 
 The opening fails if Meridian is immediately legible as a torture chamber, if the five read as assigned archetypes waiting to announce their trauma, or if the giant robot is withheld so sternly that the premise begins apologizing for itself.
 
-Recurring comedy should come from institutional attachment metrics, adolescents weaponizing clinical vocabulary against clinicians, serious engineers confronting transformation poses inherited from an embarrassing century of media, and the fact that the most powerful military project in the region keeps failing because its org chart has misunderstood friendship.
+Recurring comedy should come from academy rivalries, institutional attachment metrics, adolescents weaponizing clinical vocabulary against clinicians and instructors, serious engineers confronting transformation poses inherited from an embarrassing century of media, and the fact that the most powerful military project in the region keeps failing because its org chart has misunderstood friendship.
 
 Recurring tenderness should come from maintenance: repairing a joint another person feels as pain, learning when not to ask, carrying an unwanted task without converting it into debt, and checking whether somebody still wants the plan after the plan becomes possible.
 
@@ -381,7 +396,7 @@ Recurring tenderness should come from maintenance: repairing a joint another per
 ### Story-Local Invention
 
 - Calyx, the Fivefold, the Unseating, Harrowglass, and the century without full Concordance
-- Meridian House, Project Kinship, its sponsors, and the external invasion forecast
+- Meridian House, its academy and Calyx Fellowship, Project Kinship, its sponsors, and the external invasion forecast
 - Senn, Omi, Lio, Tem, Iri, Director Vey, AFTER, and all other story characters
 - The five standardized Seats, inherited surnames, role-based household design, and bounded-dissent trial
 - Distributed persistence of AFTER through the recovered Calyx transformation lineage
