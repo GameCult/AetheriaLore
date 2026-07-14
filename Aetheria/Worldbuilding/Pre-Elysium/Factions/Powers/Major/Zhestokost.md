@@ -67,11 +67,11 @@ Their media has a similar severity. March music, oath recitations, campaign docu
 
 ### Key Figures
 
-[[Vasily Dragunov]] is remembered as the architect of Zhestokost's founding synthesis: convoy security, militarized planning, and the claim that civilian indecision is itself a threat vector.
+Vasily Dragunov is remembered as the architect of Zhestokost's founding synthesis: convoy security, militarized planning, and the claim that civilian indecision is itself a threat vector.
 
-[[Anya Velikova]] transformed information control into a regime science, building the PRB into a machinery of suspicion so comprehensive that many Martian residents learned to narrate their own emotions as if filing reports.
+Anya Velikova transformed information control into a regime science, building the PRB into a machinery of suspicion so comprehensive that many Martian residents learned to narrate their own emotions as if filing reports.
 
-[[Dimitri Volkov]] gave Zhestokost the industrial seriousness to compete with richer and glossier powers. He turned the faction's arms economy into a genuine comparative advantage rather than a survival obsession.
+Dimitri Volkov gave Zhestokost the industrial seriousness to compete with richer and glossier powers. He turned the faction's arms economy into a genuine comparative advantage rather than a survival obsession.
 
 ### Major Historical Events
 

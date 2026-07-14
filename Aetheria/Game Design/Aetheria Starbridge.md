@@ -86,8 +86,8 @@ It should not invent a separate class game, economy, or combat model for the
 sake of convenience. It should compress existing Aetheria pressures into a
 smaller arena where their relationships become easier to read.
 
-Starbridge is a mode inside the broader [[Aetheria Client and Modes|Aetheria
-client]], not the whole client. The desktop app starts or joins Starbridge
+Starbridge is a mode inside the broader [[Aetheria Client and Modes|Aetheria client]],
+not the whole client. The desktop app starts or joins Starbridge
 sessions, carries party and Verse context, exposes the shared Hangar, and can
 remain open as the commander UI. Pilot players launch into Unity clients that
 already know which Verse, session, role, and player identity to connect to.
@@ -1169,8 +1169,8 @@ back awake.
 ### Shared Hangar Surface
 
 The hangar should be a shared Eve/CultUI surface over central player inventory,
-not a Starbridge-only screen. It belongs to the broader [[Aetheria Client and
-Modes|Aetheria client]] because ships, equipment, cockpits, support gear,
+not a Starbridge-only screen. It belongs to the broader [[Aetheria Client and Modes|Aetheria client]]
+because ships, equipment, cockpits, support gear,
 cosmetics, presets, and unlocks cut across Starbridge, Arena, Conquest, and the
 future persistent world. The official website, in-game Unity client, desktop
 launcher, Steam-adjacent account surface, future mobile companion, and

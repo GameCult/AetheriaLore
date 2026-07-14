@@ -9,6 +9,7 @@ These notes are not detached from the rest of the archive. They are a working su
 ## Current Concentrations
 
 - [[Stories/index|Stories]]
+- [[Vault Cleanup/index|Vault Cleanup]]
 - [[Technology/Cooling Beyond Blackbody]]
 - [[Technology/Heat Pumps and Thermal Transport]]
 - [[Technology/Thermal Stealth and Signature Warfare]]

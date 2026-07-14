@@ -52,7 +52,7 @@ Characteristic movements: [[Awakened Labor Front]], [[Preservationists]], [[Gene
 Memetic market-cult of therapeutic capitalism. Sells meaning, self-explanation, and purchasable transcendence to a civilization in breakdown.
 
 Sub-faction emphasis: [[NeuroSyn]]  
-Characteristic movements: anxious consumer blocs, soft [[Bio-Purist]] currents, aspirational [[Mortal Majority]] constituencies
+Characteristic movements: anxious consumer blocs, soft [[Bio-Purists|Bio-Purist]] currents, aspirational [[Mortal Majority]] constituencies
 
 ### Cross-Territory Powers
 

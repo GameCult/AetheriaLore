@@ -6,7 +6,7 @@ The corporate strategy layer is Aetheria from the distance at which people becom
 
 The player corporation defines population roles, gathers resources, builds infrastructure, researches technology, manufactures items, expands into territory, and competes for money and influence. This is the **Profits Rising** gameplay lineage: the logistics and supply-chain game in which the player controls an entire corporation.
 
-The corporation is not assumed to be a [[Mega]]. Scenario premises can begin with an inherited family workshop, a distressed freight cooperative, a regional manufacturer, a licensed franchise, a stealth startup built around one hot disruptive technology, or an established firm trying to survive a standards war. Different starting ownership, debt, workforce, intellectual property, supplier access, and reputation should produce materially different games before any corporation becomes large.
+The corporation is not assumed to be a [[Megas|Mega]]. Scenario premises can begin with an inherited family workshop, a distressed freight cooperative, a regional manufacturer, a licensed franchise, a stealth startup built around one hot disruptive technology, or an established firm trying to survive a standards war. Different starting ownership, debt, workforce, intellectual property, supplier access, and reputation should produce materially different games before any corporation becomes large.
 
 A corporation does not have to personally fire a shot to hurt people. It can underfund route security, overproduce disposable ships, monopolize a resource node, lock a settlement into maintenance dependence, or price repairs just high enough that desperate pilots accept worse contracts.
 

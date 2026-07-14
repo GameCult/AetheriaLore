@@ -43,7 +43,7 @@ The consequences were enormous:
 - **Bloom cultures:** Each habitat developed distinct accent, dress, architectural modification, ritual, class slang, foodways, and local engineering superstition.
 - **Labor exploitation:** Construction, maintenance, and life-support work created new forms of dangerous labor, especially for [[Biodrone]]s, engineered workers, and uplifted specialists.
 - **Designer ecologies:** [[GeneSys]], [[VitaForge]], [[BioElevate]], and other firms adapted interiors to specific bodies, crops, labor models, and status fantasies.
-- **Strategic expansion:** Militarized factions such as [[Zhestokost]] could convert resource claims into fortified habitats and exploit the gap between construction law and [[Conflict Permit]] enforcement.
+- **Strategic expansion:** Militarized factions such as [[Zhestokost]] could convert resource claims into fortified habitats and exploit the gap between construction law and conflict-permit enforcement.
 - **Uplift integration:** The [[Elephant Enclave]], [[Cetacean Navigators]], and other uplift polities developed specialized Bloom sections and, eventually, self-governed habitat ecologies.
 
 By the late 26th century, mature Blooms could house hundreds of thousands of people, and dedicated megacity habitats could reach into the millions or tens of millions. They were rotating, self-contained city ecologies made from processed asteroid mass and the social decisions of whoever financed them.

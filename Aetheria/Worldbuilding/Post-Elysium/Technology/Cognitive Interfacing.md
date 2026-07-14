@@ -1,3 +1,5 @@
-### Cognitive Interfacing
+## Cognitive Interfacing
 
-Elysium being designed as a prison for sapient civilizations, the regime of altered physics which permeates it and regulates its behavior, what we call the Aetheric Field, is fundamentally connected to the minds which inhabit it. Information density distorts the [[Aether]], and cognition interacts with it. The Timeless can use it at will to monitor the thoughts of sapients, and will sometimes snoop for their own entertainment. From time to time, they may even manifest to nudge the timeline or take pity on a suffering soul.
+Cognitive interfacing uses a neural, synthetic, or spirit-bound system to translate between a mind and the [[Aether]]. Trained operators use interfaces to perceive aetheric conditions, direct compatible machinery, coordinate with embodied [[AGI Esper|machine minds]], or extend bodily awareness into vehicles and industrial frames.
+
+Performance varies with embodiment, training, and local conditions. Conflicting signals or interference can make control unreliable or disorient the operator. An interface exposes patterns a mind can learn to interpret; it does not grant unrestricted access to another mind.
