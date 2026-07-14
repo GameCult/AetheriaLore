@@ -6,6 +6,8 @@ This room tracks evidence-backed repairs to the Aetheria vault. It is not canon.
 
 - Modeling identifies split authority, contradiction, duplication, unsupported claims, and navigation failures.
 - Imagination researches stronger mechanisms and rhetorical shapes before prose is replaced.
+- Clueless receives an isolated canon or story snippet and records the questions a reader cannot answer from it.
+- Loremaster answers from named sources, labels story-local or draft evidence, and records unresolved questions as setting pressure rather than filling them by invention.
 - Hands performs bounded cuts against named files and word limits.
 - Soul verifies the actual diff against canon, negative checks, and reader-visible behavior.
 - A repair is incomplete until Soul passes it. Smooth prose is not evidence.
@@ -41,6 +43,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 | Q-13 | Repeated filenames make eleven Pirate Metagame brainstorming links ambiguous. | Qualify each link with its phase directory; add no prose. |
 
 ## Verification Ledger
+
+### Wave 7
+
+- `Cognitum.md` fell from 1,309 to about 507 words and now owns recruitment, procurement, labor culture, markets, cutouts, and political access. `Neuromorphic Firmware.md` fell from 1,198 to about 416 words and owns capture, branching, conditioning, reduction, and the range of shipped artifacts.
+- A Clueless/Loremaster pass established what a fresh reader could not infer from an isolated product snippet. Supported answers shaped the cut; missing AGI comparisons, reduction implementations, deployment behavior, and consciousness tests remain explicit pressure rather than invented canon.
+- Ancillary repairs removed Cognitum's false AGI product line, restored the FTL shunt's causality to `FTL Trigger`, and replaced unsupported Identity Abyss outputs with the sourced firmware economy.
+- Soul rejected contractual moral responsibility and an invented live alliance with continuity firms. The repair now separates assigned liability from diffused responsibility and shared research lineage from corporate cooperation.
 
 ### Wave 6
 

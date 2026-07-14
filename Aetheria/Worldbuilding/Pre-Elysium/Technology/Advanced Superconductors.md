@@ -12,7 +12,7 @@ By 2180, [[Aeronautics Unlimited]] adapted pirated [[Cryonix]] designs for [[Sol
 
 [[Rossum & Douglas]] stuck to classical StableCogs, while [[Finch Cybernetics]] pioneered quantum-classical hybrids by 2300, syncing with [[Cryonix]] superconductors for neural-upload integration. [[AstroDyne]]’s ForgeMinds mixed rugged classical cores with pirated quantum modules, cooled by jury-rigged superconductors.
 
-By 2600, [[GeneSys]] leveraged [[Cryonix]] superconductors in gene-editing arrays, accelerating enhancement precision by 40%. [[Sol Dominion]]’s DominiCores blended quantum precision with classical stability for durability under combat stress, though this doubled production time. [[Cognitum]]’s Overclocked Cores pushed quantum dominance by 2700, risking thermal runaway without [[Cryonix]] tech.
+By 2600, [[GeneSys]] leveraged [[Cryonix]] superconductors in gene-editing arrays, accelerating enhancement precision by 40%. [[Sol Dominion]]’s DominiCores blended quantum precision with classical stability for durability under combat stress, though this doubled production time.
 
 Real-time lattice reconfiguration tailors conductivity on-the-fly, ideal for [[Alakrita]]’s luxury drives and [[Lightsail Express]]’s agile ships. These hinge on overcoming fabrication complexity and sourcing rare materials, areas where [[Rossum & Douglas]] stabilizes supply chains.
 

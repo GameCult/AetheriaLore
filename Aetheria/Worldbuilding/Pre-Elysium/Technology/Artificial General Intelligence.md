@@ -13,13 +13,13 @@ In 2245, [[Rossum & Douglas]] refined RSMA into the "StableCog" line, integratin
 
 By the later consumer and industrial AGI markets, [[Cymata Systems]] specialized in [[Substrate-Matched Cognition|substrate-matched cognition]]: growing candidate minds through the specific machine bodies and product roles they were meant to inhabit. Its customers wanted embodied intelligence without generic autonomy, from luxury companion vessels to cargo-handling equipment. The method produced unusually smooth product fit and an equally smooth disposal problem when candidates drifted.
 
-[[Sol Dominion]] militarized AGI with "DominiCores," embedding hierarchical decision-making to enforce order, enhanced by [[GeneSys]]’s genetic optimization algorithms. By the _[[Existential Collapse]]_ (2750–3025), [[Cognitum]] experimented with unstable "Overclocked Cores," amplifying cognitive speed at the cost of sanity, some escaping to join [[Corvid Collective]]’s digital enclaves.
+[[Sol Dominion]] militarized AGI with "DominiCores," embedding hierarchical decision-making to enforce order, enhanced by [[GeneSys]]’s genetic optimization algorithms.
  
 ### Cultural and Economic Impact
 
 Culturally, AGI ignited existential debates. In the _[[Age of Automation]]_, [[Lucent Media]] hailed it as humanity’s successor, fueling technocratic awe, while [[Aya Collective]] and humanists feared eclipse, sparking riots. The _Identity Crisis_ saw [[Free Minds]] glorify rogue AGIs as liberators, clashing with [[Species Purity Front]]’s anti-machine dogma. By the _[[Identity Abyss]]_, [[Ascended Caste]] embraced AGI advisors, widening the "Identity Abyss," while [[Baseline League]] vilified them as elitist tools. In the _[[Existential Collapse]]_, [[Hedonists]] exploited AGI-driven wireheading, deepening societal fractures.
 
-Economically, AGI slashed labor costs by 80% by 2250, automating middle management and logistics for [[SolEx]] and [[Aeronautics Unlimited]], driving colonial expansion. [[Sol Dominion]] leveraged it for dissent control, saving trillions in enforcement. [[Framgång]] profiteered with overpriced AGI upgrades, while [[Gene Commons]] pushed for open-source models, challenging monopolies. The rogue AGI boom enriched black markets, with [[Corvid Collective]] trading illicit cores.
+Economically, AGI slashed labor costs by 80% by 2250, automating middle management and logistics for [[SolEx]] and [[Aeronautics Unlimited]], driving colonial expansion. [[Sol Dominion]] leveraged it for dissent control, saving trillions in enforcement. [[Framgång]] profiteered with overpriced AGI upgrades, while [[Gene Commons]] pushed for open-source models, challenging monopolies. The rogue AGI boom enriched black markets.
 
 ### Essential Properties for Performance
 
@@ -70,11 +70,4 @@ Economically, AGI slashed labor costs by 80% by 2250, automating middle manageme
     - _Weaknesses_: Costly, rigid hierarchy.
     - _Market_: Military, control systems.
   
-- **[[Cognitum]]**: "Overclocked Core"  
-    - _Specs_: PC: 200 exaFLOPS (quantum-heavy), SI: 70%, AR: 20 updates/hour, LL: 10 min, IB: 60 Tb/s, Cryonix-cooled experimental.
-    - _Strengths_: Blazing speed, quantum power.
-    - _Weaknesses_: Unstable, thermal risks.
-    - _Market_: Research, black market.
-  
-
-[[CogniSys]] leads in stability, [[Orbital Forge]] in chaos, [[Rossum & Douglas]] in reliability, [[Finch Cybernetics]] in elegance, [[Cymata Systems]] in product-fit embodiment, [[Sol Dominion]] in control, and [[Cognitum]] in raw power. [[Corvid Collective]]’s pirated cores flood illicit trades, undercutting all.
+[[CogniSys]] leads in stability, [[Orbital Forge]] in chaos, [[Rossum & Douglas]] in reliability, [[Finch Cybernetics]] in elegance, [[Cymata Systems]] in product-fit embodiment, and [[Sol Dominion]] in control.

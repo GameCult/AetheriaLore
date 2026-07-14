@@ -56,6 +56,6 @@ Several distinct fusion approaches competed throughout the timeline:
   - *Weaknesses*: Heavy, resource-intensive, military-grade only
   - *Market*: Military vessels, weapons platforms, fortified bases
 
-By 3025, [[NiteLife Energy]] dominated the market through their alliance with [[Zhestokost]] and technological superiority enabled by [[Cryonix]] superconductors. Their "Harmonic Resonance" reactors powered the FTL drive test, with their unique quantum-tuned plasma oscillations inadvertently amplifying the [[Cognitum]]'s unstable uploads and contributing to the aetheric breach that shunted humanity to Elysium.
+By 3025, [[NiteLife Energy]] dominated the market through its alliance with [[Zhestokost]] and technological superiority enabled by [[Cryonix]] superconductors. Its grid supported the March 17 FTL assembly; [[FTL Trigger]] describes the threshold crossing and quarantine response that caused the shunt.
 
 In the end, fusion power exemplifies how a technology simultaneously liberated and imprisoned humanity—providing the energy to escape Earth while creating dependencies and inequalities that shaped civilization's course through the stars.
