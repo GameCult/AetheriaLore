@@ -1,6 +1,10 @@
 # AetheriaLore
 
-`AetheriaLore` is the source vault for `https://aetheria.gamecult.org`: lore, design notes, stories, and the sort of worldbuilding that thrives when nobody forces it into a CMS shaped like office software.
+Aetheria is an open science-fiction setting built to hold radically different kinds of stories without reducing them to crossover mush. Pre-Elysium black-magic hard SF, post-Elysium mecha drama, Wavecrafter cultivation epics, early-Elysium noir, alien first contact, cockpit action, and corporate logistics all share the same causal world: technologies have histories, institutions have incentives, and consequences survive the story that created them.
+
+Writers can claim a place, an era, and a cast without asking custody of the whole universe. Contributions are authoritative where they live; the wider setting carries their consequences forward. The lore, fiction, design work, and writing process are open so other people can inspect the machinery, find an unoccupied pressure point, and tell the kind of story they came here to tell.
+
+`AetheriaLore` is the source vault for [aetheria.gamecult.org](https://aetheria.gamecult.org): lore, design notes, stories, and the sort of worldbuilding that thrives when nobody forces it into a CMS shaped like office software.
 
 The site now builds against the shared `GameCult-Quartz` engine instead of carrying its own private Quartz clone. This repo owns the vault content and the Aetheria-specific overlay; the engine lives next door.
 

@@ -1,17 +1,19 @@
 ---
 title: Aetheria
-description: "Galaxy-scale social experiment disguised as science-fantasy: cockpit action, corporate logistics, alien civilizations, and humanity repeatedly speedrunning extinction."
-socialDeck: "Cockpits, spreadsheets, extinction on repeat."
+description: "An open science-fiction setting where radically different genres share one causal world and stories leave consequences behind."
+socialDeck: "Almost any kind of story can happen here. The world remembers what it meant."
 enableToc: false
 ---
 
 # Aetheria
 
-*"A galaxy of megacorporate frontier myth, ship customization, and player-made history."*
+*"Almost any kind of story can happen here. The world remembers what it meant."*
 
-Aetheria is part post-collapse corporate diaspora, part megacorporate cold war, part galaxy-scale social simulation, part action-RPG sandbox, part excuse to spend an unreasonable amount of time inventing ships, factions, and economic problems in space.
+Aetheria is an open science-fiction setting built to hold stories that should not fit together and make their coexistence materially true. Pre-Elysium black-magic hard SF can sit beside post-Elysium giant-mecha drama, Wavecrafter cultivation fiction full of sects and face-slapping, early-Elysium noir, Ratfolk first contact, cockpit action, and corporate logistics. The genres change because the world changes. The causal substrate does not: technology remains political, power remains material, and every impossible breakthrough becomes somebody's job, weapon, faith, debt, or maintenance problem.
 
-The deeper lore, design notes, and [[Fiction/index|fiction]] live here now. This page is the fast tour for people who want the pitch before the spiral.
+Writers do not need custody of the whole setting to make something true inside it. A story can own its people, place, and immediate consequences while the wider world remembers what happened. The [[Lore/index|lore]], [[Fiction/index|fiction]], [[Game Design/index|design work]], and [writing process](https://github.com/GameCult/AetheriaLore) are open: bring the story you are hungry to tell, then make it materially belong.
+
+This page is the fast tour for people who want the pitch before the spiral.
 
 <div class="aetheria-home-hero">
   <section class="aetheria-hero-panel">
