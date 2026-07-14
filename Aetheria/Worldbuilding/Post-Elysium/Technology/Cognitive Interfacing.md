@@ -1,5 +1,5 @@
 ## Cognitive Interfacing
 
-Cognitive interfacing uses a neural, synthetic, or spirit-bound system to translate between a mind and the [[Aether]]. Trained operators use interfaces to perceive aetheric conditions, direct compatible machinery, coordinate with embodied [[AGI Esper|machine minds]], or extend bodily awareness into vehicles and industrial frames.
+Cognitive interfaces translate signals between a mind and machinery. Pre-Elysium systems extended an operator's body map into vehicles and industrial frames; training made the machine feel contiguous with the body rather than remotely controlled.
 
-Performance varies with embodiment, training, and local conditions. Conflicting signals or interference can make control unreliable or disorient the operator. An interface exposes patterns a mind can learn to interpret; it does not grant unrestricted access to another mind.
+Post-Elysium variants may also translate bounded [[Aether|aetheric]] conditions into sensations or commands. Performance varies with embodiment, training, and local conditions. Conflicting signals can disorient the operator or degrade control. An interface carries information: it does not supply agency, confer command authority, or grant unrestricted access to another mind.

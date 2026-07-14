@@ -364,6 +364,12 @@ Recurring tenderness should come from maintenance: repairing a joint another per
 
 ## Canon and Invention Boundary
 
+### Authority
+
+- [[Worldbuilding/Post-Elysium/Factions/Daedal Houses|Daedal Houses]] owns Figure embodiment, transformation, Concord mechanics, and the rule that Figures normally lack independent ship-selves.
+- [[Worldbuilding/Post-Elysium/Concepts/Ship Mind Custody|Ship Mind Custody]] owns the status and handling of any vessel that becomes a person.
+- This room owns AFTER, Calyx, the Fivefold, Meridian, the Necro Concord, and their history. Story-local facts do not generalize without promotion.
+
 ### Established
 
 - [[Worldbuilding/Post-Elysium/Factions/Daedal Houses|Daedal Houses]], Figures, somatic envelopes, topological homology, reversible transformation, and Concord mechanics

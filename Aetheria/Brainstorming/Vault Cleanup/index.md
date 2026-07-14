@@ -42,6 +42,15 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 2
+
+- Q-01/Q-04/Q-07 now assign separate owners to interface translation, embodied intent, field tuning, commanded momentum exchange, and esper agency. The seven-note mechanism pass cut 1,125 words before Soul repairs.
+- Q-02 permits public certification of operator performance while reserving secrecy for sapient causal agency. Continuity Soul passed the evidence path from performance through residue and regulation.
+- Q-03 makes Figures normally non-sapient and rare machine-self emergence a custody problem, not an automatic grant of hull authority. Daedal canon owns the general rule; *The Body That Asks* owns AFTER.
+- Q-05/Q-06 rebuilt the pre-Elysium BCI note from 1,109 to 472 words, anchored Daedal's Sol lineage, and replaced mathematical costume with continuous somatic correspondence.
+- Q-13 qualified eleven ambiguous brainstorming links. Structural Soul resolved every target under Obsidian semantics and found no new lore-link failures.
+- Hostile brevity Soul rejected unsupported Trigger history, overbroad institutional claims, residual terminology drift, and one over-cut support sentence. Hands repaired each defect; final continuity, brevity, and structural reviews passed.
+
 ### Wave 1
 
 - Continuity Soul confirmed Soliton lineage, infrastructure, and faction ownership against institutional and faction notes. It rejected two broad claims and one repeated conclusion; Hands cut them before final pass.

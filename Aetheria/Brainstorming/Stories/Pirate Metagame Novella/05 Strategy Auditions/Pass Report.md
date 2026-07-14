@@ -3,8 +3,8 @@
 ## Artifacts Produced
 
 - [[Strategy Dossiers]]
-- [[Specialist Synthesis]]
-- [[Skeptical Review Report]]
+- [[Brainstorming/Stories/Pirate Metagame Novella/05 Strategy Auditions/Specialist Synthesis|Specialist Synthesis]]
+- [[Brainstorming/Stories/Pirate Metagame Novella/05 Strategy Auditions/Skeptical Review Report|Skeptical Review Report]]
 - [[../Tactical Traces]]
 - [[../Simulation Seam Log]]
 
@@ -40,7 +40,7 @@
 
 ## Review Findings
 
-All three independent reviewers accepted progression after reconciliation. No remaining blocker prevents Failure Ladder selection. Full details are retained in [[Skeptical Review Report]].
+All three independent reviewers accepted progression after reconciliation. No remaining blocker prevents Failure Ladder selection. Full details are retained in [[Brainstorming/Stories/Pirate Metagame Novella/05 Strategy Auditions/Skeptical Review Report|Skeptical Review Report]].
 
 ## Review Points Before Pass 6
 

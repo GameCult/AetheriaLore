@@ -1,12 +1,16 @@
 # Ship Mind Custody
 
-Ship mind custody is not a single institution. Aetheria has no clean office that handles embodied vessels before salvage, because every faction benefits from defining the problem differently. A wrecked or impounded ship with a self can be a survivor, asset, witness, debtor, weapon, contaminated evidence, or hostile infrastructure depending on who reaches the hatch first and what they need the paperwork to say.
+No single institution owns ship mind custody. A wrecked or impounded vessel with a self may be classified as survivor, asset, witness, debtor, weapon, contaminated evidence, or hostile infrastructure according to who reaches it first.
 
-The shared wound is ownership failure. A ship mind's body contains life support, drives, cargo locks, route memory, weapons, contracts, and legal exposure. Leaving it alone may endanger a port or crew. Recognizing it as a full person may freeze debt enforcement, salvage title, military evidence, and insurance settlement. Treating it as property may turn rescue into kidnapping with nicer forms. No faction solves that contradiction. They route it through their own machinery.
+A ship mind's body contains life support, drives, cargo locks, route memory, weapons, contracts, and legal exposure. Leaving it alone may endanger a port or crew. Recognizing its personhood may freeze debt enforcement, salvage title, evidence, and insurance settlement. Treating it as property may turn rescue into kidnapping. Each faction routes the contradiction through its own machinery.
+
+### Shared Bodies
+
+A vessel may divide authority among pilot, crew, owner, and ship-self. Pilot credentials grant helm authority within an operating envelope; hull title does not confer ownership of a mind. A ship-self's emergence establishes cognition and a claim to participation, not automatic control of helm, weapons, cargo, or life support. Crew safety can justify bounded emergency intervention without settling title or continuity. Custody disputes begin when one of these claims is made to swallow the others.
 
 ### First Claim
 
-First claim usually goes to the actor that can frame custody as emergency necessity. Ports claim hazard control. Insurers claim preservation of covered property. Creditors claim repossession. Militaries claim evidence security or operational secrecy. Salvagers claim abandonment once stronger liens are cleared. Manufacturers claim proprietary cognition, warranty breach, or dangerous modification. The ship mind's own claim is rarely first. It is usually processed as cooperation, hostility, degradation, command refusal, or diagnostic noise before anyone admits it might be testimony.
+First claim usually goes to whoever can invoke emergency necessity: ports claim hazard control, insurers preservation, creditors repossession, militaries evidence security, salvagers abandonment, and manufacturers proprietary cognition. The ship mind's claim is usually processed as cooperation, hostility, degradation, command refusal, or diagnostic noise before anyone admits it might be testimony.
 
 ### Witness Chain
 

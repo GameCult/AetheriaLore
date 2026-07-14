@@ -3,8 +3,8 @@
 ## Artifacts
 
 - [[Movement III Draft]]
-- [[Narrative Seam Notes]]
-- [[Skeptical Review Report]]
+- [[Brainstorming/Stories/Pirate Metagame Novella/12 Draft Movement III/Narrative Seam Notes|Narrative Seam Notes]]
+- [[Brainstorming/Stories/Pirate Metagame Novella/12 Draft Movement III/Skeptical Review Report|Skeptical Review Report]]
 
 Authoritative updates:
 
@@ -14,7 +14,7 @@ Authoritative updates:
 - [[Cast Bible]]
 - [[Aggregate Actors]]
 - [[Simulation Seam Log]]
-- [[index]]
+- [[Brainstorming/Stories/Pirate Metagame Novella/index|index]]
 
 ## Accepted Story State
 

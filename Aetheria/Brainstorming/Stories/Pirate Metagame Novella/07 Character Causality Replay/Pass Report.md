@@ -7,8 +7,8 @@
 - [[Twelvefold Replay]] owns exact twelve-person Corvid state, votes, injuries, caches, and private manifests.
 - [[Social Body Replay]] owns external characters, target witnesses, support departments, dependants, yards, insurers, family, and claimant coalition.
 - [[Audience Visibility And Comedy Ledger]] owns the boundary between sideband truth and reader-visible material.
-- [[Specialist Synthesis]] preserves advocate proposals and coordinator adjudication.
-- [[Skeptical Review Report]] records independent review and accepted repairs.
+- [[Brainstorming/Stories/Pirate Metagame Novella/07 Character Causality Replay/Specialist Synthesis|Specialist Synthesis]] preserves advocate proposals and coordinator adjudication.
+- [[Brainstorming/Stories/Pirate Metagame Novella/07 Character Causality Replay/Skeptical Review Report|Skeptical Review Report]] records independent review and accepted repairs.
 
 ## Accepted Decisions
 

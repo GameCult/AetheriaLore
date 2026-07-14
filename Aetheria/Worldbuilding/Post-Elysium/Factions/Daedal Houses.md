@@ -12,9 +12,9 @@ Daedal Ergotechnics occupied a narrow market between [[Worldbuilding/Pre-Elysium
 
 Most Daedal frames were practical humanoids: two load-bearing legs or equivalent anchor assemblies, two primary work arms, a head-centered sensor horizon, and a torso carrying power, counterbalance, and life support. They were not the most mass-efficient shape for every task. They were the shape in which a human operator could move without translating each intention into a machine command.
 
-This made Daedal popular in premium yards affiliated with [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Orbital Forge|Orbital Forge]] and among bespoke contractors serving [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Aeronautics Unlimited|Aeronautics Unlimited]]. The work was slow beside mass automation and fast beside ordinary human labor. More importantly, it could respond to ugly tolerances, damaged structures, and one-off fabrication decisions without waiting for a remote engineering chain to agree on what the machine was seeing.
+Premium yards affiliated with [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Orbital Forge|Orbital Forge]] and contractors serving [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Aeronautics Unlimited|Aeronautics Unlimited]] used Daedal frames for damaged structures and one-off fabrication decisions that resisted mass automation.
 
-The Daedal Houses carried that install base through the shunt: frames, interface clinics, calibration records, technicians, yard contracts, pilot families, and a brand widely regarded as impressive evidence that rich people could make manual labor expensive again.
+The Daedal Houses carried that base through the shunt: frames, interface clinics, calibration records, technicians, yard contracts, pilot families, and a prestigious brand.
 
 ### The Somatic Envelope
 
@@ -34,9 +34,9 @@ The effect is a gain curve rather than a prohibition. Conventional ships can use
 
 Daedal calls its ship-scale humanoid vessels **Figures**. Outsiders called them statues, vanity hulls, walking warranties, and promotional sculpture. “Mecha” began as a media joke revived from old animation. The Houses disliked the term until it started selling models.
 
-Early House doctrine mistakes this result for a preference for human silhouettes. Later research finds the stranger rule beneath it: the somatic envelope tolerates enormous changes in scale, proportion, articulation, and configuration so long as the embodied form remains **topologically homologous** with the pilot's learned body. An arm may lengthen, divide its internal machinery, fold into armor, exchange tools, or pass through a reversible sequence of ship-like configurations without breaking the effect. What matters is that the pilot's body map can follow every step without encountering an anatomical discontinuity it cannot reconcile.
+Early House doctrine mistakes this result for a preference for human silhouettes. Later research identifies **continuous somatic correspondence**: scale, proportion, articulation, and configuration may change radically if the pilot's body map can follow every intermediate state. An arm may lengthen, fold into armor, exchange tools, or pass through reversible ship-like configurations. House papers sometimes call the requirement topological homology, although geometry, timing, and sensory continuity matter as much as topology.
 
-This does not make transformation easy. A machine may be mechanically capable of changing shape and still destroy somatic coherence halfway through the movement. Every hinge must preserve a continuous sensory relation. Load paths must become posture rather than noise. Temporary asymmetries must remain intelligible as phases of one body instead of presenting the pilot with mutually exclusive anatomies. The first transformable Figures spend years moving slowly through laboratory sequences that conventional machinery could complete in seconds.
+Mechanical transformation can still destroy somatic coherence. Every hinge must preserve a continuous sensory relation; changing load paths must register as posture, and temporary asymmetries as phases of one body. The first transformable Figures spend years rehearsing sequences ordinary machinery could complete in seconds.
 
 ### The Laughter Cut
 
@@ -46,19 +46,19 @@ Its public launch was treated as an expensive act of brand survival. Commentator
 
 When raiders attacked the yard, the prototype was the only armed hull close enough to intercept. Its pilot crossed vectors the attackers' fire control considered mutually exclusive, caught a disabled tug before it struck the works, used an anchor projector as a restraint, and drove a shipbreaking lance through the raider command vessel at grappling distance. The surviving launch recording preserved the commentators' laughter over the first maneuver and their silence over the debris field. It became known as **the Laughter Cut**.
 
-The Cut did not prove that humanoid ships were sensible. It proved that under the wrong conditions, sense had acquired an enemy.
+The Cut did not make humanoid ships efficient. It proved that their control advantage could decide an engagement.
 
 ### A Minor Ship Power
 
 The Houses captured a valuable section of the post-Elysium ship market without displacing conventional yards. Figures excel where control coherence matters more than efficient volume: close escort, debris navigation, mobile shipyard work, precision salvage, station defense, boarding, siegebreaking, and rescue around unstable fields. Hands accept tools, weapons, tow assemblies, shield projectors, and modular mission packages without rebuilding the whole hull. Limbs change radiator exposure, armor posture, and thrust geometry during a fight. A trained pilot can grapple a vessel, brace a failing station, or continue working through damage that leaves ordinary control systems negotiating with themselves.
 
-The costs remain severe. Limbs and joints create exposed maintenance surfaces. Humanoid volume is poor for freight and cruise. Distributed actuators consume mass and shed heat through complicated paths. Figures are conspicuous targets, expensive to armor, and vulnerable to long-range missiles, saturation attacks, sensory desynchronization, and any weapon that turns a clean body map into contradictory pain. Conventional fleets remain better at most of the work fleets do. Daedal wins contracts for the encounters conventional doctrine prefers to classify as mistakes.
+The costs remain severe. Limbs and joints expose maintenance surfaces; humanoid volume is poor for freight and cruise; distributed actuators add mass and difficult heat paths. Figures are conspicuous, expensive to armor, and vulnerable to missiles, saturation attacks, and sensory desynchronization. Conventional fleets remain better at most fleet work.
 
 Their fleet is consequently small. A Figure is a yard, a warship, a prestige object, and a pilot-specific medical dependency sharing one balance sheet. Losing one can erase a House's military strength, skilled labor, and collateral base in the same afternoon.
 
 ### Concord Figures
 
-Deep in the post-Elysium timeline, the Houses push topological homology into their most difficult research program: **Concord Figures**, groups of independent humanoid vessels able to reversibly transform and assemble into one much larger Figure.
+Deep in the post-Elysium timeline, the Houses push continuous somatic correspondence into their most difficult research program: **Concord Figures**, groups of independent humanoid vessels able to reversibly transform and assemble into one much larger Figure.
 
 The mechanical problem is severe but familiar. Docking structures must become load-bearing joints. Separate reactors, drives, radiators, armor planes, and weapon systems must accept a new geometry without crushing one another or cooking the pilots. The harder problem is embodiment. A pile of docked Figures remains a formation. To gain the Daedal advantage at the combined scale, several pilots must experience themselves as distinct bodies participating in one larger human-shaped body without any interface erasing the local selves that make the assembly possible.
 
@@ -68,13 +68,13 @@ This authority structure is not merely an ethical concession. Forced synchroniza
 
 The assembly sequence must also remain somatically reversible. Each pilot feels their Figure fold, dock, and assume its place through a continuous anatomical transformation. No component may vanish into an abstract subsystem and reappear later as a person-shaped vessel. Emergency separation follows the same mapped path in reverse, which makes damage to a transformation joint both a mechanical threat and a terrifying form of bodily entrapment.
 
-Reliable Concord Figures arrive only after generations of work in reversible morphology, shared sensory grammar, low-latency Aetheric synchronization, pilot-group training, and transformation under damage. They are not a routine product tier or an obvious upgrade from a larger chassis. Most Houses never field one. Those that do have built a small federation of ships capable, under exacting conditions, of standing up as a single giant.
+Reliable Concord Figures require generations of work in reversible morphology, shared sensory grammar, Aetheric synchronization, group training, and damaged transformation. Most Houses never field one.
 
 ### Houses, Pilots, and Labor
 
 Daedal Ergotechnics did not remain a conventional corporation after the shunt. Isolated yards, interface clinics, pilot cadres, and service families reorganized into Houses held together by shared calibration standards and mutual dependence. Each House cultivates a recognizable body doctrine: preferred proportions, tool lineages, movement forms, and theories of how much a Figure may change before it stops feeling like its pilot.
 
-Pilot prestige rests on an enormous anatomy of labor. Yard crews speak of shoulder galleries, spinal trams, palm hardpoints, tendon runs, skin crews, and coolant perfusion because the metaphor is operationally useful. Status follows the body map. Reactor and sensor crews work close to the pilot caste; joint-riggers and radiator tenders inherit the dangerous, repetitive maintenance that keeps graceful motion from becoming a seizure with a crew inside it.
+Pilot prestige rests on an anatomy of labor. Yard crews speak of shoulder galleries, spinal trams, palm hardpoints, tendon runs, skin crews, and coolant perfusion because the metaphor is operationally useful. Status follows the body map; joint-riggers and radiator tenders inherit the dangerous maintenance beneath graceful motion.
 
 Pilots spend much of their lives in bodykeeping: calibration walks, tool-hand drills, phantom-limb journals, pain-threshold tests, and supervised periods outside the envelope so their ordinary bodies do not become vestigial. Families often live aboard a Figure because long separation degrades both retention and performance. Children learn the vessel's strain noises as domestic weather and may begin apprenticeship in small Frames long before they can consent meaningfully to a House career.
 
@@ -82,7 +82,7 @@ The Houses celebrate irreplaceable human craft while treating rare pilots as lic
 
 ### Fracture and Counterplay
 
-A Figure performs best when the vessel has one credible embodied self. Crew mutiny, invasive command overrides, incompatible automation, and competing cognition can all degrade its coherence. This gives crews unusual leverage and makes House labor politics strategically dangerous. The pilot may feel the ship as a body, but thousands of other people keep that body alive and do not become organs merely because management finds the metaphor convenient.
+A Figure normally has no independent ship-self: its pilot supplies the credible embodied perspective. Invasive overrides, incompatible automation, and competing cognition degrade coherence. If a Figure develops a machine-self, that person retains consent over its cognition; any authority over the hull must be negotiated. It cannot be treated as extra pilot bandwidth. Crew labor remains indispensable without becoming part of the pilot's body.
 
 Concord research qualifies that rule without abolishing it. Several credible selves can share a larger body only when their local ownership remains intact and their coordination produces one mutually legible act. The discovery does not make ordinary command committees psychic pilots. It makes a trained pilot group into a precarious embodied federation whose disagreements have mass, heat, and joint tolerances.
 
@@ -94,6 +94,4 @@ The Houses depend on [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecraf
 
 ### Role in Aetheria
 
-The Daedal Houses give post-Elysium shipbuilding a minor power whose ridiculous visual doctrine grows from a precise industrial and metaphysical history. Their Figures are not proof that human form is cosmically supreme. They are proof that Elysium rewards minds able to make machinery part of themselves, and that markets will turn even that intimacy into property, lineage, military advantage, and debt.
-
-They also preserve the joke at the correct scale. Everyone understands why a giant humanoid spaceship is inefficient. The laughter ends when it moves like the person inside it.
+Figures do not prove that human form is cosmically supreme. They show that Elysium rewards minds able to embody machinery, and that markets turn even that intimacy into property, lineage, military advantage, and debt. Everyone understands why a humanoid spaceship is inefficient. The laughter ends when it moves like the person inside it.

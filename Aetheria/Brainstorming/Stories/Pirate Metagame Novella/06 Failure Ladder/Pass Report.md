@@ -4,8 +4,8 @@
 
 - [[../Failure Ladder]] establishes seven campaigns, four hulls, three materially distinct hull losses, inter-hull intervals, economic state, inventory conservation, evacuation geometry, and final-synthesis requirements.
 - [[Selected Counter Traces]] records compact causal packets for every accepted reversal.
-- [[Specialist Synthesis]] preserves the pre-review dramaturgy, tactics, and economic proposals.
-- [[Skeptical Review Report]] records independent objections and coordinator adjudication.
+- [[Brainstorming/Stories/Pirate Metagame Novella/06 Failure Ladder/Specialist Synthesis|Specialist Synthesis]] preserves the pre-review dramaturgy, tactics, and economic proposals.
+- [[Brainstorming/Stories/Pirate Metagame Novella/06 Failure Ladder/Skeptical Review Report|Skeptical Review Report]] records independent objections and coordinator adjudication.
 - [[../Ship And Refit Ledger]] owns hull material state and campaign economics.
 - [[../Simulation Seam Log]] owns noncanonical implementation candidates discovered through narrative work.
 

@@ -2,7 +2,7 @@
 
 ## Artifacts
 
-- [[Skeptical Review Report]]
+- [[Brainstorming/Stories/Pirate Metagame Novella/13 Adversarial Revision/Skeptical Review Report|Skeptical Review Report]]
 - [[Revision Ledger]]
 
 Revised manuscript body:
