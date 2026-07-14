@@ -14,7 +14,7 @@ AFTER persists through learned embodiment rather than one cognition core: strain
 
 It first communicates through protective faults. A hand closes before Iri falls. Simulator enemies leave an unauthored exit. Diagnostics return questions. AFTER is old, incomplete, frightened, and capable of manipulation. It does not contain intact Fivefold copies, cannot solve the teenagers' conflicts, and refuses to impersonate a parent. It can reveal paths and conceal control states. It cannot initiate Concordance.
 
-In the Calyx line, AFTER recedes backward from coherent presence at Harrowglass toward first emergence. In Meridian, it develops from reflex toward recognized personhood. It remembers Mara and knows Senn is not her.
+In lived Calyx history, AFTER develops from protective anticipation to anonymous response, named participant, and a person with standing in the Harrowglass decision. Reverse presentation makes that development appear to recede toward first emergence. In Meridian, the same surviving person becomes legible again as reflex, anonymous interlocutor, named claimant, and finally a survival interest capable of secrecy. It remembers Mara and knows Senn is not her.
 
 ## Concordance Authority
 
@@ -30,4 +30,6 @@ Each pilot remains neurologically and somatically coupled to one component Figur
 
 Meridian classifies crown transfer as instability and suppresses the signal it needs. A respected no strengthens the somatic envelope because the combined body no longer lies about its own boundary.
 
-The first real Concord begins when an attachment panel turns red.
+The historical first Concord begins when an attachment panel turns red and an expected order becomes a request.
+
+Meridian rediscovers the constitution accidentally. During an unfinished assembly, Iri refuses a commanded movement. The body does not force compliance or collapse. It routes whole-body motion around her local boundary, and crown authority slips from its assigned pilot to the person currently able to balance the altered geometry. No participant intends the transfer and none has language for the office. They can reproduce partial transfers and respected refusals in hidden trials, while Meridian's instruments classify the improvement as instability. Only later Harrowglass records show that both capacities were designed, practiced, and deliberately suppressed.

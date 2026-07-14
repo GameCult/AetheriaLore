@@ -22,13 +22,19 @@ Repeated embodiment had instantiated another consciousness in Calyx's crown latt
 
 ## Reverse Chronology
 
-The reading order removes institutional certainty:
+The reader witnesses Harrowglass as voluntary disassembly. The institutional account calls it catastrophic loss of trust, but that account does not govern the presentation. Dramatic irony governs the braid: Meridian inherits a lie whose answer the reader has already seen, then discovers the missing telemetry, political context, and constitutional meaning required to prove it.
 
-1. Harrowglass and voluntary disassembly, remembered as failure.
-2. Political dependence after the Unseating.
-3. Interventions whose liberations create new obligations.
-4. Operational conflicts that harden temporary competencies into apparent roles.
-5. Laboratory failures under fixed command.
-6. First Concordance, when an expected order becomes a request.
+Every Calyx scene carries two coordinates. **Lived order** governs character memory, injury, trust, and the emergence of AFTER. **Presentation order** governs disclosure to the reader. A later-presented scene may contain a younger, less wounded character; it may not inherit knowledge or reconciliation from a scene presented earlier.
 
-Each step backward makes the Fivefold less like the standardized Seats later imposed by [[../Meridian/Meridian House|Project Kinship]]. AFTER recedes from coherent historical presence toward the first shared embodiment from which it emerges.
+| Presentation | Lived | Historical scene | Character-state requirement |
+| --- | --- | --- | --- |
+| C1 | L6 | Harrowglass and voluntary disassembly | The Fivefold have chosen an ending together while preserving contradictory reasons; AFTER is a recognized participant. |
+| C2 | L5 | Political dependence after the Unseating | They know temporary intervention has become permanent expectation; trust remains, but Eda's secrecy and Sol's public credibility have injured it. |
+| C3 | L4 | Liberating interventions create obligations | AFTER can answer and remember across assemblies; the five disagree over who may authorize its body. |
+| C4 | L3 | Operational conflicts harden competencies into roles | Crown and refusal work, but sponsors translate practiced expertise into fixed identity; Tern's single-account failure damages shared perception. |
+| C5 | L2 | Laboratory failures under imposed command | The five have not yet learned how to share authority; local relationships carry the work that doctrine cannot. AFTER exists chiefly as protective anticipation. |
+| C6 | L1 | First Concordance | An expected order becomes a request; no later title, injury, doctrine, or recognition may leak backward into the scene. |
+
+In lived order, AFTER develops from protective reflex to anonymous response, then named participant, then a person with standing in the Harrowglass decision. In presentation order, it recedes from recognized presence toward the first learned act from which it emerged.
+
+Each step backward makes the Fivefold less like the standardized Seats later imposed by [[../Meridian/Meridian House|Project Kinship]]. The final presented scene meets Meridian's accidental discovery at the point where neither group yet possesses a finished theory of Concordance.

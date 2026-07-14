@@ -16,7 +16,11 @@ The most famous unresolved disappearance is [[Vesper Fist and the Necro Concord|
 
 ## Project Kinship
 
-Project Kinship is funded by minor polities facing a credible expansionist threat. It hides inside Final Fist, identifies cadets whose talent, relationships, and dependencies make them promising Concord candidates, steers their assignments, and promotes selected teams into experimental households.
+Project Kinship is funded by the **Lantern Compact**, a defensive coalition of minor polities along routes being absorbed by the **Continuance Directorate**. The Directorate is a human successor bloc born from one of the Unseating's durable administrative remnants. It expands through protection treaties, sovereign-debt assumption, compulsory route basing, tiered citizenship, and selective force against governments that cannot meet accession terms. Most annexed habitats continue eating, trading, and receiving medicine. They cease deciding which obligations may be refused.
+
+Parallax-certified forecasts give the Compact a six-to-nine-year window before three member systems become militarily isolated. The finding is probabilistic rather than prophetic. Directorate consolidation is observable, the casualty ranges are credible, and sponsors can still select the assumptions that make their preferred program appear indispensable. Failed fleet guarantees, incompatible House procurement, and governments unwilling to surrender command to one another produced Kinship's wager on a deterrent embodied by five people and governable through one crown.
+
+Kinship hides inside Final Fist, identifies cadets whose talent, relationships, and dependencies make them promising Concord candidates, steers their assignments, and promotes selected teams into experimental households.
 
 Kinship favors high somatic-envelope aptitude, latent esper potential, proven Fist relationships, and leverage through scholarships, medicine, family debt, immigration status, licensing, or sponsor contracts. It supplies intensive care, historical study, and recovered transformation hardware. Attachment surveillance hides inside team-readiness analytics; manufactured crises hide inside scenario design; coercion arrives as formation balancing, clinical continuity, scholarship review, placement, and certification.
 
@@ -46,6 +50,37 @@ The current household tests **bounded dissent**. Omi may challenge Senn; Senn is
 
 The machine remains inert while Meridian's dashboards are green.
 
+The missing teams leave signals without leaving one usable case. Alumni notice reunion messages that stop. Families receive placement notices from offices unable to disclose a destination. Insurers see unusual clusters of specialist treatment but lack access to military records. Riggers remember component refits ordered under new serials. Clinicians inherit discontinuous files protected by patient privacy. Staff who ask too persistently transfer, retire, or accept that a student entered work too sensitive to advertise. Each witness holds a different piece under a different duty, and no one possesses evidence, standing, and jurisdiction at the same time.
+
+## Ordinary Meridian
+
+Several people outside the household retain decisions that matter:
+
+- **Rhea Mott**, captain of a rival cadet Fist, wants the Directorate stopped and considers Finalist secrecy an ugly price adults may genuinely have to pay. Her rivalry with Senn becomes anger when the escape converts cadet training space into a live engagement.
+- **Instructor Jun Vale** teaches damaged-formation recovery. He distrusts Kinship's household pedagogy but believes pilots owe one another predictable competence. His choice to honor an abort signal costs the exercise an experienced response team.
+- **Doctor Pava Neris** manages interface pain and knows Lio's treatment history. She files an emergency fitness suspension for all five rather than disclose Iri's injury as evidence of noncompliance. The suspension delays the wipe review but closes the household's legitimate launch access, trading time for a harder escape.
+- **Enna Quill**, senior rigger for the Finalist bay, recognizes Vesper's protective turn in supposedly new actuator wear. She places the affected component under a safety hold and preserves the worn assembly instead of returning it for classified refurbishment. The hold gives the five material evidence and costs them their preferred exercise component; her employment, apprentices, and family's route permits remain exposed to Compact retaliation.
+- **Marae Dho**, Omi's off-station aunt and only reliable family contact, supports the Compact because a Directorate accession dissolved her union's local bargaining authority without firing anyone. She co-signs a family-status challenge that prevents Omi's disappearance from being immediately recorded as voluntary classified service. The filing creates outside standing while exposing her household to scrutiny.
+- **Aru Sen**, a former Finalist returned to private identity after a household recomposition, remembers a missing teammate and refuses both the school's claim that nothing happened and the current five's temptation to treat every survivor as ready to testify. He declines public testimony but gives Tem the obsolete placement code that exposes recomposed Seat histories. The refusal removes the easy witness the five wanted; the code opens the cohort ledger they can prove.
+
+Their responses prevent the academy from dividing into rescuers and jailers. Medicine, employment, dependants, defense, affection, and professional duty point in different directions before anyone knows the whole program.
+
+## Authority by Verb
+
+| Action | Narrow owner | What that owner does not own |
+| --- | --- | --- |
+| Select Finalists and assign Seats | Meridian formation faculty recommends; Kinship's clinical-selection board certifies | Neither office owns sponsor contracts or classified disposition. |
+| Continue medicine and scholarships | House clinic, insurers, and scholarship trusts each authorize their portion | No one office can guarantee housing, licensing, treatment, and component access together. |
+| Recompose a household or reassign a cadet | Kinship placement committee acting through clinical and formation findings | Vey may delay for welfare reasons but cannot cancel the underlying terms. |
+| Classify a placement as service | Lantern Compact personnel secretariat and participating House contract offices | They receive fitness and custody findings, not Necro process records. |
+| Hold AFTER as hardware | Joint House custody trust under ship-mind admissibility rules | The trust can possess components while lacking authority to settle whether the distributed pattern is a person. |
+| Schedule AFTER's wipe | Custody trust maintenance office after a Kinship stability finding | Meridian staff execute the window but do not own the classification that makes it maintenance. |
+| Retain Vesper patterns and test Necro | Compartmentalized Continuity Materials Office | It does not own student welfare, academy discipline, or public Final Fist records. |
+| Launch the Necro Concord | Compact emergency deterrence cell under a sealed continuity clause | Vey and ordinary exercise control receive an unlisted friendly hull, not donor provenance. |
+| Control the exercise and issue a local abort | Meridian exercise control; Vey holds academy safety authority | Local control cannot countermand the Compact's sealed emergency launch clause. |
+| Override the abort | Compact emergency deterrence cell through House range-security relays | The cell owns the declared emergency interval, not routine academy safety or the resulting public account. |
+| Classify or purge evidence | Separate House security, sponsor secrecy, clinic privacy, and procurement-record offices | Each can suppress its own records; none can erase every witness or independently publish the whole case. |
+
 ## Headmaster Ansel Vey
 
 Vey survived a government removed during the Unseating and the collapse that followed. Calyx opened the detention complex holding his family; the successor authorities failed to preserve its food and transit systems. Liberation and abandonment occupy the same childhood memory.
@@ -62,4 +97,4 @@ Vey remains because a replacement might reassign faster, cut medicine, or treat 
 
 His confidence comes from metrics measuring genuine goods. Students survive. Pain declines. Conflict recovery improves. Graduates obtain citizenship and admired careers. Sponsor confidence rises as Concord viability increases. Projected invasion casualties fall. The dashboards ingest fear, loyalty, grief, aspiration, affection, and professional pride, then return decisions without feeling any of them. Vey supplies the feeling at the interface.
 
-He presents a credible invasion forecast and can offer citizenship, debt release, medical continuity, family security, and public heroism. His error is ownership: he believes strategic power requires a governable permanent crown. During the escape, an unlisted launch enters the student exercise. Vey orders an abort and discovers emergency authority routes around him through provisions he has defended for years.
+He presents the Parallax-certified Directorate forecast and can offer citizenship, debt release, medical continuity, family security, and public heroism. His error is ownership: he believes strategic power requires a governable permanent crown. During the escape, an unlisted launch enters the student exercise. Vey orders an abort and discovers emergency authority routes around him through provisions he has defended for years. He opens the staff and cadet safety routes his office owns, then prevents the range system from purging its authenticated emergency log. The preserved record names the external authority that overrode him. It costs his career and plausible deniability without turning him into the architect of the students' escape.

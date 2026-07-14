@@ -12,13 +12,17 @@ Students argue that Vesper became a covert intervention team, defected with Hous
 
 A compartmentalized Kinship branch harvested Vesper after its failed Concordance trial. Years of training and esper aptitude had shaped precise somatic patterns in the Aether. Meridian converted each pilot's pattern into an **Aetheric Resonance Interface** and bound it to the corresponding component. The interface carries balance, joint expectation, transformation sequence, protective reflex, and the trained grammar by which a Figure becomes a body. A conventional executive stack supplies intention.
 
+No participant in the conversion signed one document authorizing that result. Vesper accepted classified service under terms permitting emergency treatment, indefinite component retention, and post-casualty continuity research. After the trial, medical examiners classified the pilots as irrecoverable for independent service. A House custody office took possession of their Figures. Interface technicians received donor patterns labeled as non-agentic calibration residue. Compact lawyers treated the service agreement as authority to preserve operational capability. The Continuity Materials Office combined those narrow permissions behind a compartment boundary.
+
+Its review packets never ask whether Vesper persists. They ask whether residual intention can enter command channels. **Executive exclusion** passes review because the answer is no: the donor topology shapes Aether and motion while a certified stack retains every command verb. Each office's statement is accurate inside the category it is permitted to see.
+
 The soul is present because its trained neural topology is what weaves the Aether and makes the interface useful. Its agency is excluded from the control plane. Meridian needs Vesper's embodied magic, not Vesper's permission.
 
-The working **Necro Concord** can assemble reliably, tolerate punishing acceleration, execute prepared combat routines, and sustain a nested Aetheric body. Internally, the separation of somatic pattern from command agency is called **executive exclusion** and recorded as a stability feature.
+The working **Necro Concord** can assemble reliably, tolerate punishing acceleration, execute prepared combat routines, and sustain a nested Aetheric body. Executive exclusion is recorded as its principal stability feature.
 
 Its ceiling follows from its architecture. One executive model interprets the battlefield and directs five fixed somatic systems. It is brutally effective within rehearsed command envelopes and escalates unfamiliar problems through the same central model. It possesses the body plan of a federation and the decision cycle of an ordinary military robot.
 
-The current household's hidden telemetry supplies the branch's missing geometric insight: boundaries respected between component bodies create a cleaner envelope. Meridian translates that discovery into fixed separation tolerances between harvested patterns.
+The current household's hidden telemetry supplies the branch's missing geometric insight: boundaries respected between component bodies create a cleaner envelope. Meridian translates that discovery into fixed separation tolerances between harvested patterns. Before the launch, the teenagers find interface-review fragments describing involuntary donor-pattern activation, protective reflexes firing against executive command, and pain-like phase conflict relabeled as control contamination. They understand what executive exclusion means before they see the machine.
 
 The Necro Concord moves with Vesper's signatures: an opening brace from a famous rescue, the protective turn students reproduce in simulators, and a transformation hesitation edited from official footage. The current Finalists recognize the legends they were trained to emulate, then the pain hidden inside the maneuvers.
 

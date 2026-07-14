@@ -47,7 +47,8 @@ The reader should repeatedly receive three pleasures: institutional procedure re
 - [[Braid]] — reading order, reverse/forward correspondence, reveal ladder, movements, convergence, and aftermath.
 - [[Concordance]] — AFTER's shared embodiment and the constitutional mechanics of crown transfer and refusal.
 - [[Story Constraints]] — social body, invariants, prohibited resolutions, and reader contract.
-- [[Distributed Critic Review 2026-07-15]] — focused character-persistence, thematic-structure, and institutional-materialist review passes.
+- [[Distributed Critic Review 2026-07-15]] — superseded pre-repair review preserved as historical diagnostic evidence.
+- [[Focused Repair Review 2026-07-15]] — post-repair verification of the previously identified planning blockers.
 - [[Concept Art/Daedal Production Figure v7.prompt|Concept Art]] — accepted Daedal production-Figure direction and saved generation prompt.
 
 ## Canon and Invention Boundary
@@ -69,7 +70,7 @@ The reader should repeatedly receive three pleasures: institutional procedure re
 ### Story-Local Invention
 
 - Calyx, the Fivefold, the Unseating, Harrowglass, and the century without full Concordance
-- Meridian, Final Fist, Project Kinship, its sponsors, and the invasion forecast
+- Meridian, Final Fist, Project Kinship, the Lantern Compact, the Continuance Directorate, and the invasion forecast
 - All named characters and standardized Seats
 - AFTER's distributed persistence through recovered Calyx hardware
 - Vesper Fist, harvested ARIs, and the Necro Concord
@@ -79,4 +80,4 @@ Promotion requires a separate continuity decision after the story proves which h
 
 ## Next Development Pass
 
-Turn the causal arc requirements in [[Meridian/Characters]] and [[Calyx/The Fivefold]] into chapter-level choices inside [[Braid]]. Specify Meridian's legal authority, the invasion actor, the escape volume, and the post-exposure costs before drafting chapters.
+Bootstrap the repaired topical room into the [[../Novella Foundry/index|Novella Foundry]] beginning with Pass 1 authority extraction. Treat these notes as inherited design inputs rather than retroactively completed passes. Material work must still specify the escape volume and post-exposure costs before drafting chapters.

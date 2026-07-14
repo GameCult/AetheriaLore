@@ -6,6 +6,8 @@
 
 The story must preserve the agency and material presence of ordinary cadets and families; current and former Kinship teams; Vesper's pilots; teachers, clinicians, cooks, fabricators, riggers, security, and medical workers; staff with different knowledge; populations threatened by invasion; communities affected by the Unseating; and the Houses, sponsors, insurers, and custody authorities claiming the Figures and AFTER.
 
+Recurring school-side decision owners include Rhea Mott, Jun Vale, Pava Neris, Enna Quill, Marae Dho, and Aru Sen. They must disagree for material reasons and alter what the protagonists can do; none exists only to certify that escape is correct.
+
 No aggregate becomes innocent merely by opposing Meridian, and no worker becomes identical with the institution because their labor keeps it running.
 
 ## Narrative Invariants
@@ -21,10 +23,13 @@ No aggregate becomes innocent merely by opposing Meridian, and no worker becomes
 - Refusal materially changes the climax and improves coherence.
 - Calyx produced liberation and domination pressure; neither cancels the other.
 - The invasion model is credible. Meridian's abuse does not make the threat imaginary.
+- The Continuance Directorate's expansion and the Lantern Compact's forecast remain credible without turning predicted casualties into consent.
 - Vey is complicit in Kinship and deceived about Necro. His opposition cannot switch off distributed authority.
 - Meridian genuinely educates and serves students. Ordinary cadets have divided responses and are not scenery.
 - Escape does not require staff stupidity, universal cruelty, or universal sympathy.
 - Found family emerges through work, repair, boundaries, humor, and chosen obligation.
+- At least one honored refusal makes the immediate plan worse. Consent cannot matter only when it improves performance.
+- Component expertise remains local while crown and coordination offices are practiced, transferable work rather than permanent identities.
 
 ## Prohibited Resolutions
 
