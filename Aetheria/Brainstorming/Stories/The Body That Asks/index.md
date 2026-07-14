@@ -47,6 +47,7 @@ The reader should repeatedly receive three pleasures: institutional procedure re
 - [[Braid]] — reading order, reverse/forward correspondence, reveal ladder, movements, convergence, and aftermath.
 - [[Concordance]] — AFTER's shared embodiment and the constitutional mechanics of crown transfer and refusal.
 - [[Story Constraints]] — social body, invariants, prohibited resolutions, and reader contract.
+- [[Distributed Critic Review 2026-07-15]] — focused character-persistence, thematic-structure, and institutional-materialist review passes.
 - [[Concept Art/Daedal Production Figure v7.prompt|Concept Art]] — accepted Daedal production-Figure direction and saved generation prompt.
 
 ## Canon and Invention Boundary
