@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 17
+
+- `Biodrone.md` fell from 861 to 659 words. It now owns the purpose-grown biological labor category, material dependence, provenance, variable cognition, and recognition conflict without fake specifications, invented product histories, or a universal hidden inner life.
+- `Substrate-Matched Cognition.md` fell from 730 to 660 words. Developmental embodiment, probabilistic fit, copy uncertainty, commercial fit and drift, and distributed deployment authority replace universal product-role psychology and duplicated company or custody doctrine.
+- `Ratfolk.md` fell from 1,161 to 681 words. A minimal biological and displacement spine now supports plural societies, contested representation, accessibility, translation failure, and first-contact pressure without species-wide phobias, government, religion, technology tree, or political destiny.
+- Final verification repaired the Pallas strike's premature ALF attribution, defined biodrone and uplift by provenance rather than recognition, and restored the evidence-action boundary in `AGI Esper.md`.
+
 ### Wave 16
 
 - `Restrictions on Warfare.md` fell from 920 to 818 words. It now owns the bounded PSC-era architecture of permits, bonds, evidence, recognition, sanctions, arbitration, access, and contingent enforcement without turning invented financial products or automatic surveillance into universal law.

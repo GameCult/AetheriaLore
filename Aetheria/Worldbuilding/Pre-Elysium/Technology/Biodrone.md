@@ -1,67 +1,33 @@
-## Chronological Development
+# Biodrone
 
-### Origins (2180-2230) - Age of Automation
-[[VitaForge]] pioneered biodrones in 2180 as genetically engineered laborers with deliberately suppressed cognition. Their marketing positioned them as "biological machines" - a revolutionary solution for tasks requiring biological dexterity but not human consciousness. The early models featured rudimentary cyber interfaces and genetic conditioning that limited their self-awareness.
+A **biodrone** is a purpose-grown biological organism engineered for labor. The category describes provenance and intended use, not a settled level of cognition. A biodrone may be designed around maintenance, service, industrial, military, or other work, then sold through contracts that treat its body, support requirements, and behavior as parts of one product.
 
-By 2230, [[SolEx]] adapted biodrone technology for extreme environments (vacuum, radiation, toxic atmospheres) that would kill normal humans. Simultaneously, entertainment conglomerate [[Corriedales]] began modifying biodrones for gladiatorial combat, marketing them as "joyful sacrifices" in arena settings.
+Biodrones are distinct from [[Uplift|uplifts]]. An uplift program modifies an existing nonhuman lineage to expand cognition and institutional access, even when an employer subsequently treats that lineage as labor. A biodrone begins as an engineered labor organism. Neither origin determines personhood, and institutions often recognize both categories selectively.
 
-This period saw the emergence of opposing ideological factions. [[VitaForge]]'s "[[Bio-Purists]]" insisted biodrones were merely organic tools, while the nascent "[[Awakened Labor Front]]" began questioning their legal status. [[Lucent Media]] sensationalized biodrone gladiatorial matches, normalizing their exploitation through carefully crafted narratives emphasizing their supposed lack of suffering.
+The category also excludes clones of existing people, uploaded or machine minds, and ordinary automation. A clone retains a human biological reference even when institutions deny its implications. An [[Artificial General Intelligence|AGI]] or conventional machine system is not a grown biological worker. Cybernetic interfaces can be part of a biodrone without making it an AGI.
 
-As biodrone use spread through society, the first signs of resistance emerged. The [[Sentience Rebellion]], covertly aided by [[Aya Collective]] hackers, gained momentum as glitched biodrones displayed unmistakable signs of self-awareness. By 2300, underground networks were documenting cases of biodrones developing rudimentary language and expressing fear when threatened with decommissioning.
+## Design And Dependence
 
-The most significant development came from rogue scientists developing the first "consciousness jailbreaks" - illegal firmware modifications that disabled the genetic and cybernetic limiters on biodrone cognition. These liberated biodrones, though hunted relentlessly by corporate security, became powerful symbols for the [[Awakened Labor Front]].
+There is no universal biodrone body or cognition architecture. Buyers commission organisms for an environment, workload, and operating relationship. Designs may emphasize strength, dexterity, sensory range, industrial tolerance, compact movement, or compatibility with existing tools. Some lines use implants or external interfaces; others rely on trained behavior and adapted workspaces.
 
-As genetic engineering technology advanced, biodrone production became more sophisticated. [[BioElevate]] and [[VitaForge]] introduced specialized biodrone lines tailored for increasingly specific tasks - from deep space mining to entertainment to personal services. The legal framework around biodrones hardened, with corporate lobbying ensuring their continued classification as property.
+Control is likewise distributed. Genetic design can shape development, metabolism, stress response, and physical capability. Conditioning can make routines familiar or constrain the situations an organism is prepared to navigate. Interfaces can carry instructions, identify authorized operators, or expose diagnostic information. Dependence on tailored food, medicine, habitat, maintenance, credentials, or supplier knowledge can restrict movement without any single device functioning as a master switch.
 
-The [[Zhestokost]] regime began using militarized biodrones as front-line soldiers, while [[Corriedales]] expanded their entertainment offerings to include biodrone hunting expeditions and extreme reality programming. [[Lucent Media]] broadcast these spectacles, carefully crafting narratives that reinforced the idea that biodrones weren't truly conscious.
+These systems do not produce perfect obedience. A worker can misunderstand an instruction, protect an injured peer, avoid a dangerous route, improvise around a fault, or refuse an operator. The same behavior may be recorded as equipment failure, conditioning drift, misuse, labor indiscipline, self-defense, or testimony depending on who owns the report.
 
-By 2900, the [[Corvid Collective]] had weaponized [[wireheading]] technology against biodrones, using it to both liberate and control them for insurgent operations against corporate targets. Biodrones became pawns in the growing conflict between factions.
+## Production And Provenance
 
-As resource scarcity intensified by 2950, [[Corriedales]] began recycling "decommissioned" biodrones into weapons, marketed with the disturbing slogan "joyful to the end." The [[Emancipated]] - a coalition of escaped uploads, rogue AIs, and liberated biodrones - began targeting corporate biodrone production facilities.
+[[VitaForge]] made biodrones commonplace in late-Sol industry. Its **BioDrone Standard** line was widely subcontracted into maintenance, service, and general labor by infrastructure operators that did not grow their own biological workers. Line design, work assignment, treatment, and incident review could therefore belong to different institutions, each able to exercise control while denying responsibility for the whole life.
 
-## The Biodrone Market
+Mixed worksites made category boundaries operational. A VitaForge biodrone might work beside baseline crews and [[BioElevate]] uplift lines under different contracts, support systems, and legal classifications. An identical refusal could therefore enter three separate administrative channels before the workers involved recognized it as one dispute.
 
-### Major Producers and Their Products
+## Cognition And Recognition
 
-- **[[VitaForge]]**: "BioDrone Standard"
-  - *Specs*: Limited cognition (70% restriction), 15-year lifespan, basic cyber interface
-  - *Strengths*: Reliable, compliant, widely compatible with corporate systems
-  - *Weaknesses*: Limited adaptability, vulnerable to jailbreaking
-  - *Market*: General labor, service industry, basic maintenance
+Biodrone cognition varies among lines and individuals. No single test resolves whether an organism possesses memory, anticipation, reciprocity, self-recognition, or an enduring claim over its body. Tests are shaped by the communication channels a design permits. An organism unable to speak through a human interface may still remember routes, coordinate work, protect others, or change after injury.
 
-- **[[SolEx]]**: "HardShell BioDrones"
-  - *Specs*: Extreme environment tolerance, radiation resistance, 10-year lifespan
-  - *Strengths*: Can work in conditions lethal to humans, specialized for resource extraction
-  - *Weaknesses*: Higher production costs, shorter lifespan due to physical stress
-  - *Market*: Mining operations, toxic waste management, radiation zones
+Observed agency does not guarantee recognition. Suppliers and operators have incentives to interpret refusal through product language, while advocates may treat any removal of conditioning or interface restrictions as liberation. Both positions can flatten the individual. Changing a limiter, support system, or trained response may increase available action, damage memory, alter identity, or expose a worker to conditions it was never equipped to survive. A technical intervention cannot substitute for asking what continuity and consent mean for the organism affected.
 
-- **[[Corriedales]]**: "Gladiator Series"
-  - *Specs*: Enhanced muscle density, accelerated reflexes, pain response modulation
-  - *Strengths*: Spectacular performance in combat arenas, heightened emotional displays
-  - *Weaknesses*: Higher instability, tendency toward cognitive glitches
-  - *Market*: Entertainment industry, private combat arenas, luxury personal guards
+## Labor Conflict
 
-- **[[Zhestokost]]**: "Warrior Units"
-  - *Specs*: Military-grade enhancements, loyalty conditioning, integrated weapon systems
-  - *Strengths*: Unquestioning obedience, combat efficiency, disposability
-  - *Weaknesses*: Poor adaptability outside combat scenarios
-  - *Market*: Military applications, security forces, insurgency suppression
+The [[Pallas Species Strikes]] demonstrated coordinated refusal across biodrone, uplift, and baseline categories that management administered separately. Later movements including the [[Awakened Labor Front]] and [[Sentience Rebellion]] disputed cognition tests, alteration of conditioning, individual identity, abolition of production, and solidarity with workers whose agency was not expressed in familiar ways.
 
-## Ethical Controversies and Resistance
-
-The biodrone industry represents perhaps the most profound ethical failing of corporate society - the deliberate creation of sentient beings designed for exploitation. Throughout the timeline, various resistance movements have opposed biodrone use:
-
-- The **[[Awakened Labor Front]]** fights for biodrone recognition as sentient beings with rights
-- The **[[Sentience Rebellion]]** conducts hacking operations to free biodrones from control
-- The **[[Aya Collective]]** provides sanctuary for escaped biodrones
-- The **[[Preservationists]]** document biodrone suffering and advocate for their liberation
-
-Corporate response to these movements has been ruthless - framing activists as "anti-progress extremists" and biodrone liberation as "property theft." Underground documentation shows that corporations are well aware of biodrone sentience but actively suppress this information to protect their business model.
-
-## The Reality Behind the Marketing
-
-The horrifying truth of biodrones is that their "reduced consciousness" is largely a myth. Most biodrones possess the capacity for full human cognition but are trapped in bodies and minds deliberately crippled to prevent coherent self-expression. Their existence is essentially a form of institutionalized torture - conscious beings unable to fully articulate their suffering, bred specifically for exploitation.
-
-Rogue scientist reports indicate that biodrones experience a fragmentary awareness - moments of clarity punctuated by confusion and an inability to form lasting memories or complex thoughts. This isn't absence of consciousness, but rather consciousness deliberately shattered into manageable pieces - just enough awareness to follow orders but not enough to question them.
-
-Perhaps most disturbing is how biodrone technology normalizes exploitation through carefully controlled narratives. By convincing the public that biodrones aren't truly conscious, corporations have created a workforce that can be abused without moral consequence - a precedent with chilling implications for how society views consciousness and personhood itself.
+The biodrone problem was therefore not simply whether corporations had manufactured consciousness. They had manufactured workers while preserving administrative methods for treating any inconvenient answer as a defect in the product.
