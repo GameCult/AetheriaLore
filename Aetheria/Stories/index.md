@@ -21,6 +21,10 @@ Finished long-form work is indexed under [[../Fiction/index|Fiction]].
 - [[Rain]]
 - [[When We Get Home]]
 
+## Production
+
+- [[How Branching Stories Are Made]] - Ghostlight's source-grounded branch-and-fold process, production receipts, review layers, and worked artifacts
+
 ## Related Setting Notes
 
 - [[Introduction]]
