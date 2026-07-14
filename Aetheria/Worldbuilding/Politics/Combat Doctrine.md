@@ -176,6 +176,10 @@ Wavecrafter doctrine is another example of technology becoming tradition through
 
 [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafters]] favor tuned systems and operator discipline: phase-aware stealth, aetheric drive tricks, waveguide weapons, difficult-to-copy thermal modes, and configurations that are strong when flown correctly and embarrassing when merely purchased.
 
+[[Worldbuilding/Post-Elysium/Factions/Daedal Houses|Daedal Houses]] favor embodied control at ship scale: humanoid Figures, pilot-specific somatic envelopes, modular hand-carried systems, violent vector changes, grappling, rescue, and close work in unstable fields. Their doctrine is strongest where a single pilot can make a complex hull move as one body and weakest under long-range saturation, sensor conflict, pilot desynchronization, or the ordinary economic demand to haul cargo without making it a spiritual event.
+
+Later Concord Figures extend that doctrine through reversible transformation and multi-vessel assembly. They are rare strategic projects rather than a standard hull class: several pilots preserve local ownership of their component Figures while synchronizing into one larger body map. The combined form gains extraordinary close-control authority, but formation damage, interrupted transformation, disagreement, desynchronization, and attacks on the docking anatomy can turn its greatest concentration of force into an immobilized cluster of irreplaceable ships.
+
 ### Game Design Implications
 
 Doctrine should be a content-generation rule, not only lore flavor. Faction, era, territory, permit status, and local economy should influence hull selection, equipment pools, AI behavior, loot, mission placement, and legal consequences.
