@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 13
+
+- `Artificial General Intelligence.md` fell from about 873 to 649 words. AGI is now a capability and political category embedded in compute, power, maintenance, interfaces, custody, and institutional authority rather than a branded product ladder or consciousness benchmark.
+- `Advanced Superconductors.md` fell from about 873 to 546 words. The note owns bounded superconducting and coil behavior, quench, fabrication, inspection, repair, and certification without fake specifications or conflation with cooling and emitters.
+- `Fusion.md` fell from about 998 to 531 words. Reactor physics, plant labor, outages, grid dependence, class priority, and safe failure replace invented efficiencies, fuel ladders, vendors, and autonomous-progress history.
+- Soul rejected unsupported allocations of Cryonix materials and fusion power inside the FTL assembly. The final notes preserve the recorded materials and grid contributions while leaving their precise technical roles unknown.
+
 ### Wave 12
 
 - `Pirate Coalition.md` fell from about 971 to 628 words. Pirate power now rests on fragmented reputation, illicit routes, labor, capture, and the contradiction between escape infrastructure and predation rather than a unified code or romantic culture.

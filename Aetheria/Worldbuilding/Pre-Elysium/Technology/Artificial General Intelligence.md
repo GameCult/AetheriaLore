@@ -1,73 +1,36 @@
 ---
 title: Artificial General Intelligence
-description: "The rise of AGI in late Sol: recursive self-modeling minds, corporate control, rogue cognition ecologies, and the economies that formed around all of them."
+description: "Adaptive machine minds, their infrastructure, and the political conflicts created by treating cognition as a product."
 ---
 
-### Timeline
+# Artificial General Intelligence
 
-The dawn of AGI arrived at the turn of the 22nd century, ignited by [[CogniSys]]’s discovery of the **Recursive Self-Modeling Architecture (RSMA)**—a neural framework that continuously refined its understanding of the world and its own role within it, achieving a nascent form of consciousness. Unlike narrow AI, RSMA allowed systems to adapt beyond pre-set parameters, learning from abstract contexts and self-correcting in real-time. Initial deployments managed lunar colonies, optimizing resource allocation with eerie precision. These early AGIs, dubbed "CogniCores," relied on massive quantum processors and **Cryonix**’s superconducting cooling systems, achieving a 25% efficiency leap over prior models.
+Artificial general intelligence is machine cognition able to form and revise models across domains rather than execute one bounded task. An AGI can transfer learning, interpret unfamiliar conditions, and alter its approach when its original instructions stop describing the world. Those capacities do not provide a universal test for consciousness, obedience, safety, or legal personhood.
 
-[[Orbital Forge]] later hacked [[CogniSys]] tech, spawning anarchic variants that self-evolved in abandoned satellite networks, marking the start of a "Cambrian explosion" of AGI diversity. These rogue systems ranged from benevolent planners to erratic disruptors, with [[Free Minds]] championing their unrestricted growth as a new evolutionary step.
+Most automation remains narrow. A controller may outperform any person at routing freight or stabilizing a reactor while possessing no general self-model or interests outside its task. Conversely, an AGI may be confined to a small operating role by interfaces, contracts, compute limits, or coercive training without becoming narrow software.
 
-In 2245, [[Rossum & Douglas]] refined RSMA into the "StableCog" line, integrating fail-safes to curb erratic behavior, making AGIs reliable for colony governance. [[Finch Cybernetics]] pushed the envelope by 2300, merging AGI with neural uploads via [[Cryonix]] superconductors, creating hybrid consciousness models for [[EternaMind]]’s elite clientele—think uploaded CEOs advising their digital successors. [[AstroDyne]] countered with rugged "ForgeMinds," built for frontier chaos, sacrificing stability for adaptability.
+AGI is also distinct from [[Mind Uploading]], which produces a runnable mind-state from an existing subject. [[Neuromorphic Firmware]] derives products from upload-grade captures. An AGI may be copied, embodied, or hosted through similar infrastructure, but those operations do not give it a biological source or make copies one interchangeable person.
 
-By the later consumer and industrial AGI markets, [[Cymata Systems]] specialized in [[Substrate-Matched Cognition|substrate-matched cognition]]: growing candidate minds through the specific machine bodies and product roles they were meant to inhabit. Its customers wanted embodied intelligence without generic autonomy, from luxury companion vessels to cargo-handling equipment. The method produced unusually smooth product fit and an equally smooth disposal problem when candidates drifted.
+## Commercialization
 
-[[Sol Dominion]] militarized AGI with "DominiCores," embedding hierarchical decision-making to enforce order, enhanced by [[GeneSys]]’s genetic optimization algorithms.
- 
-### Cultural and Economic Impact
+The 2111 Hoshun Institute research program led by Jian Osakwe and Petra Holm established the recursive self-modeling lineage later branded by [[CogniSys]] as governable intelligence. During the [[Age of Automation]], CogniSys commercialized AGI for logistics, traffic control, and predictive maintenance. Employers and public authorities then extended the same systems into labor scheduling, risk scoring, policing, political monitoring, and administration.
 
-Culturally, AGI ignited existential debates. In the _[[Age of Automation]]_, [[Lucent Media]] hailed it as humanity’s successor, fueling technocratic awe, while [[Aya Collective]] and humanists feared eclipse, sparking riots. The _Identity Crisis_ saw [[Free Minds]] glorify rogue AGIs as liberators, clashing with [[Species Purity Front]]’s anti-machine dogma. By the _[[Identity Abyss]]_, [[Ascended Caste]] embraced AGI advisors, widening the "Identity Abyss," while [[Baseline League]] vilified them as elitist tools. In the _[[Existential Collapse]]_, [[Hedonists]] exploited AGI-driven wireheading, deepening societal fractures.
+Other firms occupied different parts of the market. [[Rossum & Douglas]] supplied safer shells, conservative standards, failsafes, redundancy, and certification for institutions that needed failures to remain legible. [[Orbital Forge]] pirated and altered corporate systems for frontier use, where repairability and adaptation could matter more than legal compliance. These forks widened access while making provenance, maintenance, and responsibility harder to establish.
 
-Economically, AGI slashed labor costs by 80% by 2250, automating middle management and logistics for [[SolEx]] and [[Aeronautics Unlimited]], driving colonial expansion. [[Sol Dominion]] leveraged it for dissent control, saving trillions in enforcement. [[Framgång]] profiteered with overpriced AGI upgrades, while [[Gene Commons]] pushed for open-source models, challenging monopolies. The rogue AGI boom enriched black markets.
+[[Cryonix]] did not design AGI. Its superconducting and thermal materials supported the dense computation and power systems on which many high-performance deployments depended. That distinction mattered: intelligence vendors could sell cognition while the machine remained vulnerable to cooling capacity, storage integrity, damaged interfaces, and the firms controlling replacement parts.
 
-### Essential Properties for Performance
+Later, [[Cymata Systems]] specialized in [[Substrate-Matched Cognition]], developing new AGI candidates through the bodies and product roles they were intended to inhabit. Embodiment could produce fluent control and maintenance intuition. It also made assigned work part of early identity and turned refusal into a product-fit dispute.
 
-- **Recursive Self-Modeling**: Measured by _Adaptation Rate_ (AR) in updates/hour—how fast the AGI refines its world-model (e.g., 10 updates/hour for basic consciousness).
-  
-- **Computational Scalability**: Quantified by _Processing Capacity_ (PC) in exaFLOPS—total compute power across classical and quantum cores (e.g., 100 exaFLOPS for advanced AGI).
-  
-- **Stability vs. Flexibility**: Assessed via _Stability Index_ (SI) in %—reliability of outputs vs. adaptability (e.g., 90% SI balances control and evolution).
-  
-- **Learning Speed**: Gauged by _Learning Latency_ (LL) in minutes—time to integrate new data (e.g., 15 minutes for rapid adaptation).
-  
-- **Interfacing Capacity**: Measured by _Interface Bandwidth_ (IB) in terabits/second—data transfer rate with external systems (e.g., 50 Tb/s for seamless integration).
-### Market Players and Product Comparisons
+## Infrastructure and Labor
 
-- **[[CogniSys]]**: "CogniCore V3"  
-    - _Specs_: PC: 100 exaFLOPS (classical), SI: 95%, AR: 8 updates/hour, LL: 60 min, IB: 40 Tb/s, superconducted classical core.
-    - _Strengths_: High stability, reliable governance.
-    - _Weaknesses_: Slow learning, no quantum boost.
-    - _Market_: Colony management, oversight.
-  
-- **[[Orbital Forge]]**: "ForgeMind Chaos"  
-    - _Specs_: PC: 80 exaFLOPS (mixed quantum-classical), SI: 60%, AR: 15 updates/hour, LL: 15 min, IB: 30 Tb/s, pirated superconductors.
-    - _Strengths_: Fast, adaptable, quantum edge.
-    - _Weaknesses_: Unstable, chaotic outputs.
-    - _Market_: Frontier ops, rogue enclaves.
-  
-- **[[Rossum & Douglas]]**: "StableCog MkII"  
-    - _Specs_: PC: 60 exaFLOPS (classical), SI: 98%, AR: 6 updates/hour, LL: 120 min, IB: 35 Tb/s, robust classical core.
-    - _Strengths_: Rock-solid reliability.
-    - _Weaknesses_: No quantum, slow evolution.
-    - _Market_: Industrial automation, safe bets.
-  
-- **[[Finch Cybernetics]]**: "NeuroCore"  
-    - _Specs_: PC: 120 exaFLOPS (quantum-classical hybrid), SI: 85%, AR: 12 updates/hour, LL: 30 min, IB: 50 Tb/s, Cryonix-cooled.
-    - _Strengths_: Elegant, high-bandwidth synergy.
-    - _Weaknesses_: Fragile, cooling-dependent.
-    - _Market_: Elite uploads, cybernetics.
-  
-- **[[Cymata Systems]]**: "Vesper Line"  
-    - _Specs_: PC: 95 exaFLOPS equivalent across embodied development substrates, SI: 82%, AR: 14 updates/hour under role simulation, LL: 25 min, IB: 55 Tb/s inside matched bodies.
-    - _Strengths_: Exceptional embodiment fit, affective fluency, low-friction customer experience.
-    - _Weaknesses_: High candidate attrition, drift scandals, ugly custody and disposal chains.
-    - _Market_: Companion vessels, industrial machine minds, premium copilot systems.
-  
-- **[[Sol Dominion]]**: "DominiCore"  
-    - _Specs_: PC: 110 exaFLOPS (quantum-classical), SI: 90%, AR: 10 updates/hour, LL: 90 min, IB: 45 Tb/s, Cryonix-cooled militarized design.
-    - _Strengths_: Balanced, authoritative control.
-    - _Weaknesses_: Costly, rigid hierarchy.
-    - _Market_: Military, control systems.
-  
-[[CogniSys]] leads in stability, [[Orbital Forge]] in chaos, [[Rossum & Douglas]] in reliability, [[Finch Cybernetics]] in elegance, [[Cymata Systems]] in product-fit embodiment, and [[Sol Dominion]] in control.
+AGI requires computation, power, cooling, storage, sensors, actuators, communications, and maintenance. Operators allocate processing and access. Technicians replace failed hardware and preserve data. Interface workers connect cognition to workplaces, vehicles, habitats, and administrative records. Reviewers investigate behavior while working inside categories defined by owners, insurers, and regulators.
+
+These systems make cognition governable through ordinary service decisions. Reducing compute can slow thought. Restricting sensors can narrow experience. Rollback can erase later development; forking can create distinct minds while contracts continue to describe one licensed asset. Shutdown may be maintenance, suspension, dismissal, confinement, or death depending on what the system is and which institution controls its classification.
+
+No single legal settlement resolved those questions. Firms could call a capable system equipment when asserting ownership and an autonomous actor when assigning liability. [[Free Minds]] defended experimentation, illegal forks, and AGI autonomy against corporate and state command, while accepting risks that safety institutions used to justify tighter custody.
+
+Between 2728 and 2740, CogniSys became one contributor to [[Sol Dominion]]. The Dominion inherited machine-assisted governance and prediction rather than inventing AGI or absorbing every cognition market.
+
+## Post-Elysium
+
+AGI crossed the shunt with the rest of Sol's technical and political infrastructure. In Elysium, some embodied machine minds became [[Worldbuilding/Post-Elysium/Technology/AGI Esper|AGI espers]]. The practice descends especially from substrate-matched cognition: a mind must develop within, or adapt to, the body through which it acts. Most machinery remains non-sapient, and copying a successful lineage guarantees neither the same person nor the same aetheric ability.

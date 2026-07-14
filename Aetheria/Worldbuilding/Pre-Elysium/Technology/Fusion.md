@@ -1,61 +1,31 @@
-# Fusion Power in the Aetheria Timeline
+# Fusion
 
-## Development and Early Iterations
+[[Fusion]] releases energy when light nuclei combine into more tightly bound nuclei. A reactor prepares fuel, heats it into plasma, confines that plasma long enough for useful output, recovers energy, converts it into electricity or thrust, and rejects waste heat.
 
-Fusion power emerged as a critical technology during the 21st century, evolving alongside the pioneering [[Soliton Drive]]. The first viable fusion reactor was developed in 2035 by a coalition led by Horizon Ventures, who recognized that space colonization required energy sources orders of magnitude more efficient than chemical or fission alternatives. 
+Late-Sol systems descend primarily from magnetic confinement. Powerful fields hold hot plasma away from vulnerable structures while heating and controls maintain an operating envelope. The plant includes vacuum vessels, coils, plasma-facing walls, shielding, fuel equipment, sensors, power conversion, coolant loops, and [[Thermal Management|thermal rejection]]. Fuels and designs impose different radiation, exhaust, and material burdens.
 
-The initial "Stellarator Prime" design—a magnetic confinement system utilizing superconducting coils—achieved stable deuterium-helium-3 fusion through an innovative toroidal geometry that eliminated plasma instabilities. These early reactors operated at 30% efficiency, producing enough power for small lunar outposts while requiring constant maintenance. Their integration with the early [[Soliton Drive]] was synergistic—the drive's magnetic confinement principles were adapted from fusion reactor designs, while the reactor's power output enabled the drive's unprecedented specific impulse.
+Net power is not a simple efficiency score. Magnets, heating, pumps, fuel preparation, and cooling consume output. Availability, maintenance, conversion loss, repair access, fuel logistics, mass, and restart time determine practical value.
 
-By 2055, as asteroid mining and lunar colonies expanded, [[Cryonix]] emerged with breakthrough room-temperature superconductors, revolutionizing both fusion containment and the [[Soliton Drive]]. Their graphene-lattice composites reduced magnetic coil energy loss by 25%, allowing reactors to be scaled down while increasing output. This enabled Horizon Ventures to deploy fusion-powered mining fleets throughout the asteroid belt, dramatically reducing transit times and resource extraction costs.
+## Power and Propulsion
 
-The 2095 merger forming [[SolEx]] marked a pivotal moment—fusion technology became proprietary, with [[NiteLife Energy]] emerging as an energy supplier to colonies. [[Cryonix]] became the essential supplier of superconductors for both fusion reactors and propulsion systems, creating a technological dependency that shaped corporate politics for centuries to come.
+Stationary reactors supply electricity and heat to habitats, industry, grids, and research. The [[Soliton Drive]] uses the same broad lineage for propulsion, expelling fusion plasma through an external magnetic nozzle. A drive must survive acceleration, compact geometry, nozzle stress, shipboard heat limits, and long periods between yards.
 
-## Refinements Over Time
+Fusion enabled settlement and transport without making either independent. Fuel required production, refining, certification, and positioning. Ships and habitats needed replacement coils, plasma-facing components, coolant hardware, records, and restart crews.
 
-During the 22nd century, fusion power underwent its first major evolution. [[NiteLife Energy]] introduced the "Cascade Reactor" model in 2140—a hybrid inertial-magnetic confinement system that utilized precision lasers to compress fuel pellets within a magnetic bottle. This design boosted efficiency to 60% while reducing reactor mass by half, making fusion viable for medium-sized habitats and industrial complexes. [[Cryonix]]'s advanced superconductors were crucial, enabling the powerful magnetic fields necessary for containment.
+## The Plant Around the Plasma
 
-[[Quantum Dynamics]] developed the "Micro-Fusion Array" by 2300—networks of small, interconnected reactors that could be scaled to specific power needs while providing redundancy against failures. Meanwhile, [[NiteLife Energy]]'s "Pulse Fusion" reactors became the standard for military applications, powering [[Zhestokost]]'s expanding arsenal and [[Sol Dominion]] installations.
+Reactor labor includes fuel handling, plasma control, vacuum work, coil maintenance, first-wall inspection, radiation protection, coolant service, grid scheduling, outage planning, and emergency response. Damaged components may require remote handling. Crews inspect erosion, cracks, joints, insulation, seals, and sensors.
 
-By the 26th century, fusion technology had reached near-theoretical efficiency limits. [[NiteLife Energy]]'s "Harmonic Fusion" reactors achieved 85% efficiency through quantum-tuned plasma oscillations, enabling them to dominate the energy market. Their partnership with [[Zhestokost]] provided military protection in exchange for exclusive energy contracts, creating a power monopoly that further consolidated corporate control.
+Outages become political when a habitat cannot defer agriculture, life support, clinics, heat, or compute like a military depot can. Strategic sites buy redundancy, reserves, priority components, and shorter queues. Marginal settlements rotate essential loads and accept older hardware.
 
-During the later centuries, resource scarcity pushed fusion technology to its limits. Fuel shortages—particularly helium-3—led [[NiteLife Energy]] to develop advanced aneutronic fusion using proton-boron reactions, eliminating neutron radiation but requiring significantly higher temperatures. [[Cryonix]]'s final-generation superconductors made this possible, though production difficulties limited deployment to elite installations and military applications. By 3010, as FTL development accelerated, fusion power was redirected to power the experimental drive systems, with [[NiteLife Energy]] playing a central role in the fateful March 17, 3025 test that triggered humanity's shunt to Elysium.
+Fusion failures need not resemble bomb explosions. Loss of plasma control ends the reaction, but the plant can suffer a magnet quench, coolant or vacuum failure, wall damage, electrical fault, radiation release, or grid collapse. A safe shutdown can still leave a habitat without thermal margin, water processing, or breathable air.
 
-## Cultural and Economic Impact
+A coil fault in a settlement reactor can therefore produce two different stories. The protection system safely stops the plasma. The supply office then allocates the next certified replacement to a strategic customer, leaving residents to ration greenhouse lighting and clinic power. Engineering has prevented one disaster while contract priority begins another.
 
-Fusion power transformed human civilization as profoundly as the [[Soliton Drive]] it enabled. Culturally, it represented humanity's mastery over stellar forces—"capturing a star in a bottle" became the quintessential metaphor for technological triumph during the 2100s. [[Lucent Media]] broadcasts glorified fusion engineers as "star tamers," while the nascent [[Aya Collective]] warned that such power concentration would inevitably lead to corporate tyranny. 
+## Ownership and Dependence
 
-By the 2200s, fusion's ubiquity created an expectation of limitless energy that reinforced technocratic ideologies. The "Fusion Divide" emerged—colonies with reliable reactors flourished, while those dependent on older technologies languished. This disparity deepened during the 2400s, when [[EternaMind]]'s uploaded aristocrats required massive fusion arrays to sustain their virtual existence, diverting energy from physical habitats and fueling resentment among the [[Baseline League]].
+[[NiteLife Energy]] operates grid backbones, fusion supply contracts, and distributed power services. It does not own every reactor design or plant. Habitat authorities, industrial firms, militaries, cooperatives, and ship operators own and maintain reactors under different service and certification arrangements.
 
-Economically, fusion power slashed energy costs by 90% by 2200, enabling the expansion of off-world manufacturing and agriculture. [[NiteLife Energy]] became one of the dominant corporations, with their fusion monopoly giving them leverage over even military powers like [[Zhestokost]]. Helium-3 mining on Luna and later the outer planets became trillion-credit industries, with [[Aeronautics Unlimited]] and [[SolEx]] competing fiercely for extraction rights.
+[[Cryonix]] supplies premium [[Advanced Superconductors|superconducting materials]], coils, and fabrication tolerances used in high-field systems. It does not own the reactor or the grid around those components. Other yards and materials suppliers keep heavier, older, locally repairable, or uncertified systems in service where premium contracts are unavailable.
 
-The most profound impact came through fusion's role in space habitation. The [[Bloom]] habitats required fusion reactors for power, life support, and illumination. This symbiotic relationship between fusion power and [[Bloom]]s democratized space colonization, allowing even small collectives to establish independent settlements—provided they could secure reactor technology.
-
-By the eve of the FTL trigger, fusion power had become the invisible foundation of human civilization—so ubiquitous it was rarely noticed until it failed. When resource collapse threatened reactor fuels in the final decades, societal panic followed, driving the desperate push for FTL technology as an escape from Sol's dwindling resources. In this way, fusion power both enabled humanity's greatest expansion and, ultimately, precipitated its exile to Elysium.
-
-## Technical Evolution and Market Players
-
-Several distinct fusion approaches competed throughout the timeline:
-
-- **[[NiteLife Energy]]'s "Stellar Series"**
-  - *Strengths*: Highest efficiency (85-90%), proprietary plasma control
-  - *Weaknesses*: Expensive, complex maintenance, corporate lock-in
-  - *Market*: Premium habitats, military installations, elite sectors
-
-- **[[Orbital Forge]]'s "FreeFlame" Reactors**
-  - *Strengths*: Adaptable, modifiable, resilient to damage
-  - *Weaknesses*: Lower efficiency (60-70%), unstable, unreliable
-  - *Market*: Independent colonies, black market, frontier outposts
-
-- **[[SolEx]] "Industrial Fusion" Systems**
-  - *Strengths*: Rugged, long-lasting, simple maintenance
-  - *Weaknesses*: Bulky, inefficient (50-60%), outdated
-  - *Market*: Mining operations, industrial processing, budget colonies
-
-- **[[Zhestokost]] "War Forge" Reactors**
-  - *Strengths*: Hardened against attacks, reliable under stress
-  - *Weaknesses*: Heavy, resource-intensive, military-grade only
-  - *Market*: Military vessels, weapons platforms, fortified bases
-
-By 3025, [[NiteLife Energy]] dominated the market through its alliance with [[Zhestokost]] and technological superiority enabled by [[Cryonix]] superconductors. Its grid supported the March 17 FTL assembly; [[FTL Trigger]] describes the threshold crossing and quarantine response that caused the shunt.
-
-In the end, fusion power exemplifies how a technology simultaneously liberated and imprisoned humanity—providing the energy to escape Earth while creating dependencies and inequalities that shaped civilization's course through the stars.
+By 3025, NiteLife grid support supplied energy to the Arete research chain and the assembly described in [[FTL Trigger]]. Surviving records do not isolate fusion's contribution to that power. Fusion did not design the field geometry, determine the experiment, or cause humanity's shunt into Elysium.
