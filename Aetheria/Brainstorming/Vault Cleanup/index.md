@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 9
+
+- `NeuroSyn.md` fell from 1,800 to about 592 words. Its live authority is industrial BCI service, work access, telemetry, and the transition from safety infrastructure to labor governance; Corvid society, BCI mechanics, and NeuroPulse weapons remain elsewhere.
+- `Zhestokost.md` fell from about 1,526 to 632 words. The note now centers emergency logistics hardened into government, dependable provision exchanged for command authority, and the class structure around assignment, Moneta, industry, and continuity.
+- `Lucent Media.md` fell from about 1,361 to 796 words. Distribution, advertising, reputation, labor, and celebrity estates now carry its power without universal surveillance, invented life stages, or annexing independent suppliers.
+- Soul rejected editorial authority-map language, one universal adverb, and Lucent's misclassification of Corriedales. An apparent broken Zhestokost doctrine link was traced to shell encoding; the exact UTF-8 target exists and is substantive.
+
 ### Wave 8
 
 - `Daedal Houses.md` fell from 2,766 to about 1,046 words. The Houses now own Figure embodiment, labor, markets, Fists, and rare Concord governance while interface, drive, esper, custody, tuning, and admissibility mechanics remain with their source notes.

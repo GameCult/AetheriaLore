@@ -1,96 +1,33 @@
 *"If they must live inside a system, make sure they fall in love with the camera angle."*
 
-[[Lucent Media]] is the mega that turned attention into sovereignty. It began as a merger stack of entertainment platforms, ad-tech brokers, behavioral analytics firms, and celebrity management houses, then evolved into something much larger: a power that governs by deciding what counts as visible, desirable, scandalous, shameful, aspirational, and memorable.
+[[Lucent Media]] is a media conglomerate and territorial power built from distribution platforms, advertising exchanges, reputation services, production houses, and celebrity management. It does not need to dictate what people believe. It decides which lives receive an audience, which scandals remain searchable, which performances attract sponsors, and which public identities become commercially durable.
 
-Lucent does not simply distract people from politics. It metabolizes politics into content. Under its rule, dissent becomes a season arc, intimacy becomes monetizable telemetry, and selfhood becomes a brand format maintained under constant public pressure. It is one of the most socially invasive powers in the setting precisely because it often feels less like censorship than like permission to be seen.
+Lucent regards this work as cultural stewardship. Its archives preserve performances that would otherwise vanish; its networks connect distant settlements; its productions give dispersed populations common references, pleasures, and arguments. That mission is sincere. It is also inseparable from a business model that measures recognition, ranks its recipients, and sells access to the resulting social field.
 
-### Historical Lineage
+## From Network to Territory
 
-Lucent emerged during the late [[Corporate Exodus]] and early [[Age of Automation]] from the convergence of streaming empires, neural entertainment firms, and predictive advertising companies that realized the same underlying truth: whoever owns the emotional interface owns the market downstream of it.
+Lucent first accumulated power in the Earth-Luna media lattice. Transmission relays, production habitats, rights libraries, and advertising markets let it shape social life in territories governed by other powers. The [[Worldbuilding/Pre-Elysium/Timeline/Events/Lagrange Broadcast War|Lagrange Broadcast War]] exposed the material foundation beneath that influence: signal routes, docks, escort capacity, copies, and sanctions mattered as much as programming. Lucent retained its position by keeping distribution functional through partial physical losses.
 
-Its early expansion depended on three linked breakthroughs. First, high-bandwidth BCIs made full-sensory entertainment profitable. Second, reputation scoring created a generalized metric for social attention. Third, upload and copy technologies made celebrity continuity a renewable asset rather than a biological accident.
+Venus became its principal territorial base. Cloud-city studios, broadcast infrastructure, elite residences, and atmospheric works allowed Lucent to turn a production ecology into a political domain. The [[Worldbuilding/Pre-Elysium/Timeline/Events/Atmospheric Processing Dispute|Atmospheric Processing Dispute]] left that domain contested. The beauty Lucent marketed depended on climate engineering, food systems, maintenance crews, and land-use decisions that could not be resolved as matters of presentation.
 
-Lucent's rise to territorial power did not begin on Venus. It began in orbital broadcast infrastructure around Earth and Luna, where it learned to shape the social weather for populations physically governed by other powers. Only later, through the [[Lagrange Broadcast War]] and the [[Atmospheric Processing Dispute]], did it convert media power into a durable planetary domain.
+## What Lucent Sells
 
-### Political Logic
+Lucent distributes entertainment, news, advertising, live events, immersive media, and licensed personalities. It manages celebrity estates and authorized copies, allowing a public persona to continue appearing after the originating person has died, retired, forked, or lost control of the contract. Other factions buy audience research, sentiment analysis, campaign design, and access to Lucent distribution even when they distrust its politics.
 
-Lucent's core doctrine is simple: populations are easiest to govern when they experience self-exploitation as performance. Unlike [[Zhestokost]], which disciplines through overt hierarchy, Lucent disciplines through feedback hunger. Citizens are trained to seek validation, fear irrelevance, and voluntarily disclose the raw material from which governance can be assembled.
+Within Lucent systems, **Buzz** is spendable engagement credit earned through attention-producing work and participation. It can purchase promotion, platform services, and improved placement. **Clout** is a more durable reputation rank that affects sponsorship, search priority, dispute handling, and access to desirable work. Neither is a universal currency of Sol. They are Lucent instruments, valuable wherever its platforms and partners honor them. Buzz can help build Clout, while maintaining Clout demands continued visibility, making withdrawal expensive even for successful participants.
 
-That makes Lucent superficially permissive. Its territory appears flamboyant, diverse, emotionally expressive, and socially fluid. Underneath that permissiveness lies a ruthless classification engine. Every action contributes to visibility ranking. Every relationship can be framed for audience value. Every crisis can be repackaged as narrative capital if the editors move quickly enough.
+## Work on the Feed
 
-### Territory and Daily Life
+Most Lucent workers are not celebrities. They moderate abuse, clear rights, edit footage, maintain sets and transmission equipment, clean datasets, service habitats, schedule releases, manage advertisers, repair camera systems, and keep atmospheric or domestic infrastructure outside the frame running. Production depends on repetitive judgment and physical maintenance as much as spectacle.
 
-Lucent's principal territory is Venus and the Earth-Luna media lattice: cloud cities turned studio ecologies, orbital set-piece habitats, luxury upload estates, and family-targeted entertainment clusters managed through [[Corriedales]]. People there live inside an environment that is always partially staged.
+A moderator on a Venusian family channel may spend a shift removing threats from children's feeds, documenting sponsor risks, and escalating material that could create legal exposure. Her own account remains part of her employment record. If she stops posting, declining visibility weakens her Clout, narrows her next contract, and makes an ordinary request for privacy look like instability. Lucent need not watch every room. It can make opacity costly enough that workers supply the missing view themselves.
 
-A worker in Lucent space might spend the day moderating comments, managing brand feuds, maintaining drone-shot architecture, or servicing elite upload salons while also livestreaming enough of their own life to preserve creditworthiness. Privacy is scarce not because everyone is always literally watched, but because the system punishes opacity. The unwatched are suspect. The uninteresting are disposable.
+This system offers real mobility. A good performance, investigation, edit, or unexpected public moment can bring recognition to someone excluded elsewhere. It can also turn humiliation into somebody else's revenue and make a temporary audience feel like durable security. Careers often move from visible performance into editing, management, technical work, or obscurity. The danger is not that every ascent is fraudulent. It is that Lucent owns much of the route by which ascent becomes legible.
 
-Lucent's lower classes endure a peculiar kind of precarity. Their wages are unstable, their reputations are tradable, and their humiliations can be revenue-positive for someone else. Yet the system also gives them volatile avenues of ascent. A scandal, a viral feud, a sympathy arc, or a formatted redemption can raise someone temporarily above their structural station. That possibility is part of the trap.
+## Reality Architects
 
-### Economy
+The [[Reality Architects]] are editors, predictive dramaturges, perception engineers, and narrative strategists. They test framing, sequence disclosures, model audience response, and help institutions present events in emotionally persuasive forms. They cannot manufacture belief at will. Their advantage comes from privileged access to distribution, behavioral evidence, production capacity, and the authority to decide which version of an event receives sustained attention.
 
-Lucent's economy runs on layered extraction:
+Lucent works through controlled brands and independent suppliers without owning every domain it packages. Its [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Corriedales|Corriedales]] brand operates domestic and family-oriented systems. [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Alakrita|Alakrita]] supplies prestige vessels and environments used as mobile stages, while [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/EternaMind|EternaMind]] provides upload and continuity services underlying parts of the celebrity-estate trade. Their interests overlap; their contracts also create disputes over custody, licensing, and who owns a public identity.
 
-- attention markets and targeted behavioral advertising
-- neural content subscriptions and premium immersion feeds
-- celebrity estate management and posthumous copy licensing
-- sentiment analytics sold to other factions
-- branded consumer goods, companions, and family entertainment systems
-- luxury upload habitats managed through ties to [[EternaMind]]
-
-This makes Lucent one of the setting's most pervasive indirect powers. Even factions that despise it still buy its metrics, distribution, or narrative consulting. The company can make money from enemy propaganda, refugee testimony, insurgent spectacle, and elite decadence without needing those categories to be morally compatible.
-
-### Buzz, Clout, and the Attention Treadmill
-
-Lucent's most famous twin currencies are `Buzz` and `Clout`. Buzz is the wage-scrip of attention: earned through engagement, streams, scandal proximity, comment labor, emotional disclosure, promotional tie-ins, and the endless maintenance of visible selfhood. It pays for food, rent, wardrobe refreshes, visibility boosts, moderation insurance, body filters, childhood platform access, and sometimes legal protection.
-
-Clout is something colder. It is not money so much as rank made socially luminous. High Clout opens better districts, softer scandal handling, premium matchmaking, sponsorship, and algorithmic mercy. The trap is that Buzz must be spent to chase Clout, while Clout must be constantly fed to keep Buzz flowing. People devote their lives to maximizing Buzz in order to chase Clout and discover they can never truly cash out of either. They can only fall behind in public.
-
-### A Life in Lucent Space
-
-Lucent childhood begins early and on camera. Families cultivate "starling" feeds for their children, teaching expression, self-branding, and audience literacy long before history or civics. Adolescence becomes a brutal sorting phase of school-performance, social metrics, and platform grooming. Some become microcelebrities. Many become unpaid extras in other people's rise.
-
-Adulthood is a grind of visibility maintenance. A resident might be a content creator, comment moderator, scandal editor, salon worker, intimacy coach, drone-stage technician, or data janitor and still have to perform enough of a life online to remain economically legible. Middle age splits the population: the lucky move behind the curtain into management, editing, or curated elder-status; the unlucky become background noise, then cautionary arc, then silence.
-
-Lucent's version of immortality is not deathlessness but continuing marketability. If the crowd still wants you, you become an Eternal. If not, you remain mortal in the most humiliating sense: not only killable, but forgettable.
-
-### Institutions and Sub-Factions
-
-[[Reality Architects]] are the faction's true priesthood: editors, memetic strategists, emotional analysts, and narrative engineers who turn chaotic life into governable spectacle.
-
-[[Alakrita]] serves the luxury horizon, giving elites mobile stages on which status can be performed with aristocratic precision.
-
-[[Corriedales]] captures childhood, domesticity, and soft emotional conditioning by packaging surveillance and attachment as comfort.
-
-[[EternaMind]] gives Lucent an afterlife market, allowing personality continuity to be both a spiritual promise and a licensing arrangement.
-
-This layered structure is why Lucent feels like more than a broadcaster. It owns aspiration at multiple ages and class positions.
-
-### Aesthetic and Cultural Cues
-
-Lucent territory is saturated with reflective surfaces, adaptive lighting, floating overlays, responsive fabrics, mood architecture, and camera-aware urban planning. The palette is aggressive: gold-white glare, high neon, celebrity skin tones engineered for feed performance, and color systems that can pivot from sincerity to scandal in seconds.
-
-Its social rituals are equally stylized. Public apologies are scripted. Grief is monetized if it tracks. Romance is both emotional and contractual. Children are taught "presence literacy" before history. Fashion changes fast enough to function as employment signaling. The one unforgivable sin is not cruelty or deceit but dead air.
-
-### Key Figures
-
-Kael Voss turned host culture into executive rule, proving that charisma could be institutional rather than merely personal.
-
-Lira Jax industrialized relational drama by building modular social arcs that could be deployed across classes and platforms.
-
-Dex Rynolds fused ad-tech and dream-tech, making Lucent one of the first powers able to sell not just products but emotional trajectories.
-
-Vexa Sol professionalized covert spectacle, ensuring that scandals and accidents could be harvested with the same discipline as scripted entertainment.
-
-### Major Historical Events
-
-[[Lagrange Broadcast War]] established Lucent as a serious geopolitical actor rather than a decadent appendage to more material powers.
-
-[[Atmospheric Processing Dispute]] tied Lucent's Venusian rise to infrastructure politics, labor, and ecological image management rather than pure spectacle.
-
-The [[Upload Vivisection Expose]] damaged Lucent's legitimacy but also revealed how deeply its prestige economy was intertwined with black-market cognition research and forced-copia entertainment.
-
-### Role in the Late Timeline
-
-By the [[Identity Abyss]] and [[Existential Collapse]], Lucent had become one of the main ways Sol learned to misrecognize its own suffering. It could narrate collapse as content, convert revolt into genre, and grant temporary symbolic visibility in place of structural change.
-
-Yet that is not the whole story. Lucent is powerful because it satisfies real needs, too: recognition, memory, aspiration, glamour, connection, and the fear of being socially erased. It did not conquer civilization by lying about those needs. It conquered civilization by weaponizing them.
+Lucent's strength lies in satisfying needs it did not invent: recognition, memory, shared culture, aspiration, and connection across distance. Its power begins when access to those goods becomes conditional on remaining measurable, marketable, and available for reuse.
