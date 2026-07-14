@@ -42,6 +42,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 6
+
+- `Corvid Collective.md` fell from 1,180 to about 404 words. Its methods now follow surveillance history, small-body access, distributed caches, and infrastructure dependence rather than innate mischief; rescue, isolation, and local-survival cells allocate risk differently.
+- `Portia Line.md` fell from 1,512 to about 522 words. Scaffold mechanics, discovery evidence, community variation, and the unresolved person/equipment boundary remain; repeated metaphors, biography, and sanitized legal recognition were cut.
+- `Cetacean Navigators.md` fell from 1,161 to about 470 words. Corridor authority now rests on trained crews, records, interfaces, arbitration, and dependency. The note exposes sanctions, incumbent advantage, rescue costs, sanctuary conflict, and wet/dry access inequality without assigning reciprocity to cetacean nature.
+- Soul rejected Rossum & Douglas chronology theft, inflated Chaos Weaver labor, abstract Corvid plurality, resolved Portia ontology, softened containment, overstated corridor jurisdiction, invented sanctions, and a compressed event tour. Final source, plurality, authority, link, and hostile-brevity reviews passed.
+
 ### Wave 5
 
 - Q-12 rebuilt `Uplift.md` from 1,040 to 357 words. The note now owns biological-uplift boundaries and cross-lineage history rather than classifying peoples by assigned job or inherited psychology.

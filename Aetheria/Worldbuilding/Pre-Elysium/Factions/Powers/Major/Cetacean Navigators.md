@@ -1,78 +1,25 @@
-*"A route is a promise made material."*
+The [[Cetacean Navigators]] are an uplift-led coalition governing convoy routes, rescue obligations, arbitration, and sanctuary access across late Sol's outer-system corridors. Their territory is dispersed: ships, waystations, anchorages, and registries linked by common records and reciprocal duties. They hold little continuous land. Their power comes from deciding how dangerous corridors remain usable—and on what terms.
 
-[[Cetacean Navigators]] are the corridor stewards of late Sol: an uplift-led coalition of navigators, convoy guarantors, rescue compacts, sanctuary registrars, and long-haul social institutions built around trust. They do not rule by holding the most land. They rule by becoming too necessary to movement for the rest of civilization to ignore.
+### History
 
-Their existence resolves one of the setting's central contradictions. A species uplift program designed to create obedient navigational assets instead produced a political culture capable of governing by reciprocity where many human powers governed by extraction.
+The Navigators emerged from commercial uplift programs that assigned cetacean crews to long-haul navigation. Training, accumulated route records, specialized interfaces, and crew coordination made those workers difficult to replace. Dependence became bargaining power.
 
-### Historical Lineage
+The [[Ganymede Route Compact]] converted scarce navigation labor into corridor authority; later [[Ice Giant Navigation Wars|wars]] and [[Triton Sanctuary Accords|sanctuary agreements]] extended that authority into enforcement and refuge.
 
-The Navigators arose from cetacean uplift programs funded through [[GeneSys]] and long-haul transport interests that needed minds capable of patterning vast and unstable route ecologies. Those programs assumed trained sentience would remain subordinated to contract law. Instead, navigation crews accumulated bargaining power because nobody else could replicate their full synthesis of spatial intuition, memory, and social coordination under extreme routing complexity.
+### Corridor Government
 
-The coalition's early political form took shape through convoy mutual-aid agreements and the [[Ganymede Route Compact]], where navigators, dock labor, and carrier interests established durable norms around safe passage, rescue obligation, and route stewardship. [[Lightsail Express]] later became the bloc's most important industrial partner, giving it a fleet backbone without fully subsuming its culture into ordinary corporate command.
+Route Choirs maintain hazard models and certify crews. Waystation Councils allocate berths, rescue capacity, and local maintenance. Corridor Courts arbitrate collisions, broken convoy commitments, salvage, and sanctuary claims. Rescue Ledgers record distress calls, responses, costs, and refusals.
 
-### Political Logic
+Compact jurisdictions bind signatory carriers, insurers, crews, and ports through their convoy, bond, and berth agreements. Outsiders accept the same courts when seeking coalition guarantees or recorded routes. Member crews, dock workers, carriers, and resident communities choose Waystation delegates under local compact rules; courts can review their allocations, while shared ledgers expose decisions to other members. Choir certification is answerable to court challenge rather than an independent priesthood.
 
-Navigator politics begin from a practical claim: corridors are not merely transit volume but social dependency made visible. Every ship that crosses a dangerous route depends on prediction, trust, and the willingness of others not to let failure become abandonment. That dependency should generate obligations.
+Rulings affect certification, bonds, escort priority, and route access; rescue obligations can override cargo schedules. This can punish predation without annexation, but it is not voluntary in any simple sense. Rivals call it government by dependency. Navigators answer that obligations without consequences are advertising.
 
-This makes the coalition unusually hospitable to [[Preservationists]], [[Free Upload Network]] operators, and other factions whose survival depends on movement without immediate market legibility. It also makes the Navigators frustrating to hard-sovereignty powers that want routes to function as pure strategic assets.
+Two conflicts recur. Carrier crews and paying clients resist diversions that protect strangers while exhausting fuel, schedules, and personnel. Sanctuary councils conceal fugitives whom insurers, governments, or other Compact members demand returned. Neutral passage, commercial solvency, and refuge cannot always be preserved together; arbitration decides who absorbs the loss.
 
-### Territory and Daily Life
+### Habitats and Daily Life
 
-Navigator territory is dispersed across Triton, the outer system waystations, Jovian and Uranian route hubs, convoy anchorages, and carrier-maintained havens where the coalition's norms have become institutional. Life there is less theatrical than in Lucent space and less rigid than in Dominion territory. It is shaped by maintenance, route timing, weathered etiquette, and the constant awareness that survival still depends on other crews honoring the compact.
+Navigator stations separate wet and dry circulation while keeping work shared. Pressure-managed channels and orientation pools meet dryside galleries at transfer locks, clinics, cargo control, and hearing chambers. Route boards expose the same records through visual, acoustic, tactile, and translated interfaces. Wealthy hubs provide redundant controls and staffed mediation; poor stations improvise, making access failures a routine source of delay and political grievance.
 
-Social prestige accrues through reliability, memory, rescue record, and the ability to hold a corridor together under stress. Communities are often mixed-species and multilingual, with physical spaces designed for translation, coexistence, and long-haul habitability rather than ideological pageantry. The result is one of the setting's most believable cultures of working pluralism.
+Crews are mixed-species because convoy work combines navigation, engineering, translation, cargo handling, medicine, and legal testimony. Children and apprentices learn watch discipline, route notation, emergency procedure, and cross-body etiquette. Status follows certified competence and documented reliability, although crews contest whether formal records undervalue unregistered care and favor established operators.
 
-### Habitat and Interface Ergonomics
-
-Navigator habitats are not human rooms with a dolphin problem. Mature route stations, sanctuary registries, convoy courts, and carrier havens assume cetacean bodies from the start.
-
-Public spaces are usually organized around fluid circulation rather than corridors alone: pressure-managed channels, acoustic commons, orientation pools, dryside galleries, and mixed-interface work surfaces where human, uplift, upload, and machine participants can share the same operational frame without pretending they occupy the same body.
-
-Control systems favor redundant modalities. A Navigator may manipulate route boards through acoustic commands, pressure fields, eye or head tracking, skin-contact surfaces, haptic waterflow, neural interface, or delegated crew action depending on local wealth and risk tolerance. Important stations avoid single-channel control because rescue culture treats interface failure as a political failure, not merely a technical inconvenience.
-
-Clinics and sanctuaries in Navigator-adjacent space are built around access from both wet and dry sides. A triage board, testimony packet, or rescue ledger is expected to be legible across species: visual text, acoustic notation, tactile markers, translated speech, and authority logs can describe the same object. Arguments in these spaces often happen across a shared display or orientation chamber, not across a human desk.
-
-Human visitors read this as graceful pluralism when they are being generous and as logistical clutter when they are not. Navigators tend to see it more plainly: if a place cannot hear the body asking for help, it is not yet a civilized room.
-
-### Economy and Institutions
-
-The Navigators profit from:
-
-- convoy guarantee systems
-- route mapping and dynamic hazard prediction
-- shipbuilding and carrier operations through [[Lightsail Express]]
-- port mediation, arbitration, and sanctuary registry
-- long-haul rescue and survival logistics
-- information brokerage tied to trusted movement corridors
-
-Their most important institutions are the Route Choirs, Corridor Courts, Rescue Ledgers, and Waystation Councils. Together these make movement itself a political resource rather than a simple service.
-
-### Rescue Ledgers
-
-`Wake Marks` settle ordinary convoy life: provisions, repairs, berth fees, tug work, and small wages. The ledgers people speak about with respect are the rescue ledgers kept by waystations, corridor courts, and crews themselves. They record who answered distress calls, who held formation in lethal weather, and who kept sanctuary promises when a paying client wanted otherwise.
-
-Those records shape credit, escort priority, arbitration outcomes, and even kinship ties. A captain with modest accounts and a clean rescue history will often move through Navigator space more easily than a richer operator everyone expects to cut the towline. A life here is shaped not only by what you own, but by whose distress call you answered when it would have been cheaper not to.
-
-### A Life Among the Navigators
-
-Children are raised inside mixed crews, route stations, and memory-rich communities where listening is taught before command. Adolescents learn hazard reading, convoy etiquette, translation across species, and the moral fact that a route is never only about cargo. Adulthood means standing watch, making promises in dangerous places, and proving that others can survive with you in the loop.
-
-The elderly do not simply retire. They become memory keepers, route singers, adjudicators, and the living conscience of corridor culture. To age well among the Navigators is to become someone whose recollection can still save ships.
-
-### Aesthetic and Cultural Cues
-
-Navigator spaces favor fluid architecture, acoustic signaling, soft navigation light, layered water motifs, worn metals, and communal orientation chambers. Their visual culture often ties memory to flow: routes traced as song diagrams, hulls marked by rescue lineages, sanctuaries identified by patterns recognized across species rather than by aggressive banners.
-
-Culturally they value patience, obligation, and the ability to think beyond the immediate transaction. This gives them a moral seriousness that many more theatrical factions misread as softness.
-
-### Major Historical Events
-
-[[Ganymede Route Compact]] transformed navigator labor into recognized corridor governance.
-
-The [[Ice Giant Navigation Wars]] tested whether trust-based corridor power could survive direct pressure from extraction and raiding blocs.
-
-The [[Triton Sanctuary Accords]] formalized the coalition's role as refuge broker for uploads, dissidents, and stateless travelers in the late collapse era.
-
-### Role in the Late Timeline
-
-By the time of [[FTL Trigger]], the Navigators mattered not only because they moved civilization but because they had become one of the few institutions still trusted by populations outside their own native base. That trust is one of the rare things late Sol could not mass-produce.
+The coalition earns revenue from route certification, convoy guarantees, arbitration, berth and registry fees, hazard records, and rescue logistics. Its councils need carrier infrastructure; carriers need judgments and records that other crews will accept.
