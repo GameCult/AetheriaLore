@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 8
+
+- `Daedal Houses.md` fell from 2,766 to about 1,046 words. The Houses now own Figure embodiment, labor, markets, Fists, and rare Concord governance while interface, drive, esper, custody, tuning, and admissibility mechanics remain with their source notes.
+- `Wavecrafters.md` fell from 1,839 to about 661 words. It now owns tuning products, ritualized operating knowledge, concealed exceptional labor, service dependence, and the Undertow without claiming thrust, universal monopoly, or remote-timeline access.
+- `Parallax Auditors.md` fell from 2,657 to about 709 words. Auditors issue admissibility findings; receiving offices retain enforcement. Unsupported founding chronology, universal ability catalogues, and residue-caste extrapolation were cut.
+- Story material informed reader pressure without leaking AFTER, Calyx, the Fivefold, Meridian, or academy practice into faction canon. Soul rejected three stolen causal/enforcement claims and five pieces of editorial or repeated prose before the final focused reviews.
+
 ### Wave 7
 
 - `Cognitum.md` fell from 1,309 to about 507 words and now owns recruitment, procurement, labor culture, markets, cutouts, and political access. `Neuromorphic Firmware.md` fell from 1,198 to about 416 words and owns capture, branching, conditioning, reduction, and the range of shipped artifacts.
