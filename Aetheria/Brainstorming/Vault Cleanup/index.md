@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 14
+
+- `Territories.md` fell from 2,047 to about 1,120 words. It now maps layered geographic, infrastructural, and cognitive authority without turning regions into uniform cultures or overlapping movements into one polity.
+- `Combat Doctrine.md` fell from 6,442 to about 1,500 words. The note now owns four recurring decisions—finding and committing, enduring and cooling, disabling and capturing, proving and governing—while physics, hardware, faction practice, fiction, and game design retain their own authority.
+- `Bloom Habitat Anatomy.md` fell from 3,727 to about 1,380 words. Mature physical grammar, resource flows, access, maintenance, and failure cascades replace provisional material grades, universal room taxonomies, Pallas story blocking, and production checklists.
+- Final verification kept story- and game-specific mechanics out of the canon notes and corrected single-hub, housing-market, and exterior-failure overclaims.
+
 ### Wave 13
 
 - `Artificial General Intelligence.md` fell from about 873 to 649 words. AGI is now a capability and political category embedded in compute, power, maintenance, interfaces, custody, and institutional authority rather than a branded product ladder or consciousness benchmark.

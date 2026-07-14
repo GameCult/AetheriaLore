@@ -1,112 +1,61 @@
-Territory in late Sol is not just a matter of flags on worlds. It is the control of life-support, route law, food systems, compute stacks, habitat volume, media weather, and the legal categories through which different kinds of people are allowed to exist. A world can be nominally "held" by one mega while its food comes from another, its emotional culture from a third, and its shadow politics from a network nobody can publicly acknowledge.
+# Territories
 
-This note is meant to help the reader visit the setting at different points in the [[Worldbuilding/Pre-Elysium/Timeline/index|Timeline]] and understand what daily life feels like in the major regions, who is dominant there, and which tensions are active.
+Territory in late Sol is not only land or orbital position. It is custody of life-support, docks, routes, food, power, compute, habitat volume, maintenance, and the legal records through which people and assets move. Several powers can govern the same place at once: one may hold security authority while another supplies energy, clinical care, freight, or the interfaces residents need to work.
 
-### Reading Territory Across Eras
+During the [[Corporate Exodus]], most off-world territory consists of launch rights, leases, company settlements, docks, and supply contracts. In the [[Age of Automation]] and [[Identity Crisis]], AGI, uploads, uplift labor, and [[Bloom]] habitats make technical standards and personhood classifications territorial instruments. By the [[Identity Abyss]] and [[Existential Collapse]], routes, repair capacity, food, and trusted records matter as much as formal borders.
 
-During the [[Corporate Exodus]], most territory is really infrastructure custody: launch rights, mining leases, company towns, orbital docks, and supply chains that still pretend to answer to public law.
+## Earth and Luna
 
-During the [[Age of Automation]] and [[Identity Crisis]], territory becomes more social and technical. AGI, uploads, uplift labor, and Bloom habitats make power depend on who can define legal personhood and who can keep artificial worlds functioning.
+Earth begins as Sol's political and financial center while off-world capital weakens many public institutions below. By the middle timeline, arcologies, municipal remnants, corporate enclaves, and movement strongholds overlap. The [[Urban Sovereignty War]] converts much of that fragmented authority into the administrative core of [[Sol Dominion]], whose influence depends on shared credentials, infrastructure schedules, and service priority rather than uniform ownership of every district.
 
-During the [[Identity Abyss]] and [[Existential Collapse]], territory hardens. Populations are tracked more tightly, corridors become strategic, and every settlement has to decide whether it will survive through discipline, spectacle, federation, frontier improvisation, or trusted movement.
+Luna divides between near-side command infrastructure and a premium far-side service economy. [[Finch Cybernetics]] retains major embodiment clinics, continuity facilities, and prestige service corridors. The 2364–2368 [[Cinderlace Licensing War]] gives [[Cryonix]] sovereign leverage over the surrounding materials-clinic arc, Tycho thermal works, and related fabrication enclaves. Patients and technicians can therefore depend on Finch for bodily integration and Cryonix-certified conditions for the systems supporting it.
 
-### Earth
+## Mars
 
-Earth begins the timeline as the rhetorical center of humanity and ends it as an administrative jewel whose symbolic prestige has been rebuilt by force. In the early eras, most Earth residents experience off-world expansion as dispossession at a distance. Corporate wealth exits upward while climate stress and fiscal exhaustion hollow out public institutions below.
+Mars contains two durable territorial projects and the final FTL complex. [[Zhestokost]] holds the military-industrial heartland around Terra Cimmeria, Tharsis, Olympus Mons, and Valles Marineris after the [[Terra Cimmeria Seizure]]. Its command territory relies on arsenals, hardened logistics, monitored settlements, and controlled repair.
 
-By the middle timeline, Earth is a patchwork of arcologies, abandoned civic shells, and corporate influence zones. The [[Baseline League]] finds some of its deepest support here because Earth remains the place where unenhanced or under-enhanced populations most clearly feel themselves being left behind by history.
+The [[Aya Collective]] anchors Hellas Basin cooperatives and affiliated agricultural zones. The [[Hellas Mutual Defense Congress]] and [[Food Security Wars]] bind those settlements through shared reserves, water and crop coordination, convoy defense, and refuge infrastructure without making Mars an Aya polity. Agricultural workers live close to the conflict between local control and the need for protection across long supply corridors.
 
-After the [[Urban Sovereignty War]], Earth becomes the polished political core of [[Sol Dominion]]. Daily life in Dominion arcologies is clean, stratified, surveilled, and permission-based. Outside those cores, the experience is harsher: labor precarity, identity checks, neural scoring, and a constant awareness that the center now treats the old homeworld as a command platform rather than a shared inheritance.
+By 3025, the Mars Arete complex joins Dominion administration, [[Quantum Dynamics]] research, [[NiteLife Energy]] grid support, Zhestokost security, and hidden [[Cognitum]] work. Their convergence does not give any one contributor ownership of the whole [[FTL Trigger]].
 
-### Luna
+## Venus and Mercury
 
-Luna is the classic threshold territory. Early on it is a resource frontier, industrial proving ground, and launch dependency. In the automation era it becomes a place where life is expensive, disciplined, and inescapably technical.
+Venus is the principal territorial base of [[Lucent Media]]. Cloud cities, broadcast districts, performance habitats, and atmospheric projects make media infrastructure part of government. The [[Atmospheric Processing Dispute]] shows the limit of that authority: Lucent's aesthetic and commercial plans overlap with processing labor, food production, and efforts by Aya organizers and the [[Elephant Enclave]] to preserve materially livable environments. Workers maintaining cloud and processing infrastructure bear the cost of keeping spectacle operational.
 
-By the mid timeline Luna bifurcates. The near side and major military basins align increasingly with command structures later folded into [[Sol Dominion]]. The far side begins as a premium Finch-Cryonix environment where embodiment clinics, materials works, and elite continuity infrastructure feel like parts of one refined posthuman order. After the [[Cinderlace Licensing War]], that order splits. Finch retains the continuity clinics, embodiment districts, and prestige service corridors. [[Cryonix]] hardens the surrounding materials-clinic arc, Tycho thermal works, and related fabrication enclaves into a sovereign lattice of its own.
+Mercury's strategic value lies in solar arrays, power forecasting, and industrial exposure management. [[NiteLife Energy]] holds major commercial interests while Sol Dominion extends administrative control through scheduling and security. During the [[Mercury Array Crisis]], a forecasting failure becomes a sovereignty struggle because energy schedules already govern trade, military readiness, and research. Array crews remain dependent on shift timing, replacement capacity, and protection from the environment regardless of which institution signs the schedule.
 
-This makes lunar life intensely classed and newly partitioned. Some inhabitants live inside the cleanest medical and materials environments in Sol. Others endure service labor, maintenance dependency, contamination discipline, and exclusion from the very dignities Luna markets to the rich. The [[Tycho Exclusion Riots]] are the clearest expression of the older contradiction. The Cryonix-Finch split makes it permanent.
+## The Belt
 
-### Mars
+The Belt is a distributed habitat and industrial region rather than a single territory. [[Aeronautics Unlimited]] and [[Orbital Forge]] define much of its habitable geometry through construction yards, salvage systems, logistics, and Blooms. Ceres becomes the symbolic center of AU's frontier authority after the [[Ceres Control War]], while the [[Bloom Expansion Conflicts]] leave ownership fragmented among corporate projects, independent builders, and local settlements.
 
-Mars is where the setting's political divergences become brutally visible. In the early periods it is still a contested industrial frontier of convoys, food domes, militia contractors, and ideologies looking for room to harden.
+Cryonix is the major exception to broad AU and Forge influence. The earlier Cinderlace settlement gives it a narrow Ceres–Pallas corridor of weave yards, refractory plants, and extraordinary-emitter production. The corridor is strategically valuable without making Cryonix dominant across the Belt.
 
-The [[Terra Cimmeria Seizure]] makes Mars the birthplace of [[Zhestokost]] as a true territorial force. Over the following centuries, Tharsis, Terra Cimmeria, Olympus Mons, and Valles Marineris become a lattice of command citadels, arsenals, training zones, and monitored settlements where order is both terrifying and materially real.
+The [[Pallas Species Strikes]] expose another layer of control: AU yards depend on baseline crews, [[BioElevate]] uplifts, [[VitaForge]] biodrones, and other contractors whose legal categories differ while their work shares the same air and technical chokepoints. Dangerous maintenance and cavity-construction labor remain central to Belt settlement even where local politics are comparatively open.
 
-Mars is never only Zhestokost, however. Hellas Basin and affiliated agricultural zones become core territory for the [[Aya Collective]], especially after the [[Hellas Mutual Defense Congress]] and later during the [[Food Security Wars]]. That means the same planet can host both the harshest command society in Sol and one of its most practical counter-societies, separated by corridors, artillery ranges, and very different ideas of what civilization owes its people.
+## Jupiter and Saturn
 
-By 3025, Mars is also inseparable from the Arete FTL complex and therefore from the final convergence of [[Sol Dominion]], [[Quantum Dynamics]], [[NiteLife Energy]], [[Zhestokost]], and hidden [[Cognitum]] work.
+Jovian space links shipbuilding, route law, research, and outer-system logistics. Ganymede is a major junction where the [[Ganymede Route Compact]] helps establish the [[Cetacean Navigators]] as route stewards. Their authority rests on trusted movement, rescue, and convoy practice rather than exclusive control of Jovian territory. [[Lightsail Express]], industrial yards, research firms, and gray-market operators remain separate participants dependent on the same routes.
 
-### Venus
+Saturn contains overlapping pilgrimage, agricultural, refuge, extraction, and shadow-route economies. [[Framgång]] concentrates around Enceladus and ring-linked pilgrimage infrastructure. [[Baseline League]] strongholds, Aya communes, [[Elephant Enclave]] caravan grounds, and pirate facilities occupy other nodes without forming clean territorial blocks. The [[Enceladus Cooperative Schism]] demonstrates how hospitality and retail workers can depend on a pilgrimage economy while disputing its contracts and ownership.
 
-Venus changes more dramatically than almost any major world. It begins as a difficult engineering project and prestige frontier. By the late timeline it has become the aesthetic capital of [[Lucent Media]]: cloud cities, broadcast districts, luxury performance habitats, and ecological transformation sold as a cultural masterpiece.
+## Ice Giants and Outer Settlements
 
-But Venus is not simply glamour. The [[Atmospheric Processing Dispute]] makes clear that ecological engineering there is also labor politics, food politics, and enclosure politics. [[Lucent Media]] wants the planet as a stage-set civilization. [[Aya Collective]] organizers and the [[Elephant Enclave]] push instead for parts of Venus to remain materially livable beyond elite spectacle.
+Uranian and Neptunian space is organized primarily by routes, waystations, rescue capacity, and long supply intervals. The Cetacean Navigators anchor much of that movement, tested during the [[Ice Giant Navigation Wars]] and strengthened by the refuge arrangements of the [[Triton Sanctuary Accords]]. Extraction blocs, pirate toll systems, independent sanctuaries, and commercial carriers continue to contest particular corridors.
 
-So daily life varies sharply by class and district. In the upper cloud cities, existence is performative, mediated, and aspirational. In support infrastructure and processing zones, workers experience the cost of keeping beauty airborne.
+The Kuiper Belt and dwarf worlds support dispersed data havens, server farms, fugitive settlements, salvage sites, and remote stores. Distance gives [[Emancipated]] uploads, the [[Free Upload Network]], pirate crews, and [[Corvid Collective]] cells room to operate, but it also raises the cost of power, repair, transport, and rescue.
 
-### Mercury
+## Network Overlay
 
-Mercury is power in the most literal sense: heat, arrays, forecasting, and industrial control over energy systems vital to the inner worlds. Early settlement is utilitarian and dangerous. Few people romanticize Mercury who have actually worked there.
+Physical maps do not show every territorial claim. [[Sol Dominion]] credentials, Lucent feeds, Finch maintenance records, NiteLife power contracts, insurer standards, and route clearances travel across nominal borders. The Activist Network, Free Upload Network, Corvid cells, and pirate routes create separate pathways through those systems; they cooperate in places without becoming one shadow government.
 
-By the late timeline, array governance and solar forecasting make Mercury central to [[Sol Dominion]]'s command ambitions and to the commercial interests of [[NiteLife Energy]]. The [[Mercury Array Crisis]] shows how quickly technical scheduling failures can become sovereignty struggles.
+## Territorial State in 3025
 
-Life on Mercury is regimented even outside overt Dominion zones. Workers live by shift timing, exposure controls, and energy discipline. There is less space for ideological theater because the material environment itself is already punishing enough.
+- Sol Dominion dominates Earth, near-side Luna, and Mercury's administrative core.
+- Zhestokost holds Mars's military-industrial heartland; Aya anchors Hellas and allied agricultural zones; Arete remains a multi-institutional complex.
+- Lucent Media dominates Venusian spectacle and major Lagrange broadcast infrastructure.
+- AU and Orbital Forge shape most Belt habitat industry outside Cryonix's narrow thermal corridor.
+- Finch and Cryonix divide much of the premium lunar clinical and materials stack.
+- Cetacean Navigators anchor outer route and sanctuary corridors without exclusive planetary sovereignty.
+- Saturn and the outermost settlements remain overlapping fields of corporate, cooperative, movement, and clandestine infrastructure.
 
-### The Belt
-
-The Belt is the setting's most important laboratory of social forms. In the early eras it is a mining frontier and debt sink. Once [[Bloom]] technology matures, it becomes the site where habitation itself is industrialized.
-
-[[Aeronautics Unlimited]] and [[Orbital Forge]] shape Belt life more than anyone else. They build habitats faster than rival powers can narrate them, creating a civilization of cavities, salvage yards, improvised law, technical guilds, uplift labor ecologies, pirate channels, and micro-cultures formed under spin gravity and maintenance pressure. After the [[Cinderlace Licensing War]], however, they no longer monopolize the Belt's most valuable thermal future. [[Cryonix]] secures a narrow Ceres-Pallas fabrication corridor of weave yards, refractory plants, and extraordinary-emitter works whose strategic value far exceeds its population.
-
-The [[Ceres Control War]], [[Bloom Expansion Conflicts]], [[Pallas Species Strikes]], and later the [[Cinderlace Licensing War]] explain why Belt society remains both inventive and unstable. Life there can feel freer than in the inner authoritarian cores, but that freedom is structured by logistics, dangerous work, and highly unequal access to safe habitat zones. Many readers should imagine the Belt not as one culture but as the place where Sol keeps experimenting on itself, then arguing over who gets to own the profitable part of the result.
-
-### Jovian Space
-
-Jupiter and its moons are where corridor politics, shipbuilding, heavy research, and outer-system logistics begin to displace purely planetary power. Ganymede becomes crucial because it sits at the overlap of route law, dock labor, and industrial support. The [[Ganymede Route Compact]] is one of the foundational moments in the rise of the [[Cetacean Navigators]].
-
-Jovian life depends on where one stands. In carrier and waystation zones aligned with Navigators and [[Lightsail Express]], the culture emphasizes reliability, rescue obligation, and practical coexistence. In more secretive research zones linked to [[GeneSys]] or [[Rossum & Douglas]], the atmosphere is colder and more administrative. Ganymede and Callisto also host shadow economies, cutout research, and gray-market cognition work that tie the region back to [[AstroDyne]], the [[Cognitum]], and pirate logistics.
-
-### Saturn System
-
-Saturn is one of the richest ideological mosaics in the setting. Here the reader finds [[Framgång]] pilgrimage consumerism, [[Baseline League]] reactionary strongholds, [[Aya Collective]] communes, [[Elephant Enclave]] caravan grounds, pirate shadow territories, and ring economies where legal and illegal extraction constantly bleed into one another.
-
-Enceladus is the spiritual-commercial core of [[Framgång]], full of alignment centers, ritual retail, and debt packaged as self-transformation. Titan and ring habitats become battlegrounds over identity, piety, labor, and who gets to define human normalcy. The [[Enceladus Cooperative Schism]] is especially important because it reveals that Saturn's spiritual language is really a fight over citizenship, debt, and the ownership of emotional life.
-
-Daily life in Saturn space is therefore highly polarized. Some settlements are inward-looking, moralizing, and anti-elite in a baseline-populist way. Others are drenched in branded transcendence. Still others survive through cooperative agriculture, sanctuary work, or raiding.
-
-### Uranus and Neptune
-
-The ice giant systems are where the late solar order becomes thinner, slower, and in some ways more honest. These regions are defined less by dense planetary populations than by route systems, waystations, rescue doctrine, and outer-system survival.
-
-The [[Cetacean Navigators]] become dominant here not because they hold the most guns, but because no one else can maintain trust and movement across such punishing distances. The [[Ice Giant Navigation Wars]] prove that route stewardship can survive even under sustained predation, and the [[Triton Sanctuary Accords]] formalize outer-system refuge as a real institution.
-
-Life here feels less theatrical than in the inner worlds and less expansion-manic than in the Belt. People tend to think in convoy timescales, repair cycles, sanctuary obligations, and the social memory of who did or did not come back for the damaged ship.
-
-### Kuiper Belt and Dwarf Worlds
-
-The outermost regions host data havens, fugitive communities, hidden server farms, pirate nests, and the kinds of populations that only survive when distance itself becomes political cover. [[Emancipated]] uploads, [[Free Upload Network]] custodians, and [[Corvid Collective]] cells all make use of the far edge in different ways.
-
-These territories matter less for population mass than for what they preserve: memory, outlaw infrastructure, witness testimony, and forms of social life too difficult or too costly for the core powers to fully suppress.
-
-### Virtual and Networked Territory
-
-Not all territory in Aetheria is geographic. By the late timeline, virtual jurisdiction matters almost as much as planets do. [[Lucent Media]] rules emotional and reputational weather far outside Venus. [[Sol Dominion]] shapes permissions and data order through administrative stacks. [[Zhestokost]] secures its grids as extensions of martial territory. The [[Free Upload Network]] and [[Corvid Collective]] build shadow corridors through all of them.
-
-This means every settlement in the solar system has at least two maps: the physical one and the cognitive one. Who provides your feed, your firmware, your route clearance, your legal identity, your hosting redundancy, or your emotional vocabulary may matter as much as who controls the docks.
-
-### The Territorial End State in 3025
-
-By the eve of [[FTL Trigger]], the broad territorial picture looks like this:
-
-- [[Sol Dominion]] dominates Earth, near-side Luna, and the Mercury administrative core.
-- [[Zhestokost]] holds the Martian military-industrial heartland.
-- [[Lucent Media]] rules Venusian spectacle space and major Lagrange broadcast infrastructure.
-- [[Aeronautics Unlimited]] and [[Orbital Forge]] define most of the Belt's habitable-industrial geometry outside Cryonix's narrow thermal corridor.
-- [[Finch Cybernetics]] controls the most prestigious embodiment, continuity, and interface territories around Luna and elite Earth-Moon transit routes, but no longer the full premium lunar stack.
-- [[Cryonix]] controls the far-side lunar materials-clinic arc, Tycho thermal works, and a narrow Ceres-Pallas fabrication corridor whose thermal sovereignty makes it a mega despite its compact footprint.
-- [[Cetacean Navigators]] anchor the outer route systems and sanctuary corridors.
-- [[Aya Collective]] persists in agricultural, federated, and refuge-oriented zones across several worlds.
-- [[Framgång]], the [[Baseline League]], and their rivals split much of Saturn into overlapping spiritual, populist, and cooperative geographies.
-- The [[Pirate Coalition]], [[Activist Network]], [[Corvid Collective]], [[Emancipated]], and allied movements survive in the liminal spaces between formal sovereignties.
-
-This is the landscape humanity carries into Elysium: not a unified species civilization, but a layered territorial order made of corridors, debts, ideologies, habitats, and incompatible futures that had been forced to coexist for far too long.
+Humanity enters Elysium carrying this layered order: jurisdictions joined by dependencies they could neither centralize nor escape.
