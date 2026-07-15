@@ -30,10 +30,8 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 | --- | --- | --- |
 | Q-01 | Cognitive/Aetheric mechanics are split among foundation, faction, drive, and esper notes. | Make [[Worldbuilding/Post-Elysium/Technology/Cognitive Interfacing|Cognitive Interfacing]] the shared mechanism owner; keep Daedal and Wavecrafter vocabularies as applications. |
 | Q-02 | Public cognition-dependent industries contradict claims that all cognitive interfacing evidence is suppressed. | Separate public operator dependence from concealed sapient causal agency. |
-| Q-03 | Concord omits machine-self authority while *The Body That Asks* depends on a surviving sixth participant. | Decide whether Figure minds are normally absent or present; define rare emergence, refusal, wipe, and custody paths. |
 | Q-04 | Wavecrafters and Daedal both appear to own drive coherence. | Assign field/material tuning, body-intent reconciliation, and drive control to distinct ports with diagnosable failures. |
 | Q-05 | Daedal's pre-Elysium lineage exists only inside its post-Elysium faction note. | Add the minimum antecedent needed to BCI/augmentation history; do not duplicate the faction note. |
-| Q-06 | “Topologically homologous” hides several invariants behind mathematical costume. | Define proprietary terminology or replace it with continuous somatic correspondence; reversibility remains necessary but insufficient. |
 | Q-07 | Esper access, passive Figure stabilization, and trained Concord operation lack a shared threshold model. | Define ordinary embodiment, anomalous stabilization, and conscious field access without making trauma a credential. |
 | Q-08 | Timeline and Historical Events each have duplicate file/folder owners. | Merge into folder indexes, delete duplicate roots, and reduce combined copy by at least 140 words. |
 | Q-09 | Published Nibu lore mixes accepted character truth with planning language and origin hypotheses. | Separate canon from design; reduce 2,130 words to 900–1,200. |
@@ -43,6 +41,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 | Q-13 | Repeated filenames make eleven Pirate Metagame brainstorming links ambiguous. | Qualify each link with its phase directory; add no prose. |
 
 ## Verification Ledger
+
+### Wave 30
+
+- `Daedal Houses.md` grew from 1,046 to 1,163 words to close the boundary between bounded Figure automation and a possible machine-self claim before destructive maintenance can erase the only available communication or evidence.
+- Rare emergence has no established common mechanism. Protective anticipation, persistent preference, refusal, or maintenance distress remain ambiguous among adaptive control, pilot residue, damage, manipulation, and possible selfhood; review does not establish consciousness.
+- Preservation yields to named immediate hazards, while refusal remains limited to embodied integrity and affected systems. Helm, weapons, title, crown, crew safety, and downstream custody remain separate authorities.
+- Q-03 and Q-06 were retired. Continuous somatic correspondence already requires legible intermediate states and reversible separation without a topological costume; Soul removed an attempted promotion of AFTER's distributed embodiment and wipe history into general Daedal canon, then passed continuity and hostile brevity.
 
 ### Wave 29
 
