@@ -2,7 +2,7 @@
 
 ## Run
 
-- **Current pass:** Revision 01, Phase 4 — chapter stewardship and prose drafting.
+- **Current pass:** Revision 01, Phase 5 — whole-book integration and promotion review.
 - **Mode:** Post-draft Revision Council rebuild.
 - **Operator authority:** Autonomous continuation toward the complete story.
 - **Length policy:** No target or ceiling.
@@ -63,7 +63,8 @@
 - Phase 2A produced seven concrete proposal packets.
 - Phase 2B adjudicated proposals and accepted a sixty-nine-chapter explicit-POV transaction blueprint.
 - Phase 3 accepted sixty-nine scene transactions, the exact ten-pair POV braid, named ordinary-school continuity, a lived-order Calyx replay, and twelve gapless Persona streams on `revision-01-main`.
-- Phase 4 must draft from the accepted scene packets and projected Persona revisions. Changes to POV, chronology, ancestry, mystery timing, academic ownership, or protected material return to Phase 3 replay before descendants continue.
+- Phase 4 produced and reviewed sixty-nine chapters of candidate prose across three movements. Final blocker checks found the candidate structurally and narratively ready for whole-book integration.
+- Phase 5 must assemble the complete candidate, verify cross-movement prose and terminology, and promote only after manuscript-level review. Changes to POV, chronology, ancestry, mystery timing, academic ownership, or protected material return to Phase 3 replay before descendants continue.
 - Candidate revision prose remains noncanonical; the promoted Fiction manuscript governs until final integration and promotion.
 
 ## Next Inputs
@@ -84,3 +85,7 @@
 - [[Revision 01/Phase 03/Movement I Scene Transactions|Movement I Scene Transactions]]
 - [[Revision 01/Phase 03/Movement II Scene Transactions|Movement II Scene Transactions]]
 - [[Revision 01/Phase 03/Movement III Scene Transactions|Movement III Scene Transactions]]
+- [[Revision 01/Phase 04/Pass Report|Phase 4 Report]]
+- [[Revision 01/Phase 04/Movement I Draft|Movement I Draft]]
+- [[Revision 01/Phase 04/Movement II Draft|Movement II Draft]]
+- [[Revision 01/Phase 04/Movement III Draft|Movement III Draft]]
