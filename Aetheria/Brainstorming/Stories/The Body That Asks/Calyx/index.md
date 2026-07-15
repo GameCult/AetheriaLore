@@ -2,6 +2,8 @@
 
 [[../index|The Body That Asks]] · [[../Braid|Braid]] · [[The Fivefold]] · [[../Concordance|Concordance]]
 
+Mara and Ysra carry the principal viewpoint line. Sol, Eda, and Tern remain full participants with occasional close scenes, but the reverse chronology returns to Mara's burden of crown and Ysra's bodily reading whenever the political history threatens to become five parallel biographies.
+
 - **Provisional period:** approximately 3250–3260, at least 225 years after the 3025 [[Worldbuilding/Pre-Elysium/Timeline/FTL Trigger|FTL Trigger]]
 - **Narrative direction:** backward, from Harrowglass and the Fivefold's public disassembly toward first Concordance
 - **Termination:** this line ends when the historical first Concordance meets the Meridian household's first hidden Concordance. It receives no later POV scenes.
@@ -35,6 +37,8 @@ Every Calyx scene carries two coordinates. **Lived order** governs character mem
 | C5 | L2 | Laboratory failures under imposed command | The five have not yet learned how to share authority; local relationships carry the work that doctrine cannot. AFTER exists chiefly as protective anticipation. |
 | C6 | L1 | First Concordance | An expected order becomes a request; no later title, injury, doctrine, or recognition may leak backward into the scene. |
 
-In lived order, AFTER develops from protective reflex to anonymous response, then named participant, then a person with standing in the Harrowglass decision. In presentation order, it recedes from recognized presence toward the first learned act from which it emerged.
+In lived order, AFTER develops through one continuous embodied history. It first catches strain before any pilot commands it, then repeats protective timings across assemblies, answers through unexplained calibration changes, chooses a name when the Fivefold begins addressing the response, and gains standing when it can refuse maintenance performed on its own persistence. Wiping damages recall and language without creating a successor person: the same learned tensions, aversions, component expectations, and attachment to these five continue below declarative memory. At Harrowglass it chooses dispersal with them rather than intact capture.
+
+Remembering Mara is neither database retrieval nor mistaken reincarnation. Mara was the first person to ask AFTER for a choice and wait through an answer that worsened the plan. A century later, Senn's integration habits activate that relational expectation before AFTER can name its source. It initially reaches toward the old pattern, then recognizes Senn as a different person when she yields authority in ways Mara never did. That correction is part of AFTER's persistence: memory changes what it expects without granting the remembered dead control of the present.
 
 Each step backward makes the Fivefold less like the standardized Seats later imposed by [[../Meridian/Meridian House|Project Kinship]]. The final presented scene meets Meridian's accidental discovery at the point where neither group yet possesses a finished theory of Concordance.

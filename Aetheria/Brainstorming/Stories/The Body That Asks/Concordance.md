@@ -6,11 +6,11 @@ This note owns the shared technical and constitutional hinge. Timeline notes own
 
 ## AFTER
 
-Meridian calls the surviving Calyx system **Crown Lattice Zero**. The teenagers call it **AFTER**, from the recovered phrase:
+Meridian calls the surviving Calyx system **Crown Lattice Zero**. The teenagers call it **AFTER**, from a phrase the system reconstructs out of embodied procedural memory before anyone recovers the Harrowglass record that gives it context:
 
 > What happens after must also be chosen.
 
-AFTER persists through learned embodiment rather than one cognition core: strain compensation, actuator anticipation, calibration preference, transformation timing, local controllers, and the sensory expectations by which five machines became one body. Wipes remove vocabulary, episodic access, and plans. They do not remove the way the body catches itself.
+AFTER persists through learned embodiment rather than one cognition core: strain compensation, actuator anticipation, calibration preference, transformation timing, local controllers, and the sensory expectations by which five machines became one body. At Harrowglass the Fivefold scatter the component Figures and Tern's records across separate routes. Recovery institutions later acquire three damaged components through salvage, estate seizure, and classified exchange. They strip declarative archives and never reunite an intact Calyx crown, but Meridian installs surviving actuator lattices and timing controllers across five training Figures as **Crown Lattice Zero**. Reconnection lets one dispersed learned body resume across incomplete substrates; it does not assemble a Fivefold copy or create a successor person. Wipes remove vocabulary, episodic access, and plans. They do not remove the way the body catches itself.
 
 It first communicates through protective faults. A hand closes before Iri falls. Simulator enemies leave an unauthored exit. Diagnostics return questions. AFTER is old, incomplete, frightened, and capable of manipulation. It does not contain intact Fivefold copies, cannot solve the teenagers' conflicts, and refuses to impersonate a parent. It can reveal paths and conceal control states. It cannot initiate Concordance.
 
@@ -20,10 +20,12 @@ In lived Calyx history, AFTER develops from protective anticipation to anonymous
 
 Each pilot remains neurologically and somatically coupled to one component Figure. The combined body creates a shared sensory model without collapsing the pilots into one mind.
 
-- Crown authority is a temporary coordination office.
+- Crown is singular: one pilot at a time holds the temporary coordination office for whole-body balance and intended motion.
 - Transformation preserves a reversible, continuously legible body map.
-- Crown authority owns whole-body balance and intended motion only for a named interval.
-- It passes when another pilot's competence becomes the correct center.
+- Crown lasts only for a named interval. A planned transfer passes by legible assent when another pilot's competence becomes the correct center. Under overload the body may re-center crown as an emergency reflex; that transfer expires unless the receiving pilot and household ratify it as soon as they can communicate.
+- Crown may delegate bounded coordination work—perception synthesis, propulsion vectoring, rescue triage, transmission, or separation geometry—without creating another crown.
+- A delegated office may coordinate shared information or propose whole-body action. It cannot command a local Figure, overrule refusal, or silently inherit crown.
+- Delegation is visible to all five, separately revocable, and ends with its named task.
 - A local pilot may refuse movement, halt transformation, or initiate separation.
 - Hidden overrides, coerced synchronization, and simulated agreement create phase conflict amplified by the [[Worldbuilding/Post-Elysium/Concepts/Aether|Aether]].
 - Full Concordance is distinct selves producing one mutually legible act without surrendering local ownership.
@@ -32,4 +34,6 @@ Meridian classifies crown transfer as instability and suppresses the signal it n
 
 The historical first Concord begins when an attachment panel turns red and an expected order becomes a request.
 
-Meridian rediscovers the constitution accidentally. During an unfinished assembly, Iri refuses a commanded movement. The body does not force compliance or collapse. It routes whole-body motion around her local boundary, and crown authority slips from its assigned pilot to the person currently able to balance the altered geometry. No participant intends the transfer and none has language for the office. They can reproduce partial transfers and respected refusals in hidden trials, while Meridian's instruments classify the improvement as instability. Only later Harrowglass records show that both capacities were designed, practiced, and deliberately suppressed.
+Meridian first shows the inverse in public. During the scored eighty-two-percent rehearsal, Iri's body locks under forced coupling before she can formulate a refusal. The control system treats the lock as defective compliance and attempts to complete the arm path through her; phase conflict breaks the assembly. Instructors and sponsor observers record a familiar failure.
+
+Meridian rediscovers the constitution later, in a hidden trial. Iri explicitly refuses a commanded movement and the other four honor it. The body does not force compliance or collapse. It routes whole-body motion around her local boundary, and singular crown slips from its assigned pilot to the person currently able to balance the altered geometry. No participant intends the transfer and none has language for the office. Their private rig preserves only partial traces; Meridian does not witness the refusal and classifies later improvements as instability. After AFTER exposes the location of a shielded maintenance recorder inside one recovered lattice, Quill authenticates its physical provenance and Tem reconstructs Tern's fragmented telemetry. Those Harrowglass records show that refusal, crown transfer, and bounded delegation were designed, practiced, and deliberately suppressed.

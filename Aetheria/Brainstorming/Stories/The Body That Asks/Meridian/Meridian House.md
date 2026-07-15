@@ -20,6 +20,12 @@ Project Kinship is funded by the **Lantern Compact**, a defensive coalition of m
 
 Parallax-certified forecasts give the Compact a six-to-nine-year window before three member systems become militarily isolated. The finding is probabilistic rather than prophetic. Directorate consolidation is observable, the casualty ranges are credible, and sponsors can still select the assumptions that make their preferred program appear indispensable. Failed fleet guarantees, incompatible House procurement, and governments unwilling to surrender command to one another produced Kinship's wager on a deterrent embodied by five people and governable through one crown.
 
+Marae Dho's home, **Morrow Quay**, already lives under Directorate accession. Freight moves on time and the clinics remain stocked. The accession office replaced the quay union's bargaining agreement with individual service guarantees, converted local route crews into federal auxiliaries, and made departure permits contingent on replacement labor. Marae's messages give the threat a human scale without making every resident an enemy or victim waiting for rescue.
+
+Inside the Lantern Compact, port unions, clinic networks, small rescue Fists, and refugee coordinators reject Kinship without denying the forecast. Marae encounters their alternative at Morrow Quay: distributed route denial, convoy escort, mobile repair yards, and binding evacuation capacity. It would take longer than the most alarming forecast, require governments to share procurement and command, open member habitats to displaced people, and leave no single deterrent for sponsors to display. Kinship receives the emergency money because it promises concentrated power without requiring the coalition to practice federation first.
+
+The Compact emergency deterrence cell benefits from the forecast assumptions it selects. Each shortened window expands its procurement discretion and sealed authority. That incentive does not falsify Directorate movement or make the forecast imaginary; it makes uncertainty politically inhabited.
+
 Kinship hides inside Final Fist, identifies cadets whose talent, relationships, and dependencies make them promising Concord candidates, steers their assignments, and promotes selected teams into experimental households.
 
 Kinship favors high somatic-envelope aptitude, latent esper potential, proven Fist relationships, and leverage through scholarships, medicine, family debt, immigration status, licensing, or sponsor contracts. It supplies intensive care, historical study, and recovered transformation hardware. Attachment surveillance hides inside team-readiness analytics; manufactured crises hide inside scenario design; coercion arrives as formation balancing, clinical continuity, scholarship review, placement, and certification.
@@ -54,14 +60,13 @@ The missing teams leave signals without leaving one usable case. Alumni notice r
 
 ## Ordinary Meridian
 
-Several people outside the household retain decisions that matter:
+Three people outside the household recur as emotional and causal anchors:
 
-- **Rhea Mott**, captain of a rival cadet Fist, wants the Directorate stopped and considers Finalist secrecy an ugly price adults may genuinely have to pay. Her rivalry with Senn becomes anger when the escape converts cadet training space into a live engagement.
-- **Instructor Jun Vale** teaches damaged-formation recovery. He distrusts Kinship's household pedagogy but believes pilots owe one another predictable competence. His choice to honor an abort signal costs the exercise an experienced response team.
-- **Doctor Pava Neris** manages interface pain and knows Lio's treatment history. She files an emergency fitness suspension for all five rather than disclose Iri's injury as evidence of noncompliance. The suspension delays the wipe review but closes the household's legitimate launch access, trading time for a harder escape.
+- **Rhea Mott**, captain of a rival cadet Fist, wants the Directorate stopped and considers Finalist secrecy an ugly price adults may genuinely have to pay. During the exercise she obeys the containment order but honors Iri's public rescue vector instead of closing it, diverting her Fist to shield evacuating riggers. She neither joins the escape nor fires on Senn; the choice costs her the winning intercept and preserves her divided loyalty.
 - **Enna Quill**, senior rigger for the Finalist bay, recognizes Vesper's protective turn in supposedly new actuator wear. She places the affected component under a safety hold and preserves the worn assembly instead of returning it for classified refurbishment. The hold gives the five material evidence and costs them their preferred exercise component; her employment, apprentices, and family's route permits remain exposed to Compact retaliation.
-- **Marae Dho**, Omi's off-station aunt and only reliable family contact, supports the Compact because a Directorate accession dissolved her union's local bargaining authority without firing anyone. She co-signs a family-status challenge that prevents Omi's disappearance from being immediately recorded as voluntary classified service. The filing creates outside standing while exposing her household to scrutiny.
-- **Aru Sen**, a former Finalist returned to private identity after a household recomposition, remembers a missing teammate and refuses both the school's claim that nothing happened and the current five's temptation to treat every survivor as ready to testify. He declines public testimony but gives Tem the obsolete placement code that exposes recomposed Seat histories. The refusal removes the easy witness the five wanted; the code opens the cohort ledger they can prove.
+- **Aru Venn**, a former Finalist returned to private identity after a household recomposition, remembers a missing teammate and refuses both the school's claim that nothing happened and the current five's temptation to treat every survivor as ready to testify. He declines public testimony but gives Tem the obsolete placement code that exposes recomposed Seat histories. The refusal removes the easy witness the five wanted; the code opens the cohort ledger they can prove.
+
+Instructor Jun Vale, Doctor Pava Neris, and Marae Dho remain lower-resolution social-body actors rather than additional attachment arcs. When the household begins unauthorized movement, Vale closes the secondary launch route because opening it would expose two novice Fists to an assembled body they have never trained beside. His lawful choice protects those cadets, strengthens custody, and forces the five toward the occupied spindle; he does not reverse it when the conspiracy becomes visible. Neris files an emergency fitness suspension rather than disclose Iri's injury as noncompliance, delaying the wipe while closing legitimate launch access. Marae co-signs a family-status challenge from Morrow Quay, preventing Omi's disappearance from being immediately recorded as voluntary service while exposing her household to scrutiny.
 
 Their responses prevent the academy from dividing into rescuers and jailers. Medicine, employment, dependants, defense, affection, and professional duty point in different directions before anyone knows the whole program.
 
@@ -80,6 +85,20 @@ Their responses prevent the academy from dividing into rescuers and jailers. Med
 | Control the exercise and issue a local abort | Meridian exercise control; Vey holds academy safety authority | Local control cannot countermand the Compact's sealed emergency launch clause. |
 | Override the abort | Compact emergency deterrence cell through House range-security relays | The cell owns the declared emergency interval, not routine academy safety or the resulting public account. |
 | Classify or purge evidence | Separate House security, sponsor secrecy, clinic privacy, and procurement-record offices | Each can suppress its own records; none can erase every witness or independently publish the whole case. |
+
+## Consciousness Admissibility
+
+Meridian's custody process does not test whether a soul or mind exists. It tests whether a claimed agent can produce an addressable act through a channel the receiving office accepts. AFTER can ask, conceal, refuse, and maintain a challenge history through live House hardware. Those acts qualify it for conditional ship-mind review without deciding title or general personhood.
+
+Executive exclusion makes Vesper fail the same administrative threshold by construction. Donor patterns cannot place a command, submit a challenge, or address an examiner through the certified control plane. Protective reflex and pain-like phase conflict are classified as residue because the architecture prevents them from arriving in the form required to contest that classification. [[Worldbuilding/Post-Elysium/Reference/Continuity Admissibility Finding|Continuity admissibility]] can make contradictory evidence usable for one proceeding; it cannot restore the silenced channel or decide personhood.
+
+The contrast is institutional rather than metaphysical. AFTER becomes conditionally legible because it can speak. Vesper is made administratively dead by preventing speech, then cited as evidence that no speaker remains.
+
+## Exposure Chain
+
+The broadcast carries three reader-legible bundles. **Body evidence:** Quill's retained assembly ties Vesper's famous protective motion to current donor-pattern wear. **Program history:** Aru Venn's placement code and Tem's records connect reassigned households to suppressed Harrowglass telemetry. **Live authority:** AFTER challenges custody while Vey's authenticated range log names the external credentials that bypassed academy safety. Lio includes the credible invasion forecast so opposition cannot make its case depend on every institutional claim being false.
+
+No bundle proves the others automatically. Together they make the dispute public and expensive to erase; security can still contest scope, custody, identity, and interpretation.
 
 ## Headmaster Ansel Vey
 

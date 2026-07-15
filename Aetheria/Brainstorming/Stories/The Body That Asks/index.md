@@ -50,6 +50,7 @@ The reader should repeatedly receive three pleasures: institutional procedure re
 - [[Distributed Critic Review 2026-07-15]] — superseded pre-repair review preserved as historical diagnostic evidence.
 - [[Focused Repair Review 2026-07-15]] — post-repair verification of the previously identified planning blockers.
 - [[Distributed Critic Review 2 2026-07-15]] — fresh post-repair review focused on reader load, person-scale persistence, and external political embodiment.
+- [[Distributed Critic Review 3 2026-07-15]] — varied post-repair cycle with clean action, continuity, thematic, reader, and Foundry-readiness rechecks.
 - [[Concept Art/Daedal Production Figure v7.prompt|Concept Art]] — accepted Daedal production-Figure direction and saved generation prompt.
 
 ## Canon and Invention Boundary
@@ -75,7 +76,7 @@ The reader should repeatedly receive three pleasures: institutional procedure re
 - All named characters and standardized Seats
 - AFTER's distributed persistence through recovered Calyx hardware
 - Vesper Fist, harvested ARIs, and the Necro Concord
-- The proposed defense compact and dormant transformation handshakes
+- The proposed defense compact and live replies from hidden contemporaries
 
 Promotion requires a separate continuity decision after the story proves which history it needs.
 
