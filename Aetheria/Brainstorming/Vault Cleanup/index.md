@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 26
+
+- `Combat Doctrine.md` fell from 1,514 to 852 words. It now owns force employment as a decision grammar: protected objective, incomplete evidence, staged commitment, divided authority, abort thresholds, sustainment, withdrawal, capture, and inspectable residue.
+- Thermal physics, signature classification, PSC restrictions, ship-mind custody, continuity admissibility, timeline history, and faction tendencies remain with their owner notes. Capture no longer manufactures title or custody, and evidentiary consequences no longer masquerade as a universal record protocol.
+- Clueless/Loremaster used *The Burden of Proof* as bounded evidence for command by verbs and separate surrender, safing, boarding, custody, title, wages, treatment, and rescue transitions. Those scenes informed the model without becoming a universal ship constitution or legal procedure.
+- Soul removed the faction and technology tours, duplicate authority schemas, invented command pipeline, universal record mandates, meta-commentary about fiction, and a setting-wide infrastructure-preservation claim. Links, direct-entry comprehension, causal density, custody boundaries, and continuity-finding scope passed.
+
 ### Wave 25
 
 - `Bloom.md` and `Bloom Habitat Anatomy.md` fell from 2,416 to 1,752 words. Bloom now owns source-body conversion, commissioning readiness, research lineage, deployment, and political economy; Anatomy owns mature spatial grammar, flows, access, and failure propagation.
