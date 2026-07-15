@@ -15,6 +15,11 @@ This folder owns the formal [[../../Novella Foundry/index|Novella Foundry]] run.
 
 - [[Pass 01/Pass Report|Pass 1 — Charter and Canon Boundary]]
 - [[Pass 01/Hostile Process Review|Hostile Process Review]]
+- [[Pass 02/Pass Report|Pass 2 — Cast, Persona Baselines, and Social Body]]
+- [[Cast Bible]]
+- [[Support Continuity]]
+- [[Aggregate Actors]]
+- [[Relationship Matrix]]
 
 ## Manuscript
 
