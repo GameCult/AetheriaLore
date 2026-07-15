@@ -32,6 +32,9 @@ This folder owns the formal [[../../Novella Foundry/index|Novella Foundry]] run.
 - [[Pass 07/Pass Report|Pass 7 — Character Causality Replay]]
 - [[Character Causality Replay]]
 - [[Pass 07/Support and Aggregate Replay|Support and Aggregate Replay]]
+- [[Pass 08/Pass Report|Pass 8 — Narrative Architecture]]
+- [[Narrative Architecture]]
+- [[Pass 08/Voice Test Review|Voice Test Review]]
 
 ## Manuscript
 

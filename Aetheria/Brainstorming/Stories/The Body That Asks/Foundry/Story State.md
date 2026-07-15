@@ -2,7 +2,7 @@
 
 ## Run
 
-- **Current pass:** Pass 7 — Character Causality Replay accepted.
+- **Current pass:** Pass 8 — Narrative Architecture accepted.
 - **Mode:** Full fourteen-pass Foundry run.
 - **Operator authority:** Autonomous continuation toward the complete story.
 - **Length policy:** No target or ceiling.
@@ -34,13 +34,16 @@
 - twelve accepted streams under `Pass 07/Delta Streams/`.
 - [[Pass 07/Support and Aggregate Replay|Support and Aggregate Replay]]
 - [[Pass 07/Pass Report|Pass 7 Report]]
+- [[Narrative Architecture]]
+- [[Pass 08/Voice Test Review|Voice Test Review]]
+- [[Pass 08/Pass Report|Pass 8 Report]]
 
 ## Open Work
 
-- Pass 8 must project the accepted ladder and delta streams into scene architecture without treating the inherited chapter count as a quota.
-- Pass 8 must protect school-life breathing chambers between institutional ratchets.
+- Pass 9 must turn provisional chapters into scene transactions and drafting packets without silently changing accepted deltas.
+- Pass 9 must record exact scene entrances, exits, observable events, and chapter handoffs before manuscript promotion.
 - Candidate prose remains noncanonical test evidence.
 
 ## Next Inputs
 
-Pass 8 consumes the accepted ladder and event delta streams to create scene architecture, POV order, transitions, pressure rhythm, and explicit scene transactions.
+Pass 9 consumes the provisional architecture, voice evidence, and event streams to create scene transactions, chapter drafting packets, and revision dependencies.
