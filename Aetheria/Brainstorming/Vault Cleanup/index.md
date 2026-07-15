@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 20
+
+- `Nibu Attached Shuttle Story.md` fell from 3,387 to 1,516 words. It now owns one developmental pre-Rupture playable episode rather than Nibu's origin wound, first violence, final crew, or direct route to the Rupture junkyard.
+- The player is a junior systems and maintenance operator whose access work, records, repairs, and physical interventions feed a six-stage contract-to-aftermath loop. Four author-facing lenses organize branches without becoming visible morality meters.
+- Nibu's capabilities now require power, compatible interfaces, physical paths, and consent or emergency breach. Thermal deception spends real heat, the BCI bridge belongs to this crew's architecture, and embodied hull/records/command surfaces replace portable-core language.
+- Clueless/Loremaster restored the centuries of later crews and custodians, most of whom die before her degraded hull reaches the junkyard by the Rupture. Soul verified the outcome ledger, finished-fiction/character-owner handoff, chronology, links, and frontmatter.
+
 ### Wave 19
 
 - The public game-design cluster fell from 18,699 to 4,445 words. The index now owns navigation and status, `Aetheria Client and Modes.md` owns the candidate shell and durable continuity boundaries, `Aetheria Starbridge.md` owns the playable session concept, and the key-art brief owns one production composition.
