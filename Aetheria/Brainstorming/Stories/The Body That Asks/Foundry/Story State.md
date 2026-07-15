@@ -2,7 +2,7 @@
 
 ## Run
 
-- **Current pass:** Pass 2 — Cast, Persona Baselines, and Social Body accepted.
+- **Current pass:** Pass 3 — Material Baseline accepted.
 - **Mode:** Full fourteen-pass Foundry run.
 - **Operator authority:** Autonomous continuation toward the complete story.
 - **Length policy:** No target or ceiling.
@@ -23,13 +23,14 @@
 - [[Aggregate Actors]]
 - [[Relationship Matrix]]
 - [[Pass 02/Pass Report|Pass 2 Report]]
+- [[Material Ledger]]
 
 ## Open Work
 
-- Pass 3 makes academy domestic space, component custody, routine labor, and post-escape shelter physically draftable.
+- Pass 4 must keep its causal model coarse enough to serve scenes rather than replacing them.
 - Calyx Persona history must replay in lived order while presentation projects reverse coordinates.
 - The representative prose comparison must record honestly whether a minimal-ledger variant and independent readers are available.
 
 ## Next Inputs
 
-Pass 3 consumes the accepted Pass 1–2 packet plus [[../Meridian/Meridian House|Meridian House]], [[../Braid|Braid]], and the authority maps in [[Aggregate Actors]].
+Pass 4 consumes the accepted Pass 1–3 packet and formalizes only the clocks, observables, and conservation rules needed for Concordance, institutional response, Bright Ledger, and escape.

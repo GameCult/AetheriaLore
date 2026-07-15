@@ -20,6 +20,8 @@ This folder owns the formal [[../../Novella Foundry/index|Novella Foundry]] run.
 - [[Support Continuity]]
 - [[Aggregate Actors]]
 - [[Relationship Matrix]]
+- [[Pass 03/Pass Report|Pass 3 — Material Baseline]]
+- [[Material Ledger]]
 
 ## Manuscript
 

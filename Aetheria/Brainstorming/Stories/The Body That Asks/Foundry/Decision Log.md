@@ -12,3 +12,7 @@
 | Escape uses the five damaged component Figures. | Accepted | Preserves bodily autonomy and makes shelter a live material problem. | Convenient third-party home or permanent combined body. |
 | One final machine-person reply is dramatized; two signals remain latent. | Accepted | Gives the ending one relationship rather than three sequel pitches. | Three closing introductions or only one total signal. |
 | Story-local invention remains outside setting canon during drafting. | Accepted | The manuscript must prove what history it needs. | Silent promotion from planning. |
+| Academy Figures are single-occupant in flight with assigned crews based in bay or tender. | Accepted | Preserves Daedal crew labor without carrying invisible unconsenting crews into Concordance. | Five unexplained onboard crews or labor-free machines. |
+| Meridian uses a rotating school drum around a non-rotating flight truss. | Accepted | Makes school routine and zero-g flight thresholds legible. | Scene-dependent campus geometry. |
+| Senn, Tem, and Iri receive bounded class/family provenance. | Accepted | Their dependencies and exits must be as material as Omi and Lio's. | Generic academy-native backgrounds. |
+| The ending route is Morrow Quay pallet refusal to Saint Varo. | Accepted | Honors local refusal and ends at temporary infrastructure rather than safety. | Convenient sanctuary, forced entry, or fade-out in open space. |

@@ -11,5 +11,7 @@
 | Lantern Compact, Continuance Directorate, and forecast | Makes emergency rationale credible and exploitable. | Forecast remains probabilistic and insufficient as acquittal. | Story-local. |
 | Bright Ledger, Serein, Halcyon, and Palisade | Gives the climax labor and corporate stakes. | Consent, acquisition, supply, and escape retain explicit owners. | Story-local. |
 | Three final signals | Opens present-tense political relation. | One machine-person reply is dramatized; pilot and political signals remain latent; none is lost Fivefold. | Story-local. |
+| Meridian drum/truss campus and Finalist domestic spur | Makes school geography and care labor draftable. | Zero-g flight truss and fragmented authority remain compatible with Daedal practice. | Story-local. |
+| Orison Relay and Saint Varo quarantine anchorage | Give escape a medical/custody choice and temporary endpoint. | Neither becomes effortless sanctuary. | Story-local. |
 
 Appearance in the manuscript does not promote an invention. Promotion requires a separate continuity decision after the story is complete.

@@ -29,9 +29,9 @@ Persona does not imply POV. The ordinary Meridian pool is the five cadets; Calyx
 
 Office transfer moves decision authority and relevant perception. It does not transfer accumulated component skill, physical tolerance, or the whole person.
 
-## Open Invention
+## Material Provenance
 
-Senn, Tem, and Iri still lack family and class provenance beyond academy life. Pass 3 may establish only details that materially shape routine, dependence, or credible exit. Absence of current notes is not permission to make them generic academy natives.
+Pass 3 establishes bounded histories that shape dependence and exit: Senn comes from a small certification-dependent calibration shop; Tem belongs to two real route households that Meridian forces into one administrative domicile; Iri comes from academy-adjacent contract maintenance labor and entered through a technical-apprentice scholarship. [[Material Ledger]] owns the material details.
 
 ## Guardrails
 
