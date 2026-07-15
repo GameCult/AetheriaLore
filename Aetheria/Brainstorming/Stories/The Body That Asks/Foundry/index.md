@@ -24,6 +24,9 @@ This folder owns the formal [[../../Novella Foundry/index|Novella Foundry]] run.
 - [[Material Ledger]]
 - [[Pass 04/Pass Report|Pass 4 — Causal Laboratory]]
 - [[Causal Model]]
+- [[Pass 05/Pass Report|Pass 5 — Strategy or Premise Auditions]]
+- [[Premise Auditions]]
+- [[Pass 05/Audition Review|Audition Review]]
 
 ## Manuscript
 

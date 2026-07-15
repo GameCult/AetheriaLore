@@ -2,7 +2,7 @@
 
 | Decision | Status | Rationale | Rejected alternative |
 | --- | --- | --- | --- |
-| No word-count target or ceiling. | Operator-locked | Length follows completed dramatic work. | Live 45–60k and 50–60k constraints. |
+| No word-count target or ceiling. | Operator-locked | Length follows completed dramatic work. | Fixed-length production constraints. |
 | Twenty-two chapters are provisional architecture. | Accepted | Scene and prose evidence may split or collapse them. | Chapter count as production quota. |
 | Full fourteen-pass Foundry run. | Accepted | Reverse chronology, distributed personhood, and ensemble causality justify inspectable state. | Retroactive pass completion. |
 | The Unseating spans the Harrowglass Route Sphere. | Accepted | Supports eleven governments and successor politics without rewriting all Elysium. | Civilization-wide rupture or unnamed scale. |
@@ -16,3 +16,6 @@
 | Meridian uses a rotating school drum around a non-rotating flight truss. | Accepted | Makes school routine and zero-g flight thresholds legible. | Scene-dependent campus geometry. |
 | Senn, Tem, and Iri receive bounded class/family provenance. | Accepted | Their dependencies and exits must be as material as Omi and Lio's. | Generic academy-native backgrounds. |
 | The ending route is Morrow Quay pallet refusal to Saint Varo. | Accepted | Honors local refusal and ends at temporary infrastructure rather than safety. | Convenient sanctuary, forced entry, or fade-out in open space. |
+| Professional futures organize the academy movement. | Accepted | Plastics and Lifers offer attractive, competent adult lives whose fixed roles divide the household and make resistance relationally costly. | Conspiracy investigation as the academy's sole engine. |
+| Candidate prose remains noncanonical until manuscript drafting. | Accepted | Pass 5 tests causal spine, social texture, and voice without smuggling audition language into the final story. | Promoting a generated candidate wholesale. |
+| The assembly rewrite uses the minimal candidate's spine. | Accepted | It preserves mechanical intelligibility, emotional escalation, and a sustainable voice; bounded social facts from the full-room test remain available. | Scene-level collage or the full-room exposition load. |

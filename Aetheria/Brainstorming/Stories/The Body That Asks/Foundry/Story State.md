@@ -2,7 +2,7 @@
 
 ## Run
 
-- **Current pass:** Pass 4 — Causal Laboratory accepted.
+- **Current pass:** Pass 5 — Strategy or Premise Auditions accepted.
 - **Mode:** Full fourteen-pass Foundry run.
 - **Operator authority:** Autonomous continuation toward the complete story.
 - **Length policy:** No target or ceiling.
@@ -25,13 +25,16 @@
 - [[Pass 02/Pass Report|Pass 2 Report]]
 - [[Material Ledger]]
 - [[Causal Model]]
+- [[Premise Auditions]]
+- [[Pass 05/Audition Review|Audition Review]]
+- [[Pass 05/Pass Report|Pass 5 Report]]
 
 ## Open Work
 
-- Pass 5 must audition materially different dramatic routes without reopening operator-locked outcomes.
 - Calyx Persona history must replay in lived order while presentation projects reverse coordinates.
-- The representative prose comparison must record honestly whether a minimal-ledger variant and independent readers are available.
+- Pass 6 must keep reader knowledge, Meridian knowledge, and Calyx lived knowledge separate.
+- Candidate prose remains noncanonical test evidence.
 
 ## Next Inputs
 
-Pass 5 consumes the accepted Pass 1–4 packet and auditions materially different dramatic routes through the central engine before the full ladder freezes.
+Pass 6 consumes the accepted strategy, causal model, and character packet to build separate reveal ladders for reader, Meridian, Calyx lived history, and institutional response.
