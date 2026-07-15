@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 21
+
+- `Playable Layers.md`, `Action RPG Layer.md`, `Corporate Strategy Layer.md`, and `Persistent Universe and Reset Loop.md` fell from 3,758 to 2,230 words. Cockpit and corporation play now define independent minimum proofs; neither requires a persistent world or the other layer to become playable.
+- `Playable Layers.md` exclusively owns the optional regional-pressure exchange. Scenarios validate inputs and own local projections; only the named durable owner may commit returned market, asset, route, claim, inventory, or faction consequences.
+- The corporation layer gained bounded governance, delegation, workforce refusal, insolvency, and finite end conditions while losing Conquest sequencing and unversioned combat-kernel architecture. The cockpit layer retains material ship state, engineering under stress, port claims, and consequential return.
+- The reset loop is now a 427-word historical campaign framework bounded by `Temporal Nonlinearity`. Nibu and Parallax authority theft, old/new metaphysics equivalence, product cadence, and carryover policy were cut. Final Soul passes verified status metadata, links, standalone proofs, and durable-owner seams.
+
 ### Wave 20
 
 - `Nibu Attached Shuttle Story.md` fell from 3,387 to 1,516 words. It now owns one developmental pre-Rupture playable episode rather than Nibu's origin wound, first violence, final crew, or direct route to the Rupture junkyard.

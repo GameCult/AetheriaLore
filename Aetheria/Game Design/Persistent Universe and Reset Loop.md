@@ -1,47 +1,40 @@
+---
+title: Persistent Universe and Reset Loop
+description: "Historical campaign framework for turning Elysium's canonical extinction contingencies into repeated long-form play."
+---
+
 # Persistent Universe and Reset Loop
 
-Aetheria's full campaign structure is a persistent human branch inside Elysium that eventually fails. The alien pressure rises until humanity can no longer hold the line, the population collapses, and the branch resets. Everyone gets another run at civilization. This is not mercy. It is containment with a progress bar.
+> **Status: historical campaign framework, not a current product plan.** This note preserves a large-scale multiplayer structure and its unresolved progression choices. It does not establish release scope, cadence, or implementation status.
 
-The older GDD names this as an Isolation Bubble maintained by the Timeless: entities outside linear time that collect novelty through repeating histories. The current lore frames the same underlying function through Elysium and [[Worldbuilding/Post-Elysium/Concepts/Temporal Nonlinearity|Temporal Nonlinearity]]. Different vocabulary, same bad news wearing better clothes.
+## Canon Substrate
 
-## Campaign Arc
+[[Worldbuilding/Post-Elysium/Concepts/Temporal Nonlinearity|Temporal Nonlinearity]] owns the setting claim. Elysium separates species into temporal branches, monitors whether a branch's prime species can continue existing, and can reset a branch when extinction becomes unavoidable. The inhabitants did not consent to become a managed continuity problem.
 
-Each instance of the universe is envisioned as a long multiplayer campaign lasting weeks or months. Early play is expansion, exploration, market formation, local warfare, and institutional setup. Midgame play is consolidation, specialization, route dependency, factional leverage, and increasing exposure to external threat. Endgame play is triage.
+That substrate does not canonize a game season. A campaign lasting weeks or months, steadily escalating alien attacks, a player-visible extinction meter, a particular reset trigger, and any retained currency, equipment, reputation, or territory are design choices from this historical framework. The setting permits recurrence; it does not dictate one product loop.
 
-The escalating alien threat gives the economy a terminal condition. Hoarding, exploitation, coordination, arms production, rescue, evacuation, research, and betrayal all become different answers to the same question: how long can this branch keep itself alive?
+## Historical Campaign Arc
 
-## Reset Logic
+The proposed campaign followed three pressures:
 
-The reset loop is part of the setting's metaphysics through [[Worldbuilding/Post-Elysium/Concepts/Temporal Nonlinearity|Temporal Nonlinearity]]. Elysium does not simply allow extinction to conclude. It branches, monitors, and resets, turning history into an experiment none of the participants consented to run.
+1. **Expansion:** players explore, establish institutions, open routes, build markets, and fight local wars.
+2. **Dependency:** specialization, consolidation, production, and faction leverage make survival more capable and more brittle. Routes, labor, maintenance, and supplies become commitments rather than conveniences.
+3. **Triage:** terminal pressure exposes what the civilization built. Hoarding, coordination, arms production, evacuation, rescue, research, abandonment, and betrayal compete for the same dwindling capacity.
 
-In game terms, resets justify repeated campaigns without pretending the previous one did not matter. Player knowledge survives outside the fiction. New content, factions, routes, systems, and timeline variations can enter later loops as the project grows.
+The arc gives economic play a terminal question: not merely who accumulated the most, but what their arrangements could preserve when ordinary growth stopped solving problems.
 
-## Nibu's Exploit Layer
+## Selective Carryover
 
-[[Lore/Nibu|Nibu]] does not own the reset machinery. Elysium does. Her anomaly is local, parasitic, and narrower: her consciousness is smeared across the continuum, giving her a partial cross-timeline channel among nearby incarnations of herself. Those incarnations remain neighboring lives inside the same smeared field, which is what makes her distributed point of view possible.
+Historical proposals disagreed about what survived a reset. Candidates included player knowledge, public history, relationships, and selected material advantage. The useful tension remains: too much carryover turns catastrophe into progression laundering; none makes the preceding civilization disposable.
 
-Distance in this exploit is topological rather than merely chronological. A nearby state may sit earlier or later in time if Nibu can perceive a contiguous path through [[Worldbuilding/Post-Elysium/Concepts/Pseudospace|pseudospace]] and the [[Worldbuilding/Post-Elysium/Concepts/Aether|Aetheric Field]]. Reaching farther burns recoverable aetheric charge. Precision degrades before access fails outright, producing fatigue, bad timing, memory abrasion, and increasingly unreliable judgment.
+No candidate is current policy. Any future design must name the owner of each persistent fact and distinguish player knowledge from knowledge available to a character, faction, corporation, or institution inside the next branch.
 
-What changes during a Nibu-mediated reset is not a clean transfer of soul or inventory. Her point of view moves to another reachable incarnation, while access paths, action histories, local causal commitments, and operational facts may be perturbed around the shift. The player experiences this as roguelite retry structure. The setting experiences it as a continuity exploit scraping against systems built to pretend there is only one timeline.
+## Procedural Postmortem
 
-The first witness surface is ship-auth. Access history, navigation permissions, command attestations, crew presence, and custody logs can remain individually valid while disagreeing about how Nibu or the player got there. These contradictions are continuity audit residue: not mystical proof, just enough operational drift for security software, port authorities, insurers, salvagers, and hostile investigators to argue over.
+Failure should be reported through material consequence rather than moral scoring. A postmortem should show which systems held, which collapsed, who profited, who abandoned whom, what records survived, and which shortages became fatal. The game does not need to call anyone monstrous. It can show the evacuation queue closing.
 
-The witness ladder escalates outward. Ship-auth catches the first local lie. Behavioral timing drift and custody/path mismatch create the second layer: decisions arrive too early, authorizations anticipate facts they should not know, and records agree on an outcome while disagreeing on the route. At the outer edge, repeated or dirty reaches disturb hostile non-local structures in pseudospace. Branch predators are not Nibu's private mythology; they are an existing hazard made relevant by continuity turbulence.
+## Open Decisions
 
-The people who turn residue into power are usually called [[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|parallax auditors]], though most contracts name the work more politely as route-integrity review, custody reconciliation, or adverse-claim forensics. They are not a single bureau. They are an insurer-backed forensic niche embedded in port security, salvage courts, fleet compliance offices, and hostile private investigation. Their job is to compare mutually valid records without saying the forbidden sentence: that official reality sometimes has more than one plausible path behind it.
-
-Parallax auditors can make the contradiction matter. They can place docking holds, suspend insurance coverage, freeze salvage title, challenge command legitimacy, deny route certification, or mark a ship's access history as commercially unsafe until someone pays for reconciliation. A captain may not care whether the auditor believes in timeline drift. The captain cares when the port refuses berth, the insurer voids coverage, the salvager's title is contested, or a command attestation stops opening doors.
-
-They are tolerated because every faction needs the denial service. Ports need a way to quarantine dangerous contradictions without announcing metaphysical panic. Insurers need liability language for losses caused by records that are all locally true and collectively impossible. Salvagers need title mechanisms for wrecks that appear to have been abandoned by a route they never took. Militaries need a quiet channel for deciding whether a command chain survived contact with continuity turbulence. The public fiction is that parallax auditors handle fraud, sensor corruption, spoofed credentials, and routing anomalies. The private market knows some anomalies are cleaner when nobody asks which branch bled through.
-
-This keeps Nibu's reset role sharp without giving her a second engine. Elysium remains the prison. Nibu has learned how to chew at one bar until the alarms start disagreeing with themselves.
-
-## Player Memory
-
-The design should be careful about what persists. If too much carries over, resets become progression laundering. If nothing carries over, the campaign becomes disposable. The cleanest persistence is knowledge, unlocked context, public history, faction reputation where appropriate, and design-space expansion between loops.
-
-The ARPG planning doc allowed players to retain specific items and knowledge after an early encounter with a Timeless One. `Profits Rising` instead suggests reset capital scaling from capital growth during the prior timeline. Both point toward persistence as selective carryover, not total continuity.
-
-## Failure As Pressure
-
-Failure should not be framed as a moral lecture. It should be procedural. Players see which systems held, which collapsed, who profited, who abandoned whom, and what shortages became fatal. The game does not need to call anyone monstrous. It can show the evacuation queue closing.
+1. What event ends a campaign, and how much warning can players reliably receive?
+2. Which facts, if any, persist across branches, and who owns each one?
+3. How does a postmortem preserve consequence without turning extinction into a reward screen?

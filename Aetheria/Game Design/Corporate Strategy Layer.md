@@ -1,59 +1,60 @@
+---
+title: Corporate Strategy Layer
+description: "Historical, non-product design lineage for corporation-scale allocation, production, labor, and consequence."
+---
+
 # Corporate Strategy Layer
 
-The corporate strategy layer is Aetheria from the distance at which people become allocation problems. It is the part of the design that asks what happens when players do not merely buy from the economy, but become one of the entities producing scarcity, infrastructure, labor discipline, and opportunity for everyone else.
+> **Status:** Historical design lineage and layer specification, not an active product or release plan. **Profits Rising** names the corporation-management lineage from which this design descends. It does not imply a standalone game or subsystem promised for another mode.
 
-## Player Role
+The corporate strategy layer is Aetheria from the distance at which people become allocation problems. The player operates a firm inside a bounded economy. Its decisions create capacity and distribute exposure; success is never only a larger account.
 
-The player corporation defines population roles, gathers resources, builds infrastructure, researches technology, manufactures items, expands into territory, and competes for money and influence. This is the **Profits Rising** gameplay lineage: the logistics and supply-chain game in which the player controls an entire corporation.
+## Player Constitution
 
-The corporation is not assumed to be a [[Megas|Mega]]. Scenario premises can begin with an inherited family workshop, a distressed freight cooperative, a regional manufacturer, a licensed franchise, a stealth startup built around one hot disruptive technology, or an established firm trying to survive a standards war. Different starting ownership, debt, workforce, intellectual property, supplier access, and reputation should produce materially different games before any corporation becomes large.
+The player acts through a corporate constitution rather than a god-hand. Ownership, debt, and governance determine authority over budgets, facilities, contracts, labor, production, research, and security.
 
-A corporation does not have to personally fire a shot to hurt people. It can underfund route security, overproduce disposable ships, monopolize a resource node, lock a settlement into maintenance dependence, or price repairs just high enough that desperate pilots accept worse contracts.
+Managers, workers, creditors, regulators, suppliers, and customers retain interests the player cannot author directly. The constitution determines which actions require consent and whose confidence keeps the firm operating.
 
-The original `Profits Rising` model starts some scenarios with capital, a colonist population, and population traits that shape what people demand and what they produce well. That is one scenario family, not the universal opening. Every corporation still begins as a social design problem wearing a finance hat. Naturally everyone involved insists this is normal.
+The interface must distinguish proposals from committed actions. Allocating maintenance does not command every repair; offering terms does not author acceptance. Delegation trades control for capacity and local knowledge.
 
-## Strategic Outputs
+Exhaustion may produce restructuring, seizure, takeover, or lost independence rather than erasure. Each scenario names failure, compromised survival, and success.
 
-The strategy layer should produce conditions the action layer can feel:
+## Operating Loop
 
-- resource shortages
-- surplus goods and cheap equipment
-- patrol density and security zones
-- contested stations and vulnerable routes
-- local faction influence
-- research unlocks and prototype gear
-- contracts, bounties, sabotage, rescue, and courier work
+One strategic interval follows seven steps:
 
-These outputs are the meeting point between the spreadsheet and the cockpit. If the strategy layer cannot create pressure the field layer understands, it is just a second game standing next to the first one in an expensive coat.
+1. **Read the position:** inspect cash, debt, obligations, inventory, workforce conditions, demand, infrastructure, and information confidence.
+2. **Choose commitments:** accept contracts, reserve capacity, negotiate finance, or decline work whose penalties and opportunity costs remain visible.
+3. **Procure:** buy, substitute, recover, or contract for materials, components, transport, expertise, and licenses.
+4. **Allocate:** assign budgets and capacity among wages, safety, maintenance, production, research, reserves, security, and expansion.
+5. **Produce and move:** commit facilities and input lots, then expose goods to process variance, transport risk, delay, and inspection.
+6. **Settle:** deliver, price, license, stockpile, recall, contest, or disclose; receive payment and claims rather than an abstract completion reward.
+7. **Absorb response:** workers, customers, suppliers, rivals, creditors, and public institutions react before the next interval.
 
-## Population And Labor
+The central decisions concern scarcity. Who receives limited output? Does the firm honor a contract, preserve maintenance, protect payroll, or retain liquidity? Does it run damaged equipment, stop production, disclose a defect, or miss a deadline? Growth is not the universal objective.
 
-Population roles should be more than production slots. Aetheria's setting is obsessed, correctly and unpleasantly, with how institutions turn personhood into categories. Workers, specialists, pilots, researchers, security personnel, administrators, uploads, uplifted labor, and engineered crews should all carry different costs, risks, legal statuses, and political consequences.
+## Production, Research, And Provenance
 
-See [[Colonies and Population]] for the population model recovered from the planning docs: personality attributes, satisfaction, actualization, demand profiles, influence profiles, and production affinity.
+Production turns designs and real inputs into item instances. Blueprints define technical arrangements; patents and licenses define claims over their use. Manufacturing records facilities, input lots, substitutions, producers, quality, and relevant labor or compliance conditions. This provenance gives cheap parts, stolen designs, and neglected lines consequences beyond a quality tier.
 
-## Research And Production
+Research changes capabilities, dependencies, and bargaining position rather than climbing a permanent bonus ladder. Technology may be built, bought, licensed, stolen, published, reproduced, or abandoned. Temporary exclusivity can create leverage without making discovery eternal property. Research consumes attention, equipment, time, and inputs that could maintain production.
 
-Research should not be a clean ladder of bigger numbers. It should alter what a corporation can build, which materials it needs, what risks it externalizes, and which factions become rivals or suppliers. Production should inherit quality, material origin, blueprint design, labor conditions, and manufacturing doctrine where the game can support it without turning every bolt into a tax filing.
+Information remains incomplete. Forecasts estimate demand, inspections sample quality, managers summarize conditions, and counterparties conceal weakness. The player decides when to buy better evidence and when to act under uncertainty. Dashboards are institutional claims, not omniscient views.
 
-A blueprint expresses a technology and arrangement of components, not a branded inventory good. It may be patented, licensed, proprietary, public domain, stolen, expired, or independently discovered. The actual branded or unbranded object is a manufactured item instance. Its crafting recipe and manufacturing run carry the supply-chain provenance: real input lots and components, producer, facility, substitutions, quality, licensing claim, and process history. Strategy-scale production should create those instances rather than minting a new item-data definition for every brand and quality tier.
+## Conflict And Workforce Agency
 
-The planning docs give research a patent window: completed technologies grant exclusive rights for a time before becoming licensable by others. That is much more interesting than permanent unlock hoarding. It lets research create temporary monopoly, licensing revenue, arms races, and the brief corporate ecstasy of mistaking first-mover advantage for virtue.
+Corporate conflict begins with contracts, standards, route access, insurance, pricing, supply interruption, talent, infrastructure, and acquisition. Sabotage, private security, and open violence may appear in a scenario, but they remain costly actions with legal, labor, and market consequences. The setting is strongest when coercion comes with invoices.
 
-## Conflict
+Workers are not production modifiers attached to a population total. They possess skills, needs, relationships, legal positions, outside options, and ways to coordinate. Unsafe work, unpaid wages, surveillance, discriminatory classification, broken promises, or profitable alternatives can produce refusal, slowdown, exit, strike, disclosure, or takeover. High satisfaction does not purchase obedience; low satisfaction does not predict one uniform response.
 
-Strategy conflict is economic before it is military. Route denial, contract manipulation, supply interruption, standards capture, sabotage, insurance pricing, infrastructure enclosure, and hostile acquisition all fit Aetheria better than simple conquest. Open violence still exists, but the setting is strongest when coercion comes with invoices.
+The player can change conditions, bargain, delegate, threaten, replace, automate, or close a line. None of those actions directly authors another person's agreement. Their consequences depend on the firm's constitution, workforce organization, labor market, infrastructure dependence, and the credibility of alternatives.
 
-The strategy GDD also includes police protocol, pirates/privateers, independent traders, AI corporations, and alien escalation. The current design may rename, replace, or cut them, but the actor roles are still useful: they keep the corporate layer from becoming a closed optimization puzzle. The market has predators, referees, parasites, and the occasional existential correction.
+## Smallest Coherent Proof
 
-## Strategic Combat Simulation
+A minimum scenario needs one firm in a region with two or three markets, one production chain, three to five commodities, several workforce groups, one vulnerable transport route, a supplier, a customer, and one rival or institutional claimant. The scenario should reveal enough information for deliberate choices while preserving uncertainty about demand, defects, and response.
 
-The large strategy game needs hundreds of battles to progress across the local galaxy without requiring every engagement to run frame by frame. A fast deterministic combat kernel in the daemon resolves offscreen engagements from the same native hulls, manufactured item instances, loadouts, condition, cognition, observations, orders, and campaign state used by live play.
+An end condition might require the firm to survive a supply shock, deliver essential infrastructure, retain independence, establish a technical standard, or preserve operations without exhausting its workforce. Evaluation should report cash and output alongside injuries, deferred maintenance, broken contracts, dependency, and who can still act afterward.
 
-The kernel is also the combat-design laboratory. New mechanics should be cheap to prototype there: run many matchups, vary blueprints and supply chains, expose counters, and decide which dynamics deserve to exist. Once those dynamics are accepted, the live frame-by-frame simulation builds them out as animated game-world behavior. Paired conformance scenarios then keep offscreen and observed combat aligned as both implementations evolve.
+## Optional Cockpit Seam
 
-An observed battle transfers advancement authority to the live simulation at an explicit synchronization checkpoint. A battle leaving observation returns to the kernel the same way. Crossing that boundary must not repair damage, cool components, duplicate ammunition, change provenance, reset cognition, or reroll committed events.
-
-This architecture belongs to Aetheria's large corporate strategy/RTS layer. [[Aetheria Starbridge|Starbridge]] may consume shared combat machinery, but its scoped cooperative defense sessions are not the reason hundreds of persistent battles must run faster than realtime.
-
-Profits Rising remains the name of the corporation-management gameplay, not the entire Aetheria strategy layer and not a discarded prototype. The original long-term plan was to use it to solidify the economic model, prove logistics and supply chains at scale, and eventually merge that play with [[End of the Line|Terminus]]-style embodied play in the MMO-scale persistent world. With Starbridge now providing the first shared-combat foundation, Profits Rising systems should instead be introduced and developed as a layer of the community-warfare seasons described under [[Aetheria Client and Modes#Conquest|Conquest]]. Those seasons can add production, procurement, transport, corporate coordination, and market consequence incrementally while feeding real wars.
+The relationship to the cockpit layer is optional and bounded by [[Playable Layers]]. A scenario authority validates an imported snapshot, owns its local projection, and exports bounded proposed outcomes. Named durable owners decide which outcomes commit; the scenario does not commit them unless it is separately the durable owner of that state. Without cockpit play, authored events or simulation provide equivalent pressure, and the corporation layer remains playable on its own.

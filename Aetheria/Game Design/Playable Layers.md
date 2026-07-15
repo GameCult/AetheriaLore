@@ -1,42 +1,39 @@
 ---
-description: "Two Aetheria fantasies sharing one doomed universe: cockpit action in the field and corporate strategy at the scale where everyone else's misery becomes a business model."
+description: "Historical design synthesis for independently playable cockpit and corporate layers that may exchange bounded regional pressure."
 ---
 
 # Playable Layers
 
-Aetheria's oldest design ambition is not just "big MMO, but in space." It is two different game fantasies sharing one persistent context: cockpit-scale action and boardroom-scale exploitation, both pretending they are the main character while the universe quietly sharpens the knife.
+> **Status: historical design synthesis.** This note preserves the intended relationship between embodied and corporation-scale play. It does not define a release sequence, current roadmap, or implementation architecture.
 
-## Action RPG Layer
+Aetheria has explored two game fantasies at different distances: the operator inside a ship and the institution shaping the conditions around it. Each layer must work as a complete game without the other. Their useful overlap is optional and bounded: one produces regional pressure the other can understand.
 
-The ARPG layer is the player's embodied experience of the galaxy. It covers ship control, combat, missions, trade, travel, exploration, salvage, docking, crew-facing narrative, and the constant practical question of whether the next jump is worth the damage it may cost.
+## Cockpit Layer
 
-This layer is where [[End of the Line|Aetheria: Terminus]] made the first major retreat from the full persistent galaxy: route-first, rogue-lite, still system-heavy enough to make a producer start quietly reviewing their life choices. [[Call of the Void]] is the deeper cut below that: fewer generated systems, more curated cases, stronger character continuity, and less temptation to rebuild the entire galaxy because the coffee tasted optimistic.
+The [[Action RPG Layer|action RPG layer]] covers ship control, travel, combat and avoidance, contracts, trade, salvage, docking, and crew-facing narrative. Its decisions are immediate and embodied: which route to risk, what to carry, which system to overheat, whose claim to recognize, and whether the repair bill still leaves a reason to continue.
 
-## Corporate Strategy Layer
+## Corporate Layer
 
-The strategy layer lets players operate as corporations rather than lone operators. **Profits Rising** is the logistics and supply-chain gameplay in which a player controls a whole corporation: perhaps an inherited family operation, perhaps a stealth startup with one dangerous new technology, perhaps a larger regional producer. It does not assume the player begins as a Mega.
+The [[Corporate Strategy Layer|corporate strategy layer]] lets players operate an institution that allocates labor, capital, infrastructure, production, research, and security. Its decisions create shortages, surpluses, vulnerable routes, contested facilities, prototype equipment, labor disputes, and contracts. The layer remains playable through those strategic consequences even when no cockpit player visits the affected region.
 
-This layer should create the material conditions the ARPG layer has to inhabit. A corporate decision is not only a menu choice. It becomes a shortage, a patrol, a cheap weapon flooding the market, a station that needs protection, a new route worth raiding, or a worker population trapped inside somebody else's growth plan.
+## Optional Pressure Exchange
 
-The original long arc used Profits Rising to prove the economic model before merging corporation play with Terminus-style embodied play at MMO scale. Starbridge changes the development path without erasing that destination. Profits Rising systems now enter through community-warfare seasons: each campaign can deepen production, procurement, logistics, markets, corporate coordination, and strategic combat before those systems become one persistent world.
+The layers may exchange periodic or regional snapshots rather than share one continuously simulated universe.
 
-## Shared Persistent World
+Corporation-scale play can provide the cockpit layer with:
 
-The shared world is the hard part, naturally. The active `Aetheria-Economy` work surface gestures toward it with shared server/client simulation code, common serialization, factions, zones, galaxies, generated routes, cargo, equipment, narrative placement, and a server process intended to own persistent state.
+- prices, shortages, and available equipment;
+- route access, patrol density, and local security pressure;
+- infrastructure condition and production provenance;
+- contracts, faction influence, and prototype availability.
 
-The design problem is to decide which interactions must be live and which can be summarized. Not every corporate decision needs to spawn a bespoke cockpit encounter. Not every player dogfight needs to update a quarterly report. The useful overlap is where one layer creates pressure the other layer can understand.
+Cockpit play can return:
 
-Combat crosses that boundary through two synchronized execution models. The daemon's deterministic heuristic kernel advances hundreds of offscreen battles many times faster than realtime. The frame-by-frame full simulation owns battles under direct observation. Both consume compatible native state, and authority transfers only at explicit synchronization checkpoints so watching a battle cannot change its material truth.
+- purchases, consumption, cargo movement, and losses;
+- salvage, discoveries, and recovered technology;
+- completed or failed contracts;
+- damage, rescue, sabotage, and changes to local claims or reputation.
 
-The heuristic kernel doubles as a game-design laboratory. New combat mechanics can be explored through large matchup sweeps before their desired dynamics are locked and built as animated live-simulation behavior. After both versions exist, paired conformance tests keep their tactical decisions, resource costs, damage, and outcomes within characterized bounds.
+A scenario owner validates the strategic snapshot admitted into a cockpit session. During play, that scenario owns its local projection. Consequences return only through the named durable owner for the affected market, asset, route, claim, or faction state. Entering or observing cockpit play must not silently repair damage, duplicate goods, reroll committed events, or overwrite strategic history.
 
-## Near-Term Shape
-
-The release path should keep the layers honest without requiring them all to ship at once:
-
-1. Treat [[End of the Line|Terminus]] as the first reduced ARPG slice: route pressure, combat, ship builds, and procedural survival.
-2. Treat [[Call of the Void]] as the further step down if Terminus remains too large: PI cases, taxi fares, station districts, faction pressure, and a refactored version of the early Elysium revelation.
-3. Preserve the design language of corporate pressure even when the first playable build is single-player or limited-scope.
-4. Keep data models and content categories compatible with later economy simulation.
-5. Introduce strategy-scale systems only when their outputs create better field play.
-6. Let the full persistent loop emerge from working slices instead of demanding worship from a cathedral made of TODO comments.
+The exchange may be delayed, summarized, batched, or absent. Its purpose is to create legible pressure and consequence, not to make either layer wait for the other to become a game.

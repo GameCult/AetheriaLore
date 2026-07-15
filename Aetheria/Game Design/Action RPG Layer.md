@@ -1,55 +1,45 @@
 ---
-description: "Cockpit-scale Aetheria: travel, contracts, ship management, tactical combat, salvage, and the practical question of whether the next jump is worth the repair bill."
+description: "Design-lineage specification for cockpit-scale travel, ship management, tactical survival, and consequential work."
 ---
 
 # Action RPG Layer
 
-The action RPG layer is Aetheria at human speed: the ship on screen, the route ahead, the damaged component, the hostile contact, the suspicious contract, the cargo bay that is suddenly too small, and the faction whose logo makes the local dockmaster change tone.
+> **Status: design-lineage specification.** This note defines the embodied-play fantasy and its smallest useful proof. Older planning documents and surviving code may supply evidence, but they do not establish current implementation or release commitments.
+
+The action RPG layer is Aetheria at human speed: the ship on screen, the route ahead, the damaged component, the hostile contact, the suspicious contract, and the faction whose logo makes the dockmaster change tone.
+
+## Smallest Cockpit Proof
+
+The smallest proof is one ship, one port, and a short route containing at least one consequential encounter. The player must be able to:
+
+- choose work and inspect its route, payment, claimant, and known risks;
+- prepare a loadout and limited cargo capacity;
+- travel, detect danger, and choose combat, avoidance, negotiation, or retreat;
+- manage damage, heat, power, and ammunition;
+- reach a port where repair, sale, surrender, concealment, and payment have different consequences.
+
+The proof succeeds when preparation changes survival, damage changes later decisions, and returning to port resolves more than a score. It does not require a persistent galaxy, corporation simulation, procedural campaign, or complete technology catalogue.
 
 ## Core Loop
 
-The player accepts or discovers a reason to move through space, prepares a ship, travels through generated sectors, resolves combat or avoidance, manages damage and cargo, makes narrative choices, and returns with money, parts, information, obligations, or a worse problem wearing nicer clothes.
+The player accepts or discovers a reason to move through space, prepares a ship, travels through a dangerous route, resolves or avoids contact, manages damage and cargo, and returns with money, parts, information, obligations, or a worse problem wearing nicer clothes.
 
-The loop should be legible even when the simulation under it is deep:
+The essential decisions are route, loadout, commitment, expenditure, and aftermath. A profitable contract may consume scarce parts, contaminate a salvage claim, expose a passenger, damage relations with a port, or leave the ship unable to accept the next opportunity. Failure should change the available problem rather than merely demand repetition.
 
-- choose a route
-- prepare a loadout
-- survive the space between points
-- exploit or endure what the local economy produced
-- upgrade, repair, sell, betray, report, or run
+## Ship State And Combat
 
-## Tactical Combat
+The ship is both instrument and condition of play. Hull, equipment, cargo, propulsion, sensors, weapons, heat rejection, power supply, and accumulated damage should remain legible enough that the player can form a plan and understand its collapse.
 
-Combat is built around ship equipment rather than character stats floating in a vacuum. The active implementation exposes distinct weapon systems, hardpoints, shields, radiators, thrusters, reactors, capacitors, aether drives, visibility, sensors, heat storage, mines, projectiles, lasers, lightning, guided weapons, and weapon group assignment.
+Combat is engineering under stress. Position, visibility, velocity, weapon arcs, heat debt, power draw, ammunition, component condition, and escape geometry compete for attention. Avoidance belongs to the same system: detection, masking, route knowledge, acceleration, negotiation, and the willingness to abandon cargo can win an encounter without destroying anything.
 
-The design opportunity is to make combat read as engineering under stress. A fight is not just health bars and cooldowns. It is heat debt, power draw, visibility, velocity, durability, weapon arcs, shield timing, cargo risk, and the sick little moment when a clever build becomes a maintenance liability.
+Damage persists through the immediate loop. A failed radiator, compromised sensor, empty magazine, or breached hold changes travel and port choices. Repair consumes time, money, parts, access, or favors. The ship should feel like a working object whose history narrows and opens possibilities.
 
-The older ARPG GDD makes the combat premise sharper: shields can absorb far more than armor, so combat is largely about overwhelming the enemy's heat dissipation capacity. Ballistics, missiles, lasers, warp projectors, area effects, cryo variants, and damage types are all ways of attacking the target's ability to remain functional.
+## Missions, Ports, And Claims
 
-Weapon families should also express different resource economies. Lasers are the ideal energy weapon: ship power and ship heat become precise energy on target, rewarding pointing, fire control, cooling, and capacitor rhythm. Particle beams, plasma bolts, and lightning guns belong near that family even when they add extra conversion steps, channeling problems, or environmental dependencies. Ballistics and other material deployments make a different trade: carried mass becomes delivered effect, moving part of the burden into ammunition, magazines, recoil, logistics, interception risk, and supply chains. Missiles, mines, drones, and remorae extend that material logic by carrying guidance, cognition, loiter time, or thermal payloads away from the firing ship.
+Missions should arise from people and institutions with a reason to place them. Rescue, courier work, smuggling, recovery, escort, investigation, and sabotage become distinct through route conditions, faction reach, cargo, witnesses, custody, and the terms under which a port will recognize the result.
 
-Cognition should sit beside heat and power as a combat resource. A ship may have enough sensors to gather traces and enough weapons to kill, yet still lose if its targeting computer, fire-control stack, missile guidance, or battle computer cannot turn that information into correct action before the window closes. Smarter systems should make better use of gathered info, cycle more rounds onto valid targets while preserving the firing solution, peer through noisier signature masks, evade point defense, and decide when to commit loitering munitions under millisecond pressure. At the munition scale, cognition should also affect terminal quality: a smart missile can learn more at point-blank range than the launcher knew, time its last thrust against a countermaneuver, and hit an exposed subsystem instead of wasting itself on armor.
+Ports provide consequence rather than neutral menus. Docking access, repair capacity, markets, insurers, registries, employers, salvagers, and local authorities may disagree about what the player owns, owes, or is permitted to carry. A recovered object can be useful equipment, evidence, stolen property, hazardous material, or a disputed person depending on who receives it.
 
-That matters because cognition is commoditized in Aetheria. A high-end fire-control suite, AGI core, [[Neuromorphic Firmware]] package, or illegal adaptive munition mind is not just a stat stick. It is purchased judgment, with heat costs, maintenance dependencies, provenance problems, autonomy limits, and failure modes. Cognitive overload should be playable: too many tracks, decoys, locks, legal signals, and incoming threats can make a cheap command stack late, brittle, or dangerous even when the hull still has power and ammunition.
+## Optional Strategic Pressure
 
-## Ship Management
-
-The ship is the action RPG's character sheet. Hull shape, grid placement, hardpoint type, equipment quality, cargo layout, and behavior interactions should matter. The schematic display and inventory/trade interfaces in the current game repo point toward a game where the player understands the ship as a working object, not just a skin wrapped around numbers.
-
-## Mission Pressure
-
-Missions should not feel pasted onto the galaxy after the fact. Ink narrative, zone constraints, faction presence checks, route selection, and location binding all point toward missions that can be placed into generated space according to political and spatial logic.
-
-The ideal mission is specific in story and systemic in placement: a smuggler rendezvous where the faction actually has reach, a rescue near a contested route, a sabotage job that makes sense because the local supply chain is already strained.
-
-The planning docs also point to contracts, NPCs, repeatable stories, once-per-reset narrative events, station contacts, and dangerous subspace dungeons reached through peculiar wormholes. Those ideas should be treated as recoverable patterns, not binding feature promises. The design should keep the useful shape: one mission ecology rather than separate content bins.
-
-## Era Pressure
-
-Era should be a gameplay input, not only a lore label. A Corporate Exodus fight should not feel like a late-Sol drone engagement with worse numbers. It should feel close, infrastructural, and repair-fragile: dock control, convoy timing, sabotage, boarding, and the terror of damaging the thing everyone needs to keep breathing. An Age of Automation fight should feel patrolled, automated, and compliance-shaped. An Identity Abyss fight should feel cognitively saturated, full of adaptive munitions, target-classification disputes, and command systems whose provenance is part of the danger. An Existential Collapse fight should make repair, salvage, food, coolant, rescue, and route credibility as important as damage.
-
-Content generation can express this by changing what each era makes cheap or scarce: sensors, drones, cognition, heat capacity, repair access, legal enforcement, fuel, spare parts, autonomy, and trustworthy telemetry. The same hull or weapon family should therefore play differently depending on the historical pressure around it.
-
-## Terminus Slice
-
-[[End of the Line|Aetheria: Terminus]] focuses this layer into a rogue-lite route across hostile space. It does not need every corporate system online. It does need every run to feel like a compressed encounter with the wider setting: travel, risk, salvage, pursuit, factional texture, and the possibility that freedom is just another product tier.
+A session may use the bounded exchange defined in [[Playable Layers]]; its scenario owns the local projection, while named durable owners decide which returned consequences persist. The cockpit loop remains coherent when no strategic exchange is present.
