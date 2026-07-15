@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 19
+
+- The public game-design cluster fell from 18,699 to 4,445 words. The index now owns navigation and status, `Aetheria Client and Modes.md` owns the candidate shell and durable continuity boundaries, `Aetheria Starbridge.md` owns the playable session concept, and the key-art brief owns one production composition.
+- Starbridge is consistently a developed draft GDD: concept-stage, not shipped, and not a release roadmap. Its compact proof retains asymmetric roles, pilot refusal, support work, heat, salvage, recovery, construction, scenario provenance, visible authority, success tests, and unresolved shared decisions.
+- Arena, Conquest, persistent-world play, and the reset loop are historical hypotheses or design ancestry rather than current commitments. Monetization, generation pipelines, prompt revision history, exhaustive catalogs, and unversioned protocol claims were cut rather than moved into new owners.
+- Clueless/Loremaster pressure separated setting truth, game-design choice, and implementation evidence. Soul repaired status inflation, ownership-of-people language, optional Barracks leakage, two broken section anchors, and missing non-canon art metadata; links, frontmatter, table, callout, and asset checks passed.
+
 ### Wave 18
 
 - `README.md` now separates shared owner notes, finished story authority, and developmental material while retaining the repository map and shared-engine commands. A local claim becomes shared canon only when its owner note incorporates it.

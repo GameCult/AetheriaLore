@@ -1,68 +1,42 @@
 ---
 title: Game Design
-description: "Aetheria's design is two different games sharing one doomed universe: cockpit-scale action and spreadsheet-scale corporate predation feeding the same persistent galaxy."
+description: "Public map of Aetheria's current design owners, inherited ambitions, and playable constraints."
 ---
 
 # Game Design
 
 *"The setting is a machine. The playable problem is deciding which gears the player gets to touch first."*
 
-Aetheria's design begins from an old, unreasonable ambition and then tries to make it survivable: two different games sharing the same doomed universe. One layer is a tactical action RPG about ships, crews, missions, routes, and violence up close. The other is a corporate strategy game about production, infrastructure, population roles, research, and economic dominance. Both are meant to feed the same persistent galaxy, where field players collide with shortages and opportunities created by the people running the machinery.
+Aetheria's oldest design ambition joins cockpit-scale action to strategy-scale production, logistics, and institutional power. A pilot experiences a shortage as a dangerous route, failed repair, or contract they cannot afford to refuse. A corporation experiences the same shortage as procurement pressure, market leverage, or a reason to send somebody else into danger.
 
-That is the full beast. The first major scope cut was [[End of the Line|Aetheria: Terminus]], a rogue-lite ARPG slice designed to prove combat, traversal, ship customization, narrative pressure, and the setting's corporate logic before the project tried to swallow the whole sun and ask politely for seconds. When even that looked too large, [[Call of the Void]] became the last-ditch smaller target: curated cases, taxi work, station life, and one exhausted private investigator discovering that the rupture is not politely undoing itself. [[Aetheria Starbridge|Aetheria: Starbridge]] cuts sideways instead: one RTS operator and several pilots defending the same base through Verse-authoritative co-op. [[Aetheria Client and Modes]] is the cross-mode product shell around that work: Hangar, parties, Verse selection, Starbridge sessions, Arena downtime, and seasonal Conquest experiments.
+This branch contains current design owners, developed drafts, prototypes, and historical scope cuts. Those statuses matter. A detailed note can preserve useful mechanics without describing the current roadmap, and game design does not overwrite the setting notes that own shared history, technology, factions, or physical constraints.
 
-## Design Stack
+## Current Design Owners
 
-- [[Design Pillars]] - the compact doctrine for what the game is trying to make playable.
-- [[Aetheria Client and Modes]] - the desktop client, Hangar continuity layer, Starbridge/Arena/Conquest positioning, and mode cadence.
-- [[Playable Layers]] - how the ARPG, corporate strategy layer, and shared world are supposed to meet.
-- [[Action RPG Layer]] - cockpit-scale play: travel, combat, loadouts, risk, quests, and survival.
-- [[Corporate Strategy Layer]] - spreadsheet-scale play: corporations, labor, production, research, logistics, and market pressure.
-- [[Aetheria Starbridge]] - asymmetric co-op defense: RTS base command, pilot ships, thermal support, repair, station refits, boss technology recovery, and score-driven meta-progression.
-- [[Persistent Universe and Reset Loop]] - the long campaign structure, alien escalation, extinction, and temporal reset.
+- [[Design Pillars]] owns the durable playable values: material systems, consequential scale, ship identity, economy, failure, and accessible depth.
+- [[Playable Layers]] owns the relationship between embodied action, corporate strategy, and a possible shared persistent context.
+- [[Aetheria Client and Modes]] describes candidate cross-mode shell, player-continuity, and runtime boundaries. Its mode descriptions are historical hypotheses, not release commitments.
+- [[Aetheria Starbridge|Aetheria: Starbridge]] is a developed draft GDD for asymmetric cooperative defense: one commander operates the base while pilots fight, recover material, and perform field work in the same crisis.
 
-## Systems
+## Design Invariants
 
-- [[Economy and Production]] - commodities, blueprints, crafting quality, supply chains, and corporate leverage.
-- [[Colonies and Population]] - colony vessels, station populations, demographic attributes, production affinity, demand, and influence.
-- [[Galaxy and Navigation]] - generated stars, map layers, zone links, routes, sectors, and frontier topology.
-- [[Gravity and Locomotion]] - the Grid, gravitational terrain, thrusters, warp fields, traction, wormholes, and fast travel heat costs.
-- [[Heat, Stealth, and Detection]] - thermal performance, emissions, sensors, scanning, jamming, and identification.
-- [[Ship-shape and Up to Specs]] - ships as loadouts, homes, status objects, and thermal compromises with weapons attached.
-- [[Progression, Claims, and Consequence]] - licenses, death, escape pods, wreck claims, looting, scavenging, and station exposure.
-- [[Narrative and Missions]] - Ink-driven quests, location constraints, faction presence, and story inside generated space.
-- [[Nibu Attached Shuttle Story]] - a pre-Rupture hard-sci-fi playable story about a grey-market transport crew taking Nibu on as an attached shuttle and collapsing around the risk she brings.
-- [[A Different Sort of Space]] - the visual and physical feel of Aetheria's non-hard-SF void.
-- [[Visual and Sensory Direction]] - shaders, clouds, weapon effects, audio, and readable spectacle.
-- [[Volumetric Nebulae]] - atmospheric prototype clips showing the nebula renderer as moving terrain, not wallpaper.
-- [[Implementation Signals]] - what the active `Aetheria-Economy` work surface reveals about the design.
+- [[Action RPG Layer|Cockpit-scale play]] and [[Corporate Strategy Layer|strategy-scale play]] must create pressure the other can understand.
+- Ships remain material assemblies shaped by heat, maintenance, cargo, manufacturer doctrine, and access; see [[Ship-shape and Up to Specs]].
+- Production history matters. [[Economy and Production]] owns commodities, fabrication, quality, and supply relationships.
+- Travel and combat remain legible through [[Galaxy and Navigation]], [[Gravity and Locomotion]], and [[Heat, Stealth, and Detection]].
+- Generated structure gains meaning through authored context; [[Narrative and Missions]] owns that seam.
+- Implementation is evidence, not authority. [[Implementation Signals]] records inherited code and data-model pressure without making every surviving system a requirement.
 
-## Release Path
+## Historical Scope Cuts
 
-- [[End of the Line]]
-- [[Call of the Void]]
-- [[Aetheria Client and Modes]]
-- [[Aetheria Starbridge]]
-- [[../Lore/Welcome to Elysium|Welcome to Elysium]]
-- [[A Different Sort of Space]]
-- [[Ship-shape and Up to Specs]]
+[[End of the Line|Aetheria: Terminus]] was a reduced rogue-lite action-RPG proposal intended to prove combat, routes, ship builds, and corporate pressure without simulating the full persistent galaxy. [[Call of the Void]] cut further toward curated cases, station life, taxi work, and a private investigator confronting an older version of the Elysium revelation.
 
-## Planning Sources
+Both remain useful design history. Neither is identified here as the active release target. Older GDDs and planning documents likewise preserve mechanic intent rather than current marching orders.
 
-The active `Aetheria-Economy` repository points to three planning-time documents:
+[[Persistent Universe and Reset Loop]] preserves the historical long-campaign structure in which alien escalation, extinction, and temporal reset organize repeated play. It remains setting and design ancestry, not a current product commitment.
 
-- [Aetheria GDD](https://docs.google.com/document/d/1iULu1WsbuQoUM3c87XkGseb1P-8R5xlruoiyg03TsSE/edit?usp=sharing) - the action RPG design document.
-- [Profits Rising](https://docs.google.com/document/d/1U3uGFqQboAiFJ_Y-nUOGpyixbXUHRbc5DiCuB59GM4w/edit?usp=sharing) - the corporate strategy / RTS design document.
-- [Aetheria Shader Implementation](https://docs.google.com/document/d/1AFycvCtW6hA1jkKq1ZmYd3k6_uEWaaCqcZ4fYj4vU6A/edit?usp=sharing) - shader and rendering notes.
-- [Call of the Void / L'appel du Vide brainstorm](https://docs.google.com/document/d/1YWn5RWsciBxuaQ4l5TN2lAEz4okaQes-aiyx1E9NAxA/edit?usp=sharing) - the last-ditch post-Terminus scope cut built around Cat Marrigan, PI cases, taxi fares, and the point-of-no-return revelation. It predates the current Elysium continuity and still assumes a colonization-fleet frame.
+## Contribution Boundary
 
-These documents and the repository README are dated planning maps, not current marching orders. They are useful because they preserve mechanic intent: the time loop, tactical ship combat, heat and stealth, licenses, contracts, dungeons, drones, station management, production, population attributes, demand profiles, market arbitrage, research patents, independent traders, police protocol, AI corporations, and shader-driven gravitational terrain. They are also very much the sort of documents a person writes before reality, money, health, and the calendar arrive with tools.
+Use this branch to make playable consequences explicit. New mechanics should identify the player decision, state owner, inputs, outputs, failure mode, and setting constraint they consume. Keep speculative features labeled as candidates until adopted by the relevant design owner. A playable interpretation may compress lore for a scenario; it does not silently establish universal canon.
 
-The live hierarchy treats them as inherited design pressure, then filters them through the current canonical vault and the project direction now in front of us. The active game repo's shape is evidence, but not law: shared simulation classes, `ServerShared` data models, galaxy generation, equipment behaviors, cargo and trade UI, Ink narrative processing, map rendering, debug tools, and the server architecture show long-running ambitions that still need current judgment.
-
-## Setting Pressures
-
-- [[Introduction]]
-- [[Narrative Themes]]
-- [[Worldbuilding/Pre-Elysium/Timeline/index|Timeline]]
-- [[Worldbuilding/Politics/Restrictions on Warfare|Restrictions on Warfare]]
+For setting pressure, begin with [[Introduction]], [[Narrative Themes]], the [[Worldbuilding/Pre-Elysium/Timeline/index|Timeline]], and [[Worldbuilding/Politics/Restrictions on Warfare|Restrictions on Warfare]].
