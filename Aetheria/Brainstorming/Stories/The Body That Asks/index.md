@@ -22,7 +22,7 @@ The reader should repeatedly receive three pleasures: institutional procedure re
 
 ## Locked Premise
 
-- Five Meridian cadets have been covertly steered through training, Fist assignments, dependencies, and Finalist selection by Project Kinship.
+- Five senior Meridian cadets have been covertly steered since first-year observation through sophomore Finalist selection, three cadres of training, Fist assignments, dependencies, and recomposition pressure by Project Kinship.
 - Meridian provides real safety, medicine, education, and futures while treating selected attachment as strategic infrastructure.
 - The five hide partial Concordance while conspiring with AFTER, the embodied remainder of Calyx.
 - AFTER survives in learned strain, timing, calibration, and distributed control rather than one deletable core.

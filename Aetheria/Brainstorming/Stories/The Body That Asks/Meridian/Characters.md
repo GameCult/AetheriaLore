@@ -52,7 +52,7 @@ All five are technically competent. None exists solely as an emotional key, body
 ## Tem Rusk, 18
 
 - **Competence:** sensors, radiative skin, plural perception.
-- **Prior placement:** served fourteen months in the Rusk perception Seat of the Ninth Kinship household before its quiet recomposition. His closest tie there was **Mika Dene**, a propulsion cadet reassigned after refusing to collapse two casualty projections into the official one; Meridian later records Mika as a voluntary academic transfer.
+- **Prior placement:** everyone at Meridian knows Tem spent fourteen months with another Finalist Fist and transferred under ordinary formation balancing. His current household does not know that the former team was Kinship's Ninth household, that **Rusk** was a standardized Seat rather than a ceremonial nickname, or that the transfer completed a deliberate recomposition. His closest tie there was **Mika Dene**, a propulsion cadet reassigned after refusing to collapse two casualty projections into the official one; Meridian records Mika as a voluntary academic transfer.
 - **Starting adaptation:** maintains incompatible biographies because different authorities demanded different histories; uses selective illegibility as defense.
 - **Desire:** remain present without surrendering a single institutionally acceptable “real self,” and keep this Fist from being rewritten.
 - **Partial belief:** others may receive useful maps of him but never the dangerous whole.
