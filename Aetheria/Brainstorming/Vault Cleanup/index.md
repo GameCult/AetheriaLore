@@ -28,19 +28,23 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 | Ticket | Pressure | Required cut |
 | --- | --- | --- |
-| Q-01 | Cognitive/Aetheric mechanics are split among foundation, faction, drive, and esper notes. | Make [[Worldbuilding/Post-Elysium/Technology/Cognitive Interfacing|Cognitive Interfacing]] the shared mechanism owner; keep Daedal and Wavecrafter vocabularies as applications. |
-| Q-02 | Public cognition-dependent industries contradict claims that all cognitive interfacing evidence is suppressed. | Separate public operator dependence from concealed sapient causal agency. |
-| Q-04 | Wavecrafters and Daedal both appear to own drive coherence. | Assign field/material tuning, body-intent reconciliation, and drive control to distinct ports with diagnosable failures. |
-| Q-05 | Daedal's pre-Elysium lineage exists only inside its post-Elysium faction note. | Add the minimum antecedent needed to BCI/augmentation history; do not duplicate the faction note. |
-| Q-07 | Esper access, passive Figure stabilization, and trained Concord operation lack a shared threshold model. | Define ordinary embodiment, anomalous stabilization, and conscious field access without making trauma a credential. |
 | Q-08 | Timeline and Historical Events each have duplicate file/folder owners. | Merge into folder indexes, delete duplicate roots, and reduce combined copy by at least 140 words. |
 | Q-09 | Published Nibu lore mixes accepted character truth with planning language and origin hypotheses. | Separate canon from design; reduce 2,130 words to 900–1,200. |
 | Q-10 | Power indexes omit most child notes while presenting themselves as maps. | Make child membership exhaustive and parent classification concise; total index prose `<=300` words. |
 | Q-11 | Brain-Computer Interfaces and Mind Uploading repeat faction taxonomies, fake metrics, and generic futurist prose. | Rebuild their boundary around embodied access/maintenance versus copying/continuity/hosting, then verify together. |
 | Q-12 | Uplift describes species as job categories and assigns generic psychology. | Rebuild around imposed labor histories and divergent peoples. Existing unrelated edits currently occupy this file; preserve them until reconciled. |
 | Q-13 | Repeated filenames make eleven Pirate Metagame brainstorming links ambiguous. | Qualify each link with its phase directory; add no prose. |
+| Q-14 | Drive, tuner, interface, operator, crew, and receiver boundaries are stated but lack one adversarial handoff. | Trace a named difficult Aetheric-drive transition across all six owners. Include two adjacent-layer failures and the evidence distinguishing them without giving any participant the whole effect. |
+| Q-15 | Public qualification and suppressed sapient causation are separated in principle but lack a bounded case. | Define one operator qualification for a named configuration and local-condition envelope. Compare live, substituted, and replayed operation where safe; preserve alternative causes and record ownership without diagnosing esper status or consciousness. |
 
 ## Verification Ledger
+
+### Wave 31
+
+- `Esper.md` grew from 207 to 214 words to repair one authority leak: Parallax auditors classify inconsistent observations or continuity residue for a named receiving office and use; that office separately accepts the finding and applies only a restriction it already owns.
+- Q-01, Q-02, Q-04, Q-05, and Q-07 were retired after Modeling mapped the live chain. Cognitive interfaces translate signals; Daedal reconciles embodied intent; Wavecrafters tune field and material coupling; drives exchange commanded momentum; sapient minds supply exceptional agency; public qualification need not admit that causal layer.
+- Brain-computer interfacing now owns the Sol antecedent, and esper access distinguishes ordinary operation, anomalous performance, and conscious field action without making trauma, neurodivergence, meditation, or exposure a credential.
+- Imagination pressure became Q-14 and Q-15: one adversarial drive-transition seam trace, and one public qualification with live, substituted, and replayed evidence. Soul rejected a separate residual ticket as duplication and passed authority, links, continuity, and hostile brevity.
 
 ### Wave 30
 
