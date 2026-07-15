@@ -14,7 +14,7 @@ Operation Bright Ledger must remain a dirty corporate labor action behind a clea
 
 Omi and Lio grew up together in Meridian's ward residence and are the only pre-existing family unit inside the assigned household. Vey raised and materially protected both of them. Lio's gratitude and Omi's suspicion are different readings of the same loving custodial relationship; neither reading cancels the other or supplies Vey's acquittal.
 
-Rhea Mott, Enna Quill, and Aru Venn recur as school-side relationship anchors. Jun Vale, Pava Neris, and Marae Dho remain lower-resolution social-body actors whose decisions still alter what the protagonists can do. They disagree for material reasons; none exists only to certify that escape is correct.
+Rhea Mott and Enna Quill recur as school-side relationship anchors. Mika Dene's removal binds Lio's reporting failure to Tem's first-year wound. The formation instructor, clinic doctor, and Marae Dho remain lower-resolution social-body actors whose decisions still alter what the protagonists can do. They disagree for material reasons; none exists only to certify that escape is correct.
 
 No aggregate becomes innocent merely by opposing Meridian, and no worker becomes identical with the institution because their labor keeps it running.
 
