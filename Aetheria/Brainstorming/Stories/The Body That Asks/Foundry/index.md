@@ -27,6 +27,8 @@ This folder owns the formal [[../../Novella Foundry/index|Novella Foundry]] run.
 - [[Pass 05/Pass Report|Pass 5 — Strategy or Premise Auditions]]
 - [[Premise Auditions]]
 - [[Pass 05/Audition Review|Audition Review]]
+- [[Pass 06/Pass Report|Pass 6 — Failure and Escalation Ladder]]
+- [[Failure and Escalation Ladder]]
 
 ## Manuscript
 

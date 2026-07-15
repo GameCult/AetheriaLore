@@ -2,7 +2,7 @@
 
 ## Run
 
-- **Current pass:** Pass 5 — Strategy or Premise Auditions accepted.
+- **Current pass:** Pass 6 — Failure and Escalation Ladder accepted.
 - **Mode:** Full fourteen-pass Foundry run.
 - **Operator authority:** Autonomous continuation toward the complete story.
 - **Length policy:** No target or ceiling.
@@ -28,13 +28,15 @@
 - [[Premise Auditions]]
 - [[Pass 05/Audition Review|Audition Review]]
 - [[Pass 05/Pass Report|Pass 5 Report]]
+- [[Failure and Escalation Ladder]]
+- [[Pass 06/Pass Report|Pass 6 Report]]
 
 ## Open Work
 
-- Calyx Persona history must replay in lived order while presentation projects reverse coordinates.
-- Pass 6 must keep reader knowledge, Meridian knowledge, and Calyx lived knowledge separate.
+- Pass 7 must dry-replay Calyx Persona history in lived order while presentation projects reverse coordinates.
+- Pass 7 must demonstrate distinct appraisal and later behavior for every major Meridian revelation.
 - Candidate prose remains noncanonical test evidence.
 
 ## Next Inputs
 
-Pass 6 consumes the accepted strategy, causal model, and character packet to build separate reveal ladders for reader, Meridian, Calyx lived history, and institutional response.
+Pass 7 consumes the accepted ladder and baseline Personas to produce per-rung character deltas, relationship consequences, and a lived-order Calyx replay.
