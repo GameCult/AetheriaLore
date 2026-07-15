@@ -29,6 +29,9 @@ This folder owns the formal [[../../Novella Foundry/index|Novella Foundry]] run.
 - [[Pass 05/Audition Review|Audition Review]]
 - [[Pass 06/Pass Report|Pass 6 — Failure and Escalation Ladder]]
 - [[Failure and Escalation Ladder]]
+- [[Pass 07/Pass Report|Pass 7 — Character Causality Replay]]
+- [[Character Causality Replay]]
+- [[Pass 07/Support and Aggregate Replay|Support and Aggregate Replay]]
 
 ## Manuscript
 
