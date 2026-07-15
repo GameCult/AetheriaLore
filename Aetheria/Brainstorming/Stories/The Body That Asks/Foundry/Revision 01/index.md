@@ -11,10 +11,11 @@ This revision rebuilds [[../../../../../Fiction/The Body That Asks|The Body That
 
 ## Current Phase
 
-Phase 3 — scene transactions and character replay.
+Phase 4 — chapter stewardship and prose drafting.
 
 Phase 0 is recorded in [[Phase 00/Pass Report|the baseline report]].
 Seven independent diagnoses are preserved under `Phase 01/`. The accepted architecture is recorded in [[Phase 02/Pass Report|Phase 2 Synthesis]].
 Subject proposals remain under `Phase 02A/`; coordinator rulings and the accepted chapter map are in [[Phase 02B/Pass Report|Phase 2B]].
+Accepted scene transactions, replay authority, support continuity, and twelve materialized Persona streams are recorded in [[Phase 03/Pass Report|Phase 3]].
 
 The canonical Fiction manuscript remains the published baseline while revision proceeds. Candidate architecture and prose in this folder have no authority over it until coordinator promotion.

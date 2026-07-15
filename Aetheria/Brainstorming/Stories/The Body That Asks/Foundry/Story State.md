@@ -2,7 +2,7 @@
 
 ## Run
 
-- **Current pass:** Revision 01, Phase 3 — scene transactions and character replay.
+- **Current pass:** Revision 01, Phase 4 — chapter stewardship and prose drafting.
 - **Mode:** Post-draft Revision Council rebuild.
 - **Operator authority:** Autonomous continuation toward the complete story.
 - **Length policy:** No target or ceiling.
@@ -62,8 +62,8 @@
 - Phase 2 accepted the calendar, movement architecture, mystery half-life ledger, protected material, and midpoint/full-Concordance distinction.
 - Phase 2A produced seven concrete proposal packets.
 - Phase 2B adjudicated proposals and accepted a sixty-nine-chapter explicit-POV transaction blueprint.
-- Phase 3 must create accepted scene transactions and replay Meridian, Calyx, AFTER, and Vey state from valid parent revisions before prose drafting.
-- Meridian and AFTER deltas require a new revision branch and replay from valid entrance states. Calyx presentation coordinates require remapping even where lived deltas survive.
+- Phase 3 accepted sixty-nine scene transactions, the exact ten-pair POV braid, named ordinary-school continuity, a lived-order Calyx replay, and twelve gapless Persona streams on `revision-01-main`.
+- Phase 4 must draft from the accepted scene packets and projected Persona revisions. Changes to POV, chronology, ancestry, mystery timing, academic ownership, or protected material return to Phase 3 replay before descendants continue.
 - Candidate revision prose remains noncanonical; the promoted Fiction manuscript governs until final integration and promotion.
 
 ## Next Inputs
@@ -80,3 +80,7 @@
 - [[Revision 01/Phase 02/Mystery Half-Life Ledger|Mystery Half-Life Ledger]]
 - [[Revision 01/Phase 02B/Proposal Adjudication|Proposal Adjudication]]
 - [[Revision 01/Phase 02B/Chapter Blueprint|Chapter Blueprint]]
+- [[Revision 01/Phase 03/Pass Report|Phase 3 Report]]
+- [[Revision 01/Phase 03/Movement I Scene Transactions|Movement I Scene Transactions]]
+- [[Revision 01/Phase 03/Movement II Scene Transactions|Movement II Scene Transactions]]
+- [[Revision 01/Phase 03/Movement III Scene Transactions|Movement III Scene Transactions]]
