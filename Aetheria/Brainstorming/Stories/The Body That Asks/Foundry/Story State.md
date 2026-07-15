@@ -2,11 +2,11 @@
 
 ## Run
 
-- **Current pass:** Pass 9 — Scene Engineering accepted.
+- **Current pass:** Pass 10 — Movement I accepted.
 - **Mode:** Full fourteen-pass Foundry run.
 - **Operator authority:** Autonomous continuation toward the complete story.
 - **Length policy:** No target or ceiling.
-- **Canonical manuscript:** Not created.
+- **Canonical manuscript:** Accepted through Movement I inside the Foundry.
 - **Final path:** `Aetheria/Fiction/The Body That Asks.md`.
 
 ## Accepted Outputs
@@ -39,13 +39,16 @@
 - [[Pass 08/Pass Report|Pass 8 Report]]
 - [[Scene Engineering]]
 - [[Pass 09/Pass Report|Pass 9 Report]]
+- [[Pass 10/Movement I Draft|Movement I manuscript]]
+- [[Pass 10/Movement I Review|Movement I Review]]
+- [[Pass 10/Pass Report|Pass 10 Report]]
 
 ## Open Work
 
-- Pass 10 drafts Movement I in the coordinator's unified voice and treats every drafted action as an event proposal before advancing character state.
-- Movement I acceptance requires skeptical reviews, a manuscript-only first read, and repaired deltas before Movement II advances.
+- Pass 11 drafts Movement II from the accepted Meridian M6 exit state and AFTER's continuous post-contact state.
+- Movement II must preserve school-life pleasure while each discovery narrows exit and damages the trust escape requires.
 - Candidate prose remains noncanonical test evidence.
 
 ## Next Inputs
 
-Pass 10 consumes accepted scene engineering, voice evidence, and entrance revisions to draft Movement I as an emotionally complete manuscript unit.
+Pass 11 consumes the accepted Movement I exit state, chapters 13–23 of the architecture, and their scene cards to draft Movement II.
