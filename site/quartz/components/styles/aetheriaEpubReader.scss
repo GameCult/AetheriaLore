@@ -1,4 +1,4 @@
-body[data-slug="Fiction/The-Burden-of-Proof"] {
+body:has(.aetheria-epub-reader) {
   .left.sidebar,
   .right.sidebar,
   article.popover-hint,

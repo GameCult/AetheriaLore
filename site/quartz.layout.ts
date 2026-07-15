@@ -1,7 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import AetheriaAuthorMeta from "./quartz/components/AetheriaAuthorMeta"
-import AetheriaEpubReader from "./quartz/components/AetheriaEpubReader"
+import AetheriaEpubReader, { isAetheriaEpubReaderPage } from "./quartz/components/AetheriaEpubReader"
 import AetheriaMasthead from "./quartz/components/AetheriaMasthead"
 import AetheriaOverviewSidebar from "./quartz/components/AetheriaOverviewSidebar"
 import AetheriaThemeLock from "./quartz/components/AetheriaThemeLock"
@@ -25,32 +25,32 @@ export const defaultContentPageLayout: PageLayout = {
         showCurrentPage: false,
         showRoot: false,
       }),
-      condition: (page) => page.fileData.slug !== "index" && page.fileData.slug !== "Fiction/The-Burden-of-Proof",
+      condition: (page) => page.fileData.slug !== "index" && !isAetheriaEpubReaderPage(page.fileData.slug),
     }),
     Component.ConditionalRender({
       component: Component.ArticleTitle(),
       condition: (page) =>
         !page.fileData.slug?.endsWith("/index") &&
         page.fileData.slug !== "index" &&
-        page.fileData.slug !== "Fiction/The-Burden-of-Proof",
+        !isAetheriaEpubReaderPage(page.fileData.slug),
     }),
     Component.ConditionalRender({
       component: AetheriaAuthorMeta(),
       condition: (page) =>
         !page.fileData.slug?.endsWith("/index") &&
         page.fileData.slug !== "index" &&
-        page.fileData.slug !== "Fiction/The-Burden-of-Proof",
+        !isAetheriaEpubReaderPage(page.fileData.slug),
     }),
     Component.ConditionalRender({
       component: Component.ContentMeta(),
       condition: (page) =>
         !page.fileData.slug?.endsWith("/index") &&
         page.fileData.slug !== "index" &&
-        page.fileData.slug !== "Fiction/The-Burden-of-Proof",
+        !isAetheriaEpubReaderPage(page.fileData.slug),
     }),
     Component.ConditionalRender({
       component: AetheriaEpubReader(),
-      condition: (page) => page.fileData.slug === "Fiction/The-Burden-of-Proof",
+      condition: (page) => isAetheriaEpubReaderPage(page.fileData.slug),
     }),
   ],
   afterBody: [
@@ -70,17 +70,17 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.ConditionalRender({
       component: AetheriaOverviewSidebar(),
-      condition: (page) => page.fileData.slug !== "Fiction/The-Burden-of-Proof",
+      condition: (page) => !isAetheriaEpubReaderPage(page.fileData.slug),
     }),
   ],
   right: [
     Component.ConditionalRender({
       component: Component.DesktopOnly(Component.TableOfContents()),
-      condition: (page) => page.fileData.slug !== "Fiction/The-Burden-of-Proof",
+      condition: (page) => !isAetheriaEpubReaderPage(page.fileData.slug),
     }),
     Component.ConditionalRender({
       component: Component.Backlinks(),
-      condition: (page) => page.fileData.slug !== "Fiction/The-Burden-of-Proof",
+      condition: (page) => !isAetheriaEpubReaderPage(page.fileData.slug),
     }),
   ],
 }

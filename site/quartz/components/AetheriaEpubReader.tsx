@@ -1,21 +1,47 @@
-import { QuartzComponent, QuartzComponentConstructor } from "./types"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 // @ts-ignore
 import script from "./scripts/aetheriaEpubReader.inline"
 import style from "./styles/aetheriaEpubReader.scss"
 
+type FictionReaderConfig = {
+  title: string
+  epubHref: string
+  storageKey: string
+}
+
+const fictionReaders: Record<string, FictionReaderConfig> = {
+  "Fiction/The-Burden-of-Proof": {
+    title: "The Burden of Proof",
+    epubHref: "/static/fiction/the-burden-of-proof.epub",
+    storageKey: "aetheria_tbp_reader",
+  },
+  "Fiction/The-Body-That-Asks": {
+    title: "The Body That Asks",
+    epubHref: "/static/fiction/the-body-that-asks.epub",
+    storageKey: "aetheria_tbta_reader",
+  },
+}
+
+export const isAetheriaEpubReaderPage = (slug: string | undefined) => Boolean(slug && fictionReaders[slug])
+
 export default (() => {
-  const AetheriaEpubReader: QuartzComponent = () => (
-    <section
-      class="aetheria-epub-reader"
-      data-epub-src="/static/fiction/the-burden-of-proof.epub?v=reader-native-pages-1"
-      aria-label="The Burden of Proof ebook reader"
-    >
+  const AetheriaEpubReader: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+    const config = fileData.slug ? fictionReaders[fileData.slug] : undefined
+    if (!config) return null
+
+    return (
+      <section
+        class="aetheria-epub-reader"
+        data-epub-src={`${config.epubHref}?v=reader-multibook-1`}
+        data-reader-storage-key={config.storageKey}
+        aria-label={`${config.title} ebook reader`}
+      >
       <div class="aetheria-reader-heading">
         <div>
           <p class="aetheria-reader-kicker">Ebook edition</p>
-          <h2>Read The Burden of Proof</h2>
+          <h2>Read {config.title}</h2>
         </div>
-        <a class="aetheria-reader-download" href="/static/fiction/the-burden-of-proof.epub" download>
+        <a class="aetheria-reader-download" href={config.epubHref} download>
           Download EPUB
         </a>
       </div>
@@ -76,8 +102,9 @@ export default (() => {
           &rsaquo;
         </button>
       </div>
-    </section>
-  )
+      </section>
+    )
+  }
 
   AetheriaEpubReader.css = style
   AetheriaEpubReader.afterDOMLoaded = script

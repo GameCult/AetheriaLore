@@ -16,7 +16,6 @@ declare global {
   }
 }
 
-const cookieName = "aetheria_tbp_reader"
 const settingsVersion = 5
 const defaults: ReaderSettings = {
   version: settingsVersion,
@@ -28,7 +27,7 @@ const defaults: ReaderSettings = {
   spread: "auto",
 }
 
-function readSettings(): ReaderSettings {
+function readSettings(cookieName: string): ReaderSettings {
   try {
     const raw = document.cookie.split("; ").find((entry) => entry.startsWith(`${cookieName}=`))?.split("=").slice(1).join("=")
     const saved = raw ? JSON.parse(decodeURIComponent(raw)) : {}
@@ -48,7 +47,7 @@ function readSettings(): ReaderSettings {
   }
 }
 
-function saveSettings(settings: ReaderSettings) {
+function saveSettings(cookieName: string, settings: ReaderSettings) {
   document.cookie = `${cookieName}=${encodeURIComponent(JSON.stringify(settings))}; Max-Age=31536000; Path=/; SameSite=Lax`
 }
 
@@ -73,9 +72,10 @@ async function initReader(root: HTMLElement) {
   const status = root.querySelector<HTMLElement>("[data-reader-status]")!
   const progress = root.querySelector<HTMLElement>("[data-reader-progress]")!
   const viewport = root.querySelector<HTMLElement>("[data-reader-viewport]")!
-  const settings = readSettings()
-
   try {
+    const cookieName = root.dataset.readerStorageKey
+    if (!cookieName) throw new Error("The reader has no persistence key")
+    const settings = readSettings(cookieName)
     await loadScript("/static/vendor/epubjs/jszip.min.js", () => Boolean(window.JSZip))
     await loadScript("/static/vendor/epubjs/epub.min.js", () => Boolean(window.ePub))
     if (!window.ePub) throw new Error("The EPUB renderer did not initialise")
@@ -165,7 +165,7 @@ async function initReader(root: HTMLElement) {
     rendition.on("relocated", (location: any) => {
       clampRenditionDom()
       settings.cfi = location.start.cfi
-      saveSettings(settings)
+      saveSettings(cookieName, settings)
       const percentage = book.locations?.length() ? book.locations.percentageFromCfi(settings.cfi) : null
       progress.textContent = percentage == null ? "Position saved" : `${Math.round(percentage * 100)}% - position saved`
       if (location.start.href) {
@@ -210,7 +210,7 @@ async function initReader(root: HTMLElement) {
           rendition.spread(settings.spread)
           resizeRendition()
         } else applyTypography()
-        saveSettings(settings)
+        saveSettings(cookieName, settings)
       })
     })
 
