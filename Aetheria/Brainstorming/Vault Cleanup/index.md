@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 29
+
+- `Rossum & Douglas.md` grew from 241 to 735 words because a generic safety reputation was replaced with its missing product and power mechanism: bounded certification findings for named configurations, evidence sets, use envelopes, and periods of validity.
+- Rossum's findings can travel between manufacturers, operators, insurers, ports, buyers, and procurement offices without transferring authority. Receivers decide recognition and access; configuration changes, maintenance gaps, new evidence, and degraded instrumentation can trigger review or expiry.
+- The faction retains two supported lines: reliable AGI shells and failsafes, and thermal circulation, storage, switching, and envelope certification. Cryonix retains premium materials and emitter surfaces; Rossum does not decide consciousness, personhood, consent, legality, custody, or fairness.
+- Implant standards, guarantees, invented Ganymede and Dominion contracts, ubiquitous market share, and universal insurer authority were cut. Soul passed chronology, faction boundaries, challenge paths, alternatives, links, and hostile brevity after bounding prevention claims and reducing the note from an 839-word draft to 735 words.
+
 ### Wave 28
 
 - `Thermal Management.md` grew from 777 to 799 words because supplier history and metaphor were replaced with the missing substrate: source, collection, transport, finite buffering or active lift, rejection, three limiting margins, propagated failure, observability, and maintenance.
