@@ -1,29 +1,33 @@
+---
+title: A Different Sort of Space
+description: "Environmental art-direction lineage for era-sensitive wonder and readable danger, not setting physics or current implementation."
+---
+
 # A Different Sort of Space
 
+> **Status:** Environmental art-direction lineage. These principles guide playable atmosphere; they do not establish setting physics or require a particular renderer.
+
 <figure class="aetheria-media-card">
-  <img src="../media/aetheria/aetheria-space.png" alt="A stylized Aetheria space scene." />
+  <img src="../media/aetheria/aetheria-space.png" alt="A historical Aetheria prototype showing a stylized space scene." />
+  <p>Historical prototype art. Its atmosphere is design evidence, not current canon or a required implementation.</p>
 </figure>
 
 <figure class="aetheria-media-card is-wide">
-  <img src="../media/aetheria/nebula-grid-horizon.jpg" alt="Aetheria prototype nebula horizon with stars and a ship visible over the Grid." />
-  <p>A prototype-era Grid horizon. The interface is dated, but the visual thesis survived: space as a navigable pressure field, not a black backdrop politely holding still.</p>
+  <img src="../media/aetheria/nebula-grid-horizon.jpg" alt="A historical Aetheria prototype showing a nebular Grid horizon." />
+  <p>Historical Grid prototype. The interface and depicted environment are non-canon; the surviving idea is space as readable terrain rather than empty backdrop.</p>
 </figure>
 
-Aetheria does not chase hard realism. It treats space as a place of awe, menace, and expressive scale, where gravity can become architecture and the void can feel almost inviting.
+Aetheria uses space to establish scale, risk, and political geography. It can be road network, weather, hiding place, market boundary, or obstacle. Spectacle earns its place when it changes what the player notices or chooses.
 
-That choice is deliberate. The setting wants wonder first: a galaxy dreamlike enough to be memorable and physical enough to feel dangerous. The point is not to abandon consequence, but to make the environment feel strange in ways the politics and technologies can still meaningfully inhabit.
+The tone is era-sensitive. Pre-Elysium space may be austere and hard: darkness, glare, orbital geometry, drive plumes, radiators, debris, and infrastructure carrying most of the image. Instrument overlays can make invisible forces legible without implying that the overlay is a substance in the world.
 
-## Design Use
+Post-Elysium space may become luminous, dreamlike, and physically expressive where current canon supports it. Nebular surfaces, Aetheric fields, impossible weather, and gravity architecture can make the void feel almost inviting. Their strangeness still needs stable affordances and material consequences.
 
-Space is not only a backdrop. It is the board, the weather, the road network, the hiding place, the market boundary, and the source of most bad ideas. Aetheria can stylize space heavily as long as the stylization produces readable play: dangerous zones, navigation choices, sensor language, thermal exposure, faction territory, route value, and environmental identity.
+Across both regimes, four principles hold:
 
-The active game implementation already points toward this with galaxy generation, map layers, zone rendering, gravity objects, suns, gas giants, volumetric clouds, wormholes, and custom visual effects. The art direction should keep leaning into the surviving principle: beautiful enough to remember, structured enough to use, hostile enough to respect.
+- **Awe:** scale and beauty should make travel worth undertaking.
+- **Readable danger:** spectacle must reveal or frame local risk rather than conceal it.
+- **Consistent affordance:** repeated shapes, motion, and effects should teach reliable expectations.
+- **Local identity:** routes and regions should differ through infrastructure, environment, use, and history rather than palette alone.
 
-The older GDD's environment list is still useful as design vocabulary: stars, protostars, water masses, black holes, dark energy, dark stars, planets, battle aftermaths, asteroid fields, electrical storms, plasma, wormholes, hostile swarms, clouds, and stardust. The current canon can rename and refine them, but the gameplay instinct is sound: the environment should do things.
-
-## Playable Principles
-
-- A route should look and feel different when it is safe, surveilled, abandoned, contested, or strange.
-- Environmental spectacle should teach the player something about local risk.
-- Stylized physics should remain consistent enough for planning and tactics.
-- The void should invite exploration without pretending exploration is harmless.
+The void should invite travel while making distance, exposure, and local danger felt. Wonder earns its scale by preserving consequence.

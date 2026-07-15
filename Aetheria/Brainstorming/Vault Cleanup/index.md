@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 22
+
+- Five space/readability notes now form one information chain: navigation forecasts a route, local gravity visualization exposes motion, heat and sensors produce evidence, and visual/audio presentation preserves confidence through player commitment.
+- The cluster grew from 2,669 to 2,865 words because missing contracts replaced code archaeology: route-source age, shared-contact provenance, local-motion proof, why-detected feedback, warning arbitration, and redundant accessibility channels now have owners.
+- The Grid is explicitly an instrument rather than physical canon; Aetheric drives exchange momentum rather than generate private gravity fields. Procedural maps and prototype nebulae remain historical evidence, not canonical topology or material terrain.
+- Pre-Elysium can remain austere and instrument-driven while post-Elysium expression follows canon-bounded phenomena. Soul verified asset provenance, frontmatter, local links, contact disagreement, route handoffs, projection uncertainty, warning priority, and the prohibition against effects revealing unobserved truth.
+
 ### Wave 21
 
 - `Playable Layers.md`, `Action RPG Layer.md`, `Corporate Strategy Layer.md`, and `Persistent Universe and Reset Loop.md` fell from 3,758 to 2,230 words. Cockpit and corporation play now define independent minimum proofs; neither requires a persistent world or the other layer to become playable.

@@ -1,86 +1,81 @@
+---
+title: Heat, Stealth, and Detection
+description: "Design-lineage mechanic specification for heat debt, uncertain contacts, staged identification, and commitment under observation."
+---
+
 # Heat, Stealth, and Detection
 
-Heat is one of Aetheria's central mechanics because it refuses to stay in one design box. It is endurance, performance, damage, stealth, engineering, economy, and tactical timing. A civilized mechanic. Rude in all the right ways.
+> **Status: design-lineage mechanic specification.** This note defines a player-facing heat and information loop. [[Worldbuilding/Pre-Elysium/Technology/Thermal Management|Thermal Management]] owns the physical substrate, [[Worldbuilding/Politics/Thermal Signature Warfare|Thermal Signature Warfare]] owns its history and strategic use, and [[Worldbuilding/Politics/Combat Doctrine|Combat Doctrine]] owns force employment. No mechanic below establishes current implementation.
 
-## Heat As Staying Power
+Heat binds endurance, performance, stealth, damage, and timing. The player should decide what to reveal, what capacity to spend, and how long a temporary advantage can remain unpaid.
 
-Equipment use generates heat. Heat must be moved, stored, dumped, radiated, or endured. The older ARPG GDD describes heat as a combined pressure similar to health and mana, except with stronger implications for stealth and component failure.
+## Player Loop
 
-Every item can have a heat/performance curve. Temperature affects efficiency and output. At poor performance thresholds, items start taking durability damage. At the zero point, they fail.
+One information-and-heat exchange follows seven steps:
 
-## Thermal Layout
+1. **Receive uncertain evidence:** a passive sensor trace, prior report, emission, maneuver, occlusion, or absence suggests that something may be present.
+2. **Interpret it:** inspect confidence, age, source, geometry, and competing explanations. A fresh narrow trace and an old fused estimate do not deserve equal trust.
+3. **Choose how to learn:** remain passive, change position, share an observation with its observer, time, and confidence intact, deploy a bounded probe, or scan actively.
+4. **Manage exposure:** sensing, thrust, computation, weapons, cooling, and damage control alter heat and signature.
+5. **Commit or avoid:** approach, fire, intercept, flee, conceal, negotiate, or preserve distance while uncertainty remains.
+6. **Pay the consequence:** stored heat narrows margins; emitted heat improves an observer's evidence; reduced activity surrenders capability or time.
+7. **Reassess:** contacts change state as evidence ages, geometry shifts, signatures disappear, or the target reveals itself.
 
-Ships have hull-specific heat transfer graphs based on the schematic proximity of mounting points. Refrigeration configurations can maintain target temperatures, ignore points, prioritize parts, or designate heat dumps.
+The player should understand why a contact became credible and why their own ship became legible.
 
-That gives shipbuilding a real interior logic. A component is not just installed. It is placed into a thermal neighborhood with consequences.
+## Thermal State And Action
 
-## Thermal And Power Modes
+Thermal state needs only enough structure to make decisions causal:
 
-Buying or unlocking a component does not mean the ship is configured well.
-The same hull and equipment set can support many cooling circuits, power
-priorities, refrigeration targets, heat dumps, radiator behaviors, weapon group
-bindings, and emergency modes. Some configurations are ingenious. Most are
-terrible in ways that only become obvious once the pilot starts firing more
-guns than the ship can cool.
+- current load and remaining margin;
+- where important heat is held or rejected;
+- which actions are generating it;
+- which capabilities degrade or fail as margins close;
+- what emission a chosen cooling action creates.
 
-Configuration can be copied. Players will share and import complete thermal and
-power setups for popular builds. That is useful, but it is not the same as
-understanding. A copied mode stack still demands operating literacy:
+Thrusting, active scanning, computation, firing, repair, and damaged equipment may increase load. Coasting, reducing output, storing heat, changing aspect, using clutter, or rejecting heat may restore margin or alter observation. Exact transfer models belong to implementation.
 
-- when to use a high-output firing mode;
-- when to coast, vent, or rotate heat into a dump;
-- when to protect a reactor, cockpit, shield, or radiator loop;
-- when to accept lower damage to preserve the ship;
-- when to switch from pursuit to recovery;
-- when to ask for coolant or stop consuming squad support;
-- when an emergency mode is saving the ship versus merely delaying the bill.
+Thermal failure must be readable before it is terminal. Rising load can reduce output, force shutdowns, damage systems, expose radiators, or prevent an answer to a new threat. The player should know which decision created the debt and which action could contain it.
 
-Heat rhythm is therefore the core skill check for high-output builds. The
-easiest and dumbest way to die should be thermal suicide: firing more weapons,
-boosting harder, or overdriving more systems than the configured cooling
-circuits can sustain. That failure is not a cheap gotcha. It is the machine
-truthfully reporting that the pilot copied a shape without learning its
-breathing pattern.
+## Stealth As Heat Debt
 
-## Stealth
+Stealth does not erase activity. It delays, limits, redirects, masks, or times what an observer can infer. Withholding emission creates **heat debt**: the ship borrows a quiet interval from future operating margin. Remaining quiet may require reduced thrust, sensing, computation, comfort, repair, or weapons readiness. Rejecting the stored heat restores capacity while making the ship easier to detect or track.
 
-A ship can hide by controlling emissions. Visibility comes from reflected light, active sensor illumination, radiator output, hull temperature, thrust, and firing signatures. Radiator placement can bias emissions directionally.
+The rhythm is simple: hide to improve position, decide whether evidence justifies commitment, then choose when exposure is survivable.
 
-Stealth is therefore not invisibility. It is debt management. The ship can delay, redirect, mask, or time its emissions, but it cannot make consequence disappear because physics is one of the few institutions in Aetheria that still files paperwork correctly.
+## Contact States
 
-## Detection And Identification
+Contacts progress through evidence, not fixed revelation timers:
 
-Detection reveals position. Identification takes longer and depends on the ratio between visibility and sensitivity, plus scanner capability. The planning docs distinguish sensors, ship scanners, planet scanners, jammers, radiance, radiance masking, sensitivity, item rarity, and lore/tech thresholds.
+1. **Detected:** enough evidence suggests a source at an estimated position.
+2. **Classified:** evidence supports a broad operational class or several plausible classes.
+3. **Identified:** the observer has enough confidence to associate the contact with a specific platform, actor, condition, or claim.
+4. **Lost:** evidence has aged or diverged enough that the contact can no longer support the same decisions.
 
-This suggests a layered information game:
+Later states are not permanent. A maneuver can break geometry, a quiet target can outlive the track, and new evidence can expose a confident classification as bait. The interface should show confidence and age without pretending uncertainty is precision.
 
-- see that something is there
-- learn what class of thing it is
-- identify equipment and cargo
-- decide whether the target is worth the heat, time, law, and risk
+A fused track is a derived estimate, not a replacement for its sources. It retains the contributing observers, observation times, confidence, and disagreement so later evidence can revise the inference without rewriting what anyone actually saw.
 
-Signature shaping should enter as a later tech threshold, not a baseline rule. Early stealth reduces, delays, redirects, or times emissions. After the Cold Wake metamaterial innovations, advanced ships and drones can shape emissions so a trace looks like another plausible class within its thermal envelope. A quiet ship might look like a courier, service craft, legal dump, spent sink, or wounded hull if its heat, thrust history, aspect, radiator geometry, and telemetry can support the lie. A heat ferry or other drone can spend carried heat the same way, turning stored thermal debt into false scene detail.
+Every contact change needs an explanation such as emission, thrust, radiator exposure, shared observation, changed geometry, occlusion, or stale evidence. “Detected” without a cause teaches superstition.
 
-That makes identification partly a hidden-object puzzle. The player is not only asking whether something is present. They are asking which apparent object in the scene is being performed for their sensors, and whether their own cognition stack is being baited into wasting the decision window. Later electronic warfare can grow from this substrate: shaped emissions that are tuned to overload or mislead specific battle computers, sensor processors, smart missiles, or neuromorphic firmware packages.
+This mechanic owns contact confidence and age as state. [[Visual and Sensory Direction]] owns how that state is displayed without granting the player knowledge their instruments do not possess.
 
-## Thermal Capture
+## Optional Thermal Capture
 
-Thermal capture is the offensive use of heat management against a prize. The attacker disables cooling, pushes hostile heat into selected systems, or forces the target to hold more heat debt than the crew can tolerate. The goal is not simple destruction. The goal is to make the crew eject while the hull, cargo, and valuable equipment remain recoverable.
+One optional application is capture through thermal pressure. An attacker may constrain cooling until a crew must reduce capability, surrender, or abandon a hull. It uses the same heat, evidence, commitment, and post-disable choices as other encounters.
 
-This works only when the target has separated vulnerabilities. Crew comfort, cockpit control systems, cargo bays, reactors, batteries, data vaults, and radiators should not all share the same tolerance envelope. A pirate thermal build is strong against ships whose crew loops can be pressured without ruining the cargo. It is weak against ships carrying volatile, biological, precision, or compute cargo that fails before the crew does.
+## Smallest Coherent Proof
 
-Thermal capture creates counterplay:
+A minimum proof needs two ships, uncertain initial contact, passive observation, active scanning, maneuver, one heat-producing commitment, one cooling or concealment choice, and the possibility of losing a track. It succeeds when a player can answer:
 
-- attackers scan for cargo tolerance, loop topology, radiator exposure, ejection systems, and salvage value;
-- defenders entangle cargo and crew cooling to make coercion risky;
-- merchants spoof fragile manifests, cold-chain paperwork, and thermal histories;
-- pirates use remora drones that heat during the coercion phase and cool during the preservation phase;
-- insurers and stations read temperature logs to decide whether recovered goods are legitimate, spoiled, laundered, or evidence of atrocity.
+- What evidence did I have, and how old was it?
+- Which action revealed me or improved my contact?
+- What capability did quiet operation cost?
+- Why did the contact change state?
+- Which thermal decision caused failure or preserved escape?
 
-Thermal capture should not make pirates one-note. A Remora drone is better understood as a non-destructive subsystem-attack chassis that often carries heat-transfer tools because heat is profitable to manipulate. The same attachment logic can support reactor safing interference, life-support pressure, internal datanet intrusion, sensor degradation, cargo-lock spoofing, tracker placement, or crew-environment dosing. The playable question is which subsystem the pirate can reach, what they want preserved, and how quickly the defender can identify and remove the attachment before coercion becomes surrender, boarding, or ejection.
+If those answers require reading a debug log, the mechanic has produced numbers rather than understanding.
 
-The playable distinction is intent plus state. A radiator kill against an active combatant is war. Continuing to trap heat after surrender, ejection, rescue code, or clear helplessness is radiator murder. The simulation should preserve enough telemetry for that line to matter: target status, pod state, heat-transfer direction, and post-disable behavior.
+## Era Boundary
 
-## Design Use
-
-Heat and detection should bind combat, piracy, scouting, travel, and trade. Firing a weapon, thrusting hard, scanning actively, jumping through a wormhole, or overdriving a reactor should all create signatures other actors can exploit.
+Pre-Elysium and post-Elysium encounters may expose different sensors, propulsion, emissions, and countermeasures. Those differences come from the linked canon owners. The player loop remains bounded: evidence creates choices, action creates exposure, and every quiet interval eventually asks what the ship stopped doing to buy it.

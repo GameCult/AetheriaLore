@@ -1,38 +1,50 @@
+---
+title: Galaxy and Navigation
+description: "Design-lineage specification for route knowledge, travel commitment, and regional pressure without prescribing canonical topology."
+---
+
 # Galaxy and Navigation
 
+> **Status: design-lineage specification.** A galaxy may be authored, generated, or mixed. This note does not require procedural generation, establish canonical topology, or describe a current release.
+
 <figure class="aetheria-media-card is-wide">
-  <img src="../media/aetheria/galaxy-map.jpg" alt="Aetheria in-game galaxy map showing faction territories, routes, and named systems." />
-  <p>An earlier in-game galaxy map render. The names and factions are dated, but the design signal is still useful: routes, territory, identity, and risk all visible at once.</p>
+  <img src="../media/aetheria/galaxy-map.jpg" alt="Historical Aetheria game prototype map showing named systems, faction territories, and route links." />
+  <p>Historical prototype image. Its names, factions, routes, and topology are not current canon; it preserves the design question of how territory and risk become visible together.</p>
 </figure>
 
-Aetheria's galaxy should feel generated, but not arbitrary. The map is a field of pressure: routes, chokepoints, faction homes, resources, security gradients, station placement, alien reach, and the bad decisions people make because the safer path costs too much.
+## Map Pressure
 
-## Generated Structure
+A useful map is a field of commitments rather than a catalogue of destinations. Nodes may represent systems, stations, waypoints, gates, or other scenario-scale places. Links represent routes whose time, access, infrastructure, exposure, and opportunity costs differ.
 
-The active game repo already includes galaxy generation, map layer data, density maps, star placement, links between stars, zone generation, wormholes, faction home zones, distance maps, and map UI. The README describes star placement along a space-filling Hilbert curve and route links created through Delaunay tessellation before being filtered for sparsity.
+The map may communicate:
 
-That machinery points toward a galaxy where topology matters. If every destination is equally reachable, there is no logistics game. Routes need friction, concentration, exposure, and local character.
+- travel time and resource demand;
+- legal access, tolls, inspections, and required credentials;
+- supply, repair, rescue, and refit availability;
+- security presence, conflict, surveillance, and known hazards;
+- contracts, cargo demand, faction interest, and expiring opportunities.
 
-## Map Layers
+Every displayed claim needs provenance. Route knowledge falls into four useful states:
 
-Map layers can define more than star density. They can describe resources, life, security, zone radius, faction interest, anomaly distribution, alien pressure, or economic intensity. This lets the galaxy become a stack of overlapping gradients rather than a bag of points.
+- **known:** directly observed or confirmed by a trusted current source;
+- **forecast:** derived from models, schedules, or expected conditions;
+- **rumor:** attributed intelligence that may be incomplete or manipulated;
+- **stale:** once credible, but old enough that reliance carries explicit risk.
 
-## Routes And Chokepoints
+The interface should expose source, age, and confidence without pretending confidence is truth. A patrol bulletin, insurer warning, crew report, market quote, faction map, and private sensor pass may disagree for material reasons.
 
-Route structure is where strategy and action can meet. Corporate players care because routes move goods, labor, patrols, and influence. ARPG players care because routes decide what dangers they must cross and which opportunities are worth the detour.
+## Navigation Loop
 
-Good routes create arguments:
+The player identifies a destination or obligation, compares plausible routes, inspects what is known and missing, then commits fuel, time, cargo exposure, credentials, or other capacity. New evidence may justify rerouting, pressing on, hiding, seeking confirmation, abandoning cargo, or accepting a worse arrival window.
 
-- faster but hostile
-- safer but expensive
-- legal but surveilled
-- obscure but poorly supplied
-- profitable but likely to become a grave with nicer margins
+Arrival state preserves the decision. The ship may arrive late, hot, damaged, visible, low on reserves, politically exposed, or without the margin needed for the next job. A route is therefore part of the encounter, not a line erased when the destination loads.
 
-## Local Space
+The local scenario owns what actually occurs along a route. A forecast can shape probability or authored possibility without becoming an advance promise. Generated events, if used, obey the same ownership: they become local facts when the scenario commits them, not because a map seed silently rewrote shared setting history.
 
-Zones should carry local identity through bodies, orbits, stations, resources, faction presence, security level, narrative hooks, and environmental hazards. A generated sector does not need a novel's worth of bespoke prose. It needs enough material logic that a player can understand why this place produces this kind of trouble.
+## Smallest Proof
 
-## Navigation As Commitment
+A coherent navigation proof needs three to five nodes and at least two routes to one meaningful destination. One route should be faster but exposed; another slower or costlier but supported. The player receives information of mixed provenance, chooses a route, encounters one update that permits rerouting, and arrives with consequences traceable to that choice.
 
-Travel should not be frictionless menu teleportation. Even when abstracted, navigation should ask the player what they are risking: time, fuel, visibility, cargo exposure, heat buildup, enemy contact, missed opportunity, reputation, or the patience of whoever sent the contract.
+The proof succeeds when the player can explain what they believed, why they committed, what changed, and how the arrival state followed. It does not require a procedural galaxy, permanent online world, canonical star map, or large content catalogue.
+
+Local flight and arrival geometry belong to [[Gravity and Locomotion]]; emissions, uncertain contacts, and observation during travel belong to [[Heat, Stealth, and Detection]].
