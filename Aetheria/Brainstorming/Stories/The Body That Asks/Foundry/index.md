@@ -43,7 +43,10 @@ This folder owns the formal [[../../Novella Foundry/index|Novella Foundry]] run.
 - [[Pass 11/Pass Report|Pass 11 — Movement II]]
 - [[Pass 11/Movement II Draft|Movement II manuscript]]
 - [[Pass 11/Movement II Review|Movement II Review]]
+- [[Pass 12/Pass Report|Pass 12 — Movement III]]
+- [[Pass 12/Movement III Draft|Movement III manuscript]]
+- [[Pass 12/Movement III Review|Movement III Review]]
 
 ## Manuscript
 
-No canonical manuscript exists yet. Drafting begins after the Foundry's cast, material, causal, architecture, and scene gates are accepted.
+The accepted manuscript currently exists as three movement drafts inside Passes 10–12. Pass 13 owns whole-book revision; Pass 14 will promote the mechanically identical accepted manuscript to `Aetheria/Fiction/The Body That Asks.md` after final audit.

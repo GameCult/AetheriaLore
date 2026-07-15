@@ -2,11 +2,11 @@
 
 ## Run
 
-- **Current pass:** Pass 11 — Movement II accepted.
+- **Current pass:** Pass 12 — Movement III accepted.
 - **Mode:** Full fourteen-pass Foundry run.
 - **Operator authority:** Autonomous continuation toward the complete story.
 - **Length policy:** No target or ceiling.
-- **Canonical manuscript:** Accepted through Movement II inside the Foundry.
+- **Canonical manuscript:** Complete three-movement draft accepted inside the Foundry; whole-book revision remains.
 - **Final path:** `Aetheria/Fiction/The Body That Asks.md`.
 
 ## Accepted Outputs
@@ -45,13 +45,16 @@
 - [[Pass 11/Movement II Draft|Movement II manuscript]]
 - [[Pass 11/Movement II Review|Movement II Review]]
 - [[Pass 11/Pass Report|Pass 11 Report]]
+- [[Pass 12/Movement III Draft|Movement III manuscript]]
+- [[Pass 12/Movement III Review|Movement III Review]]
+- [[Pass 12/Pass Report|Pass 12 Report]]
 
 ## Open Work
 
-- Pass 12 drafts Movement III from the bounded Bright Ledger assent, complete shared map, practiced offices, and unresolved relationships.
-- Full Concordance must save the plant before Necro answers, and there is no recovery interval between those acts.
-- Candidate prose remains noncanonical test evidence.
+- Pass 13 assembles and revises the full manuscript as one reader experience.
+- Cross-movement setup, repeated explanation, pacing, voice persistence, and the reverse Calyx braid require whole-book audit.
+- Candidate prose remains noncanonical test evidence; accepted movement drafts govern assembly.
 
 ## Next Inputs
 
-Pass 12 consumes both accepted movements, the Movement III operation cards, and the material clocks to draft Bright Ledger, Necro, escape, and temporary shelter.
+Pass 13 consumes all three accepted movements, their reviews, and the character delta streams for adversarial whole-book revision.

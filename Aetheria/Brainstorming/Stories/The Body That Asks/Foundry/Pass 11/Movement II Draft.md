@@ -1358,6 +1358,14 @@ They added the uncertainty to the mission record.
 
 Vey met them at the Finalist gate with the readiness certificate. He checked fit limits, bay release, range clearance, custody authorization, and pilot assent as separate lines. Four were green. Custody remained amber.
 
+Omi opened the three routine return interlocks beneath the mission card. Bright Ledger could hold a deployed asset after certified geometry deviation. Kinship configuration custody could hold any full Concordance formed outside its declared envelope. Technical safety could isolate unregistered Aetheric agency from public infrastructure. Each belonged to a different office, showed a different appeal path, and described itself as a stop rather than a weapon.
+
+“Can any one of these launch enforcement?” he asked.
+
+“They authorize recovery holds,” Vey said. “Any enforcement asset would require an authority chain above this certificate.”
+
+No page available to either of them showed the interlocks joined.
+
 “Bright Ledger command has accepted your attached household terms as supplementary,” he said.
 
 “Meaning?” Omi asked.
