@@ -1,44 +1,40 @@
 # AetheriaLore
 
-Aetheria is a galaxy of megacorporate frontier myth, cockpit action, corporate logistics, alien civilizations, and humanity repeatedly discovering new ways to make impossible technology somebody else's problem. It is also an open setting built to hold radically different stories—from black-magic hard SF and noir to cultivation epics and giant mecha—inside one causal world where technologies have histories, institutions have incentives, and consequences survive the stories that create them.
+Aetheria is an open science-fantasy setting built to hold radically different stories inside one causal world: black-magic hard SF and noir before Elysium, giant mecha and cultivation epics after it, Ratfolk first contact, cockpit action, corporate logistics, and whatever pressure point another writer finds next. Technologies have histories, institutions have incentives, and consequences survive the stories that create them.
 
-Writers can claim a place, an era, and a cast without asking custody of the whole universe. Contributions are authoritative where they live; the wider setting carries their consequences forward. The lore, fiction, design work, and writing process are open for inspection, discussion, and contribution.
+Writers do not need custody of the whole universe. Shared notes own their stated constraints; finished stories own their cast, place, depicted sequence, and immediate consequences. Developmental notes, game designs, and brainstorming may test possibilities without silently changing shared physics, faction history, or practice. A local claim becomes shared canon when the relevant owner note explicitly incorporates it.
 
-`AetheriaLore` is the source vault for [aetheria.gamecult.org](https://aetheria.gamecult.org): lore, design notes, stories, and the sort of worldbuilding that thrives when nobody forces it into a CMS shaped like office software.
+`AetheriaLore` is the source vault for [aetheria.gamecult.org](https://aetheria.gamecult.org). It contains setting material, fiction, game design, articles, media, and the Aetheria-specific site overlay.
 
-The site now builds against the shared `GameCult-Quartz` engine instead of carrying its own private Quartz clone. This repo owns the vault content and the Aetheria-specific overlay; the engine lives next door.
+## Start Here
+
+- **Readers:** begin with [`Aetheria/index.md`](Aetheria/index.md), then browse [`Lore`](Aetheria/Lore/index.md), [`Worldbuilding`](Aetheria/Worldbuilding/index.md), or [`Fiction`](Aetheria/Fiction/index.md).
+- **Writers:** read [`Narrative Themes`](Aetheria/Narrative%20Themes.md), the relevant owner notes, and the public [`branch-and-fold process`](Aetheria/Stories/How%20Branching%20Stories%20Are%20Made.md). Finished work lives under [`Fiction`](Aetheria/Fiction/index.md); [`Stories`](Aetheria/Stories/index.md) includes shorter and developmental work.
+- **Maintainers:** site-specific configuration lives under `site/`; the shared Quartz engine and build behavior live in `GameCult-Quartz`.
 
 ## Repository Map
 
-- `Aetheria/`: the actual vault content
-- `site/`: Aetheria-specific Quartz overlay
-  - `quartz.config.ts`
-  - `quartz.layout.ts`
-  - custom components
-  - custom styles
-  - static assets
+- `Aetheria/`: source vault content and media; publication is filtered by the site configuration
+- `site/`: Aetheria-specific Quartz configuration, layout, components, and styles
+- `scripts/quartz/quartz.ps1`: local build and development launcher
 - `quartz-site/public/`: generated static output
-- `scripts/quartz/quartz.ps1`: local build/dev launcher
-- `.github/workflows/deploy-quartz.yml`: Pages deploy workflow, delegated to `GameCult-Quartz`
-- `AGENTS.md`: writing and editing conventions
+- `.github/workflows/deploy-quartz.yml`: deployment workflow using the shared engine
+- `AGENTS.md`: contribution, continuity, and writing conventions
 
-## Shared Engine Dependency
+Internal `Brainstorming/` and `Inspiration/` branches are excluded from publication. They are working material, not automatic canon.
 
-Local builds expect the shared engine repo to exist either:
+## Local Development
 
-- as a sibling checkout at `E:\\Projects\\GameCult-Quartz`, or
-- at the path provided through `GAMECULT_QUARTZ_ROOT`
+Local builds expect `GameCult-Quartz` either at the sibling path `E:\Projects\GameCult-Quartz` or at the path supplied through `GAMECULT_QUARTZ_ROOT`.
 
-Install dependencies in `GameCult-Quartz` first:
+Install the shared engine dependencies first:
 
 ```powershell
 cd E:\Projects\GameCult-Quartz
 npm ci
 ```
 
-## Local Development
-
-From the repository root:
+Then run from this repository root:
 
 ```powershell
 .\scripts\quartz\quartz.ps1 dev
@@ -50,20 +46,4 @@ For a one-off production build:
 .\scripts\quartz\quartz.ps1 build
 ```
 
-The shared engine stages a runtime under `.quartz-build/engine` and writes the finished static site to `quartz-site/public`.
-
-## Vault Structure
-
-Most published material lives under `Aetheria/`, especially these branches:
-
-- `Lore/`
-- `Game Design/`
-- `Stories/`
-
-If you want the setting in sequence, start with:
-
-1. `Aetheria/index.md`
-2. `Aetheria/Lore/index.md`
-3. `Aetheria/Stories/index.md`
-
-Some vault paths remain intentionally unpublished, including internal brainstorming and inspiration dumps. They can stay messy in private instead of oozing onto the public site.
+The launcher stages the shared engine under `.quartz-build/engine` and writes the finished site to `quartz-site/public`.

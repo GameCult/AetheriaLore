@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 18
+
+- `README.md` now separates shared owner notes, finished story authority, and developmental material while retaining the repository map and shared-engine commands. A local claim becomes shared canon only when its owner note incorporates it.
+- The front page fell from about 1,146 to under 850 visible words. It preserves the shunt, altered physical regimes, genre range, bounded authorship, story pressures, finished-fiction evidence, and reader routes while removing release, funding, payroll, publisher, and recovery claims.
+- `Narrative Themes.md` fell from 2,007 to about 1,100 words. Six lenses now hold acceleration, administrative personhood, mutability, reality drift, institutional action, and care without faction tours, contemporary analogies, writing instructions, or resolved consciousness claims.
+- Soul repaired an inaccurate publication label, a link that conflated the repository with its writing process, and an undefined promotion boundary. Frontmatter, HTML wrappers, local links, story-status labels, and owner boundaries passed direct inspection. No site build was needed for the Markdown-only cut.
+
 ### Wave 17
 
 - `Biodrone.md` fell from 861 to 659 words. It now owns the purpose-grown biological labor category, material dependence, provenance, variable cognition, and recognition conflict without fake specifications, invented product histories, or a universal hidden inner life.
