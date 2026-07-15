@@ -4,6 +4,8 @@
 
 Revision 01 will rebuild the baseline as a school-year saga. It will not inflate the existing twenty-eight chapters. The [[Sophomore Year Calendar]] owns elapsed Meridian time; scene transactions, braid order, character replay, and eventual chapters derive from it.
 
+The [[POV Pairing Ledger]] owns the braid's explicit comparison: Mara/Senn, Sol/Omi, Eda/Lio, Tern/Tem, and Ysra/Iri. Each correspondence occurs twice across the year. Calyx opens every pair; the named Meridian POV answers next.
+
 The manuscript grows through recurrent life, changed relationships, institutional afterlives, and earned operational competence. It simultaneously contracts repeated constitutional explanation, document handling, narrated non-absolution, and scenes that restate a procedure without changing its use or cost.
 
 ## Accepted Diagnosis
@@ -33,6 +35,8 @@ The Structural Editor estimated a substantially larger novel and Imagination pro
 ### Calyx expands selectively
 
 Six historical chapters are insufficient to remain present across the full year or individuate the Fivefold. Calyx gains additional lived transactions, but remains shorter and more compressed than Meridian. Each interlude must advance a historical relationship as well as constitutional causality. It may not become a second equally sized school novel or a clue-delivery service.
+
+All five historical members become bounded POVs for their corresponding pairs. This replaces the earlier Mara/Ysra-only POV restriction. Explicit comparison earns the additional access; no POV may reveal private action unnecessary to its pair.
 
 ### Palisade enters with the assignment
 
@@ -112,6 +116,7 @@ Every return must change at least one of: who is welcome, who owns the work, wha
 - Early terminology is introduced through one concrete relation: each pilot owns one Figure; five cadets form one Fist or household; five Figures may assemble into a Concord; Seats are Meridian's historical role labels, not bodies or permanent offices.
 - Reader, household, Vey, school offices, Kinship, custody, workers, and field control retain separate knowledge ladders.
 - No POV acquires the authority map because the room possesses it.
+- Formal pairing never transfers knowledge across time and never implies reincarnation.
 
 ## Character Rulings
 
@@ -125,6 +130,10 @@ Every return must change at least one of: who is welcome, who owns the work, wha
 
 ## Prose Rulings
 
+- The five are adolescents with elite technical education, not five projections of the coordinator. They may speak precisely about trained machinery, scoring, medicine, evidence formats, and academy rules. They do not spontaneously produce finished psychological diagnoses or institutional theory.
+- Teen conflict travels through status, jokes, exaggeration, silence, avoidance, gossip, misplaced technical language, unfair accusations, physical distance, and actions whose meaning becomes clear later. A correct room-level appraisal may remain sideband state without entering dialogue or interior monologue.
+- Insight develops unevenly. Characters can practice a boundary, imitate useful words, or obey a household rule while misunderstanding why it matters. Emotional articulation must be paid for by time, embarrassment, failed attempts, or borrowed language.
+- Adult staff, institutional records, AFTER, and the older Calyx Fivefold do not inherit one common formal voice. Their greater articulation remains bounded by profession, history, embodiment, and motive.
 - Full constitutional language appears when a boundary is first established, materially violated, changed, or scaled to a new constituency.
 - Familiar procedure shortens with competence and intimacy.
 - Emergency channels use immediate action language; complete legal or causal accounts belong in later records when necessary.
@@ -132,6 +141,15 @@ Every return must change at least one of: who is welcome, who owns the work, wha
 - Objects carry memory so narration can stop confirming implications.
 - Across any five consecutive scene endings, fewer than three may rely on a maxim, institutional reversal, or explicit denial of forgiveness/absolution.
 
+## Adolescent Voice Verification
+
+- In any ordinary school chapter, fewer than half of the five may correctly name the scene's emotional conflict.
+- Every principal has a distinct way of being inarticulate: Senn arranges, Omi prosecutes or jokes, Lio performs, Tem multiplies explanations, and Iri returns to concrete work or leaves.
+- At least one important relationship injury is understood first through changed routine rather than dialogue.
+- Teenagers sometimes use an adult or institutional phrase incorrectly, mockingly, or as a weapon.
+- Technical dialogue can remain sophisticated, but its emotional use should reveal age, hierarchy, attraction, fear, or competition.
+- No exchange can be transplanted among three different cadets merely by changing names.
+
 ## Next Gate
 
-The [[Sophomore Year Calendar]], [[Academic Life Ledger]], [[Mystery Half-Life Ledger]], and [[Protected Material Ledger]] are accepted synthesis surfaces. Phase 2A subject-writer proposals may make interventions concrete, but cannot reopen the calendar owner or midpoint/full-Concordance distinction without new evidence.
+The [[Sophomore Year Calendar]], [[Academic Life Ledger]], [[POV Pairing Ledger]], [[Mystery Half-Life Ledger]], and [[Protected Material Ledger]] are accepted synthesis surfaces. Phase 2A subject-writer proposals may make interventions concrete, but cannot reopen the calendar owner, explicit corresponding-role pairing, or midpoint/full-Concordance distinction without new evidence.

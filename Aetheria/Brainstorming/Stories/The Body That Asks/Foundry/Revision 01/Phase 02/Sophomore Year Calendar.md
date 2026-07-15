@@ -80,7 +80,7 @@ Iri's clinical limit; formation review; Omi's unexplained catch; Senn command sc
 
 ### Calyx presentation
 
-`C3/L8 — The Guarantor's Table`: later-lived Fivefold domestic strain under permanent public availability; history still remembers stable Seats while private relations have begun to fail.
+`P3, Eda/Lio — The Unauthorized Rescue / Eighty-Two Percent`: Eda conceals intervention to preserve freedom of rescue; Lio's instinct is to seek protective recognition. Both useful actions become institutional input.
 
 ## A3 — Occupied Infrastructure
 
@@ -103,7 +103,7 @@ Quill custody hold; apprentice resentment and loyalty; response extension; lost 
 
 ### Calyx presentation
 
-`C4/L7 — Unauthorized Rescue`: Eda saves lives through a concealed route; the success becomes a claim for repetition; disclosure injures Sol rather than resolving authority.
+No new Calyx pair. The previous Eda/Lio comparison remains active while its Meridian consequences become ordinary school pressure.
 
 ## A4–A5 — Inquiry, Competition, And Leave
 
@@ -127,7 +127,7 @@ Accommodation as both protection and later removal authority; query metadata; sp
 
 ### Calyx presentation
 
-`C5/L6 — One Account`: Tern's clean sensor story harms Ysra; competence hardens into role; ordinary Calyx relationships remain visible around the technical dispute.
+`P4, Tern/Tem — One Account / Safety Inquiry`: Tern's clean sensor story harms Ysra; Tem is penalized for keeping incompatible pictures alive. The inquiry changes which accounts Meridian will admit without making Tem's uncertainty comfortable.
 
 ## W1–W2 — Midwinter Residence
 
@@ -151,7 +151,7 @@ Household traditions; changed cabin access; selective relations with the sixth p
 
 ### Calyx presentation
 
-`C6/L5 — The Failed Exchange`: whole crown cannot simply move; bounded work can. Historical persons are less doctrinally complete and more openly frustrated.
+`P5, Ysra/Iri — Pain Must Stand / May I Answer`: Ysra fights to make bodily evidence admissible; Iri lets an uncertain presence answer without first winning an ontology trial.
 
 ## W3–W4 — Futures Begin Pulling
 
@@ -175,7 +175,7 @@ Internship eligibility; treatment riders; command-track attention; mentor debts;
 
 ### Calyx presentation
 
-`C7/L4 — Executive Exclusion`: a useful emergency category makes objection causally irrelevant without requiring proof that objectors lack minds.
+No new Calyx pair. Specialization and ordinary futures widen the interval between paired comparisons.
 
 ## S1 — The No That Moves
 
@@ -200,7 +200,7 @@ This is not full Concordance. Neither the five nor AFTER can stabilize the whole
 
 ### Calyx presentation
 
-`C8/L3 — The Answering Strain`: AFTER becomes addressable through repeated embodied timing; the Fivefold still disagree about whether response constitutes standing.
+`P6, Mara/Senn — Failed Crown Return / The No That Moves`: Mara cannot hand whole authority to another person; Senn experiences crown leave her before anyone has language for what happened.
 
 ## S2–S3 — Personal Histories Split The Household
 
@@ -225,7 +225,10 @@ Trust injuries; altered evidence access; Lio treatment and placement pressure; T
 
 ### Calyx presentation
 
-`C9/L2 — The Bounded Office`: early Fivefold members learn to accept and return one coordination task without transferring a person or permanent role.
+Two pairs divide this interval rather than one interlude carrying the whole investigation:
+
+- `P7, Sol/Omi — The Guarantor / Mika's Receipts`: Sol's credibility is used to speak for others; Omi risks becoming the certified dissent that legitimates household handling.
+- `P8, Eda/Lio — Executive Exclusion / The Protective Turn`: Eda's useful intervention survives after her objection loses causal force; Lio sees the same structure inside Vesper's celebrated maneuver.
 
 ## S4–S5 — A Sixth Person And A Missing Body
 
@@ -251,7 +254,7 @@ Custody override; security checksum; probable lethal separation; AFTER no longer
 
 ### Calyx presentation
 
-No final convergence yet. A brief penultimate interlude shows Mara replacing command with a question while the first act still fails. The answer remains physically incomplete.
+`P9, Tern/Tem — The Bounded Office / The Missing Body`: Tern learns to accept and return one coordination task; Tem must share usable uncertainty and map custody without selecting one permanent account. The answer remains physically incomplete.
 
 ## S6–F2 — Finals, Placement, And A Future Worth Losing
 
@@ -332,4 +335,3 @@ No Calyx chapter or historical correspondence follows full Concordance.
 - AFTER's appearances name their substrate and access owner.
 - Calyx presentation coordinates never alter its lived delta ancestry.
 - Full Concordance occurs only in `B2`; no earlier description uses it as achieved fact.
-

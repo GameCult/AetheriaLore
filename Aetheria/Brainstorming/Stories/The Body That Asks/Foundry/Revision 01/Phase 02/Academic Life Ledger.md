@@ -109,6 +109,8 @@ Each protagonist needs:
 - one moment when investigation loses because schoolwork or another student's need legitimately comes first;
 - one academic success that remains worth having even after Meridian is refused.
 
+Academic scenes are a primary voice test. Cadets complain about workload, compare scores, bluff preparation, copy one another's phrasing, show off, misunderstand instructions, resent group partners, and care about humiliatingly small distinctions. Their intelligence is visible in what they notice and do, not in universal access to polished emotional analysis.
+
 ## Verification
 
 - Across every three consecutive school chapters, at least one active academic obligation exists that is not Finalist integration or conspiracy work.

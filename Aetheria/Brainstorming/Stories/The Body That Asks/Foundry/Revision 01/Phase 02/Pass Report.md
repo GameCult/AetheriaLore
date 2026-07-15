@@ -16,6 +16,7 @@ Adjudicate seven independent diagnoses into one revision architecture that makes
 - [[Council Synthesis]]
 - [[Sophomore Year Calendar]]
 - [[Academic Life Ledger]]
+- [[POV Pairing Ledger]]
 - [[Mystery Half-Life Ledger]]
 - [[Protected Material Ledger]]
 
@@ -24,6 +25,7 @@ Adjudicate seven independent diagnoses into one revision architecture that makes
 - Calendar owns time; chapter count is derived.
 - Three movements remain, now spanning a real year rather than three rapid plot phases.
 - Calyx expands and persists through Bright Ledger.
+- Calyx/Meridian chapters form explicit POV pairs by assigned historical role; each correspondence occurs twice.
 - The No That Moves is incomplete; full Concordance occurs only at Bright Ledger.
 - Added prose must create recurrence, changed relationships, institutional afterlife, or independently valuable life.
 - Ordinary academics remain an independent pressure system; not every course, grade, club, or student conflict serves Finalist training or the mystery.

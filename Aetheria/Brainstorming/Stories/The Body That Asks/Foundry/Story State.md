@@ -2,7 +2,7 @@
 
 ## Run
 
-- **Current pass:** Revision 01, Phase 2A — subject-writer proposals.
+- **Current pass:** Revision 01, Phase 3 — scene transactions and character replay.
 - **Mode:** Post-draft Revision Council rebuild.
 - **Operator authority:** Autonomous continuation toward the complete story.
 - **Length policy:** No target or ceiling.
@@ -60,7 +60,9 @@
 - Phase 0 passed with a reconstructable baseline and unprimed manuscript-only report.
 - Phase 1 produced seven independent diagnostic reports.
 - Phase 2 accepted the calendar, movement architecture, mystery half-life ledger, protected material, and midpoint/full-Concordance distinction.
-- Phase 2A must make specialty interventions concrete before coordinator proposal adjudication and scene-ledger construction.
+- Phase 2A produced seven concrete proposal packets.
+- Phase 2B adjudicated proposals and accepted a sixty-nine-chapter explicit-POV transaction blueprint.
+- Phase 3 must create accepted scene transactions and replay Meridian, Calyx, AFTER, and Vey state from valid parent revisions before prose drafting.
 - Meridian and AFTER deltas require a new revision branch and replay from valid entrance states. Calyx presentation coordinates require remapping even where lived deltas survive.
 - Candidate revision prose remains noncanonical; the promoted Fiction manuscript governs until final integration and promotion.
 
@@ -74,4 +76,7 @@
 - [[Revision 01/Phase 02/Council Synthesis|Council Synthesis]]
 - [[Revision 01/Phase 02/Sophomore Year Calendar|Sophomore Year Calendar]]
 - [[Revision 01/Phase 02/Academic Life Ledger|Academic Life Ledger]]
+- [[Revision 01/Phase 02/POV Pairing Ledger|POV Pairing Ledger]]
 - [[Revision 01/Phase 02/Mystery Half-Life Ledger|Mystery Half-Life Ledger]]
+- [[Revision 01/Phase 02B/Proposal Adjudication|Proposal Adjudication]]
+- [[Revision 01/Phase 02B/Chapter Blueprint|Chapter Blueprint]]

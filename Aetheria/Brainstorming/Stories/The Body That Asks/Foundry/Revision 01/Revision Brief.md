@@ -15,6 +15,8 @@ Rewrite the novel to spend substantially more time inhabiting the world of a fou
 
 School life must carry independent value: curriculum, repeated training, rankings, meals, jokes, injuries, holidays, romance, family contact, rivalries, ordinary classmates, professional temptation, and the pleasure of becoming excellent. Meridian must become a home worth grieving before escape becomes necessary.
 
+The five must sound and miscommunicate like teenagers. They are unusually skilled and can be exact inside trained technical domains, but they do not possess the story room's psychological, political, or constitutional vocabulary. Emotional insight arrives through jokes, status play, silence, avoidance, bad accusations, physical choices, borrowed adult phrases, and belated partial admissions. They may practice an ethic before they can explain it.
+
 Every newly visible layer of political machinery must already have been operating before discovery and must continue altering access, medicine, reputation, employment, relationships, and institutional tactics afterward. Mysteries overlap without collapsing into one clue chain.
 
 The reverse Calyx story remains active across the entire school year. The hidden No That Moves reveals accidental constitutional fragments, not full Concordance. The braid resolves only when sustained Concordance at Bright Ledger frees the five and AFTER from the institutional form history assigned them. Necro and escape occur after the final Calyx chapter, in formally unbraided time.
@@ -40,6 +42,7 @@ The book should deliver both the pleasures of magical school and the political c
 - Vey loves his wards, participates in Kinship, lacks Necro clearance, and preserves the override chain without becoming either mastermind or savior.
 - Escape, exposure, continued personhood, and provisional shelter constitute victory. Exposure does not dissolve Kinship, corporate power, or the invasion threat.
 - No slogan, reincarnation, permanent fusion, restored ancient guardianship, or benevolent-force acquittal.
+- No shared therapy-speech or precocious essay voice. Technical fluency does not confer mature self-knowledge.
 
 ## Accepted Structural Scope
 
@@ -61,4 +64,3 @@ There is no word-count target or ceiling.
 ## Evidence Limitations
 
 The initiating reader diagnosis comes from the operator after publication: the novel traverses an alleged school year in 32,000 words and does not make that duration felt. This is decisive structural evidence, but not a full cold-reader report. Phase 1 must include at least one manuscript-only reader who is not shown this brief.
-
