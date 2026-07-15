@@ -2,7 +2,7 @@
 
 ## Run
 
-- **Current pass:** Pass 8 — Narrative Architecture accepted.
+- **Current pass:** Pass 9 — Scene Engineering accepted.
 - **Mode:** Full fourteen-pass Foundry run.
 - **Operator authority:** Autonomous continuation toward the complete story.
 - **Length policy:** No target or ceiling.
@@ -37,13 +37,15 @@
 - [[Narrative Architecture]]
 - [[Pass 08/Voice Test Review|Voice Test Review]]
 - [[Pass 08/Pass Report|Pass 8 Report]]
+- [[Scene Engineering]]
+- [[Pass 09/Pass Report|Pass 9 Report]]
 
 ## Open Work
 
-- Pass 9 must turn provisional chapters into scene transactions and drafting packets without silently changing accepted deltas.
-- Pass 9 must record exact scene entrances, exits, observable events, and chapter handoffs before manuscript promotion.
+- Pass 10 drafts Movement I in the coordinator's unified voice and treats every drafted action as an event proposal before advancing character state.
+- Movement I acceptance requires skeptical reviews, a manuscript-only first read, and repaired deltas before Movement II advances.
 - Candidate prose remains noncanonical test evidence.
 
 ## Next Inputs
 
-Pass 9 consumes the provisional architecture, voice evidence, and event streams to create scene transactions, chapter drafting packets, and revision dependencies.
+Pass 10 consumes accepted scene engineering, voice evidence, and entrance revisions to draft Movement I as an emotionally complete manuscript unit.

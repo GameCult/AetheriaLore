@@ -1,6 +1,6 @@
 # Narrative Architecture
 
-The current architecture contains twenty-nine provisional chapters because the accepted decisions require that many distinct dramatic transactions. The number is not a production target. Draft evidence may split or collapse chapters if it preserves POV causality, comprehension limits, and character deltas.
+The current architecture contains twenty-eight provisional chapters because the accepted decisions require that many distinct dramatic transactions. The number is not a production target. Draft evidence may split or collapse chapters if it preserves POV causality, comprehension limits, and character deltas.
 
 Reader-facing defaults remain one primary dispute, at most one secondary complication, roughly three visible decision owners, and one or two new technical ideas requiring active comprehension.
 
@@ -193,23 +193,16 @@ No more than two institutional ratchets may stack without a socially owned scene
 - **Turn:** AFTER releases the complete map and relinquishes sole route control; the five retain the lethal option; Omi owns his harmful audit.
 - **Pleasure / exit:** the household charter works under adult stakes; Lio and Tem complete one bounded task without restored trust. Security closes the clean route.
 
-### 22. The Futures They Could Keep
-
-- **POV:** Lio.
-- **Primary dispute:** whether accepting a real adult future necessarily ratifies the institution offering it.
-- **Owners:** Lio, Vara, Anik.
-- **Turn:** medicine, citizenship, elite access, service, family security, repair, and command become concrete individual futures rather than abstract leverage.
-- **Pleasure / exit:** Senn and Rhea nearly name attraction; Iri receives Anik's respect; Vey asks them to hear the bargain.
-
-### 23. Vey's Bargain
+### 22. Vey's Bargain
 
 - **POV:** Omi.
 - **Primary dispute:** whether credible invasion, love, and lawful goods authorize permanent governability.
+- **Opening chamber:** Vara, Anik, medicine, citizenship, family security, repair, command, Senn/Rhea attraction, and Iri's respected expertise make the five existing futures concrete before Vey prices them.
 - **Concept:** probabilistic forecast as political pressure, not acquittal.
 - **Turn:** Vey makes five actionable offers; each cadet answers differently. Public petitions, minutes, Sol's agreements, traffic records, and Eda's deletion manifest establish the guardianship Calyx refused without recovering private petitioner identities.
 - **Exit:** Bright Ledger certification gates every offered future; orders arrive before the family argument resolves.
 
-### 24. Orders for Bright Ledger
+### 23. Orders for Bright Ledger
 
 - **POV:** Senn.
 - **Primary dispute:** whether bounded rescue deployment can be chosen without converting it into permanent service assent.
@@ -221,7 +214,7 @@ No more than two institutional ratchets may stack without a socially owned scene
 
 Five chapters contain fourteen physical scenes. Scene boundaries may become section breaks or chapter breaks during prose drafting. Their decisions may not be merged merely to preserve the five-chapter container.
 
-### 25. Entry
+### 24. Entry
 
 1. **Three approaches — Senn.** Vara owns executive entry, Anik the medical corridor, Senn the radial approach. Workers answer from local stations and condition collar access.
 2. **The collar is not surrender — Iri.** Tala grants rescue and named-lot access, not production or surrender. Iri carries the terms as operational constraints.
@@ -229,14 +222,14 @@ Five chapters contain fourteen physical scenes. Scene boundaries may become sect
 
 **Chapter turn:** the second dispatch attestation is missed; the insurer issues continuity failure.
 
-### 26. The Objective Dies
+### 25. The Objective Dies
 
 4. **The plant is sold underneath them — Omi.** Halcyon acquires rights and leaves physical hazard and liabilities with Serein. No authority loses its narrower reason to continue.
 5. **Preserve the run that already exists — Lio.** Tala authorizes twenty-one lots and refuses fresh casting. Vara's precise isolation saves lives and clears the route Necro will later use.
 
 **Chapter turn:** the advertised material future dies while the plant becomes more dangerous. First contingency receipt follows mission deviation.
 
-### 27. The Act
+### 26. The Act
 
 6. **Not like this — Omi.** Omi rejects geometry that makes occupied structure inert mass. One station refuses entirely; enough others conditionally assent.
 7. **Offices, not Seats — Senn.** Senn opens crown, Tem vectors propulsion, Omi synthesizes bounded accounts, Iri transmits, Lio receives crown for damaged-drive balance, and Senn takes rescue triage.
@@ -244,7 +237,7 @@ Five chapters contain fourteen physical scenes. Scene boundaries may become sect
 
 **Chapter turn:** the plant survives, evidence and lots move, AFTER returns specifically mutilated, and the remaining contingency receipts complete.
 
-### 28. No Recovery Interval
+### 27. No Recovery Interval
 
 9. **The route home — Lio.** Vey's medical return is real custody and real parental care. Vara contains without exploiting Lio's pain; Anik keeps workers and lots moving while closing justified exits. Lio disobeys love without denying it.
 10. **The slower answer — Tem.** Necro performs Vesper's protective turn. Tem refuses one future; Senn delegates; Lio changes balance; Iri refuses the sacrificial lock. The slower response exposes a relay.
@@ -252,7 +245,7 @@ Five chapters contain fourteen physical scenes. Scene boundaries may become sect
 
 **Chapter turn:** pursuit geometry breaks for ninety minutes. Shelter and cockpit medicine become the new clocks.
 
-### 29. Temporary Infrastructure
+### 28. Temporary Infrastructure
 
 12. **What may be made public — Iri.** Bounded indices and distributed custody preserve proof while workers contest liberation language and retain intimate records.
 13. **Aid without entry — Senn.** Morrow Quay refuses armed entry and offers palletized aid. The six obey at medical and strategic cost; Rhea's exact testimony reaches Senn without a safe reply.

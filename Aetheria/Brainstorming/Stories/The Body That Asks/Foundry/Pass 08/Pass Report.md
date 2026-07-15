@@ -12,10 +12,10 @@ Convert accepted causality and character deltas into movements, chapters, POV al
 
 ## Architecture
 
-The current structure has twenty-nine provisional chapters:
+The current structure has twenty-eight provisional chapters:
 
 - twelve strictly braided chapters ending at paired first Concordance;
-- twelve forward academy chapters separating relationship rupture, evidence joins, personhood, omission, repair, attractive futures, Vey's bargain, and deployment choice;
+- eleven forward academy chapters separating relationship rupture, evidence joins, personhood, omission, repair, Vey's bargain, and deployment choice;
 - five operational chapters containing fourteen physical scenes from Palisade entry to AFTER's reply.
 
 The number is evidence, not authority. Drafting may split or collapse containers when one continuous scene can preserve separate decision owners, deltas, and comprehension limits.

@@ -35,6 +35,8 @@ This folder owns the formal [[../../Novella Foundry/index|Novella Foundry]] run.
 - [[Pass 08/Pass Report|Pass 8 — Narrative Architecture]]
 - [[Narrative Architecture]]
 - [[Pass 08/Voice Test Review|Voice Test Review]]
+- [[Pass 09/Pass Report|Pass 9 — Scene Engineering]]
+- [[Scene Engineering]]
 
 ## Manuscript
 
