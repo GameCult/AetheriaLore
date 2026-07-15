@@ -3,7 +3,7 @@
 ## Identity
 
 - **Working title:** *The Body That Asks*
-- **Target length:** 45,000–60,000 words
+- **Length:** Determined by the story's completed dramatic work; no word-count target or ceiling
 - **Genre and tone:** Political mecha academy thriller, institutional science fiction, found-family escape story; tense, intimate, technically grounded, and intermittently funny about the administrative measurement of love
 - **Audience:** Adult science-fiction readers; accessible without prior Aetheria knowledge
 - **POV and tense:** Close third, past tense. Meridian moves forward. Calyx moves backward. The lines meet at first Concordance; Calyx ends and Meridian continues alone.
@@ -80,6 +80,6 @@ The reader should repeatedly receive three pleasures: institutional procedure re
 
 Promotion requires a separate continuity decision after the story proves which history it needs.
 
-## Next Development Pass
+## Foundry Run
 
-Bootstrap the repaired topical room into the [[../Novella Foundry/index|Novella Foundry]] beginning with Pass 1 authority extraction. Treat these notes as inherited design inputs rather than retroactively completed passes. Material work must still specify the escape volume and post-exposure costs before drafting chapters.
+The formal [[../Novella Foundry/index|Novella Foundry]] run begins under [[Foundry/index|Foundry State]]. The repaired topical notes remain inherited design inputs rather than retroactively completed passes.
