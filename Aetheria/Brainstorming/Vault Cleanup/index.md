@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 24
+
+- Five game-design notes fell from 2,629 to 1,982 words. The index remains the public status owner; Terminus and Call of the Void are historical proposals rather than release targets, while Cat, her cases, and Terminus geography remain developmental.
+- `Narrative and Missions.md` now owns mission admission, local occurrence, evidence, and consequence handoff. Scenarios record what happened locally; witnesses and provider systems retain authorship, and durable owners separately accept or reject exported effects.
+- `Implementation Signals.md` no longer turns unpinned code archaeology into current architecture or roadmap. Its six reported surfaces are recovery targets until a named revision, paths, build receipt, observed behavior, and bounded owner inference exist.
+- Clueless/Loremaster pressure exposed questions the vault cannot yet answer: the active release target, Terminus's canonical status, Cat's era and location, the adopted narrative runtime, and which older systems still build. Soul passed status metadata, canon boundaries, evidence provenance, links, and hostile brevity.
+
 ### Wave 23
 
 - Four material-economy notes grew from 2,574 to 3,349 words because missing authority replaced catalogs: blueprint, permission, production commitment, item instance, inventory possession, ship assembly, title, custody, consent, and claim now remain separate state.

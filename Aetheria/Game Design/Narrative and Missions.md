@@ -1,42 +1,51 @@
+---
+title: Narrative and Missions
+description: "Live mission contract for admission, local occurrence, evidence, and separately committed consequences."
+---
+
 # Narrative and Missions
 
-Aetheria's narrative systems should let authored story inhabit generated space without turning the galaxy into a row of cardboard quest booths. The codebase already points in that direction with Ink files, location data, quest data, a `StoryProcessor`, zone constraints, faction resolvers, and selectors that can place content according to distance, ownership, and faction presence.
+> **Status: design-lineage mission specification.** This note owns the passage from an offered obligation through local occurrence and evidence to separately committed consequences. It requires neither procedural placement nor a particular narrative runtime.
 
-## Mission Placement
+A mission makes an institution, person, or condition legible through work the player can accept, refuse, reinterpret, or fail. Authored and generated material may use the same contract; neither method grants content authority over the setting or durable state.
 
-The best mission placement starts from conditions:
+## Mission Contract
 
-- which faction owns or influences the zone
-- how far it is from a named point
-- whether a route is contested
-- whether a station, resource, or population is present
-- what local security allows
-- what the current economy has made scarce or valuable
+Every mission should identify:
 
-This lets authored missions feel less like stickers. A spy rendezvous, extraction job, factory incident, sabotage request, or rescue should appear where the setting says such a thing would plausibly happen.
+- **issuer:** who presents the work or creates the obligation;
+- **authority:** what the issuer can request, promise, recognize, or enforce;
+- **source:** where the offer and its claims came from, with time and confidence;
+- **admission conditions:** which scenario, location, actors, prior facts, and player state permit the mission to appear;
+- **offered terms:** objective, payment, deadlines, permissions, restrictions, known risks, and declared consequences;
+- **unknowns and adverse claims:** what the issuer does not know, conceals, disputes, or lacks authority to settle;
+- **local owner:** the scenario that owns occurrence, immediate state, and evidence during play;
+- **receiving owners:** the durable authorities asked to accept later changes.
 
-## Authored Pressure
+Admission is not truth. A mission may appear because a faction claims control, a report alleges danger, or a market records scarcity. The scenario validates that those claims are admissible inputs without converting them into canon or omniscient fact.
 
-The Ink material in `GameData/Narrative` suggests a tone that can be sharp, funny, dangerous, and politically messy without becoming weightless. Missions should preserve that bite. Aetheria can have jokes. It should also remember who gets billed for them.
+## Local Occurrence And Evidence
 
-The ARPG GDD describes scattered interactive stories, some repeatable and some happening only once per reset with consequences that echo through the timeline. Many begin through station NPCs but can remain active after undocking or even follow the player indefinitely.
+During play, the scenario owns local occurrences: arrivals, actions, observations, accepted commands, damage, transfers, and the fact that testimony or records were produced. Witnesses and provider systems retain authorship. Evidence preserves stable references, source or author, time, authentication or confidence, gaps, and disagreement.
 
-## Faction Voice
+Objectives should describe requested outcomes rather than overwrite the world when a flag changes. “Recover the cargo” may produce possession, preserved evidence, an asserted claim, and a delivery attempt. It does not automatically establish title, lawful seizure, payment, or faction approval.
 
-Faction missions are one of the cleanest ways to teach the setting. A job from [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Lucent Media|Lucent Media]] should not feel like a job from [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Sol Dominion|Sol Dominion]], [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Framgång]], or the [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Pirate Coalition|Pirate Coalition]]. The objective, payment structure, euphemisms, risk transfer, and failure language should all expose the institution behind the request.
+Failure remains an outcome with evidence. Refusal, delay, partial rescue, lost cargo, exposed misconduct, damaged trust, or an issuer exceeding its authority may create stronger narrative consequence than simple completion.
 
-## Consequence
+## Consequence Handoff
 
-Narrative consequence does not always need a branching cinematic. Sometimes consequence is a market shift, a new patrol, a closed dock, a cheaper weapon, a hostile faction, a worker population displaced into another system, or a rumor that changes how a station greets the player.
+The local scenario exports proposed outcomes. Named durable owners separately decide market changes, inventory possession, payment, claims, access, reputation, faction response, injuries, relationships, and persistent records. One accepted consequence does not imply the others.
 
-## Campaign And Rogue-Lite Use
+The result must preserve which authority accepted or rejected each effect. A client can pay while a port disputes the cargo. A faction can approve while a witness refuses cooperation. A scenario cannot launder these disagreements into one success state.
 
-[[End of the Line|Terminus]] can use narrative as run texture and long-form campaign memory: route events, faction encounters, mission chains, shipboard conversations, and recurring obligations. The full persistent game can use the same grammar at larger scale, where corporate actions create the mission ecology field players keep mistaking for bad luck.
+## Voice And Setting Authority
 
-Subspace dungeons from the older GDD are especially useful for Terminus-scale structure: dangerous wormholes leading into chaotic maze-like space, with escalating enemies, exits, bosses, and rewards. They should be adapted carefully into current cosmology rather than copied as a loose arcade appendage.
+Faction missions consume faction canon; they do not create it by imitation. Objective, payment, euphemism, risk transfer, failure language, and available authority should follow the relevant owner notes. New local characters and events remain bounded to the scenario until a shared owner adopts their wider claims.
 
-## Call of the Void
+The joke still needs an issuer, a cost, and somebody who gets billed for it.
 
-[[Call of the Void]] is the emergency scope cut below Terminus. Instead of proving a hostile procedural crossing, it can prove authored mission density: PI cases, taxi fares, station districts, recurring passengers, faction contacts, a malfunction-prone ship, and the slow discovery that the rupture is not a temporary navigational problem.
+## Smallest Coherent Proof
 
-The original brainstorm predates the current Elysium continuity and still carries colonization-fleet assumptions. That needs a later story refactor. For now, the useful design signal remains: a human-scale path into Aetheria, where the player meets the setting through clients, passengers, debts, scams, disappearances, return fantasies, rupture cults, rogue AIs, compromised officials, and all the little humiliations that arrive before history admits it is history.
+A minimum proof needs one issuer with bounded authority, one offer with a material unknown, one local scenario, two possible approaches, one piece of disputed evidence, and at least two receiving owners. The player can accept or refuse, act, preserve or lose evidence, and reach an outcome that the receivers interpret differently.
+
+The proof succeeds when the player can explain who asked, what they could promise, what actually happened, what evidence survived, and who committed each consequence. It fails when placement reveals canon knowledge, completion manufactures title or reputation, faction voice floats free of its owner, or a runtime becomes the authority merely because it rendered the story.

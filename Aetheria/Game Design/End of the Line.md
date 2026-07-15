@@ -1,31 +1,31 @@
+---
+title: End of the Line
+description: "Historical Terminus scope-cut proposal about a material ship crossing hostile space under route, debt, and institutional pressure."
+---
+
 # End of the Line
 
+> **Status: historical scope-cut proposal.** `Aetheria: Terminus` is not a current release target or implementation claim. The destination named Terminus, the crossing, and the player's circumstances remain developmental; this note does not establish Terminus as canonical geography.
+
 <figure class="aetheria-media-card">
-  <img src="../media/aetheria/catastrophe.jpg" alt="Aetheria concept art showing catastrophe-themed imagery." />
+  <img src="../media/aetheria/catastrophe.jpg" alt="Historical Aetheria concept art showing catastrophe-themed imagery." />
+  <p>Historical concept art. It is not a canonical depiction or evidence of current production.</p>
 </figure>
 
-Aetheria: Terminus is the first sharp cut into the wider universe: a rogue-lite action RPG about crossing a hostile galaxy to win your freedom without forcing the first release to simulate the entire galaxy at once.
+Terminus proposed a rogue-lite action RPG about crossing hostile space to win freedom. It reduced the older persistent-galaxy ambition to a route, a ship, accumulating consequences, and a destination. The useful design question was whether Aetheria's material pressures could hold together without the full strategic simulation.
 
-The destination is Terminus. Everything between you and it wants you dead, owned, or broken first. Procedural routes, megacorporate opposition, and the general indifference of space turn every run into a negotiation between risk, speed, and survival.
+## Proposed Run
 
-This is the smaller blade by design. It tests the material pressures of the wider setting without asking the first public slice to carry the full weight of Aetheria's galactic ambition problem all by itself.
+A run compressed the crossing into repeated commitments:
 
-## Design Role
+- choose a route with incomplete information;
+- prepare a ship around limited capacity and known risk;
+- fight, evade, bargain, salvage, or retreat;
+- carry damage, cargo, debt, and obligations forward;
+- reach a bounded victory or lose the material basis for continuing.
 
-Terminus is the proof slice for the [[Action RPG Layer]]. It should make ship handling, combat, route choice, faction pressure, loot, repairs, trade, and mission consequences feel like one system rather than a sampler plate.
+The proposal treated ship handling, route choice, combat, trade, repair, and mission consequence as one loop. Corporate power appeared through manufactured equipment, controlled docks, restricted routes, pricing, contracts, and the institutions able to turn survival into debt.
 
-The wider game wants persistent corporations and a shared economy. Terminus does not need to simulate all of that on day one. It does need to make the player feel that those systems exist beyond the edge of the run: someone manufactured the weapons, someone owns the docks, someone controls the safe routes, and someone has already decided how much your freedom is allowed to cost.
+## Surviving Design Signal
 
-## Run Structure
-
-Each run should be a compressed crossing of hostile space:
-
-- choose or discover a route toward Terminus
-- prepare a ship around limited resources and known risks
-- fight, evade, bargain, scavenge, or betray through the route
-- carry forward damage, cargo, debts, and narrative obligations
-- reach a temporary victory or become another cautionary entry in a corporate actuarial table
-
-## What It Proves
-
-Terminus proves the parts of Aetheria that must feel good before scale matters: readable combat, meaningful ship builds, dangerous travel, useful loot, faction identity, route pressure, and story events that feel native to generated space.
+[[Action RPG Layer]] now owns the smallest cockpit proof. Terminus contributes one historical arrangement of that proof: a journey whose arrival state records what the player spent to get there. The concept requires neither a procedural galaxy nor a persistent-world sequel.
