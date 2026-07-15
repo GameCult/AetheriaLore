@@ -2,7 +2,7 @@
 
 ## Run
 
-- **Current pass:** Revision 01, Phase 1 — independent diagnosis.
+- **Current pass:** Revision 01, Phase 2A — subject-writer proposals.
 - **Mode:** Post-draft Revision Council rebuild.
 - **Operator authority:** Autonomous continuation toward the complete story.
 - **Length policy:** No target or ceiling.
@@ -58,7 +58,9 @@
 
 - [[Revision 01/index|Revision 01 — The Inhabited Year]] is active.
 - Phase 0 passed with a reconstructable baseline and unprimed manuscript-only report.
-- Phase 1 must diagnose the full baseline before the coordinator accepts a new calendar, braid, mystery half-life ledger, and chapter blueprint.
+- Phase 1 produced seven independent diagnostic reports.
+- Phase 2 accepted the calendar, movement architecture, mystery half-life ledger, protected material, and midpoint/full-Concordance distinction.
+- Phase 2A must make specialty interventions concrete before coordinator proposal adjudication and scene-ledger construction.
 - Meridian and AFTER deltas require a new revision branch and replay from valid entrance states. Calyx presentation coordinates require remapping even where lived deltas survive.
 - Candidate revision prose remains noncanonical; the promoted Fiction manuscript governs until final integration and promotion.
 
@@ -69,3 +71,7 @@
 - [[Revision 01/Phase 00/Rebuild Authority Map|Rebuild Authority Map]]
 - [[Revision 01/Phase 00/Cold Reader Report|Cold Reader Report]]
 - independent Phase 1 specialist reports
+- [[Revision 01/Phase 02/Council Synthesis|Council Synthesis]]
+- [[Revision 01/Phase 02/Sophomore Year Calendar|Sophomore Year Calendar]]
+- [[Revision 01/Phase 02/Academic Life Ledger|Academic Life Ledger]]
+- [[Revision 01/Phase 02/Mystery Half-Life Ledger|Mystery Half-Life Ledger]]

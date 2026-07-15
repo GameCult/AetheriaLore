@@ -11,8 +11,9 @@ This revision rebuilds [[../../../../../Fiction/The Body That Asks|The Body That
 
 ## Current Phase
 
-Phase 1 — independent diagnosis.
+Phase 2A — subject-writer proposals.
 
 Phase 0 is recorded in [[Phase 00/Pass Report|the baseline report]].
+Seven independent diagnoses are preserved under `Phase 01/`. The accepted architecture is recorded in [[Phase 02/Pass Report|Phase 2 Synthesis]].
 
 The canonical Fiction manuscript remains the published baseline while revision proceeds. Candidate architecture and prose in this folder have no authority over it until coordinator promotion.
