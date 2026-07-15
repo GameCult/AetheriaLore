@@ -6,6 +6,8 @@
 
 *POV: Mara*
 
+*Calyx era — generations before Meridian*
+
 Sol's hair had become a constitutional problem.
 
 “Hold still,” Ysra said.

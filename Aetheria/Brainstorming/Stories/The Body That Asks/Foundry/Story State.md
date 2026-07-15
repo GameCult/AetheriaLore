@@ -2,11 +2,11 @@
 
 ## Run
 
-- **Current pass:** Revision 01, Phase 5 — whole-book integration and promotion review.
+- **Current pass:** Revision 01 complete — promoted and publication-verified.
 - **Mode:** Post-draft Revision Council rebuild.
 - **Operator authority:** Autonomous continuation toward the complete story.
 - **Length policy:** No target or ceiling.
-- **Canonical manuscript:** the published baseline remains [[../../../../Fiction/The Body That Asks|The Body That Asks]] in `Aetheria/Fiction/`, byte-identical to [[Pass 13/Full Manuscript|Pass 13 Full Manuscript]], until Revision 01 promotion.
+- **Canonical manuscript:** [[../../../../Fiction/The Body That Asks|The Body That Asks]] in `Aetheria/Fiction/`, byte-identical to [[Revision 01/Phase 05/Full Manuscript|Revision 01 Full Manuscript]].
 - **Final path:** `Aetheria/Fiction/The Body That Asks.md`.
 
 ## Accepted Outputs
@@ -64,8 +64,8 @@
 - Phase 2B adjudicated proposals and accepted a sixty-nine-chapter explicit-POV transaction blueprint.
 - Phase 3 accepted sixty-nine scene transactions, the exact ten-pair POV braid, named ordinary-school continuity, a lived-order Calyx replay, and twelve gapless Persona streams on `revision-01-main`.
 - Phase 4 produced and reviewed sixty-nine chapters of candidate prose across three movements. Final blocker checks found the candidate structurally and narratively ready for whole-book integration.
-- Phase 5 must assemble the complete candidate, verify cross-movement prose and terminology, and promote only after manuscript-level review. Changes to POV, chronology, ancestry, mystery timing, academic ownership, or protected material return to Phase 3 replay before descendants continue.
-- Candidate revision prose remains noncanonical; the promoted Fiction manuscript governs until final integration and promotion.
+- Phase 5 assembled the candidate, passed unprimed manuscript review and final continuity checks, promoted the Fiction manuscript, and rebuilt and validated the sixty-nine-chapter EPUB.
+- Revision 01 is complete. Future changes to POV, chronology, ancestry, mystery timing, academic ownership, or protected material return to Phase 3 replay before descendants continue.
 
 ## Next Inputs
 
@@ -89,3 +89,6 @@
 - [[Revision 01/Phase 04/Movement I Draft|Movement I Draft]]
 - [[Revision 01/Phase 04/Movement II Draft|Movement II Draft]]
 - [[Revision 01/Phase 04/Movement III Draft|Movement III Draft]]
+- [[Revision 01/Phase 05/Pass Report|Phase 5 Report]]
+- [[Revision 01/Phase 05/Full Manuscript|Revision 01 Full Manuscript]]
+- [[Revision 01/Phase 05/Promotion Audit|Revision 01 Promotion Audit]]
