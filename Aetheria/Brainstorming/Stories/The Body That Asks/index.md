@@ -8,7 +8,7 @@
 - **Audience:** Adult science-fiction readers; accessible without prior Aetheria knowledge
 - **POV and tense:** Close third, past tense. Meridian moves forward. Calyx moves backward. The lines meet at first Concordance; Calyx ends and Meridian continues alone.
 - **Setting:** deep Post-Elysium. Provisional chronology places Calyx approximately 3250–3260 and Meridian approximately 3350–3360.
-- **Status:** Active story room. Story-local facts remain inventions until promoted into worldbuilding canon.
+- **Status:** Manuscript complete and promoted to [[../../../Fiction/The Body That Asks|Fiction]]. Story-local facts remain narrative inventions until separately promoted into worldbuilding canon.
 
 ## Story Promise
 

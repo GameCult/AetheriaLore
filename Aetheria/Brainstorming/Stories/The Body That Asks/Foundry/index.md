@@ -49,7 +49,9 @@ This folder owns the formal [[../../Novella Foundry/index|Novella Foundry]] run.
 - [[Pass 13/Pass Report|Pass 13 — Whole-Book Revision]]
 - [[Pass 13/Full Manuscript|Full Manuscript]]
 - [[Pass 13/Whole Book Review|Whole Book Review]]
+- [[Pass 14/Pass Report|Pass 14 — Promotion and Final Audit]]
+- [[Pass 14/Promotion Audit|Promotion Audit]]
 
 ## Manuscript
 
-The accepted manuscript is [[Pass 13/Full Manuscript]]. Pass 14 will promote the mechanically identical artifact to `Aetheria/Fiction/The Body That Asks.md` after final audit.
+The accepted manuscript is [[../../../../Fiction/The Body That Asks|The Body That Asks]] in `Aetheria/Fiction/`, byte-identical to [[Pass 13/Full Manuscript]]. The fourteen-pass Foundry run is complete.

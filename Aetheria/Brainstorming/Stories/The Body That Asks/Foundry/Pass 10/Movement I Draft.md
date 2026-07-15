@@ -616,8 +616,8 @@ Vara Kest stood in the sponsor tier above, flanked by two Plastics. Anik Ro had 
 
 Senn's slate chimed.
 
-**ASSEMBLY RESULT: 82%**  
-**PHASE-SHEAR ABORT**  
+**ASSEMBLY RESULT: 82%**
+**PHASE-SHEAR ABORT**
 **FORMATION-INTERVENTION REVIEW ADVANCED**
 
 The second message came from a sponsor office she had never contacted.
