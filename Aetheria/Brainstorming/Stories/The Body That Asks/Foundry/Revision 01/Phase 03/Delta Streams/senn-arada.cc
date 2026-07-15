@@ -1309,4 +1309,3 @@ material_changes:
     - route call, confirmation of turn-away, silence during AFTER's response.
 source_card: ../Movement III Scene Transactions.md#chapter-69--six-entries
 ruling: accepted
-

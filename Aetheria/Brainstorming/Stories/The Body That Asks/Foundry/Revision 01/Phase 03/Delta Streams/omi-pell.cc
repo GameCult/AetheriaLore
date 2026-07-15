@@ -1367,4 +1367,3 @@ material_changes:
     - read the source, release the channel, stop talking.
 source_card: ../Movement III Scene Transactions.md#chapter-69--six-entries
 ruling: accepted
-

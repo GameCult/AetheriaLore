@@ -1279,4 +1279,3 @@ material_state_bond_goal_changes:
   - other_persona_and_aggregate_state: unchanged by this stream.
 source_card: ../Movement III Scene Transactions.md#chapter-69--six-entries
 ruling: accepted
-
