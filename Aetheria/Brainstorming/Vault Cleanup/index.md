@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 28
+
+- `Thermal Management.md` grew from 777 to 799 words because supplier history and metaphor were replaced with the missing substrate: source, collection, transport, finite buffering or active lift, rejection, three limiting margins, propagated failure, observability, and maintenance.
+- Every joule must be rejected, temporarily stored, exported with matter, or remain as rising internal energy. Pumps and temperature lift add heat; storage buys time; extraordinary emitters improve bounded interfaces without erasing transport or equilibrium constraints.
+- Heat debt now requires continued generation while net rejection is withheld. Reducing load or redirecting/exporting heat can limit debt while spending capability or emission options; quiet operation does not automatically imply a filling buffer.
+- Modeling separated company ownership and signature inference from the thermal substrate. Soul removed generalized repairability, universal dashboards and maintenance bundles, company tours, architecture catalogs, and observer-relative claims; physics, links, causal density, and the `Thermal Signature Warfare` handoff passed.
+
 ### Wave 27
 
 - `Why Zhestokost’s Heavy-Weapons Specialization Works.md` grew from 479 to 606 words because unsupported product claims were replaced with the missing causal loop: arsenal coordination, repeat production, visible thermal endurance, protected objectives, conditional PSC convertibility, and logistical failure.
