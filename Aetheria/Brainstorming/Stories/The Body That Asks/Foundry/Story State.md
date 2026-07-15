@@ -2,11 +2,11 @@
 
 ## Run
 
-- **Current pass:** Pass 14 — promotion audit complete.
-- **Mode:** Full fourteen-pass Foundry run.
+- **Current pass:** Revision 01, Phase 1 — independent diagnosis.
+- **Mode:** Post-draft Revision Council rebuild.
 - **Operator authority:** Autonomous continuation toward the complete story.
 - **Length policy:** No target or ceiling.
-- **Canonical manuscript:** [[../../../../Fiction/The Body That Asks|The Body That Asks]] in `Aetheria/Fiction/`, byte-identical to [[Pass 13/Full Manuscript|Pass 13 Full Manuscript]].
+- **Canonical manuscript:** the published baseline remains [[../../../../Fiction/The Body That Asks|The Body That Asks]] in `Aetheria/Fiction/`, byte-identical to [[Pass 13/Full Manuscript|Pass 13 Full Manuscript]], until Revision 01 promotion.
 - **Final path:** `Aetheria/Fiction/The Body That Asks.md`.
 
 ## Accepted Outputs
@@ -56,9 +56,16 @@
 
 ## Open Work
 
-- The Foundry run is complete.
-- Candidate prose remains noncanonical test evidence; the promoted Fiction manuscript governs prose.
+- [[Revision 01/index|Revision 01 — The Inhabited Year]] is active.
+- Phase 0 passed with a reconstructable baseline and unprimed manuscript-only report.
+- Phase 1 must diagnose the full baseline before the coordinator accepts a new calendar, braid, mystery half-life ledger, and chapter blueprint.
+- Meridian and AFTER deltas require a new revision branch and replay from valid entrance states. Calyx presentation coordinates require remapping even where lived deltas survive.
+- Candidate revision prose remains noncanonical; the promoted Fiction manuscript governs until final integration and promotion.
 
 ## Next Inputs
 
-No Foundry pass remains. Future manuscript changes begin a new revision run rather than silently rewriting accepted pass evidence.
+- [[Revision 01/Revision Brief|Revision Brief]]
+- [[Revision 01/Phase 00/Baseline Inventory|Baseline Inventory]]
+- [[Revision 01/Phase 00/Rebuild Authority Map|Rebuild Authority Map]]
+- [[Revision 01/Phase 00/Cold Reader Report|Cold Reader Report]]
+- independent Phase 1 specialist reports

@@ -1,6 +1,11 @@
 # The Body That Asks — Foundry State
 
-This folder owns the formal [[../../Novella Foundry/index|Novella Foundry]] run. Topical story notes remain inherited design inputs. Accepted Foundry state governs drafting, and the final manuscript will be promoted separately.
+This folder owns the formal [[../../Novella Foundry/index|Novella Foundry]] run and subsequent revision state. Topical story notes remain inherited design inputs. Accepted Foundry state governs drafting, and manuscripts are promoted separately.
+
+## Active Revision
+
+- [[Revision 01/index|Revision 01 — The Inhabited Year]] rebuilds the published baseline around a fully inhabited sophomore year.
+- The completed Pass 1–14 run remains immutable historical evidence. Its manuscript stays published until Revision 01 passes promotion.
 
 ## Authority
 
@@ -54,4 +59,4 @@ This folder owns the formal [[../../Novella Foundry/index|Novella Foundry]] run.
 
 ## Manuscript
 
-The accepted manuscript is [[../../../../Fiction/The Body That Asks|The Body That Asks]] in `Aetheria/Fiction/`, byte-identical to [[Pass 13/Full Manuscript]]. The fourteen-pass Foundry run is complete.
+The published baseline is [[../../../../Fiction/The Body That Asks|The Body That Asks]] in `Aetheria/Fiction/`, byte-identical to [[Pass 13/Full Manuscript]]. The original fourteen-pass Foundry run is complete; [[Revision 01/index|Revision 01]] is active.
