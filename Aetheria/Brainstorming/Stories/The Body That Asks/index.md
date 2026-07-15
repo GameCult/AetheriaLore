@@ -12,7 +12,7 @@
 
 ## Story Promise
 
-A century after five somatic-interface researchers used the first Concord Figure to tear through a succession of regimes, a prestigious Daedal flight academy conceals a deterrence program trying to reproduce their bond in five cadets. The Finalists discover that supposedly blank training machines contain the surviving deep consciousness of the original combined Figure. They conceal their progress, perform convincing failure, and plan escape during a public exercise. They achieve the first full Concordance in a century because the machine asks whether they still want to leave—and accepts that any one may say no.
+A century after five somatic-interface researchers used the first Concord Figure to tear through a succession of regimes, a prestigious Daedal flight academy conceals a deterrence program trying to reproduce their bond in five cadets. The Finalists discover that supposedly blank training machines contain the surviving deep consciousness of the original combined Figure. They conceal their progress until all three academy cadres are deployed into a corporate counterinsurgency disguised as a public-health rescue. They achieve the first full Concordance in a century by holding together lives, evidence, and infrastructure that their orders divide—and because the machine asks whether they still want the act and accepts that any one may say no.
 
 The destination is not five isolated people becoming one. They remain five, become capable of making a sixth body together, and learn that belonging survives refusal.
 
@@ -27,7 +27,7 @@ The reader should repeatedly receive three pleasures: institutional procedure re
 - The five hide partial Concordance while conspiring with AFTER, the embodied remainder of Calyx.
 - AFTER survives in learned strain, timing, calibration, and distributed control rather than one deletable core.
 - A necrotech branch has converted the legendary Vesper Fist's somatic soul-patterns into a functioning, centrally controlled combined Figure.
-- The public Final Fist exercise supplies armed Figures, transformation geometry, witnesses, and the escape opportunity.
+- Operation Bright Ledger deploys all three Finalist cadres into a real corporate warzone under a clean rescue brief. Full Concordance saves workers and downstream habitats; AFTER pays for it; the success immediately triggers the Necro contingency and escape.
 - A refusal during transformation improves rather than breaks the combined body.
 - Victory is escape, exposure, and continued personhood—not conquest, rule, or proof that benevolent force solves government.
 

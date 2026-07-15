@@ -10,6 +10,8 @@ Final Fist begins only after a full first year of ordinary academy observation. 
 
 The junior Plastics and senior Lifers are equally lionized institutional futures. The Plastics express custody through elite access, brutality, and glamorous operational competence. The Lifers express it through conformity, care, duty, and nihilistic practicality. Official presentation sands both into complementary leadership styles. Neither cruelty nor kindness changes sponsor ownership of deployment; the story must not mistake personal decency for structural opposition.
 
+Operation Bright Ledger must remain a dirty corporate labor action behind a clean public-health rescue brief. The owner, rival acquirer, Compact authorities, insurers, and academy each gain an administrative outcome from completing the operation after its material objective becomes pointless. Workers retain political agency and are not reduced to hostages, terrorists, or scenery for cadet moral development.
+
 Omi and Lio grew up together in Meridian's ward residence and are the only pre-existing family unit inside the assigned household. Vey raised and materially protected both of them. Lio's gratitude and Omi's suspicion are different readings of the same loving custodial relationship; neither reading cancels the other or supplies Vey's acquittal.
 
 Rhea Mott, Enna Quill, and Aru Venn recur as school-side relationship anchors. Jun Vale, Pava Neris, and Marae Dho remain lower-resolution social-body actors whose decisions still alter what the protagonists can do. They disagree for material reasons; none exists only to certify that escape is correct.
@@ -25,6 +27,9 @@ No aggregate becomes innocent merely by opposing Meridian, and no worker becomes
 - Concordance never collapses the five into one mind.
 - AFTER is a participant, not an appliance, guide, parent simulation, or authorization token.
 - The Necro Concord genuinely functions; its centralized cycle creates its tactical power and strategic ceiling.
+- Full Concordance is the exhausting, complex act that saves the plant, its workers, downstream populations, and the sterility ledger from the incompatible failures of assault and evacuation doctrine. It is not merely preparation for the Necro fight.
+- AFTER saves the Concordance by consensually extending its distributed embodiment into plant infrastructure at catastrophic cost to its memory and continuity. It does not seize crown, initiate assembly, or make the pilots' decision.
+- The Necro contingency is causally triggered by exactly three preauthorized receipts: mission deviation, full Concordance outside Kinship control, and an unauthorized machine person asserting operational standing through non-registered infrastructure. Evidence custody remains a recovery objective, not a trigger. It arrives before recovery.
 - Training, experimentation, transformation, combat, rescue, and separation obey the same local-ownership rules.
 - Refusal materially changes the climax and improves coherence.
 - Calyx produced liberation and domination pressure; neither cancels the other.

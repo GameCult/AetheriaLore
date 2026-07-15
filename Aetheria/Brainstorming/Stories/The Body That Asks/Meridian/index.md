@@ -4,7 +4,7 @@
 
 - **Provisional period:** approximately 3350–3360, about a century after Calyx
 - **Narrative direction:** forward from sophomore Finalist selection and forced household formation through investigation, hidden Concordance, and escape
-- **Continuation:** after the paired first-Concordance chapters, this timeline proceeds alone through the exercise and aftermath.
+- **Continuation:** after the paired first-Concordance chapters, this timeline proceeds alone through Operation Bright Ledger, the Necro contingency, escape, and aftermath.
 
 The present line owns the academy, Project Kinship, the current Five, Vey, Vesper's mystery, and the Necro Concord. [[../Braid]] alone owns intercut order and the structural merge.
 
@@ -18,5 +18,6 @@ The present line owns the academy, Project Kinship, the current Five, Vey, Vespe
 6. First hidden Concordance meets the oldest Calyx chapter; the historical line ends without yet giving the teenagers its suppressed political meaning.
 7. Kinship schedules AFTER's wipe and threatens recomposition. The five uncover executive exclusion, AFTER's concealed separation cost, and the historical record of transferable offices.
 8. They practice exchanging coordination offices while the Directorate forecast and Vey's lawful bargain make escape politically costly.
-9. The public Final Fist exercise becomes escape, rescue, confrontation with the Necro Concord, and preservation of the override record.
-10. The five expose Meridian without pretending exposure resolves the military or political crisis.
+9. All three Finalist cadres deploy on Operation Bright Ledger, publicly a rescue of a life-support plant from terrorists and materially a corporate labor war over contamination liability and acquisition price.
+10. Plastic threat suppression and Lifer continuity both become necessary and insufficient. The sophomores sustain full Concordance to bridge assault, evacuation, evidence, and plant survival; AFTER extends that Concordance into the plant and returns grievously diminished.
+11. The successful unauthorized Concordance triggers the Necro contingency before anyone can recover. The exhausted six survive, expose Meridian and the corporate operation, and escape without pretending exposure resolves the political crisis.
