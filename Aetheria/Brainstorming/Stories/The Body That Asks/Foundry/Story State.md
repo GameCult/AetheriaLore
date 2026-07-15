@@ -2,11 +2,11 @@
 
 ## Run
 
-- **Current pass:** Pass 12 — Movement III accepted.
+- **Current pass:** Pass 13 — whole-book revision accepted.
 - **Mode:** Full fourteen-pass Foundry run.
 - **Operator authority:** Autonomous continuation toward the complete story.
 - **Length policy:** No target or ceiling.
-- **Canonical manuscript:** Complete three-movement draft accepted inside the Foundry; whole-book revision remains.
+- **Canonical manuscript:** [[Pass 13/Full Manuscript|Full Manuscript]] accepted inside the Foundry.
 - **Final path:** `Aetheria/Fiction/The Body That Asks.md`.
 
 ## Accepted Outputs
@@ -48,13 +48,15 @@
 - [[Pass 12/Movement III Draft|Movement III manuscript]]
 - [[Pass 12/Movement III Review|Movement III Review]]
 - [[Pass 12/Pass Report|Pass 12 Report]]
+- [[Pass 13/Full Manuscript|Full Manuscript]]
+- [[Pass 13/Whole Book Review|Whole Book Review]]
+- [[Pass 13/Pass Report|Pass 13 Report]]
 
 ## Open Work
 
-- Pass 13 assembles and revises the full manuscript as one reader experience.
-- Cross-movement setup, repeated explanation, pacing, voice persistence, and the reverse Calyx braid require whole-book audit.
-- Candidate prose remains noncanonical test evidence; accepted movement drafts govern assembly.
+- Pass 14 promotes the accepted manuscript into `Aetheria/Fiction/` and audits the promoted artifact.
+- Candidate prose remains noncanonical test evidence; the Pass 13 full manuscript governs promotion.
 
 ## Next Inputs
 
-Pass 13 consumes all three accepted movements, their reviews, and the character delta streams for adversarial whole-book revision.
+Pass 14 consumes the accepted full manuscript, terminology ledger, and review findings for exact promotion and final verification.

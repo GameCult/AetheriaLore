@@ -46,7 +46,10 @@ This folder owns the formal [[../../Novella Foundry/index|Novella Foundry]] run.
 - [[Pass 12/Pass Report|Pass 12 — Movement III]]
 - [[Pass 12/Movement III Draft|Movement III manuscript]]
 - [[Pass 12/Movement III Review|Movement III Review]]
+- [[Pass 13/Pass Report|Pass 13 — Whole-Book Revision]]
+- [[Pass 13/Full Manuscript|Full Manuscript]]
+- [[Pass 13/Whole Book Review|Whole Book Review]]
 
 ## Manuscript
 
-The accepted manuscript currently exists as three movement drafts inside Passes 10–12. Pass 13 owns whole-book revision; Pass 14 will promote the mechanically identical accepted manuscript to `Aetheria/Fiction/The Body That Asks.md` after final audit.
+The accepted manuscript is [[Pass 13/Full Manuscript]]. Pass 14 will promote the mechanically identical artifact to `Aetheria/Fiction/The Body That Asks.md` after final audit.

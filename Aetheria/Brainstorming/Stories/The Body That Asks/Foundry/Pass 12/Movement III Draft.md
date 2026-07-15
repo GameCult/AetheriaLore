@@ -776,15 +776,13 @@ Anik's Lifers held the medical corridor while the exposed tender crossed. They c
 
 “Keep the corridor,” Iri said.
 
-The upper cadres remained inside their assigned obligations. Love did not turn them into an escape fleet. Doctrine did not make their work false.
+The upper cadres remained inside their assigned obligations.
 
 Necro accelerated.
 
 “Release the plant,” Senn said.
 
 The plant extension came apart around the Palisade spine. The five-component Concord remained assembled: each Figure retained local grip long enough to leave the plant mass on independent stabilizers, then the joined body withdrew into shared flight geometry. AFTER crossed with them in damaged islands.
-
-One island still knew Mara had waited before closing a coupling. The fact remained. The bodily sense of being waited for did not.
 
 Necro entered weapons range.
 
@@ -809,6 +807,8 @@ The body lurched around the missing answer.
 “Then I own commitment,” Senn said.
 
 Tem opened both unresolved futures directly to Lio. “I am not choosing one for you.”
+
+Mika had once offered futures as hazards only Mika could own. Tem released these without making Lio's action prove either account correct.
 
 “Keep them both alive,” Lio said. She took balance from their shared physical consequences without returning either as the official story.
 
@@ -954,7 +954,7 @@ The second statement said the rescue saved Palisade.
 
 Jas rejected that too.
 
-Palisade had lost the casting line. Halcyon owned contracts and certifications it could carry elsewhere. Serein retained contamination, disappearance liability, a damaged plant, and workers whose employment had depended on the thing they had occupied. Of the three worker tags that had gone dark during Vara's breach, two had been recovered alive and one line operator had died. The two security contractors at the volatile store were dead. Seventeen people had entered exposure treatment; six remained under watch when the convoy cleared.
+Palisade had lost the casting line. Halcyon owned contracts and certifications it could carry elsewhere. Serein retained contamination, disappearance liability, a damaged plant, and workers whose employment had depended on the thing they had occupied. All three worker tags that had gone dark during Vara's breach were deaths. The two security contractors at the volatile store were dead. Seventeen people had entered exposure treatment; six remained under watch when the convoy cleared.
 
 The operating certificate was suspended. Palisade closed with the liabilities still physically present.
 
@@ -962,15 +962,13 @@ The twenty-one clinic lots would reach named patients. The plant would not make 
 
 “Say what moved,” Jas told them. “Do not turn us into the grateful object of your sentence.”
 
-Tala authenticated the correction and nothing warmer. Her signature key would expire with Palisade's operating certificate. The line was closed; her next message concerned seventeen employment claims and the son of the operator who had died.
+Tala authenticated the correction and nothing warmer. Her signature key would expire with Palisade's operating certificate. The line was closed; her next message concerned seventeen employment claims and the families of the three workers who had died.
 
 They released bounded bundles.
 
 Tem published authenticated indices showing which records existed, which authority had held them, and how deletion could be detected. He did not publish clinic narratives or the sealed histories of former Finalists. Iri released only material whose subjects or elected delegates had authorized it. Worker accounts remained contradictory about occupation, production, charges, and sale. Omi published the receipt logic without claiming to know who designed the contingency. Senn published Vey's signed withdrawal beside the still-green launch chain.
 
-The public response divided before the transmission completed.
-
-Halcyon called the ledgers regulated theft and offered continuity employment at another plant. Serein called the workers armed saboteurs and the five stolen strategic assets. Three clinics authenticated lot signatures while declining the political account. Former cadets began attaching names to the cohort index. Two families demanded removal of records the household had not released. A Palisade shift collective accused the Finalists of saving evidence they could leave and people who could not.
+The public response divided before the transmission completed. Halcyon called the ledgers regulated theft and offered continuity employment elsewhere; Serein called the workers armed saboteurs and the five stolen strategic assets. Clinics authenticated lot signatures without adopting the worker account. Families contested records, former cadets attached names to the cohort index, and Tem added Mika Dene as a request for living disposition rather than a memorial claim. A Palisade shift collective accused the Finalists of saving evidence they could leave and people who could not.
 
 Vey's message arrived under his personal signing key rather than academy office.
 
@@ -981,6 +979,8 @@ Beneath it he had added one line for Omi and Lio.
 **Marae has been told you are alive. I did not tell her where you are going because I do not know.**
 
 Senn added his signed withdrawal and the still-green override path to the reserved evidence partition. The chronology of the signatures mattered: he had withdrawn first; the external chain had continued afterward.
+
+Lio saved Vey's message under family rather than evidence and sent no answer. Omi attached it to the family-status challenge Marae had already signed: proof that the academy's own headmaster did not know their destination and could not represent their return as voluntary classified service. They used the same loving sentence differently.
 
 He had lost the office from which he softened the machine. The machine retained his evidence.
 
@@ -993,6 +993,8 @@ At the end she had attached the recovery card Senn had left in the bay.
 RETURN WHEN COLLARS GREEN AND LOCAL SPEECH RESTORED.
 
 Senn read it twice and did not answer. Any reply could expose the route. The lack of a reply could become abandonment in Rhea's hands. No available choice kept the relationship clean.
+
+Anik's clinic handoff reached the public record beside Rhea's statement. He certified the seventeen treated people and twenty-one lots under worker signatures, contradicting any later claim that restored executive custody had authorized them. Vara filed the containment loss under her own name and preserved the minute in which a Plastic component, not a worker charge, held the final trigger bus. Neither message endorsed the escape. Both made their work harder to repurpose into a clean institutional story.
 
 At hour eight they cleared the bonded medical corridor before recovery closed both ends. The exposed tender passed Tem a trauma pack through a line drone. Iri directed the treatment from her own cockpit. She could see his burned side only through the channel he opened.
 
@@ -1016,7 +1018,7 @@ Orison transmitted meanwhile.
 
 The clinic could receive all five pilots. Its gantry could brace Iri's joint. It had Lio's medicine and specialist burn care for Tem. It also required surrender of the Figures to House custody, isolation of AFTER's hardware, and separate welfare interviews under disputed minor status.
 
-The offer was not a trap. The clinic was real.
+The clinic was real.
 
 They declined it.
 
@@ -1074,7 +1076,7 @@ The five did not ask AFTER to perform restoration for them. At each handshake th
 
 At hour thirty-four, Saint Varo answered their approach with a quarantine challenge written for inspection craft that no longer existed.
 
-Its registry agreed that Morrow Quay held local disposition authority and that Morrow had authorized exterior shelter. It offered pressure in two compartments, radiators below certification, and mechanical collars under manual control. It did not recognize a Finalist household as a docking class. Omi registered five damaged Figures, five pilots, and one distributed machine person as separate arrivals sharing an emergency vector.
+Its registry authenticated Morrow Quay's referral and then exercised its own dormant quarantine authority. It offered pressure in two compartments, radiators below certification, and mechanical collars under manual control. It did not recognize a Finalist household as a docking class. Omi registered five damaged Figures, five pilots, and one distributed machine person as separate arrivals sharing an emergency vector.
 
 The anchorage accepted six entries and assigned no custody relationship among them.
 
@@ -1086,11 +1088,27 @@ Tem went second. The neurological monitor caught his fall in sensor speech befor
 
 No shared body crossed the lock.
 
-Inside, Saint Varo was four rooms, a dead inspection desk, and a radiator pump whose bearing complained through the deck. Omi found ration packs six years out of date and one still-serviceable kettle. Lio lay down before gratitude could turn into labor. Senn's monitor ordered her not to stand. Iri cut Tem's scorched flight skin away only where he permitted. AFTER answered from two Figures at the outer collars, then a third, then silence, then the first two again.
+Inside, Saint Varo was four rooms, a dead inspection desk, and a radiator pump whose bearing complained through the deck. Omi found ration packs six years out of date and one still-serviceable kettle. Senn's monitor ordered her not to stand. Iri cut Tem's scorched flight skin away only where he permitted. AFTER answered from two Figures at the outer collars, then a third, then silence, then the first two again.
+
+“I tried to cross Morrow's boundary,” Senn said when all five could hear her. “I made the calculation before I made it a request.”
+
+Omi closed the kettle lid. “We know.”
+
+Nobody converted recognition into absolution. They put the attempt in the household record because pressure did not make it less diagnostic.
+
+Lio lay down before gratitude could turn into labor. When Iri finished with Tem, Lio lifted one side of the thermal sheet.
+
+“The court lights aren't going to change,” she said.
+
+Iri understood the old twenty-three-minute limit inside the request. “Until you wake?”
+
+“If you still want to be here.”
+
+Iri lay beside her without opening a monitor channel. “Yes.”
 
 They were not safe. Necro remained unlocated, recovery traffic held their earlier vectors, and the anchorage could not repair any of the damage that mattered most.
 
-They had pressure. They had stopped moving. For the first time since Palisade, nobody was spending another body to keep the room alive.
+They had pressure. They had stopped moving. For the first time since Palisade, none of the six had to accept another immediate load to keep the room alive.
 
 The public personhood claim had been propagating for seven hours when three signal headers reached Saint Varo.
 

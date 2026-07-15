@@ -2,31 +2,13 @@
 
 ## Chapter 13 — What the Inquiry Fixes
 
-**3358 — Meridian Daedal Flight Academy**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 The revised assembly protocol made them worse in public.
 
 They spent nineteen seconds naming a load transfer Rhea's Fist completed in nine. Iri froze a shoulder path without explanation. Omi refused the clean correction because it consumed reserve assigned to separation. Tem retained two sensor pictures until the observation gallery began making the particular silence reserved for technical embarrassment.
 
-Senn asked Lio to accept balance for the capture turn.
-
-“Task?” Lio said.
-
-“Whole-body braking through cargo contact.”
-
-“Return?”
-
-“When the shell is stable or your disclosed load reaches amber.”
-
-“Accepted.”
-
-The office left Senn.
-
-The first time had felt like losing a limb. This time she remained inside the body without being its answer. Lio took the tumbling shell into her drive sense and rotated the assembled Figure around Iri's held shoulder. Omi spent reserve only after the new axis made its cost legible. Tem's two pictures converged because the machine moved, not because he was ordered to choose.
-
-They caught the shell.
-
-Their score placed them third.
+Lio took crown for the capture turn and returned it when the shell stabilized. Iri's held shoulder stayed held. Omi spent reserve only after its cost became legible. Tem's two pictures converged because the body moved, not because he was ordered to choose. They caught every target and placed third.
 
 The gallery applauded anyway. The sponsor panel marked **ADAPTIVE COMMAND ELASTICITY** in Finalist gold.
 
@@ -80,7 +62,7 @@ The inquiry had made their bodies safer, their school life better, and their val
 
 ## Chapter 14 — The Receipt
 
-**3358 — Meridian Daedal Flight Academy**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 Tem knew the receipt was genuine because it was boring.
 
@@ -240,7 +222,7 @@ They attended because Meridian could break a family without cancelling class.
 
 ## Chapter 15 — The School Continues
 
-**3358 — Meridian Daedal Flight Academy**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 The morning after Tem said he believed her and did not trust her, Lio had drive lab at eight.
 
@@ -338,7 +320,7 @@ Lio did not wave. Iri did not look away.
 
 ## Chapter 16 — Three Histories Become Evidence
 
-**3358 — Meridian Daedal Flight Academy**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 Mika existed in three incompatible histories.
 
@@ -440,7 +422,7 @@ Not long enough.
 
 ## Chapter 17 — The Protective Turn
 
-**3358 — Meridian Daedal Flight Academy**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 Every Daedal pilot knew the Vesper turn.
 
@@ -520,7 +502,7 @@ Now admiration required her to refuse the architecture that made it reliable.
 
 ## Chapter 18 — A Name in the Hardware
 
-**3358 — Meridian Daedal Flight Academy**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 LOCAL RESPONSE 3 was the name of a record.
 
@@ -638,7 +620,7 @@ The bay vanished in sections. AFTER remained distributed through cold hardware, 
 
 ## Chapter 19 — Harrowglass Recorder
 
-**3358 — Meridian Daedal Flight Academy**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 AFTER remembered where Harrowglass had hidden the recorder.
 
@@ -690,7 +672,7 @@ AFTER chose again.
 
 “They knew the map they had,” Tem replied. “That is not the same as knowing every loss.”
 
-The recorder proved chosen disassembly, local refusal, transfer of crown, bounded delegation, and repeated assent. It did not prove the political pressures that led to Harrowglass. It did not make the Fivefold saints. It did not make the five cadets their return.
+The recorder proved chosen disassembly, local refusal, transfer of crown, bounded delegation, and repeated assent. It did not prove the political pressures that led to Harrowglass.
 
 Omi watched Mara wait before closing one coupling.
 
@@ -722,7 +704,7 @@ It also had a shape.
 
 ## Chapter 20 — The Missing Body
 
-**3358 — Meridian Daedal Flight Academy**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 Senn isolated AFTER because the map was incomplete.
 
@@ -858,7 +840,7 @@ This time they would not take it by cutting.
 
 ## Chapter 21 — The Terms of Repair
 
-**3358 — Meridian Daedal Flight Academy**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 AFTER's complete embodiment map occupied the household table where dinner should have been.
 
@@ -986,9 +968,41 @@ AFTER read it.
 
 Dinner had gone cold in the warming drawer. They ate separately around the map. Nobody proposed a family verdict.
 
+Lio found Iri after midnight at the component court, checking the manual cutout whose use had erased their clean comparison.
+
+“Do you still want me to leave?” Lio asked.
+
+Iri kept both hands visible on the open housing. “From the court?”
+
+“You know that isn't what I mean.”
+
+Iri did. She had withdrawn from Lio's qualifier, stopped waiting after clinic, and converted every later touch into a task narrow enough to survive disappointment.
+
+“You saw care produce danger,” Iri said. “Then you gave one adult the account that let him decide what Tem and Mika were to each other. You didn't tell Tem. You didn't tell me. I needed to know whether being close to you meant becoming material in a report you thought would save me.”
+
+Lio sat against the neighboring cradle. “I thought telling Vey was what people like him were for.”
+
+“I know.”
+
+“I thought if I admitted I was frightened, it would become my fear instead of Mika's behavior.”
+
+“It was both.”
+
+Lio looked at the cutout. “I don't know how to prove I learned anything without making you the test.”
+
+Iri closed the housing. “Then don't prove it.”
+
+She sat beside Lio, leaving enough distance that neither contact nor refusal had to become a performance.
+
+“Will you stay until the court lights change?” Lio asked.
+
+“Yes.”
+
+The answer promised twenty-three minutes. It was not a verdict on afterward.
+
 ## Chapter 22 — Vey's Bargain
 
-**3358 — Meridian Daedal Flight Academy**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 The future arrived in pieces small enough to want.
 
@@ -998,7 +1012,7 @@ None of it was fake.
 
 That was the trouble.
 
-They carried the pieces into Vey's office after afternoon formation. Before leaving the household, all six had agreed what Vey could receive: AFTER existed, used that name, claimed continuous life from Calyx, and faced destructive overhaul. AFTER could attend through the isolated slate and end the session. The five supplied a Quill-authenticated attestation that a complete map had been disclosed to independent local stores. The attestation contained no node, route, or component location.
+They carried the pieces into Vey's office after afternoon formation. Before leaving the household, all six had agreed what Vey could receive: AFTER existed, used that name, claimed continuous life from Calyx, and faced destructive overhaul. AFTER could attend through the isolated slate and end the session. AFTER asserted that the disclosed map was complete. The five attested independent receipt, and Quill authenticated that all five local stores held matching copies. The attestation contained no node, route, or component location.
 
 Vey had warned them what he could not prevent. The contact session would create a welfare record under his authority. Its contents could remain bounded; its existence could be requested by security or custody. AFTER had answered:
 
@@ -1188,7 +1202,7 @@ They agreed only that nobody would be erased or reassigned tomorrow.
 
 ## Chapter 23 — Orders for Bright Ledger
 
-**3358 — Meridian Daedal Flight Academy**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 Senn signed nothing before breakfast.
 
@@ -1290,47 +1304,11 @@ The component court smelled of sterilizer and hot radiators when the five descen
 
 “Already tried. It lacked charm.”
 
-They practiced offices cold-docked first.
+They practiced only the exchanges most likely to fail under damage. Tem took propulsion vectoring without receiving local drive reflexes. Lio took crown for damaged balance while Senn borrowed rescue triage and had to return a route when Iri caught her carrying it past expiry. Omi ran separation without crown; AFTER supplied uncertainty, and five local releases arrived at five different times.
 
-Senn opened crown for whole-body balance and gave Tem the propulsion-vector office. He received route commitments, current mass, thermal limits, and expiry. He did not receive Omi's local vernier knowledge or Lio's drive tolerance.
+The first two runs failed. The third separated cleanly.
 
-“Vector office held,” Tem said. “Two accounts retained.”
-
-Senn introduced a simulated collar refusal.
-
-Tem nominated the slower route and returned the office at the named boundary. Omi complained that the slower route spent his reserve. Tem agreed without changing the account.
-
-They reset.
-
-Lio received crown for damaged-drive balance while Senn took rescue triage from Iri's task packet. Iri supplied patient order, disconnect limits, and the observations that changed touch. Senn did not receive Iri's hands, tolerance, or authority over a local stop.
-
-The first run failed when Senn tried to carry three rescue priorities without returning one.
-
-“You are hoarding casualties,” Iri said.
-
-“That sentence is medically unhelpful.”
-
-“Return the second route.”
-
-Senn did. Lio balanced around the changed load and yielded crown when local speech returned.
-
-On the third run, Omi owned separation without taking crown. Senn stabilized the whole and could not cancel a pilot's release. AFTER supplied the shared map but not the release decision. Five local indicators went green at five different times.
-
-They separated cleanly.
-
-Lio opened her flight skin at the left cooling interface. “Can you check this before inspection?”
-
-Iri looked at the seal rather than the pain map. “Departure fit only. I am not taking your field limit.”
-
-“Departure fit is what I asked.”
-
-One fold of lining pressed across the augmentation edge. Iri showed it to her before touching it. Lio nodded. Iri reseated the seal and gave the tool back instead of keeping it for the next adjustment.
-
-“Available now,” Iri said.
-
-“Held,” Lio answered.
-
-Quill stopped the clock.
+Before Quill stopped the clock, Lio asked Iri to check one fold pressing across her cooling interface. Iri showed her the fault, waited, reseated the seal, and returned the tool.
 
 “Good enough to reveal a new category of mistake,” she said.
 

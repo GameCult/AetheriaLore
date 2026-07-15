@@ -144,7 +144,7 @@ The machine had become small enough to hold.
 
 ## Chapter 2 — Finalist Dinner
 
-**3358 — Meridian Flight Academy, Meridian Route**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 Omi's trunk had arrived before he had.
 
@@ -416,7 +416,7 @@ The assembly accepted the counterterm. It did not accept them.
 
 ## Chapter 4 — Eighty-Two Percent
 
-**3358 — Meridian Flight Academy, Meridian Route**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 The assembly cradle had no center.
 
@@ -684,7 +684,7 @@ The first patrol craft fired too late. Sol caught the drive load despite his ref
 
 The shield controls rejected every public command.
 
-A relay controller answered once. “Equatorial lock remains. Armed personnel have entered the control vault. Opening that segment can carry a refinery flashover into the inhabited ring.”
+Iven Sar, Nacre's pressure-safety controller, answered once and attached the signed containment rule that made the decision theirs. “Equatorial lock remains. Armed personnel have entered the control vault. Opening that segment can carry a refinery flashover into the inhabited ring.”
 
 Eda used the invoice channel.
 
@@ -796,7 +796,7 @@ On the public channel, three more governments requested intervention.
 
 ## Chapter 6 — The Occupied Spindle
 
-**3358 — Meridian Flight Academy, Meridian Route**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 The maintenance spindle smelled of hot insulation, broth, and somebody's socks.
 
@@ -1084,7 +1084,7 @@ For once, he left the uncertainty open.
 
 ## Chapter 8 — Safety Inquiry
 
-**3358 — Meridian Flight Academy, Meridian Route**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 Vey served citrus at the safety inquiry.
 
@@ -1456,7 +1456,7 @@ Sol read the phrase, then added the failed whole-transfer telemetry to the same 
 
 ## Chapter 10 — May I Answer?
 
-**3358 — Meridian Flight Academy, Meridian Route**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 The thing in the lattice learned bad timing from Tem.
 
@@ -1800,7 +1800,7 @@ For the first time, not knowing did not require her to decide alone.
 
 ## Chapter 12 — The No That Moves
 
-**3358 — Meridian Flight Academy, Meridian Route**
+**3358 — Meridian Daedal Flight Academy, Meridian Route**
 
 The shadow lane existed because radiators lied to range control.
 
