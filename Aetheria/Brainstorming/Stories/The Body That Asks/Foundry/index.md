@@ -22,6 +22,8 @@ This folder owns the formal [[../../Novella Foundry/index|Novella Foundry]] run.
 - [[Relationship Matrix]]
 - [[Pass 03/Pass Report|Pass 3 — Material Baseline]]
 - [[Material Ledger]]
+- [[Pass 04/Pass Report|Pass 4 — Causal Laboratory]]
+- [[Causal Model]]
 
 ## Manuscript
 
