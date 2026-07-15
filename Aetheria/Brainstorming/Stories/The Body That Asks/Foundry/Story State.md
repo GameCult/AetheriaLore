@@ -2,11 +2,11 @@
 
 ## Run
 
-- **Current pass:** Pass 10 — Movement I accepted.
+- **Current pass:** Pass 11 — Movement II accepted.
 - **Mode:** Full fourteen-pass Foundry run.
 - **Operator authority:** Autonomous continuation toward the complete story.
 - **Length policy:** No target or ceiling.
-- **Canonical manuscript:** Accepted through Movement I inside the Foundry.
+- **Canonical manuscript:** Accepted through Movement II inside the Foundry.
 - **Final path:** `Aetheria/Fiction/The Body That Asks.md`.
 
 ## Accepted Outputs
@@ -42,13 +42,16 @@
 - [[Pass 10/Movement I Draft|Movement I manuscript]]
 - [[Pass 10/Movement I Review|Movement I Review]]
 - [[Pass 10/Pass Report|Pass 10 Report]]
+- [[Pass 11/Movement II Draft|Movement II manuscript]]
+- [[Pass 11/Movement II Review|Movement II Review]]
+- [[Pass 11/Pass Report|Pass 11 Report]]
 
 ## Open Work
 
-- Pass 11 drafts Movement II from the accepted Meridian M6 exit state and AFTER's continuous post-contact state.
-- Movement II must preserve school-life pleasure while each discovery narrows exit and damages the trust escape requires.
+- Pass 12 drafts Movement III from the bounded Bright Ledger assent, complete shared map, practiced offices, and unresolved relationships.
+- Full Concordance must save the plant before Necro answers, and there is no recovery interval between those acts.
 - Candidate prose remains noncanonical test evidence.
 
 ## Next Inputs
 
-Pass 11 consumes the accepted Movement I exit state, chapters 13–23 of the architecture, and their scene cards to draft Movement II.
+Pass 12 consumes both accepted movements, the Movement III operation cards, and the material clocks to draft Bright Ledger, Necro, escape, and temporary shelter.
