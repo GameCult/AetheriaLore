@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 27
+
+- `Why Zhestokost’s Heavy-Weapons Specialization Works.md` grew from 479 to 606 words because unsupported product claims were replaced with the missing causal loop: arsenal coordination, repeat production, visible thermal endurance, protected objectives, conditional PSC convertibility, and logistical failure.
+- Zhestokost's advantage now comes from aligning foundries, stockpiles, ammunition, transport, maintenance, training, and command around heavy, repairable force rather than a unique weapon or uploaded-leader psychology.
+- Named permit templates, automatic premium discounts, compliance proof, preferred-contractor status, the NiteLife pact, proxy portfolios, Moneta reserves, and universal equipment standards were cut. PSC recognition remains jurisdictional, evidence-dependent, and contestable.
+- Clueless/Loremaster established that *The Burden of Proof* supports the physical viability and cost of a hot ballistic posture but proves no Zhestokost practice or PSC product. Soul passed faction ownership, thermal tradeoffs, capture boundaries, counterplay, links, and causal density.
+
 ### Wave 26
 
 - `Combat Doctrine.md` fell from 1,514 to 852 words. It now owns force employment as a decision grammar: protected objective, incomplete evidence, staged commitment, divided authority, abort thresholds, sustainment, withdrawal, capture, and inspectable residue.
