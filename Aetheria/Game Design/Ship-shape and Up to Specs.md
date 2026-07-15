@@ -1,53 +1,78 @@
+---
+title: Ship-shape and Up to Specs
+description: "Design-lineage assembly specification for ship identity, material refit, durable condition, and bounded operating authority."
+---
+
 # Ship-shape and Up to Specs
 
+> **Status: design-lineage assembly specification.** This note defines a ship-building and refit contract. It does not establish current implementation, setting canon, or a promised equipment catalogue.
+
 <figure class="aetheria-media-card">
-  <img src="../media/aetheria/longinus.png" alt="Aetheria ship customization artwork." />
+  <img src="../media/aetheria/longinus.png" alt="Historical Aetheria prototype artwork showing a customized ship." />
+  <p>Historical prototype art. The depicted hull and fittings are not canonical or evidence of a current customization interface.</p>
 </figure>
 
-Ships in Aetheria are tools, homes, status symbols, and compressed ideological arguments with engines attached.
-
-Customization goes deep: components with distinct behavior, megacorporate manufacturers with their own priorities and specialties, and plenty of room to tune a vessel for violence, trade, survival, logistics, or prestige. The point is not only personal expression. It is to make every ship feel like a material compromise between who built it, who owns it, what it must survive, and what sort of life it is expected to enforce.
+Ships are tools, homes, workplaces, and material arguments. Customization matters when it changes which pressures a vessel survives and which dependencies it accepts.
 
 <figure class="aetheria-media-card is-portrait">
-  <img src="../media/aetheria/adrasteia-ship.png" alt="Adrasteia ship render against a blue nebula field." />
-  <p>A later Adrasteia ship render from the prototype era, with the material model more fully resolved: sharp, luxurious, predatory, and far too pleased with itself. Correct energy.</p>
+  <img src="../media/aetheria/adrasteia-ship.png" alt="Historical Adrasteia prototype render against a blue nebular field." />
+  <p>Historical prototype render. Its visual identity remains useful design evidence; its materials, configuration, and surrounding environment are not current canon or implementation proof.</p>
 </figure>
 
-## Mechanical Identity
+## Ship Identity
 
-The active implementation treats ships as entities built from hulls, equipped items, behaviors, cargo bays, docking bays, heat maps, durability, visibility, faction relationships, and weapon groups. That is the correct disease. Keep it.
+A durable ship record should join several facts without pretending they are interchangeable:
 
-A ship build should express:
+- a stable **ship or body key** for the continuing material vessel;
+- the current hull body and its structural condition;
+- installed item-instance references and their fitted locations;
+- configuration, control, calibration, and software state;
+- accumulated damage, repair, replacement, and calibration history;
+- the maintenance network able to keep the assembly working.
 
-- hull shape and hardpoint layout
-- power generation and storage
-- heat production, routing, buffering, and radiation
-- weapon timing, range, and damage profile
-- shield behavior and vulnerability windows
-- cargo and docking capacity
-- sensor range, visibility, and stealth tradeoffs
-- manufacturer doctrine and material quality
+Ordinary refit preserves continuity through changed components. Replacing a radiator differs from rebuilding a destroyed hull around a registry entry. At that boundary, the scenario must distinguish the same body, a legal successor, a reconstructed design, and crew recognition.
 
-## Design Consequence
+## Distinct Authorities
 
-Aetheria's best ship customization is not "more slots means more better." It is choosing what kind of trouble the vessel is allowed to survive. A combat ship can become logistically useless. A trader can become a slow coffin. A stealth build can win one encounter and then cook itself in silence. A luxury hull can be exquisite right up until it discovers what cheap repair infrastructure thinks of exquisite people.
+Several identifiers and relationships may disagree:
 
-## Link To Economy
+- **entity key:** the simulation identity used to address current state;
+- **hull body:** the physical structure carrying equipment, damage, and occupants;
+- **registry identity:** the name, serial, jurisdictional record, and certified configuration recognized by a gate;
+- **possessor:** whoever physically controls access to the vessel;
+- **operator:** whoever has authority to issue current movement or system commands;
+- **title holder:** whoever a receiving office currently recognizes as owning a legal interest in the hull.
 
-Ships should carry production history. Blueprints, component quality, commodity inputs, corporate standards, and maintenance access should affect performance. A cheap gun, a premium radiator, a copied hull plan, and a black-market reactor all belong to the same argument: every advantage came from somewhere, and somewhere usually wants payment.
+Possession does not prove title; title does not grant competent operation. Registry cannot erase an embodied occupant, lien, rescue limitation, or disputed evidence. Interfaces must name the authority behind a command instead of reducing these relationships to `owned`.
 
-## Planned Item Families
+## Assembly And Tradeoffs
 
-The planning docs define a broad ship equipment grammar: hulls, weapons, shields, coolers, reactors, thrusters, warp thrusters, sensors, heatsinks, AI cores, jammers, ship scanners, planet scanners, anchors, mining tools, and cargo infrastructure. The final list can change, but the shared attribute layer is still valuable: mass, size, draw, tech level, rarity, thermal conductivity, specific heat, performance curves, ruggedness, and durability.
+A build makes geometry, compatibility, mass, power, heat, propulsion, sensors, weapons, cargo, durability, and maintenance interact. Capacity consumes margin elsewhere: stealth may owe a dangerous heat dump; combat may erase profitable cargo; premium assemblies may require inaccessible calibration or parts.
 
-That common attribute layer is what lets equipment belong to one simulation instead of becoming a zoo of unrelated exceptions.
+Production and repair history remain relevant because nominally equivalent components can arrive with different condition, quality, provenance, compatibility, and support. The player should be able to inspect those facts before committing a refit and see which claims are missing or contested.
 
-## Munition Hulls
+## Refit Commit
 
-Loitering munitions should use that same grammar once they become more than simple missiles. The current implementation can treat ordinary guided weapons as projectile effects, but the setting's real loitering munition is a small built entity: an alternate hull type with its own hardpoints, heat budget, thrusters, sensors, autonomy, warhead, telemetry, signature masking, and self-neutralization behavior.
+A refit is one durable operation, not a visual slot change followed by later reconciliation:
 
-The launcher should own storage, arming, launch signature, reload logistics, and command interface. The munition hull should own flight, loitering, sensing, masking, heat, target confirmation, terminal commitment, abort behavior, and whether it can be recovered as salvage or evidence. That split keeps the weapon from becoming a pile of special flags. A cold Cryonix loiterer, a pirate remora, a PSC-compliant witness package, and a Zhestokost assault munition can all be different loadouts on the same small-hull architecture.
+1. identify the ship body and proposed item instances;
+2. inspect possession, use and alteration authority, title, liens, licenses, expressed consent or refusal, and adverse claims without treating any one as proof of the others;
+3. validate geometry, hardpoint, power, thermal, control, and scenario constraints;
+4. reserve labor, tools, facilities, time, and consumables;
+5. remove and transfer old items without deleting their histories;
+6. install and calibrate the accepted configuration;
+7. commit the resulting installed state through the durable ship owner and issue a receipt or partial-work record.
 
-The same architecture should also blur "drone" and "munition." A PDC drone, spotter, relay, beacon, illuminator, mine, Remora, or loitering package is a role produced by components and current orders, not a sealed item category. If the hull has sensors, thrust, cognition, telemetry, and a point-defense weapon, it can defend the carrier, hunt enemy drones, force reveals, or spend itself to ruin an incoming munition's terminal geometry. That is one example of a broader rule: a capability that usually reads as support or defense can become the matchup plan when it attacks the opponent's shortest clock. Build surface first; battlefield role second.
+The inventory owner authorizes item transfer. Compatibility validation decides whether the assembly can work. Neither grants lawful alteration or clean title. An illicit physical refit remains illicit and carries its claims forward. The durable ship-state owner commits the fitted result.
 
-This also preserves the playable promise of shipbuilding at smaller scale. The player is not merely buying "missile, better." They are choosing what kind of unanswered question to release into the battlespace.
+A receipt records the before and after assembly states, item transfers, consumed work, authority used, unfinished work, and recovery path. Failure remains material and inspectable rather than disappearing into a corrected configuration.
+
+## Embodied Ship Minds
+
+For an embodied ship mind, refit may be treatment, ordinary maintenance, restraint, evidence preservation, or injury. [[Worldbuilding/Post-Elysium/Concepts/Ship Mind Custody|Ship Mind Custody]] owns that bounded dispute. This note creates no universal consent law and no generic custody owner. The mind's expressed consent or refusal, medical need, emergency authority, crew safety, title, maintenance access, and command claims remain separately recorded. Possession, title, rescue, or repair access cannot silently authorize sale, disassembly, confinement, copying, destructive removal, command reassignment, or overwrite of the embodied mind.
+
+## Smallest Proof
+
+Use one persistent hull and two viable builds. The first favors cargo and cooling; the second sacrifices both for weapons or acceleration. The player inspects component history and compatibility, commits one refit, takes damage during a short encounter, repairs selectively, then returns to the other build.
+
+The proof succeeds when the hull retains identity, damage and repair history survive both configurations, removed items remain accounted for, invalid fits fail before commit, and the player can explain how each build changed risk. It requires no broad catalogue, manufacturing game, or canonical class.

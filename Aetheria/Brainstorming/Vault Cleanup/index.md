@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 23
+
+- Four material-economy notes grew from 2,574 to 3,349 words because missing authority replaced catalogs: blueprint, permission, production commitment, item instance, inventory possession, ship assembly, title, custody, consent, and claim now remain separate state.
+- `Economy and Production.md` owns contestable provenance and material production; `Ship-shape and Up to Specs.md` owns installed assembly and refit receipts; `Progression, Claims, and Consequence.md` owns evidence-bearing claims and receiving-gate decisions.
+- Recovery, towing, cooling, repair, possession, and inventory transfer no longer manufacture title or permission to sell, strip, copy, confine, alter, or disassemble. Candidate ship minds preserve expressed consent/refusal and competing medical, emergency, title, lien, and maintenance claims without inventing a singular custody owner.
+- `Colonies and Population.md` replaced psychometric population control with plural households, services, representation, refusal, coercion, migration, care burdens, destination rights, and exit. Soul verified provenance uncertainty, refit failure, claim evidence, asset status, frontmatter, links, and population agency.
+
 ### Wave 22
 
 - Five space/readability notes now form one information chain: navigation forecasts a route, local gravity visualization exposes motion, heat and sensors produce evidence, and visual/audio presentation preserves confidence through player commitment.

@@ -1,85 +1,74 @@
+---
+title: Economy and Production
+description: "Design-lineage specification for obligations, production commitments, item provenance, markets, inventory possession, and maintenance records."
+---
+
 # Economy and Production
 
-Aetheria's economy is not a vendor table with lore wallpaper. It is the main pressure system. The world should make the player feel that every weapon, hull, route, station, repair, and contract came from somewhere, passed through someone's control, and left someone else with the risk.
+> **Status: design-lineage economy and production specification.** This note defines shared economic objects and player-facing production pressure. Surviving code and older planning documents are evidence, not current implementation or authority.
 
-## Commodities And Cargo
+Aetheria's economy should expose how an object came to exist, who committed resources, its condition, and the claims following it. Production is a sequence of obligations whose records survive transfer.
 
-The active implementation already contains simple and compound commodity categories, cargo bays, cargo transfer, docking bays, trade UI, inventory UI, and item storage geometry. That points toward an economy where goods are physical enough to matter. Cargo is not just a number. It occupies volume, constrains ship design, invites theft, and turns travel into exposure.
+## Causal Chain
 
-Cargo should also have thermal capture properties. The same pirate tactic that cleanly seizes ore or hardened components destroys volatiles, batteries, wetware, seed stock, uploads, precision optics, luxury organics, and fragile medical freight. This gives every manifest a defensive meaning, not just a resale price.
+The minimum production chain is:
 
-Thermal fragility creates market play:
+1. **Obligation:** a contract, allocation, repair need, public order, or emergency creates demand. It names an issuer, result, schedule, acceptance terms, and known consequences of failure.
+2. **Blueprint and revision:** a technical design identifies required interfaces, tolerances, production steps, and acceptable inputs. A revision is not an object, patent, license, or promise that any facility can build it.
+3. **Scoped permission:** a license, owner authorization, public-domain status, emergency power, or disputed claim may permit use. Permission has an issuer, scope, jurisdiction, duration, and exceptions. Technical access does not create legal permission; permission does not create competence.
+4. **Production commitment:** a producer reserves a facility, labor under a named agreement, actual input lots, permitted substitutions, process, quality checks, and schedule. Commitment makes opportunity cost and responsibility visible before completion.
+5. **Item instance:** production emits a particular object whose past events are not rewritten. Its provenance record carries claimed blueprint revision, producer, facility, input lots, substitutions, process, completion time, and permissions; those claims may be incomplete, forged, or contested. Condition and location change through later records.
+6. **Inventory record:** an inventory records who or what presently possesses the instance, where it is stored, and which access controls govern it. Possession and access are not clean title, custody, consent, or unrestricted authority to use, alter, reproduce, or sell.
+7. **Maintenance action:** inspection, service, repair, refit, cannibalization, or modification consumes time, labor, tools, parts, and authority. It changes condition and adds a record. Maintaining an instance does not grant reproduction rights or erase prior claims.
 
-- merchants advertise fragile cargo, sometimes truthfully and sometimes as deterrence;
-- pirates scan cargo bays, coolant topology, and temperature history before committing to a heat squeeze;
-- insurers reward authenticated pod corridors, tamper-proof temperature logs, and anti-capture thermal coupling;
-- stations discount or reject recovered goods with suspicious thermal exposure;
-- smugglers hide rugged contraband behind cold-chain manifests or hide fragile contraband inside hardened decoys.
+Their separation is the invariant. A blueprint must not become stock; an order must not consume imaginary inputs; a transfer must not rewrite provenance; repair must not replace history with a fresh default.
 
-The result is an economy where cargo identity changes combat behavior. A valuable shipment is not always a good target. Sometimes the safest way to steal it is not to fire.
+## Player Evidence
 
-## Blueprints And Quality
+Players should make economic decisions from records rather than omniscient truth. A contract, market listing, inventory entry, inspection, or production report should expose, where relevant:
 
-Blueprints define ingredients for craftable items, and ingredients can influence performance stats. That is a quietly excellent foundation. It means production can carry history: a weapon's quality can reflect material choice, manufacturing chain, supplier competence, and corporate doctrine instead of appearing fully formed from the sacred vending fog.
+- issuer or reporting source;
+- observation or record time;
+- object, lot, facility, or obligation referenced;
+- known gaps and substitutions;
+- confidence or verification state;
+- adverse claims and restrictions;
+- facts that remain unknown.
 
-`Profits Rising` adds production tradeoffs directly: every piece of infrastructure can choose between speed and quality, while cost depends on ingredient spending. Fast, cheap, good. Pick your poison and then advertise it as innovation.
+Records may disagree. A seller may assert licensed origin while serial history conflicts. A station may record possession while a creditor asserts title. A maintenance log may confirm safe operation without proving permission to alter. Interfaces must preserve those distinctions.
 
-Blueprints should be recursive. A finished item can require raw materials,
-crafted assemblies, and subassemblies which are themselves instances of their
-own blueprints. This continues down to raw materials. The useful unit is not
-only "laser cannon" or "reactor," but the focusing lattice, capacitor bank,
-coolant collar, actuator cluster, regulator, firmware core, casing, feed
-assembly, and every other part whose material history can matter.
+Provenance can affect compatibility, failure, service, warranty, inspection, market access, and institutional acceptance. It must not become decorative lore attached after price and performance are decided.
 
-Two different finished blueprints can share one assembly. A pirate laser and a
-player's laser may have different completed item blueprints while both depend
-on the same capacitor bank or focusing lattice family. Salvage therefore is not
-generic loot paste. Tearing down a wreck can recover compatible assemblies that
-may be installed into another item, consumed by a repair, or used as a pattern
-source for fabrication when the local station has the required tools and
-inputs.
+## Markets And Contracts
 
-This gives upgrades a material path:
+Markets match offers, needs, capacity, and access under unequal conditions. Terms include quantity, delivery, deadline, inspection, payment security, substitution, liability, service, and recognized claimant. Scarcity may mean high price, no lawful supplier, longer routes, bad evidence, predatory credit, or refusal.
 
-1. A player owns or fields an item with a known assembly graph.
-2. An enemy, station stock item, or recovered wreck contains one or more
-   compatible assemblies.
-3. Salvage, teardown, or inspection identifies the assembly, its quality, its
-   provenance, and any unusual technology hooks.
-4. The player can swap that assembly into their own item if the interface,
-   size, hardpoint, thermal, firmware, legal, and maintenance constraints are
-   satisfied.
-5. The finished item's performance changes according to the upgraded
-   assembly's quality and stat-scaling hooks.
+A trade commit moves only the possession, access, funds, obligations, or records authorized by their named owners. A successful interface action does not certify clean title. The buyer may receive the object together with a lien, disputed salvage history, export restriction, warranty exclusion, custody problem, or obligation to present it for inspection. The seller cannot transfer authority they do not hold merely because the market accepted a button press.
 
-Quality is not just a single item-level number. Assemblies can carry different
-quality, manufacturer doctrine, material inputs, thermal behavior, durability,
-failure modes, legality, firmware assumptions, and performance hooks. A higher
-quality enemy assembly might make a player's weapon more efficient, more
-fragile, colder, louder, more accurate, easier to maintain, harder to repair at
-cheap stations, or better at a stat the original manufacturer did not optimize.
-That is the good filth: every improvement has ancestry.
+Contracts remain active after agreement. Production can run late, inputs fail inspection, substitutions require consent, and acceptance be contested. Settlement identifies delivery, accepted evidence, remaining obligations, and the receiving authority.
 
-Owning a finished component can also act as a practical pattern right. If a
-pilot brings a strange laser, the crew does not need to rediscover the whole
-technology just to maintain that exact assembly family during a run. They still
-need materials, fabrication access, time, and compatible parts, but the owned
-component supplies enough shape knowledge to repair, reproduce, or improve its
-known assemblies when the economy supports it. This is not universal research
-mastery. It is maintenance and fabrication access to a concrete object lineage.
+## Maintenance And Material Consequence
 
-## Performance As Material History
+Wear, damage, contamination, missing records, obsolete interfaces, and substitutions change safe use and service access. Maintenance preserves reliability and evidence; deferral preserves liquidity by spending future options.
 
-The codebase's `PerformanceStat` model connects item performance to durability, temperature, and crafting quality. This is exactly the kind of mechanic Aetheria should protect. It ties engineering, combat, economics, and maintenance together. A cheap reactor should not merely have smaller numbers. It should fail differently, run hotter, wear harder, and make its owner's options narrower.
+Maintenance also creates economic relationships. A pilot may possess a component but lack tools, parts, documentation, labor agreement, port access, or authority to service it. For an embodied ship mind, alteration may be treatment or injury. No generic custody owner decides that boundary. The mind's expressed consent or refusal and any medical, emergency, title, or maintenance authorities remain separate explicit claims. Hull possession or access is insufficient.
 
-## Markets And Leverage
+## Smallest Coherent Proof
 
-Markets should express power. Prices, availability, quality, legal access, docking permission, route safety, and repair capacity are all ways factions exert control. A poor pilot does not just pay more. They get pushed toward worse risks and worse obligations.
+A minimum proof needs one obligation, two revisions, one constrained facility, two distinct input lots, one labor or schedule tradeoff, one produced instance, and one user. The player commits production, inspects the record, transfers possession, then responds to a condition or claim problem.
 
-The strategy GDD models local demand, station stock, active transfers, arbitrage, independent traders, and prices that respond to supply and demand rather than allowing infinite profit loops. Independent traders explore, collect market data, then calculate profitable cyclic paths. That is exactly the kind of background activity that can make a galaxy feel economically alive without requiring every hauler to be hand-authored.
+The proof succeeds when the player can explain:
 
-## Production Doctrine
+- which obligation justified production;
+- which inputs and substitutions entered the instance;
+- who authorized each commitment;
+- what the inventory transfer changed and did not change;
+- why condition, provenance, or an adverse claim altered the next decision.
 
-Different corporations should produce different kinds of compromise. [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Zhestokost|Zhestokost]] favors rugged force and controlled deprivation. [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Aeronautics Unlimited|Aeronautics Unlimited]] favors frontier expansion and scalable logistics. [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Cryonix|Cryonix]] makes thermal margins political. [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Finch Cybernetics|Finch]] turns care and enhancement into dependency.
+Player economic failure may include missed delivery, rejected goods, unsafe substitution, lost access, damaged trust, debt, or an obligation that costs more to honor than to breach.
 
-The economy layer should make those identities playable through supply chains, item behavior, market access, and maintenance expectations.
+The model fails when goods appear without commitments, provenance is rewritten during transfer, the market manufactures title, maintenance resets condition, or a dashboard presents an institutional claim as physical truth.
+
+## Handoffs
+
+[[Corporate Strategy Layer]] chooses allocations and production commitments within its constitution. [[Colonies and Population]] owns population-scale pressure and representation; production consumes labor only through explicit agreements and authority. [[Ship-shape and Up to Specs]] owns how item instances are assembled into a working ship. [[Progression, Claims, and Consequence]] owns playable disputes over possession, claims, and recognized consequence. Setting owners determine actual institutions, laws, technologies, and faction practices.
