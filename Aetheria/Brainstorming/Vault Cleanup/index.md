@@ -44,6 +44,13 @@ Brevity is an invariant. Every paragraph must own a necessary claim. Every claim
 
 ## Verification Ledger
 
+### Wave 25
+
+- `Bloom.md` and `Bloom Habitat Anatomy.md` fell from 2,416 to 1,752 words. Bloom now owns source-body conversion, commissioning readiness, research lineage, deployment, and political economy; Anatomy owns mature spatial grammar, flows, access, and failure propagation.
+- The anatomy no longer presents a noun table as topology. Frame transfer remains a constraint without canonizing a universal hub, spoke, radiator, scale, or rotation arrangement; provisional Kappa, TCS-grade, quantitative, and story-layout research remains in brainstorming.
+- Commissioning requires structural, pressure, thermal, evacuation, isolation, and maintenance readiness without inventing a universal certifier or record schema. Ramp operating control and outside certification pressure remain separate authorities.
+- Clueless/Loremaster pressure recorded unresolved certification, governance handoff, repair authority, scale, build-time, and capacity questions rather than filling them. Soul removed premature hub certainty, unsupported AU allocation, duplicate failure catalogs, fictional offices, and false event sequencing; continuity, links, causal density, and direct-entry comprehension passed.
+
 ### Wave 24
 
 - Five game-design notes fell from 2,629 to 1,982 words. The index remains the public status owner; Terminus and Call of the Void are historical proposals rather than release targets, while Cat, her cases, and Terminus geography remain developmental.

@@ -1,75 +1,66 @@
 # Bloom Habitat Anatomy
 
-A mature [[Bloom]] is a rotating manufactured habitat whose pressure shell, shielding, civic interior, utilities, and transport system form one engineered body. Bloom construction produces a recurring spatial grammar: apparent gravity, essential flows, access, and fault propagation.
-
-Their common anatomy follows shared constraints rather than a universal floor plan.
+A mature [[Bloom]] is a rotating manufactured habitat whose pressure shell, shielding, civic interior, utilities, and transport form one engineered body. Blooms share a grammar of apparent gravity, essential flows, access, and fault propagation rather than a universal floor plan.
 
 ## Physical Model
 
-The inhabited shell rotates around a long axis. Apparent gravity is strongest at the high-radius inner surface and weakens toward the axis. Homes, streets, farms, and gravity-dependent industry therefore favor the inner surface, while docking, traffic control, low-gravity work, and transfers cluster near the axis.
+The inhabited shell rotates around a long axis. Apparent gravity is strongest at the high-radius inner surface and weakens toward the axis. Homes, streets, farms, and gravity-dependent industry favor the inner surface. Docking, traffic control, low-gravity work, and transfers favor near-axis space.
 
-A mature Bloom usually combines a rotating inhabited shell with a despun or partly despun axial hub. Spokes carry people, cargo, power, data, and other services between them. Bearings, transfer collars, rotary interfaces, and pressure locks mediate the change of frame. These interfaces are expensive, failure-sensitive, and difficult to duplicate, so access to them becomes both logistical advantage and political power.
+A Bloom must mediate between its rotating habitat and ships or external systems that do not share that frame. Designs may use despun or partly despun hubs, rotating hubs with separate docking collars, or other transfer arrangements; the setting has no universal topology.
 
-| Direction | Meaning |
-| --- | --- |
-| **Inward** | Toward the open interior and axis; upward from the inhabited surface under spin gravity. |
-| **Outward** | Through the inhabited surface toward utilities, structure, shielding, and exterior space; downward under spin gravity. |
-| **Spinward / counterspinward** | Around the shell with or against its rotation. |
-| **Axial** | Along the cylinder's long axis. Local usage distinguishes the docking-hub direction from the opposite end. |
+Where used, spokes connect axial and rotating systems. They may carry people, freight, power, data, and selected utilities through frame-transfer machinery and pressure locks. Anything crossing between frames requires scarce interface capacity that must be inspected, maintained, and isolated when it fails.
 
-Endcaps and near-axis spaces do not behave like ordinary ground. Gravity weakens and changes orientation relative to surfaces there. They suit machinery, storage, transfer work, and adapted or short-term habitation.
+**Inward** leads toward the axis, **outward** toward the inhabited surface and shell, **spinward** or **counterspinward** around the shell, and **axial** along its long axis.
 
-## Five Functional Layers
+Endcaps and near-axis spaces do not behave like ordinary ground. Gravity weakens and changes orientation there, making them useful for machinery, storage, transfers, and adapted or short-term habitation.
 
-The layers below describe functions, not rigid architectural bands. A particular Bloom may combine them, repeat them, or route one around another.
+## Arrival And Distribution
 
-| Layer | Function and major flows | Normal access | Characteristic failure |
-| --- | --- | --- | --- |
-| **Axial hub** | Receives ships, people, cargo, volatiles, replacement parts, and external data. It supports docking, quarantine, traffic control, and storage near a relatively stable frame. | Dock crews, traffic staff, customs, medical screeners, cargo handlers, travelers. | Dock collision, contaminated intake, traffic paralysis, or loss of a major route into the habitat. |
-| **Spokes and transfer interfaces** | Move passengers, freight, power, data, and selected utilities between axial and rotating systems. | Transit crews, utility technicians, freight operators, authorized passengers. | A jammed transfer, failed rotary connection, or isolation event cuts districts off from supplies and evacuation. |
-| **Civic inner surface** | Holds most housing, public space, agriculture, commerce, and gravity-dependent work inside the common atmosphere. | Residents, local workers, public services. | Fire, crowding, crop loss, contamination, or infrastructure closure turns a local district into a habitat-wide political problem. |
-| **Utility and structural interlayer** | Distributes air, water, power, data, coolant, waste, and emergency controls while carrying pressure, rotational, civic, and thermal loads. | Maintenance crews, inspectors, emergency teams, specialized machines. | A hidden leak, crack, blockage, or bad sensor report propagates through several systems before appearing in public space. |
-| **Shielding and exterior systems** | Absorb radiation and impact risk; support antennas, stationkeeping hardware, heat-rejection equipment, and exterior inspection. | Exterior crews, construction teams, remote systems, emergency repair workers. | Radiator damage forces thermal rationing; shielding, impact, or stationkeeping faults impose exposure, repair, or maneuver limits. |
+Ships and imports first encounter a docking and traffic boundary. A docking arrangement that does not follow the inhabited shell's rotation simplifies approach, quarantine, storage, and alignment, but concentrates traffic and authority. A collision, contaminated intake, or closed berth can obstruct the habitat before any internal utility fails.
 
-The visible city is the civic face of a larger maintenance volume. Streets and farms depend on routes beneath them and exterior equipment residents rarely see.
+Passengers move from docking through pressure confirmation, screening, and public transit. Freight follows routes sized and isolated for its mass and hazard; hazardous loads require separate handling.
 
-## Atmosphere And Isolation
+Frame-transfer systems feed the rotating city. Their capacity decides how quickly districts receive people, repair crews, freight, and evacuation. A transfer failure can leave the civic interior pressurized and powered while still separating it from the equipment needed to survive the next fault.
 
-A Bloom's principal civic advantage is a broad shared atmosphere rather than a city divided permanently into small pressure cans. Housing, markets, parks, workshops, and farms can occupy one open interior. The pressure boundary lies primarily in the manufactured shell, end structures, docking interfaces, and major penetrations.
+## Open Atmosphere And Civic Interior
 
-Open air still requires internal control. Air circulation must remove heat, moisture, smoke, particulates, and biological or industrial contaminants. Fire barriers, pressure doors, airflow controls, and temporary isolation systems can divide the commons during a breach, fire, quarantine, toxic release, or repair. These systems are not substitutes for the outer pressure shell; they limit propagation and preserve evacuation time.
+A Bloom's principal civic advantage is a broad shared atmosphere rather than permanent division into small pressure cans. Housing, markets, parks, workshops, and farms can occupy one open interior. The main pressure boundary lies in the manufactured shell, end structures, docking interfaces, and major penetrations.
 
-Isolation is also an authority. Closing a district changes who can work, leave, receive supplies, or contest an official account of the fault. A safety action and a security action may use the same doors.
+Open air still requires circulation. Air systems move heat, moisture, smoke, particulates, and biological or industrial contaminants toward treatment and monitoring. Fire barriers, pressure doors, airflow controls, and temporary isolation can divide the commons during a breach, fire, quarantine, toxic release, or repair. They limit propagation and preserve evacuation time; they do not replace the outer shell.
 
-## Resource Flows
+Isolation is also an exercise of authority. Closing a district changes who can work, leave, receive supplies, witness a fault, or contest its official account. A safety action and a security action may use the same door.
 
-Air, water, matter, power, data, and heat follow different loops but repeatedly cross at serviceable interfaces. Water arrives as stored reserves, cargo, recovered condensate, or processed feedstock. It is separated by use, circulated through households, farms, medicine, cooling, and industry, then recovered or quarantined. Waste streams are sorted into recoverable water, nutrients, fabrication feedstock, hazardous residues, and material that must be stored or exported.
+## Utility Routes
 
-Recovery consumes equipment, energy, labor, and replacement capacity. No Bloom is materially closed; imports, exports, reserves, and degraded components remain part of survival.
+Utility routes sit outward of or beneath the civic surface, cross structural and pressure boundaries, and reach exterior machinery. The visible city is the civic face of a larger maintenance volume.
 
-Heat is less negotiable. Residents, lights, agriculture, computation, pumps, fabrication, and power systems all produce waste heat. Coolant and heat exchangers move it outward to thermal storage or exterior radiators, which must ultimately reject it to space. Damage or deferred maintenance anywhere along that path reduces the habitat's safe operating margin. Operators then choose which industry, district, or life-support reserve receives cooling first.
+Water may enter as reserve, cargo, recovered condensate, or processed feedstock. It passes through households, agriculture, medicine, cooling, and industry before recovery, treatment, quarantine, storage, or export. Waste separates into recoverable water, nutrients, fabrication feedstock, hazardous residue, and material the habitat cannot safely recycle.
 
-## Access And Social Geography
+Power and data connect generation, storage, controls, sensors, communications, industry, transit, and domestic use. Operators need segmentation and bypasses because a common route can otherwise turn one local fault into several simultaneous losses. Telemetry remains evidence rather than omniscience: damaged sensors, stale maps, incompatible repairs, and contested access can leave operators disagreeing about the same system.
 
-People, cargo, and authority enter the same habitat through different routes. A traveler may pass from docking through pressure confirmation, screening, and public transit. Freight is classified, quarantined when necessary, stored, and sent through routes sized for its mass and hazard. Volatiles, food, medical supplies, industrial chemicals, and biological cargo cannot always share handling systems safely.
+Heat is less negotiable. Residents, lights, agriculture, computation, pumps, fabrication, and power systems create waste heat. Coolant and exchangers move it outward to storage or exterior radiators, which must ultimately reject it to space. Damage or deferred maintenance anywhere along that route reduces safe operating margin. The physical chokepoint becomes an allocation dispute when operators choose which industry, district, or life-support reserve receives cooling.
 
-Authority moves through sensor access, credentials, protected communications, and priority transit. Closing a route, approving a repair, overriding a controller, or validating telemetry can matter as much as physical proximity. Officials may reach a failure through protected routes while residents encounter only the closure.
+No Bloom is materially closed. Recovery consumes equipment, energy, labor, and replacement capacity.
 
-Class geography follows infrastructure. Districts with comfortable gravity, reliable light, quick hub access, clean air, and redundant utilities tend to receive privileged allocation and faster repairs. Industrial or near-axis housing trades comfort and environmental margin for proximity to work. Districts with less bargaining power are more likely to receive older equipment, narrower repair access, fewer bypasses, and longer periods inside nominally acceptable tolerances.
+## Structure, Shielding, And Exterior Work
 
-Labor follows the same distribution. Maintenance and cargo crews work where systems cross and where interruption is expensive. Exterior, contaminated, cramped, or low-gravity tasks carry greater bodily risk. Automation reduces routine exposure but does not abolish inspection, rescue, improvisation, or the political decision to send a person where redesign would cost more.
+The manufactured shell carries pressure and rotational loads while compacted source material supplies shielding. Exterior access serves that shielding and the heat-rejection systems exposed beyond it.
 
-## Failure Cascades
+These duties create difficult access. A component may sit behind shielding, pressure structure, moving machinery, contaminated space, or a route too narrow for the available worker and tools. Automation reduces routine exposure but does not abolish inspection, rescue, improvisation, or the decision to send a body where redesign would cost more.
 
-- **Transfer loss:** a spoke or rotary interface fails, stranding passengers and separating a district from freight, repair crews, or evacuation capacity.
-- **Atmospheric fault:** fire or contamination outruns circulation control, forcing isolation. The technical boundary becomes a dispute over movement, evidence, and whose air is sacrificed.
-- **Water crossover:** a failed barrier joins potable, industrial, medical, or waste streams. Rationing begins before the full contamination path is known.
-- **Heat-rejection loss:** damaged radiators or coolant routes force shutdowns. Industry, agriculture, computation, and residential comfort compete for a shrinking thermal margin.
-- **Structural discrepancy:** sensors and inspections disagree about a crack, load shift, or impact site. Continuing rotation preserves gravity and circulation but may worsen the fault; slowing the habitat creates another emergency.
-- **Access failure:** machines cannot reach a damaged component, maps are stale, or the available repair route excludes the bodies and equipment needed. A small defect becomes a labor, design, and command crisis.
+## Access And Political Geography
+
+Physical chokepoints produce administrative ones. Credentials, sensor access, protected communication, priority transit, repair approval, and control of replacement parts determine who can act on a fault. Officials may reach a failure through protected routes while residents encounter only the closure. A technically valid repair can remain impossible because its crew, equipment, evidence, or authority cannot pass the same gate.
+
+The anatomy establishes chokepoints; local government, labor organization, accumulated modification, and control of credentials and routes decide who can use them.
+
+## Failure Propagation
+
+- **Structural discrepancy:** sensors and inspections disagree about a crack, load shift, or impact. Continuing rotation may worsen the fault; slowing the habitat creates another emergency.
+- **Access failure:** maps are stale, machinery cannot reach the component, or the available route excludes the workers and tools required. A small defect becomes a design, labor, and command crisis.
+
+Blooms survive through isolation, bypasses, reserves, repair knowledge, and people able to act before one route's failure recruits the others. None of those protections is self-executing. Someone must recognize the fault, possess credible evidence, reach the machinery, obtain authority and resources, and leave a repair the next crew can understand.
 
 ## Builder Variation
 
-[[Orbital Forge]] standardizes interfaces and construction habits without making every Bloom identical. Local builders adapt the grammar to asteroid stock, population, industry, ecology, and accumulated repair history. That compatibility supports expansion and salvage, but it also leaves old and new systems joined across imperfect records.
-
-[[Aeronautics Unlimited]] uses the same broad grammar while favoring freight throughput, rapid industrial expansion, claimshare accounting, and controlled labor access. Its Blooms often concentrate redundancy around profitable systems and push risk toward workers and districts with less bargaining power. Other builders distribute redundancy and labor access differently within the same anatomy.
+[[Orbital Forge]] standardizes interfaces and construction habits without making every Bloom identical. Builders adapt the grammar to source material, population, industry, ecology, and repair history. Compatibility supports expansion and salvage while leaving old and new systems joined across imperfect records.
