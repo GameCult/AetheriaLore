@@ -8,6 +8,8 @@ The story must preserve the agency and material presence of ordinary cadets and 
 
 Final Fist begins only after a full first year of ordinary academy observation. Meridian always contains sophomore, junior, and senior Finalist cadres; the current household is assembled from the new sophomore intake on-page. The overlapping cadres must make prestige, mentorship, attrition, recomposition, and classified placement socially visible without giving any one student enough evidence to prove the program.
 
+The junior Plastics and senior Lifers are equally lionized institutional futures. The Plastics express custody through elite access, brutality, and glamorous operational competence. The Lifers express it through conformity, care, duty, and nihilistic practicality. Official presentation sands both into complementary leadership styles. Neither cruelty nor kindness changes sponsor ownership of deployment; the story must not mistake personal decency for structural opposition.
+
 Omi and Lio grew up together in Meridian's ward residence and are the only pre-existing family unit inside the assigned household. Vey raised and materially protected both of them. Lio's gratitude and Omi's suspicion are different readings of the same loving custodial relationship; neither reading cancels the other or supplies Vey's acquittal.
 
 Rhea Mott, Enna Quill, and Aru Venn recur as school-side relationship anchors. Jun Vale, Pava Neris, and Marae Dho remain lower-resolution social-body actors whose decisions still alter what the protagonists can do. They disagree for material reasons; none exists only to certify that escape is correct.

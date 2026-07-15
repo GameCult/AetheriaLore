@@ -16,6 +16,26 @@ Finalists become famous. Alumni serve as celebrated pilots, rescue captains, tes
 
 The most famous unresolved disappearance is [[Vesper Fist and the Necro Concord|Vesper Fist]].
 
+### The Upper Cadres
+
+The two cadres ahead of the new sophomores present rival models of Finalist maturity.
+
+The junior cadre is dominated by a celebrity Fist called the **Plastics**. They returned from summer internships with covert-operation experience they are forbidden to confirm, expensive reconstructive work, and scars displayed with suspicious compositional discipline. They are smug, territorial, casually cruel, and extraordinarily effective. Their private lesson to sophomores is that being valuable enough to exploit is a form of adulthood. They court Lio as someone with serious augmentation and drive talent, treat Omi's insistence on terms as decorative cowardice, dismiss Iri as support staff who has mistaken care for authority, and encourage Senn to turn coordination into command.
+
+Their captain, **Vara Kest**, recognizes a hidden pain spike in Lio's gait before Iri does. She gives Lio an unlogged harness calibration learned during classified work, stays while Lio tests it, and refuses to turn the moment into recruitment. The relief is real. So is Vara's later insistence that Lio owes herself a career important enough to justify what her body has cost. During containment she does not exploit the medical confidence Lio gave her; she simply uses every other weakness with professional precision.
+
+Meridian's public language removes the bullying without repudiating its results. Recruitment profiles describe the Plastics as **adaptive**, **decisive**, **resilient under ambiguous conditions**, and **comfortable with operational initiative**. Their scars become evidence of medical excellence and earned confidence. Their contempt becomes competitive mentorship. Sealed missions become tasteful anecdotes about readiness. The academy never instructs younger cadets to imitate their cruelty; it gives every material reward to the traits through which that cruelty travels.
+
+The senior cadre is dominated by the **Lifers**, a Fist of patient, exhausted students already living as though graduation were another duty shift. They interrupt Plastic hazing when it threatens bodies or readiness. They share food, repair equipment, explain medical review, cover missed work, and remember which sophomores are afraid of which procedures. They know custody is real and call it obligation. Their practical answer to every moral injury is that someone frightened, stranded, or under attack will still need them tomorrow. They have stopped expecting clean choices and treat continued usefulness as the only adulthood available.
+
+Their captain, **Anik Ro**, is trusted because he never lies about rescue arithmetic. During a junior exercise that became a real decompression, he cut loose a disabled two-person pod rather than let its mass prevent a habitat shuttle from clearing the breach. Range rescue recovered both cadets; one lost a leg after the delay. Anik visited through rehabilitation, accepted their hatred, and never apologized for the calculation. He later teaches Iri the same triage model as an act of respect. His kindness includes preparing her to become the person who leaves someone behind.
+
+The Lifers pressure the sophomores through care rather than contempt. They tell Lio that gratitude can mature into service without becoming shame. They tell Omi that time spent negotiating terms is paid by somebody waiting for rescue. They respect Iri's bodily knowledge and use it to explain why she is too necessary to leave. They ask Senn to carry her household indefinitely because she is good at it. Tem finds them hardest to dismiss because they preserve contradictory accounts and proceed anyway.
+
+The establishment lionizes both Fists equally. The Plastics appear in material about excellence, initiative, transformation, and elite access. The Lifers appear in material about service, continuity, stewardship, and moral courage. Official ceremonies present them as complementary leadership traditions whose rough edges are adolescent style. Cruelty and kindness are orthogonal to the mission: either may improve or damage retention, performance, and public legitimacy, but neither decides who owns deployment.
+
+The actual institutional point is conversion. Final Fist turns talent, attachment, injury, gratitude, dissent, care, ambition, and moral language into reliable deployable capacity under sponsor custody. The Plastics make being used feel like status. The Lifers make being used feel like duty. Meridian celebrates whichever account lets a capable household remain available to missions it does not own.
+
 ## Project Kinship
 
 Project Kinship is funded by the **Lantern Compact**, a defensive coalition of minor polities along routes being absorbed by the **Continuance Directorate**. The Directorate is a human successor bloc born from one of the Unseating's durable administrative remnants. It expands through protection treaties, sovereign-debt assumption, compulsory route basing, tiered citizenship, and selective force against governments that cannot meet accession terms. Most annexed habitats continue eating, trading, and receiving medicine. They cease deciding which obligations may be refused.
