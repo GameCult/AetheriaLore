@@ -28,4 +28,4 @@ The current household's hidden trial is not directly observed. Omi later transmi
 
 The Necro Concord moves with Vesper's signatures: an opening brace from a famous rescue, the protective turn students reproduce in simulators, and a transformation hesitation edited from official footage. The current Finalists recognize the legends they were trained to emulate, then the pain hidden inside the maneuvers.
 
-During pursuit it opens with Vesper's celebrated turn. The students know the prescribed counter because they drilled it for years; the machine knows their counter because Vesper taught it through the bodies Meridian retained.
+During pursuit it opens with Vesper's celebrated turn. The students know the prescribed counter because it is required first-year doctrine drilled throughout ordinary formation training; the machine knows their counter because Vesper taught it through the bodies Meridian retained.

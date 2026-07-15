@@ -22,7 +22,7 @@ The reader should repeatedly receive three pleasures: institutional procedure re
 
 ## Locked Premise
 
-- Five senior Meridian cadets have been covertly steered since first-year observation through sophomore Finalist selection, three cadres of training, Fist assignments, dependencies, and recomposition pressure by Project Kinship.
+- Five Meridian sophomores are selected from first-year observation and assigned to one experimental Finalist household at the story's opening. They begin with uneven school histories rather than a manufactured bond; only Omi and Lio grew up together as Meridian wards.
 - Meridian provides real safety, medicine, education, and futures while treating selected attachment as strategic infrastructure.
 - The five hide partial Concordance while conspiring with AFTER, the embodied remainder of Calyx.
 - AFTER survives in learned strain, timing, calibration, and distributed control rather than one deletable core.
@@ -37,7 +37,7 @@ The reader should repeatedly receive three pleasures: institutional procedure re
 
 - [[Calyx/index|Calyx Timeline]] — provisionally c. 3250–3260; reverse chronology from Harrowglass to first Concordance.
   - [[Calyx/The Fivefold|The Fivefold]] — Mara, Sol, Eda, Tern, and Ysra's historical arcs.
-- [[Meridian/index|Meridian Timeline]] — provisionally c. 3350–3360; forward chronology from Finalist failure through escape.
+- [[Meridian/index|Meridian Timeline]] — provisionally c. 3350–3360; forward chronology from sophomore Finalist selection through escape.
   - [[Meridian/Meridian House|Meridian House and Project Kinship]] — academy, Final Fist, standardized households, and Vey.
   - [[Meridian/Characters|Meridian Characters and Arcs]] — Senn, Omi, Lio, Tem, Iri, AFTER, and Vey.
   - [[Meridian/Vesper Fist and the Necro Concord|Vesper Fist and the Necro Concord]] — school legend, donor history, and antagonist architecture.

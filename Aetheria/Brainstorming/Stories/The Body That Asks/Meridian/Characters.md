@@ -2,13 +2,14 @@
 
 [[index|Meridian Timeline]] · [[Meridian House]] · [[Vesper Fist and the Necro Concord]] · [[../Braid|Braid]] · [[../Concordance|Concordance]]
 
-All five are technically competent. None exists solely as an emotional key, body part, or ideological delegate. Component assignments shape experience without defining personality. Crown authority passes among them. Their covert practice treats coordination as a set of temporary offices rather than permanent Seats: each retains component expertise while learning at least one office Kinship did not assign them, then yields it when the work changes.
+All five are technically competent sophomores assembled into a Finalist household at the story's opening. They know one another unevenly from first year; they are not yet a family. Omi and Lio are the exception: they grew up together in Meridian's ward residence and carry a sibling bond older than the academy. None exists solely as an emotional key, body part, or ideological delegate. Component assignments shape experience without defining personality. Crown authority passes among them. Their covert practice treats coordination as a set of temporary offices rather than permanent Seats: each retains component expertise while learning at least one office Kinship did not assign them, then yields it when the work changes.
 
-## Senn Arada, 18
+## Senn Arada, 16
 
 - **Competence:** calibration history, integration, procedural memory.
+- **Selection relation:** knows all four by reputation and has worked with Iri in maintenance labs, but has never held authority over any of them. She reads Omi and Lio's sibling shorthand as a coordination problem before she understands it as a relationship.
 - **Starting adaptation:** anticipates everyone's needs, edits out her wants, and uses procedure to make arbitrary adults legible.
-- **Desire:** leave with the whole Fist rather than accept individual licensing, citizenship, and command. Beyond escape, she wants to restore small civilian craft and teach their owners enough calibration to stop depending on academy-certified yards.
+- **Desire:** begins determined to prove Meridian selected a household she can make work. Escape later transforms that ambition into a desire to leave with all five rather than accept individual licensing, citizenship, and command. Beyond escape, she wants to restore small civilian craft and teach their owners enough calibration to stop depending on academy-certified yards.
 - **Partial belief:** perfect coordination can protect everyone without becoming coercion.
 - **Pressure:** Meridian rewards retained crown; AFTER addresses her first; escape planning makes her indispensable; Vey offers individual elevation.
 - **Required setup:** her anticipatory care manages Iri past consent during a low-stakes exercise, treating practical care as assent. Her attempt to delegate fails because she has withheld context. Tem later refuses her demand for one complete account of an anomaly, forcing a sustained conflict over whether coordination requires a single authoritative story.
@@ -19,13 +20,15 @@ All five are technically competent. None exists solely as an emotional key, body
 - **End condition:** coordinator by consent rather than indispensable throne; capable of stating a want that survives another person's refusal.
 - **Possible future:** wants the cooperative repair yard, but also wants her name painted indecently large over its doors, a private cockpit nobody else may optimize, and enough unclaimed time to discover whether she likes Rhea when neither of them has a ranking to win. She refuses the Compact command license that would turn the yard into a recruitment annex; she has not decided whether refusing prestige will feel like freedom or waste.
 
-## Omi Pell, 17
+## Omi Pell, 16
 
 - **Competence:** propulsion, obligation analysis, precise dissent.
-- **Starting adaptation:** audits every gift for hidden terms and believes precision is the only defense against appropriation.
-- **Desire:** make a consequential choice whose material costs are honestly named; leave without making workers pay for it.
+- **Ward history:** grew up beside Lio in Meridian's ward residence after his off-station aunt Marae could not secure local custody. Vey kept their rooms adjacent, remembered which hearings frightened Omi, and repeatedly used his office to prevent family-status reviews from severing Marae's contact. Omi loves him and learned from him that a caring adult can still make non-negotiable custody sound like a generous choice.
+- **Selection relation:** trusts Lio with his unperformed fear and almost nobody else. He knows Senn as the first-year cadet who could make an instructor's preference sound like consensus, has enjoyed arguing with Tem in class, and suspects Iri's quiet helpfulness hides terms she will not name.
+- **Starting adaptation:** audits every gift for hidden terms and believes precision is the only defense against appropriation. He has spent years translating institutional kindness for Lio and resents how often she hears that translation as an attack on their home.
+- **Desire:** begins by demanding that Finalist honour leave him an enforceable way out and that Lio not sign away choices out of gratitude. He later wants the whole household to make a consequential escape whose material costs are honestly named and not displaced onto workers.
 - **Partial belief:** if his objection is exact enough, nobody can convert it into consent.
-- **Pressure:** Meridian designed the Pell Seat to turn dissent into legitimacy; the household may value him chiefly as its consent grammarian; urgency makes terms feel luxurious.
+- **Pressure:** Meridian designed the Pell Seat to turn dissent into legitimacy; the new household may value him chiefly as its consent grammarian; Lio knows which of his suspicions began as childhood fear; urgency makes terms feel luxurious.
 - **Required setup:** his suspicion wounds Lio by treating Vey's real intervention as merely strategic. He also treats Tem's selective opacity as possible institutional contamination, then learns that Tem has been withholding an imposed false certainty rather than actionable danger. Later he accepts one kindness without a guarantee or ledger.
 - **Covert cross-training:** learns the separation office from Senn and AFTER so his veto includes the geometry and casualties of obeying it. Tem also teaches him perception coordination: not how to replace Tem's sensors, but how to keep contradictory local accounts available while crown commits the body.
 - **Irreversible choice:** says “Not like this” during escape when immediate transformation would crush occupied infrastructure.
@@ -34,14 +37,16 @@ All five are technically competent. None exists solely as an emotional key, body
 - **End condition:** still exacting, but participating through chosen trust rather than permanent adversarial audit.
 - **Possible future:** may become a contract advocate for compact crews. He also wants expensive fruit, a room whose door he can lock without logging a reason, and one reckless purchase nobody can recast as prudent household provisioning. He is embarrassed by how badly he wants people to notice when he is dressed well.
 
-## Lio Vask, 19
+## Lio Vask, 17
 
 - **Competence:** drive systems and high-load propulsion.
-- **Starting adaptation:** makes material gratitude the basis of loyalty. Meridian gave a former yard ward pain treatment, education, and graceful embodiment.
-- **Desire:** keep the Fist, AFTER, and her Meridian future alive without pretending the institution's gifts were false.
+- **Ward history:** arrived in Meridian's ward residence after a yard accident left her in chronic interface pain. Vey fought for treatment, sat through the procedures Omi could not bear to watch, and made room for both children to remain together when placement offices wanted to separate them. Lio remembers him as the first adult who spent institutional power on her survival.
+- **Selection relation:** Omi is her brother in every way that matters and the person most capable of making her feel foolish for loving their home. She recognizes Iri from clinic and rigging work, admires Senn's composure, and initially welcomes Tem's opacity as relief from Omi's relentless interpretation.
+- **Starting adaptation:** makes material gratitude the basis of loyalty. Meridian gave her pain treatment, education, graceful embodiment, and a childhood with Omi that neither expected to keep. She resents his habit of treating the place that saved them as a contract trap he alone is brave enough to read.
+- **Desire:** begins wanting Finalist selection to justify Vey's faith, secure her future, and give Omi an honour he cannot dismiss as custody. She later wants to keep the Fist and AFTER alive without pretending Meridian's gifts were false.
 - **Partial belief:** harmful outcomes come from missing information; reporting truth upward lets caring authorities correct them.
 - **Pressure:** her anomaly report enables the erasure and removal of **Kori Aster**, a cadet from the adjunct Kestrel household whose protective faults resembled AFTER's first contact; Omi distrusts Vey's sincere help; outside safety is genuinely doubtful.
-- **Required setup:** she conceals what she reported and for how long because she fears the household will stop trusting both her and the institution. She and Iri repeatedly clash over whether gratitude for treatment creates a duty to remain useful, and whether receiving care can be separated from repayment.
+- **Required setup:** she conceals what she reported and for how long because she fears the household—and especially Omi—will treat her as Vey's instrument. She and Iri repeatedly clash over whether gratitude for treatment creates a duty to remain useful, and whether receiving care can be separated from repayment.
 - **Covert cross-training:** learns balance crown from Senn, first as emergency continuity and later as authority she can return without shame.
 - **Irreversible choice:** discloses her report's consequence, then commits the drive burn that makes return impossible.
 - **Relational turn:** accepts Omi's suspicion as protection rather than contempt; he recognizes her gratitude as evidence rather than gullibility. Iri receives Lio's gratitude without endorsing its debt logic, while Lio finally lets Iri care for her without converting that care into another obligation.
@@ -49,27 +54,29 @@ All five are technically competent. None exists solely as an emotional key, body
 - **End condition:** gratitude without obedience; able to retain love for real institutional goods while refusing ownership.
 - **Possible future:** wants to fly heavy relief drives and build augmentation care without service liens. She also wants a racing license, applause that is plainly for her rather than the Fist, and the freedom to be spectacular without immediately converting the performance into repayment.
 
-## Tem Rusk, 18
+## Tem Rusk, 16
 
 - **Competence:** sensors, radiative skin, plural perception.
-- **Prior placement:** everyone at Meridian knows Tem spent fourteen months with another Finalist Fist and transferred under ordinary formation balancing. His current household does not know that the former team was Kinship's Ninth household, that **Rusk** was a standardized Seat rather than a ceremonial nickname, or that the transfer completed a deliberate recomposition. His closest tie there was **Mika Dene**, a propulsion cadet reassigned after refusing to collapse two casualty projections into the official one; Meridian records Mika as a voluntary academic transfer.
+- **First-year history:** Tem flew in two provisional Fists during first year. Everyone knows formation faculty moved him after his first team fractured over incompatible accident accounts. His closest tie there was **Mika Dene**, who refused to collapse two casualty projections into the official one and was routed into a clinical preparatory extension before sophomore selection. Tem later discovers that their supposedly ordinary first-year evaluations were copied into Kinship's candidate ledger: Mika's exclusion and Tem's assignment to the standardized **Rusk** Seat were two outcomes of the same hidden selection act.
+- **Selection relation:** likes Omi best when they are being unserious, distrusts Senn's appetite for a clean operational picture, and knows Lio and Iri mostly through the stories other students tell about their augmentations and competence. Being assigned beside four people who think they already recognize him feels like an administrative threat.
 - **Starting adaptation:** maintains incompatible biographies because different authorities demanded different histories; uses selective illegibility as defense.
-- **Desire:** remain present without surrendering a single institutionally acceptable “real self,” and keep this Fist from being rewritten.
+- **Desire:** begins wanting to survive the new household without surrendering a single institutionally acceptable “real self.” He later wants to keep the Fist from being rewritten as his provisional team was.
 - **Partial belief:** others may receive useful maps of him but never the dangerous whole.
-- **Pressure:** shared perception requires legibility; the cohort ledger exposes his earlier Seat; the household protocol forbids secrets used to control others.
+- **Pressure:** shared perception requires legibility; the candidate ledger exposes what happened to Mika and why Tem received the Rusk Seat; the household protocol forbids secrets used to control others.
 - **Required setup:** Senn asks him to collapse conflicting sensor accounts into one command picture; he refuses because the discarded account contains uncertainty the institution will weaponize. Omi initially reads that opacity as contamination, while Tem reads Omi's audit as another demand to become administratively singular.
 - **Covert cross-training:** learns propulsion vectoring from Lio while retaining multiple viable paths until commitment becomes physically necessary.
-- **Irreversible choice:** reveals what he knew about reassignment before the ledger can define him, risking trust and institutional action.
+- **Irreversible choice:** reveals what he concealed about Mika and his first-year transfer before the ledger can define him, risking trust and institutional action.
 - **Relational turn:** the others permit incompatible accounts and anger without demanding a canonical Tem. Senn learns to coordinate across explicitly unresolved accounts, and Omi recognizes Tem's opacity as protection of what the evidence cannot honestly decide.
 - **Climax ownership:** carries delegated propulsion vectoring across several unresolved sensor paths while his local component continues sharing actionable sight without forcing one interpretation.
 - **End condition:** plural and legible by choice rather than surviving solely through administrative contradiction.
 - **Possible future:** imagines a federated testimony archive for former Finalists, then imagines abandoning it for six months to write vicious anonymous reviews of academy dramas. He wants a crowd that enjoys not knowing which version of him is sincere. Whether that appetite becomes freedom, performance, or another kind of concealment remains open.
 
-## Iri Sable, 17
+## Iri Sable, 16
 
 - **Competence:** joint rigging, emergency medicine, embodied rescue.
+- **Selection relation:** knows Senn as a demanding but attentive lab partner and Lio as a recurring clinic presence whose bravado changes with pain. Omi has mistaken her care for institutional observation before; Tem has barely spoken to her. She enters the household with more practical knowledge of their bodies than emotional permission to use it.
 - **Starting adaptation:** gives practical care freely and guards affect because Meridian treats usefulness as proof of attachment compliance.
-- **Desire:** protect bodies without having protection converted into evidence that she belongs to the people measuring her.
+- **Desire:** begins wanting to protect four newly proximate bodies without cohabitation converting that care into friendship, assent, or attachment evidence. She later chooses the household while refusing the institution's claim that her care proves ownership.
 - **Partial belief:** care remains free only while impersonal and task-bounded.
 - **Pressure:** her chassis catch initiates AFTER's contact; Kinship scores rescue as compliance; escape endangers workers; the household asks her to receive care.
 - **Required setup:** refuses post-crisis comfort, hides a maintenance injury, then must accept help without first making herself useful. Senn initially records Iri's treatment of the others as assent to the next integration stage; Iri makes her withdraw the inference.
@@ -101,10 +108,10 @@ The central bonds change through observable acts rather than converging interpre
 
 1. Senn enters Iri's completed treatment as assent to another integration trial. Iri withdraws from voluntary maintenance, the next drill loses time, and Senn must amend the record in front of the Fist before Iri resumes care.
 2. Senn demands one command account from Tem. Tem withholds the uncertain sensor branch; Senn plans from the clean branch and nearly collides with a service tender. She first calls this vindication of her demand, then discovers the withheld branch predicted the tender but not its identity. Their next rehearsal carries both accounts and names who owns commitment.
-3. Omi audits Tem's Ninth-household contradictions and quietly flags his access as contaminated. The restriction prevents Tem from finding Mika's reassignment trail. Omi removes it only after Aru Venn's placement code proves Meridian manufactured the contradiction, then helps Tem recover the trail without demanding a canonical biography.
+3. Omi audits the contradictions in Tem's two first-year formation records and quietly flags his access as contaminated. The restriction prevents Tem from finding Mika's clinical-selection trail. Omi removes it only after Aru Venn's placement code proves Meridian manufactured the contradiction, then helps Tem recover the trail without demanding a canonical biography.
 4. Lio reports Kori Aster's faults to Vey's welfare channel. Kori disappears; Lio hides the receipt. When she finally gives Vey the authenticated receipt, he can prove student-welfare data crossed into external custody and delays the household's reassignment review. The same evidence tells him Lio breached classification, narrowing his ability to shield her through ordinary discipline.
 5. Iri treats Lio's drive pain and refuses Lio's offer to repay the medication through extra duty. Lio takes the refusal as contempt for everything Meridian saved in her and stops reporting a worsening tremor. Iri later asks to care for her as a friend rather than a clinician; Lio accepts without offering service in return.
-6. Tem gives Vey Mika's obsolete placement chain but retains Aru's identity under the promise that obtained it. Vey can authenticate the recomposition fraud and block a local purge, but cannot satisfy external security's demand for the source. His refusal to invent one triggers the override whose signed chain he later preserves.
+6. Tem gives Vey Mika's obsolete placement chain but retains Aru's identity under the promise that obtained it. Vey can authenticate that Kinship used first-year clinical routing to shape Finalist selection and block a local purge, but cannot satisfy external security's demand for the source. His refusal to invent one triggers the override whose signed chain he later preserves.
 7. AFTER conceals its vulnerable embodiment. Senn's isolation and Omi's checksum injure it and close an escape route. Lio recognizes the debt logic, Tem reconstructs the missing uncertainty, and Iri asks for disclosure without promising preservation. AFTER exposes the complete map and yields route control; only then can the six disagree without one of them owning the available facts.
 
 ## Headmaster Ansel Vey
@@ -115,6 +122,6 @@ The central bonds change through observable acts rather than converging interpre
 - **Partial belief:** delegated control makes strategic power safe, and his local gentleness legitimates participation.
 - **Pressure:** the Vesper investigation becomes a leak audit; invasion projections remain credible; the unlisted launch reveals the limits of his authority.
 - **Irreversible choice:** orders the exercise aborted and opens the student and staff safety routes his office genuinely owns. When external authority routes around him, he prevents the authenticated emergency logs from being purged and preserves the signed override chain, sacrificing his career and plausible deniability without becoming the architect of the students' escape.
-- **Relational turn:** accepts that care gives him no claim to the students' obedience; Lio and Tem need not declare his care false to leave him.
+- **Relational turn:** accepts that raising Omi and Lio gives him no claim to their obedience. They need not declare his love false to leave him, and their different judgments of him cannot be reconciled into his acquittal. Tem likewise owes him no source merely because Vey intends to help.
 - **Climax ownership:** protects evacuation, locks the emergency record against local deletion, and records which external credentials overrode his lawful abort. He cannot defeat the Necro Concord, rescue the five, or make his evidence public by himself.
 - **End condition:** alive, stripped or investigated, still responsible, still convinced the threat is real, and unable to use good intent as acquittal.

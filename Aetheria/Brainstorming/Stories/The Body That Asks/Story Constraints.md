@@ -6,7 +6,9 @@
 
 The story must preserve the agency and material presence of ordinary cadets and families; current and former Kinship teams; Vesper's pilots; teachers, clinicians, cooks, fabricators, riggers, security, and medical workers; staff with different knowledge; populations threatened by invasion; communities affected by the Unseating; and the Houses, sponsors, insurers, and custody authorities claiming the Figures and AFTER.
 
-Final Fist begins only after a full first year of ordinary academy observation. Meridian always contains sophomore, junior, and senior Finalist cadres; the current household is senior. The overlapping cadres must make prestige, mentorship, attrition, recomposition, and classified placement socially visible without giving any one student enough evidence to prove the program.
+Final Fist begins only after a full first year of ordinary academy observation. Meridian always contains sophomore, junior, and senior Finalist cadres; the current household is assembled from the new sophomore intake on-page. The overlapping cadres must make prestige, mentorship, attrition, recomposition, and classified placement socially visible without giving any one student enough evidence to prove the program.
+
+Omi and Lio grew up together in Meridian's ward residence and are the only pre-existing family unit inside the assigned household. Vey raised and materially protected both of them. Lio's gratitude and Omi's suspicion are different readings of the same loving custodial relationship; neither reading cancels the other or supplies Vey's acquittal.
 
 Rhea Mott, Enna Quill, and Aru Venn recur as school-side relationship anchors. Jun Vale, Pava Neris, and Marae Dho remain lower-resolution social-body actors whose decisions still alter what the protagonists can do. They disagree for material reasons; none exists only to certify that escape is correct.
 
