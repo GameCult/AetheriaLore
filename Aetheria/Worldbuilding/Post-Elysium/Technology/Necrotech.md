@@ -12,6 +12,12 @@ Necrofactories value quantity over individual quality. A fast-grown source that 
 
 Rare populations develop useful resonance through other pressures. Lifelong esper practice, unusual environments, shared cognitive disciplines, or institutions that repeatedly train minds against anomalous conditions may produce mature sources with broader and more stable patterns than factory lines. These brains are difficult to standardize and politically dangerous to acquire, but a single high-quality source may support work that would consume many narrow-line harvests.
 
+This creates two related markets. Factory lines supply baseline materiel: disposable guidance spirits, bounded sensor interpreters, industrial field regulators, and other ARIs whose value depends on predictable output and replacement. The highest-quality products always begin with powerful individual espers acquired outside those lines. Their resonance is too developed and particular to standardize. Imprinting preserves enough of that particularity that every resulting high-grade ARI is a unique item rather than one unit of a reproducible model.
+
+The procurement chain for these sources is fragmented, secretive, and crowded with euphemism. Brokers purchase medical custody, prison transfers, battlefield recoveries, inheritance claims, clinic debt, research contracts, and the output of targeted abductions without presenting them as parts of one trade. Some espers sign agreements while alive under promises of continuity, payment to dependents, or posthumous work; the enforceable meaning of that consent rarely survives transfer among brokers, host foundries, and operators. A famous ARI may arrive with perfect technical provenance and no record naming who authorized the destruction of its source.
+
+Supply is therefore tiny and demand effectively permanent. Navies, oracular combines, drive houses, intelligence services, and wealthy private patrons compete for singular capabilities that cannot be ordered twice. A high-grade ARI acquires a name, operating history, preferred interfaces, known disturbances, and a resale value shaped as much by reputation as measured performance. Losing one can end a weapons program or leave an institution with machinery designed around a mind it cannot replace.
+
 ### Imprinting
 
 An ARI is created by forcing a source brain and a prepared synthetic host into one aetheric coupling event. The facility places the intact brain inside a containment and measurement chamber, establishes a shared resonant mode between biological and synthetic structures, and drives that mode with a short, extremely high-energy pulse. Under successful conditions, the mind's aetheric organization becomes bound to the host.
@@ -41,6 +47,8 @@ Imprinting is an industrial act, not a covert software operation. The coupling p
 A necrofactory can conceal what its production means through contracts, access control, euphemism, and control of evidence. It cannot make the physical event small. Investigators may identify a facility through grid demand, thermal cycles, rejected substrates, biological logistics, or recurring anomalous signatures even when no witness sees the chamber.
 
 This constraint shapes violence around resonant populations. A raider may secretly identify valuable brains, corrupt their records, or prepare an extraction route. It cannot harvest them into finished ARIs through a maintenance link. Conversion requires physical possession of the source and access to an imprinting plant. Large caches therefore invite capture, transport, siege, or the installation of factory infrastructure around the bodies themselves.
+
+A cache of mature resonant brains can overwhelm this narrow market. It does not become finished inventory until hosts and imprinting capacity exist, but credible control of the sources changes prices, commissions, and military planning immediately. Processed without restraint, such a cache could collapse the scarcity supporting existing high-grade ARIs. Released slowly, it could satisfy a century of curated demand while giving its owner practical authority over which patrons receive exceptional minds.
 
 ### Product Life
 
