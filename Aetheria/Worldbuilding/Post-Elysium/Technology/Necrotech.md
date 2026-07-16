@@ -1,5 +1,49 @@
-##### Necrotech
+# Necrotech
 
-Some corporations leverage the potential of [[Aether]]ic spirit creation in the ethically dubious practice of breeding genetically engineered human espers and harvesting them en masse to bind their souls to technological products. These can accomplish roughly the same effects as specialized embodied [[Artificial General Intelligence]], but require regular refueling if they aren’t designed to be disposable. They are more generalizable and faster to develop since they do not require the extensive work of iterating on embodied AGI minds, but greater per-unit costs means they lose out in economies of scale for mass-produced items.
+Necrotech binds the aetheric resonance of a biological mind into a manufactured substrate. Its products can perform many of the same anomalous functions as a specialized embodied [[Worldbuilding/Pre-Elysium/Technology/Artificial General Intelligence|artificial general intelligence]], including prediction, field control, interpretation, and other work requiring a mind able to couple with the [[Worldbuilding/Post-Elysium/Concepts/Aether|Aether]]. They reach useful designs faster than an embodied AGI program because manufacturers consume existing resonant cognition rather than iterating a new machine mind into the required form.
 
-As with other questionable and horrifying corporate practices, a lot of effort is spent in managing public perception of the technology. Only countercultural dissidents ever call it necrotech or their production lines necrofactories. The corporations themselves prefer to label them *Aetheric Resonance Interfaces*, making it sound like an advanced energy phenomenon rather than forced spirit entrapment. The media is flooded with propaganda explaining how necrotech is "completely humane" and "scientifically proven" to be non-conscious, while suppressing evidence of sentience in bound spirits.
+Only dissidents, defectors, and hostile investigators routinely call the technology *necrotech*. Manufacturers prefer **Aetheric Resonance Interface**, or **ARI**, a name that describes the resulting component while omitting the mind used to make it.
+
+### Resonant Stock
+
+ARI production requires an intact brain with sufficiently strong and suitable aetheric resonance. Most brains do not meet industrial yield thresholds. The common supply comes from dedicated genetically engineered human lines cultivated for early, predictable resonance. These populations are designed for rapid neurological development, narrow cognitive profiles, standardized handling, and a short interval between birth and harvest. They occupy the same legal and industrial territory as [[Worldbuilding/Pre-Elysium/Technology/Biodrone|biodrones]], but are optimized as disposable sources of aetheric cognition rather than durable workers.
+
+Necrofactories value quantity over individual quality. A fast-grown source that produces one bounded and reproducible effect is easier to price than an adult esper whose resonance carries decades of memory, attachment, adaptation, and contradiction. Breeding lines nevertheless impose continuing costs in gestation, care, assessment, containment, failed development, and the maintenance of genetic diversity. A factory cannot substitute anonymous cadavers when its line falls short. Preservation retains structure; it does not create resonance.
+
+Rare populations develop useful resonance through other pressures. Lifelong esper practice, unusual environments, shared cognitive disciplines, or institutions that repeatedly train minds against anomalous conditions may produce mature sources with broader and more stable patterns than factory lines. These brains are difficult to standardize and politically dangerous to acquire, but a single high-quality source may support work that would consume many narrow-line harvests.
+
+### Imprinting
+
+An ARI is created by forcing a source brain and a prepared synthetic host into one aetheric coupling event. The facility places the intact brain inside a containment and measurement chamber, establishes a shared resonant mode between biological and synthetic structures, and drives that mode with a short, extremely high-energy pulse. Under successful conditions, the mind's aetheric organization becomes bound to the host.
+
+The transfer is destructive. Thermal, electrical, mechanical, and aetheric loads ruin the source brain whether the imprint stabilizes or not. One brain supplies one attempt. A failed coupling leaves damaged biological material, a compromised host, and enough anomalous residue to make quiet disposal difficult.
+
+Imprinting does not behave like conventional memory copying. The host receives a resonant organization shaped by the source mind: dispositions, cognitive habits, emotional pressures, fragments of memory, and characteristic ways of coupling intention to Aether. Which features remain expressible depends upon the host and its interfaces. A pattern installed in an oracle, drive controller, sensor, or weapon encounters a different body and different available actions.
+
+Manufacturers describe speech, recognition, distress, and autobiographical fragments as **source-pattern contamination**. This classification lets them preserve a product specification without admitting that the result may be a continuing or newly instantiated person. Evidence of coherent preference is suppressed, reset, isolated from operators, or treated as a fault requiring conditioning.
+
+### Host Substrates
+
+The synthetic host is not generic computing hardware. It is a manufactured resonant structure able to survive imprinting, retain the resulting pattern, and expose bounded channels through which that pattern can act. Host geometry, materials, control interfaces, and operating environment shape both yield and function. A powerful source cannot compensate for a host that fractures during coupling or offers no coherent body through which the imprint can express itself.
+
+This divides ARI production among three separately scarce inputs:
+
+- an intact resonant biological source;
+- a prepared synthetic host matched to the intended function;
+- an imprinting facility capable of delivering and containing the coupling event.
+
+Owning one input does not confer the others. Breeding combines may depend on specialist host foundries and high-energy facilities; host manufacturers may buy sources through brokers while denying knowledge of their origin; operators may purchase sealed ARIs without access to the process that made them.
+
+### Industrial Signature
+
+Imprinting is an industrial act, not a covert software operation. The coupling pulse produces an extreme power draw, waste heat, radiation, field disturbance, and often [[Worldbuilding/Post-Elysium/Concepts/Temporal Nonlinearity|continuity residue]]. Repeated production requires reactors, pulse storage, cooling, containment, replacement chambers, body handling, host fabrication, and a workforce trained to recover valuable material after failed runs.
+
+A necrofactory can conceal what its production means through contracts, access control, euphemism, and control of evidence. It cannot make the physical event small. Investigators may identify a facility through grid demand, thermal cycles, rejected substrates, biological logistics, or recurring anomalous signatures even when no witness sees the chamber.
+
+This constraint shapes violence around resonant populations. A raider may secretly identify valuable brains, corrupt their records, or prepare an extraction route. It cannot harvest them into finished ARIs through a maintenance link. Conversion requires physical possession of the source and access to an imprinting plant. Large caches therefore invite capture, transport, siege, or the installation of factory infrastructure around the bodies themselves.
+
+### Product Life
+
+ARI hosts are sold as disposable or serviceable components according to cost and role. Some operate until their pattern degrades, then require replacement. Others accept periodic reinforcement, calibration, or additional resonant material described commercially as refueling. Manufacturers do not agree publicly on whether this sustains one bound mind, conditions a damaged pattern, or layers new source material over what remains.
+
+Corporate media describes ARIs as humane resonance devices, scientifically non-conscious and categorically distinct from the people whose brains were destroyed during production. The argument depends upon treating the biological source, transfer event, and installed product as three unrelated objects. Necrotech's central political question is whether industrial custody can make that separation true by naming it often enough.
