@@ -17,6 +17,10 @@ Post-Elysium factions inherit old habits under stranger conditions. Some are cor
 
 - [[Worldbuilding/Post-Elysium/Factions/House Valence|House Valence]]
 
+## Revolutionary Networks
+
+- [[Worldbuilding/Post-Elysium/Factions/Death Monkey Explosives|Death Monkey Explosives]]
+
 ## Continuity Sects
 
 - [[Worldbuilding/Post-Elysium/Factions/Megiddo|Megiddo]]
