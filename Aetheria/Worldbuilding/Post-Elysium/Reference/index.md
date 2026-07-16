@@ -9,3 +9,4 @@ These notes collect the record surfaces that let post-Elysium institutions act o
 
 - [[Worldbuilding/Post-Elysium/Reference/Continuity Admissibility Finding|Continuity Admissibility Finding]]
 - [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]]
+- [[Worldbuilding/Post-Elysium/Reference/Weapon Category Codes|Weapon Category Codes]]
