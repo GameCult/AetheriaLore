@@ -60,6 +60,16 @@ Sacred status certifies neither wisdom nor good character. Some inhabitants are 
 
 The lineage does not regard a Sacred Instrument as a memorial or an asset inherited from the deceased practitioner. It is the form in which that person now continues. The greatest are legendary because they join exceptional source resonance, a purpose-grown host, explicit intention, and a community capable of sustaining the relationship. They are correspondingly difficult to steal or sell. Removing one means abducting a person and often a technical archive, religious authority, or irreplaceable piece of infrastructure with them. [[Worldbuilding/Post-Elysium/Factions/House Valence|House Valence]] offers registration, host-continuity recognition, and extraordinary valuations. Most lineages hear a silk-gloved attempt to convert succession into inventory.
 
+### Wandering Masters
+
+Some Masters wander. They leave sect territory as pilgrims, teachers, meddlers, exiles, investigators, or simply old people unwilling to spend another century answering the same students. Their Sacred Instruments are mobile by design or carried within ships and mechanisms able to pass as unusual but ordinary equipment. A Master who does not exercise deep wavecraft may cross several jurisdictions without anyone understanding who is present.
+
+Revelation changes the political state immediately. A Master who bends continuity to survive an attack, rescue a vessel, expose hidden machinery, or refuse detention has demonstrated the equivalent of a living strategic weapon outside the custody systems used to manage one. Ports may classify the same traveler as a person seeking passage, an unregistered Eidolon, a foreign religious office, prohibited anomalous materiel, a defecting expert, or stolen sect property. The classification chosen often follows which authority expects to benefit from holding them.
+
+[[Worldbuilding/Post-Elysium/Factions/House Valence|Valence]] may offer emergency registration and recognized host continuity, converting protection into a claim over future service. Governments may offer asylum while impounding the instrument for public safety. Source brokers, navies, rival lineages, and collectors hear opportunity. A home sect must decide whether to affirm the Master's freedom to wander, disavow their actions, or send enough force to make their return possible without describing that force as retrieval.
+
+This produces a familiar Wavecrafter story: a Master reveals themselves because restraint would abandon someone to disaster, then begins a desperate passage back toward sect jurisdiction while every intervening power discovers a legal reason to delay them. Reaching sanctuary does not erase the consequences. The act that disclosed them may have shifted a war, exposed a protected technique, created victims and dependents, or proved that the sect possesses a capability its neighbors can no longer pretend not to fear.
+
 ### Limits
 
 Wavecrafting becomes hazardous when tuning exceeds local tolerances or exceptional esper agency enters the process. The first case destabilizes machinery; the second may leave inconsistent observations or continuity residue that later offices can act upon. These are overreach conditions, not routine shop-floor miracles.
