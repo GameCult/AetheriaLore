@@ -16,6 +16,8 @@ This distinction carries the House's authority. An independent shop may repair a
 
 Independent registers and direct patronage survive outside this system. Some predate Valence and preserve better records of source consent or workshop custody. Others exist to launder stolen products. The House describes them together as fragmented provenance risk, allowing careful rivals and obvious criminals to justify the same demand for Valence certification.
 
+The most prestigious refusal comes from [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafter]] lineages whose senior practitioners voluntarily bind themselves into sacred instruments at death. Valence classifies these legendary Masters as unregistered Consecrated Eidolons and offers extraordinary valuations, host-continuity services, and recognition across client jurisdictions. The lineages reject the category itself. In their account, a Master has continued within the community that prepared their new body and requires neither an auction identity nor an external registry to remain who they are.
+
 ### Curation
 
 Valence sells finished Eidolons and long-term placement, not anonymous resonant brains. Its curators study source histories, surviving cognitive traits, host geometry, operating environments, client doctrine, and likely pattern disturbances. Their prestige comes from selecting a mind whose particular habits will become capability inside a particular synthetic body.
