@@ -13,6 +13,10 @@ Post-Elysium factions inherit old habits under stranger conditions. Some are cor
 - [[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|Parallax Auditors]]
 - [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafters]]
 
+## Sovereign Houses
+
+- [[Worldbuilding/Post-Elysium/Factions/House Valence|House Valence]]
+
 ## Continuity Sects
 
 - [[Worldbuilding/Post-Elysium/Factions/Megiddo|Megiddo]]
