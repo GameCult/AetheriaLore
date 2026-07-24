@@ -1,17 +1,40 @@
 ---
 title: Aetheria
-description: "Galaxy-scale social experiment disguised as open science-fantasy: cockpit action, corporate logistics, alien civilizations, and stories that leave consequences behind."
-socialDeck: "Cockpits, spreadsheets, impossible genres, extinction on repeat."
+description: "One setting. Impossible genres. Material consequences. Read two complete, standalone science-fiction novels free online or download the EPUBs."
+socialDeck: "One setting. Impossible genres. Material consequences."
 enableToc: false
 ---
 
 # Aetheria
 
-*"A civilization with every tool it could want and no reliable way to tell itself no."*
+*"One setting. Impossible genres. Material consequences."*
 
-Aetheria is an open science-fantasy setting about capability outrunning collective judgment. It begins in late Sol, where corporate powers, engineered peoples, uploaded minds, habitats, fleets, and movements have spent centuries becoming materially dependent on one another while disagreeing about who counts as a person and who must pay for progress.
+**Read two complete, standalone novels for free in a shared science-fiction setting built to survive radical changes of genre.**
 
-Humanity's first working faster-than-light experiment does not open a clean frontier. It triggers a quarantine response and shunts that entangled civilization into Elysium, a sealed domain whose material and conscious substrates interact. The displacement carries institutions as well as bodies: debts, maintenance systems, legal claims, labor conflicts, military habits, memory, and every compromise that was already holding somebody alive.
+Aetheria is about capability outrunning collective judgment. It begins in late Sol, where corporate powers, engineered peoples, uploaded minds, habitats, fleets, and movements have spent centuries becoming materially dependent on one another while disagreeing about who counts as a person and who must pay for progress.
+
+The stories do not require a lore briefing. Each novel is a complete entry point. What connects them is a world where help can become custody, care means little without the power to refuse it, and every spectacular machine remains somebody's workplace, dependency, weapon, status trap, or means of survival.
+
+## Choose Your Entry Point
+
+Read in either order. Both novels are complete, free online, and available as EPUB downloads.
+
+<div class="aetheria-video-grid">
+  <section class="aetheria-hero-panel">
+    <p class="aetheria-kicker">Pirate workplace space opera · warm black comedy</p>
+    <h3>The Burden of Proof</h3>
+    <p>Luce Orsino wants to rescue people so badly that he keeps building institutions capable of owning them. Four ships, repeated tactical catastrophe, and one machine person who needs the right to stop being needed.</p>
+    <p><a href="/Fiction/The-Burden-of-Proof">Read free online →</a> · <a href="/static/fiction/the-burden-of-proof.epub" download>Download EPUB</a></p>
+  </section>
+  <section class="aetheria-hero-panel">
+    <p class="aetheria-kicker">Political mecha-academy thriller · adult/YA crossover</p>
+    <h3>The Body That Asks</h3>
+    <p>Five cadets are selected to become the ideal family for a giant war machine. A damaged machine person makes six—and the body they form will work only if every part can still say no.</p>
+    <p><a href="/Fiction/The-Body-That-Asks">Read free online →</a> · <a href="/static/fiction/the-body-that-asks.epub" download>Download EPUB</a></p>
+  </section>
+</div>
+
+Humanity's first working faster-than-light experiment does not open a clean frontier. It triggers a quarantine response and shunts an entangled civilization into Elysium, a sealed domain whose material and conscious substrates interact. The displacement carries institutions as well as bodies: debts, maintenance systems, legal claims, labor conflicts, military habits, memory, and every compromise that was already holding somebody alive.
 
 That history supports radical changes of genre without severing causality. Pre-Elysium stories can stay close to hard science fiction, industrial horror, corporate logistics, or noir. Post-Elysium stories can add esper cognition, cultivation traditions, necrotech, impossible weather, and giant humanoid spacecraft. The physics changes. The obligation to explain who built a capability, who maintains it, who controls access, and what it does to ordinary life does not.
 
@@ -49,7 +72,7 @@ The setting is built to support several modes whose causes remain visible:
 - **First contact:** species such as the [[Worldbuilding/Post-Elysium/Species/Ratfolk|Ratfolk]] arrive with their own internal plurality, accessibility needs, political disputes, and reasons to distrust any outsider asking for one representative.
 - **Corporate, domestic, or workplace stories:** food, cooling, credentials, medicine, repair, transport, and shelter remain political even when nobody fires a weapon.
 
-The completed novella [[Fiction/The Burden of Proof|The Burden of Proof]] is one bounded example: a warm black comedy where pirate doctrine, wages, cognition, cooling, repair, and worker authority occupy the same ships without defining every pirate or vessel.
+The two finished novels occupy deliberately distant corners of that range. The point is not that every Aetheria story contains pirates and mecha. It is that both can belong to one history without either becoming a genre costume.
 
 ## Pressures That Generate Stories
 
