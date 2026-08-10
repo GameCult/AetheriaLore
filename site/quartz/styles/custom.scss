@@ -519,12 +519,78 @@ article > h6 {
   line-height: 1.55;
 }
 
-.aetheria-home-hero {
+.aetheria-home-feature {
   display: grid;
   grid-template-columns: minmax(0, 1.15fr) minmax(280px, 0.85fr);
   gap: 1rem;
   margin: 1.15rem 0 1.6rem;
   align-items: stretch;
+}
+
+.aetheria-book-hero {
+  margin: 1.25rem 0 1.6rem;
+  padding: clamp(1rem, 2.4vw, 1.5rem);
+  border: 1px solid rgba(255, 138, 42, 0.24);
+  border-radius: 24px;
+  background:
+    radial-gradient(circle at 88% 10%, rgba(255, 138, 42, 0.14), transparent 30%),
+    linear-gradient(135deg, rgba(13, 20, 31, 0.98), rgba(8, 13, 21, 0.95));
+  box-shadow:
+    0 22px 44px rgba(0, 0, 0, 0.24),
+    inset 0 1px 0 rgba(255, 255, 255, 0.03);
+}
+
+.aetheria-book-hero-header > :first-child,
+.aetheria-book-card > :first-child {
+  margin-top: 0;
+}
+
+.aetheria-book-hero-header h2 {
+  margin: 0;
+  font-size: clamp(1.55rem, 2.5vw, 2.25rem);
+  font-weight: 200;
+}
+
+.aetheria-book-hero-header > p:last-child {
+  margin: 0.55rem 0 0;
+}
+
+.aetheria-book-hero-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.85rem;
+  margin-top: 1rem;
+}
+
+.aetheria-book-card {
+  padding: 1rem 1.05rem;
+  border: 1px solid rgba(89, 183, 255, 0.12);
+  border-radius: 18px;
+  background: rgba(5, 10, 17, 0.58);
+}
+
+.aetheria-book-card h3 {
+  margin: 0.25rem 0 0.65rem;
+  color: #fff3e8;
+  font-size: 1.3rem;
+  font-weight: 300;
+}
+
+.aetheria-book-genre {
+  color: rgba(255, 184, 116, 0.92);
+  font-family: var(--titleFont);
+  font-size: 0.74rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.aetheria-book-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-bottom: 0;
+  font-family: var(--titleFont);
+  font-size: 0.9rem;
 }
 
 .aetheria-hero-panel,
@@ -539,8 +605,8 @@ article > h6 {
     inset 0 1px 0 rgba(255, 255, 255, 0.02);
 }
 
-.aetheria-home-hero > .aetheria-hero-panel,
-.aetheria-home-hero > .aetheria-media-card {
+.aetheria-home-feature > .aetheria-hero-panel,
+.aetheria-home-feature > .aetheria-media-card {
   background:
     radial-gradient(circle at 84% 18%, rgba(255, 138, 42, 0.09), transparent 24%),
     linear-gradient(180deg, rgba(13, 20, 31, 0.96), rgba(8, 13, 21, 0.92));
@@ -1153,7 +1219,8 @@ a:hover,
     margin-top: 0.25rem;
   }
 
-  .aetheria-home-hero {
+  .aetheria-home-feature,
+  .aetheria-book-hero-grid {
     grid-template-columns: minmax(0, 1fr);
   }
 }

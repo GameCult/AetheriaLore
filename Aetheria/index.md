@@ -1,38 +1,15 @@
 ---
 title: Aetheria
-description: "One setting. Impossible genres. Material consequences. Read two complete, standalone science-fiction novels free online or download the EPUBs."
-socialDeck: "One setting. Impossible genres. Material consequences."
+description: "Galaxy-scale social experiment disguised as open science-fantasy: cockpit action, corporate logistics, alien civilizations, and stories that leave consequences behind."
+socialDeck: "Cockpits, spreadsheets, impossible genres, extinction on repeat."
 enableToc: false
 ---
 
 # Aetheria
 
-*"One setting. Impossible genres. Material consequences."*
+*"A civilization with every tool it could want and no reliable way to tell itself no."*
 
-**Read two complete, standalone novels for free in a shared science-fiction setting built to survive radical changes of genre.**
-
-Aetheria is about capability outrunning collective judgment. It begins in late Sol, where corporate powers, engineered peoples, uploaded minds, habitats, fleets, and movements have spent centuries becoming materially dependent on one another while disagreeing about who counts as a person and who must pay for progress.
-
-The stories do not require a lore briefing. Each novel is a complete entry point. What connects them is a world where help can become custody, care means little without the power to refuse it, and every spectacular machine remains somebody's workplace, dependency, weapon, status trap, or means of survival.
-
-## Choose Your Entry Point
-
-Read in either order. Both novels are complete, free online, and available as EPUB downloads.
-
-<div class="aetheria-video-grid">
-  <section class="aetheria-hero-panel">
-    <p class="aetheria-kicker">Pirate workplace space opera · warm black comedy</p>
-    <h3>The Burden of Proof</h3>
-    <p>Luce Orsino wants to rescue people so badly that he keeps building institutions capable of owning them. Four ships, repeated tactical catastrophe, and one machine person who needs the right to stop being needed.</p>
-    <p><a href="/Fiction/The-Burden-of-Proof">Read free online →</a> · <a href="/static/fiction/the-burden-of-proof.epub" download>Download EPUB</a></p>
-  </section>
-  <section class="aetheria-hero-panel">
-    <p class="aetheria-kicker">Political mecha-academy thriller · adult/YA crossover</p>
-    <h3>The Body That Asks</h3>
-    <p>Five cadets are selected to become the ideal family for a giant war machine. A damaged machine person makes six—and the body they form will work only if every part can still say no.</p>
-    <p><a href="/Fiction/The-Body-That-Asks">Read free online →</a> · <a href="/static/fiction/the-body-that-asks.epub" download>Download EPUB</a></p>
-  </section>
-</div>
+Aetheria is an open science-fantasy setting about capability outrunning collective judgment. It begins in late Sol, where corporate powers, engineered peoples, uploaded minds, habitats, fleets, and movements have spent centuries becoming materially dependent on one another while disagreeing about who counts as a person and who must pay for progress.
 
 Humanity's first working faster-than-light experiment does not open a clean frontier. It triggers a quarantine response and shunts an entangled civilization into Elysium, a sealed domain whose material and conscious substrates interact. The displacement carries institutions as well as bodies: debts, maintenance systems, legal claims, labor conflicts, military habits, memory, and every compromise that was already holding somebody alive.
 
@@ -40,7 +17,29 @@ That history supports radical changes of genre without severing causality. Pre-E
 
 Writers do not need custody of the whole universe. A story may own its cast, place, and depicted events while respecting shared setting constraints. An invention remains local until the relevant owner note incorporates it. Finished fiction, canon notes, developmental stories, and game design are all open to inspection, but they do not make the same kinds of claims.
 
-<div class="aetheria-home-hero">
+<section class="aetheria-book-hero" aria-labelledby="aetheria-book-hero-title">
+  <header class="aetheria-book-hero-header">
+    <p class="aetheria-kicker">Two complete novels · Free to read</p>
+    <h2 id="aetheria-book-hero-title">Enter Aetheria through a finished story</h2>
+    <p>Read in either order online or download the EPUBs.</p>
+  </header>
+  <div class="aetheria-book-hero-grid">
+    <article class="aetheria-book-card">
+      <p class="aetheria-book-genre">Pirate workplace space opera · warm black comedy</p>
+      <h3>The Burden of Proof</h3>
+      <p>Luce Orsino wants to rescue people so badly that he keeps building institutions capable of owning them. Four ships, repeated tactical catastrophe, and one machine person who needs the right to stop being needed.</p>
+      <p class="aetheria-book-links"><a href="./Fiction/The-Burden-of-Proof">Read free online →</a><span aria-hidden="true">·</span><a href="./static/fiction/the-burden-of-proof.epub" download>Download EPUB</a></p>
+    </article>
+    <article class="aetheria-book-card">
+      <p class="aetheria-book-genre">Political mecha-academy thriller · adult/YA crossover</p>
+      <h3>The Body That Asks</h3>
+      <p>Five cadets are selected to become the ideal family for a giant war machine. A damaged machine person makes six—and the body they form will work only if every part can still say no.</p>
+      <p class="aetheria-book-links"><a href="./Fiction/The-Body-That-Asks">Read free online →</a><span aria-hidden="true">·</span><a href="./static/fiction/the-body-that-asks.epub" download>Download EPUB</a></p>
+    </article>
+  </div>
+</section>
+
+<div class="aetheria-home-feature">
   <section class="aetheria-hero-panel">
     <p>The result can be intimate or enormous: a repair crew deciding whether an embodied ship mind may refuse service; a labor stoppage inside a rotating city; a port acting on two valid histories; a found family learning to operate several mecha as one body; an alien delegation discovering that human translation has mistaken negotiated speech for unanimity.</p>
     <p>Aetheria is less interested in technology as spectacle than in spectacle becoming somebody's workplace, dependency, faith, weapon, status trap, or means of care.</p>
@@ -71,8 +70,6 @@ The setting is built to support several modes whose causes remain visible:
 - **Post-Elysium mecha and cultivation drama:** [[Worldbuilding/Post-Elysium/Factions/Daedal Houses|Daedal Houses]] turn embodied piloting into ship-scale Figures, while [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafters]] preserve operating knowledge through forms, guild discipline, and guarded lineages.
 - **First contact:** species such as the [[Worldbuilding/Post-Elysium/Species/Ratfolk|Ratfolk]] arrive with their own internal plurality, accessibility needs, political disputes, and reasons to distrust any outsider asking for one representative.
 - **Corporate, domestic, or workplace stories:** food, cooling, credentials, medicine, repair, transport, and shelter remain political even when nobody fires a weapon.
-
-The two finished novels occupy deliberately distant corners of that range. The point is not that every Aetheria story contains pirates and mecha. It is that both can belong to one history without either becoming a genre costume.
 
 ## Pressures That Generate Stories
 
