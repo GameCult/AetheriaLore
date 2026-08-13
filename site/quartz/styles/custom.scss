@@ -566,11 +566,12 @@ article > h6 {
   margin-top: 1.2rem;
 }
 
-.aetheria-home-action {
+.aetheria-home-actions .aetheria-home-action {
   display: inline-flex;
   align-items: center;
   min-height: 2.6rem;
-  padding: 0.45rem 0.95rem;
+  box-sizing: border-box;
+  padding: 0.65rem 1.1rem;
   border: 1px solid rgba(89, 183, 255, 0.22);
   border-radius: 999px;
   background: rgba(89, 183, 255, 0.06);
@@ -581,9 +582,9 @@ article > h6 {
   letter-spacing: 0.03em;
 }
 
-.aetheria-home-action:hover,
-.aetheria-home-action:focus-visible,
-.aetheria-home-action.is-primary {
+.aetheria-home-actions .aetheria-home-action:hover,
+.aetheria-home-actions .aetheria-home-action:focus-visible,
+.aetheria-home-actions .aetheria-home-action.is-primary {
   border-color: rgba(255, 138, 42, 0.42);
   background: rgba(255, 138, 42, 0.14);
   color: #fff3e8;
@@ -702,11 +703,12 @@ article > h6 {
   gap: 0.85rem;
 }
 
-.aetheria-home-path {
+.aetheria-home-path-grid .aetheria-home-path {
   display: flex;
   flex-direction: column;
   min-height: 12rem;
-  padding: 1.05rem 1.1rem;
+  box-sizing: border-box;
+  padding: 1.2rem 1.25rem;
   border: 1px solid rgba(89, 183, 255, 0.12);
   border-radius: 18px;
   background:
@@ -719,8 +721,8 @@ article > h6 {
     background 160ms ease;
 }
 
-.aetheria-home-path:hover,
-.aetheria-home-path:focus-visible {
+.aetheria-home-path-grid .aetheria-home-path:hover,
+.aetheria-home-path-grid .aetheria-home-path:focus-visible {
   border-color: rgba(255, 138, 42, 0.38);
   background:
     radial-gradient(circle at 90% 8%, rgba(255, 138, 42, 0.13), transparent 32%),
