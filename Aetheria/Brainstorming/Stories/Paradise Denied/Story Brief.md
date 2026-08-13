@@ -2,13 +2,13 @@
 
 ## Identity
 
-- **Working title:** *The Quiet Vault*
+- **Working title:** *Paradise Denied*
 - **Target length:** novel; exact length follows the completed dramatic work
 - **Genre and tone:** post-Rupture psychological science fiction, institutional horror, and abrasive care story; bleak, intimate, politically alert, and unsentimental
 - **Audience:** adult science-fiction readers without required Aetheria knowledge
 - **POV and tense:** close third, past tense, centered on the nonresponder; limited additional POV only if another captive's private causality cannot otherwise remain legible
 - **Setting and date range:** a contracting late-Sol Bloom immediately before March 17, 3025, then early Post-Elysium around one or more dreamer repositories
-- **Final artifact format:** `Aetheria/Fiction/The Quiet Vault.md`
+- **Final artifact format:** `Aetheria/Fiction/Paradise Denied.md`
 
 ## Story Promise
 

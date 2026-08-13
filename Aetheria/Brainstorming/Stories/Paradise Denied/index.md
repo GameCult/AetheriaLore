@@ -1,4 +1,4 @@
-# The Quiet Vault
+# Paradise Denied
 
 **Status:** active story room; completed entry brief, pre-Pass 1.
 

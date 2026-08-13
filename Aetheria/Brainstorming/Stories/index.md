@@ -11,7 +11,7 @@ Each room owns its accepted story state locally. Material enters the wider vault
 ## Active Rooms
 
 - [[The Body That Asks/index|The Body That Asks]] - a secret Concord program tries to manufacture chosen family in teenage wards and discovers that refusal is load-bearing
-- [[The Quiet Vault/index|The Quiet Vault]] - a terminal-wireheading nonresponder survives the Rupture into a universe where other minds are impossible to ignore
+- [[Paradise Denied/index|Paradise Denied]] - a terminal-wireheading nonresponder survives the Rupture into a universe where other minds are impossible to ignore
 
 ## Writing Systems
 
