@@ -5,71 +5,101 @@ socialDeck: "Cockpits, spreadsheets, impossible genres, extinction on repeat."
 enableToc: false
 ---
 
-# Aetheria
-
-*"A civilization with every tool it could want and no reliable way to tell itself no."*
-
-Aetheria is an open science-fantasy setting about capability outrunning collective judgment. It begins in late Sol, where corporate powers, engineered peoples, uploaded minds, habitats, fleets, and movements have spent centuries becoming materially dependent on one another while disagreeing about who counts as a person and who must pay for progress.
-
-Humanity's first working faster-than-light experiment does not open a clean frontier. It triggers a quarantine response and shunts an entangled civilization into Elysium, a sealed domain whose material and conscious substrates interact. The displacement carries institutions as well as bodies: debts, maintenance systems, legal claims, labor conflicts, military habits, memory, and every compromise that was already holding somebody alive.
-
-That history supports radical changes of genre without severing causality. Pre-Elysium stories can stay close to hard science fiction, industrial horror, corporate logistics, or noir. Post-Elysium stories can add esper cognition, cultivation traditions, necrotech, impossible weather, and giant humanoid spacecraft. The physics changes. The obligation to explain who built a capability, who maintains it, who controls access, and what it does to ordinary life does not.
-
-Writers do not need custody of the whole universe. A story may own its cast, place, and depicted events while respecting shared setting constraints. An invention remains local until the relevant owner note incorporates it. Finished fiction, canon notes, developmental stories, and game design are all open to inspection, but they do not make the same kinds of claims.
-
-<section class="aetheria-book-hero" aria-labelledby="aetheria-book-hero-title">
-  <header class="aetheria-book-hero-header">
-    <p class="aetheria-kicker">Two complete novels · Free to read</p>
-    <h2 id="aetheria-book-hero-title">Enter Aetheria through a finished story</h2>
-    <p>Read in either order online or download the EPUBs.</p>
-  </header>
-  <div class="aetheria-book-hero-grid">
-    <article class="aetheria-book-card">
-      <p class="aetheria-book-genre">Pirate workplace space opera · warm black comedy</p>
-      <h3>The Burden of Proof</h3>
-      <p>Luce Orsino wants to rescue people so badly that he keeps building institutions capable of owning them. Four ships, repeated tactical catastrophe, and one machine person who needs the right to stop being needed.</p>
-      <p class="aetheria-book-links"><a href="./Fiction/The-Burden-of-Proof">Read free online →</a><span aria-hidden="true">·</span><a href="./static/fiction/the-burden-of-proof.epub" download>Download EPUB</a></p>
-    </article>
-    <article class="aetheria-book-card">
-      <p class="aetheria-book-genre">Political mecha-academy thriller · adult/YA crossover</p>
-      <h3>The Body That Asks</h3>
-      <p>Five cadets are selected to become the ideal family for a giant war machine. A damaged machine person makes six—and the body they form will work only if every part can still say no.</p>
-      <p class="aetheria-book-links"><a href="./Fiction/The-Body-That-Asks">Read free online →</a><span aria-hidden="true">·</span><a href="./static/fiction/the-body-that-asks.epub" download>Download EPUB</a></p>
-    </article>
+<section class="aetheria-home-intro" aria-labelledby="aetheria-home-title">
+  <div class="aetheria-home-intro-copy">
+    <p class="aetheria-kicker">An open science-fantasy setting</p>
+    <h1 id="aetheria-home-title">Aetheria</h1>
+    <p class="aetheria-home-deck">A civilization with every tool it could want and no reliable way to tell itself no.</p>
+    <p>Aetheria follows capability outrunning collective judgment: corporate powers, engineered peoples, uploaded minds, habitats, fleets, and movements becoming indispensable to one another while disagreeing about who counts as a person and who must pay for progress.</p>
+    <nav class="aetheria-home-actions" aria-label="Start exploring Aetheria">
+      <a class="aetheria-home-action is-primary" href="./Worldbuilding/">Explore the setting →</a>
+      <a class="aetheria-home-action" href="./Fiction/">Read fiction</a>
+    </nav>
+  </div>
+  <div class="aetheria-home-trailer">
+    <div class="aetheria-home-trailer-frame">
+      <iframe
+        src="https://www.youtube-nocookie.com/embed/6hg1w2vcwDc?list=PL9lCxnhL4NfPDNsnS0ygGiJOiYMmdSFcK"
+        title="Aetheria playlist starting with the Gameplay Preview Trailer"
+        loading="eager"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen
+      ></iframe>
+    </div>
+    <p><span>Gameplay preview</span> · Cockpit action, industrial scale, and the old machinery of power.</p>
   </div>
 </section>
 
-<div class="aetheria-home-feature">
-  <section class="aetheria-hero-panel">
-    <p>The result can be intimate or enormous: a repair crew deciding whether an embodied ship mind may refuse service; a labor stoppage inside a rotating city; a port acting on two valid histories; a found family learning to operate several mecha as one body; an alien delegation discovering that human translation has mistaken negotiated speech for unanimity.</p>
-    <p>Aetheria is less interested in technology as spectacle than in spectacle becoming somebody's workplace, dependency, faith, weapon, status trap, or means of care.</p>
-  </section>
-  <figure class="aetheria-media-card">
-    <img src="./media/aetheria/elysium.png" alt="Aetheria concept art showing a settlement scene." />
-    <p>Old civilization arrives in altered physics with the paperwork still attached.</p>
+<section class="aetheria-home-premise" aria-labelledby="aetheria-premise-title">
+  <div class="aetheria-home-premise-copy">
+    <p class="aetheria-kicker">The fracture</p>
+    <h2 id="aetheria-premise-title">Old civilization arrives in altered physics</h2>
+    <p>Humanity's first working faster-than-light experiment triggers a quarantine response and shunts an entangled civilization into Elysium. The displacement carries institutions as well as bodies: debts, maintenance systems, legal claims, labor conflicts, military habits, memory, and every compromise that was already holding somebody alive.</p>
+    <p>Pre-Elysium stories stay close to hard science fiction, industrial horror, corporate logistics, and noir. Post-Elysium stories add esper cognition, cultivation traditions, necrotech, impossible weather, and giant humanoid spacecraft. The physics changes. Material consequences do not.</p>
+  </div>
+  <figure class="aetheria-home-premise-media">
+    <img src="./media/aetheria/elysium.png" alt="An Aetheria settlement beneath the altered skies of Elysium." />
+    <figcaption>The old world survives the journey. So do its invoices.</figcaption>
   </figure>
-</div>
+</section>
 
-<div class="aetheria-embed-frame">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/6hg1w2vcwDc?list=PL9lCxnhL4NfPDNsnS0ygGiJOiYMmdSFcK"
-    title="Aetheria playlist starting with the Gameplay Preview Trailer"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen
-  ></iframe>
-</div>
+<section class="aetheria-home-paths" aria-labelledby="aetheria-paths-title">
+  <div class="aetheria-home-section-heading">
+    <p class="aetheria-kicker">Choose a route</p>
+    <h2 id="aetheria-paths-title">Find your way into Aetheria</h2>
+    <p>The vault is open. Start with history, lived experience, or the machinery built to make the setting playable.</p>
+  </div>
+  <nav class="aetheria-home-path-grid" aria-label="Ways into Aetheria">
+    <a class="aetheria-home-path" href="./Worldbuilding/">
+      <span>Worldbuilding</span>
+      <strong>Trace the setting</strong>
+      <p>Move through late Sol, Elysium, factions, technologies, species, and the timeline.</p>
+    </a>
+    <a class="aetheria-home-path" href="./Fiction/">
+      <span>Fiction</span>
+      <strong>Enter through a life</strong>
+      <p>Read complete novels and shorter work where the systems become intimate.</p>
+    </a>
+    <a class="aetheria-home-path" href="./Game-Design/">
+      <span>Game design</span>
+      <strong>Touch the machinery</strong>
+      <p>Explore ships, mechanics, playable interpretations, and prototypes.</p>
+    </a>
+  </nav>
+</section>
 
-## What Kind Of Story Fits?
+## Stories The Setting Can Hold
 
-The setting is built to support several modes whose causes remain visible:
+Aetheria supports radically different modes whose causes remain visible:
 
 - **Pre-Elysium hard science fiction and black magic:** heat, habitat engineering, cognition markets, labor control, and the dangerous research lineage that leads to the [[Worldbuilding/Pre-Elysium/Timeline/FTL Trigger|FTL Trigger]].
 - **Noir and institutional mystery:** custody disputes, insurer and port gates, contradictory records, media pressure, and crimes produced by systems whose authority is divided across several respectable offices.
 - **Post-Elysium mecha and cultivation drama:** [[Worldbuilding/Post-Elysium/Factions/Daedal Houses|Daedal Houses]] turn embodied piloting into ship-scale Figures, while [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafters]] preserve operating knowledge through forms, guild discipline, and guarded lineages.
 - **First contact:** species such as the [[Worldbuilding/Post-Elysium/Species/Ratfolk|Ratfolk]] arrive with their own internal plurality, accessibility needs, political disputes, and reasons to distrust any outsider asking for one representative.
 - **Corporate, domestic, or workplace stories:** food, cooling, credentials, medicine, repair, transport, and shelter remain political even when nobody fires a weapon.
+
+<section class="aetheria-book-feature" aria-labelledby="aetheria-book-feature-title">
+  <div class="aetheria-book-feature-heading">
+    <p class="aetheria-kicker">Two complete novels · Free to read</p>
+    <h2 id="aetheria-book-feature-title">Two distant corners of one history</h2>
+    <p>Each novel stands alone. Read either online or download the EPUB.</p>
+  </div>
+  <div class="aetheria-book-feature-grid">
+    <article class="aetheria-book-card">
+      <p class="aetheria-book-genre">Pirate workplace space opera · warm black comedy</p>
+      <h3>The Burden of Proof</h3>
+      <p>Luce Orsino wants to rescue people so badly that he keeps building institutions capable of owning them. Four ships, repeated tactical catastrophe, and one machine person who needs the right to stop being needed.</p>
+      <p class="aetheria-book-links"><a href="./Fiction/The-Burden-of-Proof">Read online →</a><a href="./static/fiction/the-burden-of-proof.epub" download>Download EPUB</a></p>
+    </article>
+    <article class="aetheria-book-card">
+      <p class="aetheria-book-genre">Political mecha-academy thriller · adult/YA crossover</p>
+      <h3>The Body That Asks</h3>
+      <p>Five cadets are selected to become the ideal family for a giant war machine. A damaged machine person makes six—and the body they form will work only if every part can still say no.</p>
+      <p class="aetheria-book-links"><a href="./Fiction/The-Body-That-Asks">Read online →</a><a href="./static/fiction/the-body-that-asks.epub" download>Download EPUB</a></p>
+    </article>
+  </div>
+</section>
 
 ## Pressures That Generate Stories
 
@@ -84,16 +114,4 @@ The setting is built to support several modes whose causes remain visible:
 
 The counter-pressure is material care: food, cooling, truthful records, disability access, refuge, repair, transport, and enough shared authority to refuse the help meant to save.
 
-## Start Here
-
-### Read A Story
-
-Start with [[Fiction/index|finished fiction]]. For shorter and developmental work, including pieces that may preserve older continuity, visit [[Stories/index|Stories]]. Fiction shows the setting under pressure; it does not replace the owner notes for every mechanism it touches.
-
-### Explore The Setting
-
-Use [[Worldbuilding/index|Worldbuilding]] to move between late Sol, Elysium, factions, technologies, species, and the timeline. [[Narrative Themes]] names recurring tensions without requiring every story to foreground them. [[Lore/index|Lore]] collects character-facing and introductory material.
-
-### Write Or Design
-
-Choose an era, a place, a material dependency, and a person or institution under pressure. Read the relevant owner notes and existing stories, then keep new claims local until they need to become shared canon. [[Game Design/index|Game Design]] holds playable interpretations and prototypes; the [repository](https://github.com/GameCult/AetheriaLore) and [[Stories/How Branching Stories Are Made|writing process]] remain open for inspection and contribution.
+Writers do not need custody of the whole universe. A story may own its cast, place, and depicted events while respecting shared setting constraints. [[Narrative Themes]] names recurring tensions; the [[Stories/How Branching Stories Are Made|writing process]] and [repository](https://github.com/GameCult/AetheriaLore) remain open for inspection and contribution.

@@ -91,7 +91,7 @@ body {
   margin-top: 1.4rem;
 }
 
-.page > #quartz-body .center header {
+.page > #quartz-body .center > .page-header > header {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
   gap: 1rem 1.25rem;
@@ -109,7 +109,7 @@ body {
   overflow: hidden;
 }
 
-.page > #quartz-body .center header > .search {
+.page > #quartz-body .center > .page-header > header > .search {
   max-width: 9rem;
   width: 100%;
   justify-self: end;
@@ -519,67 +519,287 @@ article > h6 {
   line-height: 1.55;
 }
 
-.aetheria-home-feature {
+.aetheria-home-intro {
   display: grid;
-  grid-template-columns: minmax(0, 1.15fr) minmax(280px, 0.85fr);
-  gap: 1rem;
-  margin: 1.15rem 0 1.6rem;
-  align-items: stretch;
+  grid-template-columns: minmax(20rem, 0.82fr) minmax(30rem, 1.18fr);
+  gap: clamp(1.2rem, 2.5vw, 2.4rem);
+  align-items: center;
+  margin: 0;
+  padding: clamp(0.4rem, 1.5vw, 1rem) 0 clamp(1.4rem, 3vw, 2.4rem);
 }
 
-.aetheria-book-hero {
-  margin: 1.25rem 0 1.6rem;
-  padding: clamp(1rem, 2.4vw, 1.5rem);
-  border: 1px solid rgba(255, 138, 42, 0.24);
-  border-radius: 24px;
+.aetheria-home-intro-copy {
+  min-width: 0;
+}
+
+.aetheria-home-intro-copy h1 {
+  margin: 0;
+  color: var(--dark);
+  font-family: var(--titleFont);
+  font-size: clamp(3.4rem, 7vw, 6.8rem);
+  font-weight: 100;
+  line-height: 0.86;
+  letter-spacing: 0.025em;
+}
+
+.aetheria-home-deck {
+  max-width: 24ch;
+  margin: 1.1rem 0 0.85rem;
+  color: #fff3e8;
+  font-family: var(--titleFont);
+  font-size: clamp(1.35rem, 2.1vw, 2rem);
+  font-weight: 200;
+  line-height: 1.25;
+}
+
+.aetheria-home-intro-copy > p:not(.aetheria-kicker):not(.aetheria-home-deck) {
+  max-width: 62ch;
+  color: rgba(215, 226, 240, 0.86);
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+.aetheria-home-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 1.2rem;
+}
+
+.aetheria-home-action {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.6rem;
+  padding: 0.45rem 0.95rem;
+  border: 1px solid rgba(89, 183, 255, 0.22);
+  border-radius: 999px;
+  background: rgba(89, 183, 255, 0.06);
+  color: #dce7f6;
+  font-family: var(--titleFont);
+  font-size: 0.9rem;
+  font-weight: 300;
+  letter-spacing: 0.03em;
+}
+
+.aetheria-home-action:hover,
+.aetheria-home-action:focus-visible,
+.aetheria-home-action.is-primary {
+  border-color: rgba(255, 138, 42, 0.42);
+  background: rgba(255, 138, 42, 0.14);
+  color: #fff3e8;
+}
+
+.aetheria-home-trailer {
+  min-width: 0;
+  padding: 0.7rem;
+  border: 1px solid rgba(89, 183, 255, 0.12);
+  border-radius: 22px;
   background:
-    radial-gradient(circle at 88% 10%, rgba(255, 138, 42, 0.14), transparent 30%),
-    linear-gradient(135deg, rgba(13, 20, 31, 0.98), rgba(8, 13, 21, 0.95));
+    radial-gradient(circle at 84% 8%, rgba(255, 138, 42, 0.12), transparent 28%),
+    linear-gradient(180deg, rgba(13, 20, 31, 0.96), rgba(6, 11, 18, 0.94));
   box-shadow:
     0 22px 44px rgba(0, 0, 0, 0.24),
     inset 0 1px 0 rgba(255, 255, 255, 0.03);
 }
 
-.aetheria-book-hero-header > :first-child,
+.aetheria-home-trailer-frame {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border: 1px solid rgba(89, 183, 255, 0.12);
+  border-radius: 16px;
+  background: #050a11;
+}
+
+.aetheria-home-trailer-frame iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.aetheria-home-trailer > p {
+  margin: 0.7rem 0.35rem 0.15rem;
+  color: rgba(183, 199, 217, 0.78);
+  font-size: 0.82rem;
+  line-height: 1.45;
+}
+
+.aetheria-home-trailer > p span {
+  color: rgba(255, 184, 116, 0.94);
+  font-family: var(--titleFont);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.aetheria-home-premise {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(18rem, 0.95fr);
+  gap: clamp(1.2rem, 2.5vw, 2rem);
+  align-items: center;
+  margin: 0 0 clamp(2.2rem, 5vw, 4rem);
+  padding: clamp(1rem, 2.5vw, 1.5rem);
+  border: 1px solid rgba(89, 183, 255, 0.1);
+  border-radius: 22px;
+  background: linear-gradient(135deg, rgba(12, 19, 29, 0.88), rgba(8, 14, 22, 0.82));
+}
+
+.aetheria-home-premise-copy h2,
+.aetheria-home-section-heading h2,
+.aetheria-book-feature-heading h2 {
+  margin: 0;
+  color: var(--dark);
+  font-family: var(--titleFont);
+  font-size: clamp(1.6rem, 2.7vw, 2.35rem);
+  font-weight: 200;
+  line-height: 1.08;
+}
+
+.aetheria-home-premise-copy > p:not(.aetheria-kicker) {
+  color: rgba(215, 226, 240, 0.84);
+  line-height: 1.65;
+}
+
+.aetheria-home-premise-media {
+  margin: 0;
+}
+
+.aetheria-home-premise-media img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  border: 1px solid rgba(89, 183, 255, 0.12);
+  border-radius: 16px;
+  background: rgba(5, 10, 18, 0.9);
+}
+
+.aetheria-home-premise-media figcaption {
+  margin-top: 0.65rem;
+  color: rgba(183, 199, 217, 0.76);
+  font-size: 0.82rem;
+  line-height: 1.45;
+}
+
+.aetheria-home-paths {
+  margin-bottom: clamp(2.4rem, 5vw, 4rem);
+}
+
+.aetheria-home-section-heading {
+  max-width: 760px;
+  margin-bottom: 1rem;
+}
+
+.aetheria-home-section-heading > p:last-child,
+.aetheria-book-feature-heading > p:last-child {
+  color: rgba(183, 199, 217, 0.82);
+}
+
+.aetheria-home-path-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.85rem;
+}
+
+.aetheria-home-path {
+  display: flex;
+  flex-direction: column;
+  min-height: 12rem;
+  padding: 1.05rem 1.1rem;
+  border: 1px solid rgba(89, 183, 255, 0.12);
+  border-radius: 18px;
+  background:
+    radial-gradient(circle at 90% 8%, rgba(255, 138, 42, 0.07), transparent 30%),
+    linear-gradient(180deg, rgba(13, 20, 31, 0.92), rgba(8, 13, 21, 0.88));
+  color: inherit;
+  transition:
+    border-color 160ms ease,
+    transform 160ms ease,
+    background 160ms ease;
+}
+
+.aetheria-home-path:hover,
+.aetheria-home-path:focus-visible {
+  border-color: rgba(255, 138, 42, 0.38);
+  background:
+    radial-gradient(circle at 90% 8%, rgba(255, 138, 42, 0.13), transparent 32%),
+    linear-gradient(180deg, rgba(16, 23, 34, 0.96), rgba(9, 15, 23, 0.92));
+  transform: translateY(-2px);
+}
+
+.aetheria-home-path span {
+  color: rgba(255, 184, 116, 0.92);
+  font-family: var(--titleFont);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.aetheria-home-path strong {
+  margin-top: 0.45rem;
+  color: #fff3e8;
+  font-family: var(--titleFont);
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+.aetheria-home-path p {
+  margin: auto 0 0;
+  color: rgba(183, 199, 217, 0.82);
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+.aetheria-book-feature {
+  margin: clamp(2.4rem, 5vw, 4rem) 0;
+  padding: clamp(1rem, 2.4vw, 1.45rem);
+  border-top: 1px solid rgba(255, 138, 42, 0.28);
+  border-bottom: 1px solid rgba(255, 138, 42, 0.18);
+  background: linear-gradient(90deg, rgba(255, 138, 42, 0.055), transparent 24%, transparent 76%, rgba(89, 183, 255, 0.04));
+}
+
+.aetheria-book-feature-heading {
+  max-width: 760px;
+  margin-bottom: 1rem;
+}
+
+.aetheria-book-feature-heading > p:last-child {
+  margin-bottom: 0;
+}
+
+.aetheria-book-feature-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.aetheria-book-card {
+  padding: 1rem 0;
+  border-top: 1px solid rgba(89, 183, 255, 0.14);
+}
+
 .aetheria-book-card > :first-child {
   margin-top: 0;
 }
 
-.aetheria-book-hero-header h2 {
-  margin: 0;
-  font-size: clamp(1.55rem, 2.5vw, 2.25rem);
-  font-weight: 200;
-}
-
-.aetheria-book-hero-header > p:last-child {
-  margin: 0.55rem 0 0;
-}
-
-.aetheria-book-hero-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.85rem;
-  margin-top: 1rem;
-}
-
-.aetheria-book-card {
-  padding: 1rem 1.05rem;
-  border: 1px solid rgba(89, 183, 255, 0.12);
-  border-radius: 18px;
-  background: rgba(5, 10, 17, 0.58);
-}
-
 .aetheria-book-card h3 {
-  margin: 0.25rem 0 0.65rem;
+  margin: 0.3rem 0 0.6rem;
   color: #fff3e8;
+  font-family: var(--titleFont);
   font-size: 1.3rem;
   font-weight: 300;
+}
+
+.aetheria-book-card > p:not(.aetheria-book-genre):not(.aetheria-book-links) {
+  color: rgba(215, 226, 240, 0.84);
+  line-height: 1.6;
 }
 
 .aetheria-book-genre {
   color: rgba(255, 184, 116, 0.92);
   font-family: var(--titleFont);
-  font-size: 0.74rem;
+  font-size: 0.72rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -587,15 +807,14 @@ article > h6 {
 .aetheria-book-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.45rem;
+  gap: 0.8rem;
   margin-bottom: 0;
   font-family: var(--titleFont);
-  font-size: 0.9rem;
+  font-size: 0.88rem;
 }
 
 .aetheria-hero-panel,
 .aetheria-media-card,
-.aetheria-embed-frame,
 .aetheria-section-shell {
   border-radius: 20px;
   border: 1px solid rgba(89, 183, 255, 0.1);
@@ -603,13 +822,6 @@ article > h6 {
   box-shadow:
     0 18px 36px rgba(0, 0, 0, 0.2),
     inset 0 1px 0 rgba(255, 255, 255, 0.02);
-}
-
-.aetheria-home-feature > .aetheria-hero-panel,
-.aetheria-home-feature > .aetheria-media-card {
-  background:
-    radial-gradient(circle at 84% 18%, rgba(255, 138, 42, 0.09), transparent 24%),
-    linear-gradient(180deg, rgba(13, 20, 31, 0.96), rgba(8, 13, 21, 0.92));
 }
 
 .aetheria-hero-panel {
@@ -682,20 +894,6 @@ article > h6 {
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr));
   gap: 1rem;
   margin: 1.15rem 0 1.6rem;
-}
-
-.aetheria-embed-frame {
-  margin: 1.2rem 0 1.4rem;
-  padding: 0.8rem;
-  overflow: hidden;
-}
-
-.aetheria-embed-frame iframe {
-  width: 100%;
-  min-height: 640px;
-  border: 0;
-  border-radius: 14px;
-  background: #050a11;
 }
 
 .aetheria-ink-player {
@@ -1219,9 +1417,17 @@ a:hover,
     margin-top: 0.25rem;
   }
 
-  .aetheria-home-feature,
-  .aetheria-book-hero-grid {
+  .aetheria-home-intro,
+  .aetheria-home-premise {
     grid-template-columns: minmax(0, 1fr);
+  }
+
+  .aetheria-home-intro {
+    align-items: start;
+  }
+
+  .aetheria-home-path-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
@@ -1243,12 +1449,12 @@ a:hover,
     margin-top: 1.3rem;
   }
 
-  .page > #quartz-body .center header {
+  .page > #quartz-body .center > .page-header > header {
     grid-template-columns: minmax(0, 1fr);
     padding: 0.95rem 0.95rem 1rem;
   }
 
-  .page > #quartz-body .center header > .search {
+  .page > #quartz-body .center > .page-header > header > .search {
     max-width: none;
     justify-self: stretch;
   }
@@ -1284,7 +1490,12 @@ a:hover,
     padding: 1rem;
   }
 
-  .aetheria-embed-frame iframe {
-    min-height: 520px;
+  .aetheria-home-intro-copy h1 {
+    font-size: clamp(3rem, 18vw, 4.8rem);
+  }
+
+  .aetheria-home-path-grid,
+  .aetheria-book-feature-grid {
+    grid-template-columns: minmax(0, 1fr);
   }
 }
