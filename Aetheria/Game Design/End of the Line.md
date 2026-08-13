@@ -28,4 +28,8 @@ The proposal treated ship handling, route choice, combat, trade, repair, and mis
 
 ## Surviving Design Signal
 
-[[Action RPG Layer]] now owns the smallest cockpit proof. Terminus contributes one historical arrangement of that proof: a journey whose arrival state records what the player spent to get there. The concept requires neither a procedural galaxy nor a persistent-world sequel.
+[[Action RPG Layer]] now owns the smallest cockpit proof. Terminus contributes one historical arrangement of that proof: a journey whose arrival state records what the player spent to get there.
+
+As a development path, Terminus can also exercise the seam described in [[Narrative and Missions]] without summoning the full persistent world. One generated galaxy supplies world conditions; authored Ink scenes declare semantic dependencies; a resolver binds viable actors and places; scenes export occurrence and evidence; named durable owners accept and commit changes to that history. The single-player scale removes global concurrency and repeated-player access disputes while preserving the architecture the larger world would need.
+
+This is a proving path, not an implementation claim. Terminus does not require the full persistent-world sequel, and using its constraints to test shared foundations does not make its destination canonical.

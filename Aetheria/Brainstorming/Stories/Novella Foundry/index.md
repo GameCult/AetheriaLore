@@ -1,6 +1,6 @@
 # Novella Foundry
 
-The Novella Foundry is the reusable source package for producing a planned, reviewed, inspectable novella through coordinated agent passes. It was reconstructed from the process that produced [[../Pirate Metagame Novella/index|The Burden of Proof story room]], including the defects found in that process.
+The Novella Foundry is the reusable source package for producing planned, reviewed, inspectable long-form fiction through coordinated agent passes. It retains the name of the novella process from which it was reconstructed, but the contract supports novellas and novels whose completed story briefs justify their scope. Its first evidence base was [[../Pirate Metagame Novella/index|The Burden of Proof story room]], including the defects found in that process.
 
 Start with [[Master Prompt]]. Supply a completed [[Story Brief Template]], then execute the contracts in [[Pass Specifications]]. [[Specialist Prompts]] defines advisory roles, [[State Contracts]] defines durable room state, [[Character Persistence]] defines per-character Persona revisions and scene deltas, and [[Runbook]] governs execution, resumption, review, and promotion.
 

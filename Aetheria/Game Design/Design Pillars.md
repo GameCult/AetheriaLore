@@ -20,7 +20,7 @@ Combat should be exciting, but the setting is not held together by combat alone.
 
 ## Failure Has History
 
-The persistent universe is not meant to be permanently winnable. Alien pressure eventually overwhelms the human branch, Elysium resets the timeline, and the next cycle begins with more player knowledge and possibly new content injected into the same long argument. The point is not a clean victory state. The point is watching civilizations make different compromises under pressure and seeing which ones buy time.
+Failure should leave causal history rather than become a disposable wipe. Player and community knowledge can survive even when characters, possessions, and institutions do not, allowing later play to respond to consequences without laundering catastrophe into a stat ladder. [[Persistent Universe and Reset Loop]] owns the final-form structure and its unresolved carryover rules.
 
 ## Accessible Depth
 

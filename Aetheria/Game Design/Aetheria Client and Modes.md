@@ -5,7 +5,7 @@ description: "Concept specification for Aetheria's cross-mode shell, shared play
 
 # Aetheria Client and Modes
 
-> **Status: concept specification, not a release roadmap.** [[Aetheria Starbridge|Starbridge]] has a developed draft GDD. Arena, Conquest, and the persistent world are historical hypotheses. Their presence here does not establish sequence, funding, availability, or release.
+> **Status: concept specification, not a release roadmap.** [[Aetheria Starbridge|Starbridge]] has a developed draft GDD. Arena and Conquest remain historical hypotheses. The [[Persistent Universe and Reset Loop|persistent world]] is the long-horizon design north star, not a claim about sequence, funding, availability, or current implementation.
 
 The Aetheria client is the proposed durable home around multiple playable views of one simulation. It should manage identity, parties, sessions, shared player possessions, and recovery when a role-specific runtime disconnects. A mode may change the immediate rules without quietly becoming the owner of the player's account or equipment.
 
@@ -53,7 +53,7 @@ Barracks is one candidate progression design. Its exact roster, presentation, an
 | [[Aetheria Starbridge|Starbridge]] | **Developed draft GDD** | Asymmetric cooperative defense. A shell could form the party, select roles and scenario, expose continuity context, and recover from disconnects. |
 | **Arena** | **Historical hypothesis** | A bounded competitive environment proposed to test persistent ship builds, matchmaking, records, and reconciliation. |
 | **Conquest** | **Historical hypothesis** | Seasonal campaigns proposed to test territory, logistics, production, faction pressure, and community warfare. |
-| **Persistent world** | **Historical hypothesis** | The older ambition to join embodied and corporation-scale play in one persistent context. |
+| [[Persistent Universe and Reset Loop|Persistent world]] | **Long-horizon north star** | The final-form ambition to join embodied and corporation-scale play in one shared history whose extinction loops preserve community knowledge. |
 
 These modes need not coexist or appear in this order. A mode earns promotion through a playable proof and an explicit decision, not by surviving in a planning document.
 

@@ -67,7 +67,7 @@ The reader should repeatedly receive three pleasures: institutional procedure re
 - [[Worldbuilding/Post-Elysium/Concepts/Esper|Esper]] access and institutional suppression
 - [[Worldbuilding/Post-Elysium/Concepts/Aether|Aetheric]] cognition coupling
 - Ship-mind custody and conditional personhood
-- [[../../../Narrative Themes#Institutional Misalignment|Institutional Misalignment]], [[../../../Narrative Themes#Protective Complicity|Protective Complicity]], mutability without liberation, and care as counterpressure
+- [[../../../Narrative Themes#Institutions Without One Mind|Institutional Misalignment]], [[../../../Narrative Themes#Institutions Without One Mind|Protective Complicity]], mutability without liberation, and care as counterpressure
 
 ### Story-Local Invention
 

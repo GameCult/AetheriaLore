@@ -18,6 +18,10 @@ The common account attributes Ratfolk displacement into Elysium to an FTL projec
 
 Elysium intensified those disputes. Some treat displacement as vindication of cautious, redundant systems. Others argue that safety institutions concealed risk or denied communities unfamiliar futures. Later generations may value the argument differently from those who remember the lost world.
 
+Some Ratfolk societies are unusually practiced at transmitting survival lessons to generations that did not personally endure the disaster behind them. Reachable shelter, redundant routes, bounded experiments, distributed maintenance knowledge, and emergency authority expected to expire can make precaution ordinary rather than exceptional. Their arguments begin where many human institutions end: who may declare a hazard, who pays for redundancy, how dissent can challenge safety consensus, and how a person retains the right to leave a system designed to protect everyone.
+
+Those practices do not make Ratfolk an answer key for humanity. A precautionary office can become permanent. Communal visibility can become surveillance. A ban can preserve life or convert ancestral fear into custody. What some Ratfolk cultures demonstrate is narrower and more unsettling: a civilization can survive long enough to keep arguing about the second-order dangers of its own survival mechanisms.
+
 ## Plural Societies
 
 Ratfolk live in multiple polities, settlements, households, work organizations, traditions, and diaspora networks. Their institutions differ over collective obligation, privacy, mobility, leadership, trade, technical adoption, and the right to leave. Dense communal life can provide mutual aid or make surveillance and exclusion difficult to escape. Neither result belongs to the species by nature.

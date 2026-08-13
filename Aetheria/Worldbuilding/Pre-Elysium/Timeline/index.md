@@ -12,6 +12,6 @@ description: "The eras of pre-Elysium Sol, from corporate sovereignty to the FTL
 - [[Worldbuilding/Pre-Elysium/Timeline/Identity Crisis|Identity Crisis]] (2250-2500): uploading and uplift turn personhood into a commercial and legal dispute.
 - [[Worldbuilding/Pre-Elysium/Timeline/Identity Abyss|Identity Abyss]] (2500-2750): cognitive exploitation and algorithmic governance become systemic.
 - [[Worldbuilding/Pre-Elysium/Timeline/Existential Collapse|Existential Collapse]] (2750-3025): scarcity, insurgency, and elite exit politics destabilize Sol.
-- [[Worldbuilding/Pre-Elysium/Timeline/FTL Trigger|FTL Trigger]] (March 17, 3025): the first FTL experiment triggers Sol's displacement into Elysium.
+- [[Worldbuilding/Pre-Elysium/Timeline/FTL Trigger|FTL Trigger]] (March 17, 3025): the first FTL experiment triggers the Rupture and Sol's displacement into Elysium.
 
 See [[Worldbuilding/Pre-Elysium/Timeline/Events/index|Historical Events]] for named crises and settlements.

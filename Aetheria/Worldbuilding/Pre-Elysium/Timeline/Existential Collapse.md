@@ -8,6 +8,20 @@ The [[Existential Collapse]] is what happens when the late-Sol order runs out of
 
 The crisis produces strange alignments. [[Hedonists]] become both customers and casualties. [[Disciplinists]] grow by promising severe coherence. [[Preservationists]] and mutual-aid groups become de facto emergency response networks. The social contract of Sol shrinks to a brutal question: who gets rescued from the machinery, and who is left inside it because extraction still requires a workforce.
 
+Basic income and other universal provisions keep many people alive without restoring a credible role in public life. Terminal immersion becomes an ordinary administrative path: welfare entitlement is converted into long-term care, housing returns to circulation, possessions are disposed of, and a transport eventually carries the dreamer's body away. Governments can describe the choice as autonomy and providers as care while the awake population watches entire communities depart without technically dying.
+
+### Dreamer Repositories
+
+When a contracting Bloom falls below the population and industrial base needed to maintain itself, its immersed residents cannot simply remain in scattered clinics. Regional consolidation moves them into industrial repositories built around power, nutrient cycling, waste processing, neural support, medical robotics, and physical security. Official names emphasize continuity, welfare, or autonomous residence. Those outside tend to call them dreamer cities, vaults, or mega-necropolises.
+
+At that scale, a repository is a city whose citizens do not inhabit its streets. Kilometers of cradles require little public space and relatively few awake workers. Maintenance rail, corpse recovery, pumps, proprietary interfaces, and accounting survive where civic life does not. A single site may contain the bodily population of a metropolis while its visible community is a small, exhausted workforce responsible for keeping paradise from losing pressure.
+
+Consolidation severs the last physical ties between dreamers and the places that knew them. A relative first enters a clinic nearby, then is transferred to a regional center, then becomes a row and cradle address millions of kilometers away. There is no funeral and little practical visitation. The repositories accumulate unresolved grief alongside political claims that the inhabitants remain citizens with rights, dependants consuming scarce capacity, customers under contract, or people whose expressed refusal of extraction cannot be trusted.
+
+As the Collapse deepens, repositories become too important to fail and increasingly difficult to repair. Some remain immaculate under competent automation. Some are sustained by hereditary or mutual-aid caretaker communities. Others depend on proprietary neural protocols whose owners have disappeared while automated legal entities continue billing inactive governments. The horror belongs mostly to the outside: every functioning cradle may contain someone having the best day of their life.
+
+Repositories caught in the Rupture cross into Elysium with the infrastructure sustaining them. Their immense populations are usually Aetherically quiet for the reasons described in [[Wireheading]]. The rare cradle that is not quiet presents a different problem.
+
 ### Contraction
 
 Resource exhaustion does not mean every habitat fails at once. It means maintenance debt stops being hideable. Poorly provisioned Blooms are abandoned, turned into ghost markets, or militarized. [[Aeronautics Unlimited]] keeps expansion alive longer than most through logistics ruthlessness. [[Ewan Hart]] tries to preserve agricultural autonomy where it can. The [[Pirate Coalition]], uplift polities, and insurgent networks survive by operating in the cracks between shrinking formal systems.

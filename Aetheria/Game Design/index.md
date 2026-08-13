@@ -15,8 +15,12 @@ This branch contains current design owners, developed drafts, prototypes, and hi
 
 - [[Design Pillars]] owns the durable playable values: material systems, consequential scale, ship identity, economy, failure, and accessible depth.
 - [[Playable Layers]] owns the optional, bounded exchange between embodied action and corporate strategy.
-- [[Aetheria Client and Modes]] describes candidate cross-mode shell, player-continuity, and runtime boundaries. Its mode descriptions are historical hypotheses, not release commitments.
+- [[Aetheria Client and Modes]] describes candidate cross-mode shell, player-continuity, runtime boundaries, and the distinct status of each proposed mode. None of those statuses is a release commitment.
 - [[Aetheria Starbridge|Aetheria: Starbridge]] is a developed draft GDD for asymmetric cooperative defense: one commander operates the base while pilots fight, recover material, and perform field work in the same crisis.
+
+## Long-Horizon Direction
+
+[[Persistent Universe and Reset Loop]] owns Aetheria's intended final form: a shared persistent history repeatedly ended by human extinction, with player knowledge and community institutions carrying the real progression between branches. It is a design north star rather than a claim about the current release target or implementation state.
 
 ## Design Invariants
 
@@ -32,8 +36,6 @@ This branch contains current design owners, developed drafts, prototypes, and hi
 [[End of the Line|Aetheria: Terminus]] was a reduced rogue-lite action-RPG proposal about a hostile crossing. The destination named Terminus is not established here as canonical geography. [[Call of the Void]] cut further toward curated cases, station life, taxi work, and a private investigator, but used an obsolete colonization-fleet premise; its protagonist and cases remain developmental.
 
 Both preserve design history rather than active release targets; older planning documents carry the same limit.
-
-[[Persistent Universe and Reset Loop]] preserves the historical long-campaign structure in which alien escalation, extinction, and temporal reset organize repeated play. It remains setting and design ancestry, not a current product commitment.
 
 ## Contribution Boundary
 

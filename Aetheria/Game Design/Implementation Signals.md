@@ -20,6 +20,8 @@ The unverified report left six recovery targets:
 
 These statements have no source commit, branch, inspection date, exact file references, build result, or independent verification recorded here. “Reported” means only that the previous note said these structures existed or were sketched. It does not distinguish working systems from abandoned files, incomplete experiments, generated artifacts, or inferred intent.
 
+The reported Ink constraints and faction-aware placement resemble the semantic-binding path now specified in [[Narrative and Missions]]. That resemblance identifies a source-recovery target, not proof that the current code implements the design.
+
 ## Verification Required
 
 Promoting any reported signal requires the source repository, branch, commit, inspection date, exact paths, build or test result, observed behavior, and a bounded inference accepted by the relevant owner. Until then, this note supports no claim about the active engine, dependencies, runtime architecture, content pipeline, procedural generation, narrative tooling, or release target.
