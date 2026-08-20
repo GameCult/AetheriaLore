@@ -19,3 +19,11 @@ Authority is local and task-bound. A habitat may defer to a navigator during eva
 The Collective reproduces materially as well as biologically. It must secure incubation space, food, medicine, cybernetics, replacement interfaces, fabrication feedstock, power, and network routes. Knowledge is copied across caches so that a destroyed nest does not erase the techniques needed to build another. Human and machine-scale collaborators extend its reach. The best-known are the [[Chaos Weavers]], human associates who fight information control through misinformation, leaks, and spoofed trust signals.
 
 This infrastructure, rather than any universal temperament, explains the Collective's characteristic methods. Small bodies, uneven access, and persistent surveillance reward misdirection, salvage, infiltration, and selective disclosure. Humor is common, but it is neither a constitution nor a substitute for material survival.
+
+## Names, Identity, and Translation
+
+A Corvid true name is a living autobiographical composition, not a short spoken label. It may combine syrinx harmony, posture, neural-link metadata, sensory quotation, references to other names, and revisions made at later molts. A full name can therefore carry what a human translation renders as an entire poem. Short calls such as `Krrik` or `Tlak` are titles or human glosses, not the name itself.
+
+Corvids disclose identity selectively. A person or group may offer a temporary human-facing role-name without revealing which body currently speaks through it; several people may share that role-name, and one person may change roles between exchanges. Operational systems can retain opaque individual identifiers for medical care, rescue, consent, liability, and casualty accounting without receiving the autobiographical name or permission to infer it. Collective speech does not erase individual bodies, needs, refusals, possessions, or continuation rights.
+
+Poetic language is also ordinary infrastructure. Corvid annotations may encode provenance, repair history, warnings, jokes, obligations, or the remembered conditions under which an object survived. A translated poem on a feed label is not decorative flourish: it may be a denser and more socially precise record than the human label beside it.
