@@ -20,6 +20,16 @@ These systems do not produce perfect obedience. A worker can misunderstand an in
 
 Mixed worksites made category boundaries operational. A VitaForge biodrone might work beside baseline crews and [[BioElevate]] uplift lines under different contracts, support systems, and legal classifications. An identical refusal could therefore enter three separate administrative channels before the workers involved recognized it as one dispute.
 
+## Shift-Issue Line Kits
+
+> **Authored elaboration — Patina, 2026-09-04.**
+
+At the [[Pallas Species Strikes|Pallas]] ramps, BioDrone Standard shifts commonly began at an issue counter. A worker received an individually fitted line kit assembled from a limiter bus coupler, audit-port seal, compliance recorder, and diagnostic adapter. AU would not release the worker's route until the kit agreed with the body tag; VitaForge retained the interface record, while a local maintenance contractor cleaned and repaired the removable parts. A mismatch could therefore stop a shift while three institutions decided whose inventory was wrong. The worker absorbed the lost time and the badly fitted hardware.
+
+Crews gave these supplier-owned fittings private names based on scratches, clicks, repaired catches, or the way a coupler sat against one particular body. A name did not change title. It let a worker say *that is Rain-Again, not Quiet-Blue* when refurbishment returned a familiar serial with the wrong physical part. Baseline issue clerks and uplift crews learned the names because their own safety depended on sending the right bodies through the right access routes. The names became an informal continuity layer wherever the official ledger treated calibrated objects as interchangeable.
+
+Some counters kept a second return board made from grease marks, knots, or tactile chips so the next shift could put each named fitting back with its usual wearer. This small mutual aid cost minutes and could expose an unauthorized transfer during audit. Erasing it kept the supplier record clean and made hurried swaps harder to catch. The ordinary dispute was whether a private name stayed at the counter or entered the incident log, where it could protect a worker and also identify the people who had been helping.
+
 ## Cognition And Recognition
 
 Biodrone cognition varies among lines and individuals. No single test resolves whether an organism possesses memory, anticipation, reciprocity, self-recognition, or an enduring claim over its body. Tests are shaped by the communication channels a design permits. An organism unable to speak through a human interface may still remember routes, coordinate work, protect others, or change after injury.
