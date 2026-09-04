@@ -14,6 +14,8 @@ The PSC is staffed by secondees, legal technicians, risk officers, auditors, and
 
 That is why the PSC can look weak and still matter enormously. It does not need universal loyalty. It needs enough dependence. If a faction requires access to [[PSCC]] clearing, neutral docks, standardized sanctions relief, or recognized conflict permits, then the Consortium still has leverage over it.
 
+The same logic lets firms turn dependence back upon the Consortium. [[Worldbuilding/Politics/Continuity Constituencies|Continuity constituencies]] make unaffiliated groups endangered by a firm's failure into evidence for narrower sanctions, protected corridors, and higher enforcement bonds. PSC review must price those external harms even when the claimant deliberately cultivated them.
+
 ### Internal Contradiction
 
 The PSC publicly praises stability, transparency, and fair competition. Internally it is a battleground of lobbying blocs shaped by the same ideological fractures that divide Sol itself. [[Lucent Media]] wants narrative leverage, [[Zhestokost]] wants security latitude, [[Finch Cybernetics]] wants standards that reward high-end integration, [[Cryonix]] wants premium thermal standards treated as sovereign property, [[Rossum & Douglas]] wants certification authority over circulation and quiet-running safety, [[SolEx]] wants throughput, and later [[Sol Dominion]] wants the Consortium weak enough to bend but strong enough to discipline everyone else.

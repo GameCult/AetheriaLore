@@ -16,6 +16,7 @@ This branch tracks the doctrines, constraints, and enforcement systems that keep
 ## Administrative Order
 
 - [[Worldbuilding/Politics/Restrictions on Warfare|Restrictions on Warfare]]
+- [[Worldbuilding/Politics/Continuity Constituencies|Continuity Constituencies]]
 - [[Worldbuilding/Politics/PSCC|PSCC]]
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Pan-Solar Consortium|Pan-Solar Consortium]]
 

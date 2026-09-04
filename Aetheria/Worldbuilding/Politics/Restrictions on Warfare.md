@@ -10,6 +10,8 @@ The PSC translates conflict into administrative categories: permitted or illicit
 
 Permits, escrow, and bonds give the system financial leverage before force is used. Requirements vary by jurisdiction, participants, declared objective, expected externalities, and the infrastructure placed at risk. An operation near a major transport corridor, shared power system, settlement, or other widely used asset attracts greater scrutiny because damage can interrupt obligations far beyond the target. Arbitration after the event determines how much of the declared account survives contact with competing evidence.
 
+The political use of independent third-party dependence is described in [[Worldbuilding/Politics/Continuity Constituencies|Continuity Constituencies]]. A claimant may receive narrower sanctions or higher protection costs when coercing it would interrupt unaffiliated clinics, unions, habitats, or carriers, which gives powerful firms reason to cultivate the externalities the system is meant to contain.
+
 The PSC also maintains corridor rules and arrangements around neutral docks, relays, clearing access, and sanctions relief. Protection is uneven. Some facilities are backed by several powers and hired security; others remain neutral only while recognition is more profitable than violation. Restrictions are strongest where many parties depend on the same asset.
 
 ## Evidence And Price
