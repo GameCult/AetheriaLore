@@ -31,6 +31,16 @@ These are economy and item-blueprint candidates discovered while grounding the P
 
 **Notes:** This is mobile worker equipment, not an aquarium, habitat, containment chair, or dedicated workstation. Cheap AU variants optimize reach, squeeze-through access, low-g mobility, and survival margin before comfort.
 
+### Authored elaboration: Kappa rig-service lease chain
+
+This is one Pallas yard pattern for economy and story use, not a universal Bloom contract. In the provisional Service Ring Kappa case, the AU Ramp Administration leases numbered harness assemblies as a batch work-support service from BioElevate or a licensed fitter. The service invoice covers oxygenation and humidity consumables, cuff fitting, diagnostic signatures, and the recorded route envelope in which each assembly is accepted. AU owns shift admission, power and fluid hookups, timekeeping, and claimshare entries. A yard insurer may accept a crawl assignment only while the rig, route, and service records remain current. The worker still owns the decisive lived judgment that the rig and route are safe enough to enter; no supplier, operator, or insurer can infer that judgment from a green record.
+
+Arrears propagate without a theatrical remote shutoff. When AU misses a batch service payment, the fitter continues support already in use but can withhold the next consumable issue and recertification. The insurer can then stop accepting new Kappa crawl releases under the existing terms, and AU's shift gate can reject the worker's badge. AU may record the lost hours as nonattendance, preserve its lease claim against the assigned harness, and defer the inspection that worker was meant to perform. The cephalopod cannot safely abandon the support assembly in a dry yard, so a corporate lease becomes bodily dependence and a disputed equipment balance at once.
+
+One missed inspection recruits the rest of the ramp. Kappa remains on temporary bypass, spending pressure and thermal margin; heavy yard cycles slow; freight misses booked transfers; paid hours and outside confidence fall; claimshares become harder to use; and the maintenance budget that defaulted on the harness service weakens further. Management can describe each step as a separate supplier, insurance, attendance, or scheduling problem even though the same unpaid support invoice runs through all of them.
+
+Crews can buy time without ending the dispute. The strike-safe bypass kit carries a dry-operation support adapter, manual fit record, and tamper-evident custody log so workers can pool compatible consumables, keep an already-fitted assembly alive, and preserve civilian air margin while refusing the crawl order. This is mutual aid at shift scale: it interrupts the cascade for hours, not forever, and leaves the workers needing supplies, access, and one another.
+
 ## VitaForge BioDrone Standard Limiter Interface
 
 **Likely class:** `CompoundCommodityData`
