@@ -4,3 +4,7 @@ description: "Supporting notes, preserved stubs, and continuity scaffolding kept
 ---
 
 This branch holds reference material that is useful for continuity, lookup, or inherited planning context even when it is not the first thing a normal reader needs. Think of it as the drawer where the vault keeps its spare screws.
+
+## Institutional Forms
+
+- [[Remainder Charters]]

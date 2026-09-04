@@ -14,6 +14,8 @@
 
 ### Succession Chains
 
+Not every succession followed ordinary ownership. [[Remainder Charters]] let a firm or later corporate house inherit a bounded public office by assuming the scheduled support burden for an uplift population's future cohorts, turning care liabilities into political continuity.
+
 [[Horizon Ventures]] and [[TerraCore Industries]] merged under debt pressure in 2095 to form [[SolEx]]. SolEx kept Horizon's transport spine, TerraCore's extraction contracts, and almost none of their public rhetoric about opportunity.
 
 [[Orbital Forge]] began as a contractor cluster inside the SolEx expansion machine, then broke away when engineers and cavity planners fought to keep Bloom tooling partially open-licensed. That fracture is why Orbital Forge remained commercially indispensable and politically suspect for centuries.
