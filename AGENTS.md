@@ -2,7 +2,11 @@
 
 ## Purpose
 
-This repository is an Obsidian vault for the Aetheria setting. Contributions should preserve it as a coherent worldbuilding knowledge base rather than treating it like generic prose storage.
+This repository is an Obsidian vault for the Aetheria setting. Make it accessible to a curious reader who knows neither the setting nor its institutional vocabulary. The reader should understand the people, stakes, and causal mechanism on a first reading. Accessibility governs the prose even when existing notes model a more abstract or self-consciously clever style.
+
+## Next Action
+
+Operator priority, 2026-09-04: clean up the accessibility of existing vault prose before further lore expansion. Start with a small cluster of reader-facing institutional notes whose stakes or causal mechanisms are difficult to understand. Put lived experience first, explain who loses or gains what and why, then introduce the institutional terminology. Preserve facts, chronology, uncertainty, and distinctive setting detail. Read complete revised notes for first-reading comprehension; do not substitute style counters or a uniform template. Continue in bounded passes, recording the next unfinished cluster here. Other work follows this priority. The world-elaboration review drafts remain unadmitted and must not enter canon without operator approval.
 
 ## Project Conventions
 
@@ -29,31 +33,29 @@ This repository is an Obsidian vault for the Aetheria setting. Contributions sho
 
 ## Writing Style
 
-- Write in clear, polished Markdown prose.
-- Default to a serious, analytical, high-concept science-fantasy / science-fiction voice.
-- Treat the setting as materially grounded: economics, ideology, infrastructure, labor, warfare, governance, class power, and technological constraints should feel causally connected.
-- Keep speculative elements legible by anchoring them in social, political, or physical consequences.
-- Use vivid phrasing when appropriate, but avoid empty flourish that does not add setting information, mood, or ideological texture.
-- Use evocative emotional language when it sharpens the reader's sense of lived experience inside a system. A good phrase can crystallize how a regime feels from within, especially around labor, desire, status, fear, debt, or the false promise of escape.
-- When writing about cruel institutions or morally intolerable systems, prefer sober description and emotionally resonant detail over openly condemnatory wording. Let workflow, euphemism, routine, and material consequence carry the horror where possible.
-- When revising, preserve unusually strong lines that reveal lived experience with precision. If a phrase makes the reader feel a system in their body or names longing, shame, relief, or self-deception with unusual force, keep it unless there is a clear reason to remove it.
-- Maintain internal consistency with existing terminology, institutions, factions, and timeline beats.
+- Write plain, direct prose. Use familiar words, concrete subjects, and verbs that say what happens. Put the difficulty in the situation people face; do not make deciphering the sentence another task.
+- Lead with lived experience. Show what someone wants, what changes in their life, and what they stand to lose or gain before explaining the institution that causes it. A reader should grasp the stakes without understanding every legal or technical detail.
+- Explain cause and effect explicitly. Name the decision, who makes it, what it changes, and why the next consequence follows. "A suspended work clearance costs the family its district housing, which breaks an elder's access to their clinic" teaches more than an unexplained "administrative cascade."
+- Introduce a setting term after its plain-language meaning, or explain it immediately. Develop one unfamiliar idea at a time. Do not require readers to follow several wiki links to understand the paragraph in front of them.
+- Keep the politics, economics, and speculative mechanisms precise. Use concrete examples to explain complexity; retain the distinctions that actually change someone's choices. Avoid compressed lists of abstractions offered as explanation.
+- Let specific images and human consequences carry emotional force. Preserve a striking line when it helps the reader understand or feel the situation. Cut or rewrite it when its cleverness obscures the meaning, even if it sounds impressive.
+- Treat mystery as something the people in the world may not know. Make clear what is observed, believed, or disputed; obscurity in the prose does not create useful mystery.
+- Maintain established facts, terminology, relationships, and chronology. Existing wording has no authority over a clearer explanation of the same facts.
 
 ## Tone
 
-- The project's dominant tone is sober, reflective, and politically aware.
-- Many notes frame technology and institutions in terms of incentives, domination, exploitation, regulation, resistance, and material tradeoffs. Preserve that lens.
-- Avoid slipping into overt editorial condemnation when a note is stronger with colder language. In many cases, bureaucratic phrasing, product language, and the calm description of ordinary procedure will hit harder than calling something monstrous outright.
-- When expanding factions or concepts, avoid flattening them into pure heroes, villains, or aesthetic stereotypes. Emphasize tensions, contradictions, and historical pressures.
-- Keep the writing attentive to how systems shape lived experience, not just to spectacle or lore trivia.
+- The tone is sober, humane, and politically aware. Readers should feel invited into the world, not examined on their ability to interpret it.
+- Give corporate euphemisms and bureaucratic language to the institutions using them. Explain their practical meaning in the surrounding prose: what a "service consolidation" closes, how far the family must travel, or which care becomes an extra charge. The narrator must not adopt the institution's evasiveness.
+- Show cruelty through decisions and their effects, and give cooperation, affection, humour, and ordinary competence the same specificity. Characters and institutions need motives beyond illustrating a thesis.
+- Avoid a clever reversal, balanced moral ledger, or concluding aphorism when the example has already made the point. Preserve memorable language that earns its place through clarity and lived detail.
 
 ## Note Structure
 
-- Match the local structure of neighboring notes before introducing a new pattern.
-- Many notes begin with a short orienting paragraph, while others begin with a heading such as `### <Topic>`. Either is acceptable if used intentionally.
+- Open with a short explanation of the subject and why it matters to someone. For an unfamiliar institution, put a section about how affected people live through it near the top, before its offices, procedures, and legal history. A compact note can do this in its opening paragraphs; no mandatory template or invented scene is needed.
+- Use neighboring notes to locate facts, vocabulary, and ownership. Organize the explanation for the reader even when nearby notes bury the stakes or begin with abstract machinery.
 - Use short thematic sections with Markdown headings when a note benefits from subdivision.
 - Timeline and index notes should stay scannable, with compact summaries and linked entries.
-- Faction, technology, and concept notes should explain what the subject is, how it functions, who it affects, and why it matters in the broader setting.
+- Once the reader understands the lived stakes, explain the mechanism, how it arose, and the disputes or choices it creates. A plain account must still explain why an institution persists and how its promised benefits or escape routes actually work.
 - Prefer concise paragraphs over oversized blocks when clarity would benefit.
 
 ## Content Expectations
@@ -61,10 +63,8 @@ This repository is an Obsidian vault for the Aetheria setting. Contributions sho
 - New material should deepen the setting rather than merely decorate it.
 - Ask of each addition: what pressures produced this, who benefits, who is constrained, what contradictions does it create, and how does it interact with other parts of the setting?
 - Be mindful of continuity across Pre-Elysium, Post-Elysium, politics, technology, and factional history.
-- When possible, connect abstract concepts to institutions, everyday life, and conflict.
 - For factions and territories, make daily routines, currencies, status traps, family structures, and life-cycle expectations palpable and distinct. A reader should be able to imagine childhood, work, aspiration, compromise, aging, and failure under each system.
-- When a setting element relies on euphemism, preserve the euphemism as part of the worldbuilding rather than flattening it into a blunt summary. Corporate, legal, and technical language should often reveal how a system survives public knowledge.
-- In notes about labor, cognition, or institutional cruelty, pay attention to boring routine: dashboards, quotas, metrics, scheduling, paperwork, and professional pride are often more revealing than dramatic villainy.
+- Make costs and benefits specific enough to explain people's behaviour. If a family makes a sustained sacrifice, show what it reliably buys, why the opportunity exists, and where its protection ends. Do not rescue an implausible idea by adding vague exceptions or unexplained rules.
 
 ## Core Narrative Themes
 
@@ -91,11 +91,10 @@ This repository is an Obsidian vault for the Aetheria setting. Contributions sho
 
 ## Editing Guidance For Future Agents
 
-- Read adjacent notes before making substantial additions so new material matches local vocabulary and structure.
+- Read adjacent notes before making substantial additions to establish facts, terminology, and unresolved questions. Do not imitate their stylistic density when it conflicts with the accessibility guidance above.
 - Preserve existing links and add new ones where they genuinely improve navigation.
 - Do not remove ambiguity or tension unless the note is clearly meant to resolve a question.
 - If you encounter malformed characters from prior encoding issues, fix them carefully and only where you can do so confidently without changing meaning.
 - Keep prose fully in-world and topic-facing. Do not mention templates, repetition, drafting strategy, or the fact that a passage is avoiding a pattern. Notes should never sound aware of the prompt behind them.
-- Be careful with words like `atrocity`, `horror`, `creepy`, `monstrous`, `twisted`, or similar overt moral labels. Use them only if the local note already supports that register. Otherwise prefer language that lets the reader feel the system through procedure, implication, and lived effect.
-- When differentiating related notes, vary both the substance and the rhetoric. Do not solve one repeated structure by leaning on another repeated move such as "`X` exists, but the real thing is `Y`", "what matters more is", or other self-justifying contrast formulas across every note.
-- After revising a cluster of similar notes, reread the edited passages together and remove any repeated pivots, especially recurring `, but` clauses, "the real X" constructions, or lines that read like editorial commentary rather than setting material.
+- Read the complete note from the position of an interested newcomer. Can they explain who wants what, what happens to them, and why, without translating the prose into ordinary language first? If the explanation given in conversation is clearer than the note, put that explanation in the note.
+- Review prose through meaning and reading experience, not forbidden-word lists, sentence-pattern counts, or readability scores. Reread related notes together for repeated rhetorical performances, then repair the explanation rather than swapping synonyms.
