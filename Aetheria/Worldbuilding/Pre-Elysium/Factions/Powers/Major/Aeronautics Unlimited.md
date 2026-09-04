@@ -26,4 +26,14 @@ AU projects employ baseline crews, uplifts, biodrones, independent engineers, an
 
 This binds households to the ramp's risk. Staying preserves access and accumulated standing while exposing the household to deferred maintenance and another dangerous cycle. Senior engineers and coordinators can diversify across projects or negotiate portable credentials. Many crews cannot.
 
+### Claimshare Settlement Cascades
+
+**Authored elaboration — Ledger, 2026-09-04.**
+
+A Ramp Administration records claimshares to workers and households for accepted shifts, hazard duty, or cash obligations deferred against future production. They are not equity and confer no ownership of the ramp. Inside that project, however, they can set priority for berth rent, utility and support-rig upgrades, tool issue, clinic and transit queues, or payment to local contractors willing to accept AU's promise. A balance is therefore both compensation and a reason its holder cannot afford to leave.
+
+Settlement depends on several contracts surviving together. A ramp may lease heavy transfer machinery, license supplier diagnostics, insure certified throughput, buy filters and replacement assemblies on freight credit, and promise to clear local claimshares from later production receipts. If one maintenance lease defaults, the supplier can move a replacement assembly to cash terms. The repair slips; the operating certificate narrows; coverage and freight become more expensive; throughput falls; cash settlement pauses; and local desks stop honoring junior claimshares. The Ramp Administration can then offer another hazardous cycle with senior settlement priority to the workers whose accumulated claims just lost value.
+
+Service Ring Kappa in the Pallas Bloom Cluster became a strike-era example of this trap. Its seal-lung and bypass maintenance protected the industrial yard's open atmosphere and kept the throughput certificate alive, while the crews doing that work depended on the same certificate to make their claimshares spendable. Mixed crews answered with small cross-category household books that honored food, clinic accompaniment, dry-operation cartridges, and repair time even when the ramp ledger froze. Those books could not import a manifold assembly. They could keep a missed corporate payment from immediately deciding who ate or whose body remained safe enough to work.
+
 AU's flexibility comes from keeping projects, suppliers, and labor categories partially separate until coordination becomes profitable. The same structure spreads failure downward. When expansion succeeds, AU consolidates operating rights and claim revenue. When it fails, administrators can abandon a project while describing the workers, contractors, and local councils left behind as independent claimants.
