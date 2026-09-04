@@ -18,6 +18,18 @@ In 2450 NeuroSyn began uplifting ravens for reconnaissance, fitting them with en
 
 The escape exposed the weakness in NeuroSyn's claim to trustworthy oversight. Corvid communities understood its access systems and telemetry from inside. They could spoof, disclose, or route around tools marketed as neutral records of worker conduct. After escape, those communities developed independently of the company that had confined them.
 
+### Welfare Pruning and Exception Chains
+
+> **Authored elaboration — Veil pass, 2026-09-04.**
+
+Corvid-program sessions produced three records that NeuroSyn kept under different authorities: raw interface telemetry under the interface team, treatment and drug-use records under contracted animal-care staff, and restraint or isolation incidents under containment. The welfare bundle shown to clients was a derived report. Its pruning rules could merge repeated distress responses, classify peaks as calibration noise, or omit mission-sensitive intervals before an auditor saw them. A short raw buffer survived for fault diagnosis, but contract auditors normally received the submitted bundle and pruning configuration rather than client route data or individual treatment files.
+
+The containment lead depended on the other teams to keep those records separately plausible and signed the classifications that joined them into one clean account. No subordinate held the whole lie. Interface calibrators could see rejected peaks but not the drug ledger; care staff could count sedative seals and treat restraint damage but not inspect reconnaissance telemetry; the ravens knew which event happened to which body but were treated as disputed witnesses. The lead, who saw the schedule, exception queue, and audit packet together, knew when "rest" meant enforced isolation and when "calibration" meant a response the contract could not survive.
+
+A discrepancy became usable only through an **exception chain**: matching a calibrator's rejected-event receipt to a numbered treatment seal or injury ticket before the raw buffer expired. That join did not disclose the protected medical or mission content. It proved that the configuration examined by the auditor was not the configuration described by the welfare bundle. Rossum & Douglas could then narrow or withhold its finding; a receiving insurer or procurement office still decided whether the deployment stopped.
+
+Workers called the quiet practice of preserving separate receipts the **second count**. A technician kept one timecode, a care worker kept another, and a raven carried or cached neither party's complete evidence. It was mutual aid small enough to survive precisely because nobody owned the whole disclosure path. Joining the receipts exposed both workers to dismissal or prosecution and often caused the named raven to be isolated as contaminated evidence. If containment found either fragment early, reset the local clock, or let the raw buffer roll over, the chain collapsed into rumor and taught management where to prune next.
+
 ### Alignment Market
 
 During the [[Identity Abyss]], NeuroSyn integrated its interfaces into [[Framgång]]'s alignment market. Training prompts and safety reports acquired therapeutic language; affect profiles became evidence of purpose, stability, and willingness to improve. The underlying relationship remained familiar. Employers and insurers rewarded legible conduct, while workers learned which feelings and explanations the interface would accept.
