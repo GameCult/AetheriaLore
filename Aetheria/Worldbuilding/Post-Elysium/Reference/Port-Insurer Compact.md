@@ -34,6 +34,18 @@ A Compact action must identify the accepted finding, the receiving office, the o
 
 The office must provide a route to cure or challenge appropriate to its action: corrected records, independent inspection, a reconciliation bond, a safety demonstration, a hearing, expiry, or review by another authorized officer. Cure does not prove the underlying history false. It satisfies or defeats the condition attached to that gate.
 
+## Reconciliation-Bond Clocks
+
+> **Authored elaboration (Ember, 2026-09-04).**
+
+A reconciliation bond is temporary collateral against losses named by the receiving office while a contradiction remains under review. It is not a fine, purchase of innocence, transfer of title, or admission that one history is true. The notice identifies the covered risk, acceptable security, release or call conditions, and the event that ends the bond.
+
+At a busy port, the bond often runs against a separate berth-isolation clock. The insurer sets the amount and decides what security satisfies its own condition. The berth authority sets how long a vessel may occupy an isolated berth before traffic, life-support load, or local hazard rules require movement. Neither office controls the other's decision. A bond can therefore become acceptable after the berth window closes and be operationally useless.
+
+The first failure is usually movement rather than forfeiture. The berth authority may order a bonded tug to shift the vessel to a cold anchorage or uncontrolled roadstead. Tow and cycling charges attach; a repair yard releases the missed slot; perishable cargo, wages, medicine, or onward contracts default on their own clocks. A claimant does not gain title merely because the crew ran out of time, but the resulting immobility and fresh debt can make surrendering a component, route, or custody claim the only immediately financeable offer.
+
+Dockworkers and neighboring crews sometimes assemble a short-lived counter-surety from several small pledges, witnessed repair commitments, or claims on an incoming payment. The insurer may accept or refuse it, and every signer risks later access or credit if the bond is called. The practice does not reconcile the record. At best, it buys enough time for inspection or challenge without requiring one patron to own the rescue.
+
 ## Limits
 
 The Compact does not decide metaphysical truth, continuity, personhood, ownership, guilt, or final custody. It does not convert suspicion into every available restriction or allow one office to act for another. A ship may receive a conditional berth while retaining coverage; lose coverage while retaining title; or enter a custody review while its testimony remains audible but disputed.
