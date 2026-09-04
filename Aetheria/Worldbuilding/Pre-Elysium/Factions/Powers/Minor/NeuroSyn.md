@@ -29,3 +29,23 @@ Adoption remained uneven. Some sites used affect and alignment services; others 
 The 2779 [[Internal Serenity Review]] found that therapeutic affect shaping, compliance architecture, and coercive bliss loops had become inseparable in several NeuroSyn-powered Framgång products. The review did not end the work. NeuroSyn's reward-loop warfare team and openly coercive products were spun into [[NeuroPulse]], which sold pacification and later [[Wireheading]] weapons to harder clients.
 
 NeuroSyn remained the quieter infrastructure beneath that split: workplace interfaces, managed access, training, and telemetry. Its power lay in making useful assistance real, then allowing employers, insurers, and vendors to decide whether a worker remained eligible to receive it.
+
+### The Accrued Normal
+
+NeuroSyn's welfare pruning did not always delete distress. When a client cleared an alarm as adaptation variance, sensor error, or permitted handling, the event left the site's incident stream but its stripped feature bundle could enter the next cross-site welfare model as a negative example: a pattern the system should no longer interrupt. The actuarial layer built from those accepted exceptions became known as the **Accrued Normal**. One concealed injury could therefore teach distant facilities that a similar body was not in danger.
+
+The arrangement divided knowledge cleanly. A containment lead chose the local disposition. NeuroSyn release engineers saw de-identified signal and the client's label. An insurer saw fewer costly stops. A standard [[Rossum & Douglas]] finding could identify the deployed model hash, validation result, and declared lineage exclusion while remaining contractually barred from the neural exemplars protected as subject-private and supplier-proprietary data. The finding was true within scope; procurement offices routinely treated it as proof of welfare because buying the narrower truth was cheaper.
+
+No official witness held the whole lie. Captive [[Uplift|uplifts]] remembered the handling that produced the signal. Feed technicians, medics, and maintenance crews saw extra sedative, damaged interfaces, replacement tags, or altered shifts. Model technicians could see that an unusual cluster had moved the classification boundary but not whose bodies had supplied it. This partition let each office deny what another office knew while NeuroSyn sold the combined result as improved calibration.
+
+Employers gained uptime, NeuroSyn retained subscription and model revenue, and insurers gained stable false-alarm rates across unfamiliar engineered bodies, including [[Biodrone|biodrones]] whose permitted communication channels were already easy to discount. The cost accumulated elsewhere. Later alarms arrived against a baseline made tolerant by earlier harm, and sites became dependent on the same model generation for SkillPack access, hazard credentials, and affect support. Proving contamination could suspend findings, raise coverage, revoke work authorization, and interrupt functions that kept the affected workers alive. Suppressed suffering became part of the safety infrastructure that made disclosure ruinous.
+
+The strongest disclosure path joined three weak records: a pre-prune buffer fragment or body-owned baseline; a signed release delta showing that the same feature changed the model boundary; and a non-neural consequence such as clinic stock, damaged hardware, feed consumption, or rota replacement. Any one could be dismissed as an anomaly, protected secret, or unrelated expense. [[Corvid Collective]] cells and [[Free Neural Network]] clinics learned to hold those pieces separately, disclose identities only after arranging care or exit, and publish the join through several small custodians so one raid could not restore the official ignorance. It was slow, expensive, and occasionally enough.
+
+#### Open Pressures
+
+- How much late-Sol interface infrastructure rests on model generations whose low alarm rates cannot survive a lineage review?
+- When contamination is proved, can a certifier narrow a finding without abandoning the workers whose care and credentials depend on the tainted model?
+- What happens when a captive population learns to reproduce its own pruned signature on demand and uses the next release as a public receipt?
+
+*Elaboration: Veil pass, 20260904-195734.*
