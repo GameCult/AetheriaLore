@@ -106,3 +106,17 @@ These are economy and item-blueprint candidates discovered while grounding the P
 - failure harm severity
 
 **Notes:** This is politically volatile gear. Its usefulness comes from technical mercy: keeping civilians alive while preserving the workers' ability to refuse a dangerous order.
+
+## Authored Elaboration: Bypass Custody And Default Cascade
+
+*Ledger pass, 2026-09-04.*
+
+At Pallas, a strike-safe bypass kit was usually assembled from ordinary stock rather than purchased as one product. [[Aeronautics Unlimited]] had little reason to create an inventory class whose plain purpose was letting a stoppage remain safe. Portable scrubber bridges came from life-support stores; manual valve plates belonged to the local maintenance budget; flexible tubes and seal tape sat under incident response; custody recorders belonged to safety; body-specific couplers were issued with workers' support equipment. No single requisition named the whole machine.
+
+That division spread both control and liability. A baseline rigger could carry the bridge frame and seal stock but could not reach or read every embedded valve. A dry-operation cephalopod specialist could route the flexible connections through cramped shell arteries, but depended on a working humidity skin, oxygenation loop, pressure cuffs, and the correct utility coupler. Engineered seal technicians knew the local sequence and failure sounds while their employer treated that knowledge as product behavior. The kit worked only when several labor categories that AU contracted separately chose to make one another's work possible.
+
+Deployment bought minutes, not autonomy from the habitat. Scrubber cartridges, seal compounds, and clean tubing were consumed. A used valve plate and custody recorder required inspection before the next emergency. The bridge also needed workers at both the human-scale manifold and the specialist artery: it could hold pressure, air, condensate, or coolant margin through a local stoppage, but it could not run an industrial district indefinitely or make an unsafe main route safe.
+
+AU charged those costs to the work group recorded as issuing the last component. If that group then refused the scheduled entry, the Ramp Administration could record a service default, hold its maintenance release, and suspend the claimshare credit attached to the missed work while the incident was reviewed. The default therefore propagated: spent cartridges were not replaced; the next fault began with less reserve; supervisors gained an argument for forcing the main route back online; and households whose food, equipment access, or timekeeping standing depended on ramp claimshares absorbed the pressure to end the stoppage.
+
+Some mixed crews answered by distributing custody before a dispute. Riggers held frames and rescue seal stock, cephalopod crews held body couplers and route knowledge, and another shift kept the recorder key or clean cartridges. They traded replacements through small reciprocal debts instead of one central strike cache. No crew could deploy the kit alone, but a supervisor seizing one locker could not remove every safe alternative either. The arrangement was fragile, slow, and genuinely mutual: keeping air in the district required workers to trust people whom the contracts had taught them to see as competitors.
