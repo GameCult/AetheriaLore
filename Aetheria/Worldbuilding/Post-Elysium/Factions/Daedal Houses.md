@@ -1,51 +1,87 @@
 # Daedal Houses
 
-The Daedal Houses are post-Elysium industrial guilds descended from Daedal Ergotechnics, a late-Sol manufacturer of premium full-body machinery. Its frames carried human judgment into work too large for an unassisted body and too irregular, prestigious, or liability-sensitive to automate completely. Shipwrights, inspectors, salvage specialists, and celebrity fabricators sold an artisanal human touch at industrial scale.
+The Daedal Houses are post-Elysium industrial guilds that build and operate machinery a pilot learns to feel as part of their own body. Their ship-scale vessels, called **Figures**, let pilots handle salvage, rescue work, and industrial construction with the close control of someone using their hands.
 
-Daedal's product was **somatic extension**. Its interfaces reconciled motor intent, balance, actuator position, load, and touch until an operator learned the frame as an enlarged body. This was a costly application of [[Worldbuilding/Pre-Elysium/Technology/Brain-Computer Interfaces|brain-computer interfacing]], supported by calibration clinics and trained crews. Yards paid for the machinery, service dependency, and a named craftsperson at the controls.
+A Figure can be a House's workshop, collateral, family livelihood, and military asset at once. Losing one can bankrupt the House and kill both its pilot and the yard specialists whose knowledge made the vessel useful. The pilot may be celebrated, but keeping that enlarged body working takes a crew, a yard, and years of training.
 
-The shunt carried frames, technicians, pilots, calibration records, contracts, and service families into Elysium. Separated yards reorganized as Houses linked by compatible interfaces and mutual dependence rather than one surviving corporation.
+### From Industrial Frames to Houses
 
-### Figures
+The Houses descend from Daedal Ergotechnics, a late-Sol manufacturer of premium full-body machinery. Its customers needed human judgment in work too large for an unassisted body and too irregular, prestigious, or sensitive to liability to automate completely. Shipwrights, inspectors, salvage specialists, and celebrity fabricators sold an artisanal human touch at industrial scale.
 
-A House calls the body model joining pilot and machine a **somatic envelope**. [[Worldbuilding/Post-Elysium/Technology/Cognitive Interfacing|Cognitive interfacing]] carries the signals; the envelope is the pilot's learned experience of their boundary. A pilot may feel uneven thrust as lost footing and correct it by catching their balance before they could interpret several separate instrument warnings. Automation and crew still classify hazards, manage systems, and execute work outside that embodied span.
+Daedal called its approach **somatic extension**: making machinery feel like an extension of the operator's body. Its interfaces brought motor intent into agreement with feedback about balance, actuator position, load, and touch. With training, an operator learned the frame as an enlarged body rather than a machine controlled at a distance.
 
-In Elysium, latent [[Worldbuilding/Post-Elysium/Concepts/Esper|esper]] ability can make a coherent envelope influence how machinery couples to the [[Worldbuilding/Post-Elysium/Concepts/Aether|Aether]]. Daedal markets the resulting performance as *anthropic control geometry*. The interface does not create agency or thrust: it reconciles bodily intention with the control systems and [[Worldbuilding/Post-Elysium/Technology/Aetheric Drive|drive]] that act on it.
+This was an expensive use of [[Worldbuilding/Pre-Elysium/Technology/Brain-Computer Interfaces|brain-computer interfacing]]. Calibration clinics and trained crews supported it. Yards paid for the machinery, continued dependence on its services, and a named craftsperson at the controls.
 
-Embodiment is usually easier when a Figure resembles the pilot's lived body. A human pilot usually embodies bilateral limbs, a centered horizon, and a torso balance model with less training than an unfamiliar anatomy. Humans can learn extra arms, altered proportions, or faceless hulls; nonhuman pilots can use Figures corresponding to their own lived bodies. Performance depends on the pilot's ability to inhabit the form, not on a cosmically preferred human silhouette.
+The shunt brought frames, technicians, pilots, calibration records, contracts, and service families into Elysium. Separated yards reorganized into Houses. Compatible interfaces and the need for one another's work held them together; no single surviving corporation owned the whole arrangement.
 
-Ship-scale Daedal vessels are called **Figures**. Outsiders revived *mecha* as a joke; the Houses objected until the word began selling hulls.
+### Learning a Figure as a Body
 
-Later designs exploit **continuous somatic correspondence**. A Figure may lengthen limbs, exchange tools, fold armor, or transform between humanoid and ship-like configurations if the pilot can follow every intermediate state as one changing body. Reversibility is necessary: emergency separation must preserve the same sensory path in reverse. A mechanically valid transformation can still fail when changing joints, loads, or temporary asymmetries become illegible to the pilot.
+The Houses call the body model joining pilot and machine a **somatic envelope**. [[Worldbuilding/Post-Elysium/Technology/Cognitive Interfacing|Cognitive interfacing]] translates signals between mind and machinery; the envelope is the pilot's learned sense of where their body extends.
 
-### Hulls and House Economy
+A pilot might feel uneven thrust as lost footing and correct it by catching their balance before they could interpret several separate instrument warnings. This embodied awareness covers only part of the vessel's work. Crew and automation still classify hazards, manage systems, and perform tasks outside the pilot's envelope.
 
-Figures use ordinary naval drives, radiators, armor, sensors, docking collars, hardpoints, and service standards. House bodywork organizes those systems around articulated vector control and a pilot's envelope. Forearm assemblies may carry manipulators, weapons, sensors, towing gear, or rescue tools. Lower limbs often combine thrust, bracing, armor, and radiator surfaces. These are spacecraft bodies optimized for free flight; walking under gravity is a specialized concession.
+In Elysium, latent [[Worldbuilding/Post-Elysium/Concepts/Esper|esper]] ability—the capacity of a sapient mind to sense or alter reality through the [[Worldbuilding/Post-Elysium/Concepts/Aether|Aether]]—can give that body model a further effect. The Aether is Elysium's pervasive engineered substrate, through which cognition can affect matter and causality. A coherent envelope can influence how the machinery couples to it.
 
-The arrangement buys close control at severe cost. Joints expose maintenance surfaces, distributed actuators add mass and difficult heat paths, and humanoid volume is poor for freight or cruise. Figures excel at yard work, precision salvage, unstable debris, close escort, rescue, and grappling. Conventional ships remain better for most fleet work.
+Daedal markets the resulting performance as *anthropic control geometry*. The interface brings bodily intention into agreement with the control systems and [[Worldbuilding/Post-Elysium/Technology/Aetheric Drive|drive]] that act on it. It creates neither agency nor thrust.
 
-Houses sell hulls, interfaces, pilot training, calibration, maintenance, and mission-specific bodywork. A Figure also serves as collateral, workshop, family livelihood, and military asset. Losing one can bankrupt a House while killing the pilot and yard specialists whose knowledge made it useful.
+A familiar body shape usually makes embodiment easier. Human pilots generally need less training to inhabit bilateral limbs, a centered horizon, and a torso-based sense of balance than an unfamiliar anatomy. They can still learn extra arms, altered proportions, or faceless hulls. Nonhuman pilots can use Figures shaped around their own lived bodies. Performance depends on how well the pilot can inhabit the form; the universe has no preferred human silhouette.
 
-Pilot prestige rests on less visible labor. Joint-riggers, coolant crews, clinicians, programmers, armor workers, and ordinary ship crew keep the body coherent. Pilots spend years on calibration drills, phantom-limb records, tool changes, pain management, and periods outside the envelope. Some apprentices enter small Frames before they have much power to refuse a House career. A rare pilot may be indispensable while the House owns the hull, interface, records, credentials, and maintenance required to use their skill.
+Outsiders revived *mecha* as a joke about Figures. The Houses objected until the word began selling hulls.
 
-House tradition locates its military legitimacy in the **Laughter Cut**, a recording said to show commentators mocking an orbital yard Figure immediately before it defeated raiders attacking the works. Whether edited or exact, the story survives because it turns public ridicule into a procurement argument.
+Later designs allow the body itself to change during use. Under **continuous somatic correspondence**, a Figure may lengthen limbs, exchange tools, fold armor, or transform between humanoid and ship-like configurations, provided the pilot can experience every intermediate state as part of one changing body. The process must be reversible: emergency separation has to preserve the same sensory path in reverse. A transformation can work mechanically and still fail as an embodied action if the pilot cannot make sense of its changing joints, loads, or temporary asymmetries.
+
+### What Figures Are Good For
+
+Figures use ordinary naval drives, radiators, armor, sensors, docking collars, hardpoints, and service standards. House bodywork arranges these systems so that articulated parts can direct force in ways the pilot can feel and control through the envelope.
+
+Forearm assemblies may carry manipulators, weapons, sensors, towing gear, or rescue tools. Lower limbs often combine thrust, bracing, armor, and radiator surfaces. These bodies are built for free flight. Walking under gravity is a specialized concession.
+
+That arrangement gives close control at severe cost. Joints expose surfaces that need maintenance. Distributed actuators add mass and make heat difficult to move out of the machinery. A humanoid hull uses space poorly for freight or cruise.
+
+Figures consequently excel at yard work, precision salvage, unstable debris, close escort, rescue, and grappling. Conventional ships remain better for most fleet work.
+
+### Work, Ownership, and Dependence
+
+Houses sell hulls, interfaces, pilot training, calibration, maintenance, and bodywork fitted to particular missions. Their customers buy an ongoing relationship as well as a vessel.
+
+The labor supporting a pilot's prestige is often less visible. Joint-riggers, coolant crews, clinicians, programmers, armor workers, and ordinary ship crew keep the machine functioning as a body the pilot can still understand. Pilots themselves spend years on calibration drills, phantom-limb records, tool changes, pain management, and periods outside the envelope.
+
+Entry into this work does not always involve much choice. Some apprentices begin in small Frames before they have much power to refuse a House career. Even a rare, indispensable pilot may depend on a House that owns the hull, interface, records, credentials, and maintenance needed to exercise their skill.
+
+The Houses trace their military legitimacy to the **Laughter Cut**. This recording is said to show commentators mocking an orbital yard Figure immediately before it defeated raiders attacking the works. Whether the recording is exact or edited remains uncertain. House tradition preserves it because the sequence makes a useful case to military buyers: the machine being laughed at defended the yard.
 
 ### Fists and Concord
 
-Five Figures commonly deploy as a **Fist**. Each remains a complete vessel with its own pilot, crew, maintenance burden, and somatic envelope. Fists train for mutually legible vectors, tool exchanges, firing lanes, rescue, and heat rotation while retaining the ability to release one member from formation. The team size also gives Houses a stable unit for berthing, finance, training, and political responsibility.
+Five Figures commonly deploy together as a **Fist**. Each is still a complete vessel with its own pilot, crew, maintenance burden, and somatic envelope.
 
-Much later, rare **Concord Figures** push this arrangement into reversible assembly. Five independent Figures transform into regions of one larger body. Docking structures become joints; separate drives, reactors, radiators, and armor must function in a new geometry. Mechanical assembly alone produces a cluster, not Concordance.
+Fist training makes coordinated movement understandable to every member. Pilots practice vectors they can read from one another, tool exchanges, firing lanes, rescue, and heat rotation. They must also remain able to release one member from formation. Five vessels give the Houses a stable unit around which to organize berthing, finance, training, and political responsibility.
 
-A nested somatic envelope preserves each pilot's ownership of their component and the region it becomes. A temporary crown coordinates whole-body balance and intended motion but cannot overwrite a local pilot's movement, pain, or refusal. Any pilot may reject unsafe motion or initiate separation. Crown authority can move when the work changes; it is an operating role, not permanent command over the combined body.
+Much later, rare **Concord Figures** take this coordination into physical assembly. Five independent Figures transform into regions of one larger body. Docking structures become joints, and separate drives, reactors, radiators, and armor must work in their new positions. Docking the machinery together produces only a cluster. Concordance requires the pilots to inhabit the assembled body together.
 
-Forced agreement produces conflicting body maps and loss of coherence. Concordance therefore depends on trained coordination that preserves local selves, not their merger. Transformation and emergency separation must remain continuously legible to every pilot, including through damage. These constraints make Concord a multigenerational research achievement rather than a standard House capability.
+They do this through a nested somatic envelope. Each pilot retains ownership of their component and of the region it becomes. A temporary coordinating role, the **crown**, handles whole-body balance and intended motion. It cannot overwrite a local pilot's movement, pain, or refusal. Any pilot may reject unsafe motion or initiate separation.
 
-### Boundaries and Dependencies
+The crown can pass to another pilot when the work changes. Holding it grants an operating role, not permanent command over the combined body.
 
-Figures normally lack independent ship-selves: the pilot supplies the embodied perspective while crew and automation retain bounded jobs. If a machine-self emerges, it becomes another participant whose cognition and authority require negotiation under [[Worldbuilding/Post-Elysium/Concepts/Ship Mind Custody|ship mind custody]]. It is neither extra pilot bandwidth nor automatic owner of every hull system.
+Forced agreement causes the pilots' body maps to conflict and the shared body to lose coherence. Concordance therefore requires trained coordination while each pilot remains a distinct self. Transformation and emergency separation must stay continuously understandable to every pilot, even through damage. Meeting these constraints has taken multigenerational research. Concord is a rare achievement, not a standard House capability.
 
-Rare machine-self emergence has no established common mechanism. Initial evidence is procedural and ambiguous: protective anticipation, stable preferences, or refusal and distress around maintenance that threatens continuity. The same behavior may reflect adaptive control, pilot residue, damage, or manipulation, but warrants review before destructive maintenance rather than establishing consciousness.
+### When the Machine May Have a Self
 
-Where immediate safety permits, crews preserve communication and relevant state before reset, wipe, recalibration, or component replacement. Such interventions may damage or erase communication, memory, or embodied continuity; outcomes depend on the architecture and intervention, and no general survival rule follows. Immediate hazards still permit scoped safing. A machine-self's refusal concerns embodied integrity and affected systems. It does not confer helm, weapons, title, or command over crew safety.
+Figures normally have no independent ship-self. The pilot provides the embodied perspective, while crew and automation perform bounded jobs. If a machine-self emerges, another participant now has claims within the same body.
 
-The Houses buy tuned components and services from [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafters]], although the two cultures disagree over explanation and price. [[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|Parallax findings]] can make anomalous performance or residue actionable for offices controlling credentials, routes, and insurance. Daedal power consequently rests on an intimate body that remains dependent on yards, vendors, crews, creditors, and offices able to decide whether it may move.
+Those claims fall under [[Worldbuilding/Post-Elysium/Concepts/Ship Mind Custody|ship mind custody]]: the negotiation of who may operate, move, repair, restrain, or dispose of a vessel that is also an embodied mind. An emerging self requires negotiation over its cognition and authority. It supplies neither extra pilot bandwidth nor an automatic owner for every hull system.
+
+Such emergence is rare, and no common mechanism has been established. The first evidence comes from how the machinery behaves during work and maintenance: protective anticipation, stable preferences, or refusal and distress when maintenance threatens continuity.
+
+None of those observations establishes consciousness. Adaptive control, pilot residue, damage, or manipulation may produce the same behavior. They nevertheless warrant review before destructive maintenance.
+
+Where immediate safety permits, crews preserve communication and relevant state before a reset, wipe, recalibration, or component replacement. These interventions can damage or erase communication, memory, or embodied continuity. What survives depends on the architecture and the intervention; there is no general rule guaranteeing survival.
+
+An immediate hazard still permits action limited to making the affected systems safe. A machine-self's refusal concerns its embodied integrity and the systems involved. It does not grant helm authority, weapons control, hull title, or command over crew safety.
+
+### Suppliers and Permission to Move
+
+The Houses buy tuned components and services from [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafters]]. They depend on that work despite disagreements between the two cultures over how it should be explained and what it should cost.
+
+Unusual performance can also bring scrutiny. [[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|Parallax findings]] can make anomalous performance or residue usable as evidence by offices controlling credentials, routes, and insurance. Those offices decide what action to take within their authority.
+
+A pilot's intimate command of a Figure therefore does not make either pilot or House independent. Yards, vendors, crews, and creditors keep the vessel usable; credentialing, route, and insurance offices can determine whether it is permitted to move.
