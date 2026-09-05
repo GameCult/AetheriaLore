@@ -1,5 +1,7 @@
 ### Aetheric Drive
 
-The [[Aetheric Drive]] exchanges commanded momentum with the [[Aether]] through phased field coupling rather than conventional reaction mass. Ordinary drives are engineered machines and do not require an esper. Stability depends on local conditions, tuned components, control systems, and qualified operators; exceptional cognition can improve difficult transitions without becoming the source of thrust.
+The [[Aetheric Drive]] propels a ship by exchanging momentum with the [[Aether]], rather than by expelling conventional reaction mass. Its control systems set the intended change in momentum, and carefully timed fields couple the drive to the Aether to produce it. This process is called phased field coupling.
 
-The drive weakens fuel logistics as a source of sovereignty while creating new chokepoints in calibration, certification, maintenance, and access to reliable tuning infrastructure. It inherits late-Sol propulsion practice from the [[Soliton Drive]], but changes which institutions can strand a ship.
+An ordinary drive is an engineered machine; it does not need an esper to work. Stable operation depends on local conditions, properly tuned components, control systems, and qualified operators. Exceptional cognition can help the drive pass through difficult transitions, but it does not supply the thrust.
+
+The drive inherits late-Sol propulsion practice from the [[Soliton Drive]], while changing what ship operators need to keep moving. Fuel supply becomes a weaker means of controlling ships and the settlements that depend on them. Calibration, certification, maintenance, and reliable tuning infrastructure become new points of dependence. Institutions that control those services can strand a ship even when fuel logistics no longer give them the same leverage.

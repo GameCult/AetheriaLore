@@ -1,5 +1,7 @@
 ## Cognitive Interfacing
 
-Cognitive interfaces translate signals between a mind and machinery. Pre-Elysium systems extended an operator's body map into vehicles and industrial frames; training made the machine feel contiguous with the body rather than remotely controlled.
+A cognitive interface translates signals between a mind and a machine. Before Elysium, operators used these interfaces with vehicles and industrial frames. Through training, an operator could come to feel the machine as an extension of their own body—their internal sense of where their body was and how it moved expanded to include it.
 
-Post-Elysium variants may also translate bounded [[Aether|aetheric]] conditions into sensations or commands. Performance varies with embodiment, training, and local conditions. Conflicting signals can disorient the operator or degrade control. An interface carries information: it does not supply agency, confer command authority, or grant unrestricted access to another mind.
+Post-Elysium interfaces may also turn a limited range of [[Aether|aetheric]] conditions into sensations or commands. How well an interface works depends on the operator's embodiment and training, as well as local conditions. When signals conflict, the operator can become disoriented or lose some control of the machine.
+
+The interface carries information. It does not provide the agency needed to act, give its user authority to command, or allow unrestricted access to another mind.
