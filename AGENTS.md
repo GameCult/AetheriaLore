@@ -6,7 +6,9 @@ This repository is an Obsidian vault for the Aetheria setting. Make it accessibl
 
 ## Next Action
 
-Operator priority, 2026-09-05: complete the accessibility rewrite of every article across AetheriaLore, Delvehold, Kalsa, and Zyphos before further elaboration. An existing pass uses one article per Astra low call, eight concurrent workers, and one sampled article per wave to review results and adapt prompts. Inspect that pass before launching duplicate work: controller and working records are in `C:/Users/Meta/Documents/Codex/2026-09-04/c-users-meta-claude-worlds-readme/work/accessibility`; progress is in `outputs/accessibility-progress.md` under the same task directory. Each repo has a pushed `codex/accessibility-2026-09-05` branch; main integration remains owed. Preserve source facts, chronology, uncertainty, links, and setting distinctions. Make lived stakes and causal steps comprehensible, with a grounded tone and occasional feral or self-deprecating understatement; do not impose a uniform template. Keep approved-but-unintegrated additions A2 and D1–D3 separate; A1 is demoted, and K1/K2/Z1–Z3 remain pending. Other work follows this cleanup.
+The four-vault accessibility cleanup completed on 2026-09-05 and is integrated into main. Do not launch a duplicate cleanup. Preserve the accessible, grounded voice, with occasional feral or self-deprecating humor and understatement rather than grandiosity. Completion evidence and verified revisions are in `C:/Users/Meta/Documents/Codex/2026-09-04/c-users-meta-claude-worlds-readme/outputs/accessibility-completion.md`; article-level records are in `work/accessibility` under that task directory.
+
+Next, resume the existing additions-review obligations: A2 and D1–D3 are approved but unintegrated. D3 also requires formalizing the relationship between gods, worship, high priests, and paladins in the relevant divinity notes. A1 is demoted; K1/K2/Z1–Z3 remain pending. The original elaboration loop remains paused. Cleanup completion grants no further canon approval.
 
 ## Project Conventions
 
