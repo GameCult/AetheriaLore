@@ -1,5 +1,7 @@
 *"Someone has to keep the lights on while the empires posture."*
 
-[[NiteLife Energy]] runs grid backbones, fusion supply contracts, and distributed power services while masking hard monopoly behavior beneath youthful branding and lifestyle aesthetics. It understands that energy politics becomes easier to tolerate when marketed as a vibe.
+[[NiteLife Energy]] supplies the power that industrial and military projects depend on. It operates the main networks that carry electricity, manages fusion supply contracts, and provides distributed power services.
 
-The company is strategically untouchable in many regions because every serious industrial or military project needs dependable power density. That gives NiteLife influence far beyond its public image as a sleek utility vendor.
+Those projects need a dependable supply of concentrated power. In many regions, that dependence makes NiteLife strategically untouchable: challenging the company means confronting the supplier needed to keep major projects running. Its influence reaches well beyond what its public image as a sleek utility vendor suggests.
+
+NiteLife conceals aggressive monopoly practices behind youthful branding and lifestyle aesthetics. It sells energy as part of a desirable way of life, making its control over an essential service easier to tolerate.

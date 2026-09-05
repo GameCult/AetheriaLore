@@ -1,5 +1,5 @@
 *"If it still works after the warranty dies, we built it."*
 
-[[AstroDyne]] is the frontier engineer's favorite contradiction: a supplier of rugged implants, patched drives, gray-market upload rigs, and repairable systems sold to people the formal economy considers too risky or too poor to serve properly.
+[[AstroDyne]] supplies rugged implants, patched drives, gray-market upload rigs, and systems that can be repaired in the field. Its customers include people the formal economy regards as too risky or too poor to serve properly.
 
-Because AstroDyne designs for abuse and field maintenance rather than elegance, its products spread through mining crews, pirate routes, improvised habitats, and dissident networks. It never becomes the most prestigious firm in Sol. It becomes one of the hardest to kill.
+Frontier engineers favor its equipment because it is built to take abuse and remain maintainable, with elegance a lower priority. That makes it useful to mining crews, pirates, people living in improvised habitats, and dissident networks. Its products spread through those communities and routes, giving the company a durable foothold across Sol. AstroDyne never becomes Sol's most prestigious firm, but it becomes one of the hardest to kill.

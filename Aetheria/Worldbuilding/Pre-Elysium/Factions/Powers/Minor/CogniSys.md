@@ -1,5 +1,7 @@
 *"Prediction is governance with the embarrassment removed."*
 
-[[CogniSys]] turned AGI from a terrifying research threshold into an administrative product. Its systems promised that scarcity, logistics, policing, and social forecasting could all be rendered tractable if enough data and authority were centralized.
+[[CogniSys]] supplied artificial general intelligence (AGI) systems for administration, turning a frightening research threshold into a product authorities could use. It promised to help them manage scarce resources, organize logistics, police populations, and forecast social behavior—provided they gathered enough data and centralized enough decision-making power.
 
-That promise made it indispensable to the late-Sol order and eventually foundational to [[Sol Dominion]]. CogniSys is feared not because its machines are always spectacularly alien, but because they are so good at making domination look like neutral optimization.
+That promise made CogniSys indispensable to the late-Sol order. Its machine-assisted governance and prediction later helped form the foundation of [[Sol Dominion]].
+
+The danger lay in how its systems presented decisions about people's lives. Choices about who received resources or came under police scrutiny could appear to be neutral calculations of efficiency, obscuring the power exercised through them. CogniSys was feared less for making spectacularly alien machines than for making domination look like competent administration.
