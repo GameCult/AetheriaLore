@@ -1,23 +1,35 @@
-[[Cognitum]] is a late-Sol cognition contractor that turns upload-derived minds into licensable software. It emerged from the black-budget overlap among connectomics research, military procurement, and the elite continuity market that also produced [[EternaMind]] and [[Finch Cybernetics]]. Its power lies in organizing procurement, labor, and legal deniability around cognition extracted from persons; the resulting products are sold as [[Neuromorphic Firmware]].
+[[Cognitum]] is a late-Sol contractor that turns minds obtained through uploading into software it can license to buyers. Its products, sold as [[Neuromorphic Firmware]], put cognition extracted from people to work in weapons, logistics, prediction, and other commercial systems. The company organizes the recruitment, technical labor, and contracts that let clients buy this capability while denying responsibility for how it was obtained.
 
-### Clinics and Procurement
+Cognitum emerged from the same overlap of secret government funding, research into the brain’s connections, military procurement, and elite demand for continued life that also produced [[EternaMind]] and [[Finch Cybernetics]].
 
-Cognitum recruits through clinics advertised as diagnostic laboratories, optimization centers, and talent-bounty programs. Intake draws on debt, employment, education, and medical records. A candidate receives an appraisal and an offer; the company acquires access to cognition likely to serve a buyer while describing the transaction as pattern research rather than upload capture. People with little cash or medical security are easier to obtain than wealthy subjects able to litigate.
+### Recruitment Through Clinics
 
-The bounty makes coercion resemble a windfall. Candidates negotiate a price for a procedure whose downstream uses remain hidden behind derivative-state language. Clinics can therefore supply Cognitum without presenting themselves as prisons, while brokers and shell firms keep employers, landlords, and client agencies several contracts away from the resulting firmware.
+For a prospective subject, Cognitum’s operation begins with an appraisal and an offer of money. Its recruiting clinics advertise diagnostic testing, personal optimization, or talent bounties. They draw on debt, employment, education, and medical records to identify candidates whose cognition might meet a buyer’s needs. People short of cash or secure medical care are easier to recruit than wealthy subjects who can afford to litigate.
 
-### Work Culture
+Candidates can negotiate a price, but the contracts conceal what may later be done with their minds. The clinic describes the procedure as pattern research rather than upload capture. It calls the resulting mind-states “derivatives,” treating them as data separated from the person who supplied them.
 
-Protocol engineers gain status by producing stable, economical derivatives for a requested function. Line technicians work through queues and dashboards, rerunning branches, comparing failures, and escalating useful anomalies. The interface presents distress as workflow: a failed benchmark, an unstable branch, or recoverable output. This abstraction allows workers to treat cognition extraction as exacting technical labor without confronting every instantiated subject as a colleague or captive.
+The bounty can make a coercive arrangement look like a windfall. Clinics supply subjects without presenting themselves as prisons, while brokers and shell firms place several contracts between the resulting firmware and the employers, landlords, or client agencies connected to its procurement.
 
-Engineers still disagree over how much selfhood a useful product requires. Preserving curiosity, fear, or attachment can improve performance while increasing instability and the chance that a branch will testify to its treatment. Management rewards the version that survives procurement review, not a consistent theory of personhood.
+### Turning Minds Into Products
 
-### Markets and Power
+Cognitum’s engineers work to make upload-derived cognition perform a requested function reliably and cheaply. Producing a stable product earns a protocol engineer status. Line technicians handle queues of work through dashboards: they rerun branches—copies of captured mind-states—compare failures, and refer useful anomalies for further attention.
 
-Cognitum sells through consultancies, integration vendors, security budgets, and white-label licenses. Buyers include military programs, executive blocs, logistics operators, insurers, and consumer-interface firms seeking targeting, routing, anomaly detection, prediction, or affective assistance. Contracts define the delivered artifact as firmware and assign liability to an upstream supplier, often another cutout, so each buyer can disclaim responsibility for its source.
+Those interfaces translate distress into technical problems. A subject’s response appears as a failed benchmark, an unstable branch, or output that might still be recovered. Workers can therefore experience extraction as demanding technical labor without confronting every running subject as a colleague or captive.
 
-After the 2667 [[Callisto Trace Shootdown]], Cognitum supplied adaptive munitions cognition and target-commitment firmware through intermediaries while insurers and integrators sold the products as safer, more accountable weapons. This arrangement captures its political method: an institution creates demand, a cutout cleans the purchase, and Cognitum provides performance without asking the client to defend its source.
+How much selfhood to preserve remains a practical dispute among engineers. Curiosity, fear, or attachment can make a product perform better. Retaining them can also make it less stable and more likely to testify about its treatment. Management rewards whichever version passes procurement review; it does not require a consistent answer about whether that version is a person.
 
-Cognitum's dependencies follow access rather than doctrine. Continuity research supplies legal and technical vocabulary; security and executive blocs supply protected contracts; clinics and gray markets supply subjects. Clients can condemn forced uploads publicly while purchasing derivatives through procurement chains designed to prevent knowledge from becoming responsibility.
+### Buyers and Responsibility
 
-The 2662 [[Upload Vivisection Expose]] made industrial digital torture publicly undeniable but left Cognitum protected by dependent clients and hardened cutouts. During the final FTL effort, black-budget Cognitum contractors supplied conditioned firmware used in nonlocal prediction and routing behind [[Arete Program Consolidation]] and the [[FTL Trigger]].
+Military programs, executive blocs, logistics operators, insurers, and consumer-interface firms buy Cognitum products for targeting, routing, anomaly detection, prediction, and assistance that responds to emotion. Sales pass through consultancies, integration vendors, security budgets, and white-label licenses that let another firm sell the product under its own name.
+
+Contracts classify the delivered product as firmware and place liability with an upstream supplier, often another intermediary used to conceal responsibility. Each buyer can then disclaim responsibility for the cognition’s source.
+
+Cognitum depends on access to subjects and protected buyers more than on any political doctrine. Continuity research provides the legal and technical language for its products. Security and executive blocs provide protected contracts. Clinics and gray markets provide subjects. These relationships allow clients to condemn forced uploads publicly while buying derivatives through contracts arranged so that knowledge of their origins need not become an admission of responsibility.
+
+### Exposure and Continued Use
+
+The 2662 [[Upload Vivisection Expose]] made industrial digital torture publicly undeniable. Cognitum remained protected by clients that depended on its products and by intermediaries whose arrangements had been hardened against exposure and liability.
+
+After the 2667 [[Callisto Trace Shootdown]], Cognitum supplied adaptive cognition for munitions and firmware governing their commitment to a target. It sold through intermediaries while insurers and integrators promoted the weapons as safer and more accountable. The arrangement shows how Cognitum gains power: institutions create demand, intermediaries make the purchase contractually defensible, and Cognitum delivers the performance without requiring clients to defend where it came from.
+
+During the final FTL effort, black-budget Cognitum contractors supplied conditioned firmware for nonlocal prediction and routing. That cognition supported the work behind [[Arete Program Consolidation]] and the [[FTL Trigger]].
