@@ -4,8 +4,10 @@
 **Location:** Earth arcologies and orbital governance infrastructure  
 **Primary actors:** [[Sol Dominion]], remnant municipal sovereignties, [[Baseline League]], corporate security forces
 
-The [[Urban Sovereignty War]] was the long consolidation struggle through which [[Sol Dominion]] converted Earth from a collage of hollow civic shells and corporate enclaves into the administrative core of a more explicit imperial order. Municipal governments, arcology boards, populist militias, and baseline resistance blocs all fought to keep some measure of local rule.
+The [[Urban Sovereignty War]] was a struggle over who would govern Earth. Municipal governments, arcology boards, populist militias, and baseline resistance blocs fought to preserve some local control as [[Sol Dominion]] sought to bring the planet under a single imperial administration. Earth was already divided between civic institutions with little remaining power and enclaves governed by corporations.
 
-The Dominion won through a mix of infrastructure leverage, predictive policing, elite coalition-building, and calibrated brutality. It did not "liberate" Earth from corporate rule. It rationalized corporate rule into a more centralized and disciplined form.
+The Dominion won by combining control over infrastructure with predictive policing, alliances among elites, and deliberately measured brutality. Infrastructure gave it leverage over the services on which local institutions depended. Predictive policing helped it act against anticipated opposition, while elite alliances brought influential interests into its governing coalition. Force remained part of the method.
 
-After the war, Earth ceased to be merely symbolic. It became the polished command theater from which late Sol claimed the right to manage everyone else's future.
+Victory preserved corporate power while making it more centralized and disciplined. The Dominion brought Earth's fragmented authorities into a common administrative order rather than freeing the planet from corporate rule.
+
+Earth emerged as the Dominion's administrative and political core. Its importance now went beyond symbolism: late Sol directed its imperial order from Earth and used that polished seat of government to assert a right to manage everyone else's future.

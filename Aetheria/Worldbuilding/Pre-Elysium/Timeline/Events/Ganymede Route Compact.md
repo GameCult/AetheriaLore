@@ -4,8 +4,8 @@
 **Location:** Ganymede orbital docks  
 **Primary actors:** proto-[[Cetacean Navigators]], [[Lightsail Express]], dock labor syndicates, Jovian convoy insurers
 
-The [[Ganymede Route Compact]] transformed uplifted navigation labor into recognized corridor governance. Long-haul carriers and dock operators had become dependent on cetacean route cognition, but still treated navigators as specialized assets rather than political partners. After a season of catastrophic routing disputes and preventable convoy losses, that arrangement became untenable.
+Uplifted cetacean navigators guided the long-haul traffic on which carriers and dock operators depended, yet those employers treated them as specialized assets rather than political partners. A season of catastrophic routing disputes and preventable convoy losses made that arrangement untenable. The [[Ganymede Route Compact]] gave navigators a recognized role in governing the corridors their work kept usable.
 
-The Compact established rescue obligations, shared hazard ledgers, route-steward representation, and a new legal status for navigator councils in convoy arbitration. This was the moment the future [[Cetacean Navigators]] ceased being a labor caste and became a supraterritorial political force.
+The agreement established duties to rescue those in distress, shared records of route hazards, representation for route stewards, and a new legal status for navigator councils in the arbitration of convoy disputes. Navigators could now participate in decisions about corridor use and responsibility, rather than only supply the expertise needed to move ships.
 
-Many later sanctuary and rescue systems trace their institutional ancestry back to Compact clauses.
+The Compact marked the future [[Cetacean Navigators]]’ transition from a labor caste to a political force whose authority extended across territorial boundaries. Many later sanctuary and rescue systems trace their institutional ancestry to its clauses.
