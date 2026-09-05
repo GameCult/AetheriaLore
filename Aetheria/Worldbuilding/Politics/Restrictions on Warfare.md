@@ -1,37 +1,51 @@
 # Restrictions on Warfare
 
-In PSC-aligned pre-Elysium Sol, restrictions on warfare exist to keep violence from destroying the infrastructure and financial relationships that make corporate sovereignty possible. The [[Pan-Solar Consortium]] is not a universal government and does not prevent war. It makes some forms of force legible to insurers, ports, clearing systems, arbitrators, and other powers whose cooperation determines whether a victory can become a durable claim.
+In PSC-aligned pre-Elysium Sol, warfare restrictions govern which uses of force other institutions will accept, insure, and support. A belligerent may capture a ship or yard and still need a port willing to admit it, technicians willing to service it, and buyers who recognize its ownership claim. The [[Pan-Solar Consortium]] can influence those decisions even when it cannot stop the fighting.
 
-The system favors seizure, disruption, coercion, and bounded damage. A captured yard, interrupted route, or disabled ship may still produce revenue. A ruined habitat or contaminated corridor spreads liabilities beyond the original dispute. Restraint therefore enters PSC law primarily as protection for market continuity, not equal safety.
+The PSC is not a universal government. Its rules protect the infrastructure and financial relationships that allow corporations to exercise sovereignty. They favor seizure, disruption, coercion, and limited damage because a captured yard, interrupted route, or disabled ship may still earn revenue. Destroying a habitat or contaminating a corridor creates costs and obligations for parties far beyond the original dispute. Protecting people follows unevenly from this concern for keeping the market functioning; equal safety is not the system's governing purpose.
 
-## Regulatory Architecture
+## How An Operation Gets Recognized
 
-The PSC translates conflict into administrative categories: permitted or illicit, insured or uninsured, recognized or deniable, corridor-safe or corridor-breaking. A recognized conflict permit identifies an operation well enough for interested institutions to price exposure and decide whether its outcome will receive legal or commercial recognition. It does not authorize every act committed under it, guarantee neutral enforcement, or bind actors outside the relevant agreements.
+A recognized conflict permit describes an operation well enough for insurers, ports, financial clearing systems, arbitrators, and other interested powers to assess their exposure. Those institutions can then decide whether to recognize its outcome in law or commerce. Their cooperation helps determine whether a battlefield victory becomes an ownership claim that lasts.
 
-Permits, escrow, and bonds give the system financial leverage before force is used. Requirements vary by jurisdiction, participants, declared objective, expected externalities, and the infrastructure placed at risk. An operation near a major transport corridor, shared power system, settlement, or other widely used asset attracts greater scrutiny because damage can interrupt obligations far beyond the target. Arbitration after the event determines how much of the declared account survives contact with competing evidence.
+The PSC classifies conflicts as permitted or illicit, insured or uninsured, recognized or deniable, and compliant with or in breach of corridor rules. A permit does not authorize every act committed during an operation. It also cannot guarantee impartial enforcement or bind actors outside the relevant agreements.
 
-The PSC also maintains corridor rules and arrangements around neutral docks, relays, clearing access, and sanctions relief. Protection is uneven. Some facilities are backed by several powers and hired security; others remain neutral only while recognition is more profitable than violation. Restrictions are strongest where many parties depend on the same asset.
+Before force is used, permits, money held in escrow, and financial bonds give participating institutions leverage over the belligerents. The requirements depend on the jurisdiction, the participants, the stated objective, the expected effects on others, and the infrastructure at risk. Operations near major transport corridors, shared power systems, settlements, or other widely used assets receive greater scrutiny: damage there can prevent many parties from meeting obligations unrelated to the fighting.
 
-## Evidence And Price
+Afterward, arbitration tests the declared account against competing evidence. What an operator said it would do does not settle what it actually did.
 
-Sensor records, command logs, weapon telemetry, surrender signals, damage histories, and witness accounts affect how an operation is classified. Evidence can change bond requirements, insurance premia, access to ports, later procurement, and whether seized property can be sold or serviced openly. It does not produce an uncontested truth. Records can be incomplete, forged, selectively disclosed, or generated by systems whose owners helped define the standard.
+The PSC also maintains corridor rules and arrangements covering neutral docks, relays, access to clearing systems, and relief from sanctions. These protections vary. Several powers and hired security may back one facility's neutrality; another may remain neutral only while respecting that status is more profitable than violating it. Restrictions generally have their greatest force where many parties depend on the same asset.
 
-The 2667 [[Callisto Trace Shootdown]] changed how insurers treated uncertain launches. Conventional interceptors fired before a thermal contact had been adequately classified remained physically cheap, but became expensive to bond and insure. Munitions able to share sensor data, preserve admissible telemetry, accept abort updates, and delay terminal commitment received better terms. The reform rewarded restraint while also subsidizing military cognition and the firms capable of certifying it.
+## What The Records Can Change
 
-Thermal posture entered the same evidentiary economy. Quiet running, shaped emissions, and delayed heat dumps could be legitimate operations or signs of concealed force. Exact rules varied across corridors and periods. What mattered was whether an operator could explain an unusual signature through records that insurers, authorities, and counterparties were prepared to recognize.
+How an operation is classified depends partly on what can be shown about it. Sensor records, command logs, weapon telemetry, surrender signals, damage histories, and witness accounts can affect:
 
-## Enforcement And Evasion
+- The bonds an operator must provide and the insurance premiums it pays.
+- Whether ports will admit it and what it can procure later.
+- Whether captured property can be sold or serviced openly.
 
-The PSC's strongest instrument is dependency. By the late pre-Elysium period, access to [[PSCC]] clearing, neutral docks, recognized arbitration, and sanctions relief is difficult for major operators to abandon. Penalties can increase transaction costs, delay settlement, restrict access, or isolate an actor from institutions needed to repair ships and realize captured value. Such pressure is severe without being universal; independent yards, rival currencies, political patrons, and black markets provide partial alternatives.
+These records do not establish an uncontested truth. They may be incomplete, forged, or selectively disclosed. Some come from systems whose owners helped write the standards by which evidence is judged.
 
-Hired coercive specialists and private military contractors may inspect cargo, enforce a ceasefire, hold a disputed asset, or deny access on behalf of participating institutions. Their neutrality is contractual and contested. They act where a mandate, payment, and tolerable risk coincide. A powerful member can obstruct enforcement, while a weak operator may face penalties before its account receives serious review.
+The 2667 [[Callisto Trace Shootdown]] changed the financial consequences of launching weapons before identifying a target adequately. Conventional interceptors remained physically cheap, but firing them at an insufficiently classified thermal contact became expensive to bond and insure. Munitions received better terms if they could share sensor data, preserve telemetry admissible as evidence, accept abort updates, and postpone their final commitment to a strike. This rewarded restraint while also subsidizing military cognition and the firms able to certify it.
 
-Evasion is part of the system. Belligerents use proxies, disputed ownership, altered telemetry, jurisdiction shopping, deniable privateers, and emergency claims to move violence outside expensive categories. The PSC responds by changing recognition and price, creating another market for compliance, influence, and convincing records.
+An operator's management of heat became another subject of scrutiny. Quiet running, deliberately shaped emissions, and delayed heat dumps could be legitimate practices or signs of concealed force. The exact rules changed between corridors and periods. Operators needed records that could explain an unusual thermal signature in terms insurers, authorities, and counterparties would accept.
+
+## How Restrictions Are Enforced
+
+By the late pre-Elysium period, major operators find it difficult to give up [[PSCC]] clearing, neutral docks, recognized arbitration, and sanctions relief. That dependence is the PSC's strongest means of enforcement.
+
+Penalties can make transactions more expensive, delay settlement, restrict access, or cut an operator off from institutions it needs to repair ships and profit from captured assets. The pressure can be severe, but it does not reach everyone equally. Independent yards, rival currencies, political patrons, and black markets offer partial alternatives.
+
+Participating institutions can also hire coercive specialists and private military contractors to inspect cargo, enforce ceasefires, hold disputed assets, or deny access. These contractors act where they have a mandate, payment, and an acceptable level of risk. Their claim to neutrality rests on their contracts and remains contested. A powerful PSC member may obstruct enforcement, while a weak operator may suffer penalties before anyone seriously reviews its account.
+
+Belligerents exploit these limits. They use proxies, disputed ownership, altered telemetry, favorable jurisdictions, deniable privateers, and emergency claims to avoid classifications that make their operations expensive. The PSC responds by changing what it recognizes and what institutions charge. Compliance, influence, and convincing records all become things worth buying.
 
 ## Surrender, Rescue, And Survival
 
-Surrender and rescue protections are not uniform across Sol. Continuing to attack a recognized helpless target, deliberately denying cooling after resistance ends, or using a false distress signal can damage an actor's evidentiary standing and reputation. Depending on jurisdiction and the available record, those acts may affect port access, insurance, permit recognition, custody claims, or later adjudication. Disputes persist over when surrender became legible, whether a target remained dangerous, and which party controlled the systems required for survival.
+For a crew whose ship can no longer fight, recognition of that condition may matter as much as the surrender itself. Protections for surrender and rescue differ across Sol, and disputes can turn on when a surrender became clear, whether the target was still dangerous, and who controlled the systems keeping its occupants alive.
 
-These restrictions help make surrender and rescue credible without guaranteeing either. Their practical force comes from future dependence: crews, ports, insurers, and allies remember which actors preserve exits and which turn vulnerability into a trap.
+Continuing to attack a recognized helpless target, deliberately withholding cooling after resistance ends, or sending a false distress signal can damage an actor's reputation and the standing of its account in later proceedings. Depending on the jurisdiction and the available evidence, these acts may affect port access, insurance, recognition of a permit, custody claims, or later adjudication.
 
-PSC regulation does not make warfare humane. It makes violence answerable to a market order that needs assets intact, records negotiable, and destruction expensive enough to remain exceptional.
+Such consequences help crews trust that surrender or a call for rescue may be honored. They cannot guarantee it. Much of their practical force comes from future dependence: crews, ports, insurers, and allies remember who allows others a way out and who uses their vulnerability against them.
+
+The restrictions leave warfare possible and do not ensure humane treatment. The market they serve needs usable assets and records whose acceptance can be negotiated. It seeks to make destruction expensive enough to remain exceptional.

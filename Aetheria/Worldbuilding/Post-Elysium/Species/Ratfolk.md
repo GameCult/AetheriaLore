@@ -1,39 +1,53 @@
 # Ratfolk
 
-**Ratfolk** is a human and interspecies umbrella term for small, rodent-like sapients displaced into Elysium. Some accept it as convenient trade language; others regard it as infantilizing, inaccurate, or useful only when outsiders refuse to learn more specific identities. No single self-name, government, or culture represents everyone placed inside the category.
+**Ratfolk** is a name humans and other species use for a range of small, rodent-like sapient peoples displaced into Elysium. It does not identify a single people with one government, culture, or name for themselves. Some accept the term as convenient language for trade. Others find it inaccurate or infantilizing, or use it only because outsiders will not learn their more specific identities.
 
-## Bodies And Environments
+For those grouped under the name, encounters with outsiders often involve two practical problems: equipment built for larger bodies and people who mistake small adults for dependents. These affect where Ratfolk can live and work, whether they can use emergency equipment, and whether others recognize their authority over their own lives.
 
-Ratfolk bodies are generally smaller than human bodies and often combine acute hearing, smell, touch, and sensitivity to vibration. Many lineages developed in enclosed or subterranean environments on a tectonically dangerous world. Built spaces associated with those histories tend to value legible vibration, controlled light, reachable shelter, and routes that remain usable when the surrounding environment becomes unstable.
+## Bodies And Built Spaces
 
-These are broad adaptations, not a shared psychology. Individuals differ in sensory tolerance, preferred light, comfort with open space, solitude, crowding, and risk. Treating accessibility needs as instinct or fear makes personal preference disappear into a species label.
+Ratfolk bodies are generally smaller than human bodies. They often combine acute hearing, smell, and touch with sensitivity to vibration. Many lineages developed in enclosed or subterranean environments on a world with dangerous tectonic activity. Spaces built in those traditions tend to keep vibrations easy to interpret, control light, place shelter within reach, and provide routes that remain usable when the surrounding environment becomes unstable.
 
-Body scale changes ordinary infrastructure. Human-sized controls may demand unsafe reaches. Grilles, gaps, doors, handholds, restraints, pressure gear, medical equipment, and rescue systems may be unusable despite appearing generous in size. A small berth is not automatically suitable housing: airflow, noise, privacy, evacuation, and access still require design. Conversely, Ratfolk-built spaces may be difficult for larger visitors to enter without damaging the routes or making every meeting occur on the visitor's terms.
+These adaptations do not give everyone the same preferences or temperament. Individuals differ in how much sensory stimulation they tolerate, what light they prefer, and how comfortable they are with open space, solitude, crowds, or risk. Calling an access requirement “instinct” or a preference “fear” replaces what a person says they need with an assumption about their species.
 
-## History And Displacement
+Human infrastructure can be difficult or dangerous to use even when there appears to be plenty of room. A control may require an unsafe reach. Grilles, gaps, doors, handholds, and restraints may be unsuitable for a smaller body; pressure gear, medical equipment, and rescue systems may not work for it at all. A small berth becomes suitable housing only when its airflow, noise, privacy, access, and evacuation arrangements also meet its occupant’s needs.
 
-Ratfolk histories describe long adaptation to tectonic hazard, underground settlement, and reliable shelter. Communities developed different relationships to surface life, mobility, technical change, and institutions that promised safety.
+The difficulty works in both directions. Larger visitors may struggle to enter Ratfolk-built spaces without damaging the routes. If a meeting must always move somewhere the larger visitor can use, that visitor’s needs end up setting the terms of access.
 
-The common account attributes Ratfolk displacement into Elysium to an FTL project pursued by one or more of their institutions. Responsibility remains disputed. Later accounts disagree about who authorized the project, who opposed it, what danger or ambition justified it, and whether the institutions involved represented anyone beyond their own jurisdiction. Outsiders often compress this into “the Ratfolk attempted FTL,” assigning a species collective responsibility that no human polity would accept on the same evidence.
+## A Lost World And A Disputed Project
 
-Elysium intensified those disputes. Some treat displacement as vindication of cautious, redundant systems. Others argue that safety institutions concealed risk or denied communities unfamiliar futures. Later generations may value the argument differently from those who remember the lost world.
+Ratfolk histories describe long experience with tectonic danger, underground settlement, and the work of providing reliable shelter. Communities took different approaches to surface life, mobility, technical change, and the institutions that promised to keep them safe.
 
-Some Ratfolk societies are unusually practiced at transmitting survival lessons to generations that did not personally endure the disaster behind them. Reachable shelter, redundant routes, bounded experiments, distributed maintenance knowledge, and emergency authority expected to expire can make precaution ordinary rather than exceptional. Their arguments begin where many human institutions end: who may declare a hazard, who pays for redundancy, how dissent can challenge safety consensus, and how a person retains the right to leave a system designed to protect everyone.
+The common account attributes their displacement into Elysium to an FTL project pursued by one or more Ratfolk institutions. Responsibility remains disputed. Later accounts disagree about who authorized the project, who opposed it, and what danger or ambition was offered as its justification. They also disagree about whether the institutions involved represented anyone outside their own jurisdictions.
 
-Those practices do not make Ratfolk an answer key for humanity. A precautionary office can become permanent. Communal visibility can become surveillance. A ban can preserve life or convert ancestral fear into custody. What some Ratfolk cultures demonstrate is narrower and more unsettling: a civilization can survive long enough to keep arguing about the second-order dangers of its own survival mechanisms.
+Outsiders often reduce this history to “the Ratfolk attempted FTL.” That assigns responsibility to an entire species on evidence that would not justify treating all human polities as responsible for one polity’s project.
 
-## Plural Societies
+Displacement sharpened the existing arguments about safety and change. Some see it as proof of the need for caution and backup systems. Others argue that safety institutions concealed risks or prevented communities from pursuing unfamiliar futures. Generations born later may understand these disputes differently from people who remember the lost world.
 
-Ratfolk live in multiple polities, settlements, households, work organizations, traditions, and diaspora networks. Their institutions differ over collective obligation, privacy, mobility, leadership, trade, technical adoption, and the right to leave. Dense communal life can provide mutual aid or make surveillance and exclusion difficult to escape. Neither result belongs to the species by nature.
+## Keeping Survival Lessons Alive
 
-Disagreement also surrounds representation. A technical delegation may speak for a shipyard but not its residents. A household representative may hold authority within that household and none over a distant settlement. A rescue coordinator may possess emergency power that expires with the emergency. First-contact institutions prefer one authorized counterpart because plurality is administratively expensive, then mistake the counterpart they selected for a species government.
+Some Ratfolk societies are unusually practiced at teaching survival lessons to people who never experienced the disasters that produced them. They make precaution part of ordinary life: shelter stays within reach, routes have alternatives, experiments operate within limits, and maintenance knowledge is shared rather than held by a few people. Emergency authority is expected to end when the emergency does.
 
-## Translation And First Contact
+Maintaining those practices requires continued political argument. Someone must decide whether a hazard exists, and someone must pay for backup routes and systems. People need ways to challenge an accepted safety judgment. They also need to decide whether, and how, a person can leave arrangements intended to protect everyone.
 
-Ratfolk communication can combine sound, posture, facial movement, touch, scent, and vibration. Translation trained mainly on speech may preserve words while losing disagreement, deference, interruption, or side-channel communication. Outsiders can mistake negotiated speech for unanimity.
+Experience does not settle these questions. An office created to manage a danger can become permanent. Neighbors’ knowledge of one another can support care or become surveillance. A prohibition can save lives, but it can also let inherited fear justify keeping people under control.
 
-Human observers also tend to read small bodies and familiar animal features as childish or harmless. That response affects custody, diplomacy, medical consent, employment, and security. An adult expert may be praised as clever while denied authority; a group may be treated as dependents until their technology becomes valuable, then reclassified as suspiciously coordinated.
+Some Ratfolk cultures have sustained these arguments across generations. Their survival practices remain open to dispute because the institutions that keep people alive can create dangers of their own.
 
-Ratfolk workers can face the opposite double bind. Sensory ability and body scale are described as natural advantages when employers assign confined inspection, maintenance, or surveillance work, then as costly special requirements when workers demand safe equipment, control of their records, or access to other roles.
+## Communities And The Limits Of Authority
 
-Much remains unresolved: the range of Ratfolk languages and body variation, the political geography of their origin system, the institutions responsible for the FTL project, and the societies formed after displacement. Any first-contact account remains evidence of a bounded encounter, not authority over the species.
+Ratfolk belong to multiple polities, settlements, households, work organizations, traditions, and diaspora networks. These differ over what people owe one another, how much privacy they should have, how freely they can move or leave, who leads, whom they trade with, and when they adopt new technology. Dense communal life can make mutual aid easier. It can also make surveillance and exclusion harder to escape. Neither outcome is an inherent Ratfolk trait.
+
+Authority depends on the particular institution and the task. A technical delegation may represent a shipyard without representing the people who live there. A household representative may speak for that household and have no authority over a distant settlement. A rescue coordinator’s powers may last only as long as the emergency.
+
+First-contact institutions often want a single authorized counterpart because dealing with many separate authorities takes more administrative work. They may then treat the counterpart they chose as a government for the entire species. Ratfolk disputes over who can speak for whom do not disappear because an outsider finds one representative convenient.
+
+## Communication And First Contact
+
+Ratfolk communication can use sound, posture, facial movement, touch, scent, and vibration together. A translator trained mainly on speech may reproduce the spoken words while missing disagreement, deference, interruptions, or exchanges taking place through another channel. What an outsider hears as unanimous agreement may be speech that has been negotiated, with parts of that negotiation lost in translation.
+
+Human observers also tend to associate small bodies and familiar animal features with childhood or harmlessness. That misreading affects custody, diplomacy, medical consent, employment, and security. An adult expert may receive praise for being clever while being denied authority. A group treated as dependents may become “suspiciously coordinated” in outsiders’ eyes once its technology proves valuable.
+
+At work, Ratfolk can face contradictory treatment of the same bodily traits. Employers may describe their sensory abilities and size as natural advantages when assigning confined inspection, maintenance, or surveillance work. When those workers ask for safe equipment, control over their records, or access to other roles, employers may describe their needs as costly special requirements.
+
+Much is still unresolved: the range of Ratfolk languages and bodily variation, the political geography of their origin system, which institutions were responsible for the FTL project, and what societies formed after displacement. A first-contact account provides evidence about the particular encounter it records. It cannot establish how everyone called Ratfolk lives, communicates, or governs themselves.
