@@ -1,5 +1,5 @@
 *"Why should power die just because the body does?"*
 
-The [[Immortal Aristocrats]] are the upload elite who turned continuity hosting, copy management, and virtual estate ownership into a new form of nobility. They present themselves as proof that digital existence can be dignified, cultured, and politically legitimate.
+The [[Immortal Aristocrats]] are an elite of digitally uploaded people who have built a new nobility around the means of continuing to exist: hosting for their minds, management of their copies, and ownership of virtual estates. They seek to retain power beyond the death of the body and present their digital lives as dignified, cultured, and politically legitimate.
 
-They are also one of the main reasons the public learned to separate "respectable" uploads from disposable ones. Their fight for rights is real, but it often rests on preserving a hierarchy that leaves industrial minds behind.
+Their struggle for rights is real, but it often depends on securing recognition for their own class while leaving industrial minds behind. They helped teach the public to regard some uploads as “respectable” people and others as disposable. The hierarchy they preserve makes the rights of an uploaded aristocrat easier to recognize than those of a mind used in industry.

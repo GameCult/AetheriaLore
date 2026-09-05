@@ -1,5 +1,5 @@
 *Genes for all, privilege for none*
 
-[[Gene Commons]] argues that genetic knowledge should be treated as a shared civil inheritance rather than a proprietary ladder for elites. It campaigns for open therapies, anti-monopoly bio law, and the decoupling of biological improvement from caste reproduction.
+[[Gene Commons]] is a movement that wants everyone to share in genetic knowledge and the improvements it makes possible. It campaigns for openly available therapies and laws that prevent monopolies over biotechnology. Its central claim is that genetic knowledge belongs to everyone as a civil inheritance: access to biological improvement should not depend on elite status or help preserve a privileged caste across generations.
 
-The movement attracts scientists, uplift advocates, mutual-aid clinics, and reformers inside larger institutions. It is one of the few genetic politics currents that can oppose both prohibitionist fear and aristocratic optimization at the same time.
+Scientists, uplift advocates, mutual-aid clinics, and reformers within larger institutions support the movement. It is one of the few currents in genetic politics that challenges both efforts to prohibit genetic improvement out of fear and efforts to reserve its advantages for an aristocracy.
