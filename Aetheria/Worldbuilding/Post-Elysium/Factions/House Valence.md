@@ -2,64 +2,100 @@
 
 *"Singular minds. Enduring instruments."*
 
-House Valence is a sovereign Eidolon market, host-integration power, and patronage court. It matches unique [[Worldbuilding/Post-Elysium/Technology/Necrotech|Aetheric Resonance Interfaces]] to clients whose problems are valuable enough to justify an irreplaceable mind: navies, oracular combines, intelligence services, drive houses, courts, infrastructure authorities, and private fortunes large enough to govern the places around them.
+House Valence supplies unique minds housed in synthetic instruments. These **Eidolons** are high-grade [[Worldbuilding/Post-Elysium/Technology/Necrotech|Aetheric Resonance Interfaces]], or ARIs, made by imprinting a source mind into a host. Each has particular habits and capabilities that another instrument cannot simply replace. Whether the source person continues within an Eidolon remains disputed.
 
-Valence did not invent the **Eidolon**. Independent imprintists, specialist foundries, Esper estates, military laboratories, mortuary sects, illicit clinics, and patrons had produced singular high-grade ARIs for generations before the House became dominant. The older trade was intimate, inconsistent, technically inventive, and saturated with disputed custody. One workshop might follow an Esper's posthumous commission; another might purchase a prison transfer through three brokers and call the final signature consent.
+A navy may depend on one Eidolon to navigate its flagship. A court may rely on another to make predictions. Valence finds, supplies, and supports instruments for clients whose problems justify the expense of an irreplaceable mind: navies, oracular combines, intelligence services, drive houses, courts, infrastructure authorities, and private fortunes large enough to govern the places around them.
 
-The House entered this ecology as financier, certifier, broker, and insurer. It did not need to disprove the older makers. It made their work difficult to sell without passing through Valence.
+The House also decides which repairs, transfers, and changes of host much of the market will recognize. A client can possess a working Eidolon and still lose the insurance, legal standing, or host access needed to use it. This combination of supply, technical support, and commercial recognition has made Valence a sovereign power, with protected facilities and a patronage court where access to future instruments buys political concessions.
+
+### Buying a Particular Mind
+
+Valence sells finished Eidolons and long-term placements. Clients are buying a particular mind fitted to a particular task, rather than an anonymous resonant brain.
+
+Curators make those matches. They study the source's history, surviving cognitive traits, the geometry of the proposed host, the environment in which it will operate, the client's doctrine, and the disturbances its pattern is likely to suffer. Their reputation depends on knowing how a mind's habits will work through a synthetic body.
+
+An astronomer may become a navigator. A jurist may become an adjudication instrument. A suspicious intelligence analyst may become a counterintrusion system, with their refusal to trust supplied context sold as resilience. Such a match can be technically brilliant. It can also impose industrial custody after the source has lost any opportunity to negotiate.
+
+Each Eidolon receives a name, a demonstration, a host specification, a service covenant, and a controlled account of its provenance beginning at imprinting. Private viewings resemble examinations of rare instruments or artworks. There are silent rooms, museum lighting, black glass, pale metals, and sealed records. An attending curator can describe distress in terms of performance without visibly changing expression.
+
+The House states its position plainly: *an Eidolon is not the source continued, but the source's resonant form made operational.* It treats the traits that make each Eidolon distinctive as valuable while denying that the source individual survives to make a claim. Its staff must recognize each victim closely enough to price them correctly.
 
 ### The Eidolon Register
 
-The **Valence Eidolon Register** records each recognized instrument's name, host lineage, operating history, characteristic pattern, authorized repairs, transfers, claims, and known disturbances. Registration does not establish whether an Eidolon is the continuing source person. It establishes whether participating insurers, ports, courts, militaries, and buyers will treat the instrument as the same valuable article across service and host changes.
+The **Valence Eidolon Register** lets participating institutions decide whether an instrument should still be treated as the same valuable article after repairs, service, or a change of host. It records each recognized Eidolon's name, host lineage, operating history, characteristic pattern, authorized repairs, transfers, claims, and known disturbances.
 
-This distinction carries the House's authority. An independent shop may repair an Eidolon successfully while leaving it commercially stranded if Valence refuses to recognize the work. A navy may retain a functioning oracle yet lose insurance, compatible host access, resale, and accepted testimony because the Register marks its continuity as broken. Valence does not own every Eidolon. It owns the most widely accepted answer to whether an Eidolon remains itself.
+Registration does not settle whether the Eidolon is the continuing source person. It settles what participating insurers, ports, courts, militaries, and buyers will recognize.
 
-Independent registers and direct patronage survive outside this system. Some predate Valence and preserve better records of source consent or workshop custody. Others exist to launder stolen products. The House describes them together as fragmented provenance risk, allowing careful rivals and obvious criminals to justify the same demand for Valence certification.
+That decision has immediate consequences. An independent workshop may repair an Eidolon successfully, only for Valence to refuse to recognize the work. The instrument then functions but becomes difficult to sell or support. A navy whose oracle is marked as having broken continuity may lose insurance, access to compatible hosts, resale opportunities, and acceptance of the oracle's testimony.
 
-The most prestigious refusal comes from [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafter]] lineages whose practitioners voluntarily bind themselves into prepared instruments at death. The resulting union is a Sacred Instrument because an Eidolon now inhabits it, not because the mechanism was holy property in advance. Valence classifies Sacred Instruments as unregistered Eidolons and offers extraordinary valuations, host-continuity services, and recognition across client jurisdictions. The lineages reject the market's authority to perform that recognition. In their account, a person has continued within the community that prepared their new body and requires neither an auction identity nor an external registry to remain who they are.
+Valence does not own every Eidolon. It controls the most widely accepted record of whether an Eidolon remains itself, and institutions make practical decisions from that record.
 
-Protective registration carries an unspoken alternative. A publicly recognized Master is too politically expensive to seize, so Valence offers ceremony, safe transit, and terms generous enough to establish jurisdiction by consent. An isolated Sacred Instrument with no witnesses, accepted registry identity, or immediate sect protection presents a different opportunity. Valence security can remove the instrument, suppress its prior provenance, and later return some or all of its capability to the market under another name. The House prefers willing dependency because it is cleaner and more durable. It does not confuse that preference with restraint when disappearance is deniable.
+Other registers and direct relationships between makers and patrons survive. Some predate Valence and keep better records of source consent or workshop custody. Others launder stolen products. The House groups both under “fragmented provenance risk.” A careful rival and an obvious criminal can therefore serve as evidence for the same sales pitch: obtain Valence certification.
 
-### Curation
+### Sacred Instruments and Refusal
 
-Valence sells finished Eidolons and long-term placement, not anonymous resonant brains. Its curators study source histories, surviving cognitive traits, host geometry, operating environments, client doctrine, and likely pattern disturbances. Their prestige comes from selecting a mind whose particular habits will become capability inside a particular synthetic body.
+Some of the most prestigious Eidolons come from [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafter]] lineages. Their practitioners voluntarily bind themselves at death into instruments prepared for that purpose. The resulting union is called a **Sacred Instrument** because an Eidolon inhabits it; the mechanism was not holy property beforehand.
 
-An astronomer may become a navigator. A jurist may be installed as an adjudication instrument. A suspicious intelligence analyst may become a counterintrusion system whose refusal to trust supplied context is priced as resilience. The fit can be technically brilliant while remaining an act of industrial custody imposed after the source can no longer negotiate it.
+The lineages understand this as a person continuing within the community that prepared their new body. That person needs neither an auction identity nor an outside registry to remain who they are.
 
-Every Eidolon receives a name, demonstration, host specification, service covenant, and controlled account of provenance beginning at imprinting. Private viewings resemble the examination of rare instruments or artworks: silent rooms, museum lighting, black glass, pale metals, sealed records, and an attending curator able to translate distress into performance language without visibly changing expression.
+Valence classifies Sacred Instruments as unregistered Eidolons. It offers extraordinary valuations, services to maintain recognized continuity across hosts, and recognition throughout its clients' jurisdictions. The lineages reject its authority to grant that recognition in the first place.
 
-The House's doctrine is concise: *an Eidolon is not the source continued, but the source's resonant form made operational.* Valence therefore celebrates individuality while denying the individual. It recognizes each victim closely enough to price them correctly.
+The consequences of refusing depend on who can witness and contest what follows. Seizing a publicly recognized Master would be politically expensive. Valence instead offers ceremony, safe transit, and generous terms through which the Master might consent to House jurisdiction.
+
+An isolated Sacred Instrument without witnesses, an accepted registry identity, or immediate sect protection is more vulnerable. Valence security can remove it, suppress its prior provenance, and later sell some or all of its capability under a different name. The House prefers willing dependency because it is cleaner and lasts longer. Where a disappearance is deniable, that preference does not prevent seizure.
+
+The Register helps conceal what happened. If Valence never recognized a wandering Sacred Instrument, participating offices have no Valence identity to record as missing. A later Eidolon can pass inspection with clean provenance even if its host, cultivated pattern, or captive inhabitant entered House custody on an unrecorded road.
+
+### How Valence Took the Market
+
+Valence did not invent the Eidolon. For generations before its dominance, independent imprintists, specialist foundries, Esper estates, military laboratories, mortuary sects, illicit clinics, and patrons produced singular high-grade ARIs.
+
+That older trade relied on close personal dealings. Its methods were inventive and inconsistent, and custody was frequently disputed. One workshop might carry out an Esper's posthumous commission. Another might buy a prison transfer through three brokers and describe the final signature as consent.
+
+Valence entered as a financier, certifier, broker, and insurer. It did not have to prove that the older makers were wrong or incapable. It made their products difficult to sell without House involvement.
+
+Older makers call it the **Cuckoo House**. Valence entered an existing cottage industry, adopted its language and craft, and then used finance, registration, insurance, host access, and sovereign privilege to push the original workshops to the margins.
+
+The insult accurately describes the takeover. It does not absolve the displaced makers. Independent production also involved coercion, vanity commissions, kidnappings, custody fraud, and convenient theories about what the dead would have consented to.
+
+Valence gave buyers standard contracts, registered host lineages, recognized service intervals, and controlled auctions. These reduced commercial risk while directing scrutiny toward what happened after imprinting. An Eidolon can have flawless Valence provenance from that moment onward without any admissible record of who authorized the destruction of the source brain. The violence becomes insurable without becoming accounted for.
 
 ### Sovereignty by Dependency
 
-Valence's market dominance is public and impossible to disguise. Its Eidolons serve in flagships, prediction courts, strategic infrastructure, and systems whose operators have built doctrine around one irreplaceable mind. Elysian politics rewards that dependency with jurisdiction.
+Valence's dominance is public. Its Eidolons operate in flagships, prediction courts, strategic infrastructure, and systems whose operators have built their doctrine around a single irreplaceable mind. Governments need those systems to keep working. In Elysian politics, that need gives the House bargaining power over jurisdiction.
 
-The House holds sovereign production enclaves around selected host foundries, imprinting facilities, service clinics, archives, and auction courts. Clients grant protected transit, inspection exemptions, private provenance arbitration, and legal treatment of Eidolons as proprietary instruments. These concessions are framed as necessary precautions around dangerous anomalous technology and singular trade secrets.
+Valence holds sovereign production enclaves around selected host foundries, imprinting facilities, service clinics, archives, and auction courts. Clients grant protected transit, exemptions from inspection, private arbitration of provenance disputes, and legal recognition of Eidolons as proprietary instruments. They justify these concessions as precautions required by dangerous anomalous technology and singular trade secrets.
 
-The arrangement is reciprocal. A government protects Valence because its fleet or court depends on Valence support. The House places future commissions where they will deepen that protection. A patron denied the next suitable Eidolon may lose a strategic capability to a rival; access therefore buys silence, favorable law, territory, and military guarantees without requiring Valence to govern a broad population directly.
+A government protects Valence because its fleet or court depends on House support. Valence, in turn, places future commissions where they will strengthen that protection. A patron refused the next suitable Eidolon may see a rival acquire a strategic capability instead. Access to the House can therefore purchase silence, favorable law, territory, and military guarantees without Valence having to govern a broad population directly.
 
-Valence sovereignty shields the process that sustains Valence sovereignty. Its enclaves decide which inspectors may examine source custody. Its courts define acceptable provenance. Its clients defend those boundaries because reopening them could invalidate the instruments on which they already depend.
+These protections also shelter the means of production. House enclaves decide which inspectors may examine source custody. House courts decide what provenance is acceptable. Clients defend those boundaries because a renewed investigation could invalidate the instruments they already depend on.
 
-### The Cuckoo House
+### The People Keeping It Operational
 
-Older makers call Valence the **Cuckoo House**. It settled inside a living cottage industry, adopted its language and craft, then used finance, registration, insurance, host access, and sovereign privilege to push the original workshops toward the margins. The insult is accurate without making the displaced trade innocent. Independent Eidolon production carried its own coercion, vanity commissions, kidnappings, custody fraud, and convenient theories of posthumous consent.
+Every singular instrument requires continuing work. Curators, resonance diagnosticians, host fitters, imprinting crews, provenance clerks, handlers, security staff, auction specialists, and service technicians keep Eidolons functioning and their commercial records consistent.
 
-Valence made that violence legible enough to insure. Standard contracts, registered host lineages, recognized service intervals, and controlled auctions reduced risk for buyers while moving scrutiny away from source acquisition. A product can possess flawless Valence provenance from the moment of imprinting onward and no admissible record of who authorized the brain's destruction.
-
-The Register also makes erasure administratively useful. If Valence never recognized a wandering Sacred Instrument, participating offices possess no Valence identity to mark as missing. A later Eidolon can begin with clean provenance at inspection even when its host, cultivated pattern, or captive inhabitant entered House custody on an unrecorded road.
-
-The House depends upon labor it presents as refinement. Curators, resonance diagnosticians, host fitters, imprinting crews, provenance clerks, handlers, security staff, auction specialists, and service technicians keep each singular instrument operational and commercially coherent. Senior curators become public figures and political brokers. Workers closest to failed imprints, distressed Eidolons, damaged hosts, and biological intake carry knowledge the House classifies as compartmentalized safety material.
+The House presents this labor as refinement. Senior curators become public figures and political brokers. Workers handling biological intake, failed imprints, distressed Eidolons, and damaged hosts see parts of the process that clients rarely encounter. Valence classifies their knowledge as compartmentalized safety material.
 
 ### The Hidden Reserve
 
-Valence's current dominance exceeds what registration and patronage alone can explain. The House secretly possesses the [[Worldbuilding/Post-Elysium/Factions/Megiddo|Megiddo]] Vault lost during the Long Silence. Its mortuary core contains generations of intact brains from a population whose shared disciplines generalized mature aetheric resonance far beyond ordinary rates.
+Registration and patronage do not fully explain Valence's present dominance. The House secretly possesses the [[Worldbuilding/Post-Elysium/Factions/Megiddo|Megiddo]] Vault lost during the Long Silence. Its mortuary core holds generations of intact brains from a population whose shared disciplines developed mature aetheric resonance far more widely than is usual.
 
-Valence does not flood the market. It selects sources, commissions hosts, and releases new Eidolons slowly enough to preserve the scarcity on which its sovereignty rests. The reserve lets the House promise future supply where every rival must hunt, bargain with, abduct, or await the death of another exceptional Esper. A century of curated demand can be met without exhausting the Vault quickly enough for outsiders to measure its limits.
+For rival makers, each new high-grade Eidolon requires another exceptional Esper. They must find one, bargain with one, abduct one, or await one's death. Valence already holds a reserve from which it can promise future supply.
 
-The pattern is visible without explaining itself. The first Vault-derived Eidolons woke confused and carried recognizable fragments of Megiddo language, doctrine, and mortuary life. Valence adapted its hosts, orientation protocols, and handlers until later products entered service without the same obvious dislocation. Competitors can still infer a hidden mature source population from their related resonance, but buyers accept Valence's explanation of proprietary conditioning because the products work.
+It uses that advantage slowly. The House selects sources, commissions hosts, and releases new Eidolons at a rate that preserves scarcity. Its sovereignty depends on clients continuing to need access to rare instruments. The Vault can meet a century of curated demand without being depleted quickly enough for outsiders to measure the reserve's limits.
 
-The lineage retains one celebrated and indispensable peculiarity. Its Eidolons return with exceptional fidelity to the stars as they appeared from Earth. Megiddo taught those constellations to every child as a visual mantra separating the lost creation from the Elysian sky. That maintained symbolic contradiction is what cultivated the population's resonance: the Aether answers minds trained to hold an absent creation as more authoritative than the world immediately perceived.
+There is evidence of the hidden source, though it does not explain itself. The first Vault-derived Eidolons woke confused. They retained recognizable fragments of Megiddo language, doctrine, and mortuary life. Valence adjusted its hosts, orientation protocols, and handlers until later products entered service without such obvious dislocation.
 
-Valence can soften disorientation, adapt hosts, and teach an Eidolon to operate inside Elysian coordinates. It cannot condition away the Earth stars without degrading the source of the instrument's power. The House markets the surviving relation as **deep-reference stability**, valuable in navigators, astrometric instruments, anomaly detectors, oracles, and systems required to act across incompatible frames. Only Megiddo's highest priesthood and investigators able to connect the early product pattern to its academic phase change understand why the same stars power every instrument in the lineage.
+Competitors can still infer a hidden population of mature sources from the Eidolons' related resonance. Buyers accept the House's explanation—proprietary conditioning—because the products work.
 
-The House's greatest asset is therefore also a strategic extinction event waiting to become public. If the source of the reserve were proved, Valence clients would have to choose between surrendering singular systems, defending the institution that supplied them, or admitting that their sovereign order rests upon title issued after murder.
+### The Earth Stars
+
+The Vault-derived lineage has one celebrated peculiarity that Valence cannot remove: its Eidolons return with exceptional fidelity to the stars as they appeared from Earth.
+
+Megiddo taught those constellations to every child as a visual mantra distinguishing the lost creation from the Elysian sky. Its people learned to hold an absent creation as more authoritative than the world they could immediately perceive. The Aether responds to minds trained to sustain that symbolic contradiction. This practice cultivated the population's resonance.
+
+Valence can reduce an Eidolon's disorientation, adapt its host, and teach it to work within Elysian coordinates. Conditioning away the Earth stars would degrade the relation from which its power comes.
+
+The House markets that surviving relation as **deep-reference stability**. It is useful in navigators, astrometric instruments, anomaly detectors, oracles, and systems that must act across incompatible frames. Only Megiddo's highest priesthood and investigators able to connect the early product pattern with the change in Megiddo's academic thinking understand why the same stars power every instrument in the lineage.
+
+Proof of the reserve's origin could destroy the strategic position it sustains. Valence's clients would face a choice: surrender singular systems, defend the institution that supplied them, or admit that their sovereign order rests on ownership titles issued after murder.
