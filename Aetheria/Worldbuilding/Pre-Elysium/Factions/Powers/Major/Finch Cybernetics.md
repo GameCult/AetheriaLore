@@ -1,33 +1,45 @@
 *"Elegance is the privilege of systems that can afford to disappear into the body."*
 
-[[Finch Cybernetics]] is a premium medical and augmentation company built around implants, neural interfaces, surgical integration, and the maintenance required to keep them part of a living body. Its products restore movement, sensation, communication, and bodily autonomy. They also make continued function dependent on clinics, compatible parts, firmware, records, and professional recognition that Finch controls.
+[[Finch Cybernetics]] is a premium medical and augmentation company. It fits people with prostheses, implants, and neural interfaces, then provides the surgery, rehabilitation, and continuing maintenance needed to use them as parts of a living body. Its systems can restore movement, sensation, communication, and control over one's own body. Keeping those abilities, however, depends on access to clinics, compatible parts, firmware, records, and professional recognition controlled by Finch.
 
-Finch grew from the neuroprosthetic tradition associated with Mireille Finch, who argued that body-machine integration should preserve sensorimotor dignity rather than treat the patient as an industrial mounting point. Finch sold careful fitting and long support. Graceful embodiment became both care standard and visible class advantage.
+The company grew from the neuroprosthetic tradition associated with Mireille Finch. She argued that an integrated device should let a patient move and feel with dignity, rather than turn their body into a mounting point for machinery. Finch built its reputation on careful fitting and long support. The ease with which someone could inhabit an augmented body became both a standard of care and a visible sign of what they could afford.
 
-## Clinical Power
+## Living with Finch
 
-Finch supplies premium prostheses and implants, high-bandwidth interfaces, rehabilitation, sensory and motor calibration, and long-term service. Its authority lies less in any single device than in the maintenance chain around it. A Finch system may depend on proprietary diagnostics, matched components, surgical expertise, and firmware whose safety certification follows the company rather than the patient.
+Within Finch systems, **Grace** determines maintenance coverage. It is not a general currency. Coverage governs how quickly a clinic responds, which replacement parts a patient can obtain, and their access to firmware refinement, sensory calibration, and emergency support.
 
-Finch implants and maintains [[Worldbuilding/Pre-Elysium/Technology/Brain-Computer Interfaces|brain-computer interfaces]], which mediate access for a living mind rather than instantiate another person. Finch also builds embodiment bridges through which uploads or hybrid minds can inhabit sensorimotor systems. It does not copy or host uploads; providers such as [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/EternaMind|EternaMind]] do. Its embodiment bridge governs sensorimotor access, not the continuity or custody questions described in [[Worldbuilding/Pre-Elysium/Technology/Mind Uploading|Mind Uploading]].
+With high Grace, a repair can feel as routine and dependable as an ordinary civic service. Patients with less coverage wait longer, live with defects the clinic considers tolerable, accept substitute parts, and face stricter judgments about whether lost function warrants urgent care.
 
-Finch works with independent suppliers whose authority ends at different seams. [[Cryonix]] provides thermal materials and operating margins for demanding implants, clinics, and continuity systems. Finch integrates and services bodies; that relationship gives it no control of the materials industry or upload market.
+A transit mechanic's Finch hand develops a slight tactile delay after a firmware update. It still closes safely, so the clinic treats the problem as non-emergency. She can work, but she cannot trust the fraction of a second between touching a hot coupling and feeling it. Her supervisor removes her from certified repair tasks while she waits for an appointment. The defect is too small to earn priority care and large enough to cut her pay. Her household rearranges shifts and travel around a problem almost invisible to anyone who does not live inside it.
 
-## Territory and Coverage
+Wealth changes how long a person must live with that uncertainty. It buys faster care, better-matched parts, private recovery, and discretion when a body falls out of calibration. Clinicians and technicians are also tied to the system: years spent learning Finch's proprietary standards make independent practice difficult, even for staff who object to the triage rules they must enforce.
 
-Finch is concentrated on Luna and the Earth-Moon service lattice, with clinic habitats and surgical facilities near major transit routes. Its old premium stack once included much of the far-side lunar materials economy. The [[Cinderlace Licensing War]] separated that arrangement: Cryonix gained sovereign leverage over thermal works and materials districts while Finch retained a narrower clinical and embodiment domain. A patient can therefore depend on Finch for integration and Cryonix for the certified envelope in which the hardware remains reliable.
+## What Finch Controls
 
-Within Finch systems, **Grace** is coverage for maintenance rather than general currency. It governs clinic response, replacement-part access, firmware refinement, sensory calibration, and emergency support. High Grace can make repair feel like ordinary civic infrastructure. Lower coverage means longer queues, tolerated defects, substitute parts, and stricter arguments over whether a loss of function qualifies as urgent.
+Finch supplies premium prostheses and implants, high-bandwidth interfaces, rehabilitation, sensory and motor calibration, and long-term service. Much of its power comes from deciding how those systems are maintained. A device may require proprietary diagnostics, matched components, specialist surgery, and firmware whose safety certification remains tied to Finch rather than moving with the patient to another provider.
 
-A transit mechanic with a Finch hand develops a slight tactile delay after a firmware update. The hand still closes safely, so the clinic classifies the problem as non-emergency. She can work, but cannot trust the fraction of a second between touching a hot coupling and feeling it. Her supervisor removes her from certified repair tasks while her appointment waits. The implant has not failed enough to trigger priority care; it has failed enough to cut her pay. Her household rearranges shifts and travel around a defect almost invisible to anyone who does not live inside it.
+Its [[Worldbuilding/Pre-Elysium/Technology/Brain-Computer Interfaces|brain-computer interfaces]] give a living mind access to other systems; they do not create a separate person. Finch implants and maintains these interfaces. It also builds embodiment bridges that let uploads or hybrid minds inhabit systems through which they can sense and act.
 
-That interval is where Finch class becomes legible. Wealth buys shorter periods of uncertainty, better-matched parts, private recovery, and discretion when a body falls out of calibration. Technicians and clinicians face a related dependency: years spent mastering proprietary standards make independent practice difficult, even when they object to the triage rules they enforce.
+Those bridges have a limited role. Finch does not copy or host uploads; providers such as [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/EternaMind|EternaMind]] do that. Finch controls the upload's access to sensation and movement through the bridge. It does not settle the questions of personal continuity or custody described in [[Worldbuilding/Pre-Elysium/Technology/Mind Uploading|Mind Uploading]].
 
-## Autonomy and Enclosure
+Finch also depends on independent suppliers. [[Cryonix]] provides thermal materials and the capacity to operate demanding implants, clinics, and continuity systems within reliable thermal limits. Finch integrates and services bodies. Buying materials from Cryonix gives it no authority over the wider materials industry or the upload market.
 
-Finch often aligns with [[Enhancement Liberals]] because reliable augmentation can increase freedom in direct, bodily terms. A person who can move, perceive, communicate, or choose their form has gained something real. The dispute begins at exit. Choice is thin when changing providers risks surgery, lost records, incompatible components, or a period without essential function.
+## Clinics and Territory
 
-The [[Tycho Exclusion Riots]] made that contradiction public. During a firmware cascade, lower-coverage patients were denied protections reserved for premium clients. Service technicians leaked triage evidence showing that dignified integration had contractual strata. Finch survived by clarifying coverage and liability rather than making maintenance equal.
+Finch's facilities are concentrated on Luna and across the Earth-Moon service network. Clinic habitats and surgical facilities sit near major transit routes.
 
-During the [[Neural Network Defense Campaign]], Finch defended clinics, service vaults, and embodiment bridges from seizure and fragmentation. Patients genuinely needed that network intact. Securing it also drove them deeper into Finch-administered care. Protection and enclosure were not rival interpretations of the campaign. They were the same infrastructure viewed from opposite sides of the clinic door.
+Its premium operations once included much of the far-side lunar materials economy. The [[Cinderlace Licensing War]] broke up that arrangement. Cryonix gained sovereign leverage over thermal works and materials districts, while Finch retained a narrower domain of clinical care and embodiment services.
 
-Finch's promise remains substantial: technology should meet a person as part of a body, not merely attach function to flesh. Its political problem is equally concrete. The better that integration works, the more power belongs to whoever decides when it will be maintained.
+The division matters to patients because one body can depend on both companies. Finch provides the integration and maintenance; Cryonix supplies the materials and certified thermal operating limits within which the hardware remains reliable.
+
+## Bodily Freedom and the Cost of Leaving
+
+Finch often aligns with [[Enhancement Liberals]]. Reliable augmentation can give someone greater freedom to move, perceive, communicate, or choose their form. Those are substantial gains in bodily autonomy.
+
+The difficulty comes when a patient wants to leave. Changing providers can mean further surgery, lost records, incompatible components, or time without an essential function. A person may have more control over what their body can do while having little practical choice about who maintains it.
+
+The [[Tycho Exclusion Riots]] made the unequal terms of that care public. During a firmware cascade, lower-coverage patients were denied protections reserved for premium clients. Service technicians leaked triage evidence showing how access to dignified integration depended on a patient's contract. Finch survived the crisis by making coverage and liability clearer; it did not make maintenance equal.
+
+During the [[Neural Network Defense Campaign]], Finch protected clinics, service vaults, and embodiment bridges against seizure and fragmentation. Patients needed that network to remain intact. Keeping it secure also strengthened their dependence on Finch-administered care: the infrastructure preserving their bodily function was the infrastructure through which the company kept control.
+
+Finch's promise is to make technology work as part of a person's body, with the fitting and support that requires. For patients, the continuing question is who decides when that support arrives, and what they must live without while they wait.
