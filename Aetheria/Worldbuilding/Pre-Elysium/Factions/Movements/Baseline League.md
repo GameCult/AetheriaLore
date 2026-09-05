@@ -1,35 +1,33 @@
 *Humanity stands, unaltered.*
 
-The [[Baseline League]] is the great populist coalition of those who believe the posthuman turn has been organized against them: workers priced out of augmentation, families disgusted by elite upload continuity, communities displaced by uplift labor markets, and people who no longer believe the future was built with them in mind.
+The [[Baseline League]] is a large populist coalition of people who believe that changes to human bodies, minds, and lifespans have been organized against them. Workers cannot afford the augmentations that shape their prospects. Families are shut out of expensive ways to continue life through uploaded minds or pass biological advantages to their children. Communities lose work to uplifted nonhuman beings. Others reject these changes on cultural grounds, whether or not they can afford them.
 
-It is one of the most politically volatile forces in the setting because it contains both a real material grievance and some of the ugliest reactionary impulses in Sol. At its best, the League indicts enhancement aristocracy, hereditary optimization, and the enclosure of dignity behind expensive posthuman upgrades. At its worst, it collapses that critique into chauvinism and species panic.
+What holds the League together is the belief that the future no longer includes people like them. What divides it is whom they blame. Some members oppose a wealthy class that can buy enhanced abilities, inherited advantages, and recognition denied to everyone else. Others turn that anger against nonhuman people and anyone they see as departing from an acceptable human form. The League contains both a substantial grievance about inequality and some of the most vicious reactionary politics in Sol.
 
-### Historical Development
+### Who Joins
 
-Baseline politics existed from the moment augmentation became economically decisive, but the League itself cohered during the [[Identity Crisis]] and [[Identity Abyss]] as more people realized the new categories of personhood were being sorted through markets they could not access. Every luxury upload ad, every GeneSys pedigree, and every Finch-tier maintenance regime sharpened the feeling that mortality had become a caste marker.
+The League draws support from urban people with little or no augmentation, rural and peripheral settlements outside premium medical systems, and workers displaced by uplifts and biodrones. Families excluded from elite uploading and reproductive optimization markets stand alongside people disgusted by the prospect of wealthy individuals continuing through successive bodies or forms. Cultural conservatives also join because they reject the recognition of multiple forms of personhood.
 
-The movement radicalized further during the collapse era, especially on Earth and Saturn, where large populations experienced themselves as both economically disposable and culturally patronized. The [[Urban Sovereignty War]] made the League one of the most important non-elite mass forces resisting [[Sol Dominion]]'s rationalized imperial order, even though the resistance remained internally fractured.
+These groups can cooperate against rule by a wealthy few without agreeing about who deserves freedom or protection. League politics can support democracy and solidarity. It can also fall under the influence of the [[Species Purity Front]], a reactionary movement that puts humans above other beings and opposes uplifts and hybrids. Under that influence, anger at elite power becomes exclusion and violence against beings with even fewer protections than the League's own supporters.
 
-### Social Base
+### How the League Formed
 
-The League draws from:
+Baseline politics began as soon as augmentation became economically decisive. The League took shape later, during the [[Identity Crisis]] and [[Identity Abyss]], when consciousness could exist in more forms and access to those forms increasingly depended on markets many people could not enter.
 
-- under-enhanced and unenhanced urban populations
-- rural and peripheral settlements pushed outside premium medical systems
-- workers displaced by uplift and biodrone deployment
-- families excluded from elite continuity and reproductive optimization markets
-- cultural conservatives horrified by plural personhood
+Luxury upload advertisements offered the wealthy a future beyond biological death. GeneSys pedigrees made biological advantage hereditary. Finch-tier maintenance regimes showed the expense of sustaining a premium augmented or uploaded existence. Together, these sharpened the feeling that an ordinary mortal lifespan was becoming a mark of class.
 
-That breadth explains both the movement's strength and its instability. Baseline politics can become solidaristic, democratic, and anti-oligarchic. It can also be captured by the [[Species Purity Front]] and turned toward exclusion, resentment, and violence against beings even less protected than its own base.
+During the collapse era, the movement radicalized further, especially on Earth and Saturn. Large populations felt that the economy could discard them while the surrounding culture treated them as backward. In the [[Urban Sovereignty War]], the League became one of the most important mass forces outside the elite resisting [[Sol Dominion]], the state-corporate bloc bringing infrastructure and government under a centralized imperial administration. The League's resistance remained internally divided.
 
-### Territory and Culture
+### Communities and Culture
 
-The League has no single homeland, but its strongest territorial expressions appear in parts of Earth, Saturnine habitats, and zones where people feel abandoned by the polished centers of posthuman civilization. These communities often valorize hard work, bodily continuity, family obligation, and unglamorous endurance. They are suspicious of elite therapeutics, luxury augmentation, and narrative cultures that seem to aestheticize their own dispossession.
+The League has no single homeland. Its strongest territorial presence is in parts of Earth, Saturnine habitats, and other places whose inhabitants feel abandoned by the prosperous centers of posthuman civilization.
 
-League aesthetics tend toward salvage practicality, heritage symbolism, and the visible retention of older human forms. Not all of this is reactionary. Some of it is simply a refusal to accept that market access should determine what kind of body counts as modern.
+These communities often value hard work, remaining in one's own body, obligations to family, and the endurance needed to keep ordinary life going. They distrust elite therapies and luxury augmentation. They also distrust cultural portrayals that turn their loss of work, status, or place into something stylish for others to consume.
+
+League clothing, tools, and surroundings tend toward practical salvage, symbols of inherited culture, and the visible retention of older human forms. These choices do not always express hostility to change. For some, keeping an unenhanced body is a refusal to let purchasing power decide whose body counts as modern.
 
 ### Political Importance
 
-The [[Baseline League]] matters because every serious power in late Sol must answer the mass question it poses: what happens when most people still die on schedule while the ruling classes increasingly do not?
+Every serious power in late Sol has to contend with the League's central question: what happens when most people still face an ordinary mortal lifespan while the ruling classes increasingly escape it?
 
-No solution in the setting is stable unless it has some answer to that question, whether exploitative, solidaristic, or monstrous.
+A stable political order must offer some answer. That answer may provide mutual support, exploit the divide, or impose something monstrous. The League's size and volatility make the question impossible to leave to those who can afford the upgrades.
