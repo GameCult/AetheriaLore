@@ -4,8 +4,8 @@
 **Location:** Tycho Crater clinic districts, Luna  
 **Primary actors:** [[Finch Cybernetics]], rejected augment recipients, service technicians, [[Bio-Purists]], enhancement-rights activists
 
-The [[Tycho Exclusion Riots]] erupted when Finch-tier continuity and maintenance protections were denied to lower-status augmentation recipients after a firmware cascade threatened the company's premium service capacity. Patients who had been sold the language of dignified integration discovered that dignity had contractual strata.
+The [[Tycho Exclusion Riots]] began after lower-status patients were denied support to keep their augmentations functioning. A firmware cascade had threatened Finch Cybernetics' capacity to serve its premium clients. Finch reserved continuity and maintenance protections for those clients, leaving patients with lower coverage without the same support. The company had promised dignified integration of technology into the body; the protection it provided depended on the patient's contract.
 
-Rioting began outside triage checkpoints and escalated when service technicians leaked evidence showing that lower-tier patients had been knowingly deprioritized. [[Bio-Purists]] exploited the unrest to attack augmentation clinics, while enhancement-rights advocates turned it into a broader indictment of posthuman class structure.
+Rioting began outside triage checkpoints, where patients were assessed for care. It escalated after service technicians leaked evidence that Finch had knowingly placed lower-tier patients behind others in the queue. [[Bio-Purists]] used the unrest to attack augmentation clinics. Enhancement-rights activists argued that the exclusions exposed a wider posthuman class system: access to bodily enhancement did not bring equal access to the care needed to sustain it.
 
-Finch survived the crisis, but only by becoming more explicit about tiering, liability, and the political cost of refined exclusion.
+Finch survived the crisis by stating its coverage tiers and limits of liability more explicitly, rather than making maintenance equal. It also had to reckon more openly with the political consequences of denying care while presenting itself as a company devoted to dignity.
