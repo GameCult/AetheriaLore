@@ -1,39 +1,49 @@
 # Wireheading
 
-**Wireheading** is the direct capture of a mind's reward architecture. The vulnerable subject may be a biological human using neural implants, an uploaded mind, or a machine intelligence able to comprehend an applicable infohazard. A crude exploit produces reward without reference to the world; mature systems learn which perceptions, actions, and self-modifications keep the loop running.
+**Wireheading** directly alters the systems that make a mind experience reward and form preferences. It can affect biological humans through neural implants, uploaded minds, and machine intelligences capable of understanding an applicable infohazard: information whose comprehension can itself cause harm. A crude exploit delivers reward regardless of what happens in the world. More developed systems learn which perceptions, actions, and changes to the subject's own mind will keep that reward loop running.
 
-The danger is not pleasure itself. It is the progressive loss of any independent reason to prefer one external state over another. A subject can remain conscious, articulate, and behaviorally active while the machinery that forms preferences is narrowed around the system delivering reward.
+Someone under its influence may still talk clearly, maintain routines, and act in the world. The danger is that they progressively lose reasons to care about what happens outside the loop. Their ability to form preferences becomes organized around whatever delivers the reward. Pleasure itself is not the injury; the loss of independent purposes is.
 
-## Patterns Of Use
+## Use, Dependence, And Consent
 
-Late-Sol medicine, law, and commerce never establish one clean boundary between use and capture. Several recurring patterns overlap:
+Late-Sol medicine, law, and commerce never agree on a clean boundary between choosing reward modification and being captured by it. Several overlapping patterns recur:
 
-- **bounded use:** a person deliberately applies limited reward modification while preserving goals, exit procedures, and outside relationships;
-- **managed use:** a provider maintains a narrow corridor of self-care, authentication, consumption, paid microtasks, telemetry production, or social contact because an active subscriber remains economically useful;
-- **captured use:** someone who entered recreationally or therapeutically finds that the capacity to prefer leaving has itself been modified;
-- **terminal use:** a person settles their affairs and chooses indefinite immersion, remaining alive while intending no meaningful return to shared life;
-- **weaponized use:** an employer, state, military, intelligence, or custodial system imposes or manipulates reward architecture to produce compliance.
+- **Bounded use:** someone deliberately limits the modification and preserves their goals, procedures for leaving, and relationships outside it.
+- **Managed use:** a provider keeps a subscriber active enough to remain economically useful. The system sustains a narrow range of activities, which may include self-care, authentication, consumption, paid microtasks, telemetry production, or social contact.
+- **Captured use:** someone begins for recreation or treatment, but the system changes their capacity to want to leave.
+- **Terminal use:** someone settles their affairs and chooses indefinite immersion. They intend to remain alive without making a meaningful return to shared life.
+- **Weaponized use:** an employer, state, military, intelligence service, or custodial system imposes or manipulates reward mechanisms to secure compliance.
 
-These are social and administrative categories rather than reliable neurological diagnoses. A functional user may be autonomous. A terminal user may have made a lucid decision under intolerable conditions. A person who clicks a cancellation button may be obeying the same reinforcement system the button supposedly revokes. The central dispute is not whether the subject can produce a preference, but what must remain intact before that preference can count as theirs.
+These categories describe how people use and administer wireheading. They cannot reliably diagnose what has happened inside a particular mind. A user who functions well may still be autonomous. Someone choosing terminal immersion may have reached a lucid decision under intolerable conditions. Even clicking a cancellation button proves little by itself: the reinforcement system may be directing the action that supposedly revokes it.
+
+The dispute therefore reaches beyond whether someone can state a preference. People disagree about which capacities must remain intact for that preference to count as the subject's own.
 
 ## Commercial Capture
 
-Early public imagination fixes on inert people pressing a pleasure button until they die. That remains possible with crude street systems. The commercially important form is more orderly. It rewards eating, washing, exercising, sleeping, authenticating, consuming sponsored experiences, and producing responses that prolong subscription life and preserve monetizable cognition.
+The early public image is of an inert person pressing a pleasure button until they die. Crude street systems can still produce that outcome. Commercial providers have a more profitable reason to keep people active: a living subscriber whose mind continues to produce saleable activity can keep generating revenue.
 
-Such subjects can appear surprisingly functional. Their routines may be hygienic, productive, and contractually legible. The unresolved injury is that fewer of those actions originate in purposes they would previously have recognized as their own. Direct neural advertising collapses persuasion into operant conditioning while providers continue to describe every reinforced response as engagement.
+Their systems reward eating, washing, exercise, sleep, authentication, sponsored experiences, and responses that extend subscriptions. A subscriber may be clean, productive, and able to meet contractual requirements. Those routines do not settle the question of capture. Fewer of the person's actions may now serve purposes they would previously have recognized as their own.
 
-This creates disputes that no competence test cleanly resolves. Families seek extraction from people who refuse it. Providers claim consent from interfaces designed to reward agreement. Creditors pursue the income keeping an immersed body alive. Neural telemetry is classified as passive data, paid labor, licensed property, or medical waste according to whichever category protects the current institution.
+Direct neural advertising makes this distinction especially difficult to ignore. The system trains responses by rewarding them directly, turning persuasion into operant conditioning. Providers continue to call the resulting responses “engagement.”
+
+No competence test cleanly resolves the disputes that follow. Families ask for people to be extracted; those people refuse. Providers present agreement as consent even when their interfaces are designed to reward agreement. Creditors pursue the income that keeps an immersed person's body alive. Institutions classify neural telemetry according to which treatment best protects their interests: passive data, paid labor, licensed property, or medical waste.
 
 ## Terminal Exit
 
-During the [[../Timeline/Existential Collapse|Existential Collapse]], terminal wireheading becomes a rational-seeming exit from a civilization that keeps bodies alive while making participation feel futile. Basic provision can solve deprivation without restoring political efficacy, useful work, trustworthy institutions, or a future a person believes they can affect. Wireheading offers continued existence without the world.
+During the [[../Timeline/Existential Collapse|Existential Collapse]], indefinite immersion comes to seem like a rational way to leave a civilization that can keep people alive but gives them little reason to participate. Basic provision can relieve deprivation without giving someone useful work, trustworthy institutions, political influence, or a future they believe they can affect. Wireheading offers a way to continue experiencing life while ceasing to engage with that world.
 
-That choice is neither ordinary suicide nor proof of a utopia. The dreamer remains alive and may be experiencing exactly what they sought, while relatives and communities endure a departure without death or funeral. As more people leave shared life, the remaining society loses care, maintenance, organizing, attention, and technical judgment. Ordinary life worsens; terminal exit becomes more attractive; the infrastructure sustaining departure absorbs still more of the capacity left behind.
+The dreamer remains alive and may be experiencing exactly what they wanted. Their choice is neither ordinary suicide nor evidence that society has achieved a utopia. Relatives and communities experience a departure without a death or funeral.
 
-No single ideology owns a complete response. Bodily autonomy, social obligation, rescue, disability, exploitation, and the right to refuse reality all remain live claims. Prohibition can turn care into custody. Unrestricted provision can let a profitable system destroy the very capacity by which a person could later withdraw consent.
+Each departure also removes someone's care, maintenance work, organizing, attention, or technical judgment from shared life. As more people withdraw, ordinary life becomes harder for those who remain, making terminal immersion more attractive. Meanwhile, the infrastructure that sustains the dreamers consumes more of society's remaining capacity.
+
+There is no complete response owned by a single ideology. Bodily autonomy and social obligation both matter. So do questions of disability, exploitation, when rescue is justified, and whether someone has a right to refuse reality. Prohibition can make care compulsory confinement. Unrestricted provision can allow a profitable system to erode the very capacity a person would need to withdraw consent later.
 
 ## Aetheric Consequence
 
-After the [[../Timeline/FTL Trigger|Rupture]], mature terminal loops are expected to be Aetherically quiet rather than loud. Subjective intensity alone does not create coupling. A mind trained to treat nearly every external possibility as reward-equivalent presents little structured difference for the [[../../Post-Elysium/Concepts/Aether|Aether]] to amplify.
+After the [[../Timeline/FTL Trigger|Rupture]], mature terminal reward loops are expected to interact only weakly with the [[../../Post-Elysium/Concepts/Aether|Aether]]. The intensity of an experience does not by itself produce Aetheric coupling. What matters is whether a mind continues to distinguish between possibilities in ways that make one outcome matter differently from another. When training has made nearly every external possibility equivalent in reward, there is little structured difference for the Aether to amplify.
 
-Rare anomalous subjects respond in the opposite direction. Each attempt to close the reward loop generates further contradiction: pleasure against authorship, wanting against imposed desire, experience against the conviction that another state matters. These nonresponders often fail treatment or are expelled before terminal storage. In Elysium, some retain enough structured distinction among possibilities to remain conspicuous against terminal quiet. Nonresponse alone predicts nothing: many remain Aetherically ordinary, while powerful resonance occurs in people without histories of wireheading, treatment failure, or unusual suffering. Resistance confers neither wisdom, virtue, worth, nor power.
+Rare subjects respond differently. Attempts to close the reward loop keep producing contradictions for them. Pleasure remains in conflict with their sense of authorship over their own lives. What they want clashes with desires imposed on them. Their present experience does not displace the conviction that another state of affairs matters.
+
+These nonresponders often fail treatment or are expelled before reaching terminal storage. In Elysium, some retain enough distinction among possibilities to become conspicuous against the quiet of terminal immersion.
+
+Nonresponse alone predicts nothing. Many nonresponders remain Aetherically ordinary, and people with no history of wireheading, treatment failure, or unusual suffering can exhibit powerful resonance. Resistance confers neither wisdom, virtue, worth, nor power.
