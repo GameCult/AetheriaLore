@@ -7,9 +7,9 @@ description: "The durable collective forms produced by late Sol's crises: govern
 
 *"No order this large survives without enemies it taught to organize."*
 
-Pre-Elysium factions are the durable collective forms produced by late Sol's crises. Some govern openly. Some operate as insurgencies, reform networks, species-defense fronts, or ideological tendencies. All of them reveal what kinds of life the formal order makes possible, and what kinds it keeps trying to suppress.
+Factions are the lasting organizations and political currents that emerge from crises in the Solar System before Elysium. Some hold governing power openly. Others organize rebellion, seek reform through networks of supporters, or defend particular species. Some spread as shared political beliefs without becoming a single organization.
 
-Use this branch to read institutional power and social agitation together. Aetheria treats them as interdependent phenomena rather than separate layers of lore.
+This branch follows governing powers alongside the movements that challenge or seek to change them. They shape one another: the established order makes some ways of life possible and repeatedly tries to suppress others, giving people reasons to organize. Reading powers and movements together helps explain both how people live under that order and why they contest it.
 
 ## Reading The Field
 

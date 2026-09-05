@@ -5,11 +5,9 @@ description: "The conceptual grammar of post-Elysium reality: aether, pseudospac
 
 # Concepts
 
-*"Reality changed, but only some institutions were allowed to certify the change."*
+This branch explains how reality works after Elysium: how minds affect the world through aether, how spirits persist, and how space and time depart from familiar rules. Start here when later technologies, disputes over species, or questions about spirits and consciousness become difficult to follow using the terms of late Sol.
 
-The conceptual notes in this branch define the altered grammar of post-Elysium reality. They are the terms readers need in order to follow how Aetheria's metaphysics becomes stranger without ceasing to be political. Each concept changes what counts as evidence, who may persist, and which forms of exploitation become newly thinkable.
-
-Use this branch when the setting's later technologies, species politics, or spiritual thresholds stop making sense in older late-Sol language.
+These changes also create political struggles. Only some institutions are allowed to certify what has changed. What counts as evidence, who is permitted to continue existing, and how others might exploit them all depend on the concepts gathered here.
 
 ## Core Terms
 

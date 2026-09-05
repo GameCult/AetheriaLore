@@ -5,7 +5,7 @@ description: "Post-Elysium factions are the institutions, sects, markets, and te
 
 # Factions
 
-Post-Elysium factions inherit old habits under stranger conditions. Some are corporate descendants, some are sects, some are technical monopolies that became cultures because ordinary governance could not understand what they controlled quickly enough.
+Post-Elysium factions are organized groups that have learned to gain power from altered reality. Some descend from corporations; others are sects. Some began as technical monopolies: they controlled capabilities that ordinary governing institutions could not understand quickly enough, and distinct cultures grew around that control. Across these different forms, older habits of power persist under unfamiliar conditions.
 
 ## Technical Cultures
 

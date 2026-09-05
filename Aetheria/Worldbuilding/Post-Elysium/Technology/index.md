@@ -7,9 +7,9 @@ description: "Miracles stayed proprietary. These notes track the unstable techni
 
 *"Miracles stayed proprietary."*
 
-Post-Elysium technology inherits the habits of late Sol while operating on a more unstable substrate. Astonishing capabilities still arrive through ownership, access control, secret research programs, and professional monopolies. The question is never just what a device can do. It is who maintains it, who interprets it, and who gets recognized as a legitimate user rather than a disposable test case.
+Post-Elysium technology includes aetheric drives, networks, interfaces with minds, prediction machinery, and necrotech. These systems work with stranger materials and less stable physical conditions than the technologies of late Sol. They extend what people can do, while carrying older struggles into Elysium: who can travel, who controls a mind, and who can use predictions to make decisions about others.
 
-This branch follows the technical systems that work on stranger materials while preserving older struggles over custody, prediction, mobility, and the treatment of mind.
+For someone relying on these systems, a device's capabilities are only part of what matters. Owners restrict access, secret research programs withhold knowledge, and professional monopolies control expertise. Who maintains a system and who is authorized to interpret it help determine how it can be used. The same order decides whether someone is recognized as a legitimate user or treated as a disposable test subject.
 
 ## Mobility And Networks
 

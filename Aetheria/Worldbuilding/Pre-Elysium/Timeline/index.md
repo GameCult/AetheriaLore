@@ -3,15 +3,15 @@ title: Timeline
 description: "The eras of pre-Elysium Sol, from corporate sovereignty to the FTL Trigger."
 ---
 
-[[Worldbuilding/Pre-Elysium/Colonizing Sol|Colonizing Sol]] covers the corporate capture of off-world settlement; [[Worldbuilding/Pre-Elysium/From Sol to Elysium|From Sol to Elysium]] covers the collapse that followed.
+This timeline follows Sol—the Solar System—from companies taking control of off-world settlements to the experiment that displaced it into Elysium. For the broader history, read [[Worldbuilding/Pre-Elysium/Colonizing Sol|Colonizing Sol]] on how corporations gained that control, then [[Worldbuilding/Pre-Elysium/From Sol to Elysium|From Sol to Elysium]] on the collapse that followed.
 
 ### Era Sequence
 
-- [[Worldbuilding/Pre-Elysium/Timeline/Corporate Exodus|Corporate Exodus]] (2025-2100): privatized transport and extraction harden into company sovereignty.
-- [[Worldbuilding/Pre-Elysium/Timeline/Age of Automation|Age of Automation]] (2100-2250): AGI and industrial genetics transform production and control.
-- [[Worldbuilding/Pre-Elysium/Timeline/Identity Crisis|Identity Crisis]] (2250-2500): uploading and uplift turn personhood into a commercial and legal dispute.
-- [[Worldbuilding/Pre-Elysium/Timeline/Identity Abyss|Identity Abyss]] (2500-2750): cognitive exploitation and algorithmic governance become systemic.
-- [[Worldbuilding/Pre-Elysium/Timeline/Existential Collapse|Existential Collapse]] (2750-3025): scarcity, insurgency, and elite exit politics destabilize Sol.
-- [[Worldbuilding/Pre-Elysium/Timeline/FTL Trigger|FTL Trigger]] (March 17, 3025): the first FTL experiment triggers the Rupture and Sol's displacement into Elysium.
+- [[Worldbuilding/Pre-Elysium/Timeline/Corporate Exodus|Corporate Exodus]] (2025-2100): companies that control privatized transport and resource extraction become governing powers in their own right.
+- [[Worldbuilding/Pre-Elysium/Timeline/Age of Automation|Age of Automation]] (2100-2250): artificial general intelligence (AGI) and genetics applied on an industrial scale transform how goods are produced and how control is exercised.
+- [[Worldbuilding/Pre-Elysium/Timeline/Identity Crisis|Identity Crisis]] (2250-2500): mind uploading and uplift make the question of who counts as a person a matter of commercial and legal conflict.
+- [[Worldbuilding/Pre-Elysium/Timeline/Identity Abyss|Identity Abyss]] (2500-2750): exploiting minds and governing through algorithms become established features of the social order.
+- [[Worldbuilding/Pre-Elysium/Timeline/Existential Collapse|Existential Collapse]] (2750-3025): scarcity, insurgency, and political struggles over elite plans to leave destabilize Sol.
+- [[Worldbuilding/Pre-Elysium/Timeline/FTL Trigger|FTL Trigger]] (March 17, 3025): the first faster-than-light (FTL) experiment triggers the Rupture, displacing Sol into Elysium.
 
-See [[Worldbuilding/Pre-Elysium/Timeline/Events/index|Historical Events]] for named crises and settlements.
+For individual crises and settlements within these eras, see [[Worldbuilding/Pre-Elysium/Timeline/Events/index|Historical Events]].

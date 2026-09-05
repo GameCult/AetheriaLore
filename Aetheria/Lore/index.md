@@ -7,9 +7,9 @@ description: "Aetheria's lore tracks the civilizational machine: contract citize
 
 *"Humanity does not lack intelligence. It lacks the collective means to tell itself no."*
 
-Aetheria's lore is the record of a civilizational machine: contract citizenship, managed scarcity, militarized infrastructure, cognitive labor, disputed personhood, and the older late-Sol systems that survive into Elysium by changing form without surrendering their contradictions.
+This branch follows Aetheria's history, institutions, and technologies, from humanity's late civilization in Sol to its life in Elysium. Citizenship depends on contracts. Institutions control access to scarce necessities, infrastructure serves military purposes, and minds perform labor while their status as people remains disputed. These arrangements shape who can work, obtain what they need, and make decisions about their own existence.
 
-Read this branch as linked pressure rather than encyclopedic garnish. Start with the premise, move through the eras and institutions that make it possible, and then follow how those same conditions persist when reality itself becomes less stable.
+Begin with the setting's premise, then follow the eras and institutions through the links below. Their histories explain how these arrangements arose and why they persist: humanity carries its older systems into Elysium, where they take new forms without resolving the conflicts built into them—even as reality itself becomes less stable.
 
 ## Starting Points
 

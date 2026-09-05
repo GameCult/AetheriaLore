@@ -5,11 +5,9 @@ description: "Aetheria's worldbuilding is where infrastructure, ideology, debt, 
 
 # Worldbuilding
 
-*"History keeps its grip through corridors, standards, and the routines nobody remembers choosing."*
+This branch explains how Aetheria's societies work: how people build places to live, organize power, and use technology. It covers the history of late Sol and the changed conditions of Elysium, following how earlier struggles continue to shape survival and whose rights are recognized.
 
-Worldbuilding in Aetheria is the study of how power becomes material environment. The setting makes the most sense when its habitats, debts, doctrines, legal thresholds, media systems, and technical interfaces are read together instead of split into decorative categories.
-
-This branch gathers the vault's main structural fields. Use it to move between the long history of late Sol, the altered conditions of Elysium, and the political logic that binds both eras into one continuous argument about power, survival, and recognition.
+Read the physical setting alongside the institutions that govern it. Habitat design determines the spaces people inhabit; debt and law shape their choices within them. Political doctrines, media systems, and technical interfaces help determine how power is understood and exercised. History persists through transport corridors, standards, and everyday routines, even when people no longer remember why those arrangements were chosen.
 
 ## Historical Frames
 

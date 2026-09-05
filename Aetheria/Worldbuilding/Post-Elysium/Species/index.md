@@ -5,11 +5,9 @@ description: "Post-Elysium species notes treat embodiment as a political problem
 
 # Species
 
-*"A new body only matters politically when someone decides what kind of obligation it can claim."*
+This branch covers species in post-Elysium: the forms of life that exist, their histories, and how others treat them. A being's body affects more than its abilities. It also affects the work it is expected to do, the rights it is granted, the prejudice it faces, and whom others recognize as its kin.
 
-Species in post-Elysium are not decorative additions to the setting. They are one of the clearest places where altered embodiment, historical inheritance, and political recognition intersect. The question is never just what a being can do. It is what kinds of labor, rights, stigma, kinship, and institutional handling attach to that form of life.
-
-This branch is still small, but it sits at the junction where metaphysics becomes everyday administration.
+These notes examine how physical differences and inherited social arrangements shape those decisions. What does an institution owe a being with a different kind of body, and who decides? The answers turn questions about what a being is into everyday rules governing its treatment. This branch is still small; its current species note is Ratfolk.
 
 ## Starting Here
 
