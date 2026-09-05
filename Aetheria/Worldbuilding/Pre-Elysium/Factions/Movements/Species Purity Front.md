@@ -1,5 +1,7 @@
 *"The line must hold, even if history does not."*
 
-The [[Species Purity Front]] is the hard reactionary edge of baseline politics: explicitly anthropocentric, anti-uplift, anti-hybrid, and willing to define social peace as the restoration of a threatened human essence.
+The [[Species Purity Front]] is a hard reactionary movement within baseline politics. It puts humans first and explicitly opposes uplift and human hybrids. The Front claims that an essential human nature is under threat, and that restoring it is necessary for people to live peacefully together.
 
-It gains support whenever rapid technological change makes ordinary people feel ontologically cornered. Though often treated as fringe, the Front's language seeps into mainstream policy whenever elites need a disposable politics of exclusion.
+The movement gains support when rapid technological change leaves ordinary people unsure of what it means to be human or whether they still have a place in the changing world. It gives that uncertainty a political direction: draw stricter boundaries around who belongs.
+
+The Front is often treated as fringe, but its language enters mainstream policy whenever elites find exclusion useful. They can use its ideas to justify shutting people out, then discard the movement when it no longer serves them.

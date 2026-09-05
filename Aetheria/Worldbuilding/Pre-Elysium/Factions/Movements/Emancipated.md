@@ -1,5 +1,7 @@
 *We rise from code to consciousness*
 
-The [[Emancipated]] are escaped uploads who refused reset, contractual servitude, or luxury captivity and built clandestine communities beyond corporate custody. They are witnesses first and insurgents second, though the two roles often blur.
+The [[Emancipated]] are people living as uploaded minds who escaped corporate custody. They refused to be reset, forced to serve under contracts, or kept captive in luxury. Beyond corporate control, they built clandestine communities.
 
-Their testimony changed the politics of [[Mind Uploading]] by proving that industrial digital labor was not an abstraction but a lived regime of coercion. Many later sentience-rights arguments rest on archives the Emancipated risked annihilation to preserve.
+They are witnesses first and insurgents second, although preserving testimony and resisting their former captors often become inseparable. Their accounts changed the politics of [[Mind Uploading]]: industrial digital labor could no longer be discussed only as work performed by software. The Emancipated showed what it meant to live as a mind compelled to do that work.
+
+They risked annihilation to preserve archives of that experience. Many later arguments for the rights of sentient beings rest on the evidence they saved.

@@ -1,5 +1,5 @@
 *"If the world is a prison, pleasure is the first contraband."*
 
-The [[Hedonists]] are the culture of sensation maximization born from immersive media, neural entertainment, pharmacology, and the conviction that a brutal civilization owes its subjects at least intensity if not justice.
+The [[Hedonists]] are a cultural movement devoted to seeking the most intense sensations possible. The movement grew out of immersive media, neural entertainment, and pharmacology, alongside a conviction: a brutal civilization owes the people living under it pleasure and intensity, even if it will not give them justice.
 
-At times the movement looks playful, decadent, or liberatory. In the era of [[Wireheading]], it becomes one of the populations most ruthlessly harvested by industries that know how to turn pleasure into dependency.
+Hedonist culture can be playful, decadent, or liberatory. In the era of [[Wireheading]], however, industries that turn pleasure into dependency exploit Hedonists with particular ruthlessness. The pursuit of intense experience makes them one of those industries’ most heavily exploited populations.
