@@ -1,26 +1,38 @@
 ## 2100-2250
 
-The [[Age of Automation]] is when late-Sol capitalism solves many engineering bottlenecks and makes its social contradictions far worse. Productivity explodes. So does the number of people and near-people whose survival depends on systems they do not control.
+The [[Age of Automation]] brings a sharp rise in what Sol can produce. Artificial intelligence takes over more administrative decisions, while genetic engineering changes both the workers corporations employ and the advantages wealthy families can pass to their children. Many engineering limits give way. More people—and beings whose status as people remains contested—come to depend for survival on systems they cannot control.
 
-### Governable Intelligence
+### Machines That Manage People
 
-[[CogniSys]] commercializes AGI after Jian Osakwe's scarcity-model research is repackaged as a management product. These systems begin by optimizing logistics, traffic control, and predictive maintenance. They quickly expand into labor scheduling, risk scoring, and political monitoring because every employer learns the same lesson: a machine that can anticipate equipment failure can also anticipate dissent.
+[[CogniSys]] commercializes artificial general intelligence, or AGI, by turning Jian Osakwe's research into models of scarcity into a product for managers. Its first applications optimize logistics, traffic control, and predictive maintenance: moving supplies, directing traffic, and anticipating equipment failures.
 
-[[Rossum & Douglas]] profits by selling the safe, legible alternative. [[Orbital Forge]] profits by pirating and destabilizing those same systems in frontier settings where adaptability matters more than legal compliance. [[Cryonix]] becomes indispensable because dense computation, neural bandwidth, and later high-energy propulsion all depend on its thermal and superconducting advances. At this stage the field is still mostly brute force: hot radiators, transport loops, and ugly survivability rather than elegant signature control. But the dependency is already there.
+Employers soon use the same systems to schedule labor, score risks, and monitor political activity. Their ability to predict problems becomes a means of controlling workers. Every employer learns that a machine useful for anticipating equipment failure can also be used to anticipate dissent.
 
-### Industrial Biology
+[[Rossum & Douglas]] profits from selling a safe alternative whose operation clients can understand. [[Orbital Forge]] profits from pirating and destabilizing those same systems on the frontier, where adaptability matters more than legal compliance.
 
-If AGI reorganizes administration, genetics reorganizes labor and class. [[GeneSys]] markets longevity, cognition, and reproductive filtering to elites who increasingly treat their own children as portfolio projects. [[VitaForge]] pushes the same toolchain downward into engineered labor organisms, and by the 2180s [[Biodrone]] design has become a routine part of mining, agriculture, salvage, and entertainment.
+These machines also need a physical infrastructure that can sustain them. [[Cryonix]] becomes indispensable through advances in heat management and superconducting materials that support dense computation, neural bandwidth, and later high-energy propulsion. During this period, thermal engineering still relies mostly on hot radiators and heat-transport loops. Keeping equipment alive takes priority over finely controlling the emissions by which it can be detected, but dependence on Cryonix is already established.
 
-The argument over biology is never just moral. It is economic. Can a corporation grow workers instead of bargaining with them? Can soldier-lines be tuned for obedience? Can inherited wealth become inherited capability? The movements that later crystallize as [[Gene Commons]], [[Bio-Purists]], [[Species Controllers]], and the [[Awakened Labor Front]] all begin as answers to those questions.
+### Engineering Children and Workers
 
-### The Need For A Referee
+Genetic engineering lets wealthy families buy biological advantages for their descendants. [[GeneSys]] markets longer lives, enhanced cognition, and reproductive filtering to elites who increasingly approach their children as investments to be optimized.
 
-The pace of expansion, sabotage, patent war, and proxy conflict eventually threatens profits badly enough that the major firms assemble the [[Pan-Solar Consortium]] in 2230. The PSC is not a government in the old sense. It is a shared enforcement shell built to prevent total market breakdown while preserving corporate sovereignty. It standardizes sanctions, corridors, escrow, and later conflict permitting.
+[[VitaForge]] applies the same tools to producing engineered labor organisms. By the 2180s, designing [[Biodrone]]s for mining, agriculture, salvage, and entertainment has become routine.
 
-That compromise changes the scale of everything. Once major powers believe total war can be constrained, they become more willing to escalate everything short of total war. The late-Sol order survives longer because it learns how to meter destruction instead of abolishing the incentives that produce it.
+The resulting conflicts concern who controls work, reproduction, and inherited advantage as much as whether genetic engineering is morally acceptable. Can a corporation grow workers instead of bargaining with them? Can it breed soldiers for obedience? Can a family pass down designed capabilities alongside its wealth? The movements that later become [[Gene Commons]], [[Bio-Purists]], [[Species Controllers]], and the [[Awakened Labor Front]] begin as responses to these questions.
 
-The first major test of that logic is the [[Cold Wake Panic]] of 2241-2248. Thermal stealth, deferred heat dumping, and early signature-managed materials reveal that corridor law cannot treat waste heat as an engineering footnote. The panic accelerates [[Cryonix]] from supplier toward strategic threshold power and makes femto-manufacturing practical enough to leak out of elite cleanrooms. By the time the [[Identity Crisis]] begins, the tools needed for impossible private biology are no longer safely institutional.
+### Corporate Rules for Corporate Conflict
+
+Expansion, sabotage, patent wars, and proxy conflicts eventually threaten the major firms' profits badly enough that they establish the [[Pan-Solar Consortium]] in 2230. They want trade to survive without surrendering their sovereignty to a conventional government.
+
+The PSC provides shared enforcement rules. It standardizes sanctions, the use of transit corridors, and escrow arrangements that hold funds until agreed conditions are met. Later, it also standardizes permits for conflict. These arrangements aim to prevent the market from breaking down while leaving corporations in control of their own domains.
+
+The compromise encourages a dangerous calculation. Once major powers believe total war can be constrained, they become more willing to escalate conflicts below that threshold. The late-Sol order survives longer because it regulates how much destruction its members can inflict while leaving their reasons for fighting intact.
+
+### The Cold Wake Panic
+
+The first major test comes with the [[Cold Wake Panic]] of 2241-2248. Thermal stealth, the ability to delay releasing waste heat, and early materials that control detectable emissions make heat management a security issue. Rules governing transit corridors can no longer treat waste heat as merely a technical concern.
+
+The panic pushes [[Cryonix]] beyond its role as a supplier toward a position where access to its technology determines strategic capabilities. It also makes femto-manufacturing practical enough to spread beyond elite cleanrooms. By the beginning of the [[Identity Crisis]], tools capable of private biological engineering previously regarded as impossible are escaping institutional control.
 
 ### Previously: [[Corporate Exodus]] - 2025-2100
 ### Next: [[Identity Crisis]] - 2250-2500
