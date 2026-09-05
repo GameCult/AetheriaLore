@@ -1,10 +1,17 @@
 # Weapon Category Codes
 
-Weapon category codes compress range, scale, operating mode, weapon type, guidance, and special function into a short catalogue label. Applicable abbreviations are chained from top to bottom in the order defined below. Not every weapon uses every layer.
+Weapon category codes are catalogue labels that describe a weapon through a sequence of abbreviations. A label can specify its range, caliber or scale, operating mode, weapon type, guidance, and special function. Only the applicable parts are included.
 
-The same letter may carry different meanings at different positions. `S`, for example, can indicate small caliber or seeking guidance. The surrounding code and weapon family determine which meaning applies.
+Read the parts in this order:
+
+- **Ballistic and energy weapons:** range → caliber → operating mode → weapon type → functionality suffix.
+- **Launchers:** range → guidance → missile type → functionality suffix.
+
+A letter's meaning depends on its position and the weapon family. For example, `S` means small caliber before a ballistic or energy weapon type, but seeking guidance before a missile type.
 
 ### Range Prefixes
+
+Range comes first when specified.
 
 | Code | Meaning |
 | --- | --- |
@@ -15,21 +22,23 @@ The same letter may carry different meanings at different positions. `S`, for ex
 
 ### Ballistic and Energy Weapons
 
-Caliber prefixes precede the weapon type when a catalogue specifies caliber.
+When the catalogue specifies caliber, its code goes before the weapon type.
 
-| Code | Meaning |
+| Code | Caliber |
 | --- | --- |
 | `S` | Small |
 | `M` | Medium |
 | `L` | Large |
 | `XL` | Extra large |
 
-Operating-mode markers precede the weapon type where applicable.
+An operating-mode marker, if applicable, follows the caliber and precedes the weapon type.
 
-| Code | Meaning |
+| Code | Operating mode |
 | --- | --- |
 | `Co` | Continuous energy weapon |
 | `Ch` | Charged weapon |
+
+The weapon-type code identifies what the weapon fires or projects.
 
 | Code | Weapon type |
 | --- | --- |
@@ -42,9 +51,9 @@ Operating-mode markers precede the weapon type where applicable.
 
 ### Launchers
 
-Guidance prefixes appear before the missile type when applicable.
+For launchers, a guidance code goes immediately before the missile type when applicable.
 
-| Code | Meaning |
+| Code | Guidance |
 | --- | --- |
 | `D` | Dumbfire |
 | `G` | Guided |
@@ -54,9 +63,13 @@ Guidance prefixes appear before the missile type when applicable.
 | --- | --- |
 | `M` | Self-propelled missile |
 | `MM` | Self-propelled micromissile |
-| `MIRV` | Multiple independent reentry vehicle; takes no guidance prefix in this scheme |
+| `MIRV` | Multiple independent reentry vehicle |
+
+`MIRV` takes no guidance prefix in this scheme.
 
 ### Functionality Suffixes
+
+These codes go at the end of the label, with a hyphen, to identify special functions.
 
 | Code | Meaning |
 | --- | --- |
@@ -70,11 +83,11 @@ Guidance prefixes appear before the missile type when applicable.
 
 ### DME Examples
 
-The [[Worldbuilding/Post-Elysium/Factions/Death Monkey Explosives Products|Death Monkey Explosives catalogue]] includes several representative chains:
+The [[Worldbuilding/Post-Elysium/Factions/Death Monkey Explosives Products|Death Monkey Explosives catalogue]] shows how the parts fit together:
 
-- `SRDMM-I`: short-range (`SR`), dumbfire (`D`), self-propelled micromissile (`MM`), incendiary (`-I`).
-- `MIRV-I`: multiple independent reentry vehicle (`MIRV`), incendiary (`-I`).
-- `XPS-I`: explosively propelled slug (`XPS`), incendiary (`-I`).
-- `LEMPS`: large caliber (`L`), electromagnetically propelled slug (`EMPS`).
+- `SRDMM-I` describes an incendiary self-propelled micromissile: `SR` specifies short range, `D` specifies dumbfire, `MM` identifies the micromissile, and `-I` adds the incendiary function.
+- `MIRV-I` combines a multiple independent reentry vehicle (`MIRV`) with the incendiary suffix (`-I`). It has no guidance prefix.
+- `XPS-I` identifies an explosively propelled slug (`XPS`) with an incendiary function (`-I`).
+- `LEMPS` identifies a large-caliber (`L`), electromagnetically propelled slug (`EMPS`).
 
-Two prototype DME labels did not conform to the shared scheme. `XPC-I` was normalized to `XPS-I`, and `EMPKP` was normalized to `LEMPS`. The prototype labels remain source provenance rather than live weapon classes.
+Two DME prototype labels were changed to fit the shared scheme: `XPC-I` became `XPS-I`, and `EMPKP` became `LEMPS`. The old labels are retained to trace the source material; they do not designate separate, current weapon classes.

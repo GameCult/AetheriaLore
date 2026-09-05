@@ -1,27 +1,29 @@
 # Brain-Computer Interfaces
 
-Before the [[FTL Trigger]], brain-computer interfaces ranged from clinical implants to full sensory and motor integration. They mediated a living mind's access to a body, machine, or information system. Unlike [[Mind Uploading]], they did not instantiate a separate person.
+A brain-computer interface (BCI) connected a living mind to a body, machine, or information system. Before the [[FTL Trigger]], these systems ranged from clinical implants to interfaces that carried both sensory experience and motor control. A person could receive sensations through an interface and use it to direct movement. Unlike [[Mind Uploading]], this did not instantiate a separate person.
 
-## Access and Maintenance
+## Depending on an Interface
 
-BCIs made cognition an infrastructure market. [[Finch Cybernetics]] sold maintained premium implants; [[AstroDyne]] supplied rugged, repairable systems. [[NeuroSyn]] deployed interfaces across industrial labor markets.
+Using a BCI meant depending on more than the implant. Hardware needed maintenance, firmware needed support, and compatibility services kept the interface working with other systems. [[Finch Cybernetics]] sold premium implants with ongoing maintenance; [[AstroDyne]] supplied rugged, repairable systems. [[NeuroSyn]] deployed interfaces across industrial labor markets.
 
-Access depended on hardware maintenance, firmware, and compatibility services. Vendors could withdraw sensory filters, records, or occupational functions when payment or employment ended. Changing providers risked surgery, lost function, and inaccessible data.
+Those services gave providers control over functions people used in daily life and work. When payment or employment ended, vendors could withdraw sensory filters, access to records, or occupational functions. Leaving a provider could require surgery and risk lost function or inaccessible data. The interface remained part of a living person's access to the world, but continued use depended on commercial terms.
 
-## Control and Refusal
+## Monitoring and Control
 
-Employers used BCIs to measure attention, fatigue, affect, and compliance. Some systems adjusted mood or restricted motor action under safety provisions. States and employers incorporated such controls into command; commercial providers called similar functions wellness or optimization.
+Employers used BCIs to measure workers' attention, fatigue, emotional state, and compliance. Some systems could also adjust mood or restrict movement under safety provisions. States and employers incorporated these controls into the ways they issued and enforced commands. Commercial providers described similar functions as wellness or optimization.
 
-The [[Free Neural Network]] distributed inspectable designs and defended neural privacy. Vendors treated unauthorized firmware as both a safety risk and an attack on contractual control.
+The [[Free Neural Network]] defended neural privacy and distributed designs that users could inspect. Vendors opposed unauthorized firmware on two grounds: they regarded it as a safety risk and as a challenge to their contractual control of the interface.
 
-## Culture and Derived Cognition
+## Shared Experience and Cognitive Assistance
 
-Direct sensory exchange supported art, training, and communication. [[Lucent Media]] used the same channels to measure attention and tune emotion.
+BCIs allowed people to exchange sensory experience directly, supporting art, training, and communication. The same channels also let [[Lucent Media]] measure attention and tune emotion.
 
-[[Cognitum]] sold [[Neuromorphic Firmware]] derived from upload-grade captures as intuition and behavioral assistance. BCIs could deliver the product to a living user; they neither owned the captured cognition nor settled its personhood.
+An interface could deliver assistance derived from someone else's captured cognition. [[Cognitum]] sold this as intuition and behavioral assistance through [[Neuromorphic Firmware]], made from upload-grade captures. The BCI delivered the product to a living user; that role gave it no ownership of the captured cognition and did not resolve whether the cognition qualified as a person.
 
-## Daedal Antecedent
+## From Industrial Frames to the Daedal Houses
 
-Late in the Sol era, Daedal Ergotechnics applied premium motor interfaces to full-body industrial frames. Feedback reconciled balance, actuator position, load, and touch, allowing a worker to learn the machinery as an enlarged body. The costly method survived in bespoke fabrication and prestige shipyards that valued named human judgment at machine scale.
+Late in the Sol era, Daedal Ergotechnics used premium motor interfaces to let workers operate full-body industrial frames. The interface brought feedback about balance, actuator position, load, and touch into a coherent experience. With practice, a worker could learn the machinery as an enlarged body.
 
-This lineage passed through the shunt into the [[Worldbuilding/Post-Elysium/Factions/Daedal Houses|Daedal Houses]]. In Elysium, bodily continuity helped couple intention with machinery through the [[Worldbuilding/Post-Elysium/Concepts/Aether|Aether]]; the interface still carried signals rather than supplying agency.
+This was expensive. It survived in bespoke fabrication and prestige shipyards, where customers valued the judgment of a named human craftsperson working at machine scale.
+
+The shunt carried this technical lineage into the [[Worldbuilding/Post-Elysium/Factions/Daedal Houses|Daedal Houses]]. In Elysium, a pilot's continuous experience of body and machine helped connect intention with machinery through the [[Worldbuilding/Post-Elysium/Concepts/Aether|Aether]]. The interface continued to carry signals. The agency behind those signals came from the mind using it.
