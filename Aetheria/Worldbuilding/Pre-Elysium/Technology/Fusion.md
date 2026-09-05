@@ -1,31 +1,35 @@
 # Fusion
 
-[[Fusion]] releases energy when light nuclei combine into more tightly bound nuclei. A reactor prepares fuel, heats it into plasma, confines that plasma long enough for useful output, recovers energy, converts it into electricity or thrust, and rejects waste heat.
+[[Fusion]] releases energy when light atomic nuclei combine into nuclei whose parts are more tightly bound. Reactors use that energy to supply electricity and heat; fusion drives use it to propel ships. The technology helped make settlement and transport across Sol possible, but every installation still depended on fuel deliveries, replacement parts, and people able to keep it running.
 
-Late-Sol systems descend primarily from magnetic confinement. Powerful fields hold hot plasma away from vulnerable structures while heating and controls maintain an operating envelope. The plant includes vacuum vessels, coils, plasma-facing walls, shielding, fuel equipment, sensors, power conversion, coolant loops, and [[Thermal Management|thermal rejection]]. Fuels and designs impose different radiation, exhaust, and material burdens.
+## How a Reactor Works
 
-Net power is not a simple efficiency score. Magnets, heating, pumps, fuel preparation, and cooling consume output. Availability, maintenance, conversion loss, repair access, fuel logistics, mass, and restart time determine practical value.
+A reactor prepares its fuel and heats it into plasma, a hot state in which electrons separate from atomic nuclei. It must then hold the plasma long enough to obtain useful energy, recover that energy as electricity or thrust, and dispose of waste heat.
 
-## Power and Propulsion
+Most late-Sol systems descend from magnetic-confinement reactors. Powerful magnetic fields keep the hot plasma away from structures it could damage. Heating systems and controls keep it within the conditions needed for operation. Around the plasma sit vacuum vessels, magnetic coils, plasma-facing walls, shielding, fuel equipment, sensors, power-conversion machinery, coolant loops, and equipment for [[Thermal Management|thermal rejection]]. Different fuels and reactor designs impose different demands on materials and produce different radiation and exhaust burdens.
 
-Stationary reactors supply electricity and heat to habitats, industry, grids, and research. The [[Soliton Drive]] uses the same broad lineage for propulsion, expelling fusion plasma through an external magnetic nozzle. A drive must survive acceleration, compact geometry, nozzle stress, shipboard heat limits, and long periods between yards.
+Some of the output goes straight back into running the plant: magnets, heating, pumps, fuel preparation, and cooling all consume power. The power left over matters, but it cannot by itself tell an operator how useful the reactor will be. That also depends on how often it is available, how much energy is lost during conversion, its mass, fuel logistics, maintenance needs, access for repairs, and the time required to restart it.
 
-Fusion enabled settlement and transport without making either independent. Fuel required production, refining, certification, and positioning. Ships and habitats needed replacement coils, plasma-facing components, coolant hardware, records, and restart crews.
+## Electricity and Propulsion
 
-## The Plant Around the Plasma
+Stationary reactors supply habitats, industry, grids, and research facilities with electricity and heat. The [[Soliton Drive]] comes from the same broad engineering lineage, but expels fusion plasma through an external magnetic nozzle to produce thrust. Its equipment must fit into a compact ship, withstand acceleration and nozzle stress, stay within shipboard heat limits, and operate for long periods between visits to a yard.
 
-Reactor labor includes fuel handling, plasma control, vacuum work, coil maintenance, first-wall inspection, radiation protection, coolant service, grid scheduling, outage planning, and emergency response. Damaged components may require remote handling. Crews inspect erosion, cracks, joints, insulation, seals, and sensors.
+Neither application removes dependence on an industrial supply network. Fuel must be produced, refined, certified, and delivered where it is needed. Ships and habitats also need replacement coils, components exposed to plasma, coolant hardware, maintenance records, and crews qualified to restart the machinery.
 
-Outages become political when a habitat cannot defer agriculture, life support, clinics, heat, or compute like a military depot can. Strategic sites buy redundancy, reserves, priority components, and shorter queues. Marginal settlements rotate essential loads and accept older hardware.
+## Keeping Power Available
 
-Fusion failures need not resemble bomb explosions. Loss of plasma control ends the reaction, but the plant can suffer a magnet quench, coolant or vacuum failure, wall damage, electrical fault, radiation release, or grid collapse. A safe shutdown can still leave a habitat without thermal margin, water processing, or breathable air.
+Reactor work extends well beyond controlling the plasma. Crews handle fuel, maintain the vacuum and coils, inspect the first wall facing the plasma, provide radiation protection, and service coolant systems. They also schedule grid supply, plan outages, and respond to emergencies. Inspections look for erosion, cracks, failing joints, damaged insulation, leaking seals, and faulty sensors. Damaged components may have to be handled remotely.
 
-A coil fault in a settlement reactor can therefore produce two different stories. The protection system safely stops the plasma. The supply office then allocates the next certified replacement to a strategic customer, leaving residents to ration greenhouse lighting and clinic power. Engineering has prevented one disaster while contract priority begins another.
+For habitat residents, an outage can interrupt agriculture, life support, clinics, heating, or computation. These needs cannot be postponed as readily as work at a military depot. Strategic sites can buy redundant equipment, reserves, priority access to components, and shorter service queues. Marginal settlements keep older hardware running and rotate power among essential uses.
 
-## Ownership and Dependence
+This distinction matters even when the reactor's safety systems work. A coil fault can prompt the protection system to stop the plasma safely, only for the supply office to assign the next certified replacement to a strategic customer. The settlement then has to ration greenhouse lighting and clinic power while it waits. The engineering response has prevented immediate damage; the allocation decision determines how residents live through the outage.
 
-[[NiteLife Energy]] operates grid backbones, fusion supply contracts, and distributed power services. It does not own every reactor design or plant. Habitat authorities, industrial firms, militaries, cooperatives, and ship operators own and maintain reactors under different service and certification arrangements.
+Fusion failures do not have to resemble bomb explosions. Losing control of the plasma ends the reaction, but the surrounding plant can still suffer a magnet quench—when a superconducting coil loses its superconducting state—or a coolant failure, vacuum failure, damaged wall, electrical fault, radiation release, or grid collapse. Even a safe shutdown can leave a habitat unable to control its temperature, process water, or maintain breathable air.
 
-[[Cryonix]] supplies premium [[Advanced Superconductors|superconducting materials]], coils, and fabrication tolerances used in high-field systems. It does not own the reactor or the grid around those components. Other yards and materials suppliers keep heavier, older, locally repairable, or uncertified systems in service where premium contracts are unavailable.
+## Owners and Suppliers
 
-By 3025, NiteLife grid support supplied energy to the Arete research chain and the assembly described in [[FTL Trigger]]. Surviving records do not isolate fusion's contribution to that power. Fusion did not design the field geometry, determine the experiment, or cause humanity's shunt into Elysium.
+[[NiteLife Energy]] operates grid backbones, fusion supply contracts, and distributed power services. Its reach does not make it the owner of every reactor design or plant. Habitat authorities, industrial firms, militaries, cooperatives, and ship operators own and maintain reactors under different service and certification arrangements.
+
+[[Cryonix]] supplies premium [[Advanced Superconductors|superconducting materials]], coils, and the precise fabrication needed for high-field systems. Its role is to supply those components, not to own the reactor or its surrounding grid. Where premium contracts are unavailable, other yards and materials suppliers keep systems in service that may be heavier, older, locally repairable, or uncertified.
+
+By 3025, NiteLife grid support supplied energy to the Arete research chain and the assembly described in [[FTL Trigger]]. Surviving records do not establish how much of that power came from fusion. Fusion supplied no field geometry, did not determine the experiment, and did not cause humanity's shunt into Elysium.
