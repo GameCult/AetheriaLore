@@ -2,28 +2,40 @@
 
 *"Stealing scraps from a broken machine"*
 
-The **Corvid Collective** is a distributed polity descended from ravens uplifted by [[NeuroSyn]] for reconnaissance and surveillance. It maintains no continuous territory. Its material body consists of nests, workshops, caches, fabrication capacity, and access agreements; its data body moves among concealed servers and compromised networks. Its communities exchange intelligence, shelter, tools, and warnings without submitting to permanent central command.
+The **Corvid Collective** is a network of self-governing communities descended from ravens whom [[NeuroSyn]] gave enhanced cognition for reconnaissance and surveillance. Its members exchange intelligence, shelter, tools, and warnings. They hold no continuous territory and answer to no permanent central command.
 
-## History
+A community needs somewhere to nest, raise young, repair its equipment, and keep supplies. Across the Collective, nests, workshops, caches, and fabrication facilities meet these needs, with access agreements allowing communities to use resources they do not control. Their data moves among concealed servers and compromised networks. Keeping both supplies and knowledge distributed helps them survive the loss of a habitat without exposing the others.
 
-NeuroSyn began the uplift program in 2450, fitting ravens with enhanced cognition, speech interfaces, and access to corporate systems. The work produced operators, not obedient biological peripherals. In 2470, uplifted ravens escaped a NeuroSyn containment facility on Mars. Survivors and later escapees used maintenance spaces, abandoned machines, and network access to build refuges.
+## Escape and Survival
 
-By 2500, corporate security described the connected communities as a collective. Their raids increasingly targeted systems holding captive uplifts, restricting movement, or enforcing corporate dependence. The Collective persisted through the late Sol order because distributed fabrication and information kept losses in one habitat from exposing the others.
+NeuroSyn began its raven uplift program in 2450, providing enhanced cognition, speech interfaces, and access to corporate systems. The ravens became capable operators with purposes of their own, rather than the obedient biological equipment the company sought. In 2470, uplifted ravens escaped a NeuroSyn containment facility on Mars. Survivors and later escapees built refuges in maintenance spaces and abandoned machinery, using the network access available to them.
 
-Its association with pirates is practical rather than constitutive. Some crews provide transport, salvage, fabrication, or sanctuary; some Corvid communities trade intelligence and intrusion work in return. The Collective neither belongs to a single pirate coalition nor shares every pirate interest. Near the end of the Pre-Elysium period, this affinity makes it a recurring minor actor in smuggling routes, abandoned infrastructure, and resistance to corporate custody.
+By 2500, corporate security described these connected communities as a collective. Their raids increasingly targeted systems that held uplifted beings captive, restricted movement, or enforced dependence on corporations. Distributed fabrication and information allowed the Collective to persist through the late Sol order: losses in one habitat did not have to expose the rest.
 
-## Organization and Reproduction
+Some pirate crews supply transport, salvage, fabrication, or sanctuary. Some Corvid communities pay through intelligence and intrusion work. These exchanges do not make the Collective part of a single pirate coalition, and Corvids do not share every pirate interest. Near the end of the Pre-Elysium period, these practical ties make the Collective a recurring minor actor along smuggling routes, in abandoned infrastructure, and in resistance to corporate custody.
 
-Authority is local and task-bound. A habitat may defer to a navigator during evacuation, a technician during fabrication, or an experienced negotiator during exchange. Wider decisions travel through negotiated commitments rather than a standing executive. Rescue networks accept exposure to extract captives; isolationist habitats refuse it; some cells reserve stolen access for local survival.
+## Decisions and Daily Needs
 
-The Collective reproduces materially as well as biologically. It must secure incubation space, food, medicine, cybernetics, replacement interfaces, fabrication feedstock, power, and network routes. Knowledge is copied across caches so that a destroyed nest does not erase the techniques needed to build another. Human and machine-scale collaborators extend its reach. The best-known are the [[Chaos Weavers]], human associates who fight information control through misinformation, leaks, and spoofed trust signals.
+Corvid communities assign authority for particular tasks. During an evacuation, a habitat may follow a navigator; during fabrication, a technician; during an exchange, an experienced negotiator. Decisions involving several communities depend on negotiated commitments rather than a standing executive.
 
-This infrastructure, rather than any universal temperament, explains the Collective's characteristic methods. Small bodies, uneven access, and persistent surveillance reward misdirection, salvage, infiltration, and selective disclosure. Humor is common, but it is neither a constitution nor a substitute for material survival.
+Those commitments have limits. Rescue networks accept the risk of exposure to extract captives. Isolationist habitats refuse that risk, while some cells keep stolen access for their own survival. Membership in the Collective does not settle what a community owes others or how much danger it will accept.
 
-## Names, Identity, and Translation
+Raising new generations and rebuilding lost habitats require incubation space, food, medicine, cybernetics, replacement interfaces, fabrication feedstock, power, and network routes. Communities copy knowledge across caches so that the destruction of a nest does not also destroy the techniques needed to build another.
 
-A Corvid true name is a living autobiographical composition, not a short spoken label. It may combine syrinx harmony, posture, neural-link metadata, sensory quotation, references to other names, and revisions made at later molts. A full name can therefore carry what a human translation renders as an entire poem. Short calls such as `Krrik` or `Tlak` are titles or human glosses, not the name itself.
+Human collaborators and collaborators operating at machine scale extend what the Corvids can do. The best-known are the [[Chaos Weavers]], human associates who oppose information control through misinformation, leaks, and spoofed trust signals.
 
-Corvids disclose identity selectively. A person or group may offer a temporary human-facing role-name without revealing which body currently speaks through it; several people may share that role-name, and one person may change roles between exchanges. Operational systems can retain opaque individual identifiers for medical care, rescue, consent, liability, and casualty accounting without receiving the autobiographical name or permission to infer it. Collective speech does not erase individual bodies, needs, refusals, possessions, or continuation rights.
+Small bodies, uneven access to resources and systems, and persistent surveillance shape Corvid methods. Misdirection, salvage, infiltration, and selective disclosure help communities work within those constraints. These methods arise from their circumstances, rather than a temperament shared by every Corvid. Humor is common, but it neither governs the Collective nor supplies what its members need to live.
 
-Poetic language is also ordinary infrastructure. Corvid annotations may encode provenance, repair history, warnings, jokes, obligations, or the remembered conditions under which an object survived. A translated poem on a feed label is not decorative flourish: it may be a denser and more socially precise record than the human label beside it.
+## Names and Selective Identity
+
+A Corvid true name is an autobiographical composition that can change over a lifetime. It may combine harmonies made with the syrinx, posture, neural-link metadata, quoted sensory experiences, references to other names, and revisions made at later molts. A human translation of one full name may take an entire poem. Short calls such as `Krrik` or `Tlak` are titles or human glosses.
+
+Corvids choose how much of their identity to disclose. A person or group may use a temporary role-name when dealing with humans without revealing which body is speaking. Several people may share that role-name, and one person may take different roles between exchanges.
+
+This selective disclosure does not prevent individual recordkeeping. Operational systems can use opaque identifiers to distinguish individuals for medical care, rescue, consent, liability, and casualty accounting. Those identifiers need not reveal an autobiographical name, and holding one does not grant permission to infer that name. Speaking collectively leaves each person's body, needs, refusals, possessions, and continuation rights intact.
+
+## Poems as Records
+
+Corvids also use poetic language to record practical information. An annotation may tell where an object came from, how it was repaired, what dangers accompany it, what obligations concern it, or the conditions in which it survived. It may carry jokes as well.
+
+A translated poem on a feed label can therefore contain more information, and describe its social meaning more precisely, than the human label beside it. Reading it as decoration would mean missing part of the record.
