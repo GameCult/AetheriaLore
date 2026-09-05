@@ -1,23 +1,39 @@
 *"Order, in moderation and for a fee."*
 
-The [[Pan-Solar Consortium]] is the market's emergency skeleton: a supraterritorial arbitration regime built in 2230 when the leading powers of Sol realized that unregulated corporate war was becoming too expensive to survive. It is not a democracy, and it is only barely a state. It exists to keep sovereign firms interoperable enough that extraction, finance, and transit do not collapse all at once.
+The [[Pan-Solar Consortium]] (PSC) is a shared arbitration authority that operates across the territories of Sol's sovereign corporations. The leading powers founded it in 2230 because unrestricted corporate warfare was becoming too costly for them to survive. Its job is to settle enough disputes and maintain enough common rules that extraction, finance, and transit can continue functioning together. It is not democratic and has few of the powers of a full state.
 
-### Why It Exists
+For those moving cargo or settling payments across corporate borders, the PSC matters because other institutions recognize its decisions. A faction may need its payment-clearing systems, neutral docks, standardized terms for relief from sanctions, or recognized permits for armed conflict. Dependence on those services gives the Consortium leverage even where it commands little loyalty.
 
-The PSC emerged after the first great automation-driven upheavals made three risks impossible to ignore. First, infrastructure sabotage had become systemically contagious. Second, competing jurisdictional claims were choking trade routes. Third, new technologies such as AGI, biodrones, later uploads, and eventually signature-managed thermal systems were creating legal disputes that no single corporate court could settle without inviting retaliation.
+### Why the Powers Accepted a Referee
 
-The answer was a shared shell: common clearing systems, sanction mechanisms, corridor law, reserve currency management, and enforcement norms around warfare. Its founders did not want public accountability. They wanted a referee whose legitimacy was thin enough to control and strong enough to obey when necessary.
+The first great automation-driven upheavals exposed problems that individual corporate authorities could not contain. Sabotage of one piece of infrastructure could spread disruption through connected systems. Rival claims over who governed a route obstructed trade. Disputes involving new technologies also exceeded the authority of any one corporate court: a ruling favorable to its own corporation could invite retaliation from another.
 
-### How It Operates
+AGI and biodrones posed these legal problems early. Uploads followed, and eventually so did thermal systems designed to control their detectable heat emissions. The technologies changed; the need for decisions recognized across corporate borders persisted.
 
-The PSC is staffed by secondees, legal technicians, risk officers, auditors, and hired coercive specialists. Its committees appear neutral only because every major member assumes it can influence them. In practice, the Consortium works by translating political conflict into administrable categories: insured or uninsured, permitted or illicit, recognized or deniable, corridor-safe or corridor-breaking. By the late timeline it increasingly does the same for thermal behavior: hot, quiet, burst, registered, undeclared.
+The founders gave the PSC common systems for clearing payments, imposing sanctions, governing transit corridors, managing a reserve currency, and enforcing rules around warfare. They wanted an authority they could influence, yet one whose rulings would carry enough weight to make rivals comply when necessary. Public accountability was not their goal.
 
-That is why the PSC can look weak and still matter enormously. It does not need universal loyalty. It needs enough dependence. If a faction requires access to [[PSCC]] clearing, neutral docks, standardized sanctions relief, or recognized conflict permits, then the Consortium still has leverage over it.
+### How Its Decisions Work
 
-### Internal Contradiction
+The Consortium employs staff seconded from other institutions, legal technicians, risk officers, auditors, and hired specialists in coercive enforcement. Its committees appear neutral because every major member expects to influence them.
 
-The PSC publicly praises stability, transparency, and fair competition. Internally it is a battleground of lobbying blocs shaped by the same ideological fractures that divide Sol itself. [[Lucent Media]] wants narrative leverage, [[Zhestokost]] wants security latitude, [[Finch Cybernetics]] wants standards that reward high-end integration, [[Cryonix]] wants premium thermal standards treated as sovereign property, [[Rossum & Douglas]] wants certification authority over circulation and quiet-running safety, [[SolEx]] wants throughput, and later [[Sol Dominion]] wants the Consortium weak enough to bend but strong enough to discipline everyone else.
+These committees turn political disputes into classifications that offices and businesses can act on. They distinguish what is insured from what is uninsured, what is permitted from what is illicit, what is officially recognized from what can be denied, and what is safe for a transit corridor from what violates its rules. Such decisions let institutions process a conflict without resolving the political disagreement behind it.
 
-This contradiction is the secret of its durability. The PSC survives because no one fully trusts it and no major power can quite afford to do without it. It endures by pricing all of those demands just legibly enough to keep the market open.
+Late in Sol's history, this work increasingly includes thermal behavior. The PSC classifies systems as hot, quiet, or operating in bursts, and distinguishes registered activity from undeclared activity. How a system releases heat has become a matter for regulation as well as engineering.
+
+The PSC's power therefore rests on how much its members need shared recognition. Access to [[PSCC]] clearing—the system for settling payments in the Consortium's common credit—matters even to a faction that distrusts its committees. So do docks accepted as neutral, predictable sanctions relief, and conflict permits that other powers will recognize. The Consortium can remain institutionally weak while making decisions that its members cannot afford to ignore.
+
+### Who Shapes the Rules
+
+The PSC publicly promises stability, transparency, and fair competition. Its internal lobbying blocs pursue different uses for those promises, reflecting the ideological divisions across Sol:
+
+- [[Lucent Media]] wants influence over how events are presented and understood.
+- [[Zhestokost]] wants greater freedom to act in the name of security.
+- [[Finch Cybernetics]] wants standards that favor its high-end integration of bodies and technology.
+- [[Cryonix]] wants its premium thermal standards treated as sovereign property.
+- [[Rossum & Douglas]] wants authority to certify circulation systems and the safety of quiet-running equipment.
+- [[SolEx]] wants extraction and transport to keep moving at volume.
+- Later, [[Sol Dominion]] wants a Consortium pliable enough to bend to its demands and strong enough to discipline other powers.
+
+These conflicting demands help keep the PSC alive. No major power fully trusts it, but none can quite afford to lose the common arrangements it maintains. The Consortium survives by giving those demands prices and terms clear enough for its members to keep doing business.
 
 [[PSCC]]

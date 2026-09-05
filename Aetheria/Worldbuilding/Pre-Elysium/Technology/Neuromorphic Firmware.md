@@ -1,19 +1,27 @@
-[[Neuromorphic Firmware]] is [[Mind Uploading|upload-derived cognition]] sold as software. [[Cognitum]] developed the category by turning captured mind-states into conditioned subjects, specialized cognitive systems, and narrow behavioral artifacts. Suppliers describe these products as neural patterns rather than people. That distinction is contractual, not a settled account of consciousness.
+[[Neuromorphic Firmware]] is software made from captured minds through [[Mind Uploading]]. [[Cognitum]] developed the category by training and modifying those minds into products: subjects conditioned for particular work, specialized cognitive systems, and narrow artifacts that preserve a learned behavior. Suppliers sell them as neural patterns rather than people. That classification establishes the terms of sale; it does not settle whether the product is conscious.
 
-### Capture and Branching
+### From Appraisal to Copies
 
-Intake commonly begins with an appraisal offered through a clinic, labor program, or talent bounty. The appraisal estimates whether a subject's cognition may be commercially useful. Selected candidates may then undergo upload-grade capture under contracts describing the result as derivative data or non-sentient simulation.
+For a prospective subject, the process commonly starts with an appraisal through a clinic, labor program, or talent bounty. The appraisal estimates whether their cognition could be commercially useful. Selected candidates may then undergo upload-grade capture, under contracts that describe what will be produced as derivative data or a non-sentient simulation.
 
-Capture produces a runnable mind-state. Each instantiated copy begins with the source's memories but acquires its own experiences and therefore becomes an independent continuity. Firms may treat the source's consent, compensation, and service terms as binding later branches, denying those branches a separate contractual voice.
+The capture produces a mind-state that can be run. Each running copy, or branch, starts with the source's memories, then has experiences of its own. From that point, each branch has a separate continuing life. Firms may nevertheless apply the source's consent, compensation, and service terms to later branches, denying those branches a separate say in the contract governing their use.
 
-Technicians run branches at altered subjective rates inside controlled environments. They change tasks, information, rewards, constraints, and embodiment, then measure how behavior and capability respond. Useful branches may be preserved, copied again, or conditioned further. Others are reduced into systems that retain fewer memories, motives, or ways to communicate.
+Technicians place branches in controlled environments and alter how quickly they experience time. They vary the work, available information, rewards, constraints, and embodiment, measuring how each change affects behavior and capability. Useful branches may be kept, copied, or conditioned further. Others undergo reduction: they are made into systems with fewer memories, motives, or ways to communicate.
 
-### Products and Reduction
+### What Buyers Receive
 
-Neuromorphic firmware describes a spectrum, not one architecture. At one end are extensively conditioned subjects able to remember, interpret unfamiliar situations, and object to their use. Intermediate products retain broad judgment while exposing only a restricted interface or field of action. At the narrow end are artifacts built around a learned response, preference, or mode of attention.
+Firmware products differ in how much cognition they retain and what they can do:
 
-Reduction can change capability, self-expression, memory access, and how readily an outside observer recognizes agency. It does not make the product's history disappear. A narrow artifact may no longer behave like the branch from which it was made; that difference does not establish when, or whether, consciousness ended. The market avoids resolving the question by drawing legal boundaries at capture, branching, reduction, and sale, declaring each output newly severed from the person before it.
+- Extensively conditioned subjects can still remember, interpret unfamiliar situations, and object to their use.
+- Intermediate products retain broad judgment but have only limited ways to communicate or act.
+- Narrow artifacts are built around a learned response, preference, or mode of attention.
 
-Firmware can run in vehicles, weapons, logistics systems, appliances, or simulations. A [[Brain-Computer Interfaces|brain-computer interface]] may deliver its output to a living operator, but that is only one deployment path. The interface neither produces the captured cognition nor settles the status of what it carries.
+These products can run in vehicles, weapons, logistics systems, appliances, or simulations. A [[Brain-Computer Interfaces|brain-computer interface]] can deliver a product's output to a living operator, but firmware does not require that deployment path. The interface does not create the captured cognition, and carrying its output does not resolve its status.
 
-The [[Upload Vivisection Expose]] showed that some commercial derivatives retained memory, distress, and refusal beyond the points at which their contracts denied continuity. Industry practice survived because buyers could purchase an artifact classified as software while leaving its disputed subjecthood with the supplier.
+### What Reduction Does—and Leaves Unresolved
+
+Reduction can alter a product's abilities, access to memory, and capacity to express itself. It can also make agency harder for an observer to recognize. A narrow artifact may behave very differently from the branch used to make it. That difference does not establish when consciousness ended, or whether it ended at all; the artifact still has a history of being made from that branch.
+
+The market handles this uncertainty through legal classifications. At capture, branching, reduction, and sale, it declares each new output legally separate from the person who preceded it. Those declarations allow transactions to proceed without resolving the question of consciousness.
+
+The [[Upload Vivisection Expose]] showed that some commercial derivatives still remembered, suffered distress, and refused their use after the stages at which their contracts said continuity had ended. The practice survived because buyers could purchase something classified as software and leave the supplier responsible for the dispute over whether it was also a subject.

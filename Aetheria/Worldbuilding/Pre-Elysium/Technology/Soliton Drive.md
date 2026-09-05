@@ -1,19 +1,27 @@
 # Soliton Drive
 
-The Soliton Drive is the fusion propulsion system that formed the transport spine of permanent settlement across Sol. Descended from compact magnetic-confinement reactors, it shapes and expels fusion plasma through an external magnetic nozzle. The name came from the metastable exhaust-confinement program led by Mara Varga and Kenji Sato at the Budapest Institute of Applied Fusion in 2041.
+The Soliton Drive is a fusion engine that made regular transport between permanent settlements across Sol possible. It uses magnetic fields to contain fusion plasma, then directs and expels that plasma through an external magnetic nozzle to propel a ship. Its design descends from compact magnetic-confinement reactors. Its name comes from the 2041 research program on metastable exhaust confinement—keeping the exhaust temporarily stable—led by Mara Varga and Kenji Sato at the Budapest Institute of Applied Fusion.
 
-## Transport Infrastructure
+For settlements separated by astronomical units, regular shipping meant dependable arrivals of machinery, crews, and consumables. The drive helped make those schedules possible. Keeping the ships running required an extensive industrial network, and control of that network gave companies power over the settlements it supplied.
 
-[[Horizon Ventures]] commercialized the drive during the [[Corporate Exodus]]. Its mining ships joined propulsion to fuel refining, cargo finance, and habitat provisioning, turning scattered projects into a transport economy. Settlements separated by astronomical units could depend on scheduled machinery, crews, and consumables; firms controlling those schedules gained leverage over whether a settlement remained habitable.
+## Keeping Ships Running
 
-When Horizon merged with [[TerraCore Industries]] to form [[SolEx]], the drive became part of a pan-solar extraction system. SolEx favored rugged installations that yards could service repeatedly and planners could fit into audited convoy schedules. [[Aeronautics Unlimited]] inherited much of the expansionist engineering culture left outside that merger. Its fleets used the same propulsion lineage to move construction equipment, settlement shells, and repair capacity ahead of settled administration. The difference became doctrine: SolEx made routes dependable enough to govern, while AU made new routes quickly enough to speculate on them.
+Fusion propulsion did not make distance cheap. Fuel still had to be mined, refined, and delivered to points along each route. Repeated heating and cooling, along with stress from magnetic fields, wore down coils, reactor structures, and nozzle assemblies. Ships needed fuel depots, specialist yards, replacement coils, certified maintenance, and rescue coverage.
 
-## Operating Burdens
+Waste heat also limited how much propulsion a ship could use. Circulation loops had to carry heat away from drive components, and radiators had to release it into space. Without adequate [[Thermal Management]], higher power left the ship with more accumulated heat to dispose of later: heat debt.
 
-The drive never made distance cheap in an absolute sense. Fusion fuel had to be mined, refined, and positioned along the transport network. Magnetic coils, reactor structures, and nozzle assemblies endured thermal cycling and field stress. Waste heat still had to pass through circulation loops and radiators; high power without sufficient [[Thermal Management]] only converted propulsion capacity into heat debt. A drive therefore implied an industrial ecology of fuel depots, specialist yards, replacement coils, certified maintenance, and rescue coverage.
+Shipbuilders chose how much weight and support to devote to surviving these demands. Bulk carriers accepted heavier machinery and redundant systems so they could go longer between servicing. Fast settlement ships and military hulls sacrificed some of those margins for acceleration. They needed more inspections, faced greater thermal exposure, and depended on more fragile supply chains. Operating a drive meant paying for access to institutions that could keep it working.
 
-These burdens shaped ship design and political power. Bulk carriers accepted mass, redundancy, and long service intervals. Fast settlement or military hulls traded those margins for acceleration and paid in inspections, thermal exposure, and fragile supply chains. Operators bought access to whichever institution could keep the drive flying.
+## Companies and Routes
 
-## Militarization
+[[Horizon Ventures]] commercialized the drive during the [[Corporate Exodus]]. It combined mining-ship propulsion with fuel refining, cargo finance, and habitat provisioning. Projects that had been scattered across Sol became connected through a shared transport economy. Settlements could rely on scheduled supplies, but the firms deciding those schedules gained leverage over whether people could continue living there.
 
-[[Quantum Dynamics]] extended the propulsion tradition into long-horizon research, and [[Sol Dominion]] folded that work into strategic transport and warship programs. Dominion installations emphasized redundancy, controlled maintenance, and operation under damage rather than frontier improvisation. The resulting ships were heavier and institutionally expensive, but their propulsion remained available when disrupted depots and wounded crews had already grounded less conservative designs.
+Horizon’s merger with [[TerraCore Industries]] created [[SolEx]] and brought the drive into a pan-solar extraction system. SolEx wanted rugged installations that shipyards could service repeatedly. Planners fitted those ships into convoy schedules subject to audit, making established routes reliable enough to support corporate governance.
+
+[[Aeronautics Unlimited]] inherited much of the expansionist engineering culture outside the merger. Its fleets used the same propulsion lineage to carry construction equipment, settlement shells, and repair capacity into places where settled administration had yet to arrive. SolEx used dependable routes to consolidate control; AU opened routes quickly enough to speculate on future development. Their different uses of the drive became operating doctrines.
+
+## Military Development
+
+[[Quantum Dynamics]] continued long-horizon propulsion research, which [[Sol Dominion]] incorporated into strategic transport and warship programs. Dominion drive installations prioritized redundant systems, tightly controlled maintenance, and continued operation after damage rather than the improvisation used on the frontier.
+
+These choices made Dominion ships heavier and required expensive institutional support. They also kept propulsion available when disrupted fuel depots and wounded crews had already grounded ships built with fewer reserves and smaller safety margins.
