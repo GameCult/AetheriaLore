@@ -1,33 +1,43 @@
 # Biodrone
 
-A **biodrone** is a purpose-grown biological organism engineered for labor. The category describes provenance and intended use, not a settled level of cognition. A biodrone may be designed around maintenance, service, industrial, military, or other work, then sold through contracts that treat its body, support requirements, and behavior as parts of one product.
+A **biodrone** is a biological organism grown and engineered to do work. Biodrones are designed for maintenance, service, industry, military use, and other jobs. Suppliers sell them under contracts that treat the organism's body, behavior, and care requirements as parts of a single product. The name tells a buyer how the organism was made and what it was made for; it does not establish how much it understands or whether it is a person.
 
-Biodrones are distinct from [[Uplift|uplifts]]. An uplift program modifies an existing nonhuman lineage to expand cognition and institutional access, even when an employer subsequently treats that lineage as labor. A biodrone begins as an engineered labor organism. Neither origin determines personhood, and institutions often recognize both categories selectively.
+For a biodrone, dependence on an employer or supplier can extend beyond the work assignment. It may need specialized food, medicine, habitat, or maintenance that it cannot obtain elsewhere. Even when it can refuse an instruction, whoever reviews that refusal may record it as a product defect rather than a worker's decision.
 
-The category also excludes clones of existing people, uploaded or machine minds, and ordinary automation. A clone retains a human biological reference even when institutions deny its implications. An [[Artificial General Intelligence|AGI]] or conventional machine system is not a grown biological worker. Cybernetic interfaces can be part of a biodrone without making it an AGI.
+## Bodies, Instructions, And Dependence
 
-## Design And Dependence
+There is no standard biodrone body or single way its cognition works. Buyers commission organisms for particular environments, workloads, and ways of working with operators. A design may favor strength, dexterity, unusual senses, tolerance of industrial conditions, movement through confined spaces, or the ability to use existing tools. Some lines have implants or external interfaces. Others work through training and adaptations to the workspace.
 
-There is no universal biodrone body or cognition architecture. Buyers commission organisms for an environment, workload, and operating relationship. Designs may emphasize strength, dexterity, sensory range, industrial tolerance, compact movement, or compatibility with existing tools. Some lines use implants or external interfaces; others rely on trained behavior and adapted workspaces.
+Suppliers and operators can shape behavior in several ways. Genetic design affects development, metabolism, stress responses, and physical capabilities. Conditioning teaches routines and can leave an organism prepared for only a limited range of situations. Interfaces may deliver instructions, identify authorized operators, or provide diagnostic information.
 
-Control is likewise distributed. Genetic design can shape development, metabolism, stress response, and physical capability. Conditioning can make routines familiar or constrain the situations an organism is prepared to navigate. Interfaces can carry instructions, identify authorized operators, or expose diagnostic information. Dependence on tailored food, medicine, habitat, maintenance, credentials, or supplier knowledge can restrict movement without any single device functioning as a master switch.
+Control can also come from dependence. Tailored food, medicine, habitat, and maintenance may be essential to survival. Required credentials or knowledge held by a supplier can further restrict where a biodrone can go. No single device needs to act as a master switch for these arrangements to limit its freedom of movement.
 
-These systems do not produce perfect obedience. A worker can misunderstand an instruction, protect an injured peer, avoid a dangerous route, improvise around a fault, or refuse an operator. The same behavior may be recorded as equipment failure, conditioning drift, misuse, labor indiscipline, self-defense, or testimony depending on who owns the report.
+None of this ensures obedience. A biodrone may misunderstand an instruction, protect an injured peer, avoid a dangerous route, improvise around a fault, or refuse an operator. Whoever controls the report can classify the same behavior as equipment failure, conditioning drift, misuse, labor indiscipline, self-defense, or testimony. That classification determines whether the record presents a faulty product, a disobedient worker, or an organism with something to say.
 
-## Production And Provenance
+## What The Category Includes
 
-[[VitaForge]] made biodrones commonplace in late-Sol industry. Its **BioDrone Standard** line was widely subcontracted into maintenance, service, and general labor by infrastructure operators that did not grow their own biological workers. Line design, work assignment, treatment, and incident review could therefore belong to different institutions, each able to exercise control while denying responsibility for the whole life.
+Biodrones and [[Uplift|uplifts]] have different origins. An uplift program starts with an existing nonhuman lineage and expands its cognition and access to institutions, even if an employer later uses that lineage as labor. A biodrone is engineered as a labor organism from the outset. Neither origin settles personhood, and institutions often recognize personhood selectively in both groups.
 
-Mixed worksites made category boundaries operational. A VitaForge biodrone might work beside baseline crews and [[BioElevate]] uplift lines under different contracts, support systems, and legal classifications. An identical refusal could therefore enter three separate administrative channels before the workers involved recognized it as one dispute.
+Clones of existing people are a separate category: they retain a human biological reference even when institutions deny its implications. Uploaded minds, machine minds, and ordinary automation are also outside the biodrone category. An [[Artificial General Intelligence|AGI]] or conventional machine system is not a grown biological worker. A biodrone can have cybernetic interfaces without becoming an AGI.
+
+## Production And Responsibility
+
+[[VitaForge]] made biodrones commonplace in late-Sol industry. Infrastructure operators that did not grow their own workers widely subcontracted its **BioDrone Standard** line for maintenance, service, and general labor.
+
+Several institutions could consequently govern different parts of one organism's life. One designed the line; others assigned its work, determined its treatment, or reviewed incidents. Each could exercise control while denying responsibility for the whole life.
+
+These divisions followed workers into shared workplaces. A VitaForge biodrone might work alongside baseline crews and [[BioElevate]] uplift lines, each under different contracts, support arrangements, and legal classifications. If all three refused the same work, their refusals could enter three separate administrative channels before the workers themselves recognized a common dispute.
 
 ## Cognition And Recognition
 
-Biodrone cognition varies among lines and individuals. No single test resolves whether an organism possesses memory, anticipation, reciprocity, self-recognition, or an enduring claim over its body. Tests are shaped by the communication channels a design permits. An organism unable to speak through a human interface may still remember routes, coordinate work, protect others, or change after injury.
+Cognition differs between biodrone lines and between individuals. No single test settles whether an organism has memory, anticipation, reciprocity, self-recognition, or an enduring claim over its own body. What a test can reveal also depends on how the organism is able to communicate. One that cannot speak through a human interface may still remember routes, coordinate work, protect others, or change after an injury.
 
-Observed agency does not guarantee recognition. Suppliers and operators have incentives to interpret refusal through product language, while advocates may treat any removal of conditioning or interface restrictions as liberation. Both positions can flatten the individual. Changing a limiter, support system, or trained response may increase available action, damage memory, alter identity, or expose a worker to conditions it was never equipped to survive. A technical intervention cannot substitute for asking what continuity and consent mean for the organism affected.
+Evidence that a biodrone makes choices does not ensure that anyone in authority will recognize those choices. Suppliers and operators have incentives to describe refusal as a problem with a product. Advocates can make a different mistake by assuming that removing conditioning or interface restrictions always liberates the organism.
+
+Both approaches can overlook the individual affected. Changing a limiter, support system, or trained response may give a worker more ways to act. It may also damage memory, alter identity, or expose the worker to conditions it was never equipped to survive. Deciding whether to intervene therefore requires asking what consent means for that organism and what would preserve its continuity as an individual. The ability to make a technical change does not answer either question.
 
 ## Labor Conflict
 
-The [[Pallas Species Strikes]] demonstrated coordinated refusal across biodrone, uplift, and baseline categories that management administered separately. Later movements including the [[Awakened Labor Front]] and [[Sentience Rebellion]] disputed cognition tests, alteration of conditioning, individual identity, abolition of production, and solidarity with workers whose agency was not expressed in familiar ways.
+The [[Pallas Species Strikes]] showed biodrones, uplifts, and baseline workers coordinating their refusal despite management's separate classifications. Later movements, including the [[Awakened Labor Front]] and [[Sentience Rebellion]], contested how cognition should be tested, whether and how conditioning should be altered, and what makes someone the same individual through such changes. They also disputed whether biodrone production should be abolished and how to stand alongside workers whose agency took unfamiliar forms.
 
-The biodrone problem was therefore not simply whether corporations had manufactured consciousness. They had manufactured workers while preserving administrative methods for treating any inconvenient answer as a defect in the product.
+Whether corporations had manufactured consciousness remained a question, but workers also faced an immediate obstacle: the institutions governing their lives could classify an inconvenient response as a defect. Labor conflict challenged that power as well as the judgments about cognition behind it.
