@@ -1,41 +1,49 @@
 # Port-Insurer Compact
 
-The **Port-Insurer Compact** is a shared recognition and handoff protocol used by participating ports, insurers, registrars, custody desks, and claimant offices. It is not a court, ministry, or central enforcement body. Each participant adopts the protocol through its own rules and retains authority only over its own decisions.
+The **Port-Insurer Compact** is a protocol that participating ports, insurers, registrars, custody desks, and claimant offices use to accept specialist evidence reviews and act on them. It lets an office make a limited decision—such as whether a ship may dock—while larger disputes remain unresolved.
 
-The Compact matters when a vessel reaches a controlled gate with disputed command, contaminated route history, uncertain coverage, or an embodied mind whose testimony and control claims remain unresolved. It lets one office accept a scoped evidentiary finding and apply one bounded action without waiting for every question about history, title, continuity, or personhood to be settled.
+A vessel may reach a controlled gate with disputed command, a route history whose records conflict, uncertain insurance coverage, or an embodied mind whose testimony and claim to control remain unsettled. Waiting for every question about history, ownership, continuity, or personhood to be answered could leave the vessel unable to proceed. Under the Compact, an office can accept a finding for one specified purpose and take an action within its existing powers.
 
-## Handoff
+For the people aboard, that decision can determine whether repairs or further travel are possible. Crews without money, sponsors, clean records, or recognized advocates may have little ability to meet a condition or meaningfully refuse it.
 
-The pipeline runs one way:
+## How A Finding Reaches An Office
 
-1. A specialist review produces a scoped [[Worldbuilding/Post-Elysium/Reference/Continuity Admissibility Finding|continuity admissibility finding]].
+The Compact has no court, ministry, or central enforcement body. Each participant adopts it through its own rules and remains responsible for its own decisions. The handoff proceeds in one direction:
+
+1. A specialist review produces a [[Worldbuilding/Post-Elysium/Reference/Continuity Admissibility Finding|continuity admissibility finding]]: a document stating whether particular evidence is suitable for a specified use.
 2. The finding names one receiving office and one permitted use.
-3. That office decides whether to accept the finding under its adopted protocol.
-4. If accepted, the office may apply an action it already had authority to take.
-5. The office records notice, scope, review date, and the means of cure or challenge.
+3. That office decides whether to accept it under the protocol the office has adopted.
+4. If the office accepts it, the office may take an action it already has authority to take.
+5. The office records the notice, the action's scope, its review date, and how the affected party can meet or challenge its conditions.
 
-Acceptance does not travel automatically. The same underlying review may support separate findings for several offices, but each finding names one receiving office and one permitted use. Each office must receive an in-scope finding, accept it independently, and identify its own authority. A port cannot suspend insurance. An insurer cannot freeze title. A custody desk cannot deny berth. Cooperation does not merge their jurisdictions.
+One review can support separate findings for several offices. Each office still needs a finding within its own scope, must accept it independently, and must identify the authority under which it acts. Acceptance by one office carries no automatic weight of acceptance elsewhere.
 
-## Illustrative Actions
+A port cannot suspend insurance. An insurer cannot freeze title. A custody desk cannot deny berth. Participation in the Compact does not combine their powers.
 
-| Receiving office | Preexisting authority | Bounded Compact action |
+## What Offices May Do
+
+The following actions illustrate how the protocol can be used. The Compact grants none of these powers; they must already belong to the receiving office. Local adoption may allow fewer actions or require a different process.
+
+| Receiving office | Existing authority | Possible action after accepting a finding |
 | --- | --- | --- |
-| Berth authority | Control of docking and local traffic | Conditional berth, isolation requirement, delayed clearance, or berth refusal pending review. |
-| Insurer | Terms of coverage and claim handling | Surcharge, bond requirement, temporary coverage restriction, or refusal within the policy. |
-| Registrar or claimant office | Transfer and title records | Temporary hold on a named transfer or component disposition. |
-| Custody office | Procedure within a custody review | Appointment of a liaison or limitation on the evidentiary weight of a disputed record in that proceeding. |
-| Fleet or operator registrar | Credentials for a defined operating surface | Temporary restriction of a named credential or command surface. |
-
-These are examples, not powers granted by the Compact. Local adoption may recognize fewer actions or require a different process.
+| Berth authority | Docking and local traffic | Allow a conditional berth, require isolation, delay clearance, or refuse berth pending review. |
+| Insurer | Coverage terms and claim handling | Impose a surcharge, require a bond, temporarily restrict coverage, or issue a refusal within the policy. |
+| Registrar or claimant office | Transfer and title records | Temporarily hold a named transfer or the disposition of a named component. |
+| Custody office | Procedure within a custody review | Appoint a liaison or limit the evidentiary weight of a disputed record in that proceeding. |
+| Fleet or operator registrar | Credentials for a defined operating surface | Temporarily restrict a named credential or command surface. |
 
 ## Notice, Review, And Cure
 
-A Compact action must identify the accepted finding, the receiving office, the office's existing authority, the first right or access condition altered, and what remains untouched. The affected ship, crew, owner, operator, or claimant receives notice unless an immediate safety condition makes delay necessary. Emergency action still requires prompt recorded review.
+Every Compact action must state which finding the office accepted, which office is acting, and what existing authority permits the action. It must identify the first right or condition of access it changes and make clear what remains untouched.
 
-The office must provide a route to cure or challenge appropriate to its action: corrected records, independent inspection, a reconciliation bond, a safety demonstration, a hearing, expiry, or review by another authorized officer. Cure does not prove the underlying history false. It satisfies or defeats the condition attached to that gate.
+The affected ship, crew, owner, operator, or claimant must receive notice. An immediate safety condition may require notice to be delayed, but emergency action still requires prompt, recorded review.
 
-## Limits
+The office must also provide a way to satisfy the condition or challenge the action. Depending on the decision, this may involve corrected records, an independent inspection, a reconciliation bond, a safety demonstration, a hearing, expiry of the restriction, or review by another authorized officer. The Compact calls this a route to **cure or challenge**.
 
-The Compact does not decide metaphysical truth, continuity, personhood, ownership, guilt, or final custody. It does not convert suspicion into every available restriction or allow one office to act for another. A ship may receive a conditional berth while retaining coverage; lose coverage while retaining title; or enter a custody review while its testimony remains audible but disputed.
+Curing a restriction does not prove that the disputed history was false. It means the condition attached to that particular gate has been satisfied or successfully challenged.
 
-This narrowness is the protocol's practical force. It turns contaminated evidence into a specific administrative obstacle while leaving the larger contradiction unresolved. For crews without money, sponsors, clean records, or recognized advocates, even one bounded obstacle can determine whether repair, movement, and meaningful refusal remain possible.
+## What Remains Unresolved
+
+The Compact does not determine metaphysical truth, continuity, personhood, ownership, guilt, or final custody. It allows an office to make a specific administrative decision using disputed evidence without resolving those larger questions.
+
+Nor does suspicion justify every restriction an office could impose. Each action remains bounded by the accepted finding, its permitted use, and the receiving office's authority. A ship may receive a conditional berth while keeping its insurance, lose coverage while retaining title, or enter a custody review in which its testimony is still heard but remains disputed. Each outcome belongs to a separate decision; none settles the others.
