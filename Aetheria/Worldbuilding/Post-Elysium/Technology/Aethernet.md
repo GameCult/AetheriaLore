@@ -1,10 +1,15 @@
 ### Aethernet
 
-Among [[Aether]]’s interesting properties is its nonlocality, meaning that when it is perturbed, it is perturbed everywhere at once. This makes it the optimal medium for transmitting information across interstellar distances. There is one caveat, which is that aetheric signal attenuation is negligible, meaning everyone in Elysium must share a single common signal space that can easily become overwhelmed with traffic.
+Aethernet transmits information across interstellar distances through [[Aether]]. A disturbance in Aether occurs everywhere at once: a property called nonlocality. Signals also lose almost no strength with distance, making Aether an ideal transmission medium.
 
+That reach creates a shared problem. Everyone in Elysium uses the same signal space, and distant transmissions do not fade enough to stop competing with local ones. Too much traffic can overwhelm the network.
 
 #### The Queen’s Guard
 
-Early attempts to use Aethernet were subject to a predictable Tragedy of the Commons. Companies building telecom infrastructure were in a constant battle to establish ever more powerful transmitters and multiplexing algorithms to have any hope of being heard over the saturated signal bands. (Pascalia Wells, CEO of NiteLife at the time, was famously reported to have noted that "screaming into the void had never been such an exercise in futility before people started receiving answers.")  Eventually the various Megas controlling the galaxy had enough, and created the Guard.
+Early telecom companies competed to make their transmissions heard over the congestion. Each built more powerful transmitters and developed multiplexing algorithms to carry more signals through the crowded bands. These efforts left everyone competing for capacity in an increasingly saturated network. Pascalia Wells, then CEO of NiteLife, was famously reported to have remarked that “screaming into the void had never been such an exercise in futility before people started receiving answers.”
 
-This agency received a portion of their funding from each of the major players--the exact division of which became the subject of hot debate, and led to the establishment of the Fifth Year Calculations, a twice a decade bonanza of backroom dealings and tax fraud. Nevertheless, the levies were eventually decided, the Guard began licensing Aethernet frequency bands at huge cost, and soon the price and power of Aethernet transmitters plummeted to the point of being marketable towards individual pilots. The old multiplexing colossi immediately became terminally illegal--and the holy grail for pirates and hackers, whom the Queen’s Guard work tirelessly to exterminate.
+The Megas controlling the galaxy eventually created the Queen’s Guard to regulate access. Each major player contributed part of the agency’s funding, but they bitterly disputed how much each should pay. Those arguments led to the Fifth Year Calculations: negotiations held twice a decade, accompanied by extensive backroom dealings and tax fraud.
+
+Once the levies were settled, the Guard began charging enormous fees for licences to use Aethernet frequency bands. Under this arrangement, both the price and power of transmitters soon fell far enough for manufacturers to market them to individual pilots.
+
+The enormous multiplexing systems built during the earlier competition were immediately outlawed. They became prized targets for pirates and hackers, whom the Queen’s Guard works tirelessly to exterminate.
