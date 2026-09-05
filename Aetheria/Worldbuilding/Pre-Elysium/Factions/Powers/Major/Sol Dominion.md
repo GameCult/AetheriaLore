@@ -1,35 +1,50 @@
 *"Civilization survives when someone is finally willing to administer it."*
 
-[[Sol Dominion]] is a state-corporate bloc built to make late Sol's infrastructure, permissions, and strategic planning answer to one administrative order. It emerged between 2728 and 2740 amid resource contraction, insurgency, proliferating personhood, and corporate systems whose local decisions broke one another.
+[[Sol Dominion]] is a bloc of state and corporate institutions that runs much of late Sol through a shared administrative system. It coordinates the infrastructure people depend on, the permissions that govern their access to it, and plans for the system's long-term survival. For residents, this can mean dependable water, transit, and repairs. It also means that a decision about their work clearance can affect their housing or their family's access to care.
 
-The Dominion's answer was integration. A power forecast could alter transport schedules; transport priority could alter work and housing access; a security classification could follow the same person through each system. This coordination kept services running across crises that fragmented institutions handled badly. It also made an error or hostile classification portable.
+The Dominion emerged between 2728 and 2740, as resources contracted, insurgencies spread, and the kinds of beings claiming personhood multiplied. Corporate institutions were making decisions that worked within their own systems while disrupting others. The Dominion brought those decisions under common planning priorities and records. A revised power forecast could change transport schedules; transport priorities could change access to work and housing. A person's security classification could follow them through all of these systems.
 
-## Administrative Synthesis
+That coordination kept services running through crises that fragmented institutions handled badly. It also allowed mistakes and hostile classifications to spread through the same network.
 
-Four contributors defined the Dominion during the [[Identity Abyss]]. [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/SolEx|SolEx]] supplied extraction, logistics, and audit practice. [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/CogniSys|CogniSys]] supplied machine-assisted governance and prediction. [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/GeneSys|GeneSys]] supplied inherited hierarchy through biological optimization and family advantage. [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Quantum Dynamics|Quantum Dynamics]] supplied the escape ambition that made long-horizon propulsion research a civilizational project.
+## Living Under the Shared Record
 
-The Dominion did not invent these technologies or erase the firms that owned them. It joined their outputs through shared records, planning priorities, and permissions recognized across participating institutions. [[NiteLife Energy]] backed the synthesis materially, while the [[Pan-Solar Consortium]] tolerated it strategically.
+Dominion administration coordinates energy, freight, repairs, transit, housing allocation, research access, emergency response, and strategic procurement. Schedules determine when things happen; credentials and classifications help determine who receives access and whose needs take priority. Not every private act requires permission, and the Dominion's forecasts are neither complete nor infallible. Its reach comes from offices throughout the core accepting enough of the same records that a decision made in one office matters in another.
 
-[[Zhestokost]] defended the synthesis through military alignment without becoming a constituent duplicate. The two retained different doctrines: Zhestokost organized society as permanent mobilization, while the Dominion organized it as administration.
+Schedulers, auditors, clerks, infrastructure technicians, model reviewers, transit workers, clinic administrators, and appeals staff do the ordinary work of keeping this system useful. Their competence prevents real harm. Parts arrive before equipment fails. Power is redirected around a damaged array. A clinic prepares for a shortage, or a transit corridor closes before an unsafe load arrives.
 
-## Order as a Service
+Inner-system residents consequently have good reasons to value Dominion administration. They can expect clean water, working transit, planned repairs, and warnings that usually describe a real danger. The coercion begins when keeping those services depends on an administrative record that other offices trust more readily than they can hear or accept the person's explanation.
 
-Dominion power operates through schedules, credentials, classifications, and service priority. It coordinates energy, freight, repairs, transit, housing allocation, research access, emergency response, and strategic procurement. Not every private act requires a permit, and its forecasts are neither complete nor infallible. Its advantage is that offices throughout the core accept enough of the same records for one decision to have consequences elsewhere.
+Consider a transit scheduler on Earth who approves an emergency route. A later audit associates that route with contraband movement and flags her record. She continues to receive pay during the review, but her operational clearance is suspended.
 
-The ordinary labor belongs to schedulers, auditors, clerks, infrastructure technicians, model reviewers, transit workers, clinic administrators, and appeals staff. Their work prevents real harm. Parts arrive before failure. Power is shifted around a damaged array. A clinic prepares for a shortage. A transit corridor closes before an unsafe load arrives.
+Without that clearance, she is no longer eligible for housing tied to the transit district. Moving would break the clinic route her father uses, while his care authorization remains valid only at the assigned clinic. Her partner can ask for household co-location, but the office hearing that appeal reads the same unresolved security flag. Each office accepts a classification it regards as prudent. No office has ordered punishment of the family, yet the decisions together threaten their home and care arrangements.
 
-That competence gives the Dominion material legitimacy. Inner-system residents can expect clean water, working transit, planned repairs, and warnings that usually correspond to something real. The bargain turns coercive when access to those goods depends on remaining legible to records that travel farther than any individual explanation.
+The ability to contest this process is uneven. Senior administrators and trusted technical workers have professional networks and durable credentials that help them challenge decisions as the consequences spread. Lower-status workers, migrants, and politically suspect residents face slower appeals and have fewer alternative institutions to turn to. Class under the Dominion is visible in how long someone can endure an administrative interruption before it also costs them their housing, care, or household arrangements.
 
-A transit scheduler on Earth is flagged after approving an emergency route that a later audit associates with contraband movement. Her pay continues while review proceeds, but her operational clearance is suspended. The suspension makes her ineligible for housing tied to the transit district. Moving would sever the clinic route used by her father, whose care authorization remains valid only at its assigned site. Her partner can request household co-location, but that appeal reads the unresolved security flag from the same record. No office has ordered the family punished. Each office has accepted another office's prudent classification.
+## How the Dominion Was Assembled
 
-Senior administrators and trusted technical workers can contest such cascades through professional networks and durable credentials. Lower-status workers, migrants, and politically suspect residents face slower appeals and fewer alternative institutions. Dominion class is therefore visible in how long a person can survive an administrative interruption without losing the rest of their life around it.
+During the [[Identity Abyss]], four contributors supplied the practices and ambitions that shaped the Dominion:
 
-## Consolidation and Escape
+- [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/SolEx|SolEx]] brought extraction, logistics, and audit practice.
+- [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/CogniSys|CogniSys]] brought machine-assisted governance and prediction.
+- [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/GeneSys|GeneSys]] brought a system of inherited hierarchy, in which biological optimization and family advantage reinforced one another.
+- [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Quantum Dynamics|Quantum Dynamics]] brought the ambition to escape Sol, making long-horizon propulsion research a project for civilization's survival.
 
-Dominion territory is concentrated in the Earth arcologies, major Luna command infrastructure, Mercury arrays, and formal inner-system administrative corridors described in [[Worldbuilding/Pre-Elysium/Territories|Territories]]. The [[Urban Sovereignty War]] made Earth its political core by replacing fragmented municipal and corporate rule with coordinated infrastructure leverage, predictive policing, coalition-building, and force.
+The Dominion joined the work of these firms without inventing their technologies or abolishing the companies that owned them. Shared records, common planning priorities, and permissions recognized by participating institutions allowed their separate systems to act together. [[NiteLife Energy]] provided material backing, and the [[Pan-Solar Consortium]] tolerated the arrangement for strategic reasons.
 
-The [[Mercury Array Crisis]] extended that authority. Dominion institutions stabilized a failure in solar-power forecasting faster than rival powers could exploit it, then retained leverage because energy schedules had become inseparable from trade, military readiness, and research. The success proved the value of integration without proving the forecasts themselves perfect.
+[[Zhestokost]] helped defend this integration through military alignment, while remaining a distinct power rather than becoming another constituent of the Dominion. Their governing doctrines also remained different. Zhestokost organized society for permanent mobilization. The Dominion organized society through administration.
 
-The [[Arete Program Consolidation]] carried the same method into propulsion, cognition, materials, and nonlocal research. Programs owned by semi-rival institutions were drawn under common secrecy and priority because escape from Sol had become the Dominion's justification for demanding coordination at civilizational scale. The project promised survival. It also made delay, refusal, and competing research priorities easier to classify as threats to the species rather than disagreements about who controlled its future.
+## Territorial Consolidation
 
-Sol Dominion is dangerous because its order works. It can coordinate systems that otherwise fail at their seams. Its claim to rule begins when that practical competence becomes evidence that no life, institution, or future should remain outside the shared record.
+The Dominion's territory is concentrated in Earth's arcologies, major Luna command infrastructure, Mercury's arrays, and the formal inner-system administrative corridors described in [[Worldbuilding/Pre-Elysium/Territories|Territories]].
+
+The [[Urban Sovereignty War]] established Earth as its political core. The Dominion replaced fragmented municipal and corporate rule by combining control over coordinated infrastructure with predictive policing, coalition-building, and force.
+
+The [[Mercury Array Crisis]] expanded its authority further. When solar-power forecasting failed, Dominion institutions stabilized the crisis before rival powers could exploit it. They retained influence afterward because energy schedules were already bound up with trade, military readiness, and research. Institutions that depended on those schedules also depended on the administration coordinating them. The response demonstrated the practical value of integration; it did not establish that Dominion forecasts were perfect.
+
+## Organizing Escape from Sol
+
+Through the [[Arete Program Consolidation]], the Dominion applied the same approach to propulsion, cognition, materials, and nonlocal research. Programs belonging to semi-rival institutions came under common secrecy requirements and shared priorities.
+
+Escape from Sol gave the Dominion a justification for demanding coordination across civilization. The promise was survival, and the research served that ambition. But it also changed how disagreement could be treated. Delay, refusal, and competing research priorities became easier to classify as threats to the species, even when the dispute concerned who should control its future.
+
+The Dominion can coordinate systems that would otherwise fail where their responsibilities meet. That success supports its claim to govern. The danger lies in extending the claim: treating the ability to keep essential services working as grounds to bring every life, institution, and possible future under the same administrative record.
