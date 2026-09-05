@@ -1,39 +1,45 @@
 # Why Zhestokost's Heavy-Weapons Specialization Works
 
-[[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Zhestokost|Zhestokost]] specializes in heavy, repairable force. Its advantage does not come from one exceptional gun. It comes from making foundries, stockpiles, ammunition, transport, maintenance, training, and command answer the same recurring demands.
+[[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Zhestokost|Zhestokost]] builds its forces around heavy weapons and armored equipment that crews can keep using and repairing through sustained combat. This is useful when a convoy must keep moving, a breach must stay open, or a habitat must remain in its defenders’ hands. Damaged units may still need to protect the people repairing them.
 
-## Industrial Repeatability
+Keeping that force in place takes more than a powerful gun. Zhestokost organizes foundries, stockpiles, ammunition supplies, transport, maintenance, training, and command around the same recurring military needs. Its advantage depends on how reliably those institutions support one another.
 
-Zhestokost's arsenal commissions join production and campaign planning. A weapon family earns its place when the state can manufacture it repeatedly, supply its ammunition, train crews and maintainers, recover damaged units, and return them to service without rebuilding the surrounding institution for every deployment.
+## Equipment the State Can Keep in Service
 
-This favors rugged assemblies, accessible repair paths, and legible degradation. A damaged platform that can still move or protect a repair crew may be more valuable than a superior platform requiring distant expertise. Repeated production lets stockpiles, crew familiarity, and maintenance practice carry across deployments.
+Arsenal commissions plan production and campaigns together. Before a weapon family earns a place in the arsenal, the state must be able to manufacture it repeatedly, supply its ammunition, train its crews and maintainers, recover damaged units, and return them to service. Each deployment should be able to use that established support system.
 
-The same system creates inertia. Foundries, schools, depots, and careers accumulate around existing equipment. An unfamiliar design must displace an established way of keeping force present.
+These requirements favor rugged assemblies, parts that repair crews can reach, and equipment whose failures are easy to identify and assess. A damaged platform that can still move or shelter a repair crew may be more useful than a technically superior one that needs distant specialists. Producing the same equipment repeatedly also lets later deployments draw on existing stockpiles, experienced crews, and familiar maintenance practices.
 
-## Visible Endurance
+That continuity makes change difficult. Foundries, schools, depots, and careers grow around the equipment already in service. A new design has to justify replacing an established way of keeping forces supplied and operational.
 
-Heavy force does not defeat stealth as a universal rule. It accepts a different trade. Quiet forces spend activity and thermal margin to preserve uncertainty; Zhestokost often accepts visibility in exchange for sustained output, armor, redundancy, and simpler coordination.
+## Staying in the Fight While Visible
 
-That posture works when an objective cannot be abandoned after a short engagement. A convoy must continue, a breach must remain open, a habitat must be held, or damaged units must protect the crews repairing them. [[Thermal Management]] and [[Thermal Signature Warfare]] still constrain the force: firing, thrust, sensing, and cooling reveal activity. Zhestokost answers by provisioning heat rejection, replacement capacity, and formation discipline rather than pretending the signature can disappear.
+Zhestokost often accepts being detected so that its forces can sustain fire, carry armor and backup systems, and coordinate more simply. Forces trying to remain quiet must limit their activity and manage how much more heat they can safely retain to keep opponents uncertain about their position or intentions. Neither approach defeats the other in every situation.
 
-Visibility remains a cost. An opponent can track supply routes, time attacks around radiator exposure, force ammunition expenditure, or withdraw until the heavy formation has spent the mobility and maintenance needed to pursue.
+The heavy approach is useful when withdrawing after a short engagement would abandon the objective. But remaining present does not remove the constraints described in [[Thermal Management]] and [[Thermal Signature Warfare]]. Firing, thrust, sensing, and cooling reveal activity. Zhestokost plans for the capacity to reject heat, replace losses, and keep formations operating in a disciplined way while exposed.
 
-## Protected Objectives And Capture
+An opponent can exploit that exposure. Supply routes can be tracked, attacks timed for when radiators are exposed, and units pressured into spending ammunition. An enemy can also withdraw, making the heavy formation consume its ability to maneuver and its maintenance reserves in pursuit.
 
-[[Combat Doctrine]] begins with what force must preserve. Zhestokost's industrial depth suits operations against ships, yards, routes, and fortified infrastructure whose continued use matters. Armor and sustained fire can isolate defenders, protect engineering teams, and hold a position while disabling or repair work proceeds.
+## Taking Infrastructure Intact
 
-A force able to seize infrastructure without destroying it can also control air, power, movement, repair, and surrender conditions. The [[Worldbuilding/Pre-Elysium/Timeline/Events/Frieden Colony Massacre|Frieden Colony Massacre]] establishes that Zhestokost will destroy a materially viable alternative when its existence threatens command.
+[[Combat Doctrine]] starts by identifying what must survive the use of force. Zhestokost’s manufacturing and support capacity suits operations where ships, yards, routes, or fortified infrastructure must remain usable. Armor and sustained fire can isolate defenders and protect engineering teams while they disable selected systems, carry out repairs, or hold the position.
 
-Capture also exposes the specialization's limits. Heavy fire can damage the systems needed to preserve a prize. Boarding, safing, repair, evidence, custody, and later recognition require skills and authorities that destructive capacity cannot substitute for.
+Seizing infrastructure intact also gives the occupying force control over air, power, movement, and repair. That control shapes the conditions under which people can surrender. Preserving an asset can therefore serve coercion as well as continued operation.
 
-## Conditional PSC Convertibility
+Zhestokost will also destroy a materially viable alternative when its existence threatens command. The [[Worldbuilding/Pre-Elysium/Timeline/Events/Frieden Colony Massacre|Frieden Colony Massacre]] establishes that limit to its willingness to preserve useful infrastructure.
 
-Under [[Restrictions on Warfare]], a bounded operation may be easier for PSC-aligned insurers, ports, clearing systems, and arbitrators to price than uncontrolled destruction. Zhestokost can benefit when it declares an objective, preserves command and weapon records, limits external damage, and leaves captured infrastructure serviceable.
+Heavy weapons alone cannot complete a capture. Their fire may damage the very systems needed to keep the prize usable. Boarding, making equipment safe, repairing it, preserving evidence, establishing custody, and obtaining later recognition each require skills and authority that destructive power cannot supply.
 
-That benefit is conditional. A permit does not authorize every act, telemetry does not prove its own account, and PSC recognition is neither neutral nor universal. Competing records, surrender disputes, corridor damage, and treatment of captives can make an operational victory commercially unusable.
+## Making a Victory Commercially Usable
 
-## Failure Boundary
+Under [[Restrictions on Warfare]], insurers, ports, clearing systems, and arbitrators aligned with the Pan-Solar Consortium (PSC) may find it easier to assess the risks and costs of a limited operation than uncontrolled destruction. Zhestokost can benefit by declaring its objective, preserving command and weapon records, limiting damage beyond the target, and leaving captured infrastructure serviceable.
 
-The doctrine fails when logistics stop converting mass into presence. Ammunition and thermal support, transport, and repair labor and parts are all attack surfaces. Long routes and unfamiliar infrastructure weaken the advantage. Fast opponents can refuse the desired engagement, strike depots, corrupt telemetry, separate escorts from repair capacity, or force heavy units to spend themselves protecting too many objectives.
+None of this guarantees acceptance. A permit does not authorize every act committed during an operation. Telemetry must be assessed rather than treated as proof of its own account, and PSC recognition is neither neutral nor universal. Competing records, disputed surrender, damage to transport corridors, and the treatment of captives can leave Zhestokost holding an operational victory it cannot use commercially.
 
-Zhestokost's specialization works because the state repeatedly pays these costs. It remains vulnerable wherever an opponent can make those costs arrive sooner than its machinery can answer them.
+## Where the Specialization Fails
+
+Heavy equipment remains useful only while supplies and repair support keep it in action. Ammunition, thermal support, transport, repair workers, and spare parts are all vulnerable to attack. Long supply routes and unfamiliar infrastructure make that support harder to provide.
+
+Fast opponents can refuse the engagement Zhestokost wants. They can strike depots, corrupt telemetry, separate escorts from the repair capacity they need, or force heavy units to exhaust themselves defending too many objectives.
+
+Zhestokost repeatedly pays the costs of sustaining this force. Its doctrine fails when an opponent makes demands on ammunition, cooling, movement, and repair rise faster than the state can meet them.
