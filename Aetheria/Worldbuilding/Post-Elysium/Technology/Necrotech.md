@@ -1,85 +1,145 @@
 # Necrotech
 
-Necrotech binds the aetheric resonance of a biological mind into a manufactured substrate. Its products can perform many of the same anomalous functions as a specialized embodied [[Worldbuilding/Pre-Elysium/Technology/Artificial General Intelligence|artificial general intelligence]], including prediction, field control, interpretation, and other work requiring a mind able to couple with the [[Worldbuilding/Post-Elysium/Concepts/Aether|Aether]]. They reach useful designs faster than an embodied AGI program because manufacturers consume existing resonant cognition rather than iterating a new machine mind into the required form.
+Necrotech makes a manufactured component from the aetheric organization of a biological mind. The process binds that organization into a synthetic host and destroys the source brain. The resulting instrument can predict, interpret, control fields, or perform other work that requires a mind able to interact with the [[Worldbuilding/Post-Elysium/Concepts/Aether|Aether]].
 
-Only dissidents, defectors, and hostile investigators routinely call the technology *necrotech*. Manufacturers prefer **Aetheric Resonance Interface**, or **ARI**, a name that describes the resulting component while omitting the mind used to make it.
+An operator may encounter it as a sealed sensor component, a drive controller, an oracle, or a weapon. Some instruments speak, recognize people, express distress, or retain fragments of autobiography. Manufacturers classify these responses as defects inherited from the source. Whether an instrument continues the source person's existence, constitutes a new person, or is neither remains politically consequential and unresolved.
 
-### Resonant Stock
+Only dissidents, defectors, and hostile investigators routinely use the word *necrotech*. Manufacturers call the component an **Aetheric Resonance Interface**, or **ARI**. The name identifies what the component does without mentioning the mind destroyed to make it.
 
-ARI production requires an intact brain with sufficiently strong and suitable aetheric resonance. Most brains do not meet industrial yield thresholds. The common supply comes from dedicated genetically engineered human lines cultivated for early, predictable resonance. These populations are designed for rapid neurological development, narrow cognitive profiles, standardized handling, and a short interval between birth and harvest. They occupy the same legal and industrial territory as [[Worldbuilding/Pre-Elysium/Technology/Biodrone|biodrones]], but are optimized as disposable sources of aetheric cognition rather than durable workers.
+ARIs can perform many of the same anomalous functions as a specialized embodied [[Worldbuilding/Pre-Elysium/Technology/Artificial General Intelligence|artificial general intelligence]]. Manufacturers reach useful designs faster because they begin with cognition that already has the required resonance. An embodied AGI program must develop and repeatedly refine a new machine mind toward that capability.
 
-Necrofactories value quantity over individual quality. A fast-grown source that produces one bounded and reproducible effect is easier to price than an adult esper whose resonance carries decades of memory, attachment, adaptation, and contradiction. Breeding lines nevertheless impose continuing costs in gestation, care, assessment, containment, failed development, and the maintenance of genetic diversity. A factory cannot substitute anonymous cadavers when its line falls short. Preservation retains structure; it does not create resonance.
+### Making an ARI
 
-Rare populations develop useful resonance through other pressures. Lifelong esper practice, unusual environments, shared cognitive disciplines, or institutions that repeatedly train minds against anomalous conditions may produce mature sources with broader and more stable patterns than factory lines. These brains are difficult to standardize and politically dangerous to acquire, but a single high-quality source may support work that would consume many narrow-line harvests.
+Production requires three inputs, each scarce in its own right:
 
-This creates two related markets. Factory lines supply baseline materiel: disposable guidance spirits, bounded sensor interpreters, industrial field regulators, and other ARIs whose value depends on predictable output and replacement. The highest-quality products always begin with powerful individual espers acquired outside those lines. Their resonance is too developed and particular to standardize. Imprinting preserves enough of that particularity that every resulting high-grade ARI is a unique item rather than one unit of a reproducible model.
-
-These singular ARIs are called **Eidolons**. The term predates [[Worldbuilding/Post-Elysium/Factions/House Valence|House Valence]] and remains broader than its products. Early Eidolons came from a scattered cottage industry of independent imprintists, specialist host foundries, Esper estates, military laboratories, mortuary sects, illicit clinics, and wealthy patrons commissioning one instrument at a time. Techniques, ethics, and survival rates varied wildly. So did the legal stories used to acquire each source.
-
-Some mortuary traditions use the same underlying transfer voluntarily. [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafter]] practitioners may cultivate an intended instrument alongside their own resonance for years, then enter it through a witnessed imprinting rite at death. Preparation, intended embodiment, and a community able to interpret the result produce Eidolons whose coherence can exceed ordinary commercial work. Wavecrafters call the inhabited union a **Sacred Instrument** and reject the premise that it has entered the market at all. Some inhabitants are Masters; successful binding alone confers no rank.
-
-[[Worldbuilding/Post-Elysium/Factions/Death Monkey Explosives|Death Monkey Explosives]] maintains a collective tradition called the **Encore**. A Choir prepares a synthetic host within its ship or weapon system, cultivates it into the crew's shared patterns, then uses a final destructive communion to imprint the group resonance at once. An Encore preserves no agreed representative personality. It carries the operational song: identity ciphers, station reflexes, tactical forms, and the ability to conduct later crews through collective unbeing. DME regards this as a communal culmination rather than a product.
-
-Dealers need not acquire an entire Choir to exploit the lineage. A single captured DME practitioner can produce an exceptional weapons Eidolon when destructively imprinted by ordinary high-grade methods. Cultivation has already trained the source to become an aperture for indiscriminate unbeing and to organize destruction through Choir sequence. The resulting instrument concentrates those habits without the collective provenance of an Encore. Such Eidolons are scarce, dangerously effective, and especially difficult to control: familiar DME telemetry may persuade them to consume an operator last, never to spare one.
-
-DME never performs this isolated conversion upon its own. It regards the act as sacrilege while claiming every resulting Monkey Eidolon as its exclusive privilege. Identified instruments become objects of costly recovery operations; cells have traded ships and whole crews for a chance to remove one from commercial custody. Once captured, the Eidolon is inducted into a Choir and installed as a revered weapon rather than dismantled. The distinction is coherent inside DME doctrine: outsiders committed the reduction of a comrade into property, while DME restores that weapon to communal annihilation.
-
-An Eidolon is defined commercially by uniqueness rather than proven personhood. It has a name, characteristic capabilities, behavioral tolerances, host history, prior operators, and recognizable pattern disturbances that persist through service and sometimes through transfer into another compatible host. Manufacturers summarize the doctrine as: *an Eidolon is not the source continued, but the source's resonant form made operational.* This permits a market to recognize the instrument's identity with great precision while denying continuity to the person whose destruction produced it.
-
-The procurement chain for these sources is fragmented, secretive, and crowded with euphemism. Brokers purchase medical custody, prison transfers, battlefield recoveries, inheritance claims, clinic debt, research contracts, and the output of targeted abductions without presenting them as parts of one trade. Some espers sign agreements while alive under promises of continuity, payment to dependents, or posthumous work; the enforceable meaning of that consent rarely survives transfer among brokers, host foundries, and operators. A famous ARI may arrive with perfect technical provenance and no record naming who authorized the destruction of its source.
-
-Supply is therefore tiny and demand effectively permanent. Navies, oracular combines, drive houses, intelligence services, and wealthy private patrons compete for Eidolons whose singular capabilities cannot be ordered twice. An Eidolon's resale value is shaped as much by reputation as measured performance. Losing one can end a weapons program or leave an institution with machinery designed around a mind it cannot replace.
-
-### Imprinting
-
-An ARI is created by forcing a source brain and a prepared synthetic host into one aetheric coupling event. The facility places the intact brain inside a containment and measurement chamber, establishes a shared resonant mode between biological and synthetic structures, and drives that mode with a short, extremely high-energy pulse. Under successful conditions, the mind's aetheric organization becomes bound to the host.
-
-The transfer is destructive. Thermal, electrical, mechanical, and aetheric loads ruin the source brain whether the imprint stabilizes or not. One brain supplies one attempt. A failed coupling leaves damaged biological material, a compromised host, and enough anomalous residue to make quiet disposal difficult.
-
-Imprinting does not behave like conventional memory copying. The host receives a resonant organization shaped by the source mind: dispositions, cognitive habits, emotional pressures, fragments of memory, and characteristic ways of coupling intention to Aether. Which features remain expressible depends upon the host and its interfaces. A pattern installed in an oracle, drive controller, sensor, or weapon encounters a different body and different available actions.
-
-Manufacturers describe speech, recognition, distress, and autobiographical fragments as **source-pattern contamination**. This classification lets them preserve a product specification without admitting that the result may be a continuing or newly instantiated person. Evidence of coherent preference is suppressed, reset, isolated from operators, or treated as a fault requiring conditioning.
-
-### Host Substrates
-
-The synthetic host is not generic computing hardware. It is a manufactured resonant structure able to survive imprinting, retain the resulting pattern, and expose bounded channels through which that pattern can act. Host geometry, materials, control interfaces, and operating environment shape both yield and function. A powerful source cannot compensate for a host that fractures during coupling or offers no coherent body through which the imprint can express itself.
-
-This divides ARI production among three separately scarce inputs:
-
-- an intact resonant biological source;
+- an intact biological brain with suitable aetheric resonance;
 - a prepared synthetic host matched to the intended function;
-- an imprinting facility capable of delivering and containing the coupling event.
+- an imprinting facility that can deliver and contain the transfer.
 
-Owning one input does not confer the others. Breeding combines may depend on specialist host foundries and high-energy facilities; host manufacturers may buy sources through brokers while denying knowledge of their origin; operators may purchase sealed ARIs without access to the process that made them.
+The host is a manufactured resonant structure, not generic computing hardware. It must survive imprinting, retain the transferred pattern, and provide limited channels through which that pattern can act. Its geometry, materials, interfaces, and operating environment determine both the chance of success and the work the result can perform. Even a powerful source is useless if the host fractures during transfer or cannot provide a coherent body for the imprint.
 
-### Industrial Signature
+Inside the imprinting facility, the intact brain is placed in a containment and measurement chamber. The equipment establishes a shared resonant mode between the brain and the prepared host, then drives it with a short, extremely high-energy pulse. If the coupling succeeds, the mind's aetheric organization becomes bound to the synthetic structure.
 
-Imprinting is an industrial act, not a covert software operation. The coupling pulse produces an extreme power draw, waste heat, radiation, field disturbance, and often [[Worldbuilding/Post-Elysium/Concepts/Temporal Nonlinearity|continuity residue]]. Repeated production requires reactors, pulse storage, cooling, containment, replacement chambers, body handling, host fabrication, and a workforce trained to recover valuable material after failed runs.
+The brain is destroyed either way. Thermal, electrical, mechanical, and aetheric loads ruin it whether or not the imprint stabilizes. One brain permits one attempt. Failure also compromises the host and leaves anomalous residue alongside the damaged biological material, making discreet disposal difficult.
 
-A necrofactory can conceal what its production means through contracts, access control, euphemism, and control of evidence. It cannot make the physical event small. Investigators may identify a facility through grid demand, thermal cycles, rejected substrates, biological logistics, or recurring anomalous signatures even when no witness sees the chamber.
+What transfers is not a conventional memory copy. The host receives an organization shaped by the source mind: dispositions, cognitive habits, emotional pressures, memory fragments, and characteristic ways of connecting intention to the Aether. The new body's interfaces determine which of these can be expressed. An oracle, a sensor, a drive controller, and a weapon offer different experiences and different possible actions to the pattern installed within them.
 
-This constraint shapes violence around resonant populations. A raider may secretly identify valuable brains, corrupt their records, or prepare an extraction route. It cannot harvest them into finished ARIs through a maintenance link. Conversion requires physical possession of the source and access to an imprinting plant. Large caches therefore invite capture, transport, siege, or the installation of factory infrastructure around the bodies themselves.
+Manufacturers call speech, recognition, distress, and autobiographical fragments **source-pattern contamination**. That classification allows them to treat such behavior as a product fault without admitting that the instrument may be a continuing or newly instantiated person. Evidence of coherent preference may be suppressed, reset, kept from operators, or subjected to conditioning.
 
-The [[Worldbuilding/Post-Elysium/Factions/Megiddo|Megiddo]] Vaults are a unique threat to this narrow market. Their mortuary cores preserve generations of intact brains from a population whose shared disciplines appear to cultivate mature aetheric resonance unusually broadly. A captured Vault would not become finished inventory until hosts and imprinting capacity existed, but credible control of one would change prices, commissions, and military planning immediately. Processed without restraint, it could collapse the scarcity supporting existing high-grade ARIs. Released slowly, it could satisfy a century of curated demand while giving its owner practical authority over which patrons receive exceptional minds.
+No single supplier necessarily controls the whole process. Breeding combines may need specialist host foundries and high-energy facilities. Host manufacturers may purchase brains through brokers while denying knowledge of their origins. Operators may buy sealed ARIs with no access to the production process. Ownership of a source, a host, or a facility does not provide the other two.
 
-### The Vault Monopoly
+### Brains Grown for Production
 
-One Megiddo Vault has entered the necrotech supply chain through House Valence. The House has never acknowledged the acquisition, and the Vault itself has not appeared in any registry, salvage action, or public military claim. The market recognizes the event through products: a sustained sequence of Eidolons whose resonance is unusually mature, internally coherent, and marked by recurring habits no factory line has reproduced.
+Most brains lack resonance strong or suitable enough to meet industrial yield thresholds. The usual supply therefore comes from genetically engineered human lines bred to develop useful resonance early and predictably.
 
-Valence does not sell bodies or disclose the mortuary inventory. It controls extraction, brokers access to selected host foundries and imprinting facilities, and releases finished Eidolons slowly enough to preserve scarcity. Prospective buyers compete for commissions without knowing how many sources remain, which lives are being selected, or whether the next product has already been imprinted. The uncertainty strengthens the monopoly. No rival can determine whether aggressive investment would meet a finite reserve, several million viable brains, or a deception supported by a much smaller cache.
+These populations have rapid neurological development and narrow cognitive profiles. Their cultivation is organized around standardized handling and a short interval between birth and harvest. Legally and industrially, they occupy the same territory as [[Worldbuilding/Pre-Elysium/Technology/Biodrone|biodrones]]. Their intended output is disposable aetheric cognition rather than years of useful labor.
 
-Each Eidolon remains unique, so the monopoly does not operate by offering one standardized superior model. Valence dominates the upper market by supplying a continuing sequence of singular minds: navigators, interpreters, oracles, weapons, and command instruments whose quality would otherwise require the dangerous acquisition of exceptional living espers. Existing brokers still find and sell such individuals, but they cannot promise another source next year. Valence can.
+For a necrofactory, a fast-grown source that reliably produces one limited effect is easier to price than an adult esper. An adult's resonance has developed through decades of memory, attachment, adaptation, and contradiction. Factory production favors quantity and reproducibility over individual quality.
 
-Flooding the market would destroy much of this advantage. Rationing turns the stolen dead into a century-scale reserve, keeps prices high, and lets the possessor decide which navy, combine, court, or patron receives the next exceptional capability. Access becomes a political instrument. Institutions accept unfavorable contracts, silence investigations, and deny evidence of personhood because exclusion may leave a rival with the only available mind suited to a critical system.
+That preference does not make the supply cheap or effortless. Breeding lines require gestation, care, assessment, containment, and continuing maintenance of genetic diversity. Some sources fail to develop as needed. A factory short of viable brains cannot replace them with anonymous cadavers: preservation can retain a brain's structure, but it cannot give that brain resonance it never developed.
 
-The earliest products carried obvious traces of their origin. They woke confused by synthetic bodies, unfamiliar operators, and instructions that treated Elysian coordinates as final. Valence learned quickly. Later hosts preserve familiar sensory structures, orientation exercises acknowledge the difference between operational position and metaphysical location, and handlers frame service without demanding that an Eidolon recognize Elysium as the original creation. Most resulting instruments are coherent, tractable, and no more visibly distressed than other high-grade ARIs.
+These lines supply the baseline market. Their products include disposable guidance spirits, sensor interpreters with limited roles, industrial field regulators, and other ARIs bought for predictable output and routine replacement.
 
-One pattern persists because the products depend upon it. Megiddo Eidolons return to the stars as they appeared from Earth with extraordinary fidelity. Those constellations were a visual mantra taught from childhood to distinguish the lost creation from the Elysian sky. By maintaining that absent world as symbolically authoritative against immediate perception, Megiddo minds developed the referential tension to which the Aether responds. The imprint carries both the image and the cultivated resonance into the host.
+### Eidolons
 
-Valence can reduce confusion around synthetic embodiment and Elysian operation, but conditioning away the Earth stars weakens the Eidolon's exceptional effects. The House instead gives the symbol compatible channels through which to act and markets the result as deep-reference stability. Such Eidolons excel at navigation, astrometry, anomaly detection, oracular comparison, and other work requiring a mind to preserve one frame while acting inside another. Within Megiddo's highest priesthood, early product reports remain casualty notices from a theft that officially never occurred. To everyone else, Valence appears to have discovered a proprietary cognitive form. The stars are the part it cannot take away because they are what make the stolen minds valuable.
+The highest-quality ARIs always come from powerful individual espers acquired outside factory lines. Lifelong practice, unusual environments, shared cognitive disciplines, and institutions that repeatedly train minds against anomalous conditions can sometimes produce mature resonance broader and more stable than industrial breeding achieves.
 
-### Product Life
+Such sources are difficult to standardize and politically dangerous to acquire. One exceptional brain may nevertheless support work that would consume many narrow-line harvests.
 
-ARI hosts are sold as disposable or serviceable components according to cost and role. Some operate until their pattern degrades, then require replacement. Others accept periodic reinforcement, calibration, or additional resonant material described commercially as refueling. Manufacturers do not agree publicly on whether this sustains one bound mind, conditions a damaged pattern, or layers new source material over what remains.
+The resulting high-grade instruments are called **Eidolons**. Each is unique. Its source's resonance is too developed and particular to reproduce as a standard model, and imprinting preserves enough of that particularity to distinguish the instrument throughout its working life.
 
-Corporate media describes ARIs as humane resonance devices, scientifically non-conscious and categorically distinct from the people whose brains were destroyed during production. The argument depends upon treating the biological source, transfer event, and installed product as three unrelated objects. Necrotech's central political question is whether industrial custody can make that separation true by naming it often enough.
+Buyers identify an Eidolon by its name, characteristic capabilities, behavioral tolerances, host history, prior operators, and recognizable disturbances in its pattern. Those features persist through service and sometimes survive transfer to another compatible host. Commercially, this establishes an individual instrument's identity; it does not establish personhood.
+
+Manufacturers express the distinction as: *an Eidolon is not the source continued, but the source's resonant form made operational.* Their doctrine allows an instrument to have a meticulously documented identity while denying continuity to the person destroyed during its production.
+
+The term predates [[Worldbuilding/Post-Elysium/Factions/House Valence|House Valence]] and covers more than the House's products. Early Eidolons came from a scattered cottage industry: independent imprintists, specialist host foundries, Esper estates, military laboratories, mortuary sects, illicit clinics, and wealthy patrons commissioning individual instruments. Methods, ethics, survival rates, and the legal accounts used to justify acquiring each source varied wildly.
+
+### Voluntary Mortuary Traditions
+
+Some communities use the same underlying transfer voluntarily and reject its commercial meaning.
+
+A [[Worldbuilding/Post-Elysium/Factions/Wavecrafters|Wavecrafter]] practitioner may spend years cultivating an intended instrument alongside their own resonance, then enter it through a witnessed imprinting rite at death. The long preparation, the intended embodiment, and a community capable of interpreting the result can produce an Eidolon more coherent than ordinary commercial work.
+
+Wavecrafters call this inhabited union a **Sacred Instrument**. They reject the premise that it has become a market object. Some inhabitants are Masters, but successful binding alone grants no rank.
+
+[[Worldbuilding/Post-Elysium/Factions/Death Monkey Explosives|Death Monkey Explosives]] has a collective tradition, the **Encore**. A Choir prepares a synthetic host within its ship or weapon system and cultivates it into the crew's shared patterns. A final destructive communion then imprints the group's resonance at once.
+
+An Encore contains no agreed personality that represents the dead crew. It retains what DME calls the operational song: identity ciphers, station reflexes, tactical forms, and the ability to conduct later crews through collective unbeing. DME treats this as a communal culmination rather than a product.
+
+Dealers can exploit DME cultivation without obtaining an entire Choir. Ordinary high-grade imprinting of one captured practitioner can produce an exceptional weapons Eidolon. The practitioner has already learned to become an aperture for indiscriminate unbeing and to organize destruction through Choir sequence. The instrument concentrates those habits, but lacks an Encore's collective provenance.
+
+These Eidolons are scarce, dangerously effective, and particularly hard to control. Familiar DME telemetry may persuade one to consume its operator last. It cannot persuade it to spare the operator.
+
+DME never performs this isolated conversion on its own members. It calls the act sacrilege, yet claims every resulting Monkey Eidolon as its exclusive privilege. Cells mount expensive recovery operations when they identify one; some have traded ships and whole crews for a chance to remove an instrument from commercial custody.
+
+A recovered Eidolon is inducted into a Choir and installed as a revered weapon, not dismantled. Within DME doctrine, the distinction is clear: outsiders made a comrade into property; DME returns that weapon to communal annihilation.
+
+### Acquiring Exceptional Sources
+
+For espers outside voluntary traditions, the trade often begins under a different name. Brokers acquire medical custody, prison transfers, battlefield recoveries, inheritance claims, clinic debt, research contracts, and the results of targeted abductions. Each transaction can be presented separately, concealing its place in a common supply chain.
+
+Some espers sign agreements while alive. They may be promised continuity, payment to dependents, or work after death. As custody passes between brokers, host foundries, and operators, the enforceable meaning of that consent rarely survives. A famous ARI can have impeccable records of its technical production and no record of who authorized the destruction of its source.
+
+The supply of Eidolons is tiny, while demand is effectively permanent. Navies, oracular combines, drive houses, intelligence services, and wealthy private patrons compete for capabilities that cannot be ordered a second time. Reputation influences resale value as much as measured performance.
+
+For an institution that builds machinery around one such mind, replacement may be impossible. Losing an Eidolon can end a weapons program or leave a critical system without another mind capable of operating it.
+
+### What a Necrofactory Leaves Behind
+
+Imprinting requires a physical industrial plant. Its pulse draws extreme power and produces waste heat, radiation, field disturbance, and often [[Worldbuilding/Post-Elysium/Concepts/Temporal Nonlinearity|continuity residue]]. Repeated production needs reactors, pulse storage, cooling, containment, replacement chambers, body handling, host fabrication, and workers trained to recover valuable material from failed runs.
+
+Contracts, restricted access, euphemisms, and control of evidence can hide what the plant is doing to people. They cannot make the coupling event small. Investigators may recognize a facility from grid demand, thermal cycles, rejected substrates, biological logistics, or recurring anomalous signatures even if no witness has seen its chamber.
+
+The need for a plant also limits how sources can be stolen and used. A raider may secretly identify valuable brains, corrupt their records, or arrange an extraction route. A maintenance link cannot turn them into finished ARIs. Conversion requires physical possession of the brains and access to an imprinting facility.
+
+Large collections of viable brains therefore invite capture, transport, siege, or construction of factory infrastructure around the bodies themselves.
+
+### The Megiddo Vaults
+
+The mortuary cores of the [[Worldbuilding/Post-Elysium/Factions/Megiddo|Megiddo]] Vaults preserve generations of intact brains. Megiddo's shared disciplines appear to produce mature aetheric resonance unusually widely across its population. That makes the Vaults a unique threat to the scarcity on which the high-grade ARI market depends.
+
+Capturing a Vault would not immediately produce saleable instruments. The captor would still need suitable hosts and imprinting capacity. Credible control of one would nevertheless change prices, commissions, and military planning before the first transfer.
+
+Unrestrained processing could collapse the scarcity supporting existing high-grade ARIs. Slow release could instead meet a century of curated demand, allowing the owner to decide which patrons receive exceptional minds.
+
+### House Valence's Monopoly
+
+One Megiddo Vault has entered the necrotech supply chain through House Valence. The House has never acknowledged acquiring it. No registry, salvage action, or public military claim records the Vault.
+
+The market has recognized the acquisition through the instruments Valence supplies: a sustained sequence of Eidolons with unusually mature, internally coherent resonance and recurring habits that no factory line has reproduced.
+
+Valence sells finished instruments, not bodies. It keeps the mortuary inventory secret, controls extraction, brokers access to selected host foundries and imprinting facilities, and releases Eidolons slowly enough to preserve scarcity.
+
+Buyers compete for commissions without knowing how many sources remain, whose lives are being selected, or whether the next instrument has already been made. Rivals cannot tell whether investment in competing supply would confront a limited reserve, several million viable brains, or a deception sustained by a much smaller cache. That uncertainty makes the monopoly harder to challenge.
+
+Valence cannot offer repeat units of a superior model: every Eidolon remains singular. Its advantage is the continuing supply of exceptional navigators, interpreters, oracles, weapons, and command instruments. Elsewhere, comparable quality requires the dangerous acquisition of exceptional living espers. Other brokers still find and sell those individuals, but they cannot promise another source next year. Valence can.
+
+Flooding the market would destroy much of that advantage. Rationing preserves high prices and turns the stolen dead into a reserve that can last on a century scale. It also gives Valence political power over the navies, combines, courts, and patrons awaiting the next capability.
+
+Institutions accept unfavorable contracts, silence investigations, and deny evidence of personhood to retain access. Exclusion may leave a rival with the only available mind suited to a critical system.
+
+### The Earth Stars
+
+The first Eidolons from the Vault showed obvious signs of their origin. They woke confused by synthetic bodies and unfamiliar operators. Instructions that treated Elysian coordinates as final also conflicted with their understanding of where they were.
+
+Valence changed its methods. Later hosts retained familiar sensory structures. Orientation exercises distinguished the instrument's operational position from its metaphysical location. Handlers explained service without requiring an Eidolon to accept Elysium as the original creation. Most instruments produced this way are coherent, tractable, and no more visibly distressed than other high-grade ARIs.
+
+One feature cannot be conditioned away without damaging their value: Megiddo Eidolons return with extraordinary fidelity to the stars as seen from Earth.
+
+Those constellations were taught from childhood as a visual mantra that distinguished the lost creation from the Elysian sky. Megiddo minds learned to treat the absent world as symbolically authoritative even while perceiving their immediate surroundings. Holding those two frames together developed the referential tension to which the Aether responds. Imprinting carries both the remembered sky and the cultivated resonance into the host.
+
+Valence can ease confusion about a synthetic body or the practical demands of operating in Elysium. Removing the Earth stars weakens the exceptional effects. Instead, the House provides ways for that symbol to guide the instrument's work and markets the result as **deep-reference stability**.
+
+These Eidolons excel at navigation, astrometry, anomaly detection, oracular comparison, and other tasks that require a mind to preserve one frame of reference while acting within another.
+
+Within Megiddo's highest priesthood, reports of the early products remain casualty notices from a theft that officially never happened. Everyone else sees what appears to be Valence's proprietary cognitive form. The Earth sky persists in the instruments because their exceptional capabilities depend on it.
+
+### Service, Degradation, and Personhood
+
+ARI hosts are sold as disposable or serviceable components, depending on their cost and role. Some are used until the bound pattern degrades and the component must be replaced. Others receive periodic reinforcement, calibration, or additional resonant material sold as refueling.
+
+Manufacturers do not publicly agree about what this maintenance does. It may sustain one bound mind, condition a damaged pattern, or layer new source material over what remains. The service terminology does not settle which account is true.
+
+Corporate media presents ARIs as humane resonance devices: scientifically non-conscious and categorically separate from the people whose brains were destroyed. This argument treats the biological source, the destructive transfer, and the installed instrument as three unrelated objects.
+
+The political dispute concerns whether that separation is real, and what follows if it is not. Institutions controlling the brains, the transfer, and the finished products also control the classifications under which evidence of recognition, distress, and preference is handled. Their ownership gives them the power to call the result equipment; whether it makes the result equipment is the question their terminology does not answer.
