@@ -1,62 +1,93 @@
 # Combat Doctrine
 
-A recurring constraint in Aetherian combat doctrine is that infrastructure and inhabited assets may be too valuable or entangled to destroy without also destroying the objective. They remain valuable only while someone can operate and maintain them.
+Combat doctrine is an institution's guidance for deciding when and how to use force. It tells commanders, crews, and automated systems what they are trying to achieve, what they must preserve, and when they must stop.
 
-Doctrine is the decision grammar an institution uses to apply force under that constraint. It identifies what must survive, what evidence justifies action, who may commit it, when it can still change, and what residue remains. [[Worldbuilding/Pre-Elysium/Factions/index|Pre-Elysium]] and [[Worldbuilding/Post-Elysium/Factions/index|post-Elysium factions]] answer differently from their objectives, command structures, logistics, and tolerated costs.
+In Aetheria, destroying an opponent can also destroy the reason for fighting. A habitat may need to remain habitable. A captured installation needs people who can operate and maintain it. Shared infrastructure may be so closely connected to the intended prize that attacking one ruins the other. Doctrine must account for those dependencies before weapons fire.
 
-## Protected Objective
+[[Worldbuilding/Pre-Elysium/Factions/index|Pre-Elysium]] and [[Worldbuilding/Post-Elysium/Factions/index|post-Elysium factions]] approach these decisions differently. Their objectives, command structures, supplies, maintenance capacity, and willingness to accept losses shape what they permit. Doctrine connects those choices to action: what evidence is enough, who may give an order, how long it can be changed, and what remains for survivors and later authorities to assess.
 
-The protected objective states what force must preserve or create. Destroying an opponent may still fail if it ruins the habitat, kills the witnesses, consumes the repair reserve, contaminates the route, or leaves nobody able to operate the prize.
+## What Must Survive
 
-A useful doctrine names the objective, permitted sacrifice, authority to accept loss, and conditions that cancel the mission. [[Restrictions on Warfare]] owns broader limits on violence.
+A mission needs an account of success that goes beyond defeating the opponent. This is its **protected objective**: what the use of force must preserve or bring into being.
 
-## Incomplete Evidence And Staged Commitment
+Destroying an enemy may still mean failure if the attack ruins a habitat, kills needed witnesses, uses up the resources reserved for repair, contaminates a route, or leaves nobody able to operate what has been taken. The objective therefore needs explicit limits. A useful doctrine says what may be sacrificed, who can authorize that loss, and which conditions require the mission to end.
 
-Detection rarely produces certainty before it produces pressure. A contact may be a ship, drone, decoy, damaged hulk, service operation, or attack package. Waiting may improve identification while giving a real opponent time to maneuver. Acting early spends position, secrecy, ammunition, trust, and legal credibility on a claim that may be wrong.
+[[Restrictions on Warfare]] covers the broader limits on violence. Combat doctrine turns the institution's objective and constraints into decisions during an engagement.
 
-Doctrine therefore favors staged commitment. Observation, changed geometry, probes, escorts, warnings, and bounded deployments can improve knowledge or force a response before an irreversible threshold. Useful early actions remain recallable, redirectable, or abortable when evidence stops matching the order.
+## Acting Before Identification Is Certain
 
-Observation retains source, time, confidence, and disagreement. A fused track is a derived estimate rather than a replacement for what separate observers reported. [[Thermal Signature Warfare]] owns the history and politics of forced revelation; [[Thermal Management]] owns the physical heat debt beneath it.
+Crews often have to respond before they know what they have detected. A contact could be a ship, drone, decoy, damaged hulk, service operation, or force prepared to attack. Waiting may clarify its identity, but it may also give an opponent time to maneuver. Acting too soon can waste ammunition, reveal a position, surrender secrecy, and damage trust or legal credibility on the strength of a mistaken identification.
 
-## Authority By Verbs
+Doctrine therefore favors **staged commitment**: taking steps that leave room to learn and change course before an action becomes irreversible. Continued observation, a change in relative position or viewing angle, probes, escorts, warnings, and limited deployments can gather evidence or prompt a revealing response. Useful early actions can still be recalled, redirected, or aborted if new evidence no longer supports the order.
 
-Doctrine may divide authority by action rather than rank alone. Objective selection, weapon release, and a medical or engineering halt need not belong to one person or system.
+The evidence must remain traceable. An observation retains who or what reported it, when it was made, how confident the observer was, and where observers disagreed. A **fused track**, which combines several reports into an estimate of a contact's position and movement, remains an estimate. It does not replace the separate reports from which it was made.
 
-Each delegated action needs bounded inputs, an action or refusal threshold, a challenge or supersession rule, its effect on the wider mission, and any record it leaves.
+[[Thermal Signature Warfare]] explains the history and politics of making another force reveal itself through heat emissions. [[Thermal Management]] explains the underlying heat debt: heat withheld to avoid detection still has to be managed.
 
-Specialist authority does not seize general command. An engineer may isolate a bus without choosing the objective; a medical officer may prohibit acceleration without directing weapons. Command may retain the objective while halting the original plan; if the objective's cancellation conditions are met, the mission ends.
+## Who Can Order, Refuse, Or Halt An Action
 
-## Command To Action
+Authority can be divided by what someone is allowed to do, as well as by rank. Choosing the objective, authorizing a weapon's release, and stopping an unsafe action for medical or engineering reasons need not belong to the same person or system.
 
-An inspectable command chain distinguishes:
+These permissions need limits that others can inspect. For each delegated action, doctrine should specify:
 
-1. an authority states an objective or bounded command;
-2. the order carries identity, scope, time, and applicable conditions;
-3. the receiving operator or system authenticates it and compares it with local evidence;
-4. the local authority accepts, refuses, redirects, or requests clarification within its permissions;
-5. the point after which execution can no longer be recalled or redirected;
-6. whatever record survives execution or interruption.
+- What information the decision-maker may use.
+- What conditions permit action or require refusal.
+- Who may challenge or supersede the decision, and under what rule.
+- What the decision changes for the wider mission.
+- What record, if any, the action leaves.
 
-Lost communication does not turn an old order into timeless authority. Doctrine specifies what local actors preserve when instructions become stale. Automation shortens the chain without abolishing institutional sensors, permissions, classifications, and abort rules.
+A specialist's power to stop one action does not give them command of everything else. An engineer may isolate an electrical bus without choosing the mission's objective. A medical officer may prohibit acceleration without directing weapons.
 
-## Sustain, Withdraw, And Repair
+Command can retain the objective while stopping the plan originally intended to achieve it. If the conditions for cancelling the objective itself have been met, however, the mission ends.
 
-Combat consumes power, attention, parts, and thermal margin. A quiet force accepts limits on activity. An exposed force must protect the systems that sustain output.
+## How An Order Becomes An Action
 
-Damage creates competing clocks. A platform may retain weapons while losing cooling, propulsion, sensing, medicine, or crew capacity. Doctrine identifies what survives next, what can be isolated, and when withdrawal preserves more than continued fire. Repair determines how long force remains present.
+An order has to reach an operator or system that can act on it under the conditions actually present. An inspectable command chain makes each step distinguishable:
 
-## Disable, Capture, Or Destroy
+1. An authorized person or system states the objective or gives a command with defined limits.
+2. The order identifies its issuer, scope, time, and applicable conditions.
+3. The recipient authenticates the order and checks it against local evidence.
+4. Within its permissions, the recipient accepts, refuses, redirects, or asks for clarification.
+5. Execution reaches a point beyond which it can no longer be recalled or redirected.
+6. A record remains, to whatever extent execution or interruption allows.
 
-Capture is a sequence, not a status awarded by successful damage. Force may create pressure by disabling propulsion, sensors, communications, weapons, power, or access to repair. The same act can preserve life or turn shared infrastructure into coercion. Later judgment depends on evidence of what dependency was attacked, who shared it, what surrender path remained, and what action continued after resistance stopped.
+Communication failure does not give an old order unlimited life. Doctrine specifies what local actors must preserve when instructions become stale.
 
-A capture may pass through pressure, terms, authenticated acceptance, safing, physical access, provisional custody, asserted claims, and later institutional decisions. None alone grants the others. Boarding does not manufacture title, and towing does not settle custody. [[Worldbuilding/Post-Elysium/Concepts/Ship Mind Custody|Ship Mind Custody]] owns those divided claims.
+Automation can shorten this chain. It still depends on the institution's sensors, permissions, ways of classifying what is happening, and rules for aborting an action.
 
-Targets and escorts can interrupt capture by segmenting controls, protecting service paths, breaking attachment, preserving surrender, evacuating people, or restoring enough authority to escape.
+## Keeping A Force Able To Continue
 
-## Inspectable Residue
+Firing weapons is only one demand on a force. Combat also consumes power, attention, parts, and the remaining capacity to absorb or reject heat. A force trying to remain quiet must limit its activity. Once exposed, it must protect the systems that allow it to keep operating.
 
-Combat leaves operational records, testimony, possession, and claims. Combatants preserve, conceal, corrupt, or dispute them. Evidence does not replace force; it affects whether later institutions recognize custody, payment, passage, rescue, piracy, or liability.
+Damage makes some failures more urgent than others. A platform may still have working weapons while its cooling, propulsion, sensors, medical capability, or crew capacity deteriorate. Doctrine guides which systems must be kept working next, which damaged systems can be isolated, and when withdrawal preserves more than continued fire.
 
-Later review is stronger when records preserve provenance, transformations, gaps, disagreement, and custody. A receiving office considers that evidence for a bounded purpose rather than discovering one official history. Post-Elysium continuity damage makes this distinction sharper. A [[Worldbuilding/Post-Elysium/Reference/Continuity Admissibility Finding|continuity admissibility finding]] permits a named receiver to consider contaminated evidence; it does not settle truth or command the outcome.
+Repair capacity determines how long a force can remain present. An engagement also draws on maintenance, trust, and legal standing, and can put the continuity of the minds making its decisions at risk.
 
-Combat doctrine remains the practice of choosing what must survive the application of force. Every engagement spends more than ammunition. It spends heat, attention, maintenance, trust, legal standing, and sometimes the continuity of the minds asked to decide.
+## Disabling And Taking A Target
+
+Disabling a target can put it under pressure to surrender. An attacker may damage propulsion, sensors, communications, weapons, power, or access to repair. Depending on what is disabled and who depends on it, the same action can preserve life or use shared infrastructure to coerce everyone reliant on it.
+
+Later judgment depends on evidence of the actual intervention: which dependency was attacked, who shared it, whether a path to surrender remained, and what the attacker continued doing after resistance stopped.
+
+Successful damage does not by itself complete a capture. Taking a target may involve several distinct steps:
+
+- Applying pressure.
+- Offering terms.
+- Receiving acceptance whose authenticity can be checked.
+- Safing weapons or other dangerous systems.
+- Gaining physical access.
+- Establishing provisional custody.
+- Asserting claims.
+- Obtaining later institutional decisions about those claims.
+
+Completing one step does not automatically grant the others. Boarding a vessel does not establish ownership. Towing it does not settle who is entitled to hold it. [[Worldbuilding/Post-Elysium/Concepts/Ship Mind Custody|Ship Mind Custody]] explains how these claims divide when the vessel is also an embodied mind.
+
+Targets and escorts can interrupt a capture at different points. They may separate controls so that gaining access to one does not provide access to all, protect access needed for servicing, break an attachment, keep surrender possible, evacuate people, or restore enough control to escape.
+
+## What Later Authorities Can Establish
+
+Combat leaves records, witnesses, physical possession, and competing claims. Combatants may preserve that evidence, conceal it, corrupt it, or dispute it. Evidence cannot take the place of force, but it affects what later institutions recognize: custody, entitlement to payment, passage, rescue, piracy, or liability.
+
+Review is stronger when the record shows where evidence came from, how it was altered or combined, what is missing, where accounts disagree, and who has held it. Each receiving office considers that material for a particular decision. It does not thereby establish a single official history of the engagement.
+
+Post-Elysium damage to continuity makes that limit especially important. Records may contain incompatible accounts that remain individually credible. A [[Worldbuilding/Post-Elysium/Reference/Continuity Admissibility Finding|continuity admissibility finding]] allows a named recipient to consider such contaminated evidence for a specified purpose. It neither settles what truly happened nor dictates the recipient's decision.
