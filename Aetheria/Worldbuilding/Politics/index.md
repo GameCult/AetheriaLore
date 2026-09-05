@@ -5,13 +5,11 @@ description: "Politics in Aetheria is the administrative language of violence: w
 
 # Politics
 
-*"Stability was never peace, only the accounting format chosen for violence."*
+In late Sol, corporations exercise governing power. Political institutions regulate competition between them while avoiding the question of whether corporations should hold that power at all. For ordinary people, their decisions determine access to necessities, whether someone can move without entering debt bondage, whose consciousness has rights, and who is classified as a threat before they can organize.
 
-Politics in late Sol is the struggle to govern corporate sovereignty without ever admitting that corporate sovereignty is the problem. The central institutions of the age do not abolish competition. They meter it. They convert open war into priced risk, rebellion into insurable disruption, and social breakdown into something that can still be entered on a balance sheet.
+The same institutions decide which conflicts are legitimate and what combatants may destroy. They do not end corporate competition or open warfare. They assign prices to the risks of war, treat rebellion as a disruption that can be insured against, and account for social breakdown as financial loss. The aim is to keep instability within limits that allow the market order to continue—and its participants to believe it will continue.
 
-Politics in Aetheria is the operational language through which institutions decide what may be destroyed, who may move, which conflicts count as legitimate, and how much instability a market order can absorb without losing faith in its own continuity. For ordinary people, that order is felt through access to necessities, recognition, and exit: who can move without debt bondage, whose consciousness counts as a rights-bearing subject, and who gets classified as a threat before they can organize. It is not a layer floating above material life. It is the way material life gets administered.
-
-This branch tracks the doctrines, constraints, and enforcement systems that keep violence, logistics, and sovereignty legible to powers that cannot afford open collapse.
+This branch covers the rules, military practices, and enforcement systems that serve that aim. It follows how governing powers track and regulate violence, the movement of supplies, and claims to authority because they cannot afford an open collapse of the system they depend on.
 
 ## Administrative Order
 

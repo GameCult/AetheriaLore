@@ -7,9 +7,9 @@ description: "Political movements in late Sol form wherever personhood, labor, s
 
 *"When recognition is rationed, politics begins by naming the thing they call property."*
 
-Movements in Aetheria are how populations, professions, species blocs, and aspirational classes try to force history in directions the formal order will not permit on its own. Some seek liberation. Some seek inclusion inside hierarchy. Some exist to intensify exclusion or restore a cleaner version of domination.
+Political movements in late Sol organize people around changes that established authorities will not make on their own. They bring together communities, professions, species blocs, and people seeking a higher social position. Their goals differ: some seek liberation, some want a place within the existing hierarchy, and others want to exclude more beings or restore an older, supposedly purer form of domination.
 
-This branch works best as a political weather map. Its entries show what people organize around when personhood becomes conditional, labor becomes cognitively extractive, and embodiment becomes a regulated market tier rather than a stable given.
+The movements below respond to conflicts over who counts as a person, who profits from the work of another mind, and who can obtain or alter a body. Recognition as a person can come with conditions. Mental labor can be exploited. The bodies available to someone can depend on market tiers and regulation. These entries trace what different groups try to change—or defend—under those conditions.
 
 ## Labor And Liberation
 

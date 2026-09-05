@@ -5,11 +5,9 @@ description: "The pre-Elysium technical stack that reshaped cognition, embodimen
 
 # Technology
 
-*"Every efficiency gain arrived carrying a new permission structure for the human mind."*
+These notes cover the technologies that changed how people thought, inhabited bodies, extracted resources, governed, and fought wars during the pre-Elysium age. In late Sol, using these systems also meant living under the institutions that financed and deployed them. Each gain in efficiency brought new rules about what people could do with their minds.
 
-Technology in late Sol is never neutral equipment waiting for a user. It is capital investment, regulatory struggle, labor discipline, maintenance burden, and a claim about which kinds of life deserve to be efficient, legible, or profitable. The systems collected here are best read together with the institutions that deploy them and the populations forced to adapt.
-
-This branch tracks the technical stack that transformed embodiment, cognition, extraction, governance, and warfare across the pre-Elysium age.
+Investment decisions and struggles over regulation shaped how these technologies were used. Institutions used them to discipline workers, while keeping them running required continuing maintenance. Their use also expressed judgments about which kinds of life deserved resources to become more efficient, easier for institutions to classify and manage, or profitable. Read the technical accounts alongside the institutions deploying each system and the people required to adapt to it.
 
 ## Cognition And Control
 

@@ -7,9 +7,9 @@ description: "Pre-Elysium is the long age of extraction, automation, stratified 
 
 *"Every frontier arrived already collateralized."*
 
-Pre-Elysium is the long age in which humanity reorganized Sol around extraction, logistics, predictive governance, and increasingly unstable arguments about what kinds of minds deserved recognition. It is the era where most of Aetheria's institutions first harden into familiar shape.
+Pre-Elysium is the long period of Aetheria's history before Elysium, when humanity colonized Sol—the Solar System—and established most of the setting's familiar institutions. Extracting resources and moving goods became central to how society was organized. Automation changed work, while governments and institutions increasingly used predictions to govern people's lives. Arguments over which kinds of minds deserved recognition as persons grew less settled, leaving different minds with unequal standing.
 
-Read this branch as a linked history of colonization, automation, stratified personhood, and managed decline. The later metaphysical crises only make sense because this older order spent centuries translating every breakthrough into dependency, hierarchy, and market leverage.
+The linked histories below follow centuries in which institutions turned each breakthrough into new dependencies, reinforced hierarchies, and bargaining power in markets. They also trace how those institutions managed decline. This history matters to the later crises over the nature of reality: humanity entered them with an established order that had spent centuries making technological advances serve those relationships of power.
 
 ## Historical Foundations
 

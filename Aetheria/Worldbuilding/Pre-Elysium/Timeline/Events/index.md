@@ -3,6 +3,10 @@ title: Historical Events
 description: "Named conflicts, scandals, strikes, and settlements in pre-Elysium Sol."
 ---
 
+# Historical Events
+
+This index lists conflicts, scandals, strikes, and settlements in pre-Elysium Sol, grouped by era. Each link leads to an account of the event. See [[Worldbuilding/Pre-Elysium/Timeline/index|Timeline]] for the era sequence.
+
 ### Age of Automation (2100-2250)
 
 - [[Worldbuilding/Pre-Elysium/Timeline/Events/Terra Cimmeria Seizure|Terra Cimmeria Seizure]] (2160-2163)
@@ -39,5 +43,3 @@ description: "Named conflicts, scandals, strikes, and settlements in pre-Elysium
 - [[Worldbuilding/Pre-Elysium/Timeline/Events/Triton Sanctuary Accords|Triton Sanctuary Accords]] (2994)
 - [[Worldbuilding/Pre-Elysium/Timeline/Events/Neural Network Defense Campaign|Neural Network Defense Campaign]] (3001-3007)
 - [[Worldbuilding/Pre-Elysium/Timeline/Events/Arete Program Consolidation|Arete Program Consolidation]] (3008-3019)
-
-See [[Worldbuilding/Pre-Elysium/Timeline/index|Timeline]] for the era sequence.

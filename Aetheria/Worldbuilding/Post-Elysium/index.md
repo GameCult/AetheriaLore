@@ -5,11 +5,9 @@ description: "Post-Elysium follows the solar order after the rupture, where stra
 
 # Post-Elysium
 
-*"The old order survived the rupture by learning new metaphysics faster than it learned humility."*
+Post-Elysium is the era after the rupture, the discontinuity that separates the old solar order from the future it expected to build. Matter, minds, and reality can now interact in unfamiliar ways, making technologies possible that appear miraculous. The old political habits survive into these changed conditions.
 
-Post-Elysium begins after the discontinuity that severs the old solar order from the world it thought it was building. Reality grows stranger here, but not cleaner. New substrates, altered ontologies, and apparently miraculous technologies do not abolish older political habits. They give those habits new surfaces to operate on.
-
-Use this branch to follow how Aetheria's recurring pressures return under sharper conditions. Consciousness remains disputed, bodies remain mutable without guaranteed liberation, and power keeps translating new capabilities into fresh systems of dependence.
+This branch follows what those changes mean for people's lives. Bodies can be altered without making their inhabitants freer. Disputes over what counts as consciousness continue. Those who control new capabilities use them to create new dependencies, carrying Aetheria's recurring struggles into a world where they have more powerful means to pursue them.
 
 ## First Orientations
 
