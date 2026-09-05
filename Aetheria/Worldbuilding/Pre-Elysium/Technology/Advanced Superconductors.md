@@ -1,27 +1,37 @@
 # Advanced Superconductors
 
-Advanced superconductors carry current without ordinary resistive loss while they remain inside a bounded operating envelope. Temperature is only one limit. Magnetic field, current density, mechanical strain, radiation damage, contamination, and microscopic defects can each push a material out of its superconducting state.
+Advanced superconductors are materials that carry electric current without ordinary resistive loss, provided they stay within their operating limits. They allow equipment to carry high currents or produce strong magnetic fields in limited mass and space.
 
-The useful technology is therefore not a miraculous strand of material. It is a complete coil assembly: conductor, structural reinforcement, insulation, joints, sensors, current leads, protection circuits, cooling interfaces, and a mechanical design able to survive the forces created by its own field. Better materials allow stronger or more compact systems, but every application still has to hold the assembly inside its limits.
+[[Fusion]] systems use superconducting coils to help confine plasma and support compact power equipment. The [[Soliton Drive]] uses the same materials lineage in its reactor systems and in magnetic nozzles that shape the exhaust. Dense computation, scientific instruments, industrial motors, power switching, and some neural or medical systems also benefit from this combination of current capacity, field strength, and compactness.
 
-## Operating Envelope
+## Keeping a Coil Working
 
-Superconducting systems are designed around critical boundaries. Raising current increases field and mechanical load. External fields reduce the remaining margin. Thermal cycling works joints and interfaces. Manufacturing defects can concentrate current or stress in places that appear acceptable during ordinary operation.
+A usable superconducting coil needs much more than the conductor. Structural reinforcement holds it against the forces created by its own magnetic field. Insulation, joints, current leads, sensors, protection circuits, and cooling interfaces let it carry current, shed heat, and respond to faults. Better materials can make the system stronger or smaller, but the whole assembly must remain within its limits.
 
-If part of a conductor leaves the superconducting state, its electrical resistance returns and the current begins producing heat. That heat can drive adjacent material normal, spreading a **quench** through the coil. Protection systems must detect the transition, divert or dissipate stored energy, and reduce current before local heating damages insulation, joints, or structure.
+Those limits are collectively called the **operating envelope**. Temperature is only one boundary: magnetic field, current density, mechanical strain, radiation damage, contamination, and microscopic defects can each cause the conductor to lose superconductivity.
 
-A successful protection cycle may still leave the machine unavailable. Inspectors must determine whether the event began with an operating excursion, a damaged joint, contamination, fatigue, or a hidden fabrication flaw. A fusion plant or ship can retain an intact reactor and still lose service while a coil is warmed, inspected, repaired, recooled, and certified.
+The boundaries interact. Increasing current strengthens the field and raises the mechanical load. An external magnetic field leaves less room for the coil's own operating field. Repeated warming and cooling stresses joints and interfaces. A manufacturing defect may concentrate current or stress at one point, even when ordinary operation gives no sign of trouble.
 
-## Applications and Thermal Burden
+## When Superconductivity Fails
 
-[[Fusion]] systems use superconducting coils where high magnetic fields help confine plasma or support compact power equipment. The [[Soliton Drive]] applies the same materials lineage to reactor systems and magnetic nozzles that shape exhaust. Dense computation, scientific instruments, industrial motors, power switching, and some neural or medical systems also benefit when high current or field strength must fit inside limited mass and volume.
+When a section of conductor loses superconductivity, electrical resistance returns. Current flowing through that section produces heat, which can make neighboring material lose superconductivity too. This spreading failure is called a **quench**.
 
-Reduced electrical loss does not remove cooling demand. Coils still receive heat through radiation, conduction, joints, changing fields, nearby machinery, and a quench. The reactor, drive, computer, or implant also produces waste heat elsewhere. [[Thermal Management]] governs how that heat is circulated, stored, and rejected. [[Rossum & Douglas]] supplies circulation hardware and failure certification in many insurer-grade installations; it does not own the superconducting material itself.
+Protection systems must detect the change, divert or dissipate the coil's stored energy, and reduce current before concentrated heat damages insulation, joints, or structure. Preventing damage does not necessarily keep the machine in service. A fusion plant or ship may have an intact reactor and still be unavailable while a coil is warmed, inspected, repaired, recooled, and certified.
 
-## Fabrication and Control
+Inspectors must establish what started the event: operation beyond the permitted limits, a damaged joint, contamination, fatigue, or a hidden fabrication flaw. Until that cause is understood and addressed, successful emergency protection is only part of the recovery.
 
-[[Cryonix]] supplies premium superconducting materials, coil fabrication tolerances, clean processing, inspection, and certification. Its leverage comes from selling reliable operating margin and records that insurers, yards, and procurement offices will accept. Cryonix does not own the fusion reactor, drive, computer, or implant built around its materials.
+## Cooling Still Matters
 
-Alternative conductors and coil assemblies persist through other industrial yards, local manufacturers, recovered production knowledge, and gray markets. They may trade compactness or certified margin for repairability, availability, or independence. Certification matters because a flaw can remain invisible until current, field, and strain combine under load; restricted inspection and repair capacity can ground otherwise serviceable infrastructure.
+Superconductivity removes ordinary resistive loss in the conductor; it does not remove the assembly's heat load. Radiation and conduction bring heat into coils. Joints, changing fields, nearby machinery, and quenches also add heat. The reactor, drive, computer, or implant around the conductor produces waste heat of its own.
 
-By 3025, Cryonix materials formed one layer of the Mars assembly described in [[Worldbuilding/Pre-Elysium/Timeline/FTL Trigger|FTL Trigger]]. Their precise function is not established in surviving accounts. They did not provide its field geometry, grid power, vessel design, or the cause of the shunt into Elysium.
+[[Thermal Management]] covers how this heat is circulated, stored, and eventually rejected. [[Rossum & Douglas]] supplies circulation hardware and failure certification in many installations built to insurer-accepted standards. It does not own the superconducting material itself.
+
+## Materials, Inspection, and Access
+
+[[Cryonix]] supplies premium superconducting materials and the fabrication tolerances, clean processing, inspection, and certification needed to use them reliably. Customers pay for a dependable margin between normal operation and failure, along with records that insurers, yards, and procurement offices will accept. Cryonix's influence comes from controlling access to those materials and services; the reactor, drive, computer, or implant remains outside its ownership.
+
+Other industrial yards, local manufacturers, recovered production knowledge, and gray markets sustain alternative conductors and coil assemblies. These may sacrifice compactness or certified operating margin to gain repairability, availability, or independence.
+
+Inspection and certification matter because a flaw can stay hidden until current, magnetic field, and strain combine under load. Access to qualified inspection and repair therefore affects whether equipment can return to service. Restricted capacity can ground infrastructure that would otherwise be serviceable.
+
+By 3025, Cryonix materials formed one layer of the Mars assembly described in [[Worldbuilding/Pre-Elysium/Timeline/FTL Trigger|FTL Trigger]]. Surviving accounts do not establish their precise function. They did not supply the assembly's field geometry, grid power, or vessel design, and they did not cause the shunt into Elysium.
