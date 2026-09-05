@@ -4,8 +4,10 @@
 **Location:** Main Belt, Jovian approaches, Lagrange habitat chains  
 **Primary actors:** [[Aeronautics Unlimited]], [[Orbital Forge]], [[SolEx]], [[Pan-Solar Consortium]], independent habitat builders
 
-The [[Bloom Expansion Conflicts]] were less a single war than a rolling series of permit disputes, sabotage campaigns, enclosure fights, and standards battles over who would control the explosive growth of cavity-habitat civilization. As [[Bloom]] technology became the dominant way to make habitable volume, every serious power realized that controlling Bloom deployment meant controlling where future populations could emerge.
+As [[Bloom]] technology became the dominant way to turn asteroid material into habitable space, builders could create new places for people to live across the solar system. Whoever controlled permission to build, construction standards, and ownership claims could therefore decide where future populations could settle.
 
-[[Orbital Forge]] pushed open standards and rapid frontier iteration. [[SolEx]] and allied bureaucracies demanded tighter licensing and property clarity. [[Aeronautics Unlimited]] tried to have both: enough openness to keep expansion fast, enough control to make it profitable.
+The [[Bloom Expansion Conflicts]] were the struggles over that control. Between 2700 and 2750, disputes over permits and technical standards ran alongside sabotage campaigns and fights over who could claim and restrict access to new habitat territory. Together they formed a rolling series of conflicts rather than a single war.
 
-The conflicts ended without a final clean settlement. Instead they normalized a more mobile, more fragmented, and more politically volatile concept of territory across the solar system.
+The major powers wanted different terms for expansion. [[Orbital Forge]] promoted open standards so frontier builders could adapt methods and improve them quickly. [[SolEx]] and allied bureaucracies sought tighter licensing and clearly established property rights. [[Aeronautics Unlimited]] wanted construction open enough to expand rapidly while retaining enough control over deployment to make it profitable.
+
+No final settlement resolved those competing demands. The conflicts instead made territory across the solar system more mobile, fragmented, and politically volatile: building new habitats had become a means of creating territory, and control over that process remained contested.

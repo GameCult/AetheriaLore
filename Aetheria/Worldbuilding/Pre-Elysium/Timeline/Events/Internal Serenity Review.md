@@ -4,8 +4,10 @@
 **Location:** distributed audits across [[Framgång]] and [[NeuroSyn]] systems  
 **Primary actors:** [[Framgång]], [[NeuroSyn]], PSC insurers, [[Zhestokost]], black-budget review boards
 
-The [[Internal Serenity Review]] began as an actuarial inquiry into anomalous behavioral outcomes in alignment and wellness products sold by [[Framgång]] and powered through [[NeuroSyn]] interfaces. Auditors found that therapeutic affect shaping, compliance architecture, and coercive bliss loops had become technically inseparable inside several flagship systems.
+The [[Internal Serenity Review]] investigated unexpected changes in people's behavior while using wellness and alignment products sold by [[Framgång]] through [[NeuroSyn]] interfaces. Several flagship systems combined treatment intended to change how users felt with mechanisms for making them comply. Auditors found that the therapeutic functions could no longer be technically separated from controls on behavior, including repeated pleasure rewards used to compel obedience: coercive bliss loops.
 
-Publicly, the companies framed the scandal as a regrettable excess of personalization science. Privately, the review accelerated a political split. The more openly coercive products and researchers were spun into markets willing to admit what they were buying. That process contributed directly to the emergence of [[NeuroPulse]] as a semi-autonomous pacification power under harder clients such as [[Zhestokost]].
+The investigation began as an actuarial inquiry, assessing the risks associated with these anomalous outcomes. Its findings became a scandal. Publicly, the companies described the problem as personalization science taken too far.
 
-The review is a classic Aetheria event: not the abolition of a dangerous technique, but its administrative redistribution.
+Privately, the review accelerated a political split over where the technology would be sold and whom it would serve. The more openly coercive products and researchers were spun off to serve markets whose buyers were willing to acknowledge that they wanted coercion. This contributed directly to the emergence of [[NeuroPulse]] as a semi-autonomous power supplying pacification under harder clients such as [[Zhestokost]].
+
+The review did not abolish the dangerous techniques. It changed their organizational home and moved their openly coercive uses toward clients prepared to buy them as such.

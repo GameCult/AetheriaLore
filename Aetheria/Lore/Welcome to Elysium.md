@@ -8,8 +8,8 @@ title: Welcome to Elysium
   <img src="../media/aetheria/elysium.png" alt="Aetheria concept art showing Elysium." />
 </figure>
 
-Elysium is not a clean new frontier humanity discovered with admirable courage and a reasonable plan. It is the sealed domain late Sol got thrown into when its first real FTL breakthrough touched something older, meaner, and far less interested in sharing the universe than the test brief implied.
+Elysium is a sealed, hostile domain where humanity must survive after being displaced from the solar system. Its first successful breakthrough in faster-than-light travel made contact with something older and more dangerous than the test brief had prepared anyone for—something far less willing to share the universe. Humanity was thrown into Elysium rather than choosing to settle there.
 
-The displacement was not selective. Humanity did not arrive as a purified species of brave colonists ready to start over. Fleets, institutions, corporate blocs, uploaded minds, labor systems, grudges, and every other unresolved compromise of solar civilization came through together because they were already materially bound together back home.
+The displacement carried an entire civilization with it. Fleets, corporate blocs, other institutions, uploaded minds, and labor systems came through together because they were already materially bound to one another in Sol. Their grudges and unresolved compromises came with them. These were people caught in a catastrophe, not a selected group of colonists equipped to make a fresh start.
 
-That is what makes Elysium interesting. It is not just a backdrop for exploration and extraction. It is a hostile garden-prison where an entire civilization tries to survive the rupture without giving up any of its worst habits, even while reality itself keeps refusing to cooperate.
+Elysium offers places to explore and resources to extract, but it is also a garden that serves as a prison. Humanity has to survive the rupture while still carrying the systems and habits that shaped life back home, including its worst ones. Even reality itself does not reliably behave as humanity expects.
