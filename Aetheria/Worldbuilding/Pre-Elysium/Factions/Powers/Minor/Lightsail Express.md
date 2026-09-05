@@ -1,5 +1,7 @@
 *"A late ship is a broken promise with cargo."*
 
-[[Lightsail Express]] is the bulk-carrier and convoy management arm most closely associated with the [[Cetacean Navigators]]. It makes its money not from glamour but from being the boring answer that still arrives, even across routes where trust has become scarce.
+[[Lightsail Express]] carries bulk cargo and manages convoys. It is the carrier arm most closely associated with the [[Cetacean Navigators]], earning its money by delivering reliably—even along routes where people can no longer count on one another to keep their commitments.
 
-Because it depends on corridor reputation more than brute force, Lightsail often acts as the practical face of navigator politics. When the wider solar economy frays, its captains and route compacts become some of the last institutions still able to move food, data, and refugees with any predictability.
+That work depends more on its reputation along those routes than on brute force. Lightsail therefore often gives navigator politics a practical form: its captains and route compacts—the agreements governing passage and shared obligations—help determine whether people can count on a shipment arriving.
+
+As the wider solar economy frays, those captains and agreements become some of the last institutions able to move food, data, and refugees with any predictability.
