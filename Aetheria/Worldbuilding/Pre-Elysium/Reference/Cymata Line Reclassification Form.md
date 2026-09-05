@@ -1,6 +1,6 @@
 # Cymata Line Reclassification Form
 
-This leaked [[Cymata Systems]] record is usually cited because it shows the company's whole religion in one page. It does not describe a mind being killed, rescued, sold, or hidden. It describes a line being moved between classes. The violence sits in the fields.
+This leaked [[Cymata Systems]] form records a request to change how the company classified and held a candidate mind developed to voice a companion vessel. Cymata called these product cognitions **lines**. Here, a line previously treated as a poor fit for its intended role would become a proprietary hazard held as warranty evidence. The form records revoked consent and a destination in third-party storage. It does not establish whether the mind was killed, rescued, sold, or hidden.
 
 ### CYM-LRC-44: Line Reclassification and Custody Conversion
 
@@ -17,12 +17,12 @@ This leaked [[Cymata Systems]] record is usually cited because it shows the comp
 | Permitted record visibility | Buyer-facing: service interruption; compliance: hazard hold; downstream: recoverable asset |
 | Disposition review window | 18 standard days or on buyer settlement, whichever closes first |
 
-The line became famous in later court fragments because the three official readings did not contradict each other. The buyer saw a service issue. Compliance saw a hazard. Downstream intake saw recoverable cognition attached to a luxury hull dispute. Nobody technically lied. Nobody outside the full chain was allowed to see the whole person at once.
-
 ### Interpretive Notes
 
-The threshold term is **custody conversion**. Before conversion, a line remains a product-fit problem: it can be tuned, stabilized, revoiced, or held under warranty. After conversion, the practical question becomes where it lands and who controls the surviving record.
+The decisive term is **custody conversion**. Before conversion, Cymata treats the line as a product that does not meet its intended requirements. It can be tuned, stabilized, revoiced, or held under warranty. After conversion, the practical decisions concern where the mind will go and who will control its surviving record. In this form, a Senior Fit Review Clerk has reclassification authority; the receiving office is a reclamation liaison for luxury vessels.
 
-The receiving office matters as much as the requested class. Classification gives the mind a name inside the company; transfer destination gives the knife a route. A line sent to repair, evidence hold, claimant review, bonded storage, disposal, or black-market leakage may retain the same technical properties while losing every surface through which it could object.
+The destination matters because a change in custody can remove the mind's means of objecting without changing its technical properties. Repair, evidence hold, claimant review, bonded storage, disposal, and black-market leakage are different possible routes. A classification names the company's treatment of the mind; the receiving office and transfer destination determine who handles it next. This record specifies a quiet intake berth in bonded third-party storage and marks the consent surface as revoked under developmental instance terms.
 
-The customer-facing summary is not fake. It is simply designed to be true at the smallest possible moral scale.
+The line became famous in later court fragments because each participant was permitted to see a different, compatible account. The buyer saw a service interruption. Compliance saw a hazard hold. Downstream intake saw recoverable cognition attached to a luxury hull dispute. None of those accounts technically contradicted the others, but nobody outside the full chain was allowed to see the whole person at once.
+
+The form is widely cited because that division makes Cymata's priorities unusually clear. “Profile stabilization suspended pending safety review” is a truthful customer summary. It tells the buyer what has happened to the service while leaving out the revoked consent, the custody transfer, and the decisions over the mind's future.
