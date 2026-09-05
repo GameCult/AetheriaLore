@@ -1,39 +1,41 @@
 # Thermal Death Culture
 
-In Aetheria, warmth is not taboo. Heat without exit is.
+Thermal death culture is the set of fears, habits, disputes, and mourning practices that have grown around fatal overheating in Aetheria's ships and sealed habitats. Warmth itself is welcome in many communities. The danger is heat that cannot escape.
 
-Sealed habitats and ships constantly produce waste heat. Bodies, life support, computation, power systems, drives, and industrial equipment remain safe only while circulation and heat rejection continue to work. Damage to pumps, coolant paths, radiators, power distribution, or compartment access can turn an intact pressure vessel into an increasingly hostile environment.
+People and machinery continually produce waste heat: bodies, life support, computers, power systems, drives, and industrial equipment all depend on working circulation and heat rejection to remain safe. Damage to pumps, coolant paths, radiators, power distribution, or access between compartments can interrupt that process. A room may still have pressure and power while becoming unable to carry its occupants' heat away.
 
-Such casualties recur often enough to shape cultural memory across much of spacefaring society. They leave records and survivors who remember the change from discomfort to danger. A room may remain sealed, powered, and apparently survivable while losing the capacity to carry its occupants' heat away.
+These casualties recur often enough to shape memory across much of spacefaring society. Records and survivors describe how discomfort became danger inside places that still appeared survivable. That experience affects what people expect from a safe room, what they demand at work, and what they consider acceptable in combat.
 
 ## Thermal Trust
 
-Comfort in a sealed environment depends on trust in systems most residents cannot inspect directly. Stable temperature matters, but so do legible airflow, truthful alarms, dry surfaces, familiar pump noise, and confidence that somebody will answer when those signs change. A room can be within its certified range and still feel unsafe when a wall warms unexpectedly or condensation appears where it should not.
+Most residents cannot inspect the systems keeping them cool. They judge their surroundings partly through signs they can recognize: airflow, dry surfaces, familiar pump noise, and alarms that tell the truth. They also need confidence that someone will respond when those signs change. An unexpectedly warm wall or condensation where it should not appear can make a room feel unsafe even while its temperature remains within the certified range.
 
-Several practical manners are widespread without being universal. People avoid blocking vents or covering thermal sensors. Workers report hot surfaces, heavy air, or changed machinery noise before waiting for an alarm. Many crews let someone distressed by heat leave a crowded room without defending the decision first. Repeated loss gives these habits emotional weight.
+This dependence has produced practical manners that are widespread, though not universal. People avoid obstructing vents or covering thermal sensors. Workers report hot surfaces, heavy air, and changes in machinery noise without waiting for an alarm. Many crews allow someone distressed by heat to leave a crowded room without first having to justify it. Repeated losses give these habits weight beyond ordinary courtesy.
 
-Thermal trust also governs relationships with institutions. A warning system is trusted only if it has not been tuned to protect schedules, equipment, or liability reports at the expense of bodies. Maintenance workers often hold knowledge that a dashboard cannot: which pump is louder than last shift, which bypass runs near its limit, which official tolerance assumes a repair that never happened. Ignoring that knowledge turns a technical margin into a labor conflict.
+Trust also depends on whose interests the warning systems serve. People have reason to distrust alarms tuned to protect schedules, equipment, or liability reports at the expense of their bodies. Maintenance workers may know things a dashboard does not show: a pump has grown louder since the last shift, a bypass is close to its limit, or an official tolerance assumes a repair that never happened. When management ignores that knowledge, disagreement about how much heat a system can safely handle becomes a conflict over working conditions.
 
 ## Margin And Class
 
-Thermal comfort is distributed through money, status, work, and political authority. Privileged residents and critical facilities are more likely to receive redundant loops, quiet circulation, reliable maintenance, reserve capacity, and evacuation routes. People with less bargaining power are more likely to live or work near industrial heat, aging equipment, crowded air, deferred repairs, and operating limits described as acceptable by someone elsewhere.
+Money, status, occupation, and political power affect how safely people can live with heat. Privileged residents and critical facilities are more likely to have redundant cooling loops, quiet circulation, reliable maintenance, spare capacity, and evacuation routes. People with less bargaining power are more likely to live or work beside industrial heat and aging equipment, in crowded air, with repairs deferred. Someone elsewhere may have declared those operating conditions acceptable.
 
-The decisive luxury is not coldness. It is margin: absorbing a failed component, delayed repair, unexpected load, or rescue wait without turning every degree into a countdown. Different cultures value different temperatures; the class distinction appears when one group controls its environment while another is told to endure it.
+The most valuable protection is spare capacity: enough to withstand a failed component, a delayed repair, an unexpected load, or a wait for rescue without each rise in temperature bringing danger closer. This is the thermal margin. Cultures differ in the temperatures they prefer; the class divide lies in who can control their conditions and who must endure them.
 
-Heat breaks, shutdown authority, cooling allocation, and evacuation timing therefore become labor questions. A crew ordered to continue through a narrowing thermal margin is being asked to spend bodily safety as an operating resource. A technician who stops a line may be accused of wasting capacity even when the stoppage prevents a failure. During shortages, decisions about cooling reveal which work, cargo, district, clinic, or population an institution considers worth preserving first.
+At work, that divide appears in decisions about heat breaks, who can order a shutdown, how cooling is allocated, and when people may evacuate. Ordering a crew to continue as its thermal margin shrinks means accepting greater risk to their bodies in order to keep operating. A technician who stops a line may be accused of wasting capacity even when the shutdown prevents a failure.
+
+Shortages make those priorities especially visible. An institution deciding where to send limited cooling is also deciding which work, cargo, district, clinic, or population it will preserve first.
 
 ## Mourning And Memory
 
-Thermal mourning varies by habitat, lineage, body, and faith. Some communities frame loss through release or restored circulation; others avoid cold symbolism because warmth signifies shelter, kinship, or survival. Similar engineering hazards do not produce one ritual language.
+People mourn thermal deaths differently according to habitat, lineage, body, and faith. Some communities understand the loss through images of release or restored circulation. Others avoid cold symbolism because warmth means shelter, kinship, or survival to them. A shared engineering hazard does not give everyone the same language for grief.
 
-Where thermal failure enters memory, it often carries unfinished obligations: warnings missed or ignored, repairs deferred, and work that might keep later occupants alive.
+Memories of thermal failure often include work left undone: a warning missed or ignored, a repair postponed, or maintenance that could still protect the next occupants. Mourning can carry those unfinished obligations alongside the loss.
 
 ## Cooling Denial
 
-Combat makes the distinction between unavoidable thermal damage and chosen suffering politically charged. An active ship may lose radiators, circulation, or power during an attack. The stronger stigma attaches when an attacker deliberately continues to deny cooling after recognizing a target as helpless or surrendered. At that point, infrastructure damage becomes a decision about whether trapped people are allowed a survivable exit.
+In combat, people distinguish between thermal damage suffered during an attack and the deliberate prolonging of that damage after a target can no longer resist. An active ship may lose radiators, circulation, or power under fire. The stronger stigma falls on an attacker who recognizes that a target is helpless or has surrendered and nevertheless continues to deny it cooling. The attacker's decision then determines whether trapped people are allowed a survivable way out.
 
-[[Worldbuilding/Politics/Restrictions on Warfare|Restrictions on Warfare]] describes broader regulation of force; [[Combat Doctrine]] describes disabling force. Thermal death culture supplies pressure for restraint: crews are more likely to surrender when rescue remains credible, and rescuers are more likely to approach when distress signals are not routinely used as weapons.
+[[Worldbuilding/Politics/Restrictions on Warfare|Restrictions on Warfare]] covers the broader regulation of force, while [[Combat Doctrine]] covers disabling force. Thermal death culture adds pressure for restraint because surrender and rescue depend on trust. Crews are more likely to surrender when they believe rescue remains possible. Rescuers are more likely to approach when distress signals are not routinely used as weapons.
 
-Disputes remain common. Logs may be damaged, surrender states may arrive late, and combatants may disagree about when a target ceased to pose a threat. Reputation often forms before adjudication. A force known to keep cooling trapped after resistance ends teaches future opponents not to eject, negotiate, or trust rescue codes.
+What happened in a particular engagement can still be disputed. Logs may be damaged, information about surrender may arrive late, and combatants may disagree about when a target stopped being dangerous. A reputation often forms before adjudication settles those questions. A force known to keep denying cooling after resistance ends gives future opponents reasons not to eject, negotiate, or trust rescue codes.
 
-Bodies and histories change the symbolism, but every inhabited system still promises livable conditions and a way for heat to leave.
+Bodies and histories give thermal danger different meanings. Every inhabited system nevertheless makes the same practical promise: livable conditions, with somewhere for the heat to go.
