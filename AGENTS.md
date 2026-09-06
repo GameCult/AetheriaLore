@@ -91,6 +91,17 @@ The September 5 Elaborator campaign is complete. Read `outputs/elaboration-short
 - Prefer `rg` or direct file reads when you need exact filename matching, exact string matching, or repository-wide regex searches that semantic retrieval may miss.
 - In Windows PowerShell 5.1, always read and write vault Markdown with explicit UTF-8 handling. Do not rely on bare `Get-Content` or `Set-Content` defaults for note files, especially when notes contain non-ASCII characters such as `Framgång`.
 
+## Reader Calibration
+
+The accessibility guidance above erodes on its own unless something actively resists it. The mechanism matters as much as the rules.
+
+- Calibration drifts upward and never downward. Writing above a reader reads as respect; writing below them reads as condescension. The error is asymmetric, so an unchecked sequence of passes only climbs, and each pass inherits the previous pass's ceiling before adding to it.
+- The drift is invisible from inside. A note is legible to precisely the reader it was tuned for, and it was tuned for whoever wrote it. Nobody has ever found their own note hard to follow. Rereading cannot detect this; only a reader without authorial context can.
+- Completeness does not produce legibility. A breach usually compresses rather than omits. An argument folded into a named term is fully present, expandable only by someone who already holds it, and it reads as a definition rather than as a claim. Ask whether context is stated or merely named.
+- Restatement is error correction, not padding. The concrete instance following an abstraction is how a reader who missed the first pass recovers. Cutting it feels like tightening while removing the recovery path, so one early misunderstanding compounds through everything after it.
+- The failure is silent, which is why it survives. A newcomer to an over-calibrated note understands every sentence and feels nothing accumulate; names that carry weight for an insider stay inert for them. That produces no complaint and no question, so it generates no signal to correct. Absence of complaint is not evidence.
+- Therefore treat the newcomer read in `Editing Guidance For Future Agents` as a required instrument rather than a closing courtesy, and assume drift is happening rather than waiting to be told.
+
 ## Editing Guidance For Future Agents
 
 - Read adjacent notes before making substantial additions to establish facts, terminology, and unresolved questions. Do not imitate their stylistic density when it conflicts with the accessibility guidance above.
