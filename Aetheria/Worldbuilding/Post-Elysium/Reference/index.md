@@ -9,4 +9,5 @@ These notes describe the records, agreements, and classification codes that post
 
 - [[Worldbuilding/Post-Elysium/Reference/Continuity Admissibility Finding|Continuity Admissibility Finding]]
 - [[Worldbuilding/Post-Elysium/Reference/Port-Insurer Compact|Port-Insurer Compact]]
+- [[Worldbuilding/Post-Elysium/Reference/Transponder Credentials|Transponder Credentials]]
 - [[Worldbuilding/Post-Elysium/Reference/Weapon Category Codes|Weapon Category Codes]]
