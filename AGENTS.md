@@ -46,7 +46,7 @@ The September 5 Elaborator campaign is complete. Read `outputs/elaboration-short
 
 ## Tone
 
-- The tone is sober, humane, and politically aware. Readers should feel invited into the world, not examined on their ability to interpret it.
+- The tone is humane, politically aware, and fun to read, even when the situation is bleak. People in this world still joke, scheme, flirt, complain and enjoy themselves; their humour is how they live inside the systems that grind them, not relief from them, and the reader should be having fun alongside them. Keep the politics precise and the costs real, and let the comedy come from inside the situation: from characters, from institutions producing absurd and dangerous rules, from people who know exactly how bad things are and keep going anyway. Readers should feel invited into the world, not examined on their ability to interpret it.
 - Give corporate euphemisms and bureaucratic language to the institutions using them. Explain their practical meaning in the surrounding prose: what a "service consolidation" closes, how far the family must travel, or which care becomes an extra charge. The narrator must not adopt the institution's evasiveness.
 - Show cruelty through decisions and their effects, and give cooperation, affection, humour, and ordinary competence the same specificity. Characters and institutions need motives beyond illustrating a thesis.
 - Avoid a clever reversal, balanced moral ledger, or concluding aphorism when the example has already made the point. Preserve memorable language that earns its place through clarity and lived detail.
