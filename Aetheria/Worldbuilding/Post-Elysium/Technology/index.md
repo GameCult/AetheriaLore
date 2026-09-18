@@ -23,6 +23,11 @@ For someone relying on these systems, a device's capabilities are only part of w
 - [[Worldbuilding/Post-Elysium/Technology/Oracular Computing|Oracular Computing]]
 - [[Worldbuilding/Post-Elysium/Technology/Cognitive Interfacing|Cognitive Interfacing]]
 
+## Heat And Its Reversal
+
+- [[Worldbuilding/Post-Elysium/Technology/Running Cold|Running Cold]]
+- [[Worldbuilding/Post-Elysium/Concepts/Negative Entropy|Negative Entropy]]
+
 ## Death, Persistence, And Extraction
 
 - [[Worldbuilding/Post-Elysium/Technology/Necrotech|Necrotech]]

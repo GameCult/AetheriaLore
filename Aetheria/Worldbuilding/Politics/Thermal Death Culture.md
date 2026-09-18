@@ -38,4 +38,8 @@ In combat, people distinguish between thermal damage suffered during an attack a
 
 What happened in a particular engagement can still be disputed. Logs may be damaged, information about surrender may arrive late, and combatants may disagree about when a target stopped being dangerous. A reputation often forms before adjudication settles those questions. A force known to keep denying cooling after resistance ends gives future opponents reasons not to eject, negotiate, or trust rescue codes.
 
+The band has a lower edge too, and Adrasteian negent gear now puts crews against it:
+[[Worldbuilding/Post-Elysium/Technology/Running Cold|Running Cold]] covers the cold death and
+why spacers read it as a different kind of obscenity.
+
 Bodies and histories give thermal danger different meanings. Every inhabited system nevertheless makes the same practical promise: livable conditions, with somewhere for the heat to go.
