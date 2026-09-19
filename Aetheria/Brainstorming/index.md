@@ -8,6 +8,7 @@ These notes are not detached from the rest of the archive. They are a working su
 
 ## Current Concentrations
 
+- [[Brainstorming/Corporate Roster and Item Wishlist|Corporate Roster and Item Wishlist]]
 - [[Stories/index|Stories]]
 - [[Vault Cleanup/index|Vault Cleanup]]
 - [[Technology/Cooling Beyond Blackbody]]
