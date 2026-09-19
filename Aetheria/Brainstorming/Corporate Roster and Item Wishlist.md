@@ -92,6 +92,57 @@ Condensed; the flavor is what matters, and the best lines are quoted as written.
 - **Whole item kinds from the wishlist are missing from the catalog**: no shields at all, no cloaking systems, no capacitor products, no consumables.
 - **Several spreadsheet items did make it in** and can be read as the branding working: Arctica, cold like my heart, deep space burnout, OK Disperser, ClearPath, Earp, Traction, Vulcan, Manhattan, ChargeBlast.
 
+## Market gaps, matched to the corporations that should fill them
+
+A gap only counts if the simulation can already run the item. The engine supports fourteen
+hardpoint types — hull, tool, thermal, thruster, warp drive, reactor, radiator, shield, sensors,
+energy, ballistic, launcher, control module, aether drive — and behaviours beyond those for
+capacitors, mining tools, resource scanners, visibility, reflectors and stat modifiers. Below is
+what is missing, who the roster says should make it, and why that pairing.
+
+### Nothing ships at all
+
+| Gap | Natural makers | Why them |
+|---|---|---|
+| **Shields** — zero designs, though the behaviour now has an authored reserve, a broken state and a restore window | **Megiddo** (defensive technology), Finch, Aya Collective | Megiddo's whole concept is defence and it ships nothing; a shield is the one item that would put it on the board |
+| **Capacitors** — behaviour exists, no products | **NiteLife Energy**, Zhestokost | NiteLife already sells the reactor that demands one (the Cottage-pi meson reservoir is written and unbuilt) |
+| **Consumables** — no records at all, so stat buffs and boosters cannot exist | **Miss Terri's**, Aya Collective | Miss Terri's is the consumables faction and ships one item; BitsyBytes Snackz is already written |
+| **Cloaking / signature masking** — the wishlist asks for it and a visibility behaviour exists | **Adrasteia** | The Enigma Device is written, and stealth is the faction's entire identity |
+| **Continuous weapons** — the behaviour exists and no design uses it | **Lucent Media**, Miss Terri's, Odla Framgång | Lucent's continuous laser is written; Fries With That and gnrrrr-gnrrr are continuous by description |
+
+### Thin where it matters
+
+| Gap | Natural makers | Note |
+|---|---|---|
+| **Thrusters** — two designs, one unsellable | **Alakrita**, Finch, AU, Lightsail | Alakrita is the speed faction and ships **no thruster at all**; Victoire, Prokope, Talaria and True North are all written |
+| **Ship hulls** — exactly one (Alakrita's) | **Zhestokost**, AU, Finch, Lightsail | Heavy combat hulls, the Jason/Argo line and the Galapagos are written; one hull means every ship in play is the same ship |
+| **Launchers** — five designs, three unsold | **R&D** (guided), **AU** (dumbfire), DME (incendiary) | The specialisations are already split cleanly between guided and dumbfire |
+| **Mining and industry** — extractors, refinery, assembly line, shipyard all exist as designs nobody sells | **Ewan Hart**, **AU** | Ewan Hart has influence and zero products; mining is AU's stated specialisation |
+| **Passive sensors** — three sensor designs, none from the passive-sensor faction | **Finch Cybernetics** | Finch has influence, zero products, and ChirOptos is written |
+| **Tools** — seven designs, six unsold, including the tractor beam | R&D, AU, Lightsail | The tractor beam is about to become a real pickup capability and nothing sells one |
+
+### Corporations that cannot appear
+
+Finch Cybernetics and Ewan Hart Inc have catalog influence and **zero products**, so neither can spawn
+anything; Aya Collective, Corriedales, Odla Framgang, Megiddo and the pirates are not in the catalog at
+all. Two of those (Finch, Megiddo) are demo or boss factions.
+
+### The obvious first batch
+
+Ordered by what unlocks the most play per item authored:
+
+1. **A Megiddo shield**, plus one cheap alternative — shields are a landed mechanic with no content.
+2. **An Alakrita thruster** (Victoire) and **a Finch thruster** (Prokope) — fixes the thinnest slot in the
+   game and gives two factions their identity in the one stat players feel constantly.
+3. **A Zhestokost hull and an AU hull** (Jason) — one hull for everyone is the single biggest sameness in play.
+4. **A Finch passive sensor** (ChirOptos) and **an Adrasteia cloak** (Enigma Device) — the detection game
+   only becomes a game when both sides of it exist.
+5. **A NiteLife capacitor** (Cottage-pi) — the power rework made buffers meaningful and nothing sells one.
+6. **Miss Terri's consumables** — the whole item class is empty.
+
+Each of these already has a name, a voice and a tagline in the sections above, which is the point of
+having the roster: generation starts from written identity rather than from an empty row.
+
 ## What this is for
 
 Two live pieces of work read from here. Product names and flavor text are being split so that a design carries dry functional text and a product carries the manufacturer's voice ([[Worldbuilding/Post-Elysium/Reference/Transponder Credentials|credentials]] aside, the brand a player sees is derived from who made the lot). And each product authors quality per role, so a market segment is a second product with one part raised — which needs exactly the identity this roster describes: who is actually good at what, and who merely says so.
