@@ -58,7 +58,7 @@ This ledger distinguishes source-grounded setting constraints from story inventi
 
 | Fact | Story Consequence | Source |
 | --- | --- | --- |
-| The [[Pan-Solar Consortium]] governs through dependency on PSCC clearing, permits, sanctions relief, neutral docks, and risk categories. | Pirates can evade direct obedience while their yards, brokers, families, and fences remain exposed. | [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Pan-Solar Consortium]] |
+| The [[Pan-Solar Consortium]] governs through dependency on PSCC clearing, permits, sanctions relief, neutral docks, and risk categories. | Pirates can evade direct obedience while their yards, brokers, families, and fences remain exposed. | [[Worldbuilding/Pre-Elysium/Factions/Powers/Pan-Solar Consortium]] |
 | After Callisto, firing cheap conventional weapons into unresolved tracks becomes financially toxic while lattice-linked smart munitions receive favorable treatment. | The arms market rewards patient weapons and cognition even when pirates operate outside permits. | [[Worldbuilding/Politics/Restrictions on Warfare]] |
 | Large clean transfers, serial provenance, thermal declarations, and telemetry are observable. | Money cannot purchase perfect secrecy; procurement itself leaves signatures. | [[Worldbuilding/Politics/Restrictions on Warfare]] |
 

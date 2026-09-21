@@ -1,11 +1,11 @@
 ---
 title: Minor Powers
-description: "Pre-Elysium powers with narrower reach."
+description: "Specialist powers whose influence does not constitute Mega territorial sovereignty."
 ---
 
 # Minor Powers
 
-These are powers with a narrower reach in Pre-Elysium society: companies, political communities, networks, and individuals. Their influence may come from supplying particular technologies, controlling work people depend on, or helping people escape corporate control. “Minor” describes their reach, not how much they can change the lives of those who deal with them.
+These specialist powers supply technologies, services, and organized capabilities within and across Mega territories. Some reach customers throughout Sol or operate facilities of their own. Their distinction from the [[Megas]] is the absence of an independent territorial order they can sustain and defend, rather than small revenues, few customers, or political insignificance.
 
 - [[Alakrita]]
 - [[AstroDyne]]

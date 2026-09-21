@@ -20,7 +20,7 @@ Read the physical setting alongside the institutions that govern it. Habitat des
 
 - [[Worldbuilding/Politics/index|Politics]]
 - [[Worldbuilding/Pre-Elysium/Factions/index|Factions]]
-- [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Pan-Solar Consortium|Pan-Solar Consortium]]
+- [[Worldbuilding/Pre-Elysium/Factions/Powers/Pan-Solar Consortium|Pan-Solar Consortium]]
 - [[Worldbuilding/Politics/Restrictions on Warfare|Restrictions on Warfare]]
 
 ## Technologies And Conditions

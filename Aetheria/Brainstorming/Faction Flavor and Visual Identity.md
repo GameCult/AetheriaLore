@@ -1,17 +1,20 @@
 # Faction Flavor and Visual Identity
 
-Seventeen manufacturers and factions, each with a distinct character, voice, equipment family, and visual identity. These are the people a shipowner buys from, depends on, shows off, or regrets trusting.
+The territorial [[Worldbuilding/Pre-Elysium/Megas|Megas]], their specialist suppliers, and several post-Elysium powers, each with a distinct character, voice, equipment family, and visual identity. These are the people a shipowner lives under, buys from, depends on, shows off, or regrets trusting.
 
 The visual descriptions cover silhouette, materials, color, markings, people, and spaces, with an image starting point for each faction. Product names and advertising are collected from [[Brainstorming/Corporate Roster and Item Wishlist|Corporate Roster and Item Wishlist]]; linked faction notes carry their fuller histories.
 
 ## Factions
 
 - [[#Zhestokost]]
+- [[#Sol Dominion]]
 - [[#Lucent Media]]
 - [[#NiteLife Energy]]
 - [[#Lightsail Express]]
 - [[#Finch Cybernetics]]
 - [[#Aeronautics Unlimited]]
+- [[#Cryonix]]
+- [[#Cetacean Navigators]]
 - [[#Alakrita]]
 - [[#Adrasteia]]
 - [[#Ewan Hart Inc]]
@@ -20,8 +23,8 @@ The visual descriptions cover silhouette, materials, color, markings, people, an
 - [[#Miss Terri's Sugariffic Snack Company]]
 - [[#Aya Collective]]
 - [[#Corriedales]]
-- [[#Odla Framgång]]
-- [[#Pirates]]
+- [[#Framgång and Odla Framgång]]
+- [[#Pirate Coalition]]
 - [[#Megiddo]]
 
 ## Zhestokost
@@ -51,6 +54,30 @@ The public voice is blunt, declarative, and pleased with its own excessive force
 **People and spaces:** Heavy work clothes, welding protection, harnesses, and visibly repaired uniforms. Foundry aisles, ammunition handling spaces, and maintenance bays carry the same square geometry as the ships. Show the loaders and mechanics who make sustained fire possible.
 
 **Image starting point:** A squat heavy combat ship in three-quarter view inside an arsenal bay, a worker beside an enormous removable gun assembly for scale. Hard overhead light reveals thick armor edges, soot, and orderly maintenance access. Its identity should survive in silhouette without relying on red paint or political symbols.
+
+## Sol Dominion
+
+### Character and Voice
+
+[[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Sol Dominion|Sol Dominion]] governs Earth, the inner system's administrative corridors, major Luna command infrastructure, and Mercury's arrays through one connected apparatus of schedules, credentials, forecasts, and permissions. It keeps water moving, routes repaired, clinics supplied, and strategic projects coordinated. The same shared record lets one adverse classification follow a person from work to housing to medical care.
+
+Its voice is calm, official, and comprehensive. A Dominion announcement explains that the system has already considered the relevant needs. Harm arrives through an eligibility change, revised priority, suspended clearance, or forecast that no individual office regards as punishment. Its equipment carries the same promise: integration so complete that refusing one component means leaving the system that makes all the others work.
+
+### Equipment and Copy
+
+- Administrative compute, secure communications, credential readers, traffic-control systems, and infrastructure coordination form its characteristic equipment family.
+- SolEx extraction and logistics, CogniSys machine governance, GeneSys biological hierarchy, and Quantum Dynamics research survive inside the Dominion as distinct technical inheritances under shared priorities.
+- Fleet equipment favors standardized command interfaces, interoperable logistics, and sensors that turn local activity into a system-wide operating picture.
+
+### Visual Identity
+
+**Silhouette and construction:** Monumental axial forms assembled from standardized sections. Dominion ships have a strong central spine, broad planar armor, embedded antenna fields, and repeated module bands that make different classes look like parts of one administrative fleet. Command vessels enlarge the same grammar rather than becoming ornate flagships. Infrastructure, stations, and ships share compatible docking faces and obvious controlled routes through their structure.
+
+**Materials, color, and markings:** Pale gray ceramic, graphite structural bands, desaturated blue, and small areas of official crimson. Surfaces are clean, dense, and carefully numbered. Long alignment marks, registry blocks, jurisdiction seals, and machine-readable panels dominate the livery. Lighting is white and evenly distributed. Nothing looks privately customized until one reaches spaces the administration considers too minor to standardize.
+
+**People and spaces:** Uniformed operators, civilian clerks, technicians, security staff, and residents move through the same credentialed thresholds. Control rooms use repeated consoles and large shared schedules. Public spaces are maintained and legible, with clear routes whose access indicators quietly tell each person where they may go.
+
+**Image starting point:** A large Dominion patrol ship approaching an inner-system transit complex. The vessel has a pale armored central spine, repeated graphite module bands, recessed sensor planes, and a few precise crimson authority marks. Docking structures echo its geometry. Use symmetrical composition, even institutional light, and dense but orderly traffic to convey a system that works and expects to be obeyed.
 
 ## Lucent Media
 
@@ -195,6 +222,56 @@ Its voice can combine practical confidence, exploration references, and painfull
 **People and spaces:** Survey equipment, contractor jackets, tool lockers, temporary offices, and half-finished construction shells. A tidy manufactured core surrounded by an expanding worksite expresses AU better than a pristine corporate headquarters.
 
 **Image starting point:** A compact utility ship servicing an asteroid excavation, its cylindrical modules and rounded structural frame visible around a replaceable mining tool. Neutral work lights reveal attachment points and scale. Keep it simpler and less luxurious than Alakrita, with a silhouette driven by access and versatility.
+
+## Cryonix
+
+### Character and Voice
+
+[[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Cryonix|Cryonix]] governs compact lunar and Belt enclaves built around premium materials, superconductors, extraordinary emitters, and signature-managed surfaces. It does not own the reactors, drives, implants, or computers that use those materials. It controls the fabrication conditions, licenses, inspection records, and production slots that let those systems run denser, colder, and quieter.
+
+Cryonix speaks with precise, expensive restraint. Its sales language concerns tolerances, purity, certified performance, and access to operating conditions other suppliers cannot reliably reach. Political leverage appears as a delayed fabrication slot or a material standard that only its enclaves can satisfy.
+
+### Equipment and Copy
+
+- Superconducting coils and lattice materials for compact reactors, drives, computation, and neural systems.
+- Extraordinary emitter surfaces that reject heat efficiently without pretending to destroy it.
+- Signature-managed skins and thermal assemblies that shape how a ship or facility can be detected.
+- Licensed fabrication cells, inspection equipment, contamination control, and the records that make premium materials acceptable to insurers.
+
+### Visual Identity
+
+**Silhouette and construction:** Thin, exact shells wrapped around compact high-energy machinery. Ships use broad radiator planes, folded emitter vanes, narrow waists, and protected central cores. Surfaces align into continuous thermal paths rather than stacks of decorative armor. Facilities combine severe clean-room blocks with vast dark emitter fields. The geometry feels crystalline and controlled: long straight boundaries, shallow compound curves, and repeating lattice apertures.
+
+**Materials, color, and markings:** Blue-black and graphite structures carry pale silver, icy cyan, and faint violet ceramic or metallic surfaces. Fine iridescence reveals engineered layers when the viewing angle changes. Copper appears only at selected interfaces. Markings are sparse: batch identifiers, inspection seals, microscopic alignment grids, and narrow cool-white status lines. Clean surfaces show contamination or repair immediately.
+
+**People and spaces:** Process engineers and line workers wear layered clean garments, thermal protection, and contamination monitors. Protected clients occupy quiet, redundant environments while fabrication workers deal with solvents, rejected batches, heat, and interrupted access. Inspection light is flat and unforgiving.
+
+**Image starting point:** A compact Cryonix vessel beside a lunar fabrication enclave. Its dark central core is enclosed by thin silver-blue shells and several broad folded emitter planes with subtle iridescent lattices. A clean-room gantry and workers in contamination gear provide scale. Use cold grazing light, sharp material boundaries, and almost no decorative branding.
+
+## Cetacean Navigators
+
+### Character and Voice
+
+The [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Cetacean Navigators|Cetacean Navigators]] govern routes, convoys, waystations, anchorages, and sanctuary corridors through the outer system. Their territory is dispersed but real: shared records and obligations connect places that can deny passage, allocate rescue capacity, judge disputes, and defend the routes on which their residents depend.
+
+Their voice is patient, polyphonic, and exact about reciprocal duty. A route is safe because crews keep records, answer distress calls, maintain waystations, and accept consequences when they abandon one another. Choral coordination expresses many bodies maintaining one navigable agreement rather than many voices dissolving into one authority.
+
+### Equipment and Copy
+
+- Route-modeling systems, hazard sensors, convoy beacons, rescue transponders, and shared ledgers.
+- Mixed-environment vessels and stations joining pressure-managed aquatic channels to dry galleries, transfer locks, clinics, and hearing chambers.
+- Rescue craft, tow systems, sanctuary transports, and defensive escorts designed to preserve a convoy rather than hunt independently.
+- Lightsail Express provides much of the freight capacity associated with Navigator corridors while remaining a carrier with its own interests.
+
+### Visual Identity
+
+**Silhouette and construction:** Long flowing vessels organized around several parallel pressure bodies rather than one dry central cabin. Rounded aquatic volumes, open structural arches, and tapered sensor or navigation booms give the silhouette a measured forward rhythm. Transfer locks and dryside modules sit at clear junctions between environments. Convoy craft share visible docking and rescue interfaces even when built by different yards.
+
+**Materials, color, and markings:** Deep ocean blue, blue-green, soft gray, and pale sand, with silver structural members and warm amber at inhabited locks. Translucent pressure sections reveal water as mass and movement without turning the ship into an aquarium display. Route marks use flowing lines, repeated nodes, and tactile or acoustic counterparts rather than relying on color alone.
+
+**People and spaces:** Cetacean channels, orientation pools, dry galleries, and shared work areas meet without treating either environment as an annex. Displays communicate through visual, acoustic, tactile, and translated forms. Worn rescue gear, route boards, teaching spaces, and children learning watch discipline make the stations feel governed and inhabited.
+
+**Image starting point:** A Navigator convoy leader crossing an outer-system route with two parallel blue-green pressure bodies joined by silver arches and a central chain of transfer locks. Dryside modules and rescue craft dock along the junctions. Warm inhabited light contrasts with the dark route ahead while tactile and visual route markings repeat along the hull.
 
 ## Alakrita
 
@@ -378,15 +455,17 @@ Self-repair and life support with an Afrofuturist identity, drawing on West Afri
 
 Life-support systems and self-repair equipment sit alongside the clinics, pumps, food systems, and repair supplies that keep a sanctuary usable. Easy inspection and local maintenance make the equipment part of shared practical knowledge.
 
+Aya also fields point-defense mounts, conventional guns, interceptor launchers, and ammunition supplied by independent [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Orbital Forge|Orbital Forge]] yards and allied workshops. Contracts include drawings, controller access, maintenance instruction, and local rights to make routine replacements and consumables. Several qualified suppliers, distributed reserves, and local repair crews prevent one arms maker from turning defense into political custody.
+
 ### Visual Identity
 
-**Silhouette and construction:** Rounded protective frames around replaceable cells, branching fluid paths, accessible couplings, and modular parts sized for local handling. Show how a person opens, repairs, and closes the system. Repeated modules can form broad woven-looking arrangements without implying that decorative fabric carries pressure loads.
+**Silhouette and construction:** Rounded protective frames around replaceable cells, branching fluid paths, accessible couplings, and modular parts sized for local handling. Show how a person opens, repairs, and closes the system. Repeated modules can form broad woven-looking arrangements without implying that decorative fabric carries pressure loads. Defensive equipment uses the same exposed service logic: standard mounts, removable feed boxes, locally replaceable barrels, and controller housings that open without a manufacturer's key.
 
 **Materials, color, and markings:** Terracotta, warm cream, deep green, charcoal, and restrained copper. Durable matte shells, washable soft surfaces where people touch them, and visible repairs that fit properly. Patterned removable panels and local workshop marks allow variation across the federation.
 
 **People and spaces:** Clinics, kitchens, repair benches, plant rooms, and shared courtyards adapted to habitats. People with different bodies work and rest there. Locally made woven screens, patterned clothing, and decorated removable panels carry cultural expression alongside modern technical equipment. Use supplied language and specific cultural references for inscriptions and meaningful symbols.
 
-**Image starting point:** Two residents replacing a life-support cartridge in a lived-in communal clinic. Rounded modular frames, terracotta panels, copper fittings, and one patterned removable cover give it a distinct material identity. The technology is advanced, and the people using it are visibly allowed to understand it.
+**Image starting point:** Two residents service a combined life-support and point-defense station on the edge of an Aya settlement. Rounded modular frames, terracotta panels, copper fittings, standard ammunition boxes, and patterned removable covers share one coherent workshop language. The people using the advanced equipment are visibly allowed to understand, repair, and reconfigure it.
 
 ## Corriedales
 
@@ -416,13 +495,13 @@ Its voice addresses a customer who already knows and loves the characters. Buyin
 
 **Image starting point:** A ship's weapon rack fitted out as a matching Corvald Corwin collection. Rounded colorful housings repeat a mascot's visual features around real mounts and emitters. Bright retail lighting makes the affectionate design clear without turning the weapon itself into a harmless toy.
 
-## Odla Framgång
+## Framgång and Odla Framgång
 
 ### Character and Voice
 
-Knockoffs, pseudo-spiritual products, and multi-level affiliate marketing in a Swedish retrofuturist, populuxe package. Most of the catalog is dubious; occasional excellent equipment keeps people searching. The range runs from zero-gravity spoon-knives to an exceptional nullgen shield.
+[[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Framgång|Framgång]] governs retreat habitats, clinics, franchise centers, hospitality facilities, and retail congregations around Enceladus and the ring-linked pilgrimage routes. It sells therapy, wellness, purpose, and advancement, offering real relief while making continued hardship a reason to purchase the next stage.
 
-The same commercial appeal runs through late-Sol [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Framgång|Framgång]]: wellness, purpose, and advancement sold through franchises and recurring purchases. Relief can be real while continuing hardship becomes a reason to buy further treatment.
+Odla Framgång is its exuberant equipment and affiliate-retail face: knockoffs, pseudo-spiritual products, and multi-level marketing in a Swedish retrofuturist, populuxe package. Most of the catalog is dubious; occasional excellent equipment keeps people searching. The range runs from zero-gravity spoon-knives to an exceptional nullgen shield.
 
 The voice shifts between radiant assurance and bewildering product names. Its offer is personal improvement through one more purchase, with enough genuine value to make refusing the next pitch harder.
 
@@ -444,11 +523,13 @@ The voice shifts between radiant assurance and bewildering product names. Its of
 
 **Image starting point:** A populuxe sales display with a beautiful shield unit beside a ridiculous spife set and a bulky imitation sensor. Warm showroom light catches peach lacquer and chrome. Its exaggerated domestic luxury distinguishes it from Alakrita's precise, expensive performance hardware.
 
-## Pirates
+## Pirate Coalition
 
 ### Character and Voice
 
-Cobbled-together stolen technology, crew names that change from encounter to encounter, and products named in emoji. Junkyard improvisation gives each vessel its shape. What holds it together is the crew's available parts, skills, and willingness to live with the result.
+The [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Pirate Coalition|Pirate Coalition]] is a loose territorial power of hidden docks, ring-shadow yards, patched habitat cavities, Trojan nests, false rescue stations, and temporary bases. No central command governs them. Some settlements operate as disciplined commons; others answer to captains, creditors, armed crews, or shipminds. Their shared routes make life outside official control possible without making it safe or politically uniform.
+
+Cobbled-together stolen technology, crew names that change from encounter to encounter, and products named in emoji give its mobile forces their flavor. Junkyard improvisation gives each vessel its shape. What holds it together is the crew's available parts, skills, and willingness to live with the result.
 
 Each crew has its own markings, habits, and history of acquisition.
 

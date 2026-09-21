@@ -28,7 +28,7 @@ Begin with the setting's premise, then follow the eras and institutions through 
 
 ## Institutions And Orders
 
-- [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Pan-Solar Consortium|Pan-Solar Consortium]]
+- [[Worldbuilding/Pre-Elysium/Factions/Powers/Pan-Solar Consortium|Pan-Solar Consortium]]
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Sol Dominion|Sol Dominion]]
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Zhestokost|Zhestokost]]
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Aya Collective|Aya Collective]]

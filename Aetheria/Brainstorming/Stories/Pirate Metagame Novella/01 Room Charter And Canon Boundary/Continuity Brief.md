@@ -36,7 +36,7 @@ This places the story four to ten years after the [[Callisto Trace Shootdown]]. 
 - [[Worldbuilding/Pre-Elysium/Timeline/Events/Upload Vivisection Expose]]
 - [[Worldbuilding/Pre-Elysium/Territories]]
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Pirate Coalition]]
-- [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Pan-Solar Consortium]]
+- [[Worldbuilding/Pre-Elysium/Factions/Powers/Pan-Solar Consortium]]
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Cetacean Navigators]]
 - [[Worldbuilding/Pre-Elysium/Factions/Movements/Ship Mutiny]]
 - [[Worldbuilding/Pre-Elysium/Technology/Mind Uploading]]

@@ -30,7 +30,7 @@ The linked histories below follow centuries in which institutions turned each br
 - [[Worldbuilding/Pre-Elysium/Factions/index|Factions]]
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/index|Powers]]
 - [[Worldbuilding/Pre-Elysium/Factions/Movements/index|Movements]]
-- [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Pan-Solar Consortium|Pan-Solar Consortium]]
+- [[Worldbuilding/Pre-Elysium/Factions/Powers/Pan-Solar Consortium|Pan-Solar Consortium]]
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Sol Dominion|Sol Dominion]]
 - [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Zhestokost|Zhestokost]]
 

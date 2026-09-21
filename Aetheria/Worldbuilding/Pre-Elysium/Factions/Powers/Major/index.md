@@ -1,11 +1,12 @@
 ---
 title: Major Powers
-description: "Pre-Elysium powers with system-scale influence."
+description: "Megas capable of holding and defending territory."
 ---
 
 # Major Powers
 
-- [[Activist Network]]
+The [[Megas]] can hold and defend territory and sustain the people living there. Territory includes dispersed settlements, industrial enclaves, and governed waystations as well as planetary regions. Members of a federation or coalition can exercise that authority locally without a single central ruler.
+
 - [[Aeronautics Unlimited]]
 - [[Aya Collective]]
 - [[Cetacean Navigators]]
@@ -13,7 +14,6 @@ description: "Pre-Elysium powers with system-scale influence."
 - [[Finch Cybernetics]]
 - [[Framgång]]
 - [[Lucent Media]]
-- [[Pan-Solar Consortium]]
 - [[Pirate Coalition]]
 - [[Sol Dominion]]
 - [[Zhestokost]]

@@ -13,6 +13,7 @@ The movements below respond to conflicts over who counts as a person, who profit
 
 ## Labor And Liberation
 
+- [[Worldbuilding/Pre-Elysium/Factions/Movements/Activist Network|Activist Network]] — shared couriers, evidence archives, and aid routes connecting independent movements across jurisdictions.
 - [[Worldbuilding/Pre-Elysium/Factions/Movements/Awakened Labor Front|Awakened Labor Front]]
 - [[Worldbuilding/Pre-Elysium/Factions/Movements/Free Minds|Free Minds]]
 - [[Worldbuilding/Pre-Elysium/Factions/Movements/Free Neural Network|Free Neural Network]]

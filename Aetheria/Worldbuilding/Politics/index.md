@@ -15,7 +15,7 @@ This branch covers the rules, military practices, and enforcement systems that s
 
 - [[Worldbuilding/Politics/Restrictions on Warfare|Restrictions on Warfare]]
 - [[Worldbuilding/Politics/PSCC|PSCC]]
-- [[Worldbuilding/Pre-Elysium/Factions/Powers/Major/Pan-Solar Consortium|Pan-Solar Consortium]]
+- [[Worldbuilding/Pre-Elysium/Factions/Powers/Pan-Solar Consortium|Pan-Solar Consortium]]
 
 ## Doctrines And Techniques
 
