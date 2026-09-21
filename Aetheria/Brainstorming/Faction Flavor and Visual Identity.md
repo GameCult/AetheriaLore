@@ -281,7 +281,7 @@ The voice is familiar, practical, and capable of delivering an entire sales pitc
 
 ### Character and Voice
 
-AI, automation, compute, and guided launchers under a reassuring robot-company image. German influence, trapezoidal panels, and muzak establish a calm, orderly exterior. The dangerous part of the advertisement generally arrives after the asterisk.
+AI, automation, compute, and guided launchers under a reassuring robot-company image. German influence, trapezoidal panels, and muzak establish an insistently ordinary corporate identity. R&D is boring. Its ships are boring. Its catalog offers another size of the same flying wedge with the confidence of a company announcing a substantial achievement. The dangerous part of the advertisement generally arrives after the asterisk.
 
 [[Worldbuilding/Pre-Elysium/Factions/Powers/Minor/Rossum & Douglas|Rossum & Douglas]] centers on engineering assessment and certification. It examines particular configurations and supplies evidence others can use to judge risk. It also supplies or certifies operating shells for AI. Its findings do not decide personhood or guarantee that nothing can go wrong.
 
@@ -295,13 +295,17 @@ Its voice is institutional reassurance whose precise scope matters more than the
 
 ### Visual Identity
 
-**Silhouette and construction:** Squat trapezoidal bodies, chamfered rectangular panels, evenly spaced access doors, and recessed sensors. Equipment resembles an orderly arrangement of inspected modules. Hinges, test sockets, status indicators, and replaceable controller blocks are clear without dominating the silhouette.
+**Silhouette and construction:** The flying wedge. Broad, shallow triangular or trapezoidal hulls narrow toward a blunt nose and terminate in a wide engine-bearing rear face. Large flat dorsal planes, beveled perimeter edges, and a thicker central section supply almost the entire shape. Small recessed windows, flush hardpoints, regular vents, and rectangular access panels barely interrupt it. Across the range, the wedge gets longer, wider, or thicker while retaining the same basic outline. Equipment repeats the vocabulary in squat chamfered boxes and sloped housings.
 
-**Materials, color, and markings:** Warm light gray, muted navy, brushed steel, and small amber indicators. Satin powder coating, molded bumpers, crisp panel gaps, numbered seals, and restrained technical typography. The label should identify a particular module or inspection point, not imply that one approval certifies an entire vessel forever.
+**Surface detail:** Repetitive panel seams, shallow grilles, identical service hatches, and occasional inset machinery fill out the hull without giving it a new idea. Most mechanisms sit behind covers. Detail establishes scale and manufacture; it leaves the broad planes and ordinary silhouette intact. The dullness is deliberate, not missing work waiting to be rescued with sculptural fins, exposed mechanical intricacy, or an unexpectedly elegant profile.
 
-**People and spaces:** Technicians with diagnostic carts, orderly test bays, waiting-room furniture, and pleasantly bland reception spaces. The music is soothing enough that a customer might stop reading.
+**Materials, color, and markings:** Matte or satin industrial coatings in light gray, muted blue-gray, navy, and off-white. A broad stripe or plain geometric paint block provides the livery. Dark engine recesses, small amber indicators, standard serial numbers, and modest corporate lettering complete it. Wear appears as ordinary scuffs and replacement panels. Neither exotic materials nor elaborate weathering turns the ship into a more interesting object.
 
-**Image starting point:** A trapezoidal guided-launcher prototype in a bright test cell beside its diagnostic cart. Clean panel repetition and modest indicators make it seem reassuringly manageable. Fine-print documentation sits within reach, where a responsible operator would actually use it.
+**People and spaces:** Standard workwear, diagnostic carts, repetitive maintenance bays, waiting-room furniture, and bland reception desks. Catalog photography uses even lighting and conventional views. Muzak accompanies a sales presentation in which a slightly larger cargo compartment receives several slides.
+
+**Image starting point:** An R&D utility spacecraft in a conventional three-quarter view against a neutral background. A broad, shallow blue-gray wedge has a blunt tapered nose, flat paneled upper surfaces, beveled sides, tiny recessed cockpit windows, and a wide rear engine bank. Off-white geometric livery crosses the hull. Repeat rectangular hatches and shallow vents across otherwise uneventful planes. Use even lighting, restrained engine glow, and ordinary industrial finishes. The result is a competently rendered, thoroughly unremarkable production ship.
+
+**Design reference:** R&D's repeated flying wedges are a deliberate visual jab at the wedge-heavy ship designs in *Elite Dangerous*. The sameness is the faction's identity: a lineup of different models should look like a procurement comparison among minor variations on the same design.
 
 ## Death Monkey Explosives
 
