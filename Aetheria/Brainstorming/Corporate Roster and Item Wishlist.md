@@ -6,6 +6,8 @@ This is brainstorming, not settled canon. It exists so the flavor stops living i
 
 ## Corporations
 
+For faction-by-faction character, product flavor, and visual identity, see [[Brainstorming/Faction Flavor and Visual Identity|Faction Flavor and Visual Identity]].
+
 Boss factions are marked ★, demo factions **bold**. "Ships" counts designs and products in the current catalog.
 
 | Corporation | Specializes in | High concept | Ideology / aesthetic | Ships | Vault note |
