@@ -10,6 +10,7 @@ These notes are not detached from the rest of the archive. They are a working su
 
 - [[Brainstorming/Corporate Roster and Item Wishlist|Corporate Roster and Item Wishlist]]
 - [[Brainstorming/Faction Flavor and Visual Identity|Faction Flavor and Visual Identity]]
+- [[Brainstorming/Faction Ship Concept Prompts|Faction Ship Concept Prompts]]
 - [[Stories/index|Stories]]
 - [[Vault Cleanup/index|Vault Cleanup]]
 - [[Technology/Cooling Beyond Blackbody]]
