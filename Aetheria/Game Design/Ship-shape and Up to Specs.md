@@ -51,6 +51,12 @@ A build makes geometry, compatibility, mass, power, heat, propulsion, sensors, w
 
 Production and repair history remain relevant because nominally equivalent components can arrive with different condition, quality, provenance, compatibility, and support. The player should be able to inspect those facts before committing a refit and see which claims are missing or contested.
 
+## Play Concepts
+
+A hull should be designed around how it is meant to be played, not only around what it carries. A broadside ship has a rack of fixed hardpoints along one or both flanks and must manoeuvre to bring them into arc; a carrier's real armament is its bay and its recovery throats; a negent ship is limited by its charge magazine rather than its radiators. The concept decides the hardpoint layout, the facings, where armour and radiators sit, and what the hull looks like, and it decides what beats the ship.
+
+[[Ship Play Concepts]] is the candidate catalogue: weapon layout and arcs, heat and signature, drones and loitering munitions, mass and momentum, logistics, boarding, deception, area control, and Elysium's shields and negent. Each entry names what it asks of the pilot, what it pays, its counters, its evidence, its systems status, the factions it fits, and how it reads on a hull.
+
 ## Refit Commit
 
 A refit is one durable operation, not a visual slot change followed by later reconciliation:
