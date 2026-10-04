@@ -19,7 +19,7 @@ These are readings the docs did not settle. Each one is a choice I made so the b
 4. **The faction blocks still carry household similes.** NiteLife's block says espresso machine and smart speaker, Zhestokost's cast-iron stove, Cryonix's vacuum flask, Aya's lidded clay cooking pot, Sol Dominion's official stamp. Guideline 10 allows them as proportion only, and they enter every composed prompt. If composed renders drift toward costume, cut there first.
 5. **Two analogies per composed prompt.** Most faction blocks already name a proportion simile, so an analogy attempt here adds a second, against guideline 1. The ship prompt is last and wins, so its analogy should govern the mass. The **Function** attempts carry no analogy at all and test whether the block's grammar is enough by itself. If an analogy attempt muddles where its Function sibling reads cleanly, trim the block's simile.
 6. **A control pair is worth one render.** These prompts are not meant to be rendered alone; without their blocks they have no palette and no register. Rendering Vasuki and Bison composed, against their first-round renders, would show what the blocks add before you spend a batch.
-7. **Lucent's spectacle register is still unconfirmed** in Ship Design Language. The Lucent attempts here take camera liberties (a stage deck, an up) on that reading.
+7. **Lucent's spectacle register is confirmed** in Ship Design Language (operator, 2026-10-04). The Lucent attempts here take camera liberties (a stage deck, an up) on that reading.
 8. **DME's burnout raider** was built around deep space burnout thrusters, and thrusters are yours to place. Its attempts carry the overheating as a cell bank with cut lines instead.
 
 ## How to Use This Bench
