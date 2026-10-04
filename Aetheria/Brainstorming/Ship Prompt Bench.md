@@ -6,6 +6,8 @@ description: "A deep bench of paste-ready image prompts for faction hulls and st
 # Ship Prompt Bench
 
 > **Status: brainstorming bench, Imagination pass of 2026-10-03.** Not canon and not adopted. These prompts extend [[Brainstorming/Faction Ship Concept Prompts|Faction Ship Concept Prompts]] past the release bar of 13 hulls (the 3 existing hulls and the 10 faction concepts) and 3 stations. Roles come from the faction doctrines in [[Game Design/Faction Play|Faction Play]]. Looks come from [[Brainstorming/Faction Flavor and Visual Identity|Faction Flavor and Visual Identity]]. The hardpoint vocabulary is from [[Game Design/Ship-shape and Up to Specs|Ship-shape and Up to Specs]].
+>
+> **Superseded for new renders by [[Brainstorming/Ship Prompt Bench 2|Ship Prompt Bench 2]] (2026-10-04).** The lessons this bench taught are guidelines 10 to 12 in [[Brainstorming/Faction Ship Concept Prompts|Faction Ship Concept Prompts]].
 
 Operator brief, 2026-10-03: "a bunch of proposals for unique ship prompts since that'll enable me to spend my time generating content the next few days." And: "I'll want multiple attempts per role since a lot of them are bound to be duds. This is also an opportunity to explore faction aesthetics so tell it to go wild, I wanna see cool moonshot ideas with flavor".
 
