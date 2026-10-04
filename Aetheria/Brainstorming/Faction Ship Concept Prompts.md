@@ -2,7 +2,7 @@
 
 These are small, player-scale hull pitches. Each is designed for one pilot or a small crew. A hull's shape shows what it does: weapon arcs, sensor apertures, ammunition storage, radiators, thrusters, and service access have visible places. Its built-in advantage is a reason to buy that hull and accept its tradeoff. These designs use the faction identities in [[Brainstorming/Faction Flavor and Visual Identity|Faction Flavor and Visual Identity]] and the material combat choices in [[Game Design/Design Pillars|Design Pillars]], [[Game Design/Action RPG Layer|Action RPG Layer]], and [[Game Design/Ship-shape and Up to Specs|Ship-shape and Up to Specs]]. The pre-Elysium designs here use armor, heat management, and point defense rather than shields.
 
-The silhouette leads each design. A governing shape gives the eye a way to read the whole vessel; major forms then flow into its cabin, weapons, drives, and radiators. These comparisons guide construction rather than turning ships into literal animals or objects.
+The silhouette leads each design. A governing shape gives the eye a way to read the whole vessel; major forms then flow into its cabin, weapons, drives, and radiators. These comparisons guide construction rather than turning ships into literal animals or objects, except in the high-whimsy factions, where a whole cute animal is welcome (see guidelines 10 to 12).
 
 ## Prompting for Image-to-3D
 
@@ -19,6 +19,9 @@ The pipeline is image model, then Tripo3D, then cleanup, then game. A prompt suc
 7. **Geometry, not adjectives.** Words like "authoritative", "protective" and "measured" draw nothing. Turn each quality into a shape, a material or a placement.
 8. **Frame.** End every prompt with the standard frame clause below. Generate at the image model's highest resolution; Tripo's guidance recommends about 2048 px.
 9. **Extra views, only if they match.** Tripo accepts up to four views (front, left, right, back). Use them for asymmetric hulls, but only when the image model produces views that actually agree with each other.
+10. **No household objects.** A household object's identity lives in human-scale details: a filing cabinet's drawer fronts and label holders, a plug's prongs. The model draws those details as props glued to a hull, and the ship reads as a literal costume. The 50-F (filing cabinet) and Live Wire (plug) renders of 2026-10-04 fell flat for this reason. Take proportion and mass from an object only when its large form already suits a hull, and never ask the hull to carry the object's small parts.
+11. **An analogy lends mass and story, not a costume.** The animals that worked gave the hull a mass distribution or a story: Vasuki's hood and Bison's hump, the Squatter's stolen freight pod. The ones that failed copied the animal's whole body. The cause of that failure is the bench phrasing "Its whole body follows a ___", which asks for a costume.
+12. **An intact, rounded whole animal reads as a plush toy, whatever its paint.** Breakup Song, a whole rhinoceros in black and yellow, is the evidence. That is the right result in a high-whimsy register: Raft and Shellback were hits, and the Gentle Giant delighted the operator's husband. It is wrong in a serious or reserved register. Which register applies is a property of the faction, recorded in [[Brainstorming/Ship Design Language|Ship Design Language]].
 
 **Standard frame clause:** One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
 
