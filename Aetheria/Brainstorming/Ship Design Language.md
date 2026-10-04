@@ -54,7 +54,7 @@ Operator rulings of 2026-10-04, after the first twelve bench renders. Two traits
 | Pirate | Pirate Coalition | Wild and maximalist: a stolen donor hull piled with additions. |
 | Reserved | Death Monkey Explosives | Serious and restrained, with one loud element. Menace through precision. DME sets itself apart from the Pirates by authorship: it builds its own intact hull. |
 
-Lucent is placed as a spectacle faction from the operator's description of the Jewel station; the placement is unconfirmed. Breakup Song, a whole rhinoceros in DME black, was too cute for DME: the register belongs to the faction, and an intact animal hull in a serious faction reads as a plush toy in costume.
+Lucent is placed as a spectacle faction from the operator's description of the Jewel station, and the operator confirmed the placement on 2026-10-04. Breakup Song, a whole rhinoceros in DME black, was too cute for DME: the register belongs to the faction, and an intact animal hull in a serious faction reads as a plush toy in costume.
 
 ---
 
