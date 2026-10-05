@@ -433,6 +433,18 @@ Flight is inertial with drag and zone gravity; thrusters apply torque from their
 - **Fits:** Cryonix (the cold chain made exact), NiteLife Energy.
 - **On the hull:** big radiator wings, a thermal coupling boom with a docking collar at its tip, insulated piping visible along the spine.
 
+### Power Tender
+
+*Added 2026-10-05 for [[Brainstorming/Ship Prompt Bench 3|Ship Prompt Bench 3]].*
+
+- **Asks:** come alongside a ship whose capacitors are spent and refill them through a coupling, then pull away before the fight finds the pair.
+- **Pays:** burst ships (Burst and Break Off, Shield Breaker, any capacitor-led duelist) fight a second exchange without retreating to a station. It is the energy half of what the Tender does for rounds.
+- **Beaten by:** catching the pair while coupled, and draining allies faster than the coupling can refill them. Its dependency is the coupling window and its own stored charge.
+- **Evidence:** capacitors on M; FC's power bus gives instant draws their own capacitors (see Burst and Break Off); EVE logistics ships transfer capacitor between hulls (general knowledge, not in the evidence file).
+- **Systems:** new. Capacitors and the power bus exist within one hull; energy transfer between hulls does not.
+- **Fits:** NiteLife Energy ("we keep the lights on, and we own the cartridge"; its spare cartridges are the tender's magazine).
+- **On the hull:** a coupling boom with a flat charge collar at its tip, spare power cartridges sunk into the body, and station-keeping thrusters that let it hold beside a moving ship.
+
 ### Remote Repair Ship
 
 - **Asks:** stay with allies, repairing or recharging them under fire, while dealing little damage.
@@ -729,7 +741,7 @@ Tendencies, not rights. Registers are from [[Brainstorming/Ship Design Language|
 | Aeronautics Unlimited | Serious | Swarm boat, tug drone, sentry drop, repair drone, salvager, minesweeper, shield cooker | Working crews and frontier hardware |
 | Finch Cybernetics | Serious | Spotter, picket line, tethered drone, mixed cloud | Sells noticing |
 | Rossum & Douglas | Serious | Arsenal barge, swarm boat, loitering munition, stern chaser | Stand-off guaranteed missiles; backs away from anyone who closes |
-| NiteLife Energy | Serious | Sentry drop, radiator gambler, heat tender | Guards never leave their stations |
+| NiteLife Energy | Serious | Sentry drop, radiator gambler, heat tender, power tender | Guards never leave their stations |
 | Lightsail Express | Whimsy turned up | Stern chaser, tug, mothership, Q-ship (defensive) | Never drops the cargo; fights with it |
 | Alakrita | Serious | Spinal mount, forward-fixed fighter, flywheel sprinter, burst and break off, shield breaker, shield skirmisher | One fast pass, leaves when scratched |
 | Ewan Hart | Whimsy turned up | Tug, repair drone, minesweeper, one-sided broadside (a gun where the tool arm is), Lariat | People need dinner |

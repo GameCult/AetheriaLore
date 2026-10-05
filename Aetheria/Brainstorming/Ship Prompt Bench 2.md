@@ -6,6 +6,8 @@ description: "A second bench of ship prompts, written as the last layer after th
 # Ship Prompt Bench 2
 
 > **Status: brainstorming bench, Imagination pass of 2026-10-04.** Not canon and not adopted. It replaces nothing: [[Brainstorming/Ship Prompt Bench|Ship Prompt Bench]] stays as the record of the first round. Prompts here are the third block of the composition order in [[Brainstorming/Ship Design Language|Ship Design Language]], written to follow the global block and the faction block. Roles come from [[Game Design/Faction Play|Faction Play]], craft rules from guidelines 1 to 12 in [[Brainstorming/Faction Ship Concept Prompts|Faction Ship Concept Prompts]], and the vacuum stance from [[Game Design/Design Pillars|Design Pillars]].
+>
+> **Round two, 2026-10-05:** the operator rendered Vasuki composed, One Pass, Bulldog and Sugar Glider. The results and lessons are recorded in [[Brainstorming/Ship Prompt Bench 3|Ship Prompt Bench 3]].
 
 Operator brief, 2026-10-04: "I'd like a new batch of bench prompts, too." She had tested twelve first-bench prompts alone, without the global or faction blocks, on GPT Image 2.5. The household objects fell flat, Vasuki and Bison stood out, Squatter was the one animal she liked, and her husband loved the cute animals: Raft, Shellback, and above all the Gentle Giant. Her register ruling: "Some factions definitely have more space for whimsy. Corriedales is the obvious one to host these mascot ships like Raft and Shellback," and "DME is definitely more serious and reserved where the Pirates are wild and maximalist." The diagnosis behind this bench is that 86 first-bench prompts said "Its whole body follows a ___", which made every ship a costume.
 
