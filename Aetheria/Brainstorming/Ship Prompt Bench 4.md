@@ -527,6 +527,84 @@ Round 7 uses **G2.2**, which rewrites G2.1's thrust sentence: thrusters are "cut
 - **Plan view for coverage roles.** One render (Zhestokost). Candidate.
 - **Racer identity from livery, not aero.** Three renders (r6a, r6b, r7c), one ship. Candidate.
 
+## Round 8: G3, clean-first, motifs in the ship prompt, cute and cursed
+
+Every render uses **G3**, which is G2.1 with two edits: the hull "never flies through air or drives on ground", so wheels and tracks join the banned list, and thrust comes from "slots and grilles cut into" the faces that push, with "no thruster stands out from the hull as a can, bell, pod or pack". All six run ship first. Renders and exact prompts are in `Renders/Bench 4/` (`Key Light r8a`, `Dine and Dash r8b`, `Rake r8c`, `Finders Keepers r8d`, `Odd Job r8e`, `Oboz r8f`).
+
+| Ship | Variant | Hypothesis | What changed | Agent observation | Operator verdict |
+| --- | --- | --- | --- | --- | --- |
+| Key Light | r8a | Clean paint holds when the clean statement opens the prompt; spectacle returns when the gaming-mouse motifs live in the ship prompt. | G3; the prompt opens "Brand-new and showroom-clean, never flown…"; mouse layout moved into the ship prompt; Lucent block livery-only. | Best Key Light. Layered mouse shells, a lavender side rest, cobalt prongs, a lamp-grid face, no fins. The cleanest Lucent yet, with faint edge scuffs left. | |
+| Dine and Dash | r8b | Slots read as thrust when each is a throat with turning vanes and a sideways soot fan; counts hold when each turret is placed; a softer Pirate wear line keeps the livery legible. | G3; Pirate block ends "worn, but the donor's markings stay legible"; turrets placed behind the canopy and under the chin, "there are no others". | Best D&D. Chequered needle racer, "07" roundel, one long louvred band of sideways thrust cut into the flank, no wings, fins or packs, exactly two turrets. Plainer than a couture racer; a small can under the belly. | |
+| Rake | r8c | G3 and a livery-only AU block carry a tool-bow hull; thrust as grilles cut into the rear flanks. | G3; livery-only AU block; grilles in the rear lower flanks; flat stern with a collar. | Held for role: the numbered comb is the largest shape, with blast plate, cab turret and racked tines. Failed on thrust: the grilles grew into two pod-like sponsons. | |
+| Finders Keepers | r8d | "Cute and cursed" can be stated outright; "no wheels or tracks" keeps a farm donor off the ground. | G3; "Cute and cursed" and a toothed maw grin in the ship prompt. | Held on register: a round harvest-gold donor grinning with a toothed maw, crates under a net, magnet marks. No wheels, but spindly landing legs. The single-eye emitter does not read. | |
+| Odd Job | r8e | A beetle's mass and face turns Ewan Hart whimsy up further than r5b. | G3; ship first; beetle mass and face; RCS quads on "four short stubby legs". | Failed. A walking creature on four feet: a costume and a ground read. r5b stays the best Odd Job. | |
+| Oboz | r8f | An archetype metaphor that makes the cargo the hull ("built like a cast-iron bandolier" of magazine segments) integrates the magazines without becoming a prop. | G3; livery-only Zhestokost block; three magazine segments are the hull, hatches flush, grilles at the lower corners. | Held for integration: the segments are the hull and no bandolier prop appeared. Reads a little like an armoured rail wagon, and no thrust direction shows. | |
+
+**Observations.**
+
+- **Motifs belong to the ship prompt.** Lucent's register is its shapes. With the mouse layout in the ship prompt, Key Light got its spectacle back while the faction block stayed livery-only.
+- **Clean-first works better than clean-last.** Opening the prompt with the clean statement gave the cleanest Lucent of the bench. It is not spotless; one more lever is still needed.
+- **Dine and Dash is solved enough to show.** The identity is the livery, the speed is a band of sideways thrust cut into the hull, and nothing is bolted on.
+- **Limbs make creatures.** "Legs" on Odd Job and the landing legs on Finders Keepers both pulled a ground read, and the beetle turned into a costume. The register rule ("an animal may lend its mass and its face, not its costume") is right, and "legs" is the word that breaks it.
+- **Slots still grow into pods** when the slots sit on a low rear flank (Rake). On a long flank band (D&D) they held.
+- **Metaphors for mass are safe; metaphors for scenes are not.** "Built like a bandolier" shaped the hull without becoming a prop, where r5e's "on a showroom turntable" became one.
+- **Stating the register works for Pirates.** "Cute and cursed" in plain words landed on Finders Keepers.
+
+**Block edits that look like they generalise** (final count after round 8; renders, ships and factions held on, and failures):
+
+- **Vacuum-hull doctrine (no wings, fins, vanes or streamlining).** Held on 21 of 22 long-prompt renders, 10 ships, 7 factions (Ewan Hart, Lucent, Pirate, Zhestokost, AU, Finch, Adrasteia). The one failure is explained: r5c, a racer cue with no other identity, fixed by giving the racer its livery (r6a onward). The short r7d, which left the doctrine out, grew a fin. Ground cues are a separate problem: the round 8 wheels-and-tracks clause did not stop legs (r8d, r8e).
+- **Weapons only where named, with "unarmed" or "no weapons" stated.** Unarmed hulls stayed unarmed on 10 renders, 4 ships, 4 factions (Odd Job, Key Light, Oboz, Ghost Fare; Ewan Hart, Lucent, Zhestokost, Adrasteia). Single named weapons stayed single on Tattletale (Finch) and Finders Keepers (Pirate), and Glushitel's six stayed six. Named counts drifted up twice on one ship (r6a, r7c), explained by unplaced turrets: they held once each turret was given a position (r8b).
+- **Faction blocks are livery and register only; shape motifs go in the ship prompt.** Held on 18 renders, 10 ships, 7 factions. One failure, explained and repaired: Lucent lost its spectacle with the motifs cut (r7a) and regained it with the motifs in the ship prompt (r8a).
+- **Wear lives in the faction block, not the global.** With no wear in the global, wear stayed on every faction that names it (Pirate, AU, Zhestokost, Ewan Hart: 16 renders, 7 ships). The other half, clean factions coming out clean, held on Finch (r6e), mostly on Lucent when stated first (r8a), and failed on Adrasteia (r7e) and Lucent stated last (r7a).
+- **Thrust as slots or grilles cut into a face.** Held on 7 renders, 6 ships, 4 factions (r5c, r5d, r6d, r7c, r7f, r8a, r8b). Failed on tubes, bells or "sunk" wording (r6a, r6c, r6f), the short r7d, global-first r7b, and unexplained on r8c, where cut grilles grew into sponsons. Candidate.
+- **Ship prompt first.** Two A/B pairs (Lucent r5e/r5f, AU r6d/r7b) favour it; used on 17 renders across 8 factions with no failure attributed to it. Candidate until a third pair.
+- **Clean statement first, for clean factions.** One render (r8a). Candidate.
+- **Racer identity from livery, not aero.** Four renders, one ship. Candidate.
+- **The stern needs a job.** Denying a drive failed on 2 of 2 (r6e, r7e). Candidate.
+- **Plan view for coverage roles.** One render (r7f). Candidate.
+- **Short prompts for donors that do not pull aero.** One success (r6f), one failure on a racer (r7d). Candidate.
+- **No legs.** Two renders went to ground on legs (r8d, r8e). Candidate for the global block, untested.
+- **Metaphors for mass, never for scenes.** One prop failure (r5e turntable), one safe mass metaphor (r8f bandolier), one costume failure (r8e beetle with legs). Candidate.
+
+## Lab notes after round 8
+
+Eighteen renders in rounds 6 to 8. These are the agent's readings, pending the operator's verdicts.
+
+**G3, the current best global block** (as rendered in round 8; compose it after the ship prompt and faction block, then the frame clause on its own):
+
+```text
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air or drives on ground, so it has no wings, fins, tailplanes, vanes, airfoils, streamlining, wheels or tracks of any kind. It moves only by rocket thrust from slots and grilles cut into whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each opening the way its exhaust would leave; no thruster stands out from the hull as a can, bell, pod or pack. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures and a docking collar are legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, with interior light shown only through small round opaque ports. Its paint is exactly as clean or as worn as its maker's description says; where no wear is named, it is factory-new. Rendered as a crisp studio concept render.
+```
+
+One untested amendment is the next thing to try: add "legs, skids or feet" to the banned list.
+
+**Per-faction block edits.** Each block becomes one livery-and-register sentence or two: register, finish, palette with where each colour lives, markings, and wear. The exact texts used are in the round 6 to 8 `.md` files.
+
+- **Zhestokost:** drop the stove, turret and ammunition-architecture shape language; keep charcoal, iron gray, oxide-red hatches, cream stencils, block codes, soot and chipped enamel. The register held on three renders without the shapes.
+- **Aeronautics Unlimited:** drop the compass-and-ruler and mule shapes; keep chalk white, slate blue, bare aluminium, ochre safety panels, black lettering and mineral dust.
+- **Pirate Coalition:** drop the grappling arm and the additions list (they leak onto every hull); keep donor paint, primer, welds, overpainted logos and crossed-out serials. End with "worn, but the donor's markings stay legible" so the donor's identity survives. Each ship prompt picks its emoji and accent colour, as before.
+- **Finch Cybernetics and Adrasteia:** livery only, ending in an explicit factory-fresh clause. Finch rendered clean; Adrasteia did not.
+- **Lucent Media:** livery only, with the clean clause, and the gaming-mouse layout moved into every Lucent ship prompt as a motif sentence. Open Lucent prompts with the clean statement. Drop the turntable simile.
+- **Ewan Hart:** livery and register ("whimsy turned up") only; no tractor proportions, fenders or hitches. Whimsy comes from a face in the ship prompt, never from legs.
+
+**Best render per ship so far** (the agent's pick):
+
+| Ship | Best render | Why |
+| --- | --- | --- |
+| Dine and Dash | `Renders/Bench 4/Dine and Dash r8b.png` | Racer by livery, sideways thrust cut into the hull, nothing bolted on. |
+| Odd Job | `Renders/Bench 4/Odd Job r5b.png` | Still the cleanest spacecraft read with a face. |
+| Key Light | `Renders/Bench 4/Key Light r8a.png` | Spectacle back, cleanest paint, no fins. |
+| Oboz | `Renders/Bench 4/Oboz r8f.png` | Magazines are the hull. r6c reads more as a ship if integration matters less. |
+| Glushitel | `Renders/Bench 4/Glushitel r7f.png` | Coverage role at a glance (plan view). |
+| Shepherd | `Renders/Bench 4/Shepherd r6d.png` | Turret battery and flush flank grilles. |
+| Rake | `Renders/Bench 4/Rake r8c.png` | The comb is the ship; the thrust sponsons need another pass. |
+| Party Favors | `Renders/Bench 4/Party Favors r6f.png` | The most readable hull of the lab, from 83 words. |
+| Finders Keepers | `Renders/Bench 4/Finders Keepers r8d.png` | Cute and cursed; the legs need to go. |
+| Tattletale | `Renders/Bench 4/Tattletale r6e.png` | Clean, the ear is the ship; the stern pods need a job. |
+| Ghost Fare | `Renders/Bench 4/Ghost Fare r7e.png` | Only render; material right, stern and wear wrong. |
+
+**Promoted to Ship Design Language** (held on at least three ships across at least two factions with no unexplained failure): the vacuum-hull doctrine; weapons only where named; faction blocks as livery and register, with shape motifs in ship prompts; wear in the faction block. Everything else above stays a candidate here.
+
 ---
 
 ## For the Operator
