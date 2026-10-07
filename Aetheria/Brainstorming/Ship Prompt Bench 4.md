@@ -1,0 +1,416 @@
+---
+title: Ship Prompt Bench 4
+description: "A fourth bench of ship prompts, built for the demo cast: Pirates, Zhestokost, Lucent Media and Aeronautics Unlimited, plus the freelancers who share the region with the player. Each entry starts from a play concept that shows on the hull."
+---
+
+# Ship Prompt Bench 4
+
+> **Status: brainstorming bench, 2026-10-07.** Not canon and not adopted. [[Brainstorming/Ship Prompt Bench 3|Ship Prompt Bench 3]] stays as the record of round three, and its entries are referenced here, not repeated. Prompts here are the third block of the composition order in [[Brainstorming/Ship Design Language|Ship Design Language]]. Concepts come from [[Game Design/Ship Play Concepts|Ship Play Concepts]], doctrines from [[Game Design/Faction Play|Faction Play]], and craft rules from guidelines 1 to 14 in [[Brainstorming/Faction Ship Concept Prompts|Faction Ship Concept Prompts]].
+
+This bench serves the demo. Its cast is four factions:
+
+- **The Pirates** are the one allied faction. They hire the player. The player is not a pirate and does not start in a Pirates hull.
+- **Zhestokost** is the antagonist and supplies the boss.
+- **Lucent Media** brings the spectacle.
+- **Aeronautics Unlimited** is the vanilla neutral.
+
+The demo needs at most one player-usable hull per cast faction, enough NPC role hulls (haulers, tenders, miners and so on) to sell each faction's play style, and the Zhestokost boss.
+
+**The structural gift.** The cast counters itself in a circle that the player can learn. Pirate speed demons beat Zhestokost's heavy, slow-tracking columns by crossing close, where the big guns cannot follow. AU's point-defence pickets beat Pirate raiders, because light guns that track fast are the one thing a speed demon cannot outrun. The player is hired by the Pirates, so the job teaches both halves: when to be fast and when to keep away from a picket.
+
+## Mechanics This Bench Leans On
+
+These landed on 2026-10-06. Every entry below is written against them.
+
+| Mechanic | What it means on a hull |
+| --- | --- |
+| **Per-gun tracking rates** | Light one-cell guns track fast and heavy guns track slowly. A hull that wants to hit crossers carries many small turrets; a hull that wants to hit hard carries a few big barrels and accepts what they cannot follow. |
+| **Evasion has two parts** | A change of vector (a jink), and line-of-sight angular velocity against the gun's tracking rate. Close, fast and crossing beats a slow gun. Far and straight loses to anything. |
+| **Mines are free-floating bodies** | Like loot, they drift where they are dropped. Only hostiles trigger them, and the blast is faction-blind: it hurts whoever is near, including the layer's friends. |
+| **Sim speed** | A slower setting makes fast fights readable. The set pieces below use it. |
+
+## How to Use This Bench
+
+- **Compose before rendering:** the global Aetheria block, then the faction block, then one prompt from here, each separated by a blank line. Freelancers compose with their own brand's faction block, not the cast's.
+- **Each entry starts from a concept.** It names its play concept, what the pilot does, and how the default silhouette is broken: thrust layout, weapon placement and arcs, or a non-weapon role (guideline 13). Several demo roles have no catalogue concept yet; those entries say so and link the doctrine instead.
+- **Tracking shows on the hull.** Light, fast-tracking guns are drawn as small single-barrel turrets on raised rings. Heavy, slow guns are drawn as long, thick barrels in fixed armoured casemates. The image model needs both stated, because the global block puts all guns "in small turrets".
+- **Thrust is named where the concept needs it** (Ship Design Language, amended). You still place the final thrusters.
+- **Built-in gear** is stated on every entry: what the role rests on, and how the prompt keeps it integrated and in proportion (guideline 14, ruling `hulls-carry-built-in-gear`).
+- **Drones, mines and munitions** are gear-built bodies, launched from and docked into bays and cradles.
+- **Modes, Safe bet and Moonshot** mean the same as in Bench 2 and Bench 3. A moonshot says what it risks.
+- **Facing shields are wanted** (ruling `aetheria-release:ruling:facing-shields-wanted`; operator: "I would do facing shields, did I rule that out?"). The mechanism, an arc on the shield item per fork 6's option (b), is not yet ruled, and no entry here assumes how it works. On the hull, a facing shield is a visible emitter or projector frame on one face only, with armour on the others. Armour stays the baseline everywhere.
+- **Player-usable** marks the one hull per cast faction meant for the player's hands. Everything else is an NPC role hull.
+- Every prompt ends with the standard frame clause.
+
+## The Demo Cast at a Glance
+
+| Faction | Player-usable | NPC role hulls | Boss | From earlier benches |
+| --- | --- | --- | --- | --- |
+| Zhestokost | none | Oboz, Shchit, Glushitel, Inspektor | Nakovalnya | Batareya |
+| Lucent Media | Prime Time | Green Room, Key Light, B-Roll, Craft Services | — | Spin Cycle (headliner) |
+| Aeronautics Unlimited | Journeyman | Shepherd, Rake, Rockhound, Firecracker | — | Bison, Fenceline, Mule Team |
+| Pirate Coalition | Hand-Me-Down (earned later) | Dine and Dash, Lost and Found, Party Favors, Hamstring, Finders Keepers, Pit Stop | — | Welcome Mat, Jumble Sale |
+
+---
+
+## Zhestokost
+
+[[Game Design/Faction Play#Zhestokost|doctrine]] · register: serious
+
+**From Bench 3, by reference:** [[Brainstorming/Ship Prompt Bench 3#Zhestokost|Batareya]], the two-sided broadside, is the column's line ship.
+
+**The column as a whole.** A column is Batareyas leashed to an Oboz, with a Shchit between the tender and the threat, a Glushitel to eat missiles, and an Inspektor out front to hail. Everything in it is heavy, slow-tracking and bright. That is the opening the Pirates' speed demons were built for, and the reason the column never chases far.
+
+### Oboz · Tender
+
+**Concept:** [[Game Design/Ship Play Concepts#Tender|Tender]]. Oboz means "baggage train". Mode: Function. Safe bet.
+**Plays:** it is the column's anchor. It carries the rounds, holds back, and lets low-magazine ships peel back, couple and rearm. It has `break_off_hull` high: it flees early, and the column follows it home.
+**Breaks the default:** unarmed. The magazines are the architecture, transfer collars sit on both flanks, and four squat drive pods sit under the belly so the stern can carry a towing lug.
+**Built-in gear:** yes. The magazines are the hull's own mass, and the transfer collars are flush in the flanks.
+
+Design the Oboz, a three-crew Zhestokost ammunition tender, the slow, bright anchor a gun column falls back to. It carries no gun at all. Its body is a long, broad, stepped armoured box whose upper half is three huge magazine blocks in a row, each the size of a small ship, each fronted by large square oxide-red hatches with heavy hinge bars. Along the flank facing the camera, two thick round transfer collars are set flush into the hull at hull height, each ringed by guide lugs and a cream stencilled berth number, where gunships couple to rearm. Big open radiator vanes stand in a short row along the spine behind the cab. The cockpit is a narrow slit in a low armoured block at the bow. Four squat drive pods sit low under the belly at its corners, and a heavy towing lug juts from the stern plate. Large block-letter unit codes run down the flank. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Shchit · Facing-Shield Escort
+
+**Concept:** [[Game Design/Ship Play Concepts#Facing Shield|Facing Shield]] on an [[Game Design/Ship Play Concepts#Armoured Prow|Armoured Prow]]. Shchit means "shield". Facing shields are wanted (`aetheria-release:ruling:facing-shields-wanted`); the arc mechanism is not yet ruled. Mode: Function. Safe bet.
+**Plays:** it parks its shield face between the Oboz and whatever threatens it, and turns to keep it there. Its guns are light and set back behind the projector frame. Counter: flank it, or come at it from two sides at once. Its corner blocks turn it fast, but not as fast as a crosser moves around it, and one face cannot point two ways.
+**Breaks the default:** the bow is a shield face, not a gun position. Four big turning blocks at the stern corners let it pivot on the spot, because pivoting is its whole job.
+**Built-in gear:** yes. The projector frame forms the bow face, plainly directional, and the other faces carry armour.
+
+Design the Shchit, a two-crew Zhestokost escort that parks its shield face between its tender and any threat and keeps turning to hold it there. The bow is one broad, flat, square projector face set square to the spine, broader and taller than the rest of the hull: a thick stepped charcoal armour frame around a recessed grid of square emitter panels, with deep bolt rows along the frame and oxide-red power trunks feeding it from behind. The shield faces forward only. Every other face carries thick overlapping charcoal armour plates, and behind the frame the hull drops away sharply, thinning to a short, plain stern. Two small, squat turrets with short barrels sit low behind the frame on the shoulders, peering over it. The cockpit is a narrow armoured slit cut through the top of the frame. Four large square turning-thruster blocks sit at the four stern corners, facing sideways, and one modest drive sits between them. Chipped enamel scars the frame edges, and one bolted replacement emitter panel in a fresher shade sits in the grid. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Glushitel · Point-Defence Umbrella
+
+**Concept:** [[Game Design/Ship Play Concepts#Point-Defence Umbrella|Point-Defence Umbrella]]. Glushitel means "damper". Mode: Function. Safe bet.
+**Plays:** it flies inside the column and throws flak. Its shrapnel eats missiles and drones, so swarm and guided-missile users have to switch weapons. Its flak turrets are light and track fast, but they do little against a hull.
+**Breaks the default:** no forward gun. Six small flak turrets cover every face, and the largest feature is the shrapnel magazine.
+**Built-in gear:** none. The flak turrets are fitted light guns, and the magazine is a hatch.
+
+Design the Glushitel, a two-crew Zhestokost flak gunboat that throws a wall of shrapnel at anything fired at its column. Its body is a squat, broad stepped armoured box. Six small, squat flak turrets stand on raised armoured rings spread over every face: two on the bow shoulders, two at mid-hull on the dorsal edge, and two at the stern corners, each with one short, thick barrel, a flash hider and a small sensor block, each clearly able to turn fast. The centre of the back is one large shrapnel magazine under a broad square oxide-red hatch, with ammunition feed trunks running from it to every turret. The cockpit is a narrow slit in a low block at the bow. Soot rings every flak muzzle. One plain drive sits at the stern. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Inspektor · Interdiction Cutter
+
+**Concept:** none in the catalogue. The hail is the play. The nearest is [[Game Design/Ship Play Concepts#Interdictor|Interdictor]], without the pin. Mode: Function. Safe bet.
+**Plays:** it runs out ahead of the column, matches your vector and hails: "Cut thrust and hold for inspection." It fires only if you keep thrusting during its grace. Its one gun is heavy and slow. An inspection is an order to stop moving and become an easy target, so complying is a bet on Zhestokost's word.
+**Breaks the default:** one heavy gun in a fixed casemate under the bow, and a signal-lamp mast as the largest feature. Four corner blocks let it hold station facing you.
+**Built-in gear:** yes. The signal mast is built into the bow block, and the heavy gun's casemate is the chin.
+
+Design the Inspektor, a two-crew Zhestokost interdiction cutter that runs ahead of a column, hails a contact and orders it to cut thrust. On top of the bow block stands a thick, stepped signal mast fused to the hull, carrying a large square signal lamp behind a heavy armoured shutter and a broad flat hail antenna. Under the bow, one long, thick heavy gun sits in a fixed armoured casemate built into the chin, its barrel pointing straight forward along the spine. The body is a compact, low stepped box with deep seams. The cockpit is a narrow slit in the bow block under the mast. Four square station-keeping thruster blocks sit at the four hull corners, and one plain drive sits at the stern. Cream stencilled lettering on the bow plate reads "INSPEKTSIYA", and safety chevrons ring the casemate. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Nakovalnya · Fortress (the boss)
+
+**Concept:** [[Game Design/Ship Play Concepts#Armoured Prow|Armoured Prow]] and [[Game Design/Ship Play Concepts#Point-Defence Umbrella|Point-Defence Umbrella]] in one hull, fed by two [[Game Design/Ship Play Concepts#Tender|Tenders]]. Nakovalnya means "anvil". Mode: Function. Moonshot: the hull carries two gun scales at once, and the model may blur the ring of small turrets into greeble.
+**Plays:** its heavy guns sit in fixed casemates on narrow forward arcs. They hit anything far away or flying straight, and cannot track a close crosser. A ring of one-cell flak turrets can. Two Obozes feed it through flank collars, so killing the tenders runs its magazines dry mid-fight. There are three ways in:
+1. **Strip.** Stay on its quarter, outside the heavy arcs, and take the flak ring apart at standoff range while it turns.
+2. **Dive.** Once one face of the ring is thin, cross close and fast under the heavy guns' tracking.
+3. **Starve.** Kill the two Obozes and wait for the casemates to go quiet.
+
+**Breaks the default:** the forward guns are casemates set into a prow, not a nose pair, and the defence is a ring. Six turning blocks around the hull turn a fortress slowly.
+**Built-in gear:** yes. The casemates are the prow, and the two feed collars are the flanks. The flak ring is fitted light guns on standard rings.
+
+Design the Nakovalnya, an eight-crew Zhestokost fortress ship, a foundry anvil that learned to fly. Its body is a huge, low, broad stepped armoured mass, wider than it is long at the bow and tapering to a squared stern. Three long, thick heavy gun barrels project from fixed armoured casemates built into the stepped prow, all three pointing straight forward on narrow arcs. Around the hull's upper edge runs a ring of ten small, squat flak turrets on raised armoured rings, evenly spaced, each with one short barrel and a small sensor block, each clearly able to turn fast. On the flank facing the camera, a large round feed collar is set into the hull, ringed by guide lugs and an oxide-red ammunition door, where a tender couples. Magazine hatches the size of doors run in rows along the dorsal plating. The cockpit is a narrow armoured slit high on the prow. Six square turning-thruster blocks sit around the hull's edge, and two broad drives fill the stern. Large block-letter unit codes cover the flank. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+---
+
+## Lucent Media
+
+[[Game Design/Faction Play#Lucent Media|doctrine]] · register: spectacle
+
+**From Bench 3, by reference:** [[Brainstorming/Ship Prompt Bench 3#Lucent Media|Spin Cycle]], the rotating battery, is the headliner.
+
+**The show as a whole.** One headliner duels while the Green Room holds and watches. Key Light paints the stage, B-Roll films, and Craft Services sits off-stage to cool and re-arm whoever just fought. Break the duel's form and the whole cast engages.
+
+### Green Room · Holding Ship
+
+**Concept:** none in the catalogue. It is the duel's audience: the holding ships in Faction Play's Lucent weakness. The nearest is [[Game Design/Ship Play Concepts#Turret Platform|Turret Platform]]. Mode: Function. Safe bet.
+**Plays:** it holds position at range and watches the headliner duel. While the duel's form holds, it does nothing. Fire on it during a duel, bring a wingman, or let a third party in, and every holding ship engages at once.
+**Breaks the default:** its lasers sit stowed in rotary mounts along the shell edges, visibly not fighting. Four station-keeping pods hold its position.
+**Built-in gear:** yes. The viewing gallery is the shell's top layer, a row of round ports along the brow.
+
+Design the Green Room, a three-crew Lucent Media holding ship that waits at the edge of a duel and watches. Its compact central chassis is wrapped in broad, overlapping curved shells, and its top shell is a long viewing gallery: a curved brow set with a row of small round opaque viewing ports, like seats in a box at a stadium. Four laser emitters sit stowed along the shell edges in thick knurled wheel-shaped rotary mounts, each turned flat against the hull, at rest. A camera-lens sensor dome sits at the front of the gallery, and a cluster of round stage lights is set into the brow. The cockpit is a domed canopy at the front of the chassis. Four small station-keeping thruster pods sit at the shell corners. The show title runs along the flank, with a small "ON AIR" panel dark beside the hatch. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Key Light · Illuminator
+
+**Concept:** [[Game Design/Ship Play Concepts#Illuminator|Illuminator]] and [[Game Design/Ship Play Concepts#Spotter|Spotter]]. Mode: Function. Safe bet.
+**Plays:** it pings and paints you, so the headliner sees your gear and everyone in the zone sees you. The ping reveals Key Light too, so it is the first thing anyone with missiles kills.
+**Breaks the default:** the bow is a lighting rig. It has no real weapon, and a ventral drive leaves the stern free for a cooling fan.
+**Built-in gear:** yes. The stage-light array forms the bow face, set into the shells, not raised on a stand.
+
+Design the Key Light, a single-pilot Lucent Media illuminator that floods a duel with active sensor light and paints the challenger for the camera. Its whole bow is one broad, shallow, curved lighting array set into the front shells like the face of a stage light, a grid of large round lamp apertures behind thick knurled bezels, framed by two short blade-shaped prongs. Behind the array, the compact chassis is wrapped in thick overlapping curved shells offset in steps. A tall, thick sensor fin rises from the back carrying a ring of small round stage lights. The cockpit is a domed canopy set behind the array. A ribbed cooling fan housing closes the stern, and the main drive sits in a single pod under the belly. A sponsor logo and the words "Key Light" run along the flank. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### B-Roll · Spotter Drone
+
+**Concept:** [[Game Design/Ship Play Concepts#Spotter|Spotter]], as Faction Play's camera drone that "asks to follow your next fight". Mode: Function. Safe bet.
+**Plays:** it follows fights, yours included, and pings while it films. It is harmless and annoying, and one shot from a point-defence gun kills it. It is the bench's smallest body.
+**Breaks the default:** no pilot and no gun. It is a camera with thrusters.
+**Built-in gear:** yes. The camera lens is the body's front face.
+
+Design the B-Roll, an uncrewed Lucent Media camera drone, a tiny flying camera that follows fights and films them. Its body is one small, round, compact chassis shaped like a professional film camera, wrapped in two thick overlapping curved shells in golden yellow and white. Its whole front face is one large camera lens in a thick knurled focus ring, with a small round red tally light above it. A short, thick antenna stub rises from the top shell beside a tiny stage light. Four small thruster pods sit on short rounded arms at its corners like a quadcopter's rotors, each fused to the body. There is no cockpit and no weapon. A sponsor sticker and a small serial plate sit on the side shell. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Craft Services · Heat and Power Tender
+
+**Concept:** [[Game Design/Ship Play Concepts#Heat Tender|Heat Tender]] and [[Game Design/Ship Play Concepts#Power Tender|Power Tender]]. Mode: Function. Safe bet.
+**Plays:** it waits off-stage. Between bouts a headliner couples to it to dump heat and refill its capacitors, so a losing headliner has somewhere to break off to. It is the anchor of the Lucent break-off, and a raider who finds it ends the show early.
+**Breaks the default:** a non-combat role. Two coupling booms fold along its shells, and its thrust is spread across four swivelling pods.
+**Built-in gear:** yes. The booms fold into channels in the shells, and the capacitor bank is the body's core.
+
+Design the Craft Services, a two-person Lucent Media support ship that cools and recharges duelling headliners between bouts. Its central chassis is a swollen capacitor core wrapped in thick overlapping curved shells. Two thick coupling booms lie folded forward along its upper shells, each set into its own channel, each ending in a round collar with a knurled ring. Broad ribbed cooling panels lie flat across its back between the booms, in pale lavender. The cockpit is a domed canopy at the front, with a cluster of round stage lights in the brow and a small "BACKSTAGE" panel beside it. Four small swivelling thruster pods sit at the corners of the chassis. A sponsor logo and a catering-style menu board graphic run along the flank. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Prime Time · Burst and Break Off (player-usable)
+
+**Concept:** [[Game Design/Ship Play Concepts#Burst and Break Off|Burst and Break Off]]. Mode: Function. Moonshot: half-open radiator shells may read as damage.
+**Plays:** the player's Lucent hull, and the one that teaches the heat window. It opens with one heavy laser burst, then must open its big radiator shells and is bright, hot and weak for several seconds. A good pilot fires, rolls the radiators away from the enemy, breaks off to cool, and comes back. Every Lucent headliner the player fights has the same window, so flying it teaches you how to beat them.
+**Breaks the default:** one burst emitter on the spine. The radiators are the wing shells, and the drives sit in two ventral pods so the rear fins can flare.
+**Built-in gear:** yes. The radiator shells are the hull's outer layer. The capacitor is the chassis.
+
+Design the Prime Time, a single-pilot Lucent Media burst striker that fires one heavy laser burst and then opens its radiators to cool. One heavy laser emitter runs along the centreline of its back, a thick barrel in a knurled wheel-shaped mount, pointing straight forward between two long blade-shaped prongs that sweep over the nose. Its outer shells are its radiators: two broad, thick, curved shells on each flank, layered like palm covers. On the side facing the camera, the upper shell is hinged half open, showing ribbed radiator fins beneath in pale lavender. The shells on the far side are closed. Small fins flare up and out at the rear. The cockpit is a domed canopy ahead of the emitter, beside a camera-lens sensor dome. Two drive pods sit under the belly. A show title and a sponsor logo run along the flank. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+---
+
+## Aeronautics Unlimited
+
+[[Game Design/Faction Play#Aeronautics Unlimited|doctrine]] · register: serious
+
+**From earlier benches, by reference:** Bison (first bench) is the hauler, and [[Brainstorming/Ship Prompt Bench 3#Aeronautics Unlimited|Fenceline and Mule Team]] (Bench 3) plant sentries and tow mass.
+
+**The worksite as a whole.** Rockhounds mine, Bisons haul, Shepherds keep pickets around both, Firecrackers wait for the first contact, and Rakes keep the lanes clear of mines. Threatened, the workers dump cargo and run; the escorts shoot at the first thing they see.
+
+### Shepherd · Point-Defence Picket
+
+**Concept:** [[Game Design/Ship Play Concepts#Point-Defence Umbrella|Point-Defence Umbrella]]. Mode: Mass (a herding dog circling a flock). Safe bet.
+**Plays:** it circles a worksite on a short leash with nothing but one-cell guns, all tracking fast. A Pirate speed demon wins against slow guns by crossing close, and a Shepherd is the ship that punishes that. Its guns do little to armour, so a heavy hull can simply push through it.
+**Breaks the default:** no forward gun and no heavy gun. Eight light turrets cover every face, and the drives sit in two side pods so it can hold an orbit.
+**Built-in gear:** none. Every turret is a fitted light gun on a standard ring.
+
+Design the Shepherd, a two-person Aeronautics Unlimited point-defence picket that circles a worksite and shoots down anything fast that comes near it. Its body is a short, plain, rounded-rectangular hull. Eight small turrets on raised rings are spread evenly over its faces: two on the bow, two on each flank edge and two at the stern, each a compact boxy turret with one short light barrel and a small round sensor aperture, each clearly able to turn fast. There is no larger gun. A short survey mast with a tracking dish rises from the middle of the back. The cab is a rounded-rectangle block at the front with a wide, low window. Two drive pods sit on short stubs at mid-flank. Stencilled turret numbers sit beside every ring, and ochre safety panels mark the lifting points. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Rake · Minesweeper
+
+**Concept:** [[Game Design/Ship Play Concepts#Minesweeper|Minesweeper]]. Mode: Function (a farm rake made into a sweep). Safe bet.
+**Plays:** it keeps worksite lanes clear. Mines drift free and only hostiles trigger them, so a Rake sets off Pirate mines on purpose at the end of its comb, where the blast is far from the cab. It is slow and needs the Shepherds around it.
+**Breaks the default:** the bow is a tool. Two drives sit far back on the flanks, behind the comb's blast shadow.
+**Built-in gear:** yes. The sweep comb forms the bow. Its tines are replaceable armour, and two spare tines are racked on the deck.
+
+Design the Rake, a two-person Aeronautics Unlimited minesweeper that clears drifting mines from worksite lanes by setting them off at a distance. Its bow is one broad sweep comb, wider than the hull: a thick armoured bar carrying a row of long, heavy, blunt tines that point straight forward, each tine a replaceable armoured rod with a stencilled number. Two of the tines are newer and a fresher white than the rest. Behind the comb, a thick blast plate stands between the comb and the cab. The cab is a rounded-rectangle block with a narrow, low window behind the blast plate. Two spare tines lie in clamp racks on the dorsal deck. Two drive pods sit far back on the lower flanks. One small turret sits on the cab roof. Ochre safety panels band the comb bar, and soot stains the tine tips. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Rockhound · Miner
+
+**Concept:** none in the catalogue; a miner is a worker, not a fighter. It carries the AU hauler quirk from [[Game Design/Faction Play#Aeronautics Unlimited|Faction Play]]. Mode: Function. Safe bet.
+**Plays:** it grinds ore from rock. When a hostile appears, it opens its belly doors, drops its ore as loot and runs for the station. The ore is what the Pirates hire the player to collect.
+**Breaks the default:** no gun at all. The bow is a cutting head, and the drives are four short pods angled down at the corners so it can hold against a rock face.
+**Built-in gear:** yes. The cutting head is the bow, and the ore bin with its dump doors is the belly.
+
+Design the Rockhound, a two-person Aeronautics Unlimited miner that grinds ore from rock and drops its load to run when anything hostile appears. Its bow is one broad cylindrical cutting drum set across the front, studded with short blunt cutting teeth, held in a thick armoured cradle. Behind it, a covered conveyor runs up into a large rounded-rectangle ore bin that makes up most of the body, with two wide hinged dump doors along its belly, shown slightly open with a little ore spilling out. The cab is a compact block above the cutting drum with a wide, low window and a short survey mast. Four short drive pods sit at the corners, angled down and back. It carries no weapon. Pale mineral dust packs every crease, and abrasion scuffs the lower edges. Stencilled bay numbers mark the ore bin. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Firecracker · Swarm Boat
+
+**Concept:** [[Game Design/Ship Play Concepts#Swarm Boat|Swarm Boat]]. Mode: Function. Safe bet.
+**Plays:** it is the AU escort that fires dumbfire Leonid swarms at the first contact it sees, decoys included. It empties fast on the wrong target. Give it something else to shoot first, and dodge its swarms by moving across their line of fire rather than away from them. A Glushitel's flak eats its swarms whole.
+**Breaks the default:** the whole dorsal surface is a launcher, and the drives sit in two pods under the launcher block.
+**Built-in gear:** none. The launcher block is fitted swarm gear in numbered cells.
+
+Design the Firecracker, a single-pilot Aeronautics Unlimited swarm escort that fires a dense cloud of small dumbfire rockets at the first contact it sees. Its back is one broad, flat-topped launcher block, a grid of six rows of small round launch tubes, each closed by a thin square cover, angled slightly upward toward the bow. A few covers in the front row are missing, the tubes empty and sooted. The block sits on a short, plain, rounded-rectangle hull. The cab is a compact block at the front with a wide, low window and a short survey mast. Two drive pods sit under the launcher block at the rear. One small turret sits on the cab roof. Stencilled reload numbers run along the block's edge, and ochre hazard panels border it. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Journeyman · Turret Platform (player-usable)
+
+**Concept:** [[Game Design/Ship Play Concepts#Turret Platform|Turret Platform]]. Mode: Mass (a well-packed mule). Safe bet.
+**Plays:** the player's AU hull: honest and forgiving. Two light turrets fire in every direction, so the pilot manages position and range rather than heading. A small hold and one tool socket let it do a little of every job. It does nothing best, and it fails at nothing.
+**Breaks the default:** no forward-fixed gun. Two turrets on the shoulders, and four corner thruster pods for forgiving, even handling.
+**Built-in gear:** none. The tool socket takes whatever the job needs.
+
+Design the Journeyman, a single-pilot Aeronautics Unlimited all-rounder, the ship a new contractor learns on and never quite sells. Its body is a compact, balanced rounded-rectangular hull. Two small turrets sit on raised rings on its shoulders, each with one light barrel, each clearly able to turn all the way round. Behind them, a short cargo bay sits under two hinged doors with stencilled bay numbers. At the bow, under the cab, a square tool socket with a bare aluminium clamp ring is ready for a mining head, a grab or a sensor. The cab is a rounded-rectangle block with a wide, low window and a short survey mast. Four short thruster pods sit at the four corners, fused to the hull. One replaced panel on the flank is a slightly fresher chalk white, and a small "Hours: 4,180" service sticker sits beside the hatch. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+---
+
+## Pirate Coalition
+
+[[Game Design/Faction Play#Pirate Coalition|doctrine]] · register: wild and maximalist
+
+**From Bench 3, by reference:** [[Brainstorming/Ship Prompt Bench 3#Pirate Coalition|Welcome Mat and Jumble Sale]], the boarder and the mixed-cloud carrier.
+
+**The crews as a whole.** Every Pirate hull is a stolen donor with additions on the camera side, primer, one crew accent colour and the crew's emoji painted three times. Pirates want cargo, not death. They take it fast and leave fights they are losing. Their speed demons beat the Zhestokost column; AU's Shepherds beat them.
+
+### Dine and Dash · Speed Demon
+
+**Concept:** none in the catalogue; this is the poster child for the angular-velocity term in evasion. The nearest is [[Game Design/Ship Play Concepts#Forward-Fixed Fighter|Forward-Fixed Fighter]], here turned sideways. Mode: Function. Safe bet.
+**Plays:** it has no armour and huge lateral thrust. It crosses close and jinks, so heavy guns cannot track it and nothing gets a straight shot. It eats Zhestokost columns alive and dies to Shepherds.
+**Breaks the default:** the largest features are two lateral thruster banks, not drives. Its guns are two light turrets that can track while it slides.
+**Built-in gear:** none. Every addition is bolted on.
+
+Design the Dine and Dash, a single-pilot Pirate Coalition speed demon built from a stolen Alakrita racer, stripped of every gram that was not thrust. The donor's long, narrow, knife-pleated ivory body is still recognisable, with patches of wine-red lacquer, but its armour plates are gone, leaving bare frames and exposed cable runs clamped along the hull. On each flank, a huge bank of four lateral thruster nozzles is bolted on, pointing straight sideways, each bank bigger than the cockpit, the one on the camera side braced with welded struts. Two small light turrets on improvised mounts sit on the dorsal ridge. The original slim drive row remains at the stern. The cockpit is the donor's long, narrow canopy. The crew emblem, a running-figure emoji, is painted three times. A bright orange crew accent slashes across donor and additions alike. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Lost and Found · Q-Ship
+
+**Concept:** [[Game Design/Ship Play Concepts#Q-Ship|Q-Ship]] and [[Game Design/Ship Play Concepts#False Distress|False Distress]]. Mode: Story. Safe bet.
+**Plays:** it sits as distress bait with a freighter's transponder and a gunship's heat. When a responder commits, the container doors drop and the guns come out. Its tell is the one Faction Play names: the transponder does not match the heat.
+**Breaks the default:** its guns are hidden in the cargo. The donor's drives stay where a freighter's would be, because looking ordinary is the weapon.
+**Built-in gear:** none. The hidden guns are stolen fitted gear behind cut-down container doors.
+
+Design the Lost and Found, a three-crew Pirate Coalition Q-ship built from a stolen Lightsail Express hauler, dressed to look like a freighter in trouble. The donor's cab and long cargo spine are still recognisable, in faded fleet blue with vermilion route stripes, and the containers are still clamped to the spine. On the side facing the camera, the front of one container has been cut into a hinged door, shown dropped open to expose two heavy gun barrels on an improvised mount inside. A scorch mark across the cab is painted on, and a rust-red dye streak runs from a vent like a leak. An extra reactor housing in gray primer bulges behind the cab where no freighter needs one. A distress beacon is welded to the cab roof. The crew emblem, a teddy-bear emoji, is painted three times. A purple crew accent slashes across donor and additions alike. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Party Favors · Minelayer
+
+**Concept:** [[Game Design/Ship Play Concepts#Minelayer|Minelayer]] and [[Game Design/Ship Play Concepts#Stern Chaser|Stern Chaser]]. Mode: Story. Safe bet.
+**Plays:** it runs, strewing mines behind it. Only hostiles trigger them, so pirates fly through their own fields and pursuers do not. The blast is faction-blind, so a pirate who lingers next to a mine a pursuer triggers pays for it too.
+**Breaks the default:** the stern belongs to the mine chute, so the drives are bolted on the flanks.
+**Built-in gear:** none. The mines are gear-built munitions in a stolen ore hopper.
+
+Design the Party Favors, a two-crew Pirate Coalition minelayer built from a stolen Aeronautics Unlimited ore hauler, strewing mines behind it as it runs. The donor's plain rounded-rectangle body is still recognisable, with chalk-white paint and stencilled bay numbers. Its ore hopper on the back is now full of round mines, each painted by the crew with bright confetti dots, feeding down into the old ore chute, which now ends in a square hatch at the stern. One mine sits half out of the hatch. Its original stern drive is gone: two mismatched replacement drives are bolted onto the flanks, the one on the camera side larger and braced with welded struts. One small turret on an improvised mount faces aft over the hopper. The crew emblem, a party-popper emoji, is painted three times. A red crew accent slashes across donor and additions alike. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Hamstring · Disabler
+
+**Concept:** [[Game Design/Ship Play Concepts#Disabler|Disabler]], with `target_priority` drives. Mode: Function. Safe bet.
+**Plays:** it reads your drives from range, shoots them, and waits for you to stop. Then the crew collects. Protect your drives, or kill it before it finishes reading you.
+**Breaks the default:** one long, light gun along the spine, and the donor's sensor ear as the largest feature. No nose pair.
+**Built-in gear:** the donor's own sensor dish, kept as the body's mass. The gun is bolted on.
+
+Design the Hamstring, a two-crew Pirate Coalition drive sniper built from a stolen Finch Cybernetics survey ship. The donor's smooth, tapered pearl-white body is still recognisable, with its broad shallow sensor dish recessed into the flank facing the camera like an ear, and a row of dark lens apertures along its brow. Along the spine, a long, thin, precise gun barrel on an improvised clamp mount runs the whole length of the hull, its muzzle well past the nose. Bolted salvage armour plates in gray primer cover the dish's lower edge, and exposed cable runs are clamped from the dish to the gun mount. The cockpit is the donor's narrow canopy. A tally of painted drive-nozzle silhouettes runs along the flank. The crew emblem, a scissors emoji, is painted three times. A cyan crew accent slashes across donor and additions alike. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Finders Keepers · Salvager
+
+**Concept:** [[Game Design/Ship Play Concepts#Salvager|Salvager]]. Mode: Mass (a vacuum cleaner with teeth). Safe bet.
+**Plays:** it tractors jettisoned cargo. When loot drops, it goes for the loot and the fight stops for it. A player can use that: drop something and the collector turns away.
+**Breaks the default:** the bow is a cargo maw with a tractor emitter, and it has no forward gun.
+**Built-in gear:** none. The tractor and the maw are bolted on.
+
+Design the Finders Keepers, a three-crew Pirate Coalition collector built from a stolen Ewan Hart farm hauler, which tractors in loose cargo the moment it drops. The donor's tractor proportions are still recognisable, in faded harvest gold with deep green on the cab, its big rounded fenders and round gauges intact. Its front implement is gone: a wide, open cargo maw is welded across the bow in gray primer, with a broad round tractor emitter mounted above it and two short sorting arms folded at its edges. A canvas net is lashed over the open rear deck, bulging with mismatched crates. One small turret on an improvised mount sits on the cab roof. Exposed cable runs are clamped from the emitter back to the power housing. The crew emblem, a magnet emoji, is painted three times. An electric blue crew accent slashes across donor and additions alike. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Pit Stop · Hidden Tender
+
+**Concept:** [[Game Design/Ship Play Concepts#Tender|Tender]] and [[Game Design/Ship Play Concepts#Playing Dead|Playing Dead]]. Mode: Story. Moonshot: the debris camouflage may break the solid silhouette.
+**Plays:** it lies cold in a debris field, where crews come to rearm, repair and offload. Find it and you find where the raiders go home.
+**Breaks the default:** it does not fly in fights at all. The donor is a stolen Zhestokost tender, so the Pirates' depot is the column's own anchor.
+**Built-in gear:** the donor's magazines and transfer collars, kept. The camouflage is lashed on.
+
+Design the Pit Stop, a four-crew Pirate Coalition hidden tender built from a stolen Zhestokost ammunition tender, lying cold among wreckage. The donor's long, stepped armoured body is still recognisable, in charcoal with oxide-red magazine hatches, but its unit codes are crossed out. Thick slabs of wreck plating and bent hull fragments are lashed across its back and flank with heavy cable, so it reads as one more piece of debris, all of it fused into one solid mass. On the side facing the camera, one transfer collar has been cut open and refitted with a pirate docking clamp in gray primer. Its radiator vanes are folded flat, and its port lights are dark. A crude hand-painted sign above the collar reads "Open". The crew emblem, a wrench emoji, is painted three times. A magenta crew accent slashes across donor and additions alike. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Hand-Me-Down · Raider (player-usable, earned later)
+
+**Concept:** [[Game Design/Ship Play Concepts#Stern Chaser|Stern Chaser]] and [[Game Design/Ship Play Concepts#Turret Platform|Turret Platform]]: a raider that can run and still shoot. Mode: Story. Safe bet.
+**Plays:** the player is not a pirate and does not start in a Pirates hull. After enough jobs, a crew hands over a scuffed Second Owner raider, someone else's emoji still on it. It is fast and light, with a rear gun for leaving.
+**Breaks the default:** its donor is a truck cab with no trailer. One turret faces aft, and two mismatched drives hang under the cab.
+**Built-in gear:** none. The previous crew bolted everything on, and some of it is half removed.
+
+Design the Hand-Me-Down, a single-pilot Pirate Coalition raider built from a stolen Lightsail Express truck cab cut free of its trailer and handed down through two crews. The donor's compact rounded cab is still recognisable, in faded fleet blue with a vermilion route stripe, its warm lit window and sun-visor slab intact. Behind the cab, the trailer coupling has been cut off and capped with a welded plate in gray primer. One small turret on an improvised mount sits on the capped plate, turned to point backward. One light gun is bolted under the visor. Two mismatched drives hang low under the cab, one stolen bell and one original pod. On the side facing the camera, the previous crew's emblem, a thumbs-up emoji, is painted twice and half covered by a fresh rectangle of primer, left blank. Its teal accent has been roughly sanded back. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+---
+
+## Freelancers and Passers-By
+
+Operator, 2026-10-07: "It would feel strange if the player is the only freelancer."
+
+These are independents from the other catalog factions who appear in the demo region and do jobs like the player's. Each flies its own brand's hull and composes with that brand's faction block. Six of them get full prompts; the rest are compact riffs.
+
+**Design note: where do freelancers live in faction play?** Today every ship belongs to a faction, and [[Game Design/Faction Play#Fork: Inter-Faction Relations|Faction Play's relations fork]] decides who shoots whom between factions. A freelancer flies a brand without serving its flag. Should freelancers carry an "independent" allegiance with its own row in the relations table, should they keep their brand's faction and take contract roles that override it for a job, or something else? This bench assumes no answer. It is an open question, not a decision.
+
+### Tattletale · Finch Cybernetics
+
+**Job:** bounty hunter and tracker. **Hook:** it shadows you and sells your track to whoever pays, so a Zhestokost column or a Pirate crew knows where you are. Break its tail by going cold, or pay it more.
+**Concept:** [[Game Design/Ship Play Concepts#Spotter|Spotter]]. Mode: Function. Safe bet.
+**Breaks the default:** the sensor ear is the largest feature, and the gun is one small flush aperture. Fine ports along the flanks let it hold a tail without a big drive.
+**Built-in gear:** yes. The sensor dish is set into the flank as the body's own surface.
+
+Design the Tattletale, a single-pilot Finch Cybernetics tracker that follows a ship at a distance and sells its position to whoever pays. One broad, shallow sensor dish is recessed into the flank facing the camera like an ear, larger than any other feature, ringed by a short row of celadon-green indicator dots. A second, smaller dish sits recessed in the far flank, its rim just visible past the dorsal line. The body is one smooth, continuous tapered form with hairline seams. A row of dark round lens apertures runs along the brow. The cockpit is a narrow tapered canopy at the nose. One small low-signature weapon aperture sits flush under the nose. Rows of fine manoeuvring ports run along both flanks. A small gray technician label reads "Track Services, Billed by the Minute". One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Overnight · Lightsail Express
+
+**Job:** courier. **Hook:** it never drops cargo, so threatening it gets nothing. It can be escorted for pay or robbed by force, and the Pirates will offer both jobs in the same week.
+**Concept:** [[Game Design/Ship Play Concepts#Stern Chaser|Stern Chaser]]: a courier that runs and shoots back. Mode: Function. Safe bet.
+**Breaks the default:** a single sealed pod in place of a trailer, its gun facing aft, and drives slung under the cab.
+**Built-in gear:** yes. The sealed courier pod is clamped flush into the spine and cannot be jettisoned.
+
+Design the Overnight, a single-pilot Lightsail Express courier that carries one sealed parcel pod and will not let go of it. The cab is a compact rounded block at the front with a warm lit window, a sun-visor slab over the windscreen, and a personal pennant beside the door. Behind it, a short spine carries one sealed, rounded cargo pod locked down by four heavy clamps, with a bold vermilion "Next Day" stencil and a row of inspection stickers. One small machine-gun turret sits on the rear of the pod, turned to point backward. Two fat drive pods are slung low under the cab like a truck's fuel tanks. Polished handholds run along the cab, and a delivery tally is painted under the window. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Odd Job · Ewan Hart
+
+**Job:** salvage tug. **Hook:** it races you to wrecks and dropped loot, competing for the same floating bodies. When an AU hauler dumps ore, the player, a Finders Keepers and an Odd Job all go for the same cloud.
+**Concept:** [[Game Design/Ship Play Concepts#Salvager|Salvager]] and [[Game Design/Ship Play Concepts#Tug|Tug]]. Mode: Mass (a farm tractor with a front loader). Safe bet.
+**Breaks the default:** the bow is a loader bucket and a grab arm. The thrust sits inside four fenders, facing down and back.
+**Built-in gear:** yes. The loader bucket forms the bow.
+
+Design the Odd Job, a single-pilot Ewan Hart salvage tug that races everyone else to wrecks and loose cargo. Its bow is one broad, deep front-loader bucket fused to the hull on two thick hydraulic arms, its lip worn bright. A folding grab arm lies along the flank facing the camera, ending in a heavy three-fingered claw. A heavy tow hitch sits at the stern. The cab is a rounded tractor cab with a wide window and large round gauges. Four thrusters sit inside four big rounded fenders at its corners, facing down and back like a tractor's wheels. A canvas feed sack and a coil of tow cable are strapped to the rear deck. A hand-painted sign on the cab door reads "No Job Too Odd". One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Second Opinion · Rossum & Douglas
+
+**Job:** missile-boat mercenary. **Hook:** it keeps its distance and backs away from anyone who closes. Hired against you, it is a slow drizzle from range that a speed demon can run down. Hired by you, it is useless against a Glushitel.
+**Concept:** [[Game Design/Ship Play Concepts#Arsenal Barge|Arsenal Barge]], in the faction's stand-off doctrine. Mode: Function. Safe bet.
+**Breaks the default:** no gun at the nose. The weapon is a field of flush missile hatches, and one wide slot drive runs across the rear face.
+**Built-in gear:** none. The hatches are fitted launch cells.
+
+Design the Second Opinion, a single-pilot Rossum & Douglas missile mercenary that fights only from range. It is the familiar flying wedge, slightly longer than standard. Its broad, flat dorsal plane is covered by a grid of twelve identical square missile hatches set flush into the surface, each with a small stencilled number. The blunt nose is plain, with a small recessed square cockpit window. One wide slot drive runs across the whole rear face. One small defensive mount sits flush on the rear edge. A model number, a modest corporate logo and a small label reading "Independent Contractor Edition" sit beside the cockpit. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Controlled Demolition · Death Monkey Explosives
+
+**Job:** demolition contractor. **Hook:** it clears minefields by blowing them up, loudly. Mines are faction-blind, so anyone near the field when it works shares the bill. AU hires it when the Rakes are too slow, and it does not care whose mines they were.
+**Concept:** [[Game Design/Ship Play Concepts#Minesweeper|Minesweeper]], done by detonation. Mode: Function. Safe bet.
+**Breaks the default:** the weapon is a rack of small charge drones on the back. Drives sit on the flanks behind heavy braces, away from the blast face.
+**Built-in gear:** none. The charge drones are gear-built munitions on a launch rail.
+
+Design the Controlled Demolition, a two-person Death Monkey Explosives demolition contractor that clears minefields by setting them off. A long launch rail runs down its back, carrying a row of six small charge drones, each a squat blackened box with an acid-yellow cut line and a short antenna, ready to fly into a minefield and detonate. The front of the ship is one hard-edged blackened slab with a narrow cockpit slit. Sacrificial standoff plates on short struts ride ahead of the bow. The drives sit in two square housings on the flanks behind heavy braces. A thick blast-shutter visor is folded up over the cockpit slit. Hand-painted white lettering on the flank reads the ship's name, a lyric fragment and a tally of fields cleared. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Ghost Fare · Adrasteia
+
+**Job:** cold-running smuggler. **Hook:** it crosses the region dark and never answers a hail. An Inspektor cannot find it, because Zhestokost columns hunt by heat. A Key Light ping can, and Lucent will put it on air.
+**Concept:** [[Game Design/Ship Play Concepts#Quiet Approach|Quiet Approach]]. Mode: Function. Safe bet.
+**Breaks the default:** no visible drive and no visible gun. The hold is the body.
+**Built-in gear:** yes. The smuggling hold is tucked under the main facets, and its seam is the asymmetric facet.
+
+Design the Ghost Fare, a single-pilot Adrasteia smuggler that crosses dangerous space cold and dark with a hidden hold. Its body is a low faceted wedge of broad shallow planes, every surface closed. On the side facing the camera, one broad facet is cut differently from its mirror: it is the hinged lid of a flush smuggling hold, its seam barely visible. The cockpit is a narrow faceted slit at the front of the dorsal ridge. Small thruster ports hide under the overhanging facet edges all around the rim, and the stern closes in one plain facet. One utility port sits flush in the leading edge. One tiny friendly smiley face is stencilled beside the hatch. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Tow & Charge · NiteLife Energy
+
+**Job:** roadside power tender for hire. **Hook:** it recharges anyone who pays, including Lucent headliners between bouts and Pirate raiders after a job. Finding one mid-fight is a resupply, and killing one strands everyone who was counting on it. Hull basis: Bench 3's [[Brainstorming/Ship Prompt Bench 3#NiteLife Energy|Jump Start]], with a tow hitch and a meter.
+
+### Ringer · Alakrita
+
+**Job:** professional duellist. **Hook:** Lucent sponsors hire Ringers to headline. A third party in a duel breaks its form, so a player can pay a Ringer to throw a duel, or to join one on purpose and turn the whole Green Room on the interloper. Hull basis: Bench 3's [[Brainstorming/Ship Prompt Bench 3#Alakrita|Riposte]] in a sponsor's livery.
+
+### Crossing Guard · Corriedales
+
+**Job:** budget point-defence escort for hire. **Hook:** two tiny wand-barrelled PD guns on a plump sheepdog mascot hull. It shoots down Firecracker swarms for you, and it runs dry fast. Cheap, cheerful and very visibly a Lucent family brand.
+
+### Last Mile · Ewan Hart
+
+**Job:** grocery runner to AU stations, because people need dinner. **Hook:** it is the softest target in the region and the one the AU escorts care least about. The Pirates will ask you to rob it, and the station will ask you to escort it.
+
+### Small World · rival freelancer (brand rolled per run)
+
+**Job:** the same jobs as yours. **Hook:** Nemesis-lite, in the Pirate crews' pattern: a named freelancer with one rolled quirk, whose hull brand comes from the run seed. It remembers what you did for the zone visit. It undercuts your contracts if you beat it, and turns up as a wingman if you spared it. Its personal mark stays the same whatever hull it flies.
+
+### Genuine Article · stranded freelancer (any brand)
+
+**Job:** none today; its drive is dead. **Hook:** its distress call looks exactly like Lost and Found's. The player has to read the tells. Lost and Found carries a freighter's transponder with a gunship's heat. The Genuine Article's transponder matches the hull you can see, and it is colder than it should be, because its reactor is out. Helping it pays in goodwill and a tip. Approaching a Q-ship the same way pays in gunfire.
+
+### Off the Clock · Zhestokost deserter
+
+**Job:** freelance gunnery. **Hook:** this one bends the brief, because the hull is from a cast faction, but the pilot is independent: a deserter from Faction Play's dock stories, flying a Batareya with its unit codes ground off. Columns fire on it on sight. It knows how a column thinks and will sell that knowledge.
+
+---
+
+## Cross-Faction Set Pieces
+
+Each arises from the doctrines and mechanics above. None is scripted.
+
+1. **The three-way belt fight.** A Zhestokost Inspektor hails an AU worksite for inspection. While the Shepherds hold their leash around the Rockhounds and the column comes up behind the Inspektor, a Pirate crew raids the Bisons, which dump ore and run. B-Roll arrives and films all of it, and its pings show everyone where everyone is. The player was hired for the ore.
+2. **Minefields as terrain.** A Party Favors strews a field across an AU lane as it flees. Rakes come to clear it, comb first. A Zhestokost column, which hunts by heat and does not read cold mines well, wanders in and pays for every one it triggers. A Controlled Demolition contractor offers to clear what is left, loudly, with the Rakes still in the lane.
+3. **Duel bait while a column approaches.** The player challenges a Lucent headliner and the Green Room holds. A Zhestokost column is inbound to inspect the duel ground. Win fast, or let the column arrive and break the duel's form, so that every holding ship turns on the interloper.
+4. **The anvil and the swarm.** A Pirate raider swarm dives on a Nakovalnya. Shown at slowed sim speed, the heavy casemates miss every crosser, and the flak ring takes them apart one by one. This is the demo's lesson that speed beats heavy guns and loses to light ones, shown in one shot.
+5. **Inspecting a Q-ship.** An Inspektor hails a Lost and Found sitting as distress bait. Its grace is running out and the Q-ship's container doors are still shut. The player can warn the crew that hired them, warn the inspector, or wait to see who fires first.
+
+---
+
+## For the Operator
+
+These are readings this bench made so that it could be written. Overrule any of them.
+
+1. **Shchit is a facing-shield escort**, per `aetheria-release:ruling:facing-shields-wanted`. The prompt draws the shield as a projector frame on the bow face only, with armour everywhere else, and never as a bubble, so the render does not depend on how the arc mechanism is ruled. The Nakovalnya's prow could carry the same frame; it is left as armour here so the boss's three ways in stay readable, and adding one would make "strip from the quarter" the only safe opening.
+2. **Zhestokost has no player-usable hull.** It is the antagonist, and the demo needs at most one per faction, not one each. Off the Clock, the deserter, is where one could come from later.
+3. **Several demo roles have no catalogue concept:** the Inspektor's hail, the Green Room's audience role, Dine and Dash's speed, and the Rockhound miner. Each entry links the nearest concept and the doctrine instead. Speed Demon and Miner may earn entries in Ship Play Concepts once the demo plays them.
+4. **Pirate crews are given fresh accent colours and emojis** (orange, purple, red, cyan, electric blue, magenta), so that no two demo crews share a mark with Bench 3's Welcome Mat (teal) or Jumble Sale (yellow).
+5. **Pit Stop's donor is a stolen Zhestokost tender.** That makes the Pirates' depot the column's own anchor, which seemed worth the story. A neutral donor works just as well.
+
+## Open Questions
+
+1. **Freelancers' home in faction play.** An "independent" allegiance, contract roles on top of a brand faction, or something else. See the design note under Freelancers.
+2. **Do allied mines spare the player?** Pirate mines are triggered only by hostiles, and the player is allied with the Pirates, so Party Favors fields are safe to fly through. That reads as intended, but the bench does not assume it.
+3. **Can collectors take mines?** Mines are free-floating bodies like loot. Whether a Finders Keepers, an Odd Job or a tractor beam can pick one up is not decided, and no entry depends on it.
