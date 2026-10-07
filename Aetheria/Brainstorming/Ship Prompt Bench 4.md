@@ -458,6 +458,40 @@ The variables in this round are large, and some renders change several things at
 - **Ship prompt first, blocks after.** One comparison (r5e against r5f) favoured this order. It needs a second faction before it is adopted.
 - **Wear.** Removing the wear clause from G2 did not make Lucent Media spotless, and neither did "Spotless" in the ship prompt. The model's scale-model look is what weathers the paint, so a clean faction needs to say so more strongly, for example "factory-fresh, unmarked paint".
 
+## Round 6: the agent's own lab, first pass
+
+Operator, 2026-10-08, after rounds 4 and 5: "Your judgment is good so far, why don't you iterate by yourself for a few passes. Try stuff, get creative, gather evidence, explore the space." Rounds 6 to 8 are the agent's; every verdict below is the agent's reading, and the operator column is left for her.
+
+Round 6 takes G2 out to four factions and three new ships. Every long prompt uses **G2.1**, which is G2 with four edits: thrusters are "part of the hull's own surface, never separate pods or packs bolted on"; the armour-plate clause goes (it is Zhestokost's, not everyone's); "rendered like a painted studio scale model" becomes "rendered as a crisp studio concept render"; and paint is "exactly as clean or as worn as its maker's description says; where no wear is named, it is factory-new". Faction blocks are cut to livery and register only. Long prompts run ship prompt first, then faction block, then G2.1, then the frame clause on its own. Renders and exact prompts are in `Renders/Bench 4/` (`Dine and Dash r6a`, `r6b`, `Oboz r6c`, `Shepherd r6d`, `Tattletale r6e`, `Party Favors r6f`), FLUX 3 at 4:3 and 2k.
+
+| Ship | Variant | Hypothesis | What changed | Agent observation | Operator verdict |
+| --- | --- | --- | --- | --- | --- |
+| Dine and Dash | r6a | The racer identity can come from markings and body grammar (needle body, knife-pleat creases, chequered nose, number roundel, "a vacuum racer that never flew in air"), not aero shapes. Lateral thrust as transverse tubes bored through the hull. | G2.1, livery-only Pirate block, ship first; racing livery as the donor's identity; three through-hull thrust tubes. | Racer recovered with no wings or fins: chequered nose, "07" roundels, needle body. The tubes became short cans pointing back along the flank, so thrust half-reads as add-on; a third turret appeared. | |
+| Dine and Dash | r6b | A strict side elevation shows lateral thrust, because the defining feature faces the camera. | Against r6a, the frame clause only. | Better on thrust: the three throats face the viewer and read as sideways. Still cans that stand proud of the flank. The profile loses volume. | |
+| Oboz | r6c | G2.1 and a paint-only Zhestokost block keep the foundry register on a column ship; ship-first holds on a second faction. | G2.1, livery-only Zhestokost block, ship first; radiator vanes cut; drive pods became bells "sunk into recesses". | Held. Charcoal, oxide-red hatches, block codes, unarmed, no fins. The magazines sit on the deck as crates rather than being the hull's mass, and the "sunk" bells project. | |
+| Shepherd | r6d | "Weapons only where named" still delivers a named eight-turret battery; flank thrust as flush grilles reads without pods. | G2.1, livery-only AU block, ship first; stub pods became flush flank grilles. | Held. Chalk white, slate blue, ochre, about eight ring turrets, flush flank grilles. The hull spread into a flat cross and reads slightly like a hover vehicle. | |
+| Tattletale | r6e | Clean factions render clean once the scale-model anchor is gone and the faction block says "factory-fresh, spotless, unmarked paint: no dirt, no chips, no scuffs, no weathering". | G2.1, livery-only Finch block with that clause, ship first. | Mostly held: the cleanest render of the bench, faint smudging only, and the ear dish is the largest feature. Two cylindrical drive pods appeared at the stern where no drive was named. | |
+| Party Favors | r6f | A short blunt prompt with no blocks at all is enough for a readable Pirate hull. | Everything: 83 words, no global or faction block. | Held, and the most readable hull of the round: chalk-white donor, a hopper heaped with confetti mines, primer, red slash, party-popper marks. Flank bells stand slightly proud. Heavily weathered unasked. | |
+
+**Observations.**
+
+- **Dine and Dash's identity lives in its livery.** Wings were never the racer; the chequer and the number roundel are. With them, the model drew a needle racer and did not grow a single fin. That is the first D&D render with both a racer read and no aero.
+- **"Recessed" and "sunk" do not survive.** Asked for tubes bored through the hull or bells sunk into recesses, the model draws cans and bells that stand proud (r6a, r6b, r6c, r6f). Thrust reads as part of the hull only when it is described as slots or grilles cut into a surface (r5c, r5d, r6d).
+- **Unnamed thrust defaults to stern pods,** even against the global "never pods" (r6e). The ship prompt has to place thrust, or the global has to say what unplaced thrust looks like.
+- **Paint-only faction blocks held on four factions** (Zhestokost, AU, Finch, Pirate). The register came from palette, finish and the ship prompt's shape.
+- **Clean paint moved.** The Tattletale is the first clean hull in four rounds. The Pirate and AU renders still weathered from their own blocks, so the global change did not strip wear from factions that ask for it.
+- **The short prompt was not worse.** Party Favors at 83 words read as well as any long prompt. The long blocks may matter less than the ship prompt's concept.
+
+**Block edits that look like they generalise** (evidence counts are renders and factions held on, and where they failed):
+
+- **Vacuum-hull doctrine (no wings, fins, vanes, streamlining).** Held on 10 renders across 6 factions (Ewan Hart, Lucent, Pirate, Zhestokost, AU, Finch). Failed once, r5c, with "racer" as the only donor cue; r6a and r6b fixed that by giving the racer its livery.
+- **Weapons only where named, plus "unarmed" or "no weapons".** Held on 7 unarmed or partly armed renders across 4 factions (Ewan Hart, Lucent, Zhestokost, Finch). One overshoot: r6a drew three turrets for two.
+- **Faction blocks shrink to livery and register.** Held on 6 renders across 5 factions (Ewan Hart r5b, Pirate r5d, r6a, r6b, Zhestokost, AU, Finch).
+- **Thrust as slots or grilles cut into a face, never pods or packs.** Held on 4 renders across 3 factions (Pirate r5c, r5d, AU r6d, partly Pirate r6b). Failed where the prompt said tubes, bells or "sunk" (r6a, r6c, r6f), and where thrust was not placed (r6e).
+- **Factory-new by default, wear only where the faction names it.** Held on 1 clean faction (Finch r6e); wear kept on 3 that ask for it (Pirate, AU, Zhestokost). Needs a Lucent test.
+- **Ship prompt first.** Used on 5 renders across 4 factions with no failure, but with no block-first comparison except r5e against r5f (Lucent).
+- **No similes that can become props.** One instance (r5e's turntable). Untested since.
+
 ---
 
 ## For the Operator
