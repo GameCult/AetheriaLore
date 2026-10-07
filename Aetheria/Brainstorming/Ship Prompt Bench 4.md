@@ -492,6 +492,41 @@ Round 6 takes G2 out to four factions and three new ships. Every long prompt use
 - **Ship prompt first.** Used on 5 renders across 4 factions with no failure, but with no block-first comparison except r5e against r5f (Lucent).
 - **No similes that can become props.** One instance (r5e's turntable). Untested since.
 
+## Round 7: order, clean paint, short against long, and views
+
+Round 7 uses **G2.2**, which rewrites G2.1's thrust sentence: thrusters are "cut into the hull's own surface with their mouths flush, never cans, pods or packs that stand out from it; where the description places no thrust, the ship shows only small flush ports." One render (Shepherd r7b) keeps G2.1 so that it differs from r6d by order alone. Renders and exact prompts are in `Renders/Bench 4/` (`Key Light r7a`, `Shepherd r7b`, `Dine and Dash r7c`, `r7d`, `Ghost Fare r7e`, `Glushitel r7f`).
+
+| Ship | Variant | Hypothesis | What changed | Agent observation | Operator verdict |
+| --- | --- | --- | --- | --- | --- |
+| Key Light | r7a | A livery-only Lucent block with "factory-fresh, showroom-clean, unmarked paint" renders clean; does spectacle survive without the gaming-mouse layout? | G2.2; Lucent block cut to livery and register with the clean clause; ship first; belly pod became flush stern slots. | Partial. Less worn than r5e and r5f, still scuffed. No fins. Spectacle thinned: a boxy van with a lamp face, only the blade prongs left of the mouse. | |
+| Shepherd | r7b | Global-first order undoes what r6d gained from ship-first. | Against r6d, order only. | Chunkier mass, heavier wear, and a protruding round thruster can where r6d drew flush grilles. Ship-first honoured the thrust wording better. | |
+| Dine and Dash | r7c | The donor's own knife-pleat creases cut open into thruster slots make lateral thrust part of the racer. | G2.2; slots in every flank crease; "exactly two" turrets; beam-forward three-quarter view. | Best D&D yet for integration: chequered needle racer, flank ribbed with slots, no wings, fins or packs. The slots read as gills more than thrusters, wear swamps the livery, and three turrets again. | |
+| Dine and Dash | r7d | The short blunt prompt that worked for Party Favors works here. | 77 words, no blocks. | Failed on vacuum: a tall dorsal fin and rows of protruding bells, close to the rejected packs. Strongest racer read and the right turret count. | |
+| Ghost Fare | r7e | Material-first (opening on matte graphite and grazing light) gives a dark faction its look; G2.2 keeps an undriven stern clean. | G2.2; livery-only Adrasteia block with "factory-fresh, clean and cold"; material sentence before the ship's name; "one plain facet with no drive nozzle". | Material read strong: a low faceted graphite wedge. Two drive nozzles appeared at the stern anyway, the facet edges are scuffed silver, and the hold lid does not read. | |
+| Glushitel | r7f | A plan view shows a point-defence ship's coverage, its role, better than the default view. | G2.2; livery-only Zhestokost block; plan view from directly above. | Held strongly: six turrets at shoulders and corners, the red magazine at the centre with trunks to every turret. A role sheet to pair with a three-quarter view; it hides height. | |
+
+**Observations.**
+
+- **Ship-first has its second comparison.** Shepherd r6d against r7b agrees with Key Light r5e against r5f: with the ship prompt first, the ship's specific instructions (here the flush grilles) win more often. Block-first gave a sturdier mass once, so the order is a lever on specificity, not on quality overall.
+- **Short prompts are safe only for donors that do not pull aero.** Party Favors (an ore hauler) read at 83 words; Dine and Dash (a racer) grew a fin at 77. The long vacuum doctrine is what holds an aero-prone donor down. Short prompts keep their virtue for identity: both carried their concept more sharply than the long versions.
+- **Unplaced or denied stern thrust still renders nozzles** (r6e, r7e), whatever the global says. The model's default is strong enough that a ship prompt has to give the stern a different job, not merely deny it a drive.
+- **Clean paint is half solved.** Finch rendered clean in r6e; Lucent and Adrasteia did not in round 7. Both got "factory-fresh" in the faction block, after the ship prompt. The next test puts the clean statement at the very front.
+- **Faction shape motifs matter for Lucent.** Cutting the gaming-mouse layout made Key Light generic. Serious factions survived livery-only blocks; spectacle did not. The motifs need to live somewhere, probably in Lucent ship prompts as a short motif list.
+- **Plan views show coverage roles.** Glushitel's plan view is the clearest role read in the bench.
+- **Turret counts drift upward** on the racer (r6a, r7c). "Exactly two" did not help.
+
+**Block edits that look like they generalise** (updated):
+
+- **Vacuum-hull doctrine.** Held on 15 long-prompt renders across 7 factions (Ewan Hart, Lucent, Pirate, Zhestokost, AU, Finch, Adrasteia). Failed on r5c (racer cue alone) and on the short r7d, which left the doctrine out.
+- **Weapons only where named, with "unarmed" or "no weapons".** Held on 10 renders across 5 factions for unarmed hulls. Overshoots named counts on the racer (r6a, r7c).
+- **Faction blocks shrink to livery and register.** Held on 10 renders across 6 factions for serious, Pirate and Ewan Hart registers. Failed for Lucent spectacle (r7a): the shape motifs carry that register.
+- **Thrust as slots or grilles cut into a face.** Held on 6 renders across 4 factions (r5c, r5d, r6d, r7c, r7f, partly r6b). Failed when worded as tubes, bells or "sunk" (r6a, r6c, r6f), in a short prompt (r7d), and in global-first order (r7b).
+- **The stern needs a job.** Denying a drive did not remove one on 2 of 2 tries (r6e, r7e).
+- **Factory-new by default.** Clean on 1 of 3 clean factions (Finch held; Lucent and Adrasteia scuffed). Wear kept on all 4 factions that ask for it.
+- **Ship prompt first.** Two A/B pairs (Lucent, AU), both favouring it; used on 11 renders across 7 factions with no failure attributed to it.
+- **Plan view for coverage roles.** One render (Zhestokost). Candidate.
+- **Racer identity from livery, not aero.** Three renders (r6a, r6b, r7c), one ship. Candidate.
+
 ---
 
 ## For the Operator
