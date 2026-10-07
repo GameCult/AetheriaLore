@@ -51,4 +51,11 @@ $scriptArgs = @(
     "--outputDir", "quartz-site/public"
 )
 
+# Node writes deprecation warnings (punycode, from a dependency) to stderr.
+# Windows PowerShell 5.1 turns native stderr into error records, which
+# "Stop" makes fatal, so the build's exit code is the only verdict here.
+$ErrorActionPreference = "Continue"
 & $node @scriptArgs
+if ($LASTEXITCODE -ne 0) {
+    exit $LASTEXITCODE
+}
