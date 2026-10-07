@@ -1,0 +1,15 @@
+# Bison
+
+- Source: Ship Prompt Bench (first bench), Aetheria/Brainstorming (internal working bench, not published)
+- Faction: Aeronautics Unlimited
+- Role: Swarm escort
+- Composition: rendered alone, without the global or faction blocks
+- Status: brainstorming, not canon
+
+Pitch: One pilot flies an escort with two medium rocket-pod hardpoints loaded with Leonid dumbfire swarms, one small Earp gun and a Ranger active sensor. It fires at the first thing it sees, decoys included.
+
+B · Bison (bison) · Safe bet
+
+## Prompt
+
+Design the Bison, a small single-pilot Aeronautics Unlimited escort spacecraft. Its whole body follows an American bison: one massive, high shoulder hump, a low heavy head and a lean tapering rump. The front face of the shoulder hump carries four square rocket launch cells in two rows. The low head is the cockpit, with a wide window where the face would be. The bison's two short, thick horns are two small guns, one on each side of the head. A round active sensor dome sits on top of the hump. The rump tapers to two round drive nozzles with short radiator plates. Chalk-white hump, slate-blue rump, bare aluminum horns, ochre safety marks and cell numbers. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

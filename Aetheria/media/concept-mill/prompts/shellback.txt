@@ -1,0 +1,15 @@
+# Shellback
+
+- Source: Ship Prompt Bench (first bench), Aetheria/Brainstorming (internal working bench, not published)
+- Faction: Lightsail Express
+- Role: Armed hauler
+- Composition: rendered alone, without the global or faction blocks
+- Status: brainstorming, not canon
+
+Pitch: Two crew fly a hauler with one sealed box hold that cannot be jettisoned, two small ClearPath machine-gun hardpoints and True North thrusters. It is slow and stubborn, and it delivers.
+
+B · Shellback (snail with its house) · Moonshot. Lightsail's doctrine as an animal that carries its home. The shell is a solid lobe of the body, so there is no gap.
+
+## Prompt
+
+Design the Shellback, a small two-person Lightsail Express armed hauler. Its whole body follows a garden snail: one long, low, muscular foot body with a large, round, coiled shell sitting on its back, fused to it. The coiled shell is the sealed cargo hold, painted with a vermilion route stripe that follows the spiral. The snail's head is the cab, with the cockpit window where the face would be. The two short, thick eyestalks are two small machine-gun turrets. Heavy cargo tie-down rails run along the base of the shell. The tail of the foot holds two drive nozzles. Faded fleet-blue foot body, warm cream shell, vermilion spiral stripe, small warm cab lights. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

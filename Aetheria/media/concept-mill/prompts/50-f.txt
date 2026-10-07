@@ -1,0 +1,15 @@
+# Standard Model 50-F
+
+- Source: Ship Prompt Bench (first bench), Aetheria/Brainstorming (internal working bench, not published)
+- Faction: Rossum & Douglas
+- Role: MIRV picket
+- Composition: rendered alone, without the global or faction blocks
+- Status: brainstorming, not canon
+
+Pitch: One pilot flies a picket with four recessed MIRV launch cells, a built-in guidance computer and one small defensive mount. It outranges you and backs away when you close.
+
+B · Standard Model 50-F "Records" (filing cabinet) · Moonshot. The corporate office goes to war. A box is the easiest possible Tripo shape; the risk is only that it reads as furniture.
+
+## Prompt
+
+Design the Standard Model 50-F, a small single-pilot Rossum & Douglas missile picket. Its whole body follows a two-drawer steel filing cabinet lying on its side, drawer fronts facing forward. Each of the two drawer fronts is a missile bay door with a recessed pull handle and a small label holder. The cockpit is a small recessed window set into the cabinet's top surface near the front. One small defensive mount sits flush on top near the rear. The cabinet's back panel is the stern, with two rectangular drive nozzles and a row of regular vents. Muted blue-gray cabinet, light gray drawer fronts, navy label holders, one off-white stripe along the side, ordinary scuffs and a dented corner. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

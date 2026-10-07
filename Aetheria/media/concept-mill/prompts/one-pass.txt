@@ -1,0 +1,14 @@
+# One Pass
+
+- Source: Ship Prompt Bench 2, Aetheria/Brainstorming (internal working bench, not published)
+- Faction: Alakrita
+- Role: Interceptor
+- Status: brainstorming, not canon
+
+Pitch: One pilot flies an interceptor with two light hardpoints and Victoire thrusters, wrapped in the lowest armor in the catalog. It makes one fast pass and is gone.
+
+B · One Pass · Function · Safe bet
+
+## Prompt
+
+Design the One Pass, a single-pilot Alakrita interceptor that is nothing but a cockpit, two light guns and speed. Its body is long, low and narrow, with four knife-pleat creases running its full length on each side of the spine. The cockpit is a long, narrow canopy set far forward. One light gun sits at the end of each of the two outermost creases, flush with the nose. Two stacked folded fins rise from the rear quarter, each a thick lacquered slab with a crisp edge. A small inscription plaque beside the canopy names the patron. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
