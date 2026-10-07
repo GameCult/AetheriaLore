@@ -1,0 +1,15 @@
+# Live Wire
+
+- Source: Ship Prompt Bench (first bench), Aetheria/Brainstorming (internal working bench, not published)
+- Faction: NiteLife Energy
+- Role: Station guard
+- Composition: rendered alone, without the global or faction blocks
+- Status: brainstorming, not canon
+
+Pitch: One pilot flies a guard with one medium ChargeBlast hardpoint, two capacitor banks and a MoveOnPro reactor fed by a visible reservoir cartridge. It is strong on its leash and never leaves its station.
+
+B · Live Wire (power plug) · Moonshot. The ship is the thing you must plug in. It bends rule 3, because the cord wants to be thin; trimming it to a thick strain-relief tail keeps it solid.
+
+## Prompt
+
+Design the Live Wire, a small single-pilot NiteLife Energy guard spacecraft. Its whole body follows a heavy-duty power plug: one thick, rounded, rectangular plug body with two short, thick, flat prongs projecting forward from its front face, and a short, thick, ribbed strain-relief tail at the rear. The two prongs are two energy weapon emitters. The cockpit is a small rounded canopy on top of the plug body. The plug body's flanks are capacitor banks with molded grip ridges. The reservoir cartridge slides into the top of the plug body behind the cockpit, held by a bright release catch. The strain-relief tail ends in one drive nozzle. Midnight-blue plug body, petroleum-teal prongs, lime release catch, warm-white version badge with rounded lettering. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

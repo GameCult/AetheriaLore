@@ -31,6 +31,10 @@ This branch contains current design owners, developed drafts, prototypes, and hi
 - [[Narrative and Missions]] owns mission admission, local occurrence, evidence, and consequence handoff without requiring procedural placement or a particular authoring runtime.
 - Implementation is evidence, not authority. [[Implementation Signals]] preserves an unverified report about an older codebase; it establishes neither current implementation nor design requirements.
 
+## Concept Art
+
+[[Concept Mill|The Concept Mill]] files the ship concept renders from the prompt benches, each with a readout of its role, hardpoints, default loadout and counters. The renders and readouts are brainstorming, not canon.
+
 ## Historical Scope Cuts
 
 [[End of the Line|Aetheria: Terminus]] was a reduced rogue-lite action-RPG proposal about a hostile crossing. The destination named Terminus is not established here as canonical geography. [[Call of the Void]] cut further toward curated cases, station life, taxi work, and a private investigator, but used an obsolete colonization-fleet premise; its protagonist and cases remain developmental.

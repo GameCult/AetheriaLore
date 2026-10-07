@@ -1,0 +1,15 @@
+# Raft
+
+- Source: Ship Prompt Bench (first bench), Aetheria/Brainstorming (internal working bench, not published)
+- Faction: Cetacean Navigators
+- Role: Corridor escort
+- Composition: rendered alone, without the global or faction blocks
+- Status: brainstorming, not canon
+
+Pitch: A pilot and a navigator fly an escort with two small point-defense hardpoints, one medium utility hardpoint and a built-in distress receiver. It drops anything to answer a call on the corridor.
+
+B · Raft (sea otter floating on its back) · Moonshot. An animal that holds what it saves. The belly-up pose puts the held tool on the visible top surface.
+
+## Prompt
+
+Design the Raft, a small two-person Cetacean Navigator escort. Its whole body follows a sea otter floating on its back: one long, plump, rounded body lying face up, with a round head at the front and two short forepaws folded on its chest. The forepaws hold the utility tool against the chest, a stubby recovery grapple with round pads. The head is the cockpit, with a rounded canopy where the face would be and small round sensor ears. One small point-defense turret sits at each shoulder. The thick tail at the rear is a flat radiator paddle above two drive nozzles. Rows of small amber-lit ports run along each flank. Deep ocean-blue body, pale sand chest and face, blue-green tail, small amber lights, silver port rims. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

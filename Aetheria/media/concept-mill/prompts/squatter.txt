@@ -1,0 +1,15 @@
+# Squatter
+
+- Source: Ship Prompt Bench (first bench), Aetheria/Brainstorming (internal working bench, not published)
+- Faction: Pirate Coalition
+- Role: Ambush raider
+- Composition: rendered alone, without the global or faction blocks
+- Status: brainstorming, not canon
+
+Pitch: A pilot and two crew fly a raider with one oversized stolen gun hardpoint, a capture grapple and a mismatched drive. It wants your cargo, aims for your drives, and leaves fights it is losing.
+
+A · Squatter (hermit crab) · Moonshot. The perfect pirate metaphor, and the bench's riskiest attempt. It bends rule 2 (two objects in a relation) and rule 3 (one claw), so it needs a rear view or acceptance of a guessed far side.
+
+## Prompt
+
+Design the Squatter, a small Pirate Coalition raider for three crew. Its whole body follows a hermit crab living in a borrowed shell: the borrowed shell is a stolen, rounded freight pod still wearing faded company paint and a crossed-out serial, and the crab's armored front body emerges from its open front, fused to it. The crab's head is the cockpit, with two short, thick eyestalks as sensors. On the side facing the viewer, one huge, thick crusher claw is the oversized gun housing, its muzzle in the claw's tip. A small, thick grabbing claw on the same side is the capture grapple. The rear of the shell carries a mismatched replacement drive, bolted on with heavy braces. Faded blue donor paint on the shell, gray primer on the crab body, a hot pink crew accent on the claw, large repeated emoji marks. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

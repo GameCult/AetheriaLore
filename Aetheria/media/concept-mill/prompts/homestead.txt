@@ -1,0 +1,15 @@
+# Homestead
+
+- Source: Ship Prompt Bench (first bench), Aetheria/Brainstorming (internal working bench, not published)
+- Faction: Ewan Hart
+- Role: Tug and hauler
+- Composition: rendered alone, without the global or faction blocks
+- Status: brainstorming, not canon
+
+Pitch: One driver and a hand fly a tug with a heavy towing hitch, one utility hardpoint for an implement and one small defensive mount. It gets the harvest to the station, and it flees and jettisons when threatened.
+
+A · Homestead (farm tractor) · Safe bet
+
+## Prompt
+
+Design the Homestead, a small two-person Ewan Hart tug spacecraft. Its whole body follows a vintage farm tractor: a long, rounded hood at the front, a cab behind it, and two huge rear fenders swollen into broad, closed, rounded drums. The two fender drums are the drive pods, each ending in a round drive nozzle at the rear. The cab is the cockpit, with a rounded roof and a large gauge panel visible through the front window. The hood carries a grille at its nose and one small defensive mount on top. A heavy towing hitch projects from the rear between the drums. One implement mount sits under the front grille. Faded harvest-gold hood and drums, agricultural-green cab, cream maker plates, black hoses along the hood, chipped enamel at the corners. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

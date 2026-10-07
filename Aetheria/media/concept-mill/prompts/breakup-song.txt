@@ -1,0 +1,15 @@
+# Breakup Song
+
+- Source: Ship Prompt Bench (first bench), Aetheria/Brainstorming (internal working bench, not published)
+- Faction: Death Monkey Explosives
+- Role: Infrastructure breaker
+- Composition: rendered alone, without the global or faction blocks
+- Status: brainstorming, not canon
+
+Pitch: Two crew fly a breaker with one heavy thermal warhead launcher that has a big blast radius, two small flame hardpoints and safeties wired open. It hits stations, not ships, and it cooks itself in a long fight.
+
+A · Breakup Song (rhinoceros) · Safe bet
+
+## Prompt
+
+Design the Breakup Song, a small two-person Death Monkey Explosives assault spacecraft. Its whole body follows a charging rhinoceros: one massive, thick body with heavy armored folds, a big low head and one huge, thick horn on the snout. The horn is the thermal warhead launcher, its muzzle at the blunt tip. The cockpit is a narrow armored slit where the eyes would be. The two ears are two small flame projectors, short and thick. Heavy hide folds at the shoulders and hips are bolted armor plates with hand-cut break points marked in yellow. Short, thick spikes run in a single row down the spine. The rump holds two drive nozzles between heat-stained radiator plates. Blackened steel body, scorched-red horn, acid-yellow break-point marks, uneven white lyric lettering along the flank. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

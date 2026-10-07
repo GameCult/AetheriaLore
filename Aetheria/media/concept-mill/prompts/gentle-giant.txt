@@ -1,0 +1,15 @@
+# Gentle Giant
+
+- Source: Ship Prompt Bench (first bench), Aetheria/Brainstorming (internal working bench, not published)
+- Faction: Cetacean Navigators
+- Role: Recovery tug
+- Composition: rendered alone, without the global or faction blocks
+- Status: brainstorming, not canon
+
+Pitch: A mixed-environment crew flies a tug with a heavy built-in tow block and tractor, two small point-defense mounts and a large aquatic pressure volume. It gets the disabled ship home before the salvagers do.
+
+B · Gentle Giant (whale shark) · Safe bet
+
+## Prompt
+
+Design the Gentle Giant, a small Cetacean Navigator recovery tug for a mixed-environment crew. Its whole body follows a whale shark: one broad, flat-headed body with a very wide, straight mouth across the front, three low ridges along the back and a thick, tall tail. The wide mouth is the tractor intake, a broad, dark recess spanning the whole head. The cockpit is a low canopy on top of the head behind the mouth. The back's spots are small round amber-lit ports. One small point-defense turret sits on each of the two outer ridges. The pectoral fins are two thick, short sponsons. The tail holds two drive nozzles with flat radiator plates. Deep ocean-blue back with pale sand spots, blue-green ridges, pale sand belly, silver port rims. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

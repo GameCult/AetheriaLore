@@ -1,0 +1,15 @@
+# Vasuki
+
+- Source: Ship Prompt Bench (first bench), Aetheria/Brainstorming (internal working bench, not published)
+- Faction: Alakrita
+- Role: Patron's duel escort
+- Render A: this prompt rendered alone. Render B (vasuki2) composed the same prompt after the global Aetheria block and the Alakrita faction block from Ship Design Language.
+- Status: brainstorming, not canon
+
+Pitch: One pilot flies a patron's escort with two medium laser hardpoints, a broad radiator hood and Arctica thrusters. It is gorgeous in the first exchange and has no spares in stock.
+
+A · Vasuki (cobra with spread hood) · Safe bet
+
+## Prompt
+
+Design the Vasuki, a small single-pilot Alakrita escort gunship. Its whole body follows a cobra rearing with its hood spread, laid level for flight: one long, thick body rising into a broad, thick, rounded hood behind a small head. The hood is the radiator, a wide, thick slab with sharp creases fanning across it. One medium laser emitter sits at each outer edge of the hood. The cockpit is a narrow canopy where the cobra's eyes would be. The body behind the hood is long and smooth, tapering to two drive nozzles. Ivory lacquer body, wine-red hood face, gold inlay lines along each hood crease, a small gold inscription panel on the throat. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

@@ -1,0 +1,15 @@
+# Zera
+
+- Source: Ship Prompt Bench (first bench), Aetheria/Brainstorming (internal working bench, not published)
+- Faction: Megiddo
+- Role: Decoy layer
+- Composition: rendered alone, without the global or faction blocks
+- Status: brainstorming, not canon
+
+Pitch: One pilot flies a decoy layer with a built-in decoy bay holding four decoy pods, one small point-defense mount and passive sensors. It makes the fleet look larger than it is.
+
+A · Zera (milkweed pod) · Safe bet
+
+## Prompt
+
+Design the Zera, a small single-pilot Megiddo decoy spacecraft. Its whole body follows a closed milkweed seed pod: one plump, teardrop-shaped pod, pointed at the front, with a single seam running along its top from tip to base. The seam is the decoy bay's long door, closed, with four round decoy-pod caps showing in a row along it. The pointed tip is the cockpit, a small shuttered canopy. One small point-defense turret sits near the broad base. Shallow ribbed texture runs along the pod's skin. The broad base holds two drive nozzles. Warm pale ceramic pod, blue-black seam door, aged-metal decoy caps, small silver constellation inlays near the tip. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

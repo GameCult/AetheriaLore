@@ -1,0 +1,14 @@
+# Bulldog
+
+- Source: Ship Prompt Bench 2, Aetheria/Brainstorming (internal working bench, not published)
+- Faction: NiteLife Energy
+- Role: Station guard
+- Status: brainstorming, not canon
+
+Pitch: One pilot flies a guard with one medium ChargeBlast hardpoint, two capacitor banks and a MoveOnPro reactor fed by a visible reservoir cartridge. It is strong on its leash and never leaves its station.
+
+B · Bulldog · Mass · Safe bet
+
+## Prompt
+
+Design the Bulldog, a single-pilot NiteLife Energy station guard that stands like a bulldog on a short chain: a wide, deep chest low and forward, short thick shoulders, and a short, tapering body behind. The chest is the ChargeBlast housing, with the emitter as a broad opaque disc in its front face. The two shoulders are the capacitor banks, swollen and smooth, one on each side. The reservoir cartridge is docked upright into the top of the back, its rounded end standing proud, held by a release catch. The cockpit is a low canopy on top of the chest, ahead of the cartridge. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

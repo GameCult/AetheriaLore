@@ -1,0 +1,15 @@
+# Lamp-Shy
+
+- Source: Ship Prompt Bench (first bench), Aetheria/Brainstorming (internal working bench, not published)
+- Faction: Adrasteia
+- Role: Deniable courier
+- Composition: rendered alone, without the global or faction blocks
+- Status: brainstorming, not canon
+
+Pitch: One pilot flies a courier with one shielded charge hold, one utility hardpoint and a built-in cold drift mode. It carries Enigma Devices in unmarked boxes and leaves no trace you can follow.
+
+A · Lamp-Shy (resting moth) · Safe bet
+
+## Prompt
+
+Design the Lamp-Shy, a small single-pilot Adrasteia courier spacecraft. Its whole body follows a moth at rest with its wings folded flat into a low tent over its body: one low, broad, faceted roof shape that tapers to the rear, with a small rounded head at the front. The folded wings are two thick, broad faceted panels meeting along a central ridge. The head is the cockpit, a small faceted canopy. The two short, thick feathered antennae are two sensor stubs lying back along the wings. The charge hold is a recessed hatch under the wing ridge. Two flat drive slots sit at the wings' trailing edge. Matte graphite wings, black ceramic head, dark indigo ridge, one tiny smiley stencilled under the head. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
