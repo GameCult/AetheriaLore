@@ -399,6 +399,40 @@ Each arises from the doctrines and mechanics above. None is scripted.
 
 ---
 
+## Round 4: hypotheses under test
+
+Operator, 2026-10-08: "Rewrite Odd Job and Dine and Dash for another round, you should be testing new hypotheses with every prompt in order to refine the aesthetic. Don't expect to get it right first try."
+
+Each variant changes one thing, so its result can be attributed. The renders and their exact prompts are in `Renders/Bench 4/` (`Odd Job r4a`, `Odd Job r4b`, `Dine and Dash r4a`, `Dine and Dash r4b`), rendered with FLUX 3 at 4:3 and 2k on 2026-10-08. The global and faction blocks are unchanged from round 3. Observations are the agent's; the verdicts are the operator's.
+
+| Ship | Variant | Hypothesis | Variable changed | Agent observation | Operator verdict |
+| --- | --- | --- | --- | --- | --- |
+| Odd Job | r4a | Construction words pull the model to ground machinery; space-salvage words and "a spacecraft in vacuum; no wheels, no ground, no cab" make it a spacecraft. | Vocabulary, against round 3: bucket to capture cage, claw to grapple, tow hitch to docking collar, tractor cab to pressurised capsule, thrusters to reaction-control quads, plus the vacuum clause. | Partial. The wheels and the ground are gone, but the fender pods still read as wheel hubs and the body as a hovering armoured truck. | |
+| Odd Job | r4b | An explicit orbital-service-craft silhouette beats vocabulary alone. | Silhouette, against r4a: a squat hub, two long jointed manipulator arms forward, a capture cage between them, and RCS clusters at the corners. | Held. It reads as a spacecraft with no ground-vehicle residue. The palette drifted to mostly green. | |
+| Dine and Dash | r4a | Naming the thrust direction geometrically makes the lateral thrust show. | Thrust wording, against round 3: the nozzle mouths are perpendicular to the spine, and the camera-side mouths face the viewer. | Did not hold. The mouths still face forward, and the tail fin and wings grew. | |
+| Dine and Dash | r4b | A vacuum-hull clause removes aero cues, so the rule may belong in the global block. | One clause, against r4a: "no wings, no tail fins and no aerodynamic surfaces of any kind". | Mostly held. The tail fin is gone and the wings are stubby vanes, but the nozzles still face forward. | |
+
+**Readings for the next round** (agent, not verdicts):
+
+- **Silhouette beats vocabulary.** Odd Job turned into a spacecraft only when the prompt gave it an overall shape. The Ewan Hart block still says tractor proportions and fenders, so the faction block may be what keeps the r4a body truck-like. That is the next single variable to test.
+- **The no-aero clause works, and the global block works against it.** The global block says "every fin, blade and wing is a chunky rounded slab", which invites fins on every hull. Replacing that clause in the global block is a candidate change, and it needs its own test across several factions.
+- **Nozzle direction is not yet controlled.** Two wordings have both failed to turn the nozzles. The next hypotheses are to describe what the camera sees (open nozzle mouths as circles set flat into the flank), or to change the view for this hull.
+- **Unprompted turrets.** Both Odd Job renders grew small guns. The global block's "guns in small turrets on thick armoured mounts" probably supplies them. An unarmed hull may need to say so.
+
+### Odd Job II · Ewan Hart (pending the operator's verdict)
+
+The r4b variant, judged the stronger by the agent. It replaces the round-3 entry only if the operator agrees.
+
+Design the Odd Job, a single-pilot Ewan Hart salvage tug, a spacecraft in vacuum that races everyone else to wrecks and loose cargo; it has no wheels, no ground beneath it and no cab. Its silhouette is an orbital service craft: a squat, round-shouldered central hub, two long jointed manipulator arms reaching forward from its shoulders, a collapsible capture cage of heavy ribs folded between the arms at the bow, and a cluster of reaction-control thruster quads at every corner of the hub. Each manipulator arm ends in a heavy three-fingered grapple, its fingertips worn bright. A heavy docking collar for hauling wrecks sits at the stern. The cockpit is a rounded pressurised capsule set into the front of the hub with a wide window and large round gauges. The thruster quads sit inside four big rounded fenders, facing down and back. A canvas feed sack and a coil of hauling cable are strapped to the rear cargo frame. A hand-painted sign on the cockpit hatch reads "No Job Too Odd". One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+### Dine and Dash II · Speed Demon (pending the operator's verdict)
+
+The r4b variant, judged the stronger by the agent. It replaces the round-3 entry only if the operator agrees. The nozzle direction is still unsolved.
+
+Design the Dine and Dash, a single-pilot Pirate Coalition speed demon built from a stolen Alakrita racer, stripped of every gram that was not thrust. The donor's long, narrow, knife-pleated ivory body is still recognisable, with patches of wine-red lacquer, but its armour plates are gone, leaving bare frames and exposed cable runs clamped along the hull. On each flank, a huge cluster of four thruster nozzles is bolted on, each cluster bigger than the cockpit. The two clusters point left and right, their nozzle mouths perpendicular to the spine: the camera-side cluster's four open mouths face out sideways toward the viewer, and the far cluster's mouths face the opposite way. The camera-side cluster is braced with welded struts. Two small light turrets on improvised mounts sit on the dorsal ridge. The original slim drive row remains at the stern. The cockpit is the donor's long, narrow canopy. The crew emblem, a running-figure emoji, is painted three times. A bright orange crew accent slashes across donor and additions alike. It has no wings, no tail fins and no aerodynamic surfaces of any kind. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+---
+
 ## For the Operator
 
 These are readings this bench made so that it could be written. Overrule any of them.
