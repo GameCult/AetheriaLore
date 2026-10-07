@@ -1,0 +1,31 @@
+# Rake r8c
+
+## Hypothesis
+
+G3 and a livery-only AU block carry a tool-bow hull: the comb is the largest shape and thrust is grilles cut into the rear flanks.
+
+## What changed
+
+Global G3 (G2.1 with two edits: 'never flies through air or drives on ground', adding wheels and tracks to the banned list; thrust from 'slots and grilles cut into' the faces that push, and 'no thruster stands out from the hull as a can, bell, pod or pack'). AU block livery-only. Ship first. The drive pods became rectangular grilles cut into the rear lower flanks; the stern is a flat plate with a docking collar.
+
+## Agent verdict
+
+Held for the role: the numbered comb is the largest shape, with blast plate, cab turret and racked spare tines, in chalk white, slate blue and ochre. Failed on thrust: the rear grilles grew into two pod-like sponsons standing out from the flanks.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: c5cdd668-2cd3-4067-b260-45c656aaa71b
+- Date: 2026-10-08
+- Composition: ship prompt, faction block (livery and register only), global block G3, frame clause, separated by blank lines, exactly as below
+
+## Prompt
+
+Design the Rake, a two-person Aeronautics Unlimited minesweeper that clears drifting mines from worksite lanes by setting them off at a distance. Its bow is one broad sweep comb, wider than the hull: a thick armoured bar carrying a row of long, heavy, blunt tines that point straight forward, each tine a replaceable armoured rod with a stencilled number. Two of the tines are newer and a fresher white than the rest. Behind the comb, a thick blast plate stands between the comb and the cab. The cab is a rounded-rectangle block with a narrow, low window behind the blast plate. Two spare tines lie in clamp racks on the dorsal deck. Rectangular drive grilles are cut into the rear lower flanks, and the stern is a flat plate with a docking collar. One small turret sits on the cab roof. Ochre safety panels band the comb bar, and soot stains the tine tips.
+
+Aeronautics Unlimited livery and register: serious frontier work gear, plain geometry, nothing for show. Matte powder coat over bare brushed aluminium: chalk white on the main body, slate blue on the cockpit section and module doors, bare aluminium on clamps and rails, small ochre safety panels around lifting points, concise black technical lettering and stencilled bay numbers. Pale mineral dust in the creases and scuffed lower edges from long shifts in asteroid fields.
+
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air or drives on ground, so it has no wings, fins, tailplanes, vanes, airfoils, streamlining, wheels or tracks of any kind. It moves only by rocket thrust from slots and grilles cut into whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each opening the way its exhaust would leave; no thruster stands out from the hull as a can, bell, pod or pack. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures and a docking collar are legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, with interior light shown only through small round opaque ports. Its paint is exactly as clean or as worn as its maker's description says; where no wear is named, it is factory-new. Rendered as a crisp studio concept render.
+
+One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

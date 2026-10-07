@@ -1,0 +1,29 @@
+# Dine and Dash r5c
+
+## Hypothesis
+
+With the bolted-on packs gone (operator: "The thruster packs on the D&D are quite silly."), lateral thrust reads when it is a recessed band of slots in the flank and the camera looks straight at that flank.
+
+## What changed
+
+global block rewritten as a vacuum-hull doctrine (G2: no wings, fins, vanes or streamlining; thrust from nozzles and grilles on whichever faces need to push, each opening the way its exhaust leaves; silhouette from the job; weapons only where named; wear moved out to the faction blocks; frame clause no longer duplicated in the global block); Pirate block unchanged; ship prompt: the thruster clusters replaced by a recessed band of flush rectangular thruster slots along both flanks, described from the camera ("we look straight at the near flank ... like the gills of a shark"); frame changed to a near-side view slightly ahead of the beam.
+
+## Agent observation
+
+Partial: the flank slot band reads clearly and integrated, with no packs, but a large swept wing grew back at the rear and the Pirate block's grappling arm appeared; the racer donor still pulls aero shapes.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: 08c7353f-24fc-4ff5-86f7-1a1f4dc031a8
+- Date: 2026-10-08
+- Composition: global block, faction block, ship prompt, separated by blank lines, exactly as below
+
+## Prompt
+
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air, so it has no wings, fins, tailplanes, vanes, airfoils or streamlining of any kind. It moves only by rocket thrust from nozzles and thruster grilles placed on whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each one opening in the direction its exhaust would leave. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures, a docking collar and armour plate with bolted seams are all legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid, toy-like silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, rendered like a painted studio scale model, with interior light shown only through small round opaque ports.
+
+A Pirate Coalition ship: someone else's ship, kept running out of spite. The register is wild and maximalist: more additions than any sensible refit would carry. It is an identifiable donor hull from another manufacturer with a predator's additions bolted on: a cut-down module, adapted gun hardpoints on improvised mounts, bolted salvage armour plates, exposed cable runs clamped along the hull, and a grappling arm, with every asymmetric addition on the side facing the camera. Finish is mixed: patches of the donor's original paint, gray primer, bare welds and blued heat discolouration. Donor company paint on the original hull, gray primer on the added parts, bare steel at the welds, one crew accent colour slashed boldly across both, overpainted corporate logos, crossed-out serials, and the crew's emblem, one large emoji, painted three times. It looks like a stolen truck with new plates and a shotgun on the dash.
+
+Design the Dine and Dash, a single-pilot Pirate Coalition speed demon built from a stolen Alakrita racer, stripped of every gram that was not thrust. The donor's long, narrow, knife-pleated ivory body is still recognisable, with patches of wine-red lacquer; its armour is gone, leaving bare frames and cable runs clamped along the hull. The pirates have cut the flanks open and welded the thrusters into the hull itself: we look straight at the near flank, and along almost its whole length it is a deep recessed band of rectangular thruster slots set flush into the body, dark open throats one after another like the gills of a shark, ringed with heat-blued steel. The far flank carries the same band. Two small light turrets on improvised mounts sit on the dorsal ridge. The original slim drive row remains at the stern. The cockpit is the donor's long, narrow canopy. The crew emblem, a running-figure emoji, is painted three times, and a bright orange crew accent slashes across donor and welds alike. One complete ship, centered with clear margin around it, seen from the near side and slightly above, a little ahead of the beam, so the near flank faces the camera squarely and the dorsal surface shows; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

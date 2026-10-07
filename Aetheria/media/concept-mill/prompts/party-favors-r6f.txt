@@ -1,0 +1,25 @@
+# Party Favors r6f
+
+## Hypothesis
+
+A short blunt prompt with no global or faction block is enough for a readable Pirate hull; the long blocks may be adding noise.
+
+## What changed
+
+Everything. An 83-word prompt: donor, mines in the hopper, flank drives, livery, 'vacuum hull, no wings', view.
+
+## Agent verdict
+
+Held, and the most readable hull of the round: chalk-white donor, a hopper heaped with confetti-dot mines, primer patches, red slash and party-popper marks. The flank drives are round bells that stand out a little. Weathered heavily without being asked.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: 58f2b226-7255-4aa2-921d-ffd56b7c9ec4
+- Date: 2026-10-08
+- Composition: a single short prompt; no global or faction block, separated by blank lines, exactly as below
+
+## Prompt
+
+Concept art of a small spacecraft for the game Aetheria. The Party Favors: a stolen chalk-white Aeronautics Unlimited ore hauler, now a pirate minelayer. Its ore hopper is heaped with round mines painted in confetti dots, feeding a square hatch at the stern; one mine pokes out. Its drive bells are moved into recesses in the flanks. Gray primer patches, a red crew slash, a party-popper emoji painted three times. Vacuum hull, no wings. Three-quarter front view from above, plain light gray background.

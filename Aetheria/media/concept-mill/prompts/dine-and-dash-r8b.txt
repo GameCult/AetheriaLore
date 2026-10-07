@@ -1,0 +1,31 @@
+# Dine and Dash r8b
+
+## Hypothesis
+
+Slot thrust reads as thrust, not gills, when each slot is described as a throat with turning vanes and a sideways soot fan; turret counts hold when each turret is placed; a softer Pirate wear line keeps the racing livery legible.
+
+## What changed
+
+Global G3 (G2.1 with two edits: 'never flies through air or drives on ground', adding wheels and tracks to the banned list; thrust from 'slots and grilles cut into' the faces that push, and 'no thruster stands out from the hull as a can, bell, pod or pack'). Pirate block ends 'worn, but the donor's markings stay legible' and drops grime and heat discolouration. Slots described with turning vanes and sideways soot. One turret behind the canopy and one under the chin, 'there are no others'.
+
+## Agent verdict
+
+Best Dine and Dash. A needle racer with chequered nose and '07' roundel, and one long louvred band of sideways thrust cut into the flank; no wings, fins or packs. Two turrets, as placed. The livery stays legible. It is a plainer tube than a couture racer, and a small can hangs under the belly.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: 9cf46ef2-49cd-4629-9db5-63b85e9e0c06
+- Date: 2026-10-08
+- Composition: ship prompt, faction block (livery and register only), global block G3, frame clause (beam-forward frame), separated by blank lines, exactly as below
+
+## Prompt
+
+Design the Dine and Dash, a single-pilot Pirate Coalition speed demon built from a stolen Alakrita vacuum track racer, rebuilt so it can slide sideways faster than any gun can turn to follow it. The donor is a long, narrow needle of a racer that never flew in air: a thick ivory body with sharp knife-pleat creases running nose to tail, a large racing-number roundel reading "07" on the flank and a chequered racing band around the nose, still bright and legible. The pirates cut the creases on both flanks open into long thruster slots: each slot is a dark rectangular thruster throat with soot-blackened turning vanes inside and a fan of soot sprayed straight out sideways from it, rimmed in bare welded steel, so each flank is one long band of sideways thrusters. The donor's row of slim drive nozzles remains at the stern. The cockpit is the donor's long, narrow canopy. One small light turret sits on the dorsal crease behind the canopy and one under the chin; there are no others. The crew emblem, a running-figure emoji, is painted three times, and a bright orange crew accent slashes across donor lacquer and gray primer alike.
+
+Pirate Coalition livery and register: wild and maximalist, someone else's ship kept running out of spite. The donor manufacturer's original paint in patches, gray primer over repairs, bare steel at the welds, overpainted corporate logos, crossed-out serials; worn, but the donor's markings stay legible.
+
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air or drives on ground, so it has no wings, fins, tailplanes, vanes, airfoils, streamlining, wheels or tracks of any kind. It moves only by rocket thrust from slots and grilles cut into whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each opening the way its exhaust would leave; no thruster stands out from the hull as a can, bell, pod or pack. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures and a docking collar are legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, with interior light shown only through small round opaque ports. Its paint is exactly as clean or as worn as its maker's description says; where no wear is named, it is factory-new. Rendered as a crisp studio concept render.
+
+One complete ship, centered with clear margin around it, three-quarter view from slightly ahead of the beam and slightly above, so the camera-side flank reads along its whole length; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

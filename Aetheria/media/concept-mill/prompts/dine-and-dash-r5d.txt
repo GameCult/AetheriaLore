@@ -1,0 +1,29 @@
+# Dine and Dash r5d
+
+## Hypothesis
+
+A hull archetype that cannot be read as a forward flyer (a flat disc with thrust grilles all round its rim) makes lateral thrust part of the body.
+
+## What changed
+
+global block rewritten as a vacuum-hull doctrine (G2: no wings, fins, vanes or streamlining; thrust from nozzles and grilles on whichever faces need to push, each opening the way its exhaust leaves; silhouette from the job; weapons only where named; wear moved out to the faction blocks; frame clause no longer duplicated in the global block); Pirate block cut to a livery-only sentence; ship prompt: the donor's cockpit sunk into a wide flat skipping-stone disc of welded salvage plate whose whole rim is a band of flush thruster grilles, turrets either side of the canopy; frame changed to a high three-quarter view showing the dorsal face and near rim.
+
+## Agent observation
+
+Held for thrust: one flat welded disc with grille throats all round the rim, no wings, fins or packs; the donor racer is lost apart from a nameplate, and it reads a little like a hovercraft.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: c8d14d50-d5db-4708-b5fe-138aee574407
+- Date: 2026-10-08
+- Composition: global block, faction block, ship prompt, separated by blank lines, exactly as below
+
+## Prompt
+
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air, so it has no wings, fins, tailplanes, vanes, airfoils or streamlining of any kind. It moves only by rocket thrust from nozzles and thruster grilles placed on whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each one opening in the direction its exhaust would leave. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures, a docking collar and armour plate with bolted seams are all legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid, toy-like silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, rendered like a painted studio scale model, with interior light shown only through small round opaque ports.
+
+Pirate Coalition livery: the donor manufacturer's original paint in patches, gray primer over repairs, bare steel at the welds, one crew accent colour slashed boldly across everything, overpainted corporate logos, crossed-out serials, and the crew's emblem, one large emoji, painted three times.
+
+Design the Dine and Dash, a single-pilot Pirate Coalition speed demon built from a stolen Alakrita racer, rebuilt so that it can slide sideways faster than anything can turn to follow it. The donor's narrow ivory cockpit section with wine-red lacquer patches is sunk into the centre of a wide, flat, rounded lozenge of welded salvage plate, so the whole ship is one thick flat disc-like body, wider than it is long, like a skipping stone. The entire rim of the disc is one continuous band of flush thruster grilles, dark rectangular throats recessed into the edge all the way round, so it can push in any direction; the stretch of rim facing the camera shows its open throats plainly. Two small light turrets sit on the flat dorsal face, one either side of the canopy. A short row of the donor's original drive nozzles is sunk into the rear rim. The crew emblem, a running-figure emoji, is painted three times across the flat dorsal face, and a bright orange crew accent slashes across donor and salvage plate alike. One complete ship, centered with clear margin around it, three-quarter view from well above and to one side, showing the flat dorsal face and the near rim; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

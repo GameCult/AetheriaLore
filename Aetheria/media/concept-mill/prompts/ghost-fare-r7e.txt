@@ -1,0 +1,31 @@
+# Ghost Fare r7e
+
+## Hypothesis
+
+A material-first prompt (opening with the dead-matte graphite and grazing light) gives a dark faction its look, and G2.2 keeps an undriven stern clean.
+
+## What changed
+
+Global G2.2: G2.1 with the thrust sentence rewritten so thrusters are cut into the hull's surface with flush mouths, never cans, pods or packs, and unplaced thrust shows only small flush ports. Adrasteia block cut to livery and register with 'factory-fresh, clean and cold, no weathering'. The ship prompt opens with material and light before naming the ship, and the stern is stated as 'one plain facet with no drive nozzle'.
+
+## Agent verdict
+
+The material read is strong: a low faceted graphite wedge. It failed twice: two drive nozzles appeared at the stern against both the prompt and G2.2, and the facets are scuffed silver at the edges. The hold-lid facet does not read.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: b10fa8bc-a910-4c54-a7c2-ce8519889075
+- Date: 2026-10-08
+- Composition: ship prompt, faction block (livery and register only), global block G2.2, frame clause, separated by blank lines, exactly as below
+
+## Prompt
+
+Dead-matte graphite facets that drink the light, black ceramic edges, a shape that shows only where the light grazes it: this is the Ghost Fare, a single-pilot Adrasteia smuggler that crosses dangerous space cold and dark with a hidden hold. Its body is a low faceted wedge of broad shallow planes, every surface closed. On the side facing the camera, one broad facet is cut differently from its mirror: it is the hinged lid of a flush smuggling hold, its seam barely visible. The cockpit is a narrow faceted slit at the front of the dorsal ridge. Small thruster ports hide under the overhanging facet edges all around the rim, and the stern closes in one plain facet with no drive nozzle. One utility port sits flush in the leading edge. One tiny friendly smiley face is stencilled beside the hatch.
+
+Adrasteia livery and register: serious, built to be a hole in the background. Dead-matte graphite and black ceramic that drinks light, so the shape reads only where the key light grazes a facet edge; a dark indigo cockpit panel; almost no markings except one tiny friendly smiley face stencilled beside the hatch. Factory-fresh, clean and cold, no weathering.
+
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air, so it has no wings, fins, tailplanes, vanes, airfoils or streamlining of any kind. It moves only by rocket thrust from nozzles and thruster grilles built into whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each one opening in the direction its exhaust would leave. Thrusters are cut into the hull's own surface with their mouths flush, never cans, pods or packs that stand out from it; where the description places no thrust, the ship shows only small flush ports. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures and a docking collar are legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, with interior light shown only through small round opaque ports. Its paint is exactly as clean or as worn as its maker's description says; where no wear is named, it is factory-new. Rendered as a crisp studio concept render.
+
+One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

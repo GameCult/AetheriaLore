@@ -1,0 +1,29 @@
+# Odd Job r5a
+
+## Hypothesis
+
+Odd Job r4b's orbital-service silhouette loses its truck residue and its unprompted turrets once the faction block stops saying tractor and fenders and the global block stops supplying guns.
+
+## What changed
+
+global block rewritten as a vacuum-hull doctrine (G2: no wings, fins, vanes or streamlining; thrust from nozzles and grilles on whichever faces need to push, each opening the way its exhaust leaves; silhouette from the job; weapons only where named; wear moved out to the faction blocks; frame clause no longer duplicated in the global block); Ewan Hart block rewritten (EH2): tractor proportions, fenders, tow hitches and implement couplings cut, harvest gold made the dominant colour with green as trim only; ship prompt says "It is unarmed", the fender-housed quads become RCS quads on stubby corner booms, and two floodlamps flank the cockpit window as a face.
+
+## Agent observation
+
+Held: a gold egg-shaped hub with a lamp-and-window face, two long grapple arms, a cage and boom-mounted RCS quads; no fenders, no turrets, no truck read, and the palette stayed gold.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: 1a575c7d-de46-4a1b-b383-75f859b1f247
+- Date: 2026-10-08
+- Composition: global block, faction block, ship prompt, separated by blank lines, exactly as below
+
+## Prompt
+
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air, so it has no wings, fins, tailplanes, vanes, airfoils or streamlining of any kind. It moves only by rocket thrust from nozzles and thruster grilles placed on whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each one opening in the direction its exhaust would leave. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures, a docking collar and armour plate with bolted seams are all legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid, toy-like silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, rendered like a painted studio scale model, with interior light shown only through small round opaque ports.
+
+An Ewan Hart ship: farm machinery's cousin working in vacuum, because people need dinner. Serious working equipment with a goofy, friendly face. Its tools are big, hydraulic and obviously serviceable: hinged service covers sized for gloved hands, black rubber hoses along every arm, grease on every joint. Finish is thick farm enamel over greasy steel: faded harvest gold covers most of the hull, deep agricultural green appears only as trim on the arms and hatch frames, with cream maker plates and large round readable gauges beside the cockpit. Enamel is chipped at every corner and one panel has been replaced in a fresher shade. It looks like a machine bought at auction from a cousin that has never missed a harvest.
+
+Design the Odd Job, a single-pilot Ewan Hart salvage tug that races everyone else to wrecks and loose cargo in open space. It is unarmed. Its silhouette is an orbital service craft: a squat, round-shouldered central hub, two long jointed manipulator arms reaching forward from its shoulders, each ending in a heavy three-fingered grapple with fingertips worn bright, and a collapsible capture cage of heavy ribs folded between the arms at the bow. The cockpit is a rounded pressurised capsule set into the front of the hub, its wide window flanked by two round floodlamps so the front reads as a cheerful face. At each of the hub's four corners a short stubby boom carries a quad of small reaction-control nozzles, their bells pointing down and back. A heavy docking collar for hauling wrecks sits at the stern, with a coil of hauling cable and a canvas feed sack strapped to the cargo frame above it. A hand-painted sign on the cockpit hatch reads "No Job Too Odd". One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

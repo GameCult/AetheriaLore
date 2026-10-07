@@ -1,0 +1,31 @@
+# Glushitel r7f
+
+## Hypothesis
+
+A plan view from directly above shows a point-defence ship's coverage, which is its gameplay role, better than the default three-quarter view.
+
+## What changed
+
+Global G2.2: G2.1 with the thrust sentence rewritten so thrusters are cut into the hull's surface with flush mouths, never cans, pods or packs, and unplaced thrust shows only small flush ports. Zhestokost block livery-only. The single stern drive became a row of flush drive slots. Frame: plan view from directly above, bow to the top.
+
+## Agent verdict
+
+Held strongly. Six ring turrets at the corners and shoulders, the oxide-red shrapnel magazine at the centre with feed trunks to every turret: the role reads at a glance. A plan view hides height, so it is a role sheet to pair with a three-quarter view, not a replacement.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: 4ee67630-c1d3-446e-9542-68b72b2090fd
+- Date: 2026-10-08
+- Composition: ship prompt, faction block (livery and register only), global block G2.2, frame clause (plan-view frame), separated by blank lines, exactly as below
+
+## Prompt
+
+Design the Glushitel, a two-crew Zhestokost flak gunboat that throws a wall of shrapnel at anything fired at its column. Its body is a squat, broad stepped armoured box. Six small, squat flak turrets stand on raised armoured rings spread over every face: two on the bow shoulders, two at mid-hull on the dorsal edge, and two at the stern corners, each with one short, thick barrel, a flash hider and a small sensor block, each clearly able to turn fast. The centre of the back is one large shrapnel magazine under a broad square oxide-red hatch, with ammunition feed trunks running from it to every turret. The cockpit is a narrow slit in a low block at the bow. Soot rings every flak muzzle. A single row of flush drive slots crosses the stern plate.
+
+Zhestokost livery and register: serious, state-foundry military hardware with no decoration and no symbols. Rough sand-cast iron under baked-on industrial enamel: charcoal on the main armour, iron gray on the underside and machinery, dull oxide red on magazine hatches and ammunition doors, small cream stencilled serials and safety chevrons on every plate, large block-letter unit codes on the flank. Soot at gun mouths, chipped enamel at hatch edges, one replacement plate in fresher charcoal.
+
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air, so it has no wings, fins, tailplanes, vanes, airfoils or streamlining of any kind. It moves only by rocket thrust from nozzles and thruster grilles built into whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each one opening in the direction its exhaust would leave. Thrusters are cut into the hull's own surface with their mouths flush, never cans, pods or packs that stand out from it; where the description places no thrust, the ship shows only small flush ports. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures and a docking collar are legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, with interior light shown only through small round opaque ports. Its paint is exactly as clean or as worn as its maker's description says; where no wear is named, it is factory-new. Rendered as a crisp studio concept render.
+
+One complete ship, centered with clear margin around it, seen from directly above in a plan view, the whole dorsal face toward the viewer with the bow pointing to the top of the frame; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

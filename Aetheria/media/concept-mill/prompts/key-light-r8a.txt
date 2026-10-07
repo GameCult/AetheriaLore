@@ -1,0 +1,31 @@
+# Key Light r8a
+
+## Hypothesis
+
+Clean paint holds when the clean statement opens the whole prompt, and the spectacle register comes back when the gaming-mouse motifs live in the ship prompt instead of the faction block.
+
+## What changed
+
+Global G3 (G2.1 with two edits: 'never flies through air or drives on ground', adding wheels and tracks to the banned list; thrust from 'slots and grilles cut into' the faces that push, and 'no thruster stands out from the hull as a can, bell, pod or pack'). The prompt opens with 'Brand-new and showroom-clean, never flown: spotless satin enamel with no dirt, chips, scuffs or weathering anywhere.' The mouse layout (palm and side-rest shells, ribbed grips, knurled rotary mounts, flared stepped rear lips) moved into the ship prompt. Lucent block livery-only, as r7a.
+
+## Agent verdict
+
+Best Key Light. The spectacle is back: layered mouse shells, a lavender side rest, cobalt prongs with red-orange tips, a lamp-grid face and a stage-light mast, with no fins. The paint is the cleanest Lucent yet, with faint scuffing left at the edges.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: 9dfb89be-f5fc-4b8d-a367-a2e19da79948
+- Date: 2026-10-08
+- Composition: ship prompt, faction block (livery and register only), global block G3, frame clause, separated by blank lines, exactly as below
+
+## Prompt
+
+Brand-new and showroom-clean, never flown: spotless satin enamel with no dirt, chips, scuffs or weathering anywhere. Design the Key Light, a single-pilot Lucent Media illuminator that floods a duel with active sensor light and paints the challenger for the camera. It carries no weapons. Its whole bow is one broad, shallow, curved lighting array, a grid of large round lamp apertures behind thick knurled bezels, framed by two long blade-shaped prongs sweeping forward. Behind it the compact chassis follows a high-end gaming mouse: thick overlapping curved shells like palm covers and side rests, offset in steps so each layer reads, ribbed grip panels along the flanks, knurled wheel-shaped rotary mounts at the shoulders, and stepped shell lips flaring up and out at the rear. A short, thick round sensor mast rises from the back carrying a ring of small round stage lights. The cockpit is a domed canopy behind the array. A ribbed cooling fan housing closes the stern, with a row of flush drive slots beneath it. A sponsor logo and the words "Key Light" run along the flank.
+
+Lucent Media livery and register: spectacle, broadcast equipment and a trophy at once, styled for the camera but still a vacuum hull. Satin enamel shells and matte rubberized ribbed inserts: golden yellow and white on the main shells, pale lavender on the secondary shells, cobalt blue on the forward blades, vivid red-orange on the blade tips, dark navy in the recesses between layers. Sponsor logos and a show title on the flank. Factory-fresh, showroom-clean, unmarked paint: no dirt, no chips, no scuffs, no weathering.
+
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air or drives on ground, so it has no wings, fins, tailplanes, vanes, airfoils, streamlining, wheels or tracks of any kind. It moves only by rocket thrust from slots and grilles cut into whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each opening the way its exhaust would leave; no thruster stands out from the hull as a can, bell, pod or pack. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures and a docking collar are legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, with interior light shown only through small round opaque ports. Its paint is exactly as clean or as worn as its maker's description says; where no wear is named, it is factory-new. Rendered as a crisp studio concept render.
+
+One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

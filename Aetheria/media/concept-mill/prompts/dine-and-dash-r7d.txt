@@ -1,0 +1,25 @@
+# Dine and Dash r7d
+
+## Hypothesis
+
+The short blunt prompt that worked for Party Favors works for Dine and Dash too.
+
+## What changed
+
+Everything: a 77-word prompt with no blocks, carrying the r7c ideas.
+
+## Agent verdict
+
+Failed on vacuum: a tall dorsal fin came back and the lateral thrust became rows of protruding bells, close to the packs the operator rejected. The racer identity is the strongest yet, and the turret count was right. 'No wings' alone does not stop a racer's fin; an aero-prone donor needs the full vacuum doctrine.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: 2b1decea-6620-499e-915b-e38c3548b7bc
+- Date: 2026-10-08
+- Composition: a single short prompt; no global or faction block, separated by blank lines, exactly as below
+
+## Prompt
+
+Concept art of a small spacecraft for the game Aetheria. The Dine and Dash: a stolen ivory Alakrita vacuum racer, long and needle-thin, chequered nose, racing number 07, knife-pleat creases. Pirates turned it into a sideways-sliding speed demon: rows of thruster slots cut into both flanks, facing straight out. Two tiny turrets. Gray primer patches, an orange crew slash, a running-figure emoji three times. Vacuum hull, no wings. Three-quarter view from slightly above, plain light gray background.

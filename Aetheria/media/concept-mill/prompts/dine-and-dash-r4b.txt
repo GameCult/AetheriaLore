@@ -1,0 +1,29 @@
+# Dine and Dash r4b
+
+## Hypothesis
+
+An explicit vacuum-hull clause ("no wings, no tail fins and no aerodynamic surfaces of any kind") removes the aero cues; if so, the rule may belong in the global block.
+
+## Variable changed
+
+One added clause, against r4a (`Dine and Dash r4a.md`): "It has no wings, no tail fins and no aerodynamic surfaces of any kind.", placed before the frame clause. Everything else is identical to r4a.
+
+## Agent observation
+
+Mostly held. The tail fin is gone and the wings shrank to two stubby rear vanes, so the aero read is much weaker than r4a; the nozzles still face forward. The global block's "every fin, blade and wing is a chunky rounded slab" still invites fins and works against this rule.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: 7d2a9f06-24dc-4987-8bcf-260e48f29d6c
+- Date: 2026-10-08
+- Composition: global block, faction block (Pirate Coalition), ship prompt below, separated by blank lines; global and faction blocks copied verbatim from the round-3 record
+
+## Prompt
+
+Concept art of a small working spacecraft from the Aetheria universe, made by a named manufacturer for one pilot or a small crew, with a human-sized hatch, a handhold rail and a cockpit window no wider than a person setting its scale against the hull. It is a material argument for what it does: magazines sit behind square hatches, sensors in recessed round apertures, guns in small turrets on thick armoured mounts, cargo at a heavy docking collar, and its protection is thick layered armour plate with bolted seams, with any further protective equipment sitting in its own visible housing, an emitter, a ring or a flat panel array, bolted to the hull like any other gear. It is owned, insured and repaired: scuffed handholds and hatch edges, one replaced panel in a slightly fresher shade, a stencilled registry number and a maker's plate beside the cockpit, engines cold and at rest. The whole ship is one continuous cast body, thick and closed, with rounded edges, mirror-symmetric along its long axis; every fin, blade and wing is a chunky rounded slab, and every part swells out of the main mass through wide smooth fillets so the outline is one solid silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, rendered like a painted studio scale model, with interior light shown only through small round opaque ports and painted bands. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+A Pirate Coalition ship: someone else's ship, kept running out of spite. The register is wild and maximalist: more additions than any sensible refit would carry. It is an identifiable donor hull from another manufacturer with a predator's additions bolted on: a cut-down module, adapted gun hardpoints on improvised mounts, bolted salvage armour plates, exposed cable runs clamped along the hull, and a grappling arm, with every asymmetric addition on the side facing the camera. Finish is mixed: patches of the donor's original paint, gray primer, bare welds and blued heat discolouration. Donor company paint on the original hull, gray primer on the added parts, bare steel at the welds, one crew accent colour slashed boldly across both, overpainted corporate logos, crossed-out serials, and the crew's emblem, one large emoji, painted three times. It looks like a stolen truck with new plates and a shotgun on the dash.
+
+Design the Dine and Dash, a single-pilot Pirate Coalition speed demon built from a stolen Alakrita racer, stripped of every gram that was not thrust. The donor's long, narrow, knife-pleated ivory body is still recognisable, with patches of wine-red lacquer, but its armour plates are gone, leaving bare frames and exposed cable runs clamped along the hull. On each flank, a huge cluster of four thruster nozzles is bolted on, each cluster bigger than the cockpit. The two clusters point left and right, their nozzle mouths perpendicular to the spine: the camera-side cluster's four open mouths face out sideways toward the viewer, and the far cluster's mouths face the opposite way. The camera-side cluster is braced with welded struts. Two small light turrets on improvised mounts sit on the dorsal ridge. The original slim drive row remains at the stern. The cockpit is the donor's long, narrow canopy. The crew emblem, a running-figure emoji, is painted three times. A bright orange crew accent slashes across donor and additions alike. It has no wings, no tail fins and no aerodynamic surfaces of any kind. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
