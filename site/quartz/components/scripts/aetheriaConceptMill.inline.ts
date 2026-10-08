@@ -208,7 +208,10 @@ function setup(root: HTMLElement) {
   let liveRef = live
   let nextRef = next
   function swap(variant: Variant, ship: Ship) {
-    if (liveRef.getAttribute("src") === variant.image) return
+    if (liveRef.getAttribute("src") === variant.image) {
+      liveRef.classList.add("is-live")
+      return
+    }
     const target = nextRef
     target.alt = `Concept render of the ${ship.name}, ${variant.round}`
     target.src = variant.image
@@ -391,6 +394,9 @@ function setup(root: HTMLElement) {
   stage.addEventListener("touchstart", onTouchStart, { passive: true })
   stage.addEventListener("touchend", onTouchEnd, { passive: true })
 
+  // The server-rendered ship stays dark unless it is the one the hash asks
+  // for, so a slow deep link never shows the wrong ship first.
+  live.classList.remove("is-live")
   const initial = parseHash()
   select(initial?.i ?? 0, initial?.v, Boolean(initial))
   root.classList.add("is-ready")
