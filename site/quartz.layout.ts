@@ -1,10 +1,14 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import AetheriaAuthorMeta from "./quartz/components/AetheriaAuthorMeta"
+import AetheriaConceptMill, { isConceptMillPage } from "./quartz/components/AetheriaConceptMill"
 import AetheriaEpubReader, { isAetheriaEpubReaderPage } from "./quartz/components/AetheriaEpubReader"
 import AetheriaMasthead from "./quartz/components/AetheriaMasthead"
 import AetheriaOverviewSidebar from "./quartz/components/AetheriaOverviewSidebar"
 import AetheriaThemeLock from "./quartz/components/AetheriaThemeLock"
+
+// Pages that take the whole viewport keep only the floating masthead.
+const isFullBleedPage = (slug: string | undefined) => isAetheriaEpubReaderPage(slug) || isConceptMillPage(slug)
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -25,28 +29,32 @@ export const defaultContentPageLayout: PageLayout = {
         showCurrentPage: false,
         showRoot: false,
       }),
-      condition: (page) => page.fileData.slug !== "index" && !isAetheriaEpubReaderPage(page.fileData.slug),
+      condition: (page) => page.fileData.slug !== "index" && !isFullBleedPage(page.fileData.slug),
     }),
     Component.ConditionalRender({
       component: Component.ArticleTitle(),
       condition: (page) =>
         !page.fileData.slug?.endsWith("/index") &&
         page.fileData.slug !== "index" &&
-        !isAetheriaEpubReaderPage(page.fileData.slug),
+        !isFullBleedPage(page.fileData.slug),
     }),
     Component.ConditionalRender({
       component: AetheriaAuthorMeta(),
       condition: (page) =>
         !page.fileData.slug?.endsWith("/index") &&
         page.fileData.slug !== "index" &&
-        !isAetheriaEpubReaderPage(page.fileData.slug),
+        !isFullBleedPage(page.fileData.slug),
     }),
     Component.ConditionalRender({
       component: Component.ContentMeta(),
       condition: (page) =>
         !page.fileData.slug?.endsWith("/index") &&
         page.fileData.slug !== "index" &&
-        !isAetheriaEpubReaderPage(page.fileData.slug),
+        !isFullBleedPage(page.fileData.slug),
+    }),
+    Component.ConditionalRender({
+      component: AetheriaConceptMill(),
+      condition: (page) => isConceptMillPage(page.fileData.slug),
     }),
     Component.ConditionalRender({
       component: AetheriaEpubReader(),
@@ -70,17 +78,17 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.ConditionalRender({
       component: AetheriaOverviewSidebar(),
-      condition: (page) => !isAetheriaEpubReaderPage(page.fileData.slug),
+      condition: (page) => !isFullBleedPage(page.fileData.slug),
     }),
   ],
   right: [
     Component.ConditionalRender({
       component: Component.DesktopOnly(Component.TableOfContents()),
-      condition: (page) => !isAetheriaEpubReaderPage(page.fileData.slug),
+      condition: (page) => !isFullBleedPage(page.fileData.slug),
     }),
     Component.ConditionalRender({
       component: Component.Backlinks(),
-      condition: (page) => !isAetheriaEpubReaderPage(page.fileData.slug),
+      condition: (page) => !isFullBleedPage(page.fileData.slug),
     }),
   ],
 }
