@@ -1,0 +1,31 @@
+# Finders Keepers r8d
+
+## Hypothesis
+
+'Cute and cursed' can be stated outright in a Pirate prompt (a friendly farm donor grinning with a toothed maw too big for it), and G3's 'no wheels or tracks' keeps a farm donor off the ground.
+
+## What changed
+
+Global G3 (G2.1 with two edits: 'never flies through air or drives on ground', adding wheels and tracks to the banned list; thrust from 'slots and grilles cut into' the faces that push, and 'no thruster stands out from the hull as a can, bell, pod or pack'). Pirate block as r8b. Ship prompt states 'Cute and cursed', the toothed maw grin and the emitter 'like a single eye'; flank grilles; a towing collar at the stern.
+
+## Agent verdict
+
+Held on register: the round harvest-gold donor with a toothed maw is properly cute and cursed, with net-lashed crates, roof turret and magnet marks. No wheels, but it stands on spindly landing legs, which is the next ground cue to remove. The single-eye emitter does not read.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: 94e7cdfb-6911-42cb-8b0a-b6a95b7189b4
+- Date: 2026-10-08
+- Composition: ship prompt, faction block (livery and register only), global block G3, frame clause, separated by blank lines, exactly as below
+
+## Prompt
+
+Design the Finders Keepers, a three-crew Pirate Coalition collector built from a stolen Ewan Hart farm hauler, a spacecraft in vacuum that tractors in loose cargo the moment it drops. Cute and cursed. The donor's round, friendly harvest-gold housing and big round gauges are still recognisable, but its whole bow is now a wide open cargo maw welded on in gray primer and ringed with blunt salvaged teeth, so the friendly machine grins with a mouth far too big for it. A broad round tractor emitter sits above the maw like a single eye. Two short sorting arms fold at the maw's corners. A canvas net is lashed over the rear deck, bulging with mismatched crates. One small turret on an improvised mount sits on the roof. Exposed cable runs are clamped from the emitter back to the power housing. Rectangular thruster grilles are cut into the lower flanks, and the stern carries a towing collar. The crew emblem, a magnet emoji, is painted three times. An electric blue crew accent slashes across donor and additions alike.
+
+Pirate Coalition livery and register: wild and maximalist, someone else's ship kept running out of spite. The donor manufacturer's original paint in patches, gray primer over repairs, bare steel at the welds, overpainted corporate logos, crossed-out serials; worn, but the donor's markings stay legible.
+
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air or drives on ground, so it has no wings, fins, tailplanes, vanes, airfoils, streamlining, wheels or tracks of any kind. It moves only by rocket thrust from slots and grilles cut into whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each opening the way its exhaust would leave; no thruster stands out from the hull as a can, bell, pod or pack. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures and a docking collar are legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, with interior light shown only through small round opaque ports. Its paint is exactly as clean or as worn as its maker's description says; where no wear is named, it is factory-new. Rendered as a crisp studio concept render.
+
+One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

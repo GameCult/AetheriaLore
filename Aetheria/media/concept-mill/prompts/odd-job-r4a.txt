@@ -1,0 +1,29 @@
+# Odd Job r4a
+
+## Hypothesis
+
+Construction words (bucket, claw, cab, tow hitch, loader, "like a tractor's wheels") pull the model to ground machinery; space-salvage vocabulary plus an explicit "spacecraft in vacuum; no wheels, no ground, no cab" will make it read as a spacecraft.
+
+## Variable changed
+
+Vocabulary of the ship prompt only, against round 3 (`Odd Job.md`). Front-loader bucket became a capture cage, claw became grapple, tow hitch became a docking collar for hauling wrecks, tractor cab became a pressurised capsule, thrusters became reaction-control thruster quads, rear deck became rear cargo frame, and the vacuum/no-wheels clause was added. Structure, order and every other cue are unchanged. Global and Ewan Hart blocks unchanged.
+
+## Agent observation
+
+Partial. The wheels and ground are gone and the bow is a cage, but the fender pods still read as wheel hubs and the long body reads as a hovering armoured truck; it also grew two unprompted turrets. Vocabulary alone does not make it a spacecraft.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: f0b4542c-f719-4ee0-9461-4a3568835ac8
+- Date: 2026-10-08
+- Composition: global block, faction block (Ewan Hart), ship prompt below, separated by blank lines; global and faction blocks copied verbatim from the round-3 record
+
+## Prompt
+
+Concept art of a small working spacecraft from the Aetheria universe, made by a named manufacturer for one pilot or a small crew, with a human-sized hatch, a handhold rail and a cockpit window no wider than a person setting its scale against the hull. It is a material argument for what it does: magazines sit behind square hatches, sensors in recessed round apertures, guns in small turrets on thick armoured mounts, cargo at a heavy docking collar, and its protection is thick layered armour plate with bolted seams, with any further protective equipment sitting in its own visible housing, an emitter, a ring or a flat panel array, bolted to the hull like any other gear. It is owned, insured and repaired: scuffed handholds and hatch edges, one replaced panel in a slightly fresher shade, a stencilled registry number and a maker's plate beside the cockpit, engines cold and at rest. The whole ship is one continuous cast body, thick and closed, with rounded edges, mirror-symmetric along its long axis; every fin, blade and wing is a chunky rounded slab, and every part swells out of the main mass through wide smooth fillets so the outline is one solid silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, rendered like a painted studio scale model, with interior light shown only through small round opaque ports and painted bands. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
+
+An Ewan Hart ship: farm machinery working in vacuum, because people need dinner. The register is serious machinery with a goofy, friendly face, bending vacuum plausibility a little for the sake of charm. It has tractor proportions: a broad power-unit housing, rounded fenders over exposed working parts, prominent folding tool arms and implement couplings, heavy tow hitches, and big hinged service covers sized for gloved hands. Finish is thick farm enamel over greasy steel. Faded harvest gold on the main housing and fenders, deep agricultural green on the cab and implements, black rubber hoses along the arms, cream maker plates and large round readable gauges beside the cockpit. Enamel is chipped at every corner, grease darkens the hitches, and a canvas feed sack is strapped to the rear deck. It looks like a machine bought at auction from a cousin that has never missed a harvest.
+
+Design the Odd Job, a single-pilot Ewan Hart salvage tug, a spacecraft in vacuum that races everyone else to wrecks and loose cargo; it has no wheels, no ground beneath it and no cab. Its bow is one broad, deep capture cage of heavy ribs fused to the hull on two thick hydraulic arms, its rim worn bright. A folding grapple arm lies along the flank facing the camera, ending in a heavy three-fingered grapple. A heavy docking collar for hauling wrecks sits at the stern. The cockpit is a rounded pressurised capsule with a wide window and large round gauges. Four reaction-control thruster quads sit inside four big rounded fenders at its corners, facing down and back. A canvas feed sack and a coil of hauling cable are strapped to the rear cargo frame. A hand-painted sign on the cockpit hatch reads "No Job Too Odd". One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

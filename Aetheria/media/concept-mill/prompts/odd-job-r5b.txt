@@ -1,0 +1,29 @@
+# Odd Job r5b
+
+## Hypothesis
+
+The faction block's mechanism language adds nothing the ship prompt does not already carry; a livery-only faction block is enough.
+
+## What changed
+
+Against r5a, one change: the Ewan Hart block cut to a single livery sentence (harvest-gold enamel, green trim, cream plates, chipped corners). Global block G2 and ship prompt identical to r5a.
+
+## Agent observation
+
+Held as well as r5a, arguably better: a warm gold beetle with green trim, a cheerful lamp-eyes-and-grille face, unarmed; the long faction block bought nothing visible.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: 4b97cb67-799c-41b8-ab31-ef17ea61ba17
+- Date: 2026-10-08
+- Composition: global block, faction block, ship prompt, separated by blank lines, exactly as below
+
+## Prompt
+
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air, so it has no wings, fins, tailplanes, vanes, airfoils or streamlining of any kind. It moves only by rocket thrust from nozzles and thruster grilles placed on whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each one opening in the direction its exhaust would leave. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures, a docking collar and armour plate with bolted seams are all legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid, toy-like silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, rendered like a painted studio scale model, with interior light shown only through small round opaque ports.
+
+Ewan Hart livery: faded harvest-gold farm enamel over most of the hull, deep agricultural green trim, cream maker plates, chipped corners.
+
+Design the Odd Job, a single-pilot Ewan Hart salvage tug that races everyone else to wrecks and loose cargo in open space. It is unarmed. Its silhouette is an orbital service craft: a squat, round-shouldered central hub, two long jointed manipulator arms reaching forward from its shoulders, each ending in a heavy three-fingered grapple with fingertips worn bright, and a collapsible capture cage of heavy ribs folded between the arms at the bow. The cockpit is a rounded pressurised capsule set into the front of the hub, its wide window flanked by two round floodlamps so the front reads as a cheerful face. At each of the hub's four corners a short stubby boom carries a quad of small reaction-control nozzles, their bells pointing down and back. A heavy docking collar for hauling wrecks sits at the stern, with a coil of hauling cable and a canvas feed sack strapped to the cargo frame above it. A hand-painted sign on the cockpit hatch reads "No Job Too Odd". One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

@@ -1,0 +1,31 @@
+# Oboz r6c
+
+## Hypothesis
+
+G2.1 and a paint-and-tone-only Zhestokost block still carry the serious foundry register on a column ship, and the ship-first order holds on a second faction.
+
+## What changed
+
+G2.1. Zhestokost block cut to livery and register (no stove, turret or ammunition-architecture language). Ship-first order. Radiator vanes removed from the ship prompt (G2 bans vanes); the drive pods became drive bells sunk into belly recesses.
+
+## Agent verdict
+
+Held. Charcoal, oxide-red magazine hatches, block-letter codes, unarmed, no fins. The magazines read as crates sitting on the deck rather than the hull's own mass, and the 'sunk' drive bells project below the belly.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: ec353614-6d8e-437e-a6c0-f932ea04441d
+- Date: 2026-10-08
+- Composition: ship prompt, faction block (livery and register only), global block G2.1, frame clause, separated by blank lines, exactly as below
+
+## Prompt
+
+Design the Oboz, a three-crew Zhestokost ammunition tender, the slow anchor a gun column falls back to. It carries no gun at all. Its body is a long, broad, stepped armoured box whose upper half is three huge magazine blocks in a row, each the size of a small ship, each fronted by large square oxide-red hatches with heavy hinge bars. Along the flank facing the camera, two thick round transfer collars are set flush into the hull, each ringed by guide lugs and a cream stencilled berth number, where gunships couple to rearm. The cockpit is a narrow slit in a low armoured block at the bow. Four squat drive bells are sunk into recesses at the corners of the belly, and a heavy towing lug juts from the stern plate. Large block-letter unit codes run down the flank.
+
+Zhestokost livery and register: serious, state-foundry military hardware with no decoration and no symbols. Rough sand-cast iron under baked-on industrial enamel: charcoal on the main armour, iron gray on the underside and machinery, dull oxide red on magazine hatches and ammunition doors, small cream stencilled serials and safety chevrons on every plate, large block-letter unit codes on the flank. Soot at gun mouths, chipped enamel at hatch edges, one replacement plate in fresher charcoal.
+
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air, so it has no wings, fins, tailplanes, vanes, airfoils or streamlining of any kind. It moves only by rocket thrust from nozzles and thruster grilles built into whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each one opening in the direction its exhaust would leave; thrusters are part of the hull's own surface, never separate pods or packs bolted on. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures and a docking collar are legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, with interior light shown only through small round opaque ports. Its paint is exactly as clean or as worn as its maker's description says; where no wear is named, it is factory-new. Rendered as a crisp studio concept render.
+
+One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

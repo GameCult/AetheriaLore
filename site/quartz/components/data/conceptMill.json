@@ -1,0 +1,1550 @@
+{
+ "sections": [
+  {
+   "kind": "pass",
+   "title": "Kept"
+  },
+  {
+   "kind": "new",
+   "title": "Unreviewed"
+  },
+  {
+   "kind": "scrap",
+   "title": "Scrap bin"
+  }
+ ],
+ "votes": {
+  "enabled": false,
+  "endpoint": null,
+  "bifrostUrl": null
+ },
+ "ships": [
+  {
+   "id": "bison",
+   "name": "Bison",
+   "code": "AU",
+   "faction": "Aeronautics Unlimited",
+   "role": "Swarm escort",
+   "desig": "Bench 1 · entry B · safe bet",
+   "crew": "1 pilot",
+   "mass": "Small (per prompt)",
+   "hardpoints": [
+    {
+     "qty": "2",
+     "size": "Medium",
+     "mount": "Rocket pod · forward, cells in the hump face"
+    },
+    {
+     "qty": "1",
+     "size": "Small",
+     "mount": "Gun · forward (pitch says one; the render drew two horn guns)"
+    },
+    {
+     "qty": "1",
+     "size": "Sensor",
+     "mount": "Active sensor dome · dorsal"
+    }
+   ],
+   "loadout": [
+    "Leonid dumbfire swarms in both rocket pods",
+    "Earp gun",
+    "Ranger active sensor"
+   ],
+   "concept": "Swarm escort. It opens every fight with a saturation salvo from the hump and keeps its sensor dome lit so the swarm has something to chase.",
+   "notes": "The bison lends where the mass sits; the hardpoints go in the hump, the cockpit in the low head. The operator's benchmark for the serious register.",
+   "beaten": "Decoys. It fires at the first thing it sees, decoys included, and empties its pods on nothing.",
+   "status": {
+    "kind": "pass",
+    "stamp": "PASSED",
+    "verdict": "Operator: “already good to go” (Bench 3, What Round Two Taught)"
+   },
+   "variants": [
+    {
+     "id": "b1",
+     "round": "B1",
+     "image": "/media/concept-mill/bison.webp",
+     "thumb": "/media/concept-mill/bison-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/bison.txt",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "b1"
+  },
+  {
+   "id": "vasuki",
+   "name": "Vasuki",
+   "code": "ALK",
+   "faction": "Alakrita",
+   "role": "Patron's duel escort",
+   "desig": "Bench 1 · entry A · safe bet",
+   "crew": "1 pilot",
+   "mass": "Small (per prompt)",
+   "hardpoints": [
+    {
+     "qty": "2",
+     "size": "Medium",
+     "mount": "Laser · one at each outer edge of the hood, forward"
+    },
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Radiator hood · the hood is the radiator"
+    }
+   ],
+   "loadout": [
+    "Two medium lasers",
+    "Arctica thrusters"
+   ],
+   "concept": "Duel escort. It wins the first exchange on looks and heat capacity, then has nothing to repair itself with.",
+   "notes": "Two renders. The first is the prompt alone. The second composes the same prompt after the global Aetheria block and the Alakrita block, and the operator found it “a noticeably more coherent render”. That result is why every later prompt is composed.",
+   "beaten": "A long fight. It is gorgeous in the first exchange and has no spares in stock.",
+   "status": {
+    "kind": "pass",
+    "stamp": "STOOD OUT",
+    "verdict": "First round: stood out. Composed render: “noticeably more coherent”"
+   },
+   "variants": [
+    {
+     "id": "a",
+     "round": "B1·A",
+     "image": "/media/concept-mill/vasuki.webp",
+     "thumb": "/media/concept-mill/vasuki-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/vasuki.txt",
+     "hypothesis": "The prompt alone, with no global or faction block.",
+     "pick": false
+    },
+    {
+     "id": "b",
+     "round": "B1·B",
+     "image": "/media/concept-mill/vasuki2.webp",
+     "thumb": "/media/concept-mill/vasuki2-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/vasuki.txt",
+     "hypothesis": "The same prompt composed after the global Aetheria block and the Alakrita block.",
+     "operator": "a noticeably more coherent render",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "b"
+  },
+  {
+   "id": "squatter",
+   "name": "Squatter",
+   "code": "PIR",
+   "faction": "Pirate Coalition",
+   "role": "Ambush raider",
+   "desig": "Bench 1 · entry A · moonshot",
+   "crew": "3 (pilot and two crew)",
+   "mass": "Small (per prompt)",
+   "hardpoints": [
+    {
+     "qty": "1",
+     "size": "Oversized",
+     "mount": "Stolen gun · in the crusher claw, camera side"
+    },
+    {
+     "qty": "1",
+     "size": "Utility",
+     "mount": "Capture grapple · small claw, camera side"
+    },
+    {
+     "qty": "1",
+     "size": "Drive",
+     "mount": "Mismatched replacement drive · bolted to the shell"
+    }
+   ],
+   "loadout": [
+    "One oversized stolen gun",
+    "Capture grapple",
+    "Whatever drive it could get"
+   ],
+   "concept": "Ambush raider. It wants your cargo, aims for your drives, and grabs what falls loose.",
+   "notes": "A hermit crab living in a stolen freight pod, still wearing the donor company's paint and a crossed-out serial. The analogy explains a history the hull visibly carries.",
+   "beaten": "Making the fight look bad early. It leaves fights it is losing, so a stiff escort wins by showing up.",
+   "status": {
+    "kind": "pass",
+    "stamp": "APPROVED",
+    "verdict": "Operator: the one animal that felt right"
+   },
+   "variants": [
+    {
+     "id": "b1",
+     "round": "B1",
+     "image": "/media/concept-mill/squatter.webp",
+     "thumb": "/media/concept-mill/squatter-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/squatter.txt",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "b1"
+  },
+  {
+   "id": "raft",
+   "name": "Raft",
+   "code": "CET",
+   "faction": "Cetacean Navigators",
+   "role": "Corridor escort",
+   "desig": "Bench 1 · entry B · moonshot",
+   "crew": "2 (pilot and navigator)",
+   "mass": "Small (per prompt)",
+   "hardpoints": [
+    {
+     "qty": "2",
+     "size": "Small",
+     "mount": "Point defence · one turret per shoulder"
+    },
+    {
+     "qty": "1",
+     "size": "Medium",
+     "mount": "Utility · recovery grapple held on the chest"
+    },
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Distress receiver"
+    }
+   ],
+   "loadout": [
+    "Two point-defence turrets",
+    "Stubby recovery grapple"
+   ],
+   "concept": "Corridor escort. It drops anything to answer a call on the corridor.",
+   "notes": "A sea otter floating on its back, holding what it saves. Round two's register ruling moved whole cute animals to Corriedales, so this exact hull may change house.",
+   "beaten": "A false distress call. Its dependency is answering every one.",
+   "status": {
+    "kind": "pass",
+    "stamp": "HIT",
+    "verdict": "A hit with the household; whole-animal hulls now belong to the high-whimsy register"
+   },
+   "variants": [
+    {
+     "id": "b1",
+     "round": "B1",
+     "image": "/media/concept-mill/raft.webp",
+     "thumb": "/media/concept-mill/raft-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/raft.txt",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "b1"
+  },
+  {
+   "id": "gentle-giant",
+   "name": "Gentle Giant",
+   "code": "CET",
+   "faction": "Cetacean Navigators",
+   "role": "Recovery tug",
+   "desig": "Bench 1 · entry B · safe bet",
+   "crew": "Mixed-environment crew · TBD",
+   "mass": "Small (per prompt)",
+   "hardpoints": [
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Heavy tow block and tractor · the mouth is the intake"
+    },
+    {
+     "qty": "2",
+     "size": "Small",
+     "mount": "Point defence · one turret on each outer ridge"
+    },
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Large aquatic pressure volume"
+    }
+   ],
+   "loadout": [
+    "Tractor and tow block",
+    "Two point-defence turrets"
+   ],
+   "concept": "Tug. It gets the disabled ship home before the salvagers do.",
+   "notes": "A whale shark whose whole mouth is the tractor intake. The household favourite of the first round.",
+   "beaten": "Attacks while it is towing, since the towed mass adds to its own. Its dependency is the tow line and its thrust.",
+   "status": {
+    "kind": "pass",
+    "stamp": "HIT",
+    "verdict": "Above all the household's favourite (Bench 2 brief)"
+   },
+   "variants": [
+    {
+     "id": "b1",
+     "round": "B1",
+     "image": "/media/concept-mill/gentle-giant.webp",
+     "thumb": "/media/concept-mill/gentle-giant-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/gentle-giant.txt",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "b1"
+  },
+  {
+   "id": "shellback",
+   "name": "Shellback",
+   "code": "LSX",
+   "faction": "Lightsail Express",
+   "role": "Armed hauler",
+   "desig": "Bench 1 · entry B · moonshot",
+   "crew": "2",
+   "mass": "Small (per prompt)",
+   "hardpoints": [
+    {
+     "qty": "2",
+     "size": "Small",
+     "mount": "ClearPath machine gun · eyestalk turrets"
+    },
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Sealed box hold · cannot be jettisoned"
+    }
+   ],
+   "loadout": [
+    "Two ClearPath machine guns",
+    "True North thrusters"
+   ],
+   "concept": "Armed hauler. It is slow and stubborn, and it delivers.",
+   "notes": "Lightsail's doctrine as an animal that carries its home; the coiled shell is the sealed hold, with the route stripe following the spiral.",
+   "beaten": "TBD. A concept-grade reading: anything that can catch it, because it cannot dump the hold to run.",
+   "status": {
+    "kind": "pass",
+    "stamp": "HIT",
+    "verdict": "A hit with the household, alongside Raft and Gentle Giant"
+   },
+   "variants": [
+    {
+     "id": "b1",
+     "round": "B1",
+     "image": "/media/concept-mill/shellback.webp",
+     "thumb": "/media/concept-mill/shellback-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/shellback.txt",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "b1"
+  },
+  {
+   "id": "lamp-shy",
+   "name": "Lamp-Shy",
+   "code": "ADR",
+   "faction": "Adrasteia",
+   "role": "Deniable courier",
+   "desig": "Bench 1 · entry A · safe bet",
+   "crew": "1 pilot",
+   "mass": "Small (per prompt)",
+   "hardpoints": [
+    {
+     "qty": "1",
+     "size": "Utility",
+     "mount": "TBD fit · bench names the slot only"
+    },
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Shielded charge hold · under the wing ridge"
+    },
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Cold drift mode"
+    }
+   ],
+   "loadout": [
+    "Cargo: Enigma Devices in unmarked boxes"
+   ],
+   "concept": "Deniable courier. It leaves no trace you can follow.",
+   "notes": "A moth at rest, wings folded flat. Quiet, low-mass shapes read, but this one needs a stronger silhouette.",
+   "beaten": "TBD. The bench names no counter.",
+   "status": {
+    "kind": "pass",
+    "stamp": "PASS, BARELY",
+    "verdict": "First round: a pass, barely"
+   },
+   "variants": [
+    {
+     "id": "b1",
+     "round": "B1",
+     "image": "/media/concept-mill/lamp-shy.webp",
+     "thumb": "/media/concept-mill/lamp-shy-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/lamp-shy.txt",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "b1"
+  },
+  {
+   "id": "zera",
+   "name": "Zera",
+   "code": "MGD",
+   "faction": "Megiddo",
+   "role": "Decoy layer",
+   "desig": "Bench 1 · entry A · safe bet",
+   "crew": "1 pilot",
+   "mass": "Small (per prompt)",
+   "hardpoints": [
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Decoy bay · four decoy pods along the seam"
+    },
+    {
+     "qty": "1",
+     "size": "Small",
+     "mount": "Point defence · near the broad base"
+    },
+    {
+     "qty": "—",
+     "size": "Sensor",
+     "mount": "Passive sensors"
+    }
+   ],
+   "loadout": [
+    "Four decoy pods",
+    "One point-defence turret"
+   ],
+   "concept": "Decoy layer. It makes the fleet look larger than it is.",
+   "notes": "A closed milkweed pod. Its seed grammar was reworked into Sown, a picket-line layer, in Bench 3.",
+   "beaten": "A second sensor that tells decoys apart, patience, and multiple bearings. Its dependency is that the observer must decide quickly.",
+   "status": {
+    "kind": "pass",
+    "stamp": "PASS, BARELY",
+    "verdict": "First round: a pass, barely"
+   },
+   "variants": [
+    {
+     "id": "b1",
+     "round": "B1",
+     "image": "/media/concept-mill/zera.webp",
+     "thumb": "/media/concept-mill/zera-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/zera.txt",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "b1"
+  },
+  {
+   "id": "nakovalnya",
+   "name": "Nakovalnya",
+   "code": "ZHK",
+   "faction": "Zhestokost",
+   "role": "Fortress · the demo boss",
+   "desig": "Bench 4 · moonshot",
+   "crew": "8",
+   "mass": "Fortress · huge (per prompt)",
+   "hardpoints": [
+    {
+     "qty": "3",
+     "size": "Heavy",
+     "mount": "Gun · fixed casemates in the prow, narrow forward arcs"
+    },
+    {
+     "qty": "10",
+     "size": "Light",
+     "mount": "Flak turret · ring around the upper edge, fast tracking"
+    },
+    {
+     "qty": "2",
+     "size": "Built-in",
+     "mount": "Feed collar · one per flank, where a tender couples"
+    }
+   ],
+   "loadout": [
+    "Three heavy casemate guns",
+    "Ten one-cell flak turrets",
+    "Fed by two Oboz tenders"
+   ],
+   "concept": "Armoured Prow and Point-Defence Umbrella in one hull, fed by two Tenders. A foundry anvil that learned to fly.",
+   "notes": "Six turning blocks turn a fortress slowly. The moonshot risk is two gun scales on one hull: the flak ring may blur into greeble.",
+   "beaten": "Strip: stay on its quarter and take the flak ring apart. Dive: cross close and fast under the heavy guns once a face of the ring is thin. Starve: kill both Obozes and wait for the casemates to go quiet.",
+   "status": {
+    "kind": "new",
+    "stamp": "UNREVIEWED",
+    "verdict": "Bench 4 render, 2026-10-08; awaiting the operator"
+   },
+   "variants": [
+    {
+     "id": "r3",
+     "round": "r3",
+     "image": "/media/concept-mill/nakovalnya.webp",
+     "thumb": "/media/concept-mill/nakovalnya-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/nakovalnya.txt",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "r3"
+  },
+  {
+   "id": "oboz",
+   "name": "Oboz",
+   "code": "ZHK",
+   "faction": "Zhestokost",
+   "role": "Tender",
+   "desig": "Bench 4 · Function · safe bet",
+   "crew": "3",
+   "mass": "TBD",
+   "hardpoints": [
+    {
+     "qty": "3",
+     "size": "Built-in",
+     "mount": "Magazine segment · the hull itself, flush oxide-red hatches"
+    },
+    {
+     "qty": "2",
+     "size": "Built-in",
+     "mount": "Transfer collar · flush in the flank, where gunships couple to rearm"
+    },
+    {
+     "qty": "1",
+     "size": "Utility",
+     "mount": "Towing lug · stern plate"
+    }
+   ],
+   "loadout": [
+    "No gun at all",
+    "The column's ammunition"
+   ],
+   "concept": "Tender. It is the column's anchor. It carries the rounds, holds back, and lets low-magazine ships peel back, couple and rearm. It flees early, and the column follows it home.",
+   "notes": "Oboz means “baggage train”. Unarmed: the magazines are the architecture. r6c drew them as crates on the deck; r8f made the segments the hull.",
+   "beaten": "Anything that reaches it, since it carries no gun. Kill both Obozes and a Nakovalnya's casemates go quiet.",
+   "status": {
+    "kind": "new",
+    "stamp": "UNREVIEWED",
+    "verdict": "Lab rounds 6–8, 2026-10-08; awaiting the operator"
+   },
+   "variants": [
+    {
+     "id": "r6c",
+     "round": "r6c",
+     "image": "/media/concept-mill/oboz-r6c.webp",
+     "thumb": "/media/concept-mill/oboz-r6c-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/oboz-r6c.txt",
+     "hypothesis": "G2.1 and a paint-and-tone-only Zhestokost block still carry the serious foundry register on a column ship, and the ship-first order holds on a second faction.",
+     "verdict": "Held. Charcoal, oxide-red magazine hatches, block-letter codes, unarmed, no fins. The magazines read as crates sitting on the deck rather than the hull's own mass, and the 'sunk' drive bells project below the belly.",
+     "pick": false
+    },
+    {
+     "id": "r8f",
+     "round": "r8f",
+     "image": "/media/concept-mill/oboz-r8f.webp",
+     "thumb": "/media/concept-mill/oboz-r8f-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/oboz-r8f.txt",
+     "hypothesis": "An archetype metaphor that makes the cargo the hull ('built like a cast-iron bandolier' of magazine segments with flush hatches) integrates the magazines that r6c drew as crates on deck, without the metaphor becoming a prop.",
+     "verdict": "Held for integration: the three segments are the hull and the hatches are flush, and no literal bandolier appeared. The rounded segments and corner grilles read a little like an armoured rail wagon, and no thrust direction shows.",
+     "pick": true
+    }
+   ],
+   "defaultVariant": "r8f"
+  },
+  {
+   "id": "shchit",
+   "name": "Shchit",
+   "code": "ZHK",
+   "faction": "Zhestokost",
+   "role": "Facing-shield escort",
+   "desig": "Bench 4 · safe bet",
+   "crew": "2",
+   "mass": "TBD",
+   "hardpoints": [
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Facing shield projector · the bow face, forward only"
+    },
+    {
+     "qty": "2",
+     "size": "Small",
+     "mount": "Turret · low on the shoulders, behind the frame"
+    }
+   ],
+   "loadout": [
+    "Two light turrets",
+    "Four corner turning blocks"
+   ],
+   "concept": "Facing Shield on an Armoured Prow. It parks its shield face between the Oboz and the threat and turns to keep it there.",
+   "notes": "Shchit means “shield”. Facing shields are wanted; the arc mechanism is not yet ruled.",
+   "beaten": "Flank it, or come at it from two sides at once. One face cannot point two ways.",
+   "status": {
+    "kind": "new",
+    "stamp": "UNREVIEWED",
+    "verdict": "Bench 4 render, 2026-10-08; awaiting the operator"
+   },
+   "variants": [
+    {
+     "id": "r3",
+     "round": "r3",
+     "image": "/media/concept-mill/shchit.webp",
+     "thumb": "/media/concept-mill/shchit-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/shchit.txt",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "r3"
+  },
+  {
+   "id": "glushitel",
+   "name": "Glushitel",
+   "code": "ZHK",
+   "faction": "Zhestokost",
+   "role": "Point-defence umbrella",
+   "desig": "Bench 4 · Function · safe bet",
+   "crew": "2",
+   "mass": "TBD",
+   "hardpoints": [
+    {
+     "qty": "6",
+     "size": "Light",
+     "mount": "Flak turret · raised rings on the bow shoulders, mid-hull edge and stern corners, fast tracking"
+    },
+    {
+     "qty": "1",
+     "size": "Built-in",
+     "mount": "Shrapnel magazine · centre of the back, oxide-red hatch"
+    }
+   ],
+   "loadout": [
+    "Six light flak turrets"
+   ],
+   "concept": "Point-Defence Umbrella. It flies inside the column and throws flak. Its shrapnel eats missiles and drones, so swarm and guided-missile users have to switch weapons.",
+   "notes": "Glushitel means “damper”. No forward gun; the shrapnel magazine is the largest feature. Its one render is a plan view, which shows coverage but hides height.",
+   "beaten": "Direct fire. Its flak tracks fast but does little against a hull.",
+   "status": {
+    "kind": "new",
+    "stamp": "UNREVIEWED",
+    "verdict": "Lab round 7, 2026-10-08; awaiting the operator"
+   },
+   "variants": [
+    {
+     "id": "r7f",
+     "round": "r7f",
+     "image": "/media/concept-mill/glushitel-r7f.webp",
+     "thumb": "/media/concept-mill/glushitel-r7f-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/glushitel-r7f.txt",
+     "hypothesis": "A plan view from directly above shows a point-defence ship's coverage, which is its gameplay role, better than the default three-quarter view.",
+     "verdict": "Held strongly. Six ring turrets at the corners and shoulders, the oxide-red shrapnel magazine at the centre with feed trunks to every turret: the role reads at a glance. A plan view hides height, so it is a role sheet to pair with a three-quarter view, not a replacement.",
+     "pick": true
+    }
+   ],
+   "defaultVariant": "r7f"
+  },
+  {
+   "id": "key-light",
+   "name": "Key Light",
+   "code": "LUC",
+   "faction": "Lucent Media",
+   "role": "Illuminator",
+   "desig": "Bench 4 · safe bet",
+   "crew": "1 pilot",
+   "mass": "TBD",
+   "hardpoints": [
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Stage-light array · the whole bow, active sensor light"
+    },
+    {
+     "qty": "—",
+     "size": "Sensor",
+     "mount": "Sensor fin · ring of small stage lights"
+    }
+   ],
+   "loadout": [
+    "No real weapon"
+   ],
+   "concept": "Illuminator and Spotter. It pings and paints you, so the headliner sees your gear and everyone in the zone sees you.",
+   "notes": "A ventral drive leaves the stern free for a cooling fan. The ping reveals Key Light too.",
+   "beaten": "Shooting the brightest thing in the zone, which it is. It is the first thing anyone with missiles kills.",
+   "status": {
+    "kind": "new",
+    "stamp": "UNREVIEWED",
+    "verdict": "Lab rounds 3–8, 2026-10-08; awaiting the operator"
+   },
+   "variants": [
+    {
+     "id": "r3",
+     "round": "r3",
+     "image": "/media/concept-mill/key-light.webp",
+     "thumb": "/media/concept-mill/key-light-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/key-light.txt",
+     "pick": false
+    },
+    {
+     "id": "r5e",
+     "round": "r5e",
+     "image": "/media/concept-mill/key-light-r5e.webp",
+     "thumb": "/media/concept-mill/key-light-r5e-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/key-light-r5e.txt",
+     "hypothesis": "The vacuum-hull global block removes fins across factions, even on Lucent Media, whose block licensed liberties with vacuum engineering.",
+     "verdict": "Fins gone: no tail fin, no wings, no turrets, and the mast carries a ring of lamps; but the Lucent block's showroom-turntable simile turned into a literal turntable under the ship, and the paint is still weathered.",
+     "pick": false
+    },
+    {
+     "id": "r5f",
+     "round": "r5f",
+     "image": "/media/concept-mill/key-light-r5f.webp",
+     "thumb": "/media/concept-mill/key-light-r5f-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/key-light-r5f.txt",
+     "hypothesis": "Block order matters: putting the ship prompt first, then the faction block, then the global block, lets the ship's own shape lead.",
+     "verdict": "Better than r5e: no fins, a larger two-row lamp array, stepped shells that read, and a plain background with no turntable; still weathered, and a second drive pod moved to the flank.",
+     "pick": false
+    },
+    {
+     "id": "r7a",
+     "round": "r7a",
+     "image": "/media/concept-mill/key-light-r7a.webp",
+     "thumb": "/media/concept-mill/key-light-r7a-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/key-light-r7a.txt",
+     "hypothesis": "With G2.2 and a livery-only Lucent block that says 'factory-fresh, showroom-clean, unmarked paint: no dirt, no chips, no scuffs, no weathering', a Lucent hull renders clean. Second question: does the spectacle register survive without the gaming-mouse shape language?",
+     "verdict": "Partial. Less worn than r5e and r5f but still scuffed, so clean paint did not fully hold on Lucent. No fins. The spectacle thinned: without the mouse layout the hull reads as a boxy van with a lamp face, keeping only the blade prongs.",
+     "pick": false
+    },
+    {
+     "id": "r8a",
+     "round": "r8a",
+     "image": "/media/concept-mill/key-light-r8a.webp",
+     "thumb": "/media/concept-mill/key-light-r8a-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/key-light-r8a.txt",
+     "hypothesis": "Clean paint holds when the clean statement opens the whole prompt, and the spectacle register comes back when the gaming-mouse motifs live in the ship prompt instead of the faction block.",
+     "verdict": "Best Key Light. The spectacle is back: layered mouse shells, a lavender side rest, cobalt prongs with red-orange tips, a lamp-grid face and a stage-light mast, with no fins. The paint is the cleanest Lucent yet, with faint scuffing left at the edges.",
+     "pick": true
+    }
+   ],
+   "defaultVariant": "r8a"
+  },
+  {
+   "id": "shepherd",
+   "name": "Shepherd",
+   "code": "AU",
+   "faction": "Aeronautics Unlimited",
+   "role": "Point-defence picket",
+   "desig": "Bench 4 · Mass · safe bet",
+   "crew": "2",
+   "mass": "TBD",
+   "hardpoints": [
+    {
+     "qty": "8",
+     "size": "Light",
+     "mount": "Turret · raised rings spread over every face, fast tracking"
+    },
+    {
+     "qty": "—",
+     "size": "Sensor",
+     "mount": "Survey mast with tracking dish · mid-back"
+    }
+   ],
+   "loadout": [
+    "Eight one-cell light guns"
+   ],
+   "concept": "Point-Defence Picket. It circles a worksite on a short leash with nothing but fast-tracking light guns, and punishes the speed demon that wins against slow guns by crossing close.",
+   "notes": "A herding dog circling a flock. No forward gun and no heavy gun.",
+   "beaten": "A heavy hull. Its guns do little to armour, so a heavy ship simply pushes through.",
+   "status": {
+    "kind": "new",
+    "stamp": "UNREVIEWED",
+    "verdict": "Lab rounds 6–7, 2026-10-08; awaiting the operator"
+   },
+   "variants": [
+    {
+     "id": "r6d",
+     "round": "r6d",
+     "image": "/media/concept-mill/shepherd-r6d.webp",
+     "thumb": "/media/concept-mill/shepherd-r6d-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/shepherd-r6d.txt",
+     "hypothesis": "G2.1's 'weapons only where named' still yields a named eight-turret battery, and flank thrust stated as flush grilles reads without pods.",
+     "verdict": "Held. Chalk white, slate blue, ochre, a battery of small ring turrets (about eight) and flush flank grilles. The hull spread into a flat cross shape and reads slightly like a hover vehicle.",
+     "pick": true
+    },
+    {
+     "id": "r7b",
+     "round": "r7b",
+     "image": "/media/concept-mill/shepherd-r7b.webp",
+     "thumb": "/media/concept-mill/shepherd-r7b-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/shepherd-r7b.txt",
+     "hypothesis": "Block order: global first, then faction, then ship, reverses whatever r6d gained from ship-first.",
+     "verdict": "A chunkier, more compact hull with the eight turrets, but heavier weathering and a protruding round thruster can on the flank where r6d drew flush grilles. Ship-first honoured the thrust wording better; block-first gave a sturdier mass.",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "r6d"
+  },
+  {
+   "id": "rake",
+   "name": "Rake",
+   "code": "AU",
+   "faction": "Aeronautics Unlimited",
+   "role": "Minesweeper",
+   "desig": "Bench 4 · Function · safe bet",
+   "crew": "2",
+   "mass": "TBD",
+   "hardpoints": [
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Sweep comb · the bow, replaceable armoured tines"
+    },
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Blast plate · between the comb and the cab"
+    },
+    {
+     "qty": "1",
+     "size": "Small",
+     "mount": "Turret · cab roof"
+    }
+   ],
+   "loadout": [
+    "Sweep comb",
+    "One small turret",
+    "Two spare tines racked on the deck"
+   ],
+   "concept": "Minesweeper. It keeps worksite lanes clear, setting off Pirate mines on purpose at the end of its comb, where the blast is far from the cab.",
+   "notes": "A farm rake made into a sweep. It is slow and needs the Shepherds around it.",
+   "beaten": "TBD. A concept-grade reading: anything that catches it away from its Shepherds.",
+   "status": {
+    "kind": "new",
+    "stamp": "UNREVIEWED",
+    "verdict": "Lab round 8, 2026-10-08; awaiting the operator"
+   },
+   "variants": [
+    {
+     "id": "r8c",
+     "round": "r8c",
+     "image": "/media/concept-mill/rake-r8c.webp",
+     "thumb": "/media/concept-mill/rake-r8c-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/rake-r8c.txt",
+     "hypothesis": "G3 and a livery-only AU block carry a tool-bow hull: the comb is the largest shape and thrust is grilles cut into the rear flanks.",
+     "verdict": "Held for the role: the numbered comb is the largest shape, with blast plate, cab turret and racked spare tines, in chalk white, slate blue and ochre. Failed on thrust: the rear grilles grew into two pod-like sponsons standing out from the flanks.",
+     "pick": true
+    }
+   ],
+   "defaultVariant": "r8c"
+  },
+  {
+   "id": "dine-and-dash",
+   "name": "Dine and Dash",
+   "code": "PIR",
+   "faction": "Pirate Coalition",
+   "role": "Speed demon",
+   "desig": "Bench 4 · safe bet",
+   "crew": "1 pilot",
+   "mass": "TBD · no armour",
+   "hardpoints": [
+    {
+     "qty": "2",
+     "size": "Light",
+     "mount": "Turret · improvised mounts, tracks while sliding"
+    },
+    {
+     "qty": "—",
+     "size": "Thrust",
+     "mount": "Lateral thrust · the flanks"
+    }
+   ],
+   "loadout": [
+    "Two light turrets",
+    "Huge lateral thrust"
+   ],
+   "concept": "Speed demon. No catalogue concept yet; it is the poster child for angular velocity in evasion. It crosses close and jinks, so heavy guns cannot track it.",
+   "notes": "Built from a stolen Alakrita racer, stripped of every gram that was not thrust. Rounds 4–8 chase one question: how lateral thrust reads without the bolted-on packs.",
+   "beaten": "Aeronautics Unlimited's Shepherd pickets. Light guns that track fast are the one thing a speed demon cannot outrun.",
+   "status": {
+    "kind": "new",
+    "stamp": "UNREVIEWED",
+    "verdict": "Lab rounds 3–8, 2026-10-08. Operator on r3 and r4: “The thruster packs on the D&D are quite silly.”"
+   },
+   "variants": [
+    {
+     "id": "r3",
+     "round": "r3",
+     "image": "/media/concept-mill/dine-and-dash.webp",
+     "thumb": "/media/concept-mill/dine-and-dash-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/dine-and-dash.txt",
+     "operator": "The thruster packs on the D&D are quite silly.",
+     "pick": false
+    },
+    {
+     "id": "r4a",
+     "round": "r4a",
+     "image": "/media/concept-mill/dine-and-dash-r4a.webp",
+     "thumb": "/media/concept-mill/dine-and-dash-r4a-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/dine-and-dash-r4a.txt",
+     "hypothesis": "Naming the thrust direction geometrically (clusters point left and right, mouths perpendicular to the spine, camera-side mouths face out toward the viewer) will make the lateral thrust visible.",
+     "verdict": "Did not hold. Both clusters still have their mouths facing forward along the spine, and the hull grew a bigger tail fin and swept wings than round 3. The geometric wording did not turn the nozzles.",
+     "operator": "The thruster packs on the D&D are quite silly.",
+     "pick": false
+    },
+    {
+     "id": "r4b",
+     "round": "r4b",
+     "image": "/media/concept-mill/dine-and-dash-r4b.webp",
+     "thumb": "/media/concept-mill/dine-and-dash-r4b-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/dine-and-dash-r4b.txt",
+     "hypothesis": "An explicit vacuum-hull clause (\"no wings, no tail fins and no aerodynamic surfaces of any kind\") removes the aero cues; if so, the rule may belong in the global block.",
+     "verdict": "Mostly held. The tail fin is gone and the wings shrank to two stubby rear vanes, so the aero read is much weaker than r4a; the nozzles still face forward. The global block's \"every fin, blade and wing is a chunky rounded slab\" still invites fins and works against this rule.",
+     "operator": "The thruster packs on the D&D are quite silly.",
+     "pick": false
+    },
+    {
+     "id": "r5c",
+     "round": "r5c",
+     "image": "/media/concept-mill/dine-and-dash-r5c.webp",
+     "thumb": "/media/concept-mill/dine-and-dash-r5c-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/dine-and-dash-r5c.txt",
+     "hypothesis": "With the bolted-on packs gone (operator: \"The thruster packs on the D&D are quite silly.\"), lateral thrust reads when it is a recessed band of slots in the flank and the camera looks straight at that flank.",
+     "verdict": "Partial: the flank slot band reads clearly and integrated, with no packs, but a large swept wing grew back at the rear and the Pirate block's grappling arm appeared; the racer donor still pulls aero shapes.",
+     "pick": false
+    },
+    {
+     "id": "r5d",
+     "round": "r5d",
+     "image": "/media/concept-mill/dine-and-dash-r5d.webp",
+     "thumb": "/media/concept-mill/dine-and-dash-r5d-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/dine-and-dash-r5d.txt",
+     "hypothesis": "A hull archetype that cannot be read as a forward flyer (a flat disc with thrust grilles all round its rim) makes lateral thrust part of the body.",
+     "verdict": "Held for thrust: one flat welded disc with grille throats all round the rim, no wings, fins or packs; the donor racer is lost apart from a nameplate, and it reads a little like a hovercraft.",
+     "pick": false
+    },
+    {
+     "id": "r6a",
+     "round": "r6a",
+     "image": "/media/concept-mill/dine-and-dash-r6a.webp",
+     "thumb": "/media/concept-mill/dine-and-dash-r6a-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/dine-and-dash-r6a.txt",
+     "hypothesis": "The racer identity can come from markings and body grammar instead of aero shapes: a needle body with knife-pleat creases, a chequered nose band and a racing-number roundel, stated as a vacuum racer that never flew in air. Lateral thrust built in as transverse tubes bored through the hull, not packs.",
+     "verdict": "Racer identity recovered with no wings or fins: chequered nose, '07' roundels, needle body. The tubes render as short protruding cans pointing back along the flank, so lateral thrust still half-reads as add-on; a third turret appeared unasked.",
+     "pick": false
+    },
+    {
+     "id": "r6b",
+     "round": "r6b",
+     "image": "/media/concept-mill/dine-and-dash-r6b.webp",
+     "thumb": "/media/concept-mill/dine-and-dash-r6b-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/dine-and-dash-r6b.txt",
+     "hypothesis": "A strict side elevation shows the lateral thrust, because the defining feature faces the camera.",
+     "verdict": "Better than r6a on thrust: the three throats face the viewer and read as sideways thrust. Still cans standing out from the flank rather than flush. The racer reads; the profile view loses volume and dorsal detail.",
+     "pick": false
+    },
+    {
+     "id": "r7c",
+     "round": "r7c",
+     "image": "/media/concept-mill/dine-and-dash-r7c.webp",
+     "thumb": "/media/concept-mill/dine-and-dash-r7c-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/dine-and-dash-r7c.txt",
+     "hypothesis": "Lateral thrust reads as part of the racer when the donor's own knife-pleat creases are cut open into thruster slots, using Alakrita's grammar instead of adding parts.",
+     "verdict": "The best D&D yet for integration: a needle racer with chequered nose and '07', its flank ribbed with slots cut into the hull, no wings, fins or packs. The slots read as gills more than thrusters, the weathering is so heavy it fights the livery, and three turrets appeared despite 'exactly two'.",
+     "pick": false
+    },
+    {
+     "id": "r7d",
+     "round": "r7d",
+     "image": "/media/concept-mill/dine-and-dash-r7d.webp",
+     "thumb": "/media/concept-mill/dine-and-dash-r7d-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/dine-and-dash-r7d.txt",
+     "hypothesis": "The short blunt prompt that worked for Party Favors works for Dine and Dash too.",
+     "verdict": "Failed on vacuum: a tall dorsal fin came back and the lateral thrust became rows of protruding bells, close to the packs the operator rejected. The racer identity is the strongest yet, and the turret count was right. 'No wings' alone does not stop a racer's fin; an aero-prone donor needs the full vacuum doctrine.",
+     "pick": false
+    },
+    {
+     "id": "r8b",
+     "round": "r8b",
+     "image": "/media/concept-mill/dine-and-dash-r8b.webp",
+     "thumb": "/media/concept-mill/dine-and-dash-r8b-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/dine-and-dash-r8b.txt",
+     "hypothesis": "Slot thrust reads as thrust, not gills, when each slot is described as a throat with turning vanes and a sideways soot fan; turret counts hold when each turret is placed; a softer Pirate wear line keeps the racing livery legible.",
+     "verdict": "Best Dine and Dash. A needle racer with chequered nose and '07' roundel, and one long louvred band of sideways thrust cut into the flank; no wings, fins or packs. Two turrets, as placed. The livery stays legible. It is a plainer tube than a couture racer, and a small can hangs under the belly.",
+     "pick": true
+    }
+   ],
+   "defaultVariant": "r8b"
+  },
+  {
+   "id": "party-favors",
+   "name": "Party Favors",
+   "code": "PIR",
+   "faction": "Pirate Coalition",
+   "role": "Minelayer",
+   "desig": "Bench 4 · Story · safe bet",
+   "crew": "2",
+   "mass": "TBD",
+   "hardpoints": [
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Mine chute · stern hatch, fed from the stolen ore hopper"
+    },
+    {
+     "qty": "1",
+     "size": "Small",
+     "mount": "Turret · improvised mount, faces aft over the hopper"
+    },
+    {
+     "qty": "2",
+     "size": "Drive",
+     "mount": "Mismatched replacement drive · bolted on the flanks"
+    }
+   ],
+   "loadout": [
+    "A hopper of confetti-dot mines",
+    "One aft turret"
+   ],
+   "concept": "Minelayer and Stern Chaser. It runs, strewing mines behind it. Only hostiles trigger them, so pirates fly through their own fields and pursuers do not.",
+   "notes": "Built from a stolen Aeronautics Unlimited ore hauler. The blast is faction-blind: a pirate who lingers beside a mine a pursuer triggers pays for it too.",
+   "beaten": "TBD. A concept-grade reading: not chasing it down its own wake.",
+   "status": {
+    "kind": "new",
+    "stamp": "UNREVIEWED",
+    "verdict": "Lab round 6, 2026-10-08; awaiting the operator"
+   },
+   "variants": [
+    {
+     "id": "r6f",
+     "round": "r6f",
+     "image": "/media/concept-mill/party-favors-r6f.webp",
+     "thumb": "/media/concept-mill/party-favors-r6f-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/party-favors-r6f.txt",
+     "hypothesis": "A short blunt prompt with no global or faction block is enough for a readable Pirate hull; the long blocks may be adding noise.",
+     "verdict": "Held, and the most readable hull of the round: chalk-white donor, a hopper heaped with confetti-dot mines, primer patches, red slash and party-popper marks. The flank drives are round bells that stand out a little. Weathered heavily without being asked.",
+     "pick": true
+    }
+   ],
+   "defaultVariant": "r6f"
+  },
+  {
+   "id": "finders-keepers",
+   "name": "Finders Keepers",
+   "code": "PIR",
+   "faction": "Pirate Coalition",
+   "role": "Salvager",
+   "desig": "Bench 4 · Mass · safe bet",
+   "crew": "3",
+   "mass": "TBD",
+   "hardpoints": [
+    {
+     "qty": "1",
+     "size": "Utility",
+     "mount": "Tractor emitter · above the bow maw"
+    },
+    {
+     "qty": "1",
+     "size": "Utility",
+     "mount": "Cargo maw with two sorting arms · welded across the bow"
+    },
+    {
+     "qty": "1",
+     "size": "Small",
+     "mount": "Turret · improvised mount on the cab roof"
+    }
+   ],
+   "loadout": [
+    "Tractor emitter",
+    "One roof turret",
+    "A net full of somebody else's crates"
+   ],
+   "concept": "Salvager. It tractors jettisoned cargo. When loot drops, it goes for the loot and the fight stops for it.",
+   "notes": "Built from a stolen Ewan Hart farm hauler; a vacuum cleaner with teeth. Its render tested “cute and cursed” stated outright in the prompt.",
+   "beaten": "Dropping something. The collector turns away for the loot.",
+   "status": {
+    "kind": "new",
+    "stamp": "UNREVIEWED",
+    "verdict": "Lab round 8, 2026-10-08; awaiting the operator"
+   },
+   "variants": [
+    {
+     "id": "r8d",
+     "round": "r8d",
+     "image": "/media/concept-mill/finders-keepers-r8d.webp",
+     "thumb": "/media/concept-mill/finders-keepers-r8d-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/finders-keepers-r8d.txt",
+     "hypothesis": "'Cute and cursed' can be stated outright in a Pirate prompt (a friendly farm donor grinning with a toothed maw too big for it), and G3's 'no wheels or tracks' keeps a farm donor off the ground.",
+     "verdict": "Held on register: the round harvest-gold donor with a toothed maw is properly cute and cursed, with net-lashed crates, roof turret and magnet marks. No wheels, but it stands on spindly landing legs, which is the next ground cue to remove. The single-eye emitter does not read.",
+     "pick": true
+    }
+   ],
+   "defaultVariant": "r8d"
+  },
+  {
+   "id": "tattletale",
+   "name": "Tattletale",
+   "code": "FIN",
+   "faction": "Finch Cybernetics",
+   "role": "Tracker",
+   "desig": "Bench 4 · freelancer · safe bet",
+   "crew": "1 pilot",
+   "mass": "TBD",
+   "hardpoints": [
+    {
+     "qty": "—",
+     "size": "Sensor",
+     "mount": "Sensor dish · recessed in the camera-side flank, the largest feature"
+    },
+    {
+     "qty": "—",
+     "size": "Sensor",
+     "mount": "Second dish · recessed in the far flank"
+    },
+    {
+     "qty": "1",
+     "size": "Small",
+     "mount": "Low-signature weapon aperture · flush under the nose"
+    }
+   ],
+   "loadout": [
+    "One small flush weapon"
+   ],
+   "concept": "Spotter. It shadows you and sells your track to whoever pays, so a Zhestokost column or a Pirate crew knows where you are.",
+   "notes": "A bounty hunter for hire. Its technician label reads “Track Services, Billed by the Minute”.",
+   "beaten": "Going cold, or paying it more.",
+   "status": {
+    "kind": "new",
+    "stamp": "UNREVIEWED",
+    "verdict": "Lab round 6, 2026-10-08; awaiting the operator"
+   },
+   "variants": [
+    {
+     "id": "r6e",
+     "round": "r6e",
+     "image": "/media/concept-mill/tattletale-r6e.webp",
+     "thumb": "/media/concept-mill/tattletale-r6e-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/tattletale-r6e.txt",
+     "hypothesis": "Clean factions render clean when the global block drops the scale-model anchor and the faction block says 'factory-fresh, spotless, unmarked paint: no dirt, no chips, no scuffs, no weathering'.",
+     "verdict": "Mostly held: the cleanest render of the bench, pearl and titanium with only faint smudging, and the ear dish reads as the largest feature. Two cylindrical drive pods appeared at the stern where the prompt named no main drive, against the global's 'never pods'.",
+     "pick": true
+    }
+   ],
+   "defaultVariant": "r6e"
+  },
+  {
+   "id": "ghost-fare",
+   "name": "Ghost Fare",
+   "code": "ADR",
+   "faction": "Adrasteia",
+   "role": "Cold-running smuggler",
+   "desig": "Bench 4 · freelancer · safe bet",
+   "crew": "1 pilot",
+   "mass": "TBD",
+   "hardpoints": [
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Smuggling hold · under the hinged asymmetric facet"
+    },
+    {
+     "qty": "1",
+     "size": "Utility",
+     "mount": "Utility port · flush in the leading edge"
+    }
+   ],
+   "loadout": [
+    "No visible gun"
+   ],
+   "concept": "Quiet Approach. It crosses the region dark and never answers a hail.",
+   "notes": "Zhestokost columns hunt by heat, so an Inspektor cannot find it.",
+   "beaten": "A Key Light ping, and Lucent will put it on air.",
+   "status": {
+    "kind": "new",
+    "stamp": "UNREVIEWED",
+    "verdict": "Lab round 7, 2026-10-08; awaiting the operator"
+   },
+   "variants": [
+    {
+     "id": "r7e",
+     "round": "r7e",
+     "image": "/media/concept-mill/ghost-fare-r7e.webp",
+     "thumb": "/media/concept-mill/ghost-fare-r7e-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/ghost-fare-r7e.txt",
+     "hypothesis": "A material-first prompt (opening with the dead-matte graphite and grazing light) gives a dark faction its look, and G2.2 keeps an undriven stern clean.",
+     "verdict": "The material read is strong: a low faceted graphite wedge. It failed twice: two drive nozzles appeared at the stern against both the prompt and G2.2, and the facets are scuffed silver at the edges. The hold-lid facet does not read.",
+     "pick": true
+    }
+   ],
+   "defaultVariant": "r7e"
+  },
+  {
+   "id": "odd-job",
+   "name": "Odd Job",
+   "code": "EWH",
+   "faction": "Ewan Hart (freelancer)",
+   "role": "Salvage tug",
+   "desig": "Bench 4 · safe bet",
+   "crew": "1 pilot",
+   "mass": "TBD",
+   "hardpoints": [
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Front-loader bucket · the bow"
+    },
+    {
+     "qty": "1",
+     "size": "Utility",
+     "mount": "Folding grab arm · camera flank"
+    },
+    {
+     "qty": "1",
+     "size": "Utility",
+     "mount": "Tow hitch · stern"
+    }
+   ],
+   "loadout": [
+    "Weapons: TBD (none named)"
+   ],
+   "concept": "Salvager and Tug. It races you to wrecks and dropped loot.",
+   "notes": "The r3 prompt put the thrusters inside four fenders like a tractor's wheels, and the render took the wheels literally. Rounds 4–5 rebuilt it as an orbital service craft.",
+   "beaten": "Being caught in the field, or attacked while towing.",
+   "status": {
+    "kind": "new",
+    "stamp": "UNREVIEWED",
+    "verdict": "Lab rounds 3–8, 2026-10-08; awaiting the operator"
+   },
+   "variants": [
+    {
+     "id": "r3",
+     "round": "r3",
+     "image": "/media/concept-mill/odd-job.webp",
+     "thumb": "/media/concept-mill/odd-job-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/odd-job.txt",
+     "hypothesis": "The first Bench 4 prompt, with the thrusters inside four tractor fenders.",
+     "verdict": "Came out as a wheeled ground loader.",
+     "pick": false
+    },
+    {
+     "id": "r4a",
+     "round": "r4a",
+     "image": "/media/concept-mill/odd-job-r4a.webp",
+     "thumb": "/media/concept-mill/odd-job-r4a-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/odd-job-r4a.txt",
+     "hypothesis": "Construction words (bucket, claw, cab, tow hitch, loader, \"like a tractor's wheels\") pull the model to ground machinery; space-salvage vocabulary plus an explicit \"spacecraft in vacuum; no wheels, no ground, no cab\" will make it read as a spacecraft.",
+     "verdict": "Partial. The wheels and ground are gone and the bow is a cage, but the fender pods still read as wheel hubs and the long body reads as a hovering armoured truck; it also grew two unprompted turrets. Vocabulary alone does not make it a spacecraft.",
+     "pick": false
+    },
+    {
+     "id": "r4b",
+     "round": "r4b",
+     "image": "/media/concept-mill/odd-job-r4b.webp",
+     "thumb": "/media/concept-mill/odd-job-r4b-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/odd-job-r4b.txt",
+     "hypothesis": "An explicit orbital-service-craft silhouette (squat hub, two long jointed manipulator arms forward, a collapsible capture cage between them, RCS clusters at every corner) beats space vocabulary alone.",
+     "verdict": "Held. It reads as a spacecraft: a squat hub with two long jointed arms, a cage between them and a thruster cluster aft, with no ground-vehicle residue. The palette flipped to mostly green and two small turrets appeared unprompted.",
+     "pick": false
+    },
+    {
+     "id": "r5a",
+     "round": "r5a",
+     "image": "/media/concept-mill/odd-job-r5a.webp",
+     "thumb": "/media/concept-mill/odd-job-r5a-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/odd-job-r5a.txt",
+     "hypothesis": "Odd Job r4b's orbital-service silhouette loses its truck residue and its unprompted turrets once the faction block stops saying tractor and fenders and the global block stops supplying guns.",
+     "verdict": "Held: a gold egg-shaped hub with a lamp-and-window face, two long grapple arms, a cage and boom-mounted RCS quads; no fenders, no turrets, no truck read, and the palette stayed gold.",
+     "pick": false
+    },
+    {
+     "id": "r5b",
+     "round": "r5b",
+     "image": "/media/concept-mill/odd-job-r5b.webp",
+     "thumb": "/media/concept-mill/odd-job-r5b-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/odd-job-r5b.txt",
+     "hypothesis": "The faction block's mechanism language adds nothing the ship prompt does not already carry; a livery-only faction block is enough.",
+     "verdict": "Held as well as r5a, arguably better: a warm gold beetle with green trim, a cheerful lamp-eyes-and-grille face, unarmed; the long faction block bought nothing visible.",
+     "pick": true
+    },
+    {
+     "id": "r8e",
+     "round": "r8e",
+     "image": "/media/concept-mill/odd-job-r8e.webp",
+     "thumb": "/media/concept-mill/odd-job-r8e-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/odd-job-r8e.txt",
+     "hypothesis": "Under G3 with ship-first order, giving the hub a beetle's mass and face turns Ewan Hart whimsy up further than r5b.",
+     "verdict": "Failed. The beetle plus 'legs' produced a walking creature standing on four feet: a costume, not a mass and a face, and a ground read. The face and palette are charming. r5b stays the best Odd Job.",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "r5b"
+  },
+  {
+   "id": "one-pass",
+   "name": "One Pass",
+   "code": "ALK",
+   "faction": "Alakrita",
+   "role": "Interceptor",
+   "desig": "Bench 2 · Function · safe bet",
+   "crew": "1 pilot",
+   "mass": "TBD",
+   "hardpoints": [
+    {
+     "qty": "2",
+     "size": "Light",
+     "mount": "Gun · flush with the nose, forward"
+    }
+   ],
+   "loadout": [
+    "Two light guns",
+    "Victoire thrusters",
+    "The lowest armour in the catalogue"
+   ],
+   "concept": "None. “Cockpit, two guns and speed” is the default silhouette, not a concept.",
+   "notes": "Reworked in Bench 3 as Riposte: one spinal lance and a flywheel surge.",
+   "beaten": "TBD. Anything that survives one fast pass.",
+   "status": {
+    "kind": "scrap",
+    "stamp": "REJECTED · BIG FAIL",
+    "verdict": "Operator: “big fail”. Prose does not rescue a weak concept"
+   },
+   "variants": [
+    {
+     "id": "b2",
+     "round": "B2",
+     "image": "/media/concept-mill/one-pass.webp",
+     "thumb": "/media/concept-mill/one-pass-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/one-pass.txt",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "b2"
+  },
+  {
+   "id": "bulldog",
+   "name": "Bulldog",
+   "code": "NLE",
+   "faction": "NiteLife Energy",
+   "role": "Station guard",
+   "desig": "Bench 2 · Mass · safe bet",
+   "crew": "1 pilot",
+   "mass": "TBD",
+   "hardpoints": [
+    {
+     "qty": "1",
+     "size": "Medium",
+     "mount": "ChargeBlast emitter · chest, forward"
+    },
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Two capacitor banks · the shoulders"
+    },
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "MoveOnPro reactor with reservoir cartridge"
+    }
+   ],
+   "loadout": [
+    "ChargeBlast",
+    "MoveOnPro reactor"
+   ],
+   "concept": "Station guard. Strong on its leash; never leaves its station.",
+   "notes": "Reworked in Bench 3 as Bulldog II: the capacitor becomes the chest and the cartridge sits flush.",
+   "beaten": "TBD. A concept-grade reading: fighting it away from its station.",
+   "status": {
+    "kind": "scrap",
+    "stamp": "REJECTED · BIG SILLY THING ON ITS BACK",
+    "verdict": "Operator: “nice stature, big silly thing on its back, fail”"
+   },
+   "variants": [
+    {
+     "id": "b2",
+     "round": "B2",
+     "image": "/media/concept-mill/bulldog.webp",
+     "thumb": "/media/concept-mill/bulldog-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/bulldog.txt",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "b2"
+  },
+  {
+   "id": "live-wire",
+   "name": "Live Wire",
+   "code": "NLE",
+   "faction": "NiteLife Energy",
+   "role": "Station guard",
+   "desig": "Bench 1 · entry B · moonshot",
+   "crew": "1 pilot",
+   "mass": "Small (per prompt)",
+   "hardpoints": [
+    {
+     "qty": "1",
+     "size": "Medium",
+     "mount": "ChargeBlast · drawn as two prong emitters, forward"
+    },
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Two capacitor banks · the flanks"
+    },
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Reservoir cartridge · top, behind the cockpit"
+    }
+   ],
+   "loadout": [
+    "ChargeBlast",
+    "MoveOnPro reactor"
+   ],
+   "concept": "Station guard. Strong on its leash; never leaves its station.",
+   "notes": "A heavy-duty power plug. The ship is the thing you must plug in.",
+   "beaten": "TBD. A concept-grade reading: fighting it away from its station.",
+   "status": {
+    "kind": "scrap",
+    "stamp": "REJECTED · FELL FLAT",
+    "verdict": "First round: no household objects"
+   },
+   "variants": [
+    {
+     "id": "b1",
+     "round": "B1",
+     "image": "/media/concept-mill/live-wire.webp",
+     "thumb": "/media/concept-mill/live-wire-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/live-wire.txt",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "b1"
+  },
+  {
+   "id": "breakup-song",
+   "name": "Breakup Song",
+   "code": "DME",
+   "faction": "Death Monkey Explosives",
+   "role": "Infrastructure breaker",
+   "desig": "Bench 1 · entry A · safe bet",
+   "crew": "2",
+   "mass": "Small (per prompt)",
+   "hardpoints": [
+    {
+     "qty": "1",
+     "size": "Heavy",
+     "mount": "Thermal warhead launcher · the horn, forward"
+    },
+    {
+     "qty": "2",
+     "size": "Small",
+     "mount": "Flame projector · the ears"
+    }
+   ],
+   "loadout": [
+    "Thermal warhead launcher, big blast radius",
+    "Two flame projectors",
+    "Safeties wired open"
+   ],
+   "concept": "Infrastructure breaker. It hits stations, not ships.",
+   "notes": "A whole rounded animal reads as a plush toy in any paint. Serious factions get no animal hulls.",
+   "beaten": "A long fight: it cooks itself. And ships, which it is not built to hit.",
+   "status": {
+    "kind": "scrap",
+    "stamp": "REJECTED · TOO CUTE FOR DME",
+    "verdict": "First round verdict (Bench 2, What the First Round Taught)"
+   },
+   "variants": [
+    {
+     "id": "b1",
+     "round": "B1",
+     "image": "/media/concept-mill/breakup-song.webp",
+     "thumb": "/media/concept-mill/breakup-song-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/breakup-song.txt",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "b1"
+  },
+  {
+   "id": "50-f",
+   "name": "Standard Model 50-F “Records”",
+   "code": "R&D",
+   "faction": "Rossum & Douglas",
+   "role": "MIRV picket",
+   "desig": "Bench 1 · entry B · moonshot",
+   "crew": "1 pilot",
+   "mass": "Small (per prompt)",
+   "hardpoints": [
+    {
+     "qty": "4",
+     "size": "Cell",
+     "mount": "MIRV launch cell · behind the drawer doors, forward"
+    },
+    {
+     "qty": "1",
+     "size": "Small",
+     "mount": "Defensive mount · flush on top, rear"
+    },
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Guidance computer"
+    }
+   ],
+   "loadout": [
+    "Four MIRV cells",
+    "One defensive mount"
+   ],
+   "concept": "MIRV picket. It outranges you and backs away when you close.",
+   "notes": "A filing cabinet lying on its side. Its identity belongs in small human-scale parts, not the whole body.",
+   "beaten": "Closing the distance.",
+   "status": {
+    "kind": "scrap",
+    "stamp": "REJECTED · FELL FLAT",
+    "verdict": "First round: no household objects"
+   },
+   "variants": [
+    {
+     "id": "b1",
+     "round": "B1",
+     "image": "/media/concept-mill/50-f.webp",
+     "thumb": "/media/concept-mill/50-f-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/50-f.txt",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "b1"
+  },
+  {
+   "id": "homestead",
+   "name": "Homestead",
+   "code": "EWH",
+   "faction": "Ewan Hart",
+   "role": "Tug and hauler",
+   "desig": "Bench 1 · entry A · safe bet",
+   "crew": "2 (driver and a hand)",
+   "mass": "Small (per prompt)",
+   "hardpoints": [
+    {
+     "qty": "1",
+     "size": "Utility",
+     "mount": "Implement mount · under the front grille"
+    },
+    {
+     "qty": "1",
+     "size": "Small",
+     "mount": "Defensive mount · on the hood"
+    },
+    {
+     "qty": "—",
+     "size": "Built-in",
+     "mount": "Heavy towing hitch · stern"
+    }
+   ],
+   "loadout": [
+    "One implement",
+    "One defensive mount"
+   ],
+   "concept": "Tug and hauler. It gets the harvest to the station.",
+   "notes": "A vintage farm tractor with the drive pods in its rear fenders. Its descendant is Odd Job.",
+   "beaten": "Threats of any kind: it flees and jettisons.",
+   "status": {
+    "kind": "scrap",
+    "stamp": "REJECTED · TOO SILLY",
+    "verdict": "First round: “the rest: too silly”"
+   },
+   "variants": [
+    {
+     "id": "b1",
+     "round": "B1",
+     "image": "/media/concept-mill/homestead.webp",
+     "thumb": "/media/concept-mill/homestead-thumb.webp",
+     "prompt": "/media/concept-mill/prompts/homestead.txt",
+     "pick": false
+    }
+   ],
+   "defaultVariant": "b1"
+  }
+ ]
+}

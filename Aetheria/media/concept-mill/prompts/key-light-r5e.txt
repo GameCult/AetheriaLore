@@ -1,0 +1,29 @@
+# Key Light r5e
+
+## Hypothesis
+
+The vacuum-hull global block removes fins across factions, even on Lucent Media, whose block licensed liberties with vacuum engineering.
+
+## What changed
+
+global block rewritten as a vacuum-hull doctrine (G2: no wings, fins, vanes or streamlining; thrust from nozzles and grilles on whichever faces need to push, each opening the way its exhaust leaves; silhouette from the job; weapons only where named; wear moved out to the faction blocks; frame clause no longer duplicated in the global block); Lucent block: "takes liberties with vacuum engineering wherever the shot improves" becomes "every line is styled for the camera, but it is still a vacuum hull", and "small fins flaring up and out at the rear" becomes "stepped shell lips"; ship prompt: the tall sensor fin becomes a short round sensor mast, plus "It carries no weapons" and "Spotless and freshly detailed".
+
+## Agent observation
+
+Fins gone: no tail fin, no wings, no turrets, and the mast carries a ring of lamps; but the Lucent block's showroom-turntable simile turned into a literal turntable under the ship, and the paint is still weathered.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: eeb19205-7b02-4ddd-ab5c-78b720d0a136
+- Date: 2026-10-08
+- Composition: global block, faction block, ship prompt, separated by blank lines, exactly as below
+
+## Prompt
+
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air, so it has no wings, fins, tailplanes, vanes, airfoils or streamlining of any kind. It moves only by rocket thrust from nozzles and thruster grilles placed on whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each one opening in the direction its exhaust would leave. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures, a docking collar and armour plate with bolted seams are all legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid, toy-like silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, rendered like a painted studio scale model, with interior light shown only through small round opaque ports.
+
+A Lucent Media ship: broadcast equipment and a trophy at once, built to be filmed. The register is spectacle: every line is styled for the camera, but it is still a vacuum hull. Its layout follows a high-end gaming mouse: a compact central chassis wrapped in thick, overlapping curved shells like palm covers and side rests, long paired blade-shaped prongs sweeping forward over the nose, stepped shell lips flaring up and out at the rear, ribbed grip panels, knurled wheel-shaped rotary mounts and recessed intake grilles. Every shell is a thick rounded slab fused to the body by a wide fillet, offset in steps so each layer reads. Colour follows the components: golden yellow and white on the main shells, pale lavender on the secondary shells, cobalt blue on the forward blades, vivid red-orange on the blade tips, dark navy in the recesses between layers. Satin enamel shells and matte rubberized ribbed inserts. A camera-lens sensor dome on the nose, a cluster of round stage lights set into the brow, a sponsor logo and a show title on the flank. Spotless and freshly detailed, it sits like a sports car on a showroom turntable.
+
+Design the Key Light, a single-pilot Lucent Media illuminator that floods a duel with active sensor light and paints the challenger for the camera. It carries no weapons. Its whole bow is one broad, shallow, curved lighting array set into the front shells like the face of a stage light, a grid of large round lamp apertures behind thick knurled bezels, framed by two short blade-shaped prongs. Behind the array, the compact chassis is wrapped in thick overlapping curved shells offset in steps. A short, thick round sensor mast rises from the back carrying a ring of small round stage lights. The cockpit is a domed canopy set behind the array. A ribbed cooling fan housing closes the stern, and the main drive sits in a single pod under the belly. Spotless and freshly detailed. A sponsor logo and the words "Key Light" run along the flank. One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

@@ -1,0 +1,31 @@
+# Dine and Dash r6a
+
+## Hypothesis
+
+The racer identity can come from markings and body grammar instead of aero shapes: a needle body with knife-pleat creases, a chequered nose band and a racing-number roundel, stated as a vacuum racer that never flew in air. Lateral thrust built in as transverse tubes bored through the hull, not packs.
+
+## What changed
+
+Global G2.1 (G2 plus: thrusters are part of the hull surface, never pods or packs; armour-plate clause dropped; the 'painted studio scale model' anchor replaced by 'crisp studio concept render'; paint is as clean or worn as the faction says, factory-new by default). Pirate block cut to livery and register. Ship prompt first, then faction, then global, then the frame clause on its own. Ship prompt: racing livery as the donor's identity, three transverse thrust tubes through the hull.
+
+## Agent verdict
+
+Racer identity recovered with no wings or fins: chequered nose, '07' roundels, needle body. The tubes render as short protruding cans pointing back along the flank, so lateral thrust still half-reads as add-on; a third turret appeared unasked.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: 5f6f220f-4d9a-4006-acf7-8623fac44272
+- Date: 2026-10-08
+- Composition: ship prompt, faction block (livery and register only), global block G2.1, frame clause, separated by blank lines, exactly as below
+
+## Prompt
+
+Design the Dine and Dash, a single-pilot Pirate Coalition speed demon built from a stolen Alakrita vacuum track racer, rebuilt so it can slide sideways faster than any gun can turn to follow it. The donor is a long, narrow needle of a racer that never flew in air: a thick ivory body with sharp knife-pleat creases running nose to tail, narrow gold inlay lines in the creases, a large racing-number roundel reading "07" on the flank and a chequered racing band around the nose, now scuffed and partly sprayed over. The pirates bored three fat transverse thrust tubes straight through the body from one flank to the other, so each tube is a round open throat set flush into the near flank with its twin exiting the far flank; the three round throats on the camera side are the largest features on the ship, rimmed in bare welded steel. The donor's disciplined row of slim drive nozzles remains at the stern. The cockpit is the donor's long, narrow canopy. Two small light turrets sit on low improvised rings on the dorsal crease. The crew emblem, a running-figure emoji, is painted three times, and a bright orange crew accent slashes across donor lacquer and gray primer alike.
+
+Pirate Coalition livery and register: wild and maximalist, someone else's ship kept running out of spite. The donor manufacturer's original paint in patches, gray primer over repairs, bare steel at the welds, blued heat discolouration, overpainted corporate logos, crossed-out serials, scuffs and grime.
+
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air, so it has no wings, fins, tailplanes, vanes, airfoils or streamlining of any kind. It moves only by rocket thrust from nozzles and thruster grilles built into whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each one opening in the direction its exhaust would leave; thrusters are part of the hull's own surface, never separate pods or packs bolted on. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures and a docking collar are legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, with interior light shown only through small round opaque ports. Its paint is exactly as clean or as worn as its maker's description says; where no wear is named, it is factory-new. Rendered as a crisp studio concept render.
+
+One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

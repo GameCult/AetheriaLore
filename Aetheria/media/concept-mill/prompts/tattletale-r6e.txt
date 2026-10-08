@@ -1,0 +1,31 @@
+# Tattletale r6e
+
+## Hypothesis
+
+Clean factions render clean when the global block drops the scale-model anchor and the faction block says 'factory-fresh, spotless, unmarked paint: no dirt, no chips, no scuffs, no weathering'.
+
+## What changed
+
+G2.1. Finch block cut to livery and register, with the factory-fresh clause. Ship-first order. Ship prompt otherwise as the bench entry.
+
+## Agent verdict
+
+Mostly held: the cleanest render of the bench, pearl and titanium with only faint smudging, and the ear dish reads as the largest feature. Two cylindrical drive pods appeared at the stern where the prompt named no main drive, against the global's 'never pods'.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: f561b7bf-0f8a-4d74-9d61-f19f25366cb5
+- Date: 2026-10-08
+- Composition: ship prompt, faction block (livery and register only), global block G2.1, frame clause, separated by blank lines, exactly as below
+
+## Prompt
+
+Design the Tattletale, a single-pilot Finch Cybernetics tracker that follows a ship at a distance and sells its position to whoever pays. One broad, shallow sensor dish is recessed into the flank facing the camera like an ear, larger than any other feature, ringed by a short row of celadon-green indicator dots. A second, smaller dish sits recessed in the far flank, its rim just visible past the dorsal line. The body is one smooth, continuous tapered form with hairline seams. A row of dark round lens apertures runs along the brow. The cockpit is a narrow tapered canopy at the nose. One small low-signature weapon aperture sits flush under the nose. Rows of fine manoeuvring ports run along both flanks. A small gray technician label reads "Track Services, Billed by the Minute".
+
+Finch Cybernetics livery and register: serious, a medical instrument that watches you back. Pearl-white ceramic and satin titanium, smoky gray matte on every aperture, tiny celadon-green indicator dots beside each aperture, small gray technician labels, hairline seams. Factory-fresh, spotless, unmarked paint: no dirt, no chips, no scuffs, no weathering.
+
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air, so it has no wings, fins, tailplanes, vanes, airfoils or streamlining of any kind. It moves only by rocket thrust from nozzles and thruster grilles built into whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each one opening in the direction its exhaust would leave; thrusters are part of the hull's own surface, never separate pods or packs bolted on. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures and a docking collar are legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, with interior light shown only through small round opaque ports. Its paint is exactly as clean or as worn as its maker's description says; where no wear is named, it is factory-new. Rendered as a crisp studio concept render.
+
+One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.

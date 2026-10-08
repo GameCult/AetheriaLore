@@ -1,0 +1,1099 @@
+// The Concept Mill viewer. Colour roles are kept apart on purpose:
+//   data      - readout values and tables, at full contrast (--cm-ink, --cm-data)
+//   action    - selection, the lab pick and controls (the brand orange)
+//   ornament  - frame lines, brackets, corner readouts (dim, never a data hue)
+//   alert     - red, for rejected ships only
+// The frame treatment (cuts, brackets, unfold) lives in the "frames" block so
+// it can be swapped without touching layout or data.
+
+$narrow: "(max-width: 800px)";
+
+.cm {
+  --cm-ink: #eef5ff;
+  --cm-text: #b7c7d9;
+  --cm-data: #59b7ff;
+  --cm-action: #ff8a2a;
+  --cm-ornament: rgba(140, 170, 205, 0.34);
+  --cm-ornament-faint: rgba(140, 170, 205, 0.16);
+  --cm-scrap: #e0625a;
+  --cm-new: #9aa9bb;
+  --cm-panel: rgba(5, 11, 19, 0.74);
+  --cm-mono: var(--codeFont);
+  --cm-gutter: 1rem;
+  --cm-cut: 14px;
+  --cm-bracket: 12px;
+  --cm-dock: 0px;
+
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  // clip, not hidden: a hidden box can still be scrolled by focus and clicks,
+  // which slid the whole viewer sideways under the oversized phone render.
+  overflow: clip;
+  color: var(--cm-text);
+  font-family: var(--bodyFont);
+
+  @media #{$narrow} {
+    --cm-gutter: 0.6rem;
+    --cm-dock: 3.25rem;
+  }
+}
+
+// ---------- the field and the stage ----------
+.cm-field {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse 46% 52% at 50% 50%, rgba(170, 182, 196, 0.2), transparent 70%),
+    radial-gradient(circle at 82% 12%, rgba(255, 138, 42, 0.08), transparent 30%),
+    radial-gradient(circle at 12% 88%, rgba(89, 183, 255, 0.07), transparent 34%),
+    linear-gradient(180deg, #03070d 0%, #07111a 50%, #050b12 100%);
+
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image:
+      linear-gradient(var(--cm-ornament-faint) 1px, transparent 1px),
+      linear-gradient(90deg, var(--cm-ornament-faint) 1px, transparent 1px);
+    background-size: 44px 44px;
+    mask-image: radial-gradient(ellipse at 50% 50%, transparent 30%, #000 75%);
+    opacity: 0.35;
+  }
+}
+
+.cm-stage {
+  position: absolute;
+  inset: 0;
+  margin: 0;
+  display: grid;
+  place-items: center;
+  overflow: clip;
+  touch-action: pan-y;
+}
+
+// The render's light studio backdrop is feathered into the field so it reads
+// as a lit bay, not a pasted rectangle.
+.cm-render {
+  grid-area: 1 / 1;
+  width: min(100vw, (100vh - var(--cm-dock)) * 4 / 3);
+  aspect-ratio: 4 / 3;
+  height: auto;
+  max-width: none;
+  margin: 0;
+  border-radius: 0;
+  object-fit: contain;
+  mask-image: radial-gradient(ellipse 50% 50% at 50% 50%, #000 58%, transparent 100%);
+  filter: brightness(0.94) contrast(1.04);
+  opacity: 0;
+  transition: opacity 0.32s ease;
+
+  &.is-live {
+    opacity: 1;
+  }
+
+  @media #{$narrow} {
+    width: 118vw;
+    margin-bottom: var(--cm-dock);
+    transition:
+      opacity 0.32s ease,
+      transform 0.28s cubic-bezier(0.2, 0.7, 0.2, 1);
+  }
+}
+
+// The server render shows the first ship; hold it back until the script has
+// read the URL hash, so a deep link never flashes the wrong ship.
+.cm:not(.is-ready) .cm-render {
+  opacity: 0;
+}
+
+// On a phone an open sheet lifts the ship into the space above it.
+@media #{$narrow} {
+  .cm:has(.cm-panel.is-open) .cm-render {
+    transform: translateY(-24vh) scale(0.74);
+  }
+}
+
+.cm-sweep {
+  grid-area: 1 / 1;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  opacity: 0;
+  background: linear-gradient(90deg, transparent, rgba(89, 183, 255, 0.1) 46%, rgba(220, 235, 255, 0.32) 50%, transparent 52%);
+  transform: translateX(-100%);
+
+  &.is-running {
+    animation: cm-sweep 0.6s cubic-bezier(0.3, 0.6, 0.3, 1);
+  }
+}
+
+@keyframes cm-sweep {
+  0% {
+    opacity: 1;
+    transform: translateX(-60%);
+  }
+  100% {
+    opacity: 0;
+    transform: translateX(60%);
+  }
+}
+
+.cm-noscript {
+  position: absolute;
+  inset: auto 1rem 1rem;
+  color: var(--cm-ink);
+}
+
+// ---------- panels: shared ----------
+.cm-panel {
+  position: absolute;
+  z-index: 5;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  color: var(--cm-text);
+  opacity: 0;
+}
+
+.cm.is-ready .cm-panel {
+  opacity: 1;
+}
+
+.cm-bar {
+  all: unset;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  width: 100%;
+  padding: 0.55rem 0.8rem;
+  cursor: pointer;
+  font-family: var(--cm-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--cm-ink);
+  background: var(--cm-panel);
+  backdrop-filter: blur(10px);
+
+  &:focus-visible {
+    outline: 1px solid var(--cm-action);
+    outline-offset: -1px;
+  }
+}
+
+.cm-bar-meta {
+  margin-left: auto;
+  color: var(--cm-ornament);
+  letter-spacing: 0.1em;
+}
+
+.cm-bar-caret {
+  width: 0.5rem;
+  height: 0.5rem;
+  border-right: 1px solid var(--cm-action);
+  border-bottom: 1px solid var(--cm-action);
+  transform: rotate(-45deg);
+  transition: transform 0.18s ease;
+}
+
+.cm-panel.is-open .cm-bar-caret {
+  transform: rotate(45deg);
+}
+
+.cm-body {
+  display: none;
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 0.2rem 0.9rem 1rem;
+  background: var(--cm-panel);
+  backdrop-filter: blur(10px);
+  scrollbar-width: thin;
+  scrollbar-color: var(--cm-ornament) transparent;
+}
+
+.cm-panel.is-open .cm-body {
+  display: block;
+}
+
+.cm-label,
+.cm-k {
+  margin: 0 0 0.3rem;
+  font-family: var(--cm-mono);
+  font-size: 0.62rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--cm-ornament);
+}
+
+// ---------- frames (swappable treatment) ----------
+// Corner cut on the panel corner that faces the stage, corner brackets on the
+// others, and a hairline that draws across the bar when the panel opens.
+.cm-menu {
+  clip-path: polygon(0 0, 100% 0, 100% calc(100% - var(--cm-cut)), calc(100% - var(--cm-cut)) 100%, 0 100%);
+}
+
+.cm-readout {
+  clip-path: polygon(var(--cm-cut) 0, 100% 0, 100% 100%, 0 100%, 0 var(--cm-cut));
+}
+
+.cm-panel::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  pointer-events: none;
+  --b: var(--cm-bracket);
+  --c: var(--cm-ornament);
+  background:
+    linear-gradient(var(--c), var(--c)) top left / var(--b) 1px no-repeat,
+    linear-gradient(var(--c), var(--c)) top left / 1px var(--b) no-repeat,
+    linear-gradient(var(--c), var(--c)) top right / var(--b) 1px no-repeat,
+    linear-gradient(var(--c), var(--c)) top right / 1px var(--b) no-repeat,
+    linear-gradient(var(--c), var(--c)) bottom left / var(--b) 1px no-repeat,
+    linear-gradient(var(--c), var(--c)) bottom left / 1px var(--b) no-repeat,
+    linear-gradient(var(--c), var(--c)) bottom right / var(--b) 1px no-repeat,
+    linear-gradient(var(--c), var(--c)) bottom right / 1px var(--b) no-repeat;
+}
+
+.cm-bar {
+  position: relative;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 1px;
+    background: linear-gradient(90deg, var(--cm-action), var(--cm-ornament) 30%, transparent);
+    transform-origin: left;
+    transform: scaleX(0.18);
+    transition: transform 0.32s cubic-bezier(0.2, 0.7, 0.2, 1);
+  }
+}
+
+.cm-panel.is-open .cm-bar::after {
+  transform: scaleX(1);
+}
+
+.cm-menu.is-open .cm-body {
+  animation: cm-unfold-down 0.26s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+.cm-readout.is-open .cm-body {
+  animation: cm-unfold-up 0.26s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+@keyframes cm-unfold-down {
+  from {
+    opacity: 0;
+    clip-path: inset(0 0 100% 0);
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    clip-path: inset(0);
+    transform: none;
+  }
+}
+
+@keyframes cm-unfold-up {
+  from {
+    opacity: 0;
+    clip-path: inset(100% 0 0 0);
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    clip-path: inset(0);
+    transform: none;
+  }
+}
+
+// Faction tiering: one system, a slightly different hand per house.
+.cm-readout[data-code="ZHK"] {
+  --cm-cut: 0px;
+  --cm-bracket: 22px;
+}
+
+.cm-readout[data-code="LUC"] {
+  --cm-cut: 22px;
+  --cm-bracket: 6px;
+}
+
+.cm-readout[data-code="PIR"] {
+  --cm-cut: 26px;
+
+  &::before {
+    background:
+      linear-gradient(var(--c), var(--c)) top right / 30px 1px no-repeat,
+      linear-gradient(var(--c), var(--c)) top right / 1px 8px no-repeat,
+      linear-gradient(var(--c), var(--c)) bottom left / 8px 2px no-repeat,
+      linear-gradient(var(--c), var(--c)) bottom left / 2px 18px no-repeat,
+      linear-gradient(var(--c), var(--c)) bottom right / 16px 1px no-repeat,
+      linear-gradient(var(--c), var(--c)) bottom right / 1px 16px no-repeat;
+  }
+}
+
+.cm-readout[data-code="AU"]::before {
+  --b: 6px;
+}
+
+// ---------- menu ----------
+.cm-menu {
+  top: var(--cm-gutter);
+  left: var(--cm-gutter);
+  width: 19.5rem;
+  max-height: calc(100vh - 2 * var(--cm-gutter) - 6rem);
+}
+
+.cm-banner {
+  margin: 0.7rem 0 0.4rem;
+  padding: 0.45rem 0.6rem;
+  border-left: 2px solid var(--cm-action);
+  background: rgba(255, 138, 42, 0.06);
+  font-size: 0.74rem;
+  line-height: 1.45;
+
+  b {
+    color: var(--cm-ink);
+    font-weight: 500;
+  }
+}
+
+.cm-tally {
+  margin: 0 0 0.6rem;
+  font-family: var(--cm-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.08em;
+  color: var(--cm-ornament);
+}
+
+.cm-group {
+  h2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0.9rem 0 0.2rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--cm-ornament-faint);
+    font-family: var(--cm-mono);
+    font-size: 0.66rem;
+    font-weight: 500;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--cm-ink);
+
+    span {
+      color: var(--cm-ornament);
+    }
+  }
+
+  h3 {
+    margin: 0.55rem 0 0.2rem;
+    font-family: var(--cm-mono);
+    font-size: 0.58rem;
+    font-weight: 400;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--cm-ornament);
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    margin: 0;
+  }
+}
+
+.cm-item {
+  all: unset;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 3.4rem 1fr;
+  grid-template-rows: auto auto;
+  column-gap: 0.6rem;
+  align-items: center;
+  width: 100%;
+  padding: 0.25rem 0.35rem 0.25rem 0.25rem;
+  border-left: 2px solid transparent;
+  cursor: pointer;
+
+  img {
+    grid-row: 1 / 3;
+    width: 3.4rem;
+    height: auto;
+    aspect-ratio: 4 / 3;
+    margin: 0;
+    border-radius: 0;
+    object-fit: cover;
+    border-bottom: 2px solid var(--cm-data);
+    filter: grayscale(0.25) brightness(0.85);
+  }
+
+  &.is-new img {
+    border-bottom-color: var(--cm-new);
+  }
+
+  &.is-scrap img {
+    border-bottom-color: var(--cm-scrap);
+    filter: grayscale(0.85) brightness(0.7);
+  }
+
+  &:hover,
+  &:focus-visible {
+    background: rgba(89, 183, 255, 0.07);
+  }
+
+  &:focus-visible {
+    outline: 1px solid var(--cm-action);
+    outline-offset: -1px;
+  }
+
+  &.is-current {
+    border-left-color: var(--cm-action);
+    background: rgba(255, 138, 42, 0.1);
+
+    img {
+      filter: none;
+    }
+
+    .cm-item-name {
+      color: #fff3e8;
+    }
+  }
+}
+
+.cm-item-name {
+  align-self: end;
+  color: var(--cm-ink);
+  font-size: 0.86rem;
+  line-height: 1.2;
+}
+
+.cm-item-role {
+  align-self: start;
+  font-size: 0.7rem;
+  line-height: 1.3;
+  color: var(--cm-text);
+  opacity: 0.8;
+}
+
+// ---------- readout ----------
+.cm-readout {
+  right: var(--cm-gutter);
+  bottom: var(--cm-gutter);
+  width: min(27rem, 38vw);
+  max-height: calc(100vh - 2 * var(--cm-gutter) - 5.5rem);
+  flex-direction: column-reverse;
+}
+
+.cm-readout-body {
+  font-size: 0.82rem;
+  line-height: 1.5;
+
+  p {
+    margin: 0 0 0.2rem;
+  }
+}
+
+.cm-head {
+  padding-top: 0.8rem;
+
+  h1 {
+    margin: 0.1rem 0 0.35rem;
+    font-family: var(--titleFont);
+    font-size: 1.85rem;
+    font-weight: 200;
+    letter-spacing: 0.04em;
+    line-height: 1.05;
+    color: var(--cm-ink);
+  }
+}
+
+.cm-stamps {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0 0 0.6rem;
+}
+
+.cm-stamp,
+.cm-pick,
+.cm-round-tag {
+  padding: 0.12rem 0.45rem;
+  border: 1px solid currentColor;
+  font-family: var(--cm-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.cm-stamp.is-pass {
+  color: var(--cm-data);
+}
+
+.cm-stamp.is-new {
+  color: var(--cm-new);
+}
+
+.cm-stamp.is-scrap {
+  color: var(--cm-scrap);
+}
+
+.cm-pick {
+  color: #1b0d02;
+  border-color: var(--cm-action);
+  background: var(--cm-action);
+}
+
+.cm-round-tag {
+  color: var(--cm-ink);
+  border-color: var(--cm-ornament);
+}
+
+.cm-row {
+  margin: 0 0 0.75rem;
+}
+
+.cm-rounds {
+  display: flex;
+  gap: 0.3rem;
+  overflow-x: auto;
+  padding-bottom: 0.3rem;
+  margin-bottom: 0.4rem;
+  scrollbar-width: thin;
+
+  button {
+    all: unset;
+    position: relative;
+    flex: 0 0 auto;
+    width: 3.6rem;
+    cursor: pointer;
+    text-align: center;
+    font-family: var(--cm-mono);
+    font-size: 0.6rem;
+    letter-spacing: 0.06em;
+    color: var(--cm-text);
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 4 / 3;
+      margin: 0 0 0.1rem;
+      border-radius: 0;
+      object-fit: cover;
+      border: 1px solid var(--cm-ornament-faint);
+      filter: brightness(0.75) grayscale(0.4);
+    }
+
+    &.is-pick::after {
+      content: "";
+      position: absolute;
+      top: 3px;
+      right: 3px;
+      width: 6px;
+      height: 6px;
+      background: var(--cm-action);
+    }
+
+    &.is-current {
+      color: #fff3e8;
+
+      img {
+        border-color: var(--cm-action);
+        filter: none;
+      }
+    }
+
+    &:hover img {
+      filter: none;
+    }
+
+    &:focus-visible img {
+      outline: 1px solid var(--cm-action);
+    }
+  }
+}
+
+.cm-variant-note {
+  padding: 0.45rem 0.6rem;
+  border-left: 1px solid var(--cm-ornament);
+  background: rgba(89, 183, 255, 0.04);
+  font-size: 0.78rem;
+
+  p {
+    margin: 0 0 0.35rem;
+
+    &:last-child {
+      margin: 0;
+    }
+  }
+
+  .cm-k {
+    display: block;
+    margin: 0;
+  }
+}
+
+.cm-operator {
+  color: #fff3e8;
+}
+
+.cm-spec {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.45rem 0.9rem;
+  margin: 0 0 0.75rem;
+
+  div {
+    min-width: 0;
+  }
+
+  .cm-wide {
+    grid-column: 1 / -1;
+  }
+
+  dt {
+    margin: 0;
+    font-family: var(--cm-mono);
+    font-size: 0.58rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--cm-ornament);
+  }
+
+  dd {
+    margin: 0;
+    color: var(--cm-ink);
+    font-size: 0.8rem;
+    line-height: 1.35;
+  }
+}
+
+.cm-glyphs {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 3px;
+  margin-left: 0.6rem;
+  vertical-align: middle;
+
+  i {
+    display: inline-block;
+    width: 7px;
+    height: 7px;
+    background: var(--cm-data);
+  }
+
+  .cm-hp-w2 {
+    width: 11px;
+    height: 9px;
+  }
+
+  .cm-hp-w3 {
+    width: 15px;
+    height: 11px;
+  }
+
+  .cm-hp-gear {
+    background: transparent;
+    border: 1px solid var(--cm-data);
+  }
+
+  .cm-hp-built {
+    background: var(--cm-ink);
+    transform: rotate(45deg) scale(0.8);
+  }
+
+  .cm-hp-sensor {
+    border-radius: 50%;
+    background: transparent;
+    border: 1px solid var(--cm-ink);
+  }
+}
+
+.cm-hp {
+  width: 100%;
+  margin: 0.2rem 0 0;
+  border-collapse: collapse;
+  font-size: 0.76rem;
+
+  th {
+    padding: 0.15rem 0.4rem 0.15rem 0;
+    border-bottom: 1px solid var(--cm-ornament);
+    text-align: left;
+    font-family: var(--cm-mono);
+    font-size: 0.58rem;
+    font-weight: 400;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--cm-ornament);
+  }
+
+  td {
+    padding: 0.25rem 0.4rem 0.25rem 0;
+    border-bottom: 1px solid var(--cm-ornament-faint);
+    vertical-align: top;
+    color: var(--cm-ink);
+  }
+
+  td:first-child {
+    width: 2.2rem;
+    font-family: var(--cm-mono);
+    color: var(--cm-data);
+  }
+
+  td:nth-child(2) {
+    width: 4.6rem;
+    font-family: var(--cm-mono);
+    font-size: 0.68rem;
+  }
+}
+
+.cm-loadout {
+  margin: 0;
+  padding-left: 1rem;
+
+  li {
+    margin: 0;
+    color: var(--cm-ink);
+  }
+
+  li::marker {
+    content: "▸ ";
+    color: var(--cm-data);
+  }
+}
+
+.cm-beaten p:last-child {
+  color: #ffd9bd;
+}
+
+.cm-readout[data-kind="scrap"] .cm-beaten p:last-child {
+  color: var(--cm-ink);
+}
+
+.cm-votes {
+  display: flex;
+  gap: 0.8rem;
+  align-items: baseline;
+  margin: 0 0 0.75rem;
+  font-family: var(--cm-mono);
+  color: var(--cm-ink);
+}
+
+.cm-links {
+  display: flex;
+  gap: 1.1rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--cm-ornament-faint);
+
+  a {
+    color: var(--cm-action);
+    font-family: var(--cm-mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    background: none;
+    padding: 0;
+  }
+}
+
+// Event-driven reveal: rows settle in, staggered, on a ship change.
+.cm-readout-body.is-revealing > * {
+  animation: cm-row-in 0.34s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  animation-delay: calc(var(--i, 8) * 28ms);
+}
+
+@keyframes cm-row-in {
+  from {
+    opacity: 0;
+    transform: translateX(10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+// ---------- corners and dock ----------
+.cm-corner {
+  position: absolute;
+  z-index: 4;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  font-family: var(--cm-mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--cm-ornament);
+  pointer-events: none;
+
+  b {
+    font-weight: 400;
+    color: var(--cm-text);
+  }
+}
+
+.cm-corner-bl {
+  left: var(--cm-gutter);
+  bottom: calc(var(--cm-gutter) + var(--cm-dock));
+  padding-left: 0.6rem;
+  border-left: 1px solid var(--cm-ornament);
+}
+
+.cm-canon {
+  margin-top: 0.3rem;
+  color: var(--cm-action);
+  opacity: 0.8;
+}
+
+.cm-glyph {
+  font-size: 0.9rem;
+  color: var(--cm-text);
+}
+
+.cm-dock {
+  position: absolute;
+  z-index: 6;
+  left: 50%;
+  bottom: var(--cm-gutter);
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+  transform: translateX(-50%);
+  font-family: var(--cm-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--cm-ink);
+
+  button {
+    all: unset;
+    box-sizing: border-box;
+    min-width: 2.2rem;
+    height: 2.2rem;
+    padding: 0 0.6rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    background: var(--cm-panel);
+    border: 1px solid var(--cm-ornament-faint);
+    font-size: 0.9rem;
+
+    &:hover,
+    &:focus-visible {
+      border-color: var(--cm-action);
+      color: #fff3e8;
+    }
+  }
+}
+
+.cm-dock-name {
+  min-width: 9rem;
+  padding: 0 0.6rem;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.cm-dock-toggle {
+  display: none !important;
+}
+
+// ---------- phones: bottom sheets ----------
+@media #{$narrow} {
+  .cm-panel {
+    left: 0;
+    right: 0;
+    top: auto;
+    bottom: var(--cm-dock);
+    width: auto;
+    max-height: 55vh;
+    clip-path: none;
+    display: none;
+  }
+
+  .cm-panel.is-open {
+    display: flex;
+  }
+
+  .cm-readout {
+    flex-direction: column;
+  }
+
+  .cm-dock {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: var(--cm-dock);
+    padding: 0 0.4rem;
+    transform: none;
+    background: rgba(3, 7, 13, 0.92);
+    border-top: 1px solid var(--cm-ornament-faint);
+
+    button {
+      height: 2.4rem;
+    }
+  }
+
+  .cm-dock-name {
+    flex: 1;
+    min-width: 0;
+    padding: 0 0.3rem;
+  }
+
+  .cm-dock-toggle {
+    display: inline-flex !important;
+    font-size: 0.62rem !important;
+    letter-spacing: 0.1em;
+
+    &[aria-expanded="true"] {
+      border-color: var(--cm-action);
+      color: #fff3e8;
+    }
+  }
+
+  .cm-corner-bl {
+    bottom: calc(var(--cm-dock) + 0.6rem);
+  }
+}
+
+// ---------- reduced motion: dissolves only ----------
+@media (prefers-reduced-motion: reduce) {
+  .cm-render {
+    transition: opacity 0.2s linear;
+  }
+
+  .cm-sweep {
+    display: none;
+  }
+
+  .cm-bar::after {
+    transition: none;
+  }
+
+  .cm-menu.is-open .cm-body,
+  .cm-readout.is-open .cm-body {
+    animation: cm-fade 0.18s linear;
+  }
+}
+
+@keyframes cm-fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+// ---------- the page around it: only a floating masthead survives ----------
+body[data-slug="Game-Design/Concept-Mill"] {
+  overflow: hidden;
+
+  .page {
+    max-width: none;
+    padding: 0;
+
+    &::before {
+      display: none;
+    }
+  }
+
+  .page > #quartz-body {
+    display: block;
+    padding: 0;
+  }
+
+  .page > #quartz-body .center > article,
+  .page > #quartz-body .center > hr,
+  .page > #quartz-body .center > .page-footer,
+  .page > #quartz-body > footer,
+  .page > #quartz-body footer,
+  .page-header .search,
+  .aetheria-titlebar-tagline,
+  .aetheria-titlebar-community {
+    display: none;
+  }
+
+  .page > #quartz-body .center > .page-header > header {
+    position: fixed;
+    z-index: 20;
+    top: 1rem;
+    right: 1rem;
+    display: block;
+    margin: 0;
+    padding: 0.5rem 0.7rem;
+    background: rgba(5, 11, 19, 0.66);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(140, 170, 205, 0.22);
+  }
+
+  .aetheria-titlebar {
+    flex-direction: row;
+    align-items: center;
+    gap: 0.9rem;
+  }
+
+  .aetheria-titlebar-title,
+  .aetheria-titlebar-title a {
+    font-size: 1.15rem;
+    letter-spacing: 0.16em;
+  }
+
+  .aetheria-titlebar-nav {
+    gap: 0.3rem;
+  }
+
+  .aetheria-nav-chip {
+    min-height: 1.6rem;
+    padding: 0.1rem 0.55rem;
+    font-size: 0.74rem;
+  }
+
+  @media #{$narrow} {
+    .page > #quartz-body .center > .page-header > header {
+      top: 0.5rem;
+      left: 0.5rem;
+      right: 0.5rem;
+      padding: 0.4rem 0.5rem;
+    }
+
+    .aetheria-titlebar {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.3rem;
+    }
+
+    .aetheria-titlebar-title {
+      white-space: nowrap;
+    }
+
+    .aetheria-titlebar-nav {
+      flex-wrap: nowrap;
+    }
+
+    .aetheria-titlebar-title,
+    .aetheria-titlebar-title a {
+      font-size: 0.9rem;
+    }
+
+    .aetheria-nav-chip {
+      min-height: 1.4rem;
+      padding: 0.05rem 0.4rem;
+      font-size: 0.64rem;
+    }
+  }
+}

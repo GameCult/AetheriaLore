@@ -1,0 +1,31 @@
+# Odd Job r8e
+
+## Hypothesis
+
+Under G3 with ship-first order, giving the hub a beetle's mass and face turns Ewan Hart whimsy up further than r5b.
+
+## What changed
+
+Global G3 (G2.1 with two edits: 'never flies through air or drives on ground', adding wheels and tracks to the banned list; thrust from 'slots and grilles cut into' the faces that push, and 'no thruster stands out from the hull as a can, bell, pod or pack'). Ewan Hart block livery and register ('whimsy turned up'). Ship first. Ship prompt adds the beetle's domed mass and face, and moves the RCS quads onto 'four short stubby legs'.
+
+## Agent verdict
+
+Failed. The beetle plus 'legs' produced a walking creature standing on four feet: a costume, not a mass and a face, and a ground read. The face and palette are charming. r5b stays the best Odd Job.
+
+## Render record
+
+- Model: FLUX 3 Image, `POST https://api.bfl.ai/v1/flux-3-image`
+- Parameters: aspect_ratio 4:3, resolution 2k, safety_tolerance default, grounding default; no seed field; rendered from scratch with no reference image or edit
+- Request id: cad77b70-c638-444d-a273-0bb0a5c07287
+- Date: 2026-10-08
+- Composition: ship prompt, faction block (livery and register only), global block G3, frame clause, separated by blank lines, exactly as below
+
+## Prompt
+
+Design the Odd Job, a single-pilot Ewan Hart salvage tug that races everyone else to wrecks and loose cargo in open space. It is unarmed. Its hub has the round, domed mass and friendly face of a beetle: a squat, round-shouldered body, its cockpit a rounded pressurised capsule at the front whose wide window is flanked by two round floodlamps like eyes. Two long jointed manipulator arms reach forward from its shoulders, each ending in a heavy three-fingered grapple with fingertips worn bright, and a collapsible capture cage of heavy ribs folds between the arms at the bow. Four short stubby legs at the hub's corners each end in a quad of small reaction-control slots. A heavy docking collar for hauling wrecks sits at the stern, with a coil of hauling cable and a canvas feed sack strapped to the cargo frame above it. A hand-painted sign on the cockpit hatch reads "No Job Too Odd".
+
+Ewan Hart livery and register: whimsy turned up, a serious farm machine with one warm, friendly character trait. Faded harvest-gold farm enamel over most of the hull, deep agricultural green trim, cream maker plates, large round gauges, chipped corners.
+
+Concept art of a small working spacecraft from the Aetheria universe, built by a named manufacturer for one pilot or a small crew; a human-sized hatch, a handhold rail and a cockpit window no wider than a person set its scale. It is a vacuum hull: it never flies through air or drives on ground, so it has no wings, fins, tailplanes, vanes, airfoils, streamlining, wheels or tracks of any kind. It moves only by rocket thrust from slots and grilles cut into whichever faces of the hull need to push, the stern, the flanks, the belly or the bow, each opening the way its exhaust would leave; no thruster stands out from the hull as a can, bell, pod or pack. Its silhouette comes from its job: the working equipment is the largest shape and the hull is built around it. Hatches, recessed round sensor apertures and a docking collar are legible. It carries weapons only where its description names them. A stencilled registry number and a maker's plate sit beside the cockpit; engines are cold. The body is thick and closed with rounded edges, every part swelling out of the main mass through wide smooth fillets, so the outline reads as one solid silhouette. All surfaces are matte and opaque, painted metal, ceramic and rubberized composite, with interior light shown only through small round opaque ports. Its paint is exactly as clean or as worn as its maker's description says; where no wear is named, it is factory-new. Rendered as a crisp studio concept render.
+
+One complete ship, centered with clear margin around it, three-quarter front view from slightly above showing the dorsal surface and one side; moderate lens; plain seamless light gray background; soft key light with gentle form shadows; matte finishes throughout.
