@@ -109,7 +109,7 @@ Its voice is boastful, excitable, and fluent in sponsorship. Product names sound
 
 **Image starting point:** A compact Lucent spacecraft in a clear three-quarter front view, isolated against a neutral background under broad studio lighting. A pointed white-and-gold central body sits inside sweeping shell arches, with twin cobalt-blue dorsal prongs reaching toward the nose, red-orange forward blades and rear fins, pale segmented side covers, and teal equipment pods. Large gaps reveal dark blue machinery and the supports connecting the outer layers. Render it as a carefully assembled, extravagantly styled machine with a readable silhouette, crisp component boundaries, and restrained luminous accents. Preserve the curved surfaces as well as the sharp tips.
 
-**Design reference:** The [original Aetheria Lucent ship concept](<D:/Google Drive/Gamecult/Aetheria/Concepts/Ships/lucent_media/transparent_03.png>) anchors the ship's silhouette, layered construction, and color blocking. The gaming-mouse references carry the closely related language of separated covers, exposed chassis, adjustable fittings, ribbed surfaces, and illuminated seams.
+**Design reference:** The [original Aetheria Lucent ship concept](<D:/Google Drive/Gamecult/Aetheria/Concepts/Ships/lucent_media/transparent_03.png>) anchors the ship's silhouette, layered construction, and color blocking. The gaming-mouse references carry the closely related language of separated covers, exposed chassis, adjustable fittings, ribbed surfaces, and illuminated seams. The aesthetic anchor is the classic overdesigned gamer mouse (![[Lucent anchor - gamer mouse.png]]): Lucent is maximalist, with pointless extra floating panels, inlays and glowing accents everywhere.
 
 ## NiteLife Energy
 
@@ -186,6 +186,8 @@ Its clinical voice promises dignity through precise fitting and dependable suppo
 - Passive sensing, implants, and interfaces supply the core identity across its equipment families.
 
 ### Visual Identity
+
+**Design reference:** Smooth, uninterrupted organic curves. The shipped Djinni hull is a Finch ship in this language.
 
 **Silhouette and construction:** Continuous, tapered forms with the fit and articulation of a joint or sensory organ. Soft transitions between modules, flush sensor apertures, and recessed seams. A hull should look composed around sensing and movement; an implant should fit the person's body rather than use the person as a display stand.
 
