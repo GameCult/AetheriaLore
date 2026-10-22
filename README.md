@@ -12,6 +12,11 @@ Writers do not need custody of the whole universe. Shared notes own their stated
 - **Writers:** read [`Narrative Themes`](Aetheria/Narrative%20Themes.md), the relevant owner notes, and the public [`branch-and-fold process`](Aetheria/Stories/How%20Branching%20Stories%20Are%20Made.md). Finished work lives under [`Fiction`](Aetheria/Fiction/index.md); [`Stories`](Aetheria/Stories/index.md) includes shorter and developmental work.
 - **Maintainers:** site-specific configuration lives under `site/`; the shared Quartz engine and build behavior live in `GameCult-Quartz`.
 
+## Status
+
+- **Live:** the vault is the source of [aetheria.gamecult.org](https://aetheria.gamecult.org), built and deployed by `.github/workflows/deploy-quartz.yml` through the shared engine in `GameCult-Quartz`; `scripts/quartz/quartz.ps1` runs it locally.
+- **Not canon:** `Brainstorming/` and `Inspiration/` branches are excluded from publication. They are working material, and notes in them become setting only when a finished story or an owner note adopts them.
+
 ## Repository Map
 
 - `Aetheria/`: source vault content and media; publication is filtered by the site configuration
@@ -25,12 +30,12 @@ Internal `Brainstorming/` and `Inspiration/` branches are excluded from publicat
 
 ## Local Development
 
-Local builds expect `GameCult-Quartz` either at the sibling path `E:\Projects\GameCult-Quartz` or at the path supplied through `GAMECULT_QUARTZ_ROOT`.
+Local builds expect `GameCult-Quartz` either at the sibling path `..\GameCult-Quartz` or at the path supplied through `GAMECULT_QUARTZ_ROOT`.
 
 Install the shared engine dependencies first:
 
 ```powershell
-cd E:\Projects\GameCult-Quartz
+cd ..\GameCult-Quartz
 npm ci
 ```
 
