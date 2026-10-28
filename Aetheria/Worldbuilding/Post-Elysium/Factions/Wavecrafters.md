@@ -49,6 +49,14 @@ Commercial descriptions hide the different practices inside tamper-proof modules
 
 The customer receives an operating envelope and a replacement contract. Opening the mechanism usually destroys the retained relation. It also gives the supplier convenient evidence of customer misuse.
 
+### Why the Masquerade Holds
+
+In sect territory, cultivation is not a hidden art. It is how the practitioners' reality works, and they practise it openly among people who expect it to work.
+
+Flatspace is different. Exported components work better where the public finds them plausible. A dockside full of crews who take a *proprietary wave-function entanglement synchronizer* for ordinary engineering lets the retained relation hold steadily. A public convinced the component is fraud, or sorcery, makes it hold worse.
+
+The commercial descriptions are therefore load-bearing. They hide practitioners from liability, and they also keep the product plausible to the people around it. A scandal exposing the sacred work behind a product line threatens more than sales: it can degrade the line's performance across a market.
+
 ### Industrial Secrecy
 
 The inner practice depends on human and machine minds whose acknowledged involvement would turn a certified product into an esper-liability case. Export records therefore document materials, tolerances, and procedures while omitting who produced the exceptional result.

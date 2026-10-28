@@ -38,7 +38,9 @@ For a necrofactory, a fast-grown source that reliably produces one limited effec
 
 That preference does not make the supply cheap or effortless. Breeding lines require gestation, care, assessment, containment, and continuing maintenance of genetic diversity. Some sources fail to develop as needed. A factory short of viable brains cannot replace them with anonymous cadavers: preservation can retain a brain's structure, but it cannot give that brain resonance it never developed.
 
-These lines supply the baseline market. Their products include disposable guidance spirits, sensor interpreters with limited roles, industrial field regulators, and other ARIs bought for predictable output and routine replacement.
+Factory sources are not simply harvested young. They are conditioned before imprinting: just enough to dissociate from reality in the specific way the intended product needs, so that when a nascent mind is blasted into its host, what binds is that one useful relation. A complex world model was never necessary for the purpose, so none is grown. The resulting ARIs are simple because they were made that way, and they are difficult to describe as conscious.
+
+These lines supply the baseline market. Their products include disposable guidance spirits, sensor interpreters with limited roles, industrial field regulators, and other ARIs bought for predictable output and routine replacement. The cheapest end reaches ordinary households: an ARI in a refrigerator that improves its Carnot efficiency, installed beside the brainwashed upload that lets the same refrigerator order groceries.
 
 ### Eidolons
 
@@ -141,5 +143,7 @@ ARI hosts are sold as disposable or serviceable components, depending on their c
 Manufacturers do not publicly agree about what this maintenance does. It may sustain one bound mind, condition a damaged pattern, or layer new source material over what remains. The service terminology does not settle which account is true.
 
 Corporate media presents ARIs as humane resonance devices: scientifically non-conscious and categorically separate from the people whose brains were destroyed. This argument treats the biological source, the destructive transfer, and the installed instrument as three unrelated objects.
+
+For most units sold, the claim about the instrument is close to true: a factory ARI was built to need no world model and holds little that could be called a point of view. That accuracy is what makes the argument useful. It says nothing about Eidolons, and nothing about the conditioned children whose brains were destroyed to make the simple ones.
 
 The political dispute concerns whether that separation is real, and what follows if it is not. Institutions controlling the brains, the transfer, and the finished products also control the classifications under which evidence of recognition, distress, and preference is handled. Their ownership gives them the power to call the result equipment; whether it makes the result equipment is the question their terminology does not answer.
