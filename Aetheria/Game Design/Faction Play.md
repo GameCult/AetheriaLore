@@ -500,7 +500,7 @@ These bend or extend the faction notes. Each needs the setting owner's ruling:
 
 Ordered by how much distinct play each step unlocks, using only the levers above:
 
-1. **Read `Faction.Personality` in `Zone.CreateAgent`** and move `AgentRangeExponent` and `AgentMinHitProbability` onto it. This alone makes R&D, Zhestokost, and Cryonix fight at different ranges and with different fire discipline. [data, small rule]
+1. ~~**Read `Faction.Personality` in `Zone.CreateAgent`** and move `AgentRangeExponent` and `AgentMinHitProbability` onto it.~~ **Superseded, not pending.** Range and fire discipline now live in `FactionDoctrine` and `RoleDoctrine` (`Doctrine.cs:28-74`), reached through `Faction.Doctrine` (`Corporations.cs:62-63`) and applied in `Zone.cs:318-326`. `Faction.Personality` (`Corporations.cs:28-29`) has no readers; it is not the live path. [code references as of the 2026-11-05 check]
 2. **The four tutorial states** (follow, drift cold, flee, sweep), with the break-off and leash transitions. These carry Zhestokost's tender, AU's haulers, Lightsail, Alakrita, Finch, Cryonix, and Adrasteia. They are shared with the tutorial work, so they are bought once.
 3. **Hail barks through `Entity.SetMessage`** with `grace`. Every faction gets a voice at first contact.
 4. **Earned HUD identity and livery tint.** Factions become visible without new art.
