@@ -132,6 +132,8 @@ Each section gives the operating logic in one line, then the quirk and its adjus
 
 *Operating logic: everything is a treat until it starts working.* No faction note yet; see [[Brainstorming/Faction Flavor and Visual Identity#Miss Terri's Sugariffic Snack Company|Faction Flavor]]. The legacy tutorial makes Miss Terri's the protagonist faction opposite Zhestokost, so it is designed as a flag here. See [[#Lore Change Proposals]].
 
+*Marked: Emily's to adopt (release target :40); the demo protagonist is Pirates, so this reads as proposal, not canon for the agents.*
+
 **Quirk.** Miss Terri's ships swarm in close with continuous spray weapons, make one pass, and pull away to let the corrosion work. Damage they leave keeps eating armor after they have gone.
 **Adjustment.** After a Miss Terri's pass, your armor keeps failing; turn the damaged face away, repair before the next fight, and do not wait for them to come back. Thick armor buys time but does not save you, which is why Zhestokost columns hate them.
 
@@ -406,7 +408,7 @@ Who does what to whom, in one line each. *Tolerate:* coexists, trades. *Exploit:
 | Faction | Tolerates | Exploits | Polices | Shadows |
 |---|---|---|---|---|
 | Zhestokost | Sol Dominion, NiteLife, R&D | — | Miss Terri's, DME, Aya, Pirates | — |
-| Miss Terri's | Lucent, Ewan Hart | — | — | — |
+| Miss Terri's (proposal, see note) | Lucent, Ewan Hart | — | — | — |
 | Lucent | Everyone who docks | Every fight, as content | — | — |
 | AU | Lightsail, Ewan Hart | — | — | — |
 | Finch | Cryonix (its supplier) | — | — | Everyone (sells tracks) |
@@ -417,11 +419,16 @@ Who does what to whom, in one line each. *Tolerate:* coexists, trades. *Exploit:
 | Megiddo | Aya, Navigators | — | Its own perimeter | — |
 | Odla | Everyone | — | — | — |
 
+*Marked, Miss Terri's row: Emily's to adopt (release target :40); the demo protagonist is Pirates, so this reads as proposal, not canon for the agents.*
+
 ### Pairs That Matter
 
 Each situation must arise from the levers above. None is scripted.
 
 **Zhestokost and Miss Terri's.** The war the legacy tutorial is built around.
+
+*Marked: Emily's to adopt (release target :40); the demo protagonist is Pirates, so this reads as proposal, not canon for the agents.*
+
 1. *Corrosion against slabs.* A Zhestokost column meets a Miss Terri's swarm in a border zone. The swarm makes its pass and pulls back; the column's armor keeps failing, and the column will not chase past its tender. The player arriving finds a column standing still, bleeding armor, and a swarm waiting at range. Either side will pay for help.
 2. *The tender gap.* Miss Terri's ships do not target tenders, because their spray range is short and they swarm the nearest ship. A player who kills the tender ends the fight in Miss Terri's favor, and the column falls back with nothing to fall back to.
 3. *Deserter in the hold.* A deserter from a Zhestokost dock story is aboard. In Zhestokost space the hail becomes hostile at once (*after reputation*, or by a story-set grudge); in Miss Terri's space you are greeted with candy.
@@ -494,7 +501,7 @@ These bend or extend the faction notes. Each needs the setting owner's ruling:
 4. **Megiddo's fleet moves between runs.** Consistent with the lore's mobile fleets; recorded here because the game places it in a different zone each run.
    **Ruling, Nibu, 2026-11-05: accepted, text only, post-demo.** The reading is recorded in the Megiddo note ([[Worldbuilding/Post-Elysium/Factions/Megiddo|Megiddo]]); nothing is built or demoed for it.
 5. **Lucent's one-at-a-time duel.** A playable reading of Lucent's spectacle, not stated in the lore. Accepted by the operator on 2026-10-03, with an addition: their weakness is their need for glory, so they can be baited into a duel "like a Clanner in Battletech" (see the Lucent weakness above).
-   **Ruling, Nibu, 2026-11-05: accepted, with this line: the duel is spec'd but not played.** It is a design only; no demo copy, trailer text, store text or tutorial hint may claim that Lucent duels, fights one at a time, or can be baited.
+   **Ruling, Nibu, 2026-11-05: accepted, with this line: the duel is spec'd but not played.** It is spec'd, not in the build, until faction-play-2 lands. It is a design only; no demo copy, trailer text, store text or tutorial hint may claim that Lucent duels, fights one at a time, or can be baited.
 
 ## Implementation Order
 
