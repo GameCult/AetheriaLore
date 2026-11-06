@@ -19,16 +19,16 @@ Boss factions are marked ★, demo factions **bold**. "Ships" counts designs and
 | **Finch Cybernetics** | Passive sensors, character upgrades | Cybernetic transhumanism | Socialist technocratic; sleek, organic | 0 products | — |
 | **Aeronautics Unlimited** | All-rounder hulls, mining, dumbfire, explosives | Resource acquisition | Britain; minimalist geometric curves | 8 products | — |
 | **Alakrita** | Light fragile thrusters, fast hulls | Need for speed | Roman; maximalist, aerodynamic creases | 3 products | — |
-| **Adrasteia** | Stealth, negative entropy | The best defense is not to need one | India; sleek, angular, faceted | 1 product | [[Worldbuilding/Post-Elysium/Technology/Running Cold|Running Cold]] |
+| **Adrasteia** | Stealth, negative entropy | The best defense is not to need one | India; sleek, angular, faceted | 1 product | [[Worldbuilding/Post-Elysium/Technology/Running Cold\|Running Cold]] |
 | Ewan Hart Inc | Farming equipment | Money *does* grow on trees | USA Midwest; dieselpunk, tractors | 0 products | — |
 | Rossum & Douglas | AI, automation, compute, guided launchers | Mom's Friendly Robot Company | Germany; trapezoidal, paneled | 2 products | — |
-| **Death Monkey Explosives** | Thermal management, thermal weaponry | Some people just want to watch the world burn. We're here to help! | Australia; menacing with spikes | 5 products | [[Worldbuilding/Post-Elysium/Factions/Death Monkey Explosives|note]], [[Worldbuilding/Post-Elysium/Factions/Death Monkey Explosives Products|products]] |
+| **Death Monkey Explosives** | Thermal management, thermal weaponry | Some people just want to watch the world burn. We're here to help! | Australia; menacing with spikes | 5 products | [[Worldbuilding/Post-Elysium/Factions/Death Monkey Explosives\|note]], [[Worldbuilding/Post-Elysium/Factions/Death Monkey Explosives Products\|products]] |
 | **Miss Terri's Sugariffic Snack Company** | Corrosive weapons, stat consumables | Candy for all! Unexpected experimental substances for some! | Melting pot; kawaii future bass | 1 product | — |
 | Aya Collective | Self-repair, life support | Afro-futurism | West Africa, Akan language group, Afrihili | not in catalog | — |
 | Corriedales | Varied weapons | Family-friendly warfare | Lebanese; kids' toys, bubbly | not in catalog | — |
 | Odla Framgång | Knockoffs and pseudo-spiritual woo | Multi-level affiliate marketing | Sweden; retrofuturism, populuxe | not in catalog | — |
 | Pirates (name rolled per run) | Cobbled-together stolen technology | *P I R A T E S* | Emojis; junkyard, improvised | not in catalog | — |
-| Megiddo | Defensive technology | *Space Zionists* | Hebrew; choral | not in catalog | [[Worldbuilding/Post-Elysium/Factions/Megiddo|note]] |
+| Megiddo | Defensive technology | *Space Zionists* | Hebrew; choral | not in catalog | [[Worldbuilding/Post-Elysium/Factions/Megiddo\|note]] |
 
 Each corporation also carries a musical genre in the source table (death metal for Zhestokost, drum and bass for Alakrita, noir jazz for Adrasteia, bluegrass for Ewan Hart, muzak for Rossum & Douglas, and so on). Useful as a tone key when writing copy for one.
 
