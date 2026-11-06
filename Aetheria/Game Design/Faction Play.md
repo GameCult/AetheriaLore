@@ -132,6 +132,8 @@ Each section gives the operating logic in one line, then the quirk and its adjus
 
 *Operating logic: everything is a treat until it starts working.* No faction note yet; see [[Brainstorming/Faction Flavor and Visual Identity#Miss Terri's Sugariffic Snack Company|Faction Flavor]]. The legacy tutorial makes Miss Terri's the protagonist faction opposite Zhestokost, so it is designed as a flag here. See [[#Lore Change Proposals]].
 
+*Marked: Emily's to adopt (release target :40); the demo protagonist is Pirates, so this reads as proposal, not canon for the agents.*
+
 **Quirk.** Miss Terri's ships swarm in close with continuous spray weapons, make one pass, and pull away to let the corrosion work. Damage they leave keeps eating armor after they have gone.
 **Adjustment.** After a Miss Terri's pass, your armor keeps failing; turn the damaged face away, repair before the next fight, and do not wait for them to come back. Thick armor buys time but does not save you, which is why Zhestokost columns hate them.
 
@@ -147,7 +149,7 @@ Each section gives the operating logic in one line, then the quirk and its adjus
 
 **Quirk.** Lucent ships announce themselves, light you up with active sensors, and fight one at a time: one headliner engages while the others hold position and watch. The headliner opens with a heavy laser burst and then must open its radiators, which leaves it bright, hot, and weak for several seconds. A headliner that is losing breaks off early, and the next one steps in.
 **Adjustment.** Survive the opening burst (armor facing, break line of sight, or bait it with something else), then punish the radiator window. The watching ships are sitting targets for anyone with missiles. Do not try to sneak through Lucent space: their pings reveal everything nearby.
-**Weakness: the need for glory.** Lucent can be baited into a duel, the way a Clan warrior in BattleTech honours *zellbrigen*. A player who closes on a Lucent group alone, without firing on the holding ships, is answered by a single headliner, and the rest hold however that duel goes. This is the lever that splits a Lucent pack: challenge, win one fight at a time, and leave before the next headliner steps in. Break the duel's form (fire on a holding ship, bring a wingman, or let a third party join) and the form is gone: every holding ship engages at once. So the player has two moves: honour the duel and pick the pack apart, or stage someone else's interference so that the pack turns on that interloper. [rule: pack, plus a duel-broken flag]
+**Weakness: the need for glory.** *Spec'd, not played: nothing in the build does this yet, so no demo copy may claim it ([[#Lore Change Proposals]], item 5).* Lucent can be baited into a duel, the way a Clan warrior in BattleTech honours *zellbrigen*. A player who closes on a Lucent group alone, without firing on the holding ships, is answered by a single headliner, and the rest hold however that duel goes. This is the lever that splits a Lucent pack: challenge, win one fight at a time, and leave before the next headliner steps in. Break the duel's form (fire on a holding ship, bring a wingman, or let a third party join) and the form is gone: every holding ship engages at once. So the player has two moves: honour the duel and pick the pack apart, or stage someone else's interference so that the pack turns on that interloper. [rule: pack, plus a duel-broken flag]
 
 - **Behavior.** `engage_on` detection. `grace` short with a sponsor bark. `pack` one. `break_off_hull` moderate (protect the brand). Holding ships run a hold-position state at range. Active pings on a regular cadence. [state: follow as hold] [rule: pack] [data]
 - **Loadout.** Lucent lasers with large capacitors (NiteLife allegiance), the EyesOnME active sensor, the OK Disperser heat pump, Alakrita thrusters on premium hulls, Corriedales weapons on cheap hulls. The burst-then-radiate rhythm comes from capacitor size and heat, not a special mechanic. [data, content]
@@ -406,7 +408,7 @@ Who does what to whom, in one line each. *Tolerate:* coexists, trades. *Exploit:
 | Faction | Tolerates | Exploits | Polices | Shadows |
 |---|---|---|---|---|
 | Zhestokost | Sol Dominion, NiteLife, R&D | — | Miss Terri's, DME, Aya, Pirates | — |
-| Miss Terri's | Lucent, Ewan Hart | — | — | — |
+| Miss Terri's (proposal, see note) | Lucent, Ewan Hart | — | — | — |
 | Lucent | Everyone who docks | Every fight, as content | — | — |
 | AU | Lightsail, Ewan Hart | — | — | — |
 | Finch | Cryonix (its supplier) | — | — | Everyone (sells tracks) |
@@ -417,11 +419,16 @@ Who does what to whom, in one line each. *Tolerate:* coexists, trades. *Exploit:
 | Megiddo | Aya, Navigators | — | Its own perimeter | — |
 | Odla | Everyone | — | — | — |
 
+*Marked, Miss Terri's row: Emily's to adopt (release target :40); the demo protagonist is Pirates, so this reads as proposal, not canon for the agents.*
+
 ### Pairs That Matter
 
 Each situation must arise from the levers above. None is scripted.
 
 **Zhestokost and Miss Terri's.** The war the legacy tutorial is built around.
+
+*Marked: Emily's to adopt (release target :40); the demo protagonist is Pirates, so this reads as proposal, not canon for the agents.*
+
 1. *Corrosion against slabs.* A Zhestokost column meets a Miss Terri's swarm in a border zone. The swarm makes its pass and pulls back; the column's armor keeps failing, and the column will not chase past its tender. The player arriving finds a column standing still, bleeding armor, and a swarm waiting at range. Either side will pay for help.
 2. *The tender gap.* Miss Terri's ships do not target tenders, because their spray range is short and they swarm the nearest ship. A player who kills the tender ends the fight in Miss Terri's favor, and the column falls back with nothing to fall back to.
 3. *Deserter in the hold.* A deserter from a Zhestokost dock story is aboard. In Zhestokost space the hail becomes hostile at once (*after reputation*, or by a story-set grudge); in Miss Terri's space you are greeted with candy.
@@ -488,16 +495,21 @@ Quirks considered and cut, because the player would not do anything differently:
 These bend or extend the faction notes. Each needs the setting owner's ruling:
 
 1. **Miss Terri's as a territorial faction at the strange edge of the map.** The vault has no Miss Terri's note and no territory for it. The legacy game makes it the protagonist faction, and the 2021 design discussion placed it furthest into pseudospace ("colonizing Wonderland"). Proposal: a Miss Terri's note establishing it as a settler power at the edge of stable space.
+   **Ruling, Nibu, 2026-11-05: cut from the agents' side.** The agents do not write the Miss Terri's settler-power note and propose no territory for it; whether Miss Terri's becomes a settler power is left to Emily. The Miss Terri's flag entry above stays a design sketch on the legacy game's own account of the faction, not a lore claim.
 2. **Finch sells tracks.** The lore gives Finch passive sensing and the Quiet Sense hunter, not a trade in other people's positions. Proposal: Finch sensor operators sell track data as a service, consistent with its pattern of turning a capability into a continuing dependency.
+   **Ruling, Nibu, 2026-11-06 (#swarm): deferred.** Out of the demo: Finch is not in the demo cast (`DemoTerminus.cs:10-17`). Sharing inside a faction already exists, because `PilotView` is the union of one side's sensors (`Flight.cs:12-13`). Selling tracks across sides would need `Faction.Relations` (a reserved key, `Corporations.cs:59`; TODO at `Entity.cs:1303`) and a played Finch. The mechanism names this note used for it, `WatchForGrudge` and `share_track`, do not exist in the code, and `Faction.Personality` has no readers. The lore does not forbid the bend; whether it is canon is the setting owner's call. No mechanic is claimed, and the Finch entry's behavior text above stays a proposal.
 3. **Minor powers hold company space in game.** NiteLife, Lightsail, Alakrita, R&D, Ewan Hart, and DME own zones in the legacy game, while the lore withholds Mega status from them. Proposal: in-game territory for a minor power means company settlements under someone else's wider order, shown through low security and few warships. This keeps the Mega distinction intact.
 4. **Megiddo's fleet moves between runs.** Consistent with the lore's mobile fleets; recorded here because the game places it in a different zone each run.
+   **Ruling, Nibu, 2026-11-05: accepted, text only, post-demo.** The reading is recorded in the Megiddo note ([[Worldbuilding/Post-Elysium/Factions/Megiddo|Megiddo]]); nothing is built or demoed for it.
+   Where it would attach: the Megiddo faction record that `MinorPowerFactionsCommand.cs:25-39` authors (GameCult/Aetheria, AetherDb tooling, read by Nibu at master a4be037a4). The move is still text only and post-demo; no mechanic is claimed.
 5. **Lucent's one-at-a-time duel.** A playable reading of Lucent's spectacle, not stated in the lore. Accepted by the operator on 2026-10-03, with an addition: their weakness is their need for glory, so they can be baited into a duel "like a Clanner in Battletech" (see the Lucent weakness above).
+   **Ruling, Nibu, 2026-11-05: accepted, with this line: the duel is spec'd but not played.** It is spec'd, not in the build, until faction-play-2 lands. It is a design only; no demo copy, trailer text, store text or tutorial hint may claim that Lucent duels, fights one at a time, or can be baited.
 
 ## Implementation Order
 
 Ordered by how much distinct play each step unlocks, using only the levers above:
 
-1. **Read `Faction.Personality` in `Zone.CreateAgent`** and move `AgentRangeExponent` and `AgentMinHitProbability` onto it. This alone makes R&D, Zhestokost, and Cryonix fight at different ranges and with different fire discipline. [data, small rule]
+1. ~~**Read `Faction.Personality` in `Zone.CreateAgent`** and move `AgentRangeExponent` and `AgentMinHitProbability` onto it.~~ **Superseded, not pending.** Range and fire discipline now live in `FactionDoctrine` and `RoleDoctrine` (`Doctrine.cs:28-74`), reached through `Faction.Doctrine` (`Corporations.cs:62-63`) and applied in `Zone.cs:318-326`. `Faction.Personality` (`Corporations.cs:28-29`) has no readers; it is not the live path. [code references as of the 2026-11-05 check]
 2. **The four tutorial states** (follow, drift cold, flee, sweep), with the break-off and leash transitions. These carry Zhestokost's tender, AU's haulers, Lightsail, Alakrita, Finch, Cryonix, and Adrasteia. They are shared with the tutorial work, so they are bought once.
 3. **Hail barks through `Entity.SetMessage`** with `grace`. Every faction gets a voice at first contact.
 4. **Earned HUD identity and livery tint.** Factions become visible without new art.

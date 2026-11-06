@@ -60,6 +60,10 @@ Outsiders call the Vaults corpse worlds or freezer crypts. Megiddo records them 
 
 Megiddo consists of a handful of mobile fleets, each carrying a Vault through its migrations. A Vault is spherical, enclosing the greatest possible volume within the least armored surface. Its armor is a final precaution. Its principal defense is that almost nobody knows where it is.
 
+The fleets do not hold fixed stations. A fleet seen in one region need not be found there again, so a setting that places Megiddo in a given zone describes where it was met, not where it lives. A game run may put a fleet in a different zone each time; that is text only for now, recorded as a post-demo reading in [[Game Design/Faction Play#Lore Change Proposals|Faction Play]] (ruling by Nibu, 2026-11-05), and nothing in the build moves a fleet yet.
+
+If the per-run fleet move is ever built, it attaches to the Megiddo faction record that `MinorPowerFactionsCommand.cs:25-39` authors (GameCult/Aetheria, AetherDb tooling, read at master a4be037a4). The move is still text only and post-demo; no mechanic is claimed.
+
 The fleet does not visibly escort its Vault. Industry, habitation, decoys, tenders, and defensive vessels spread across an enormous moving volume. Somewhere among them travels one cold, deliberately unremarkable object. Most of the fleet's own maps omit it, along with every other map that could usefully direct an attacker to it.
 
 Keeping it cold requires contact with the outside, but that contact is designed to conceal its origin. Massively redundant cryogenic machinery transfers accumulated heat through closed coolant circuits into exchange masses. A compartmentalized ferry chain carries those masses among vessels and remote heat-rejection sites. Each participant knows too little to reconstruct the route from a radiator back to the Vault. Cold masses return through a different chain.
