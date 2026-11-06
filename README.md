@@ -15,6 +15,7 @@ Writers do not need custody of the whole universe. Shared notes own their stated
 ## Status
 
 - **Live:** the vault is the source of [aetheria.gamecult.org](https://aetheria.gamecult.org), built and deployed by `.github/workflows/deploy-quartz.yml` through the shared engine in `GameCult-Quartz`; `scripts/quartz/quartz.ps1` runs it locally.
+- **Known limitation:** Quartz mishandles `\|` inside table wikilinks (it leaves a literal backslash on the target), so tables here write `[[Target|alias]]`; Obsidian may split those cells until the engine is fixed in `GameCult-Quartz`.
 - **Not canon:** `Brainstorming/` and `Inspiration/` branches are excluded from publication. They are working material, and notes in them become setting only when a finished story or an owner note adopts them.
 
 ## Repository Map
