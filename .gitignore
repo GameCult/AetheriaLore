@@ -32,3 +32,4 @@ Thumbs.db
 /quartz-site/node_modules/
 /quartz-site/public/
 /quartz-site/*.log
+__pycache__/
