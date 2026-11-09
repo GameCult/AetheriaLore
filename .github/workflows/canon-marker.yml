@@ -5,9 +5,13 @@ on:
 
 jobs:
   check:
-    runs-on: ubuntu-latest
+    # The forge's runner carries the label `docker` (image node:22-bookworm);
+    # `ubuntu-latest` matches no runner there and the job is cancelled.
+    runs-on: docker
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - run: apt-get update -qq && apt-get install -y -qq python3-yaml
+      - run: python3 -m unittest scripts/tests/test_check_canon_marker.py
       - run: python3 scripts/check_canon_marker.py "origin/${{ github.base_ref }}"
