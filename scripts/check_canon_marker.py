@@ -15,17 +15,34 @@ def git(*a):
     return subprocess.run(["git", *a], check=True, capture_output=True, text=True).stdout
 
 
+class UniqueKeyLoader(yaml.SafeLoader):
+    """safe_load that refuses a repeated key: one page, one reading of `kind`."""
+
+    def construct_mapping(self, node, deep=False):
+        seen = set()
+        for key_node, _ in node.value:
+            key = self.construct_object(key_node, deep=True)
+            if key in seen:
+                raise yaml.constructor.ConstructorError(
+                    None, None, f"duplicate key {key!r}", key_node.start_mark)
+            seen.add(key)
+        return super().construct_mapping(node, deep)
+
+
+FRONT = re.compile(r"---\n(?:(.*?)\n)?---[ \t]*(?:\n|\Z)", re.S)
+
+
 def frontmatter(text):
     """Return (kind, rulings or None, error). Frontmatter is real YAML."""
     if not text.startswith("---\n"):
         return None, None, None
-    end = text.find("\n---", 4)
-    if end < 0:
+    m = FRONT.match(text)
+    if not m:
         return None, None, "unterminated frontmatter"
     try:
-        data = yaml.safe_load(text[4:end])
+        data = yaml.load(m.group(1) or "", Loader=UniqueKeyLoader)
     except yaml.YAMLError as e:
-        return None, None, f"frontmatter is not valid YAML ({type(e).__name__})"
+        return None, None, f"frontmatter is not valid YAML ({type(e).__name__}: {e})"
     if data is None:
         data = {}
     if not isinstance(data, dict):
@@ -55,11 +72,20 @@ def changed(base):
 
 
 def main(base):
+    try:
+        rows = changed(base)
+    except subprocess.CalledProcessError as e:
+        print(f"CANON CHECK FAILED: cannot diff against {base!r}: {e.stderr.strip()}")
+        return 1
     failed = False
-    for st, path in changed(base):
+    for st, path in rows:
         if not path.endswith(".md"):
             continue
-        kind, rulings, err = frontmatter(open(path, encoding="utf-8").read())
+        try:
+            with open(path, encoding="utf-8-sig") as f:
+                kind, rulings, err = frontmatter(f.read())
+        except (OSError, UnicodeDecodeError) as e:
+            kind, rulings, err = None, None, f"cannot read page ({type(e).__name__})"
         problem = None
         if err:
             problem = err
@@ -69,7 +95,7 @@ def main(base):
             else:
                 print(f"notice: {path} has no kind (legacy); tag it when you next touch it")
         elif kind == "canon":
-            bad = [r for r in (rulings or []) if not ID.match(r)]
+            bad = [r for r in (rulings or []) if not ID.fullmatch(r)]
             if not rulings or bad:
                 problem = ("kind: canon requires `rulings:` with at least one id of the form "
                            f"<campaign>:ruling:<label>\n  (found: {bad or 'none'})")
