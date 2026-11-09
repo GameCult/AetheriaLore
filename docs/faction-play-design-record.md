@@ -1,6 +1,6 @@
 # Faction Play: Design Record
 
-Design and implementation record split out of [[Faction Play]] on 2026-11-09 on Nibu's ruling (#minds). This is not lore and not canon: it holds the prior-art survey, the lever map against the legacy Unity tree, the list of cut quirks, and the implementation order. The sections below are moved verbatim; `[[#...]]` anchors inside them point at sections of [[Faction Play]].
+Design and implementation record split out of [[Faction Play]] on 2026-11-09 on Nibu's ruling (#minds). This is not lore and not canon: it holds the prior-art survey, the lever map against the legacy Unity tree, the list of cut quirks, and the implementation order. The sections below are moved verbatim, with one exception: the same-page link to the Inter-Faction Relations fork under Relationships now names [[Faction Play]], so it still resolves.
 
 ## Prior Art
 
@@ -56,7 +56,7 @@ Sticky grudges (`Entity.WatchForGrudge`) and stance gating already exist and car
 
 Player standing (`Galaxy.FactionRelationships`) is generated as Neutral and never changes, and reputation is out of the current scope (`docs/three-gates-scope.md`). NPC factions are Neutral to each other (`Entity.GetFactionRelationship`, marked `// TODO: Inter-faction relationships`). The design is built so that **every headline quirk works with relationships frozen**, carried by grudges, security levels, and stance. Quirks that need standing to move are marked *after reputation*.
 
-Cross-faction dynamics need NPC factions to dislike each other. See [[#Fork: Inter-Faction Relations]].
+Cross-faction dynamics need NPC factions to dislike each other. See [[Faction Play#Fork: Inter-Faction Relations]].
 
 ### Loadouts
 

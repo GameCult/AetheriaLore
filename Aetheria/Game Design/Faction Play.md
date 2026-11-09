@@ -38,6 +38,8 @@ The catalog today holds twelve `Faction` records, all corporations with territor
 
 ## Lever Map
 
+The design record defines the work tags used in the faction sections below: **[data]**, **[state]**, **[rule]** and **[content]**.
+
 *Moved verbatim to [[faction-play-design-record#Lever Map|the Faction Play design record]] (`docs/faction-play-design-record.md`), which is a design record and not lore.*
 
 ## The Factions
