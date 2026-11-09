@@ -3,6 +3,10 @@ name: Canon marker
 on:
   pull_request:
 
+concurrency:
+  group: canon-marker-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   check:
     # The forge's runner carries the label `docker` (image node:22-bookworm);
