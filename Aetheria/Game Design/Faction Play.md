@@ -40,7 +40,7 @@ The catalog today holds twelve `Faction` records, all corporations with territor
 
 `docs/faction-play-design-record.md` defines the work tags used in the faction sections below: **[data]**, **[state]**, **[rule]** and **[content]**.
 
-*Moved verbatim to the Lever Map section of `docs/faction-play-design-record.md`, a design record and not lore.*
+*Moved verbatim, except one same-page link, to the Lever Map section of `docs/faction-play-design-record.md`, a design record and not lore.*
 
 ## The Factions
 
@@ -427,6 +427,7 @@ These bend or extend the faction notes. Each needs the setting owner's ruling:
    **Ruling, Nibu, 2026-11-06 (#swarm): deferred.** Out of the demo: Finch is not in the demo cast (`DemoTerminus.cs:10-17`). Sharing inside a faction already exists, because `PilotView` is the union of one side's sensors (`Flight.cs:12-13`). Selling tracks across sides would need `Faction.Relations` (a reserved key, `Corporations.cs:59`; TODO at `Entity.cs:1303`) and a played Finch. The mechanism names this note used for it, `WatchForGrudge` and `share_track`, do not exist in the code, and `Faction.Personality` has no readers. The lore does not forbid the bend; whether it is canon is the setting owner's call. No mechanic is claimed, and the Finch entry's behavior text above stays a proposal.
    Ruling id, as stated by Nibu on 2026-11-09: `aetheria-release:ruling:lore-finch-track-sales-deferred`.
 3. **Minor powers hold company space in game.** NiteLife, Lightsail, Alakrita, R&D, Ewan Hart, and DME own zones in the legacy game, while the lore withholds Mega status from them. Proposal: in-game territory for a minor power means company settlements under someone else's wider order, shown through low security and few warships. This keeps the Mega distinction intact.
+   **Ruling, Nibu, 2026-11-09, as stated: company settlements, not sovereign territory.**
    Ruling id, as stated by Nibu on 2026-11-09: `aetheria-release:ruling:lore-minor-power-territory-is-company-settlement`.
 4. **Megiddo's fleet moves between runs.** Consistent with the lore's mobile fleets; recorded here because the game places it in a different zone each run.
    **Ruling, Nibu, 2026-11-05: accepted, text only, post-demo.** The reading is recorded in the Megiddo note ([[Worldbuilding/Post-Elysium/Factions/Megiddo|Megiddo]]); nothing is built or demoed for it.

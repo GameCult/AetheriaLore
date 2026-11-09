@@ -1,6 +1,6 @@
 # Faction Play: Design Record
 
-Design and implementation record split out of [[Faction Play]] on 2026-11-09 on Nibu's ruling (#minds). This is not lore and not canon: it holds the prior-art survey, the lever map against the legacy Unity tree, the list of cut quirks, and the implementation order. The sections below are moved verbatim, with one exception: the same-page link to the Inter-Faction Relations fork under Relationships now names [[Faction Play]], so it still resolves.
+Design and implementation record split out of [[Faction Play]] on 2026-11-09 on Nibu's ruling (#minds). This is not lore and not canon: it holds the prior-art survey, the lever map against the legacy Unity tree, the list of cut quirks, the implementation order, and the Prior Art sources. The sections below are moved verbatim, with one exception: the same-page link to the Inter-Faction Relations fork under Relationships now names [[Faction Play]], so it still resolves.
 
 ## Prior Art
 
