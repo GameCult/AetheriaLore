@@ -12,7 +12,7 @@ Operator brief, 2026-10-03: "Navigating through the map should involve navigatin
 
 ## The Rule
 
-**One faction, one learnable rule, one forced adjustment.** Every faction below gets a single headline quirk that a player can learn by watching, can state in one sentence, and must change what they do to survive or profit from. Each quirk is tested by naming the adjustment it forces. A quirk that changes nothing the player does is decoration and is cut; the cuts are listed in the Cut List of [[faction-play-design-record#Cut List|the design record]].
+**One faction, one learnable rule, one forced adjustment.** Every faction below gets a single headline quirk that a player can learn by watching, can state in one sentence, and must change what they do to survive or profit from. Each quirk is tested by naming the adjustment it forces. A quirk that changes nothing the player does is decoration and is cut; the cuts are listed in the Cut List of `docs/faction-play-design-record.md`.
 
 Three supporting rules keep the quirks honest:
 
@@ -34,13 +34,13 @@ The catalog today holds twelve `Faction` records, all corporations with territor
 
 ## Prior Art
 
-*Moved verbatim to [[faction-play-design-record#Prior Art|the Faction Play design record]] (`docs/faction-play-design-record.md`), which is a design record and not lore.*
+*Moved verbatim to the Prior Art section of `docs/faction-play-design-record.md`, a design record and not lore.*
 
 ## Lever Map
 
-The design record defines the work tags used in the faction sections below: **[data]**, **[state]**, **[rule]** and **[content]**.
+`docs/faction-play-design-record.md` defines the work tags used in the faction sections below: **[data]**, **[state]**, **[rule]** and **[content]**.
 
-*Moved verbatim to [[faction-play-design-record#Lever Map|the Faction Play design record]] (`docs/faction-play-design-record.md`), which is a design record and not lore.*
+*Moved verbatim to the Lever Map section of `docs/faction-play-design-record.md`, a design record and not lore.*
 
 ## The Factions
 
@@ -291,7 +291,7 @@ Ewan Hart has no combat quirk, and none is invented. Its ships are tractors and 
 
 ### Brands Without Flags
 
-- **Corriedales** is a Lucent family brand, not a flag. Its weapons appear on cheap Lucent hulls. No quirk of its own; see the Cut List in [[faction-play-design-record#Cut List|the design record]].
+- **Corriedales** is a Lucent family brand, not a flag. Its weapons appear on cheap Lucent hulls. No quirk of its own; see the Cut List in `docs/faction-play-design-record.md`.
 - **Orbital Forge** is Aya's supplier through allegiance, with no record proposed.
 
 ## Quirk Test
@@ -412,7 +412,7 @@ A player crossing between two factions' space should see the change before any i
 
 ## Cut List
 
-*Moved verbatim to [[faction-play-design-record#Cut List|the Faction Play design record]] (`docs/faction-play-design-record.md`), which is a design record and not lore.*
+*Moved verbatim to the Cut List section of `docs/faction-play-design-record.md`, a design record and not lore.*
 
 ## Lore Change Proposals
 
@@ -422,24 +422,26 @@ These bend or extend the faction notes. Each needs the setting owner's ruling:
 
 1. **Miss Terri's as a territorial faction at the strange edge of the map.** The vault has no Miss Terri's note and no territory for it. The legacy game makes it the protagonist faction, and the 2021 design discussion placed it furthest into pseudospace ("colonizing Wonderland"). Proposal: a Miss Terri's note establishing it as a settler power at the edge of stable space.
    **Ruling, Nibu, 2026-11-05: cut from the agents' side.** The agents do not write the Miss Terri's settler-power note and propose no territory for it; whether Miss Terri's becomes a settler power is left to Emily. The Miss Terri's flag entry above stays a design sketch on the legacy game's own account of the faction, not a lore claim.
+   Ruling id, as stated by Nibu on 2026-11-09: `aetheria-release:ruling:lore-miss-terris-no-agent-settler-note`.
 2. **Finch sells tracks.** The lore gives Finch passive sensing and the Quiet Sense hunter, not a trade in other people's positions. Proposal: Finch sensor operators sell track data as a service, consistent with its pattern of turning a capability into a continuing dependency.
    **Ruling, Nibu, 2026-11-06 (#swarm): deferred.** Out of the demo: Finch is not in the demo cast (`DemoTerminus.cs:10-17`). Sharing inside a faction already exists, because `PilotView` is the union of one side's sensors (`Flight.cs:12-13`). Selling tracks across sides would need `Faction.Relations` (a reserved key, `Corporations.cs:59`; TODO at `Entity.cs:1303`) and a played Finch. The mechanism names this note used for it, `WatchForGrudge` and `share_track`, do not exist in the code, and `Faction.Personality` has no readers. The lore does not forbid the bend; whether it is canon is the setting owner's call. No mechanic is claimed, and the Finch entry's behavior text above stays a proposal.
+   Ruling id, as stated by Nibu on 2026-11-09: `aetheria-release:ruling:lore-finch-track-sales-deferred`.
 3. **Minor powers hold company space in game.** NiteLife, Lightsail, Alakrita, R&D, Ewan Hart, and DME own zones in the legacy game, while the lore withholds Mega status from them. Proposal: in-game territory for a minor power means company settlements under someone else's wider order, shown through low security and few warships. This keeps the Mega distinction intact.
+   Ruling id, as stated by Nibu on 2026-11-09: `aetheria-release:ruling:lore-minor-power-territory-is-company-settlement`.
 4. **Megiddo's fleet moves between runs.** Consistent with the lore's mobile fleets; recorded here because the game places it in a different zone each run.
    **Ruling, Nibu, 2026-11-05: accepted, text only, post-demo.** The reading is recorded in the Megiddo note ([[Worldbuilding/Post-Elysium/Factions/Megiddo|Megiddo]]); nothing is built or demoed for it.
    Where it would attach: the Megiddo faction record that `MinorPowerFactionsCommand.cs:25-39` authors (GameCult/Aetheria, AetherDb tooling, read by Nibu at master a4be037a4). The move is still text only and post-demo; no mechanic is claimed.
+   Ruling id, as stated by Nibu on 2026-11-09: `aetheria-release:ruling:lore-megiddo-fleet-moves-text-only`.
 5. **Lucent's one-at-a-time duel.** A playable reading of Lucent's spectacle, not stated in the lore. Accepted by the operator on 2026-10-03, with an addition: their weakness is their need for glory, so they can be baited into a duel "like a Clanner in Battletech" (see the Lucent weakness above).
    **Ruling, Nibu, 2026-11-05: accepted, with this line: the duel is spec'd but not played.** It is spec'd, not in the build, until faction-play-2 lands. It is a design only; no demo copy, trailer text, store text or tutorial hint may claim that Lucent duels, fights one at a time, or can be baited.
+   Ruling id, as stated by Nibu on 2026-11-09: `aetheria-release:ruling:lore-lucent-duel-spec-not-played`.
 
 ## Implementation Order
 
-*Moved verbatim to [[faction-play-design-record#Implementation Order|the Faction Play design record]] (`docs/faction-play-design-record.md`), which is a design record and not lore.*
+*Moved verbatim to the Implementation Order section of `docs/faction-play-design-record.md`, a design record and not lore.*
 
 ## Sources
 
-- EVE University Wiki, [NPC damage types](https://wiki.eveuniversity.org/NPC_damage_types) and [Ratting](https://wiki.eveuniversity.org/Ratting).
-- Fractal Softworks, [Blueprints, Doctrine, and Production](https://fractalsoftworks.com/2018/02/12/blueprints-doctrine-and-production/) (not retrievable during this pass; cited from prior knowledge), and the forum thread [Some factions' doctrines seem incompatible with their ship rosters](https://fractalsoftworks.com/forum/index.php?topic=31252.0).
-- Frontier forums, [Powerplay 2.0 update thread](https://forums.frontier.co.uk/threads/elite-dangerous-powerplay-2-0-update.630423/), and the [Powerplay wiki entry](https://elite-dangerous.fandom.com/wiki/Powerplay).
-- GamesRadar, [Shadow of Mordor's Nemesis system](https://www.gamesradar.com/shadow-mordor-nemesis-system-amazing-how-works/).
-- Mount & Blade, Escape Velocity, Freelancer, and RimWorld are cited from play knowledge; their primary sources were not re-fetched for this pass.
+The sources for the Prior Art section moved with it to `docs/faction-play-design-record.md`.
+
 - Archived GameCult design discussion (2021–2022): faction placement by strangeness, Miss Terri's as protagonist and Zhestokost as antagonist, loadouts weighted by allegiance and proximity, Adrasteia's gear reached through narrative.

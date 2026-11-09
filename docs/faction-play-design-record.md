@@ -107,3 +107,13 @@ Ordered by how much distinct play each step unlocks, using only the levers above
 8. **Turn on `StoryProcessor` placement** for dock stories constrained by `FactionOwner`.
 
 Smallest proof: three factions (Zhestokost, Lucent, AU) in one run with steps 1 to 3. The proof passes when a playtester, without being told, can describe how each faction fights and what they did differently to beat it.
+
+## Sources
+
+Sources for the Prior Art section, moved from Faction Play.
+
+- EVE University Wiki, [NPC damage types](https://wiki.eveuniversity.org/NPC_damage_types) and [Ratting](https://wiki.eveuniversity.org/Ratting).
+- Fractal Softworks, [Blueprints, Doctrine, and Production](https://fractalsoftworks.com/2018/02/12/blueprints-doctrine-and-production/) (not retrievable during this pass; cited from prior knowledge), and the forum thread [Some factions' doctrines seem incompatible with their ship rosters](https://fractalsoftworks.com/forum/index.php?topic=31252.0).
+- Frontier forums, [Powerplay 2.0 update thread](https://forums.frontier.co.uk/threads/elite-dangerous-powerplay-2-0-update.630423/), and the [Powerplay wiki entry](https://elite-dangerous.fandom.com/wiki/Powerplay).
+- GamesRadar, [Shadow of Mordor's Nemesis system](https://www.gamesradar.com/shadow-mordor-nemesis-system-amazing-how-works/).
+- Mount & Blade, Escape Velocity, Freelancer, and RimWorld are cited from play knowledge; their primary sources were not re-fetched for this pass.
