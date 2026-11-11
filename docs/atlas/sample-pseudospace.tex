@@ -1,0 +1,46 @@
+% Atlas sample page: Pseudospace. Calligraphic adaptation. PROPOSAL, not canon.
+% Canon text: Aetheria/Worldbuilding/Post-Elysium/Concepts/Pseudospace.md at AetheriaLore 14d827c,
+% verbatim, by Meta Vens (created 3655aeb, last changed 7fd9a41). Proposals: sample-pseudospace.proposal.md.
+% Build: pdflatex sample-pseudospace.tex   (Zapf Chancery via the psnfss `pzc` family)
+\documentclass[11pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=24mm]{geometry}
+\usepackage{xcolor,tikz,microtype,setspace}
+\definecolor{ink}{HTML}{2A2233}
+\definecolor{rubric}{HTML}{8C2F39}
+\definecolor{wash}{HTML}{EFE8D8}
+\newcommand{\hand}{\fontfamily{pzc}\selectfont}
+\pagecolor{wash}\color{ink}
+\pagestyle{empty}\setlength{\parindent}{0pt}\setlength{\parskip}{0.8em}
+% A slot is a framed placeholder: nothing is rendered here.
+\newcommand{\slot}[3]{%
+  \begin{tikzpicture}
+    \draw[rubric,line width=0.5pt] (0,0) rectangle (#1,#2);
+    \draw[rubric,dashed] (0.06,0.06) rectangle (#1-0.06,#2-0.06);
+    \node[text width=#1cm-1cm,align=center,font=\hand\small,text=rubric] at (#1/2,#2/2) {#3};
+  \end{tikzpicture}}
+\begin{document}
+\begin{center}
+{\hand\fontsize{34}{38}\selectfont\color{rubric} Pseudospace}\\[2mm]
+{\hand\large Concepts of the Post-Elysium\ \ $\cdot$\ \ published lore}\\[1mm]
+\begin{tikzpicture}\draw[rubric,line width=0.6pt] (0,0)--(4.5,0);
+\draw[rubric,fill=rubric] (5,0) circle (1.4pt); \draw[rubric,line width=0.6pt] (5.5,0)--(10,0);\end{tikzpicture}
+\end{center}
+\begin{center}\slot{15.5}{5.2}{PLATE (not rendered): the flat island. See proposal file.}\end{center}
+\onehalfspacing
+{\hand\Large\color{rubric} P}{\hand\large seudospace is space whose geometry does not follow the familiar Euclidean rules. In Elysium, it includes alternate ways for space to connect and for space and time to twist. The core worlds describe it as an incursion: a rift opening into an otherwise stable reality. But we brought flat space with us. We are the incursion. This universe is naturally chaotic, and its hyper-euclidean reaches are many times larger than the Flatlanders can conceive.}
+
+{\hand\large Factions that explore only flat space can share a relatively consistent picture of what they will find. Beyond it, that confidence fails. When a corporation is brave enough to commit fully to colonizing and exploiting this territory---Wonderland---absolutely anything is possible.}
+
+{\hand\large Where factions live has become a cultural divide. The Chaos factions inhabit the edges of stable Euclidean space. The Flatlanders build their camps on its few islands of stability, surrounded by an infinite ocean of spatial and temporal chaos. Those islands make Elysium look orderly from within. They give a poor account of the universe around them.}
+
+\vfill
+\begin{tikzpicture}
+\node[draw=rubric,dashed,text width=10.6cm,inner sep=6pt,font=\hand\normalsize,text=rubric]
+{\textbf{PROPOSED, not in the vault.} Scouts who agree on every distance inside flat space find their own measurements stop agreeing past its edge; camps mark their perimeter with a plumb line checked each shift. (Guess; extends the second paragraph and the last. Owner decides.)};
+\end{tikzpicture}\hfill\slot{4}{2.6}{SPOT: the checking line}
+
+\vspace{4mm}
+{\hand\small Source: AetheriaLore \texttt{Aetheria/Worldbuilding/Post-Elysium/Concepts/Pseudospace.md}, commit 14d827c. Text by Meta Vens, unchanged.}
+\end{document}
