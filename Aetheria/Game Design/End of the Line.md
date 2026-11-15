@@ -14,7 +14,7 @@ description: "Historical Terminus scope-cut proposal about a material ship cross
 
 Terminus proposed a rogue-lite action RPG about crossing hostile space to win freedom. It reduced the older persistent-galaxy ambition to a route, a ship, accumulating consequences, and a destination. The useful design question was whether Aetheria's material pressures could hold together without the full strategic simulation.
 
-One later developmental direction makes [[Lore/Nibu|Nibu]] the protagonist and the ship itself. In that version, runs begin in a spatial anomaly formed from her private simulation, and a human survivor becomes her repair partner and interface with ports and factions. The possible story, reset-loop mystery, and ship systems are outlined in Nibu's lore note. The anomaly origin, Parallax conspiracy, and continuity-engine climax remain unadopted; this note's historical status and Terminus's non-canonical destination are unchanged.
+One later direction makes [[Lore/Nibu|Nibu]] the protagonist and the ship itself. Runs begin in a spatial anomaly formed from her private simulation, and a human survivor becomes her repair partner and interface with ports and factions. The story, reset-loop mystery, and ship systems are outlined in Nibu's lore note.
 
 ## Proposed Run
 
