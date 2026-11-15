@@ -1,10 +1,10 @@
 ---
-description: "Design-lineage specification for cockpit-scale travel, ship management, tactical survival, and consequential work."
+description: "Active design owner for cockpit-scale travel, ship management, tactical survival, and consequential work."
 ---
 
 # Action RPG Layer
 
-> **Status: design-lineage specification.** This note defines the embodied-play fantasy and its smallest useful proof. Older planning documents and surviving code may supply evidence, but they do not establish current implementation or release commitments.
+> **Status: active design owner.** Terminus is the current embodied action RPG; its first release is the one-region Terminus (Demo), planned for December 2026. This page describes the wider cockpit-play model. [[End of the Line|Aetheria: Terminus]] owns the current release scope, while code-specific claims are tracked in [[Implementation Signals]].
 
 The action RPG layer is Aetheria at human speed: the ship on screen, the route ahead, the damaged component, the hostile contact, the suspicious contract, and the faction whose logo makes the dockmaster change tone.
 

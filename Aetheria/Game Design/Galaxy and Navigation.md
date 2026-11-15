@@ -5,7 +5,7 @@ description: "Design-lineage specification for route knowledge, travel commitmen
 
 # Galaxy and Navigation
 
-> **Status: design-lineage specification.** A galaxy may be authored, generated, or mixed. This note does not require procedural generation, establish canonical topology, or describe a current release.
+> **Status: active design reference.** Terminus (Demo) uses one generated 64-zone region with links at half density; the exact scenario settings and source evidence are recorded in [[Implementation Signals]]. This note describes the broader route-knowledge and navigation design without establishing canonical galaxy topology.
 
 <figure class="aetheria-media-card is-wide">
   <img src="../media/aetheria/galaxy-map.jpg" alt="Historical Aetheria game prototype map showing named systems, faction territories, and route links." />

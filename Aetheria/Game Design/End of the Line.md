@@ -1,37 +1,42 @@
 ---
-title: End of the Line
-description: "Historical Terminus scope-cut proposal about a material ship crossing hostile space under route, debt, and institutional pressure."
+title: "Aetheria: Terminus"
+description: "Current action-RPG product and first-release demo: a fixed-region crossing through hostile space under tactical and material pressure."
 ---
 
-# End of the Line
+# Aetheria: Terminus
 
-> **Status: historical scope-cut proposal.** `Aetheria: Terminus` is not a current release target or implementation claim. The destination named Terminus, the crossing, and the player's circumstances remain developmental; this note does not establish Terminus as canonical geography.
+> **Status: active product.** Terminus is the current game. Its first release, **Terminus (Demo)**, is planned for December 2026. The demo is a limited first release, not the complete three-region game.
 
 <figure class="aetheria-media-card">
   <img src="../media/aetheria/catastrophe.jpg" alt="Historical Aetheria concept art showing catastrophe-themed imagery." />
   <p>Historical concept art. It is not a canonical depiction or evidence of current production.</p>
 </figure>
 
-Terminus proposed a rogue-lite action RPG about crossing hostile space to win freedom. It reduced the older persistent-galaxy ambition to a route, a ship, accumulating consequences, and a destination. The useful design question was whether Aetheria's material pressures could hold together without the full strategic simulation.
+Terminus is Aetheria's cockpit-scale action RPG. The player flies through hostile space in a material ship, makes tactical choices under heat and damage pressure, and fights through a region toward its exit. The game can grow into a longer crossing without requiring the first release to contain the whole galaxy or every faction system.
 
-One later direction makes [[Lore/Nibu|Nibu]] the protagonist and the ship itself. Runs begin in a spatial anomaly formed from her private simulation, and a human survivor becomes her repair partner and interface with ports and factions. The story, reset-loop mystery, and ship systems are outlined in Nibu's lore note.
+## Terminus (Demo)
 
-## Proposed Run
+The December 2026 demo is planned as one run through one fixed region. It has 64 zones with a thinned route network, four factions, one gate and one boss. The gate is at the hostile faction's home zone, which is also the exit.
 
-A run compressed the crossing into repeated commitments:
+The demo cast is:
 
-- choose a route with incomplete information;
-- prepare a ship around limited capacity and known risk;
-- fight, evade, bargain, salvage, or retreat;
-- carry damage, cargo, debt, and obligations forward;
-- reach a bounded victory or lose the material basis for continuing.
+- **The Pirates:** the player's ally and ostensible employer.
+- **Zhestokost:** the opposing faction; its home zone holds the boss and gate.
+- **Lucent Media:** neutral, bringing spectacle to the region.
+- **Aeronautics Unlimited:** neutral, providing a familiar baseline among the other factions.
 
-The proposal treated ship handling, route choice, combat, trade, repair, and mission consequence as one loop. Corporate power appeared through manufactured equipment, controlled docks, restricted routes, pricing, contracts, and the institutions able to turn survival into debt.
+The current scenario source starts the player at the entrance in a Longinus hull; the release brief names a Pirate-made starter hull, so the starting ship's maker needs resolution (see [[Implementation Signals]]). During the run, players travel between zones, decide when to engage, and manage the ship's weapons, heat, visibility, damage, and remaining equipment. The boss blocks the exit. Destroying it opens the route to the gate; reaching the exit wins the run. Ship destruction ends it in defeat.
 
-## Surviving Design Signal
+Stations make the run about more than combat. The release target includes buying equipment, selling recovered goods, repairing damage, and carrying credits through save and Continue. Loot can become money for repairs or a better fit, while damage and heat make each additional fight a decision about how much ship remains for the crossing.
 
-[[Action RPG Layer]] now owns the smallest cockpit proof. Terminus contributes one historical arrangement of that proof: a journey whose arrival state records what the player spent to get there.
+The demo also aims to make combat readable and visceral: distinctive sounds for weapons and world-changing actions; visible impacts on shields and hull; clear damage, heat, and exposure warnings; and faction behavior that players can learn by watching. These are release goals, not a claim that every item is already complete.
 
-As a development path, Terminus can also exercise the seam described in [[Narrative and Missions]] without summoning the full persistent world. One generated galaxy supplies world conditions; authored Ink scenes declare semantic dependencies; a resolver binds viable actors and places; scenes export occurrence and evidence; named durable owners accept and commit changes to that history. The single-player scale removes global concurrency and repeated-player access disputes while preserving the architecture the larger world would need.
+The current design draws on [[Action RPG Layer]], [[Galaxy and Navigation]], [[Gravity and Locomotion]], [[Heat, Stealth, and Detection]], [[Faction Play]], and [[Economy and Production]]. Those notes describe the broader systems behind the run. The release boundary and detailed demo conditions are maintained against the Aetheria repository's `docs/aetheria-release-target.md` and `DemoTerminus` scenario.
 
-This is a proving path, not an implementation claim. Terminus does not require the full persistent-world sequel, and using its constraints to test shared foundations does not make its destination canonical.
+Nibu's character arc and ship-mind systems are developed separately in [[Lore/Nibu]]. The current demo release plan excludes authored narrative, so her story and related mechanics belong to the wider Terminus design rather than this first release.
+
+## Beyond the Demo
+
+The full Terminus game extends the crossing across three procedurally generated regions. Each region needs enough faction variety to create distinct challenges and stories, with political and economic conditions shaping the run. That larger structure is the product being built toward; the demo proves a smaller, fixed slice of it.
+
+Terminus does not need the full [[Persistent Universe and Reset Loop]] to work. The persistent world remains the long-horizon ambition beyond this single-player release path. Mission and story systems are also broader work: authored narrative is outside the current demo scope.

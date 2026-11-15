@@ -5,7 +5,7 @@ description: "A draft asymmetric co-op defense design: one station commander and
 
 # Aetheria: Starbridge
 
-> **Status:** Developed draft GDD; concept-stage, not shipped or a release roadmap. Existing code supplies design evidence, not proof of the loop described here.
+> **Status:** Developed draft GDD for a separate concept; not shipped and not on Terminus's current release path. Existing code supplies design evidence, not proof of the Starbridge loop described here.
 
 **Aetheria: Starbridge is a 2–5 player asymmetric co-op defense game where one player operates a vulnerable space station from an RTS interface while one to four pilots fly ships in real time, surviving escalating attacks through communication, construction, thermal control, salvage, and repair.**
 

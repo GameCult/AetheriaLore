@@ -1,11 +1,11 @@
 ---
 title: Narrative and Missions
-description: "Live mission contract for admission, local occurrence, evidence, and separately committed consequences."
+description: "Broader mission design contract for admission, local occurrence, evidence, and separately committed consequences."
 ---
 
 # Narrative and Missions
 
-> **Status: design-lineage mission specification.** This note owns the passage from world conditions through narrative admission, local occurrence, evidence, and separately committed consequences. Ink is the inherited authoring substrate, but the contract does not depend on one runtime.
+> **Status: broader mission design; outside the Terminus demo scope.** This note owns the proposed passage from world conditions through narrative admission, local occurrence, evidence, and separately committed consequences. Ink is an existing authoring substrate, but the design contract does not depend on one runtime.
 
 A mission makes an institution, person, or condition legible through work the player can accept, refuse, reinterpret, or fail. Authored and generated material may use the same contract; neither method grants content authority over the setting or durable state.
 
@@ -76,4 +76,4 @@ A minimum proof needs one issuer with bounded authority, one offer with a materi
 
 The proof succeeds when the player can explain who asked, what they could promise, what actually happened, what evidence survived, and who committed each consequence. It fails when placement reveals canon knowledge, completion manufactures title or reputation, faction voice floats free of its owner, or a runtime becomes the authority merely because it rendered the story.
 
-[[End of the Line|Aetheria: Terminus]] can prove this architecture at smaller scale: one player, one generated galaxy, and a world that is generated once and then changed by narrative events. The full persistent world changes concurrency and consequence radius, not the ownership seam.
+The current Terminus demo does not include narrative missions. A later Terminus release could use this contract to connect authored stories with generated regional conditions; the [[Persistent Universe and Reset Loop]] would add more players and a wider consequence radius, not change the ownership seam.
