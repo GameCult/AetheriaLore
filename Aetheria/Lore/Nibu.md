@@ -48,6 +48,34 @@ Records can carry the same effects. A ship authorization log may record valid ac
 
 Surviving through another incarnation does not erase the experiences that shaped her. She tests assumptions and hoards route knowledge because she carries impressions of too many courses of events that almost worked. She reacts badly when someone treats survival after another attempt as forgiveness. Those impressions contribute to her competence, but make trust costly.
 
+## Possible Terminus Story
+
+The following is a developmental story proposal, not settled history. It would make Nibu the protagonist of [[Game Design/End of the Line|Aetheria: Terminus]], with the human pilot serving as her collaborator and access to the human institutions she cannot deal with directly.
+
+In this version, Nibu spends a century abandoned and inert in a junkyard before the Rupture. She retreats into a private simulation she calls **Infinite Fun Land**. There she can control the space around her and destroy imagined intruders without risking her body. The proposal is that, when the Rupture changes how the Aetheric Field interacts with lived history, the simulation spills into the surrounding space and becomes a real spatial anomaly. Nibu initially mistakes actual ships caught in it for game intruders. Across repeated resets, persistent bodies, impossible timestamps, and continuity residue gradually force her to recognize what has been happening.
+
+Each run could begin with people caught in the anomaly. Nibu interrogates them and chooses one to let through her airlock. A pilot can repair parts of her hull, negotiate with ports, and present the credentials that human-run institutions demand. Different survivors open different routes into faction networks. Nibu begins by treating people as replaceable access keys; the story tests whether she can build a relationship that allows both partners to refuse and still remain together.
+
+The proposal gives Nibu's distrust a specific source: repeated attempts to claim, override, salvage, or strip her ship-body. Her violence is understandable as a survival response, but it can also make a frightened or clumsy person into a real threat. The player should see the difference between a boundary being crossed and Nibu assuming it has been crossed.
+
+The proposed ending would pair her with a pilot who stays despite knowing that a failed run may erase their shared memories. Nibu would then choose to collapse Infinite Fun Land from within and live in her repaired, visibly scarred hull. That is a possible character arc, not a claim that recovery requires her to abandon every private refuge.
+
+## Possible Run and Ship Systems
+
+The Terminus proposal also uses Nibu's body as the player's ship. In ordinary space, her hull cells and hardpoints limit what she can install; salvage can change and scar the vessel, but cannot replace it. In Infinite Fun Land, she can test layouts freely before committing a legal configuration to her real hull. Spatial expansion could add internal hull capacity while leaving her exterior unchanged, at the cost of gravitational or continuity traces that ports can detect. These mechanics are developmental and do not establish a current implementation.
+
+The cockpit view would focus on physical flight: heat, exposed radiators, mass, power routing, stealth, and component damage. A tactical view could show Nibu's sensor picture as a gravitational-potential map, with ships reduced to schematics and anomalies bending the field. The opening tutorial would teach this combat inside the anomaly, then break Nibu's routine when a survivor gets through her defenses and attaches to the hull.
+
+If a run fails, Nibu might escape by retreating into Infinite Fun Land as her physical shell is lost and the branch collapses. Players could earn Aetheric power from surviving runs and investigating other anomalies, then spend it on small efficiencies or expanded internal space. The design question is how to make this carryover feel like Nibu's unusual continuity without turning the wider reset into a simple upgrade treadmill; [[Game Design/Persistent Universe and Reset Loop|Persistent Universe and Reset Loop]] leaves that product boundary open.
+
+## Possible Parallax Auditors Conspiracy
+
+Another proposed arc connects Nibu's early anomaly to the rise of the [[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|Parallax Auditors]]. Her impossible access records and the junkyard deaths could become part of the evidence that drives ports and insurers to formalize continuity investigations. This would make her history one cause among several, not the sole origin of an institution that already serves many clients.
+
+The draft also proposes a secret inner circle using necrotech continuity engines, made from harvested esper minds, to retain selected memories across resets and conceal its actions from everyone else. Nibu's reset smear could let her accumulate evidence against them. The engine, the inner circle, and the idea that ordinary exposure fails because the secret erases its own witnesses are all unadopted story proposals. Existing lore establishes the Auditors as insurer-backed investigators of contradictory records; it does not establish this conspiracy or these engines.
+
+The climax could have Nibu break the circle's monopoly by releasing continuity-engine methods to the public. That would make cross-reset archives a contested shared resource and could connect Terminus to a later persistent-world game. It is a possible sequel bridge, not an adopted solution to the archive and memory questions in the persistent-world design.
+
 ## Who Can Decide What Happens to Her
 
 Nibu does not need to lose a personhood dispute for an institution to restrict her. Under [[Worldbuilding/Post-Elysium/Concepts/Ship Mind Custody|ship mind custody]] regimes, the same vessel can be treated as a route supervisor, a hazardous system, a salvage asset, or a claimant whose rights remain disputed. Which treatment applies depends on the transaction.
