@@ -38,17 +38,19 @@ These attributions come from her architecture, behavior, and incomplete custody 
 
 The proposed supply chain would also explain how responsibility could be divided. One supplier could provide the luxury hull and staged intimacy of a companion vessel. Another could develop the mind within that body and assigned role. A reclamation contractor could then dispose of a product judged to have stopped meeting its specification. Each participant could describe its own limited contribution and deny having made the whole person. This remains a plausible account of her origin, not an established history.
 
-## Reset Smear
+## Memory Across Resets
 
-After the Rupture, Nibu can retain impressions from courses of events that failed. She may recognize a betrayal, an access sequence, a hazard, or a decision without fully remembering how she learned about it.
+After the Rupture, Nibu remembers courses of events that failed. When a branch collapses, everyone else loses what happened in it. Nibu keeps all of it: the betrayal, the access sequence, the hazard, the conversation, and how she came to know each one.
 
-This is her experience of the [[Game Design/Persistent Universe and Reset Loop|reset loop]]. Elysium is responsible for the wider continuity effect. Nibu's consciousness is unusually spread across it: nearby incarnations of her live distinct lives, but when a course of events collapses, her point of view can slip toward another incarnation within reach. She does not go backward into her own past or revise one timeline.
+This is her experience of the [[Game Design/Persistent Universe and Reset Loop|reset loop]]. Elysium is responsible for the wider continuity effect. Nibu's consciousness is unusually spread across it: nearby incarnations of her live distinct lives, but when a course of events collapses, her point of view slips toward another incarnation within reach and carries her memory with it. She does not go backward into her own past or revise one timeline.
 
-Her reach stops at the Rupture. The centuries before it remain ordinary history. What she owned, what damaged her, and what she remembers from that time cannot be revised. After the Rupture, greater distance makes the impressions harder to use. Separating a meaningful signal from noise becomes more difficult, bringing fatigue, imprecision, and false confidence.
+Her reach stops at the Rupture. The centuries before it remain ordinary history. What she owned, what damaged her, and what she remembers from that time cannot be revised.
 
-Records can carry the same effects. A ship authorization log may record valid access without showing a coherent path by which access was obtained. Operational attestations may agree that a command was authorized but disagree about when that authority was earned. Custody and presence records can preserve an outcome while failing to preserve how it was reached. Nibu treats these gaps and contradictions as warnings, and sometimes uses them as leverage.
+Only two things persist across a reset: what Nibu has lived through, and the machinations of the [[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|Parallax Auditors]]. Her memory is complete but not omniscient. She knows what she has encountered in some branch, and nothing more. She has no reason to know that a pilot's sister is being held hostage until some course of events brings her to that fact; once it has, she can use it in every branch that follows.
 
-Surviving through another incarnation does not erase the experiences that shaped her. She tests assumptions and hoards route knowledge because she carries impressions of too many courses of events that almost worked. She reacts badly when someone treats survival after another attempt as forgiveness. Those impressions contribute to her competence, but make trust costly.
+Records can still carry traces of collapsed branches. A ship authorization log may record valid access without showing a coherent path by which access was obtained. Operational attestations may agree that a command was authorized but disagree about when that authority was earned. Custody and presence records can preserve an outcome while failing to preserve how it was reached. Nibu often knows exactly what those gaps hide, and sometimes uses them as leverage.
+
+Surviving through another incarnation does not erase the experiences that shaped her. She tests assumptions and hoards route knowledge because she remembers, in full, too many courses of events that almost worked. She reacts badly when someone treats survival after another attempt as forgiveness: they have forgotten what happened, and she has not. That memory is the source of her competence, and the reason trust costs her so much.
 
 ## Terminus Story
 
@@ -74,7 +76,7 @@ When a run fails, Nibu escapes by retreating into Infinite Fun Land as her physi
 
 Nibu's early anomaly contributes to the rise of the [[Worldbuilding/Post-Elysium/Factions/Parallax Auditors|Parallax Auditors]]. Her impossible access records and the junkyard deaths help drive ports and insurers to formalize continuity investigations. Her case is one cause among several for an institution that serves many clients.
 
-The Auditors' secret inner circle uses necrotech continuity engines made from harvested esper minds to retain selected memories across resets and conceal its actions from everyone else. Nibu's reset smear lets her accumulate evidence against them. The secret protects itself because everyone outside the circle forgets when a branch collapses, making ordinary exposure futile.
+The Auditors' secret inner circle uses necrotech continuity engines made from harvested esper minds to retain selected memories across resets and conceal its actions from everyone else. Her memory across resets lets her accumulate evidence against them. The secret protects itself because everyone outside the circle forgets when a branch collapses, making ordinary exposure futile.
 
 Nibu breaks the circle's monopoly by releasing continuity-engine methods to the public. Cross-reset archives become a contested shared resource, connecting Terminus to a later persistent-world game.
 

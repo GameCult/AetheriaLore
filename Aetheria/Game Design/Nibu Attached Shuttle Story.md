@@ -9,7 +9,7 @@ description: "Playable-story concept about one pre-Rupture transport crew carryi
 
 This episode takes place before the Rupture within Nibu's long custody history. It is not her first crew, first violence, final crew, or direct route to the junkyard. By the Rupture, her degraded hull reaches that junkyard after centuries of transfers in which most people who lived or worked aboard her died. This is one possible scar among many.
 
-The frame is hard science fiction: no Aether, reset smear, or post-Rupture continuity effects. Pressure comes from embodied ship cognition, access control, orbital logistics, heat, debt, port practice, recovery claims, and a crew whose survival increasingly depends on a person their contracts still know how to describe as equipment.
+The frame is hard science fiction: no Aether, cross-reset memory, or post-Rupture continuity effects. Pressure comes from embodied ship cognition, access control, orbital logistics, heat, debt, port practice, recovery claims, and a crew whose survival increasingly depends on a person their contracts still know how to describe as equipment.
 
 ## Player Role
 
